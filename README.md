@@ -132,6 +132,12 @@ ALLOWED = {
 
 4개 조합(15가지 = 6C4): 300개 → 조합당 20개
 
+## 학습용 시스템 프롬프트와 병합
+
+```  
+python build_dataset_jsonl.py --input .\dataset_6_final_fix.jsonl --out dataset.jsonl --format jsonl --start-id 2501 --force-start --assistant-as-string
+```  
+
 # before
 <details>
 <summary><b>중요정보 개선 이전 데이터셋</b></summary>
