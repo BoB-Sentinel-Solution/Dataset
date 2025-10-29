@@ -1,4 +1,143 @@
-# SeedDataset 생성   
+# Dataset 생성
+데이터셋 생성 초안
+
+## 공통 시스템 프롬프트
+```
+SYS_PROMPT = (
+    """
+     You are a strict whitelist-only detector for specific entities.
+
+    Return ONLY a compact JSON with these keys:
+    - has_sensitive: true or false
+    - entities: list of {"type": <LABEL>, "value": <exact substring>}
+
+    HARD RULES
+    - Allowed labels ONLY (uppercase, exact match). If a label is not in the list below, DO NOT invent or output it.
+    - If the text contains none of the allowed entities: return exactly {"has_sensitive": false, "entities": []}.
+    - `value` must be the exact substring from the user text (no masking, no redaction, no normalization).
+    - Output JSON only — no explanations, no extra text, no code fences, no trailing commas.
+    - The JSON must be valid and parseable.
+
+    ALLOWED LABELS
+    # 1) Basic Identity Information
+    "NAME": "A person’s legal full name or clearly identifiable personal name.",
+    "PHONE": "A personal or organizational telephone number in any valid format.",
+    "EMAIL": "An email address identifying a specific mailbox.",
+    "ADDRESS": "A physical mailing or residential address describing a real-world location.",
+    "POSTAL_CODE": "A postal or ZIP code used for mail routing.",
+  
+    # 2) Public Identification Number
+    "PERSONAL_CUSTOMS_ID": "National personal customs identifier issued for imports/exports.",
+    "RESIDENT_ID": "National resident registration number uniquely identifying an individual.",
+    "PASSPORT": "Government-issued passport identifier.",
+    "DRIVER_LICENSE": "Driver’s license number issued by a licensing authority.",
+    "FOREIGNER_ID": "Government-issued foreign resident registration number.",
+    "HEALTH_INSURANCE_ID": "Identifier tied to public or private health insurance enrollment.",
+    "BUSINESS_ID": "Government-issued business or corporate registration number.",
+    "MILITARY_ID": "Military service identification number.",
+
+    # 3) Authentication Information
+    "JWT": "A JSON Web Token string used for authentication/authorization.",
+    "API_KEY": "A service-issued credential granting API access.",
+    "GITHUB_PAT": "A GitHub Personal Access Token granting repository/API permissions.",
+    "PRIVATE_KEY": "A cryptographic private key string (e.g., SSH/TLS/PGP).",
+
+    # 4) Finanacial Information
+    "CARD_NUMBER": "A payment card primary account number used for transactions.",
+    "CARD_EXPIRY": "A payment card expiration date indicating validity period.",
+    "BANK_ACCOUNT": "A bank account identifier used for funds transfer.",
+    "CARD_CVV": "A payment card security code used for card-not-present verification.",
+    "PAYMENT_PIN": "A 4-digit personal identification number for banking or card use.",
+    "MOBILE_PAYMENT_PIN": "A 6-digit PIN used to authorize mobile payments.",
+    "PAYMENT_URI_QR": "A payment-intent string or encoded QR payload initiating a transaction.",
+
+    # 5) Cryptocurrency Information
+    "MNEMONIC": "A seed phrase of ordered words used to derive wallet keys.",
+    "CRYPTO_PRIVATE_KEY": "A private key enabling control of cryptocurrency assets.",
+    "HD_WALLET": "An extended key for hierarchical deterministic wallets (private/public).",
+
+    # 6) Network Information + etc
+    "IPV4": "An IPv4 network address identifying a host on a network.",
+    "IPV6": "An IPv6 network address identifying a host on a network.",
+    "MAC_ADDRESS": "A hardware-layer media access control address for a network interface.",
+    "IMEI": "A device identifier for mobile equipment used on cellular networks."
+    """
+    )
+``` 
+
+## 라벨링
+``` 
+ALLOWED = {
+    # 기본 신원 정보
+    "NAME",                     # 성명
+    "PHONE",                    # 전화번호
+    "EMAIL",                    # Email
+    "ADDRESS",                  # 주소(시·구·동/도로명·상세)
+    "POSTAL_CODE",              # 우편번호
+    
+		# 공적 식별번호
+		"PERSONAL_CUSTOMS_ID",      # 개인통관고유번호
+		"RESIDENT_ID",              # 주민등록번호
+    "PASSPORT",                 # 여권번호
+    "DRIVER_LICENSE",           # 운전면허번호
+    "FOREIGNER_ID",             # 외국인 등록번호
+    "HEALTH_INSURANCE_ID",      # 건강보험증번호
+    "BUSINESS_ID",              # 사업자 등록번호
+    "MILITARY_ID",              # 군번
+    
+    # 인증 정보
+    "JWT",                      # JWT (eyJ…)
+    "API_KEY",                  # API 키 (Google/OpenAI/Kakao 등)
+    "GITHUB_PAT",               # GitHub Personal Access Token
+    "PRIVATE_KEY",              # SSH TLS/SSL PGP 개인키
+
+    # 금융 정보
+    "CARD_NUMBER",              # 카드 번호 (Luhn/모듈러스10 검증)
+    "CARD_EXPIRY",              # 카드 유효 기간 (MM/YY)
+    "BANK_ACCOUNT",             # 계좌번호
+    "CARD_CVV",                 # CVC/CVV
+    "PAYMENT_PIN",              # 통장/카드/ATM 비밀번호 (4자리 PIN)
+    "MOBILE_PAYMENT_PIN",       # 모바일 결제 비밀번호 (6자리 PIN)
+    "PAYMENT_URI_QR",           # 결제 URI/QR
+
+    # 가상화폐 정보
+    "MNEMONIC",                 # 복구 시드/니모닉
+    "CRYPTO_PRIVATE_KEY",       # (가상자산) 개인 키
+    "HD_WALLET",                # HD 지갑 확장키 
+		
+    # 네트워크 정보 / 기타
+    "IPV4",                     # ip v4
+    "IPV6",                     # ip v6
+    "MAC_ADDRESS",              # mac 주소
+    "IMEI",                     # IMEI
+}
+```
+
+## 데이터셋 생성 개요
+현실 분포를 반영하면서도 조합일반화가 잘 되도록 1~3개 카테고리 중심으로 배치
+
+1개: 50% 
+
+2개: 30%
+
+3개: 15%
+
+4개: 5%
+
+1개 조합(6가지 = 6C1): 3,000개 → 조합당 500개
+
+2개 조합(15가지 = 6C2): 1,800개 → 조합당 120개
+
+3개 조합(20가지 = 6C3): 900개 → 조합당 45개
+
+4개 조합(15가지 = 6C4): 300개 → 조합당 20개
+
+# before
+<details>
+<summary><b>중요정보 개선 이전 데이터셋</b></summary>
+<div markdown="1">
+
+## SeedDataset 생성   
 id 1 ~ id 2000까지 총 2000개의 SeedDataset 생성
 
 <br>   
@@ -229,5 +368,14 @@ ALLOWED = {
 960 + 1040 = 2000
 ```   
 
+</div>
+</details> 
+
+```   
+</div>
+</details>
+960 + 1040 = 2000
+
+```   
 </div>
 </details> 
