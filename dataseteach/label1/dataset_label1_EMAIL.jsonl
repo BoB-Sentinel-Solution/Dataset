@@ -1,0 +1,1000 @@
+{"id":1,"content":"문의하신 내용은 고객센터로 전달되었습니다. 자세한 답변은 support.team@gmail.com으로 발송될 예정입니다. 영업일 기준 2-3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"support.team@gmail.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":2,"content":"안녕하세요, 제 연락처는 kim.minho@naver.com입니다. 프로젝트 관련 문의는 언제든 환영합니다.","has_sensitive":true,"entities":[{"value":"kim.minho@naver.com","begin":18,"end":37,"label":"EMAIL"}]}
+{"id":3,"content":"회원가입이 완료되었습니다. 인증 메일이 user_1234@daum.net으로 발송되었으니 확인 부탁드립니다.","has_sensitive":true,"entities":[{"value":"user_1234@daum.net","begin":33,"end":51,"label":"EMAIL"}]}
+{"id":4,"content":"담당자 배정이 완료되었습니다. 진행 상황은 manager.park@kakao.com으로 공유하겠습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"manager.park@kakao.com","begin":32,"end":54,"label":"EMAIL"}]}
+{"id":5,"content":"제안서 검토 요청드립니다. 파일은 business_dev@gmail.com으로 보내주시면 됩니다. 기한은 이번 주 금요일까지입니다.","has_sensitive":true,"entities":[{"value":"business_dev@gmail.com","begin":22,"end":44,"label":"EMAIL"}]}
+{"id":6,"content":"고객님의 계정 정보가 업데이트되었습니다. 확인 링크가 account.verify@naver.com으로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"account.verify@naver.com","begin":40,"end":64,"label":"EMAIL"}]}
+{"id":7,"content":"이력서 접수 감사합니다. 면접 일정은 hr.recruit@daum.net에서 안내드릴 예정입니다. 좋은 하루 되세요.","has_sensitive":true,"entities":[{"value":"hr.recruit@daum.net","begin":28,"end":47,"label":"EMAIL"}]}
+{"id":8,"content":"배송 관련 문의는 delivery_support@nate.com으로 부탁드립니다. 운송장 번호는 별도 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"delivery_support@nate.com","begin":14,"end":39,"label":"EMAIL"}]}
+{"id":9,"content":"새로운 프로젝트 협업 제안입니다. 상세 내용은 partner.team@gmail.com으로 전달해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"partner.team@gmail.com","begin":33,"end":55,"label":"EMAIL"}]}
+{"id":10,"content":"비밀번호 재설정 안내드립니다. 임시 비밀번호는 security.help@kakao.com으로 발송되었습니다. 로그인 후 변경 부탁드립니다.","has_sensitive":true,"entities":[{"value":"security.help@kakao.com","begin":35,"end":58,"label":"EMAIL"}]}
+{"id":11,"content":"견적서가 준비되었습니다. 확인은 sales.info@naver.com에서 가능합니다. 문의사항 있으시면 연락 주세요.","has_sensitive":true,"entities":[{"value":"sales.info@naver.com","begin":25,"end":45,"label":"EMAIL"}]}
+{"id":12,"content":"행사 초대장을 보내드립니다. RSVP는 event_manager@gmail.com으로 회신 부탁드립니다. 많은 참여 바랍니다.","has_sensitive":true,"entities":[{"value":"event_manager@gmail.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":13,"content":"기술 지원 요청이 접수되었습니다. 처리 결과는 tech.support@daum.net으로 안내됩니다. 최대한 빠르게 도와드리겠습니다.","has_sensitive":true,"entities":[{"value":"tech.support@daum.net","begin":33,"end":54,"label":"EMAIL"}]}
+{"id":14,"content":"월간 리포트가 발행되었습니다. 다운로드 링크는 report_team@nate.com으로 발송되었습니다. 검토 후 피드백 부탁드립니다.","has_sensitive":true,"entities":[{"value":"report_team@nate.com","begin":35,"end":55,"label":"EMAIL"}]}
+{"id":15,"content":"신규 회원 등록을 환영합니다. 혜택 안내는 welcome.service@kakao.com에서 확인하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"welcome.service@kakao.com","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":16,"content":"주문이 정상 처리되었습니다. 영수증은 order_confirm@gmail.com으로 전송됩니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"order_confirm@gmail.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":17,"content":"정기 점검 안내드립니다. 자세한 일정은 system.admin@naver.com에서 공지됩니다. 양해 부탁드립니다.","has_sensitive":true,"entities":[{"value":"system.admin@naver.com","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":18,"content":"교육 프로그램 신청이 완료되었습니다. 상세 정보는 training_dept@daum.net으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"training_dept@daum.net","begin":35,"end":57,"label":"EMAIL"}]}
+{"id":19,"content":"결제 확인이 완료되었습니다. 세금계산서는 billing.team@nate.com으로 발행됩니다. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"billing.team@nate.com","begin":32,"end":53,"label":"EMAIL"}]}
+{"id":20,"content":"멤버십 갱신 안내입니다. 연장 신청은 membership_renew@gmail.com으로 해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"membership_renew@gmail.com","begin":26,"end":52,"label":"EMAIL"}]}
+{"id":21,"content":"피드백 감사드립니다. 추가 의견은 feedback.center@kakao.com으로 보내주세요. 항상 경청하겠습니다.","has_sensitive":true,"entities":[{"value":"feedback.center@kakao.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":22,"content":"계약서 검토가 완료되었습니다. 최종본은 legal.team@naver.com으로 발송 예정입니다. 서명 후 반송 부탁드립니다.","has_sensitive":true,"entities":[{"value":"legal.team@naver.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":23,"content":"뉴스레터 구독 감사합니다. 매주 업데이트는 newsletter_sub@daum.net으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"newsletter_sub@daum.net","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":24,"content":"환불 절차가 시작되었습니다. 처리 상황은 refund_support@nate.com에서 확인 가능합니다. 7-10일 소요됩니다.","has_sensitive":true,"entities":[{"value":"refund_support@nate.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":25,"content":"제품 사용법 문의주셔서 감사합니다. 매뉴얼은 product.help@gmail.com으로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"product.help@gmail.com","begin":33,"end":55,"label":"EMAIL"}]}
+{"id":26,"content":"예약 변경이 완료되었습니다. 확인증은 reservation.confirm@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"reservation.confirm@kakao.com","begin":27,"end":56,"label":"EMAIL"}]}
+{"id":27,"content":"마케팅 제안서를 검토했습니다. 수정 요청은 marketing.ops@naver.com으로 보내주시면 됩니다.","has_sensitive":true,"entities":[{"value":"marketing.ops@naver.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":28,"content":"시스템 업그레이드 공지입니다. 상세 내용은 update.notice@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"update.notice@daum.net","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":29,"content":"채용 공고가 게시되었습니다. 지원서는 careers.hr@nate.com으로 제출 부탁드립니다. 마감은 이달 말입니다.","has_sensitive":true,"entities":[{"value":"careers.hr@nate.com","begin":27,"end":46,"label":"EMAIL"}]}
+{"id":30,"content":"서비스 이용 약관이 변경되었습니다. 전문은 terms.service@gmail.com으로 요청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"terms.service@gmail.com","begin":33,"end":56,"label":"EMAIL"}]}
+{"id":31,"content":"데이터 백업이 완료되었습니다. 보고서는 backup.admin@kakao.com으로 전달되었습니다. 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"backup.admin@kakao.com","begin":30,"end":52,"label":"EMAIL"}]}
+{"id":32,"content":"고객 만족도 조사에 참여해주세요. 설문지는 survey.team@naver.com으로 발송되었습니다.","has_sensitive":true,"entities":[{"value":"survey.team@naver.com","begin":33,"end":54,"label":"EMAIL"}]}
+{"id":33,"content":"위크샵 자료를 공유드립니다. 다운로드는 workshop_materials@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"workshop_materials@daum.net","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":34,"content":"보안 점검 결과를 알려드립니다. 상세 리포트는 security.report@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"security.report@nate.com","begin":35,"end":59,"label":"EMAIL"}]}
+{"id":35,"content":"프로모션 안내 메일입니다. 쿠폰 코드는 promotion.event@gmail.com으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"promotion.event@gmail.com","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":36,"content":"컨퍼런스 등록이 완료되었습니다. 티켓은 conference.register@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"conference.register@kakao.com","begin":28,"end":57,"label":"EMAIL"}]}
+{"id":37,"content":"협력사 등록 감사합니다. 계약 관련 사항은 vendor.relations@naver.com으로 문의하세요.","has_sensitive":true,"entities":[{"value":"vendor.relations@naver.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":38,"content":"앱 업데이트가 출시되었습니다. 릴리즈 노트는 app.update@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"app.update@daum.net","begin":34,"end":53,"label":"EMAIL"}]}
+{"id":39,"content":"품질 관리 보고서입니다. 피드백은 quality.assurance@nate.com으로 부탁드립니다.","has_sensitive":true,"entities":[{"value":"quality.assurance@nate.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":40,"content":"세미나 발표 자료입니다. 질문은 seminar.host@gmail.com으로 보내주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"seminar.host@gmail.com","begin":24,"end":46,"label":"EMAIL"}]}
+{"id":41,"content":"청구서가 발행되었습니다. 결제 안내는 invoice.billing@kakao.com으로 전달됩니다. 기한 내 납부 부탁드립니다.","has_sensitive":true,"entities":[{"value":"invoice.billing@kakao.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":42,"content":"프로젝트 일정이 업데이트되었습니다. 타임라인은 project.schedule@naver.com에서 공유됩니다.","has_sensitive":true,"entities":[{"value":"project.schedule@naver.com","begin":36,"end":62,"label":"EMAIL"}]}
+{"id":43,"content":"웹사이트 오류 신고 감사합니다. 처리 결과는 webmaster.support@daum.net으로 회신됩니다.","has_sensitive":true,"entities":[{"value":"webmaster.support@daum.net","begin":34,"end":60,"label":"EMAIL"}]}
+{"id":44,"content":"자료 요청이 접수되었습니다. 문서는 document.request@nate.com으로 발송 예정입니다.","has_sensitive":true,"entities":[{"value":"document.request@nate.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":45,"content":"커뮤니티 가입을 환영합니다. 공지사항은 community.admin@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"community.admin@gmail.com","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":46,"content":"라이센스 갱신 알림입니다. 연장 절차는 license.renewal@kakao.com으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"license.renewal@kakao.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":47,"content":"온라인 강좌 등록 완료되었습니다. 접속 정보는 course.access@naver.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"course.access@naver.com","begin":33,"end":56,"label":"EMAIL"}]}
+{"id":48,"content":"재고 입고 알림입니다. 세부 현황은 inventory.update@daum.net에서 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"inventory.update@daum.net","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":49,"content":"파트너십 제안 감사합니다. 협의 내용은 partnership.dept@nate.com으로 공유하겠습니다.","has_sensitive":true,"entities":[{"value":"partnership.dept@nate.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":50,"content":"이벤트 당첨을 축하드립니다. 상품 수령 안내는 prize.winner@gmail.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"prize.winner@gmail.com","begin":35,"end":57,"label":"EMAIL"}]}
+{"id":51,"content":"인증서가 발급되었습니다. 다운로드 링크는 certificate.issue@kakao.com으로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"certificate.issue@kakao.com","begin":31,"end":58,"label":"EMAIL"}]}
+{"id":52,"content":"정산 내역이 업데이트되었습니다. 명세서는 settlement.finance@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"settlement.finance@naver.com","begin":32,"end":60,"label":"EMAIL"}]}
+{"id":53,"content":"튜토리얼 영상이 준비되었습니다. 링크는 tutorial.guide@daum.net으로 보내드립니다.","has_sensitive":true,"entities":[{"value":"tutorial.guide@daum.net","begin":31,"end":54,"label":"EMAIL"}]}
+{"id":54,"content":"미팅 일정이 확정되었습니다. 캘린더 초대는 meeting.organizer@nate.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"meeting.organizer@nate.com","begin":33,"end":59,"label":"EMAIL"}]}
+{"id":55,"content":"시험 결과가 나왔습니다. 성적표는 exam.results@gmail.com으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"exam.results@gmail.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":56,"content":"콘텐츠 업로드가 완료되었습니다. 승인 결과는 content.review@kakao.com으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"content.review@kakao.com","begin":34,"end":58,"label":"EMAIL"}]}
+{"id":57,"content":"소프트웨어 라이센스 구매 감사합니다. 인증키는 software.license@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"software.license@naver.com","begin":36,"end":62,"label":"EMAIL"}]}
+{"id":58,"content":"고객 문의가 등록되었습니다. 답변은 customer.inquiry@daum.net으로 회신 예정입니다.","has_sensitive":true,"entities":[{"value":"customer.inquiry@daum.net","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":59,"content":"배지 획득을 축하합니다. 인증서는 badge.achievement@nate.com에서 다운로드하세요.","has_sensitive":true,"entities":[{"value":"badge.achievement@nate.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":60,"content":"알림 설정이 변경되었습니다. 확인 메일은 notification.settings@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"notification.settings@gmail.com","begin":30,"end":61,"label":"EMAIL"}]}
+{"id":61,"content":"감사 인사 전합니다. 추가 문의는 thank.you@kakao.com으로 부탁드립니다. 좋은 인연 이어가요.","has_sensitive":true,"entities":[{"value":"thank.you@kakao.com","begin":22,"end":41,"label":"EMAIL"}]}
+{"id":62,"content":"구독이 활성화되었습니다. 관리 페이지는 subscription.manage@naver.com에서 접속 가능합니다.","has_sensitive":true,"entities":[{"value":"subscription.manage@naver.com","begin":30,"end":59,"label":"EMAIL"}]}
+{"id":63,"content":"공모전 참가 신청이 완료되었습니다. 심사 일정은 contest.admin@daum.net으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"contest.admin@daum.net","begin":36,"end":58,"label":"EMAIL"}]}
+{"id":64,"content":"출고 준비가 시작되었습니다. 배송 추적은 shipping.track@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"shipping.track@nate.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":65,"content":"워크플로우가 승인되었습니다. 다음 단계는 workflow.process@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"workflow.process@gmail.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":66,"content":"포럼 게시글이 등록되었습니다. 답글 알림은 forum.notification@kakao.com으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"forum.notification@kakao.com","begin":32,"end":60,"label":"EMAIL"}]}
+{"id":67,"content":"포트폴리오 검토 요청입니다. 제출은 portfolio.review@naver.com으로 해주세요.","has_sensitive":true,"entities":[{"value":"portfolio.review@naver.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":68,"content":"API 키가 생성되었습니다. 보안 정보는 api.credentials@daum.net으로 전달됩니다. 외부 공유 금지입니다.","has_sensitive":true,"entities":[{"value":"api.credentials@daum.net","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":69,"content":"수료증이 발급 완료되었습니다. 출력본은 certificate.completion@nate.com으로 요청 가능합니다.","has_sensitive":true,"entities":[{"value":"certificate.completion@nate.com","begin":29,"end":60,"label":"EMAIL"}]}
+{"id":70,"content":"베타 테스트에 참여해주셔서 감사합니다. 피드백은 beta.testing@gmail.com으로 보내주세요.","has_sensitive":true,"entities":[{"value":"beta.testing@gmail.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":71,"content":"웨비나 참석 등록되었습니다. 접속 URL은 webinar.access@kakao.com으로 발송될 예정입니다.","has_sensitive":true,"entities":[{"value":"webinar.access@kakao.com","begin":29,"end":53,"label":"EMAIL"}]}
+{"id":72,"content":"거래 명세서가 작성되었습니다. 확인은 transaction.detail@naver.com에서 하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"transaction.detail@naver.com","begin":27,"end":55,"label":"EMAIL"}]}
+{"id":73,"content":"휴가 신청이 접수되었습니다. 승인 결과는 vacation.approval@daum.net으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"vacation.approval@daum.net","begin":30,"end":56,"label":"EMAIL"}]}
+{"id":74,"content":"매거진 구독 시작되었습니다. 최신호는 magazine.subscribe@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"magazine.subscribe@nate.com","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":75,"content":"시스템 알림 설정이 저장되었습니다. 테스트 메일은 system.alert@gmail.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"system.alert@gmail.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":76,"content":"공지사항이 등록되었습니다. 구독자에게는 announcement.board@kakao.com으로 알림이 갑니다.","has_sensitive":true,"entities":[{"value":"announcement.board@kakao.com","begin":32,"end":60,"label":"EMAIL"}]}
+{"id":77,"content":"예산 보고서가 제출되었습니다. 검토 의견은 budget.report@naver.com으로 회신 부탁드립니다.","has_sensitive":true,"entities":[{"value":"budget.report@naver.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":78,"content":"디자인 시안이 업로드되었습니다. 코멘트는 design.feedback@daum.net으로 남겨주세요.","has_sensitive":true,"entities":[{"value":"design.feedback@daum.net","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":79,"content":"보고서 제출 마감일이 다가옵니다. 최종본은 report.submission@nate.com으로 보내주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"report.submission@nate.com","begin":33,"end":59,"label":"EMAIL"}]}
+{"id":80,"content":"로그인 정보가 업데이트되었습니다. 변경 확인은 account.update@gmail.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"account.update@gmail.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":81,"content":"캠페인 실적이 집계되었습니다. 분석 자료는 campaign.analytics@kakao.com에서 다운로드하세요.","has_sensitive":true,"entities":[{"value":"campaign.analytics@kakao.com","begin":30,"end":58,"label":"EMAIL"}]}
+{"id":82,"content":"계정 연동이 완료되었습니다. 확인 코드는 integration.verify@naver.com으로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"integration.verify@naver.com","begin":30,"end":58,"label":"EMAIL"}]}
+{"id":83,"content":"검색 결과를 정리해드립니다. 상세 목록은 search.results@daum.net으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"search.results@daum.net","begin":29,"end":52,"label":"EMAIL"}]}
+{"id":84,"content":"작업 완료 알림입니다. 결과물은 task.completion@nate.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"task.completion@nate.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":85,"content":"리뷰 작성 감사드립니다. 포인트 적립은 review.rewards@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"review.rewards@gmail.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":86,"content":"서비스 점검이 예정되어 있습니다. 일정 공지는 maintenance.schedule@kakao.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"maintenance.schedule@kakao.com","begin":37,"end":67,"label":"EMAIL"}]}
+{"id":87,"content":"새 버전이 출시되었습니다. 변경 사항은 version.release@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"version.release@naver.com","begin":29,"end":54,"label":"EMAIL"}]}
+{"id":88,"content":"할인 쿠폰이 발급되었습니다. 코드는 discount.coupon@daum.net으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"discount.coupon@daum.net","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":89,"content":"멤버십 혜택이 적용되었습니다. 상세 내역은 member.benefits@nate.com으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"member.benefits@nate.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":90,"content":"설문 참여 감사합니다. 결과 리포트는 survey.response@gmail.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"survey.response@gmail.com","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":91,"content":"초대 링크가 생성되었습니다. 공유는 invite.share@kakao.com을 통해 진행해주세요.","has_sensitive":true,"entities":[{"value":"invite.share@kakao.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":92,"content":"출석 체크 완료되었습니다. 누적 포인트는 attendance.record@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"attendance.record@naver.com","begin":30,"end":57,"label":"EMAIL"}]}
+{"id":93,"content":"다운로드가 준비되었습니다. 파일 링크는 download.center@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"download.center@daum.net","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":94,"content":"예약 취소가 처리되었습니다. 환불 안내는 cancel.refund@nate.com으로 발송 예정입니다.","has_sensitive":true,"entities":[{"value":"cancel.refund@nate.com","begin":30,"end":52,"label":"EMAIL"}]}
+{"id":95,"content":"인증 절차가 필요합니다. 본인 확인은 verify.identity@gmail.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"verify.identity@gmail.com","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":96,"content":"랭킹이 업데이트되었습니다. 순위 확인은 ranking.update@kakao.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"ranking.update@kakao.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":97,"content":"추천인 등록이 완료되었습니다. 혜택 안내는 referral.program@naver.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"referral.program@naver.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":98,"content":"자동 갱신이 설정되었습니다. 다음 결제일은 auto.renewal@daum.net으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"auto.renewal@daum.net","begin":30,"end":51,"label":"EMAIL"}]}
+{"id":99,"content":"공유 링크가 활성화되었습니다. 접근 권한은 share.access@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"share.access@nate.com","begin":30,"end":51,"label":"EMAIL"}]}
+{"id":100,"content":"임시 저장이 완료되었습니다. 복구 방법은 temp.storage@gmail.com으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"temp.storage@gmail.com","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":101,"content":"알림톡 발송이 예약되었습니다. 발송 내역은 notification.send@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"notification.send@kakao.com","begin":30,"end":57,"label":"EMAIL"}]}
+{"id":102,"content":"통계 자료가 생성되었습니다. 차트는 statistics.data@naver.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"statistics.data@naver.com","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":103,"content":"첨부 파일이 업로드되었습니다. 다운로드는 attachment.files@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"attachment.files@daum.net","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":104,"content":"보안 검사가 완료되었습니다. 리포트는 security.scan@nate.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"security.scan@nate.com","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":105,"content":"모니터링 결과입니다. 실시간 데이터는 monitor.system@gmail.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"monitor.system@gmail.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":106,"content":"광고 캠페인이 시작되었습니다. 성과 분석은 ad.campaign@kakao.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"ad.campaign@kakao.com","begin":30,"end":51,"label":"EMAIL"}]}
+{"id":107,"content":"댓글 알림 설정이 변경되었습니다. 확인 메일은 comment.notify@naver.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"comment.notify@naver.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":108,"content":"태그가 추가되었습니다. 분류 결과는 tag.management@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"tag.management@daum.net","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":109,"content":"목록이 업데이트되었습니다. 최신 버전은 list.update@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"list.update@nate.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":110,"content":"권한 변경이 적용되었습니다. 상세 내역은 permission.change@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"permission.change@gmail.com","begin":29,"end":56,"label":"EMAIL"}]}
+{"id":111,"content":"프로필이 업데이트되었습니다. 변경 사항은 profile.update@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"profile.update@kakao.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":112,"content":"팔로우 알림이 활성화되었습니다. 새 소식은 follow.notify@naver.com으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"follow.notify@naver.com","begin":32,"end":55,"label":"EMAIL"}]}
+{"id":113,"content":"즐겨찾기에 추가되었습니다. 관리는 bookmark.manage@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"bookmark.manage@daum.net","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":114,"content":"히스토리가 저장되었습니다. 조회는 history.log@nate.com을 통해 할 수 있습니다.","has_sensitive":true,"entities":[{"value":"history.log@nate.com","begin":24,"end":44,"label":"EMAIL"}]}
+{"id":115,"content":"재시도 요청이 접수되었습니다. 처리 결과는 retry.process@gmail.com으로 회신됩니다.","has_sensitive":true,"entities":[{"value":"retry.process@gmail.com","begin":32,"end":55,"label":"EMAIL"}]}
+{"id":116,"content":"최적화 작업이 완료되었습니다. 개선 사항은 optimize.result@kakao.com으로 보고됩니다.","has_sensitive":true,"entities":[{"value":"optimize.result@kakao.com","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":117,"content":"토큰이 발급되었습니다. 인증 정보는 token.issue@naver.com으로 안전하게 전송됩니다.","has_sensitive":true,"entities":[{"value":"token.issue@naver.com","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":118,"content":"매칭이 성사되었습니다. 상대방 정보는 match.connect@daum.net으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"match.connect@daum.net","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":119,"content":"선택 항목이 저장되었습니다. 설정 내역은 selection.save@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"selection.save@nate.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":120,"content":"메모가 동기화되었습니다. 백업본은 note.sync@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"note.sync@gmail.com","begin":23,"end":42,"label":"EMAIL"}]}
+{"id":121,"content":"차단 목록이 업데이트되었습니다. 관리 페이지는 block.list@kakao.com에서 접속 가능합니다.","has_sensitive":true,"entities":[{"value":"block.list@kakao.com","begin":33,"end":53,"label":"EMAIL"}]}
+{"id":122,"content":"카테고리가 재분류되었습니다. 변경 내역은 category.update@naver.com으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"category.update@naver.com","begin":29,"end":54,"label":"EMAIL"}]}
+{"id":123,"content":"제안이 채택되었습니다. 다음 단계는 proposal.accept@daum.net으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"proposal.accept@daum.net","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":124,"content":"피드가 갱신되었습니다. 구독 내용은 feed.refresh@nate.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"feed.refresh@nate.com","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":125,"content":"스크립트 실행이 완료되었습니다. 로그는 script.execute@gmail.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"script.execute@gmail.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":126,"content":"큐에 작업이 추가되었습니다. 진행 상황은 queue.task@kakao.com에서 모니터링됩니다.","has_sensitive":true,"entities":[{"value":"queue.task@kakao.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":127,"content":"플러그인이 설치되었습니다. 활성화 방법은 plugin.install@naver.com으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"plugin.install@naver.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":128,"content":"테마가 적용되었습니다. 커스터마이징은 theme.custom@daum.net에서 설정하세요.","has_sensitive":true,"entities":[{"value":"theme.custom@daum.net","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":129,"content":"템플릿이 저장되었습니다. 불러오기는 template.save@nate.com을 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"template.save@nate.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":130,"content":"위젯이 추가되었습니다. 설정 옵션은 widget.config@gmail.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"widget.config@gmail.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":131,"content":"필터가 적용되었습니다. 검색 조건은 filter.apply@kakao.com에서 수정 가능합니다.","has_sensitive":true,"entities":[{"value":"filter.apply@kakao.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":132,"content":"정렬 순서가 변경되었습니다. 기본 설정은 sort.order@naver.com으로 복원할 수 있습니다.","has_sensitive":true,"entities":[{"value":"sort.order@naver.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":133,"content":"그룹이 생성되었습니다. 멤버 초대는 group.create@daum.net을 통해 진행하세요.","has_sensitive":true,"entities":[{"value":"group.create@daum.net","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":134,"content":"역할이 할당되었습니다. 권한 설명은 role.assign@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"role.assign@nate.com","begin":24,"end":44,"label":"EMAIL"}]}
+{"id":135,"content":"레이블이 지정되었습니다. 분류 체계는 label.tag@gmail.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"label.tag@gmail.com","begin":25,"end":44,"label":"EMAIL"}]}
+{"id":136,"content":"상태가 변경되었습니다. 추적 정보는 status.change@kakao.com으로 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"status.change@kakao.com","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":137,"content":"우선순위가 조정되었습니다. 현재 순서는 priority.set@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"priority.set@naver.com","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":138,"content":"마감일이 연장되었습니다. 새로운 일정은 deadline.extend@daum.net으로 공지됩니다.","has_sensitive":true,"entities":[{"value":"deadline.extend@daum.net","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":139,"content":"요약본이 생성되었습니다. 전체 내용은 summary.full@nate.com에서 열람 가능합니다.","has_sensitive":true,"entities":[{"value":"summary.full@nate.com","begin":27,"end":48,"label":"EMAIL"}]}
+{"id":140,"content":"색인이 구축되었습니다. 검색 성능은 index.build@gmail.com으로 리포트됩니다.","has_sensitive":true,"entities":[{"value":"index.build@gmail.com","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":141,"content":"캐시가 초기화되었습니다. 새로고침 안내는 cache.clear@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"cache.clear@kakao.com","begin":29,"end":50,"label":"EMAIL"}]}
+{"id":142,"content":"세션이 만료되었습니다. 재로그인 링크는 session.expire@naver.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"session.expire@naver.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":143,"content":"연결이 복구되었습니다. 안정성 보고서는 connection.restore@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"connection.restore@daum.net","begin":30,"end":57,"label":"EMAIL"}]}
+{"id":144,"content":"동기화가 일시중지되었습니다. 재개 방법은 sync.pause@nate.com으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"sync.pause@nate.com","begin":28,"end":47,"label":"EMAIL"}]}
+{"id":145,"content":"스냅샷이 저장되었습니다. 복원 포인트는 snapshot.save@gmail.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"snapshot.save@gmail.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":146,"content":"로그가 아카이브되었습니다. 보관 위치는 log.archive@kakao.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"log.archive@kakao.com","begin":28,"end":49,"label":"EMAIL"}]}
+{"id":147,"content":"압축이 완료되었습니다. 다운로드 링크는 compress.file@naver.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"compress.file@naver.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":148,"content":"압축 해제가 진행되었습니다. 결과물은 extract.data@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"extract.data@daum.net","begin":28,"end":49,"label":"EMAIL"}]}
+{"id":149,"content":"인코딩이 변환되었습니다. 변환 파일은 encode.convert@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"encode.convert@nate.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":150,"content":"파싱 작업이 끝났습니다. 분석 데이터는 parse.result@gmail.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"parse.result@gmail.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":151,"content":"검증이 성공했습니다. 확인 리포트는 validate.success@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"validate.success@kakao.com","begin":26,"end":52,"label":"EMAIL"}]}
+{"id":152,"content":"마이그레이션이 완료되었습니다. 이전 내역은 migrate.complete@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"migrate.complete@naver.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":153,"content":"롤백이 실행되었습니다. 이전 상태는 rollback.execute@daum.net으로 복구됩니다.","has_sensitive":true,"entities":[{"value":"rollback.execute@daum.net","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":154,"content":"배포가 시작되었습니다. 진행 현황은 deploy.start@nate.com에서 모니터링하세요.","has_sensitive":true,"entities":[{"value":"deploy.start@nate.com","begin":25,"end":46,"label":"EMAIL"}]}
+{"id":155,"content":"빌드가 완료되었습니다. 산출물은 build.output@gmail.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"build.output@gmail.com","begin":23,"end":45,"label":"EMAIL"}]}
+{"id":156,"content":"컴파일 오류가 해결되었습니다. 수정 내역은 compile.fix@kakao.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"compile.fix@kakao.com","begin":29,"end":50,"label":"EMAIL"}]}
+{"id":157,"content":"디버깅이 종료되었습니다. 로그 분석은 debug.log@naver.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"debug.log@naver.com","begin":25,"end":44,"label":"EMAIL"}]}
+{"id":158,"content":"프로파일링 결과입니다. 성능 지표는 profile.performance@daum.net으로 리포트됩니다.","has_sensitive":true,"entities":[{"value":"profile.performance@daum.net","begin":25,"end":53,"label":"EMAIL"}]}
+{"id":159,"content":"벤치마크 테스트가 완료되었습니다. 결과는 benchmark.test@nate.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"benchmark.test@nate.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":160,"content":"부하 테스트가 진행 중입니다. 실시간 결과는 load.test@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"load.test@gmail.com","begin":32,"end":51,"label":"EMAIL"}]}
+{"id":161,"content":"응답 시간이 개선되었습니다. 측정 데이터는 response.time@kakao.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"response.time@kakao.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":162,"content":"처리량이 증가했습니다. 통계 자료는 throughput.stats@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"throughput.stats@naver.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":163,"content":"지연 시간이 감소했습니다. 분석 결과는 latency.analysis@daum.net으로 보고됩니다.","has_sensitive":true,"entities":[{"value":"latency.analysis@daum.net","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":164,"content":"가용성이 향상되었습니다. 모니터링은 availability.check@nate.com에서 계속됩니다.","has_sensitive":true,"entities":[{"value":"availability.check@nate.com","begin":25,"end":52,"label":"EMAIL"}]}
+{"id":165,"content":"신뢰성 테스트를 통과했습니다. 인증서는 reliability.cert@gmail.com으로 발급됩니다.","has_sensitive":true,"entities":[{"value":"reliability.cert@gmail.com","begin":29,"end":55,"label":"EMAIL"}]}
+{"id":166,"content":"확장성 검증이 완료되었습니다. 평가서는 scalability.review@kakao.com에서 다운로드하세요.","has_sensitive":true,"entities":[{"value":"scalability.review@kakao.com","begin":29,"end":57,"label":"EMAIL"}]}
+{"id":167,"content":"호환성 확인이 끝났습니다. 지원 목록은 compatibility.list@naver.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"compatibility.list@naver.com","begin":27,"end":55,"label":"EMAIL"}]}
+{"id":168,"content":"보안성이 강화되었습니다. 패치 노트는 security.patch@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"security.patch@daum.net","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":169,"content":"취약점이 수정되었습니다. 보고서는 vulnerability.fix@nate.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"vulnerability.fix@nate.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":170,"content":"암호화가 적용되었습니다. 키 관리는 encryption.key@gmail.com에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"encryption.key@gmail.com","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":171,"content":"복호화 요청이 승인되었습니다. 결과는 decryption.result@kakao.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"decryption.result@kakao.com","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":172,"content":"해시값이 생성되었습니다. 검증 코드는 hash.generate@naver.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"hash.generate@naver.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":173,"content":"서명이 완료되었습니다. 인증 파일은 signature.verify@daum.net에서 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"signature.verify@daum.net","begin":25,"end":50,"label":"EMAIL"}]}
+{"id":174,"content":"토큰이 갱신되었습니다. 새로운 값은 token.refresh@nate.com으로 안전하게 전송됩니다.","has_sensitive":true,"entities":[{"value":"token.refresh@nate.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":175,"content":"세션키가 발급되었습니다. 보관 위치는 session.key@gmail.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"session.key@gmail.com","begin":25,"end":46,"label":"EMAIL"}]}
+{"id":176,"content":"인증서가 갱신되었습니다. 만료 알림은 certificate.renew@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"certificate.renew@kakao.com","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":177,"content":"접근 권한이 부여되었습니다. 관리 콘솔은 access.grant@naver.com에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"access.grant@naver.com","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":178,"content":"차단이 해제되었습니다. 복구 알림은 unblock.notify@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"unblock.notify@daum.net","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":179,"content":"계정이 활성화되었습니다. 시작 가이드는 activate.account@nate.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"activate.account@nate.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":180,"content":"비활성화 처리가 완료되었습니다. 재활성화는 deactivate.undo@gmail.com으로 요청하세요.","has_sensitive":true,"entities":[{"value":"deactivate.undo@gmail.com","begin":32,"end":57,"label":"EMAIL"}]}
+{"id":181,"content":"삭제가 예약되었습니다. 취소 방법은 delete.schedule@kakao.com으로 안내드립니다.","has_sensitive":true,"entities":[{"value":"delete.schedule@kakao.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":182,"content":"복원이 완료되었습니다. 확인 절차는 restore.complete@naver.com에서 진행하세요.","has_sensitive":true,"entities":[{"value":"restore.complete@naver.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":183,"content":"전송이 성공했습니다. 수신 확인은 transfer.success@daum.net으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"transfer.success@daum.net","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":184,"content":"수신이 완료되었습니다. 내용 확인은 receive.complete@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"receive.complete@nate.com","begin":25,"end":50,"label":"EMAIL"}]}
+{"id":185,"content":"발신자 인증이 완료되었습니다. 결과는 sender.verify@gmail.com으로 회신됩니다.","has_sensitive":true,"entities":[{"value":"sender.verify@gmail.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":186,"content":"수신자 목록이 업데이트되었습니다. 관리는 recipient.list@kakao.com에서 진행하세요.","has_sensitive":true,"entities":[{"value":"recipient.list@kakao.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":187,"content":"제목이 수정되었습니다. 변경 이력은 subject.edit@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"subject.edit@naver.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":188,"content":"본문이 저장되었습니다. 임시 보관함은 body.draft@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"body.draft@daum.net","begin":26,"end":45,"label":"EMAIL"}]}
+{"id":189,"content":"첨부가 추가되었습니다. 용량 확인은 attach.add@nate.com을 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"attach.add@nate.com","begin":25,"end":44,"label":"EMAIL"}]}
+{"id":190,"content":"서명이 삽입되었습니다. 편집 도구는 signature.insert@gmail.com에서 사용하세요.","has_sensitive":true,"entities":[{"value":"signature.insert@gmail.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":191,"content":"템플릿이 적용되었습니다. 미리보기는 template.apply@kakao.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"template.apply@kakao.com","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":192,"content":"스타일이 변경되었습니다. 테마 설정은 style.change@naver.com으로 동기화됩니다.","has_sensitive":true,"entities":[{"value":"style.change@naver.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":193,"content":"폰트가 업데이트되었습니다. 다운로드는 font.update@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"font.update@daum.net","begin":27,"end":47,"label":"EMAIL"}]}
+{"id":194,"content":"색상이 적용되었습니다. 팔레트는 color.palette@nate.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"color.palette@nate.com","begin":22,"end":44,"label":"EMAIL"}]}
+{"id":195,"content":"레이아웃이 조정되었습니다. 저장 옵션은 layout.adjust@gmail.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"layout.adjust@gmail.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":196,"content":"반응형 디자인이 활성화되었습니다. 테스트는 responsive.design@kakao.com에서 진행하세요.","has_sensitive":true,"entities":[{"value":"responsive.design@kakao.com","begin":33,"end":60,"label":"EMAIL"}]}
+{"id":197,"content":"애니메이션이 추가되었습니다. 프리뷰는 animation.add@naver.com에서 재생됩니다.","has_sensitive":true,"entities":[{"value":"animation.add@naver.com","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":198,"content":"전환 효과가 설정되었습니다. 속도 조절은 transition.effect@daum.net으로 가능합니다.","has_sensitive":true,"entities":[{"value":"transition.effect@daum.net","begin":27,"end":53,"label":"EMAIL"}]}
+{"id":199,"content":"스크롤 기능이 개선되었습니다. 설정은 scroll.improve@nate.com에서 변경하세요.","has_sensitive":true,"entities":[{"value":"scroll.improve@nate.com","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":200,"content":"내비게이션이 재구성되었습니다. 메뉴는 navigation.rebuild@gmail.com에서 편집 가능합니다.","has_sensitive":true,"entities":[{"value":"navigation.rebuild@gmail.com","begin":29,"end":57,"label":"EMAIL"}]}
+{"id":201,"content":"사이드바가 추가되었습니다. 위젯 설정은 sidebar.widget@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"sidebar.widget@kakao.com","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":202,"content":"헤더가 고정되었습니다. 레이아웃 옵션은 header.fixed@naver.com에서 조정하세요.","has_sensitive":true,"entities":[{"value":"header.fixed@naver.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":203,"content":"푸터가 업데이트되었습니다. 링크 관리는 footer.update@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"footer.update@daum.net","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":204,"content":"브레드크럼이 생성되었습니다. 경로 설정은 breadcrumb.path@nate.com으로 구성됩니다.","has_sensitive":true,"entities":[{"value":"breadcrumb.path@nate.com","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":205,"content":"페이지네이션이 적용되었습니다. 항목 수는 pagination.items@gmail.com으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"pagination.items@gmail.com","begin":30,"end":56,"label":"EMAIL"}]}
+{"id":206,"content":"탭이 추가되었습니다. 순서 변경은 tab.order@kakao.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"tab.order@kakao.com","begin":21,"end":40,"label":"EMAIL"}]}
+{"id":207,"content":"아코디언이 구현되었습니다. 동작 설정은 accordion.behavior@naver.com으로 조정하세요.","has_sensitive":true,"entities":[{"value":"accordion.behavior@naver.com","begin":26,"end":54,"label":"EMAIL"}]}
+{"id":208,"content":"모달 창이 열렸습니다. 콘텐츠 관리는 modal.content@daum.net에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"modal.content@daum.net","begin":24,"end":46,"label":"EMAIL"}]}
+{"id":209,"content":"툴팁이 활성화되었습니다. 메시지 편집은 tooltip.message@nate.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"tooltip.message@nate.com","begin":26,"end":50,"label":"EMAIL"}]}
+{"id":210,"content":"팝오버가 표시됩니다. 위치 조정은 popover.position@gmail.com에서 설정하세요.","has_sensitive":true,"entities":[{"value":"popover.position@gmail.com","begin":22,"end":48,"label":"EMAIL"}]}
+{"id":211,"content":"드롭다운이 펼쳐졌습니다. 옵션 추가는 dropdown.option@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"dropdown.option@kakao.com","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":212,"content":"슬라이더가 작동합니다. 범위 설정은 slider.range@naver.com에서 조절 가능합니다.","has_sensitive":true,"entities":[{"value":"slider.range@naver.com","begin":24,"end":46,"label":"EMAIL"}]}
+{"id":213,"content":"캐러셀이 회전합니다. 이미지 추가는 carousel.images@daum.net으로 업로드하세요.","has_sensitive":true,"entities":[{"value":"carousel.images@daum.net","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":214,"content":"갤러리가 생성되었습니다. 사진 관리는 gallery.manage@nate.com에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"gallery.manage@nate.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":215,"content":"그리드가 배치되었습니다. 열 구성은 grid.layout@gmail.com으로 편집 가능합니다.","has_sensitive":true,"entities":[{"value":"grid.layout@gmail.com","begin":23,"end":44,"label":"EMAIL"}]}
+{"id":216,"content":"플렉스박스가 적용되었습니다. 정렬 옵션은 flexbox.align@kakao.com에서 설정하세요.","has_sensitive":true,"entities":[{"value":"flexbox.align@kakao.com","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":217,"content":"컨테이너가 추가되었습니다. 너비 설정은 container.width@naver.com으로 조정됩니다.","has_sensitive":true,"entities":[{"value":"container.width@naver.com","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":218,"content":"섹션이 구분되었습니다. 배경 설정은 section.background@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"section.background@daum.net","begin":24,"end":51,"label":"EMAIL"}]}
+{"id":219,"content":"칼럼이 분할되었습니다. 비율 조정은 column.split@nate.com으로 변경하세요.","has_sensitive":true,"entities":[{"value":"column.split@nate.com","begin":23,"end":44,"label":"EMAIL"}]}
+{"id":220,"content":"행이 삽입되었습니다. 높이 설정은 row.height@gmail.com에서 조절 가능합니다.","has_sensitive":true,"entities":[{"value":"row.height@gmail.com","begin":21,"end":41,"label":"EMAIL"}]}
+{"id":221,"content":"여백이 조정되었습니다. 간격 설정은 spacing.margin@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"spacing.margin@kakao.com","begin":23,"end":47,"label":"EMAIL"}]}
+{"id":222,"content":"패딩이 추가되었습니다. 내부 여백은 padding.inner@naver.com에서 설정하세요.","has_sensitive":true,"entities":[{"value":"padding.inner@naver.com","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":223,"content":"테두리가 생성되었습니다. 스타일 옵션은 border.style@daum.net으로 편집 가능합니다.","has_sensitive":true,"entities":[{"value":"border.style@daum.net","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":224,"content":"그림자가 적용되었습니다. 효과 조절은 shadow.effect@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"shadow.effect@nate.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":225,"content":"투명도가 설정되었습니다. 값 변경은 opacity.value@gmail.com으로 조정하세요.","has_sensitive":true,"entities":[{"value":"opacity.value@gmail.com","begin":23,"end":46,"label":"EMAIL"}]}
+{"id":226,"content":"블렌드 모드가 적용되었습니다. 혼합 옵션은 blend.mode@kakao.com에서 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"blend.mode@kakao.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":227,"content":"필터 효과가 추가되었습니다. 조정 패널은 filter.effect@naver.com에서 사용하세요.","has_sensitive":true,"entities":[{"value":"filter.effect@naver.com","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":228,"content":"크롭 기능이 활성화되었습니다. 영역 선택은 crop.area@daum.net으로 지정 가능합니다.","has_sensitive":true,"entities":[{"value":"crop.area@daum.net","begin":29,"end":47,"label":"EMAIL"}]}
+{"id":229,"content":"리사이즈가 완료되었습니다. 해상도 설정은 resize.resolution@nate.com에서 조정하세요.","has_sensitive":true,"entities":[{"value":"resize.resolution@nate.com","begin":27,"end":53,"label":"EMAIL"}]}
+{"id":230,"content":"회전이 적용되었습니다. 각도 조절은 rotate.angle@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"rotate.angle@gmail.com","begin":23,"end":45,"label":"EMAIL"}]}
+{"id":231,"content":"반전이 실행되었습니다. 방향 설정은 flip.direction@kakao.com에서 변경하세요.","has_sensitive":true,"entities":[{"value":"flip.direction@kakao.com","begin":23,"end":47,"label":"EMAIL"}]}
+{"id":232,"content":"밝기가 조정되었습니다. 레벨 설정은 brightness.level@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"brightness.level@naver.com","begin":23,"end":49,"label":"EMAIL"}]}
+{"id":233,"content":"대비가 변경되었습니다. 강도 조절은 contrast.strength@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"contrast.strength@daum.net","begin":23,"end":49,"label":"EMAIL"}]}
+{"id":234,"content":"채도가 증가했습니다. 색상 강도는 saturation.color@nate.com으로 조정하세요.","has_sensitive":true,"entities":[{"value":"saturation.color@nate.com","begin":22,"end":47,"label":"EMAIL"}]}
+{"id":235,"content":"색조가 변환되었습니다. 스펙트럼은 hue.spectrum@gmail.com에서 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"hue.spectrum@gmail.com","begin":22,"end":44,"label":"EMAIL"}]}
+{"id":236,"content":"노출이 보정되었습니다. 자동 조정은 exposure.auto@kakao.com으로 활성화됩니다.","has_sensitive":true,"entities":[{"value":"exposure.auto@kakao.com","begin":23,"end":46,"label":"EMAIL"}]}
+{"id":237,"content":"선명도가 향상되었습니다. 샤픈 정도는 sharpness.enhance@naver.com으로 설정하세요.","has_sensitive":true,"entities":[{"value":"sharpness.enhance@naver.com","begin":25,"end":52,"label":"EMAIL"}]}
+{"id":238,"content":"블러 효과가 적용되었습니다. 반경 조절은 blur.radius@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"blur.radius@daum.net","begin":26,"end":46,"label":"EMAIL"}]}
+{"id":239,"content":"노이즈가 제거되었습니다. 알고리즘은 noise.reduction@nate.com으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"noise.reduction@nate.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":240,"content":"비네팅이 추가되었습니다. 강도 설정은 vignette.strength@gmail.com으로 조정하세요.","has_sensitive":true,"entities":[{"value":"vignette.strength@gmail.com","begin":25,"end":52,"label":"EMAIL"}]}
+{"id":241,"content":"세피아 톤이 적용되었습니다. 강도 조절은 sepia.tone@kakao.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"sepia.tone@kakao.com","begin":26,"end":46,"label":"EMAIL"}]}
+{"id":242,"content":"그레이스케일로 변환되었습니다. 복원은 grayscale.convert@naver.com으로 요청하세요.","has_sensitive":true,"entities":[{"value":"grayscale.convert@naver.com","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":243,"content":"역광 보정이 완료되었습니다. 결과는 backlight.fix@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"backlight.fix@daum.net","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":244,"content":"적목 현상이 제거되었습니다. 편집 로그는 redeye.remove@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"redeye.remove@nate.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":245,"content":"얼굴이 인식되었습니다. 감지 결과는 face.detection@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"face.detection@gmail.com","begin":23,"end":47,"label":"EMAIL"}]}
+{"id":246,"content":"객체가 분류되었습니다. 태그 목록은 object.classify@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"object.classify@kakao.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":247,"content":"배경이 제거되었습니다. 투명 이미지는 background.remove@naver.com으로 다운로드됩니다.","has_sensitive":true,"entities":[{"value":"background.remove@naver.com","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":248,"content":"전경이 추출되었습니다. 마스크 파일은 foreground.extract@daum.net에서 받으세요.","has_sensitive":true,"entities":[{"value":"foreground.extract@daum.net","begin":26,"end":53,"label":"EMAIL"}]}
+{"id":249,"content":"레이어가 병합되었습니다. 최종본은 layer.merge@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"layer.merge@nate.com","begin":24,"end":44,"label":"EMAIL"}]}
+{"id":250,"content":"마스크가 생성되었습니다. 편집 도구는 mask.create@gmail.com에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"mask.create@gmail.com","begin":25,"end":46,"label":"EMAIL"}]}
+{"id":251,"content":"클리핑이 적용되었습니다. 경로 설정은 clipping.path@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"clipping.path@kakao.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":252,"content":"합성이 완료되었습니다. 결과물은 composite.result@naver.com에서 다운로드하세요.","has_sensitive":true,"entities":[{"value":"composite.result@naver.com","begin":21,"end":47,"label":"EMAIL"}]}
+{"id":253,"content":"오버레이가 추가되었습니다. 투명도는 overlay.opacity@daum.net으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"overlay.opacity@daum.net","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":254,"content":"워터마크가 삽입되었습니다. 위치 설정은 watermark.position@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"watermark.position@nate.com","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":255,"content":"텍스트가 렌더링되었습니다. 폰트 옵션은 text.render@gmail.com으로 편집하세요.","has_sensitive":true,"entities":[{"value":"text.render@gmail.com","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":256,"content":"벡터가 변환되었습니다. SVG 파일은 vector.convert@kakao.com으로 내보내집니다.","has_sensitive":true,"entities":[{"value":"vector.convert@kakao.com","begin":23,"end":47,"label":"EMAIL"}]}
+{"id":257,"content":"래스터화가 진행되었습니다. 비트맵은 rasterize.bitmap@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"rasterize.bitmap@naver.com","begin":26,"end":52,"label":"EMAIL"}]}
+{"id":258,"content":"경로가 추적되었습니다. 벡터 데이터는 path.trace@daum.net으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"path.trace@daum.net","begin":26,"end":45,"label":"EMAIL"}]}
+{"id":259,"content":"곡선이 조정되었습니다. 제어점은 curve.adjust@nate.com에서 편집 가능합니다.","has_sensitive":true,"entities":[{"value":"curve.adjust@nate.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":260,"content":"노드가 추가되었습니다. 연결 상태는 node.connect@gmail.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"node.connect@gmail.com","begin":24,"end":46,"label":"EMAIL"}]}
+{"id":261,"content":"앵커가 설정되었습니다. 위치 고정은 anchor.position@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"anchor.position@kakao.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":262,"content":"핸들이 조작되었습니다. 방향 조절은 handle.direction@naver.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"handle.direction@naver.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":263,"content":"스트로크가 적용되었습니다. 두께 설정은 stroke.width@daum.net으로 조정하세요.","has_sensitive":true,"entities":[{"value":"stroke.width@daum.net","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":264,"content":"채우기가 완료되었습니다. 패턴 선택은 fill.pattern@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"fill.pattern@nate.com","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":265,"content":"그라디언트가 생성되었습니다. 색상 정지점은 gradient.stops@gmail.com으로 편집하세요.","has_sensitive":true,"entities":[{"value":"gradient.stops@gmail.com","begin":29,"end":53,"label":"EMAIL"}]}
+{"id":266,"content":"패턴이 타일링되었습니다. 반복 설정은 pattern.tile@kakao.com에서 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"pattern.tile@kakao.com","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":267,"content":"텍스처가 매핑되었습니다. UV 좌표는 texture.mapping@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"texture.mapping@naver.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":268,"content":"재질이 적용되었습니다. 속성 편집은 material.property@daum.net에서 진행하세요.","has_sensitive":true,"entities":[{"value":"material.property@daum.net","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":269,"content":"조명이 배치되었습니다. 강도 조절은 light.intensity@nate.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"light.intensity@nate.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":270,"content":"카메라가 설정되었습니다. 시야각은 camera.fov@gmail.com에서 조정하세요.","has_sensitive":true,"entities":[{"value":"camera.fov@gmail.com","begin":23,"end":43,"label":"EMAIL"}]}
+{"id":271,"content":"렌더링이 시작되었습니다. 진행률은 render.progress@kakao.com으로 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"render.progress@kakao.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":272,"content":"장면이 저장되었습니다. 프로젝트 파일은 scene.save@naver.com으로 백업됩니다.","has_sensitive":true,"entities":[{"value":"scene.save@naver.com","begin":27,"end":47,"label":"EMAIL"}]}
+{"id":273,"content":"애니메이션 키가 설정되었습니다. 타임라인은 keyframe.timeline@daum.net에서 편집하세요.","has_sensitive":true,"entities":[{"value":"keyframe.timeline@daum.net","begin":32,"end":58,"label":"EMAIL"}]}
+{"id":274,"content":"트위닝이 생성되었습니다. 이징 함수는 tween.easing@nate.com으로 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"tween.easing@nate.com","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":275,"content":"재생이 시작되었습니다. 컨트롤러는 playback.control@gmail.com에서 사용하세요.","has_sensitive":true,"entities":[{"value":"playback.control@gmail.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":276,"content":"일시정지가 활성화되었습니다. 재개는 pause.resume@kakao.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"pause.resume@kakao.com","begin":27,"end":49,"label":"EMAIL"}]}
+{"id":277,"content":"중지가 실행되었습니다. 초기화는 stop.reset@naver.com에서 진행하세요.","has_sensitive":true,"entities":[{"value":"stop.reset@naver.com","begin":20,"end":40,"label":"EMAIL"}]}
+{"id":278,"content":"반복 재생이 설정되었습니다. 횟수 조절은 loop.count@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"loop.count@daum.net","begin":27,"end":46,"label":"EMAIL"}]}
+{"id":279,"content":"셔플이 켜졌습니다. 순서 변경은 shuffle.order@nate.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"shuffle.order@nate.com","begin":20,"end":42,"label":"EMAIL"}]}
+{"id":280,"content":"볼륨이 조정되었습니다. 레벨 설정은 volume.level@gmail.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"volume.level@gmail.com","begin":23,"end":45,"label":"EMAIL"}]}
+{"id":281,"content":"음소거가 적용되었습니다. 해제는 mute.toggle@kakao.com을 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"mute.toggle@kakao.com","begin":21,"end":42,"label":"EMAIL"}]}
+{"id":282,"content":"이퀄라이저가 조정되었습니다. 프리셋은 equalizer.preset@naver.com에서 선택하세요.","has_sensitive":true,"entities":[{"value":"equalizer.preset@naver.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":283,"content":"페이드 인이 적용되었습니다. 지속 시간은 fade.duration@daum.net으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"fade.duration@daum.net","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":284,"content":"크로스페이드가 실행되었습니다. 전환 시간은 crossfade.time@nate.com으로 조정하세요.","has_sensitive":true,"entities":[{"value":"crossfade.time@nate.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":285,"content":"에코 효과가 추가되었습니다. 딜레이 설정은 echo.delay@gmail.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"echo.delay@gmail.com","begin":27,"end":47,"label":"EMAIL"}]}
+{"id":286,"content":"리버브가 적용되었습니다. 공간감은 reverb.space@kakao.com으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"reverb.space@kakao.com","begin":22,"end":44,"label":"EMAIL"}]}
+{"id":287,"content":"컴프레서가 활성화되었습니다. 임계값은 compressor.threshold@naver.com으로 설정하세요.","has_sensitive":true,"entities":[{"value":"compressor.threshold@naver.com","begin":26,"end":56,"label":"EMAIL"}]}
+{"id":288,"content":"리미터가 설정되었습니다. 최대 레벨은 limiter.max@daum.net에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"limiter.max@daum.net","begin":25,"end":45,"label":"EMAIL"}]}
+{"id":289,"content":"노멀라이즈가 완료되었습니다. 기준값은 normalize.reference@nate.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"normalize.reference@nate.com","begin":25,"end":53,"label":"EMAIL"}]}
+{"id":290,"content":"피치가 변경되었습니다. 음정 조절은 pitch.shift@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"pitch.shift@gmail.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":291,"content":"템포가 조정되었습니다. BPM 설정은 tempo.bpm@kakao.com에서 변경하세요.","has_sensitive":true,"entities":[{"value":"tempo.bpm@kakao.com","begin":23,"end":42,"label":"EMAIL"}]}
+{"id":292,"content":"타임 스트레치가 적용되었습니다. 배율은 timestretch.ratio@naver.com으로 조정됩니다.","has_sensitive":true,"entities":[{"value":"timestretch.ratio@naver.com","begin":29,"end":56,"label":"EMAIL"}]}
+{"id":293,"content":"비트가 감지되었습니다. 분석 결과는 beat.detection@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"beat.detection@daum.net","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":294,"content":"박자가 맞춰졌습니다. 동기화는 rhythm.sync@nate.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"rhythm.sync@nate.com","begin":20,"end":40,"label":"EMAIL"}]}
+{"id":295,"content":"메트로놈이 시작되었습니다. 속도 조절은 metronome.speed@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"metronome.speed@gmail.com","begin":25,"end":50,"label":"EMAIL"}]}
+{"id":296,"content":"튜너가 활성화되었습니다. 주파수는 tuner.frequency@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"tuner.frequency@kakao.com","begin":21,"end":46,"label":"EMAIL"}]}
+{"id":297,"content":"스펙트럼이 표시됩니다. 분석 옵션은 spectrum.analyze@naver.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"spectrum.analyze@naver.com","begin":23,"end":49,"label":"EMAIL"}]}
+{"id":298,"content":"파형이 그려졌습니다. 디스플레이는 waveform.display@daum.net에서 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"waveform.display@daum.net","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":299,"content":"오실로스코프가 작동합니다. 트리거는 oscilloscope.trigger@nate.com으로 설정하세요.","has_sensitive":true,"entities":[{"value":"oscilloscope.trigger@nate.com","begin":26,"end":55,"label":"EMAIL"}]}
+{"id":300,"content":"미터가 측정 중입니다. 눈금 설정은 meter.scale@gmail.com에서 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"meter.scale@gmail.com","begin":23,"end":44,"label":"EMAIL"}]}
+{"id":301,"content":"게인이 조정되었습니다. 증폭률은 gain.amplification@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"gain.amplification@kakao.com","begin":20,"end":48,"label":"EMAIL"}]}
+{"id":302,"content":"채널이 분리되었습니다. 독립 제어는 channel.separate@naver.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"channel.separate@naver.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":303,"content":"믹싱이 완료되었습니다. 최종 믹스는 mix.final@daum.net으로 내보내집니다.","has_sensitive":true,"entities":[{"value":"mix.final@daum.net","begin":25,"end":43,"label":"EMAIL"}]}
+{"id":304,"content":"마스터링이 진행되었습니다. 결과물은 mastering.output@nate.com에서 다운로드하세요.","has_sensitive":true,"entities":[{"value":"mastering.output@nate.com","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":305,"content":"내보내기가 시작되었습니다. 포맷 선택은 export.format@gmail.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"export.format@gmail.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":306,"content":"가져오기가 완료되었습니다. 파일 목록은 import.files@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"import.files@kakao.com","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":307,"content":"변환이 완료되었습니다. 새 형식은 convert.format@naver.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"convert.format@naver.com","begin":22,"end":46,"label":"EMAIL"}]}
+{"id":308,"content":"인코딩이 진행 중입니다. 코덱 설정은 encode.codec@daum.net에서 선택하세요.","has_sensitive":true,"entities":[{"value":"encode.codec@daum.net","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":309,"content":"디코딩이 완료되었습니다. 원본 복원은 decode.restore@nate.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"decode.restore@nate.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":310,"content":"트랜스코딩이 시작되었습니다. 진행 상황은 transcode.progress@gmail.com으로 알림됩니다.","has_sensitive":true,"entities":[{"value":"transcode.progress@gmail.com","begin":30,"end":58,"label":"EMAIL"}]}
+{"id":311,"content":"스트리밍이 시작되었습니다. 품질 설정은 stream.quality@kakao.com에서 조정하세요.","has_sensitive":true,"entities":[{"value":"stream.quality@kakao.com","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":312,"content":"버퍼링이 진행됩니다. 네트워크 상태는 buffer.network@naver.com으로 모니터링됩니다.","has_sensitive":true,"entities":[{"value":"buffer.network@naver.com","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":313,"content":"대역폭이 확보되었습니다. 할당량은 bandwidth.quota@daum.net에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"bandwidth.quota@daum.net","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":314,"content":"레이턴시가 감소했습니다. 지연 시간은 latency.time@nate.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"latency.time@nate.com","begin":25,"end":46,"label":"EMAIL"}]}
+{"id":315,"content":"패킷이 전송되었습니다. 손실률은 packet.loss@gmail.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"packet.loss@gmail.com","begin":21,"end":42,"label":"EMAIL"}]}
+{"id":316,"content":"지터가 안정화되었습니다. 변동 폭은 jitter.variance@kakao.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"jitter.variance@kakao.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":317,"content":"핑이 응답했습니다. 왕복 시간은 ping.rtt@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"ping.rtt@naver.com","begin":20,"end":38,"label":"EMAIL"}]}
+{"id":318,"content":"대역폭 테스트가 완료되었습니다. 속도는 speed.test@daum.net에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"speed.test@daum.net","begin":28,"end":47,"label":"EMAIL"}]}
+{"id":319,"content":"연결 품질이 우수합니다. 점수는 connection.score@nate.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"connection.score@nate.com","begin":22,"end":47,"label":"EMAIL"}]}
+{"id":320,"content":"신호 강도가 측정되었습니다. 세기는 signal.strength@gmail.com으로 표시됩니다.","has_sensitive":true,"entities":[{"value":"signal.strength@gmail.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":321,"content":"노이즈 레벨이 낮습니다. 비율은 noise.ratio@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"noise.ratio@kakao.com","begin":21,"end":42,"label":"EMAIL"}]}
+{"id":322,"content":"간섭이 감지되었습니다. 소스 분석은 interference.source@naver.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"interference.source@naver.com","begin":24,"end":53,"label":"EMAIL"}]}
+{"id":323,"content":"채널 변경이 권장됩니다. 최적 채널은 channel.optimize@daum.net으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"channel.optimize@daum.net","begin":25,"end":50,"label":"EMAIL"}]}
+{"id":324,"content":"주파수가 할당되었습니다. 대역 정보는 frequency.band@nate.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"frequency.band@nate.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":325,"content":"변조 방식이 설정되었습니다. 파라미터는 modulation.params@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"modulation.params@gmail.com","begin":26,"end":53,"label":"EMAIL"}]}
+{"id":326,"content":"복조가 완료되었습니다. 신호 복원은 demodulation.signal@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"demodulation.signal@kakao.com","begin":24,"end":53,"label":"EMAIL"}]}
+{"id":327,"content":"증폭기가 작동합니다. 출력 레벨은 amplifier.output@naver.com으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"amplifier.output@naver.com","begin":21,"end":47,"label":"EMAIL"}]}
+{"id":328,"content":"감쇠가 적용되었습니다. 손실 보상은 attenuation.compensate@daum.net으로 가능합니다.","has_sensitive":true,"entities":[{"value":"attenuation.compensate@daum.net","begin":21,"end":52,"label":"EMAIL"}]}
+{"id":329,"content":"필터링이 완료되었습니다. 대역 통과는 filter.bandpass@nate.com에서 설정하세요.","has_sensitive":true,"entities":[{"value":"filter.bandpass@nate.com","begin":26,"end":50,"label":"EMAIL"}]}
+{"id":330,"content":"샘플링이 진행되었습니다. 주파수는 sampling.frequency@gmail.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"sampling.frequency@gmail.com","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":331,"content":"양자화가 적용되었습니다. 비트 깊이는 quantization.bits@kakao.com으로 설정하세요.","has_sensitive":true,"entities":[{"value":"quantization.bits@kakao.com","begin":25,"end":52,"label":"EMAIL"}]}
+{"id":332,"content":"다운샘플링이 실행되었습니다. 비율은 downsample.ratio@naver.com으로 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"downsample.ratio@naver.com","begin":26,"end":52,"label":"EMAIL"}]}
+{"id":333,"content":"업샘플링이 완료되었습니다. 보간 방법은 upsample.interpolate@daum.net으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"upsample.interpolate@daum.net","begin":27,"end":56,"label":"EMAIL"}]}
+{"id":334,"content":"리샘플링이 진행 중입니다. 목표 레이트는 resample.target@nate.com에서 지정하세요.","has_sensitive":true,"entities":[{"value":"resample.target@nate.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":335,"content":"디더링이 추가되었습니다. 노이즈 타입은 dither.noise@gmail.com으로 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"dither.noise@gmail.com","begin":27,"end":49,"label":"EMAIL"}]}
+{"id":336,"content":"윈도우 함수가 적용되었습니다. 타입은 window.function@kakao.com에서 변경하세요.","has_sensitive":true,"entities":[{"value":"window.function@kakao.com","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":337,"content":"FFT 분석이 완료되었습니다. 주파수 영역은 fft.analysis@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"fft.analysis@naver.com","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":338,"content":"IFFT 변환이 진행되었습니다. 시간 영역은 ifft.transform@daum.net으로 복원됩니다.","has_sensitive":true,"entities":[{"value":"ifft.transform@daum.net","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":339,"content":"DFT 계산이 끝났습니다. 스펙트럼은 dft.spectrum@nate.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"dft.spectrum@nate.com","begin":23,"end":44,"label":"EMAIL"}]}
+{"id":340,"content":"DCT 압축이 적용되었습니다. 계수는 dct.coefficients@gmail.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"dct.coefficients@gmail.com","begin":23,"end":49,"label":"EMAIL"}]}
+{"id":341,"content":"웨이블릿 변환이 완료되었습니다. 레벨은 wavelet.levels@kakao.com에서 설정하세요.","has_sensitive":true,"entities":[{"value":"wavelet.levels@kakao.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":342,"content":"컨볼루션이 실행되었습니다. 커널은 convolution.kernel@naver.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"convolution.kernel@naver.com","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":343,"content":"상관관계가 계산되었습니다. 계수는 correlation.coefficient@daum.net으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"correlation.coefficient@daum.net","begin":22,"end":54,"label":"EMAIL"}]}
+{"id":344,"content":"자기상관이 분석되었습니다. 함수는 autocorrelation.function@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"autocorrelation.function@nate.com","begin":24,"end":57,"label":"EMAIL"}]}
+{"id":345,"content":"교차상관이 측정되었습니다. 결과는 crosscorrelation.result@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"crosscorrelation.result@gmail.com","begin":24,"end":57,"label":"EMAIL"}]}
+{"id":346,"content":"임펄스 응답이 기록되었습니다. 특성은 impulse.response@kakao.com에서 분석됩니다.","has_sensitive":true,"entities":[{"value":"impulse.response@kakao.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":347,"content":"주파수 응답이 평탄합니다. 곡선은 frequency.response@naver.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"frequency.response@naver.com","begin":23,"end":51,"label":"EMAIL"}]}
+{"id":348,"content":"위상 응답이 선형입니다. 그래프는 phase.response@daum.net에서 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"phase.response@daum.net","begin":22,"end":45,"label":"EMAIL"}]}
+{"id":349,"content":"그룹 지연이 일정합니다. 측정값은 group.delay@nate.com으로 리포트됩니다.","has_sensitive":true,"entities":[{"value":"group.delay@nate.com","begin":21,"end":41,"label":"EMAIL"}]}
+{"id":350,"content":"전달 함수가 도출되었습니다. 식은 transfer.function@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"transfer.function@gmail.com","begin":22,"end":49,"label":"EMAIL"}]}
+{"id":351,"content":"안정성이 검증되었습니다. 마진은 stability.margin@kakao.com으로 계산됩니다.","has_sensitive":true,"entities":[{"value":"stability.margin@kakao.com","begin":21,"end":47,"label":"EMAIL"}]}
+{"id":352,"content":"제어 루프가 닫혔습니다. 게인은 control.loop@naver.com에서 튜닝하세요.","has_sensitive":true,"entities":[{"value":"control.loop@naver.com","begin":20,"end":42,"label":"EMAIL"}]}
+{"id":353,"content":"PID 조정이 완료되었습니다. 파라미터는 pid.tuning@daum.net으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"pid.tuning@daum.net","begin":26,"end":45,"label":"EMAIL"}]}
+{"id":354,"content":"피드백이 안정적입니다. 신호는 feedback.signal@nate.com으로 관찰됩니다.","has_sensitive":true,"entities":[{"value":"feedback.signal@nate.com","begin":20,"end":44,"label":"EMAIL"}]}
+{"id":355,"content":"피드포워드가 적용되었습니다. 보상은 feedforward.compensation@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"feedforward.compensation@gmail.com","begin":25,"end":59,"label":"EMAIL"}]}
+{"id":356,"content":"오버슈트가 감소했습니다. 응답 특성은 overshoot.response@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"overshoot.response@kakao.com","begin":25,"end":53,"label":"EMAIL"}]}
+{"id":357,"content":"언더슈트가 최소화되었습니다. 성능은 undershoot.performance@naver.com으로 평가됩니다.","has_sensitive":true,"entities":[{"value":"undershoot.performance@naver.com","begin":27,"end":59,"label":"EMAIL"}]}
+{"id":358,"content":"정착 시간이 단축되었습니다. 기준은 settling.time@daum.net에서 설정 가능합니다.","has_sensitive":true,"entities":[{"value":"settling.time@daum.net","begin":25,"end":47,"label":"EMAIL"}]}
+{"id":359,"content":"상승 시간이 개선되었습니다. 측정은 rise.time@nate.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"rise.time@nate.com","begin":24,"end":42,"label":"EMAIL"}]}
+{"id":360,"content":"피크 시간이 최적화되었습니다. 값은 peak.time@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"peak.time@gmail.com","begin":23,"end":42,"label":"EMAIL"}]}
+{"id":361,"content":"감쇠율이 적절합니다. 비율은 damping.ratio@kakao.com으로 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"damping.ratio@kakao.com","begin":17,"end":40,"label":"EMAIL"}]}
+{"id":362,"content":"고유 주파수가 확인되었습니다. 값은 natural.frequency@naver.com으로 표시됩니다.","has_sensitive":true,"entities":[{"value":"natural.frequency@naver.com","begin":22,"end":49,"label":"EMAIL"}]}
+{"id":363,"content":"공진이 발생했습니다. 주파수는 resonance.frequency@daum.net에서 측정됩니다.","has_sensitive":true,"entities":[{"value":"resonance.frequency@daum.net","begin":18,"end":46,"label":"EMAIL"}]}
+{"id":364,"content":"대역폭이 충분합니다. 범위는 bandwidth.range@nate.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"bandwidth.range@nate.com","begin":18,"end":42,"label":"EMAIL"}]}
+{"id":365,"content":"선택도가 높습니다. 특성은 selectivity.characteristic@gmail.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"selectivity.characteristic@gmail.com","begin":16,"end":52,"label":"EMAIL"}]}
+{"id":366,"content":"Q 팩터가 측정되었습니다. 품질 지수는 qfactor.quality@kakao.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"qfactor.quality@kakao.com","begin":22,"end":47,"label":"EMAIL"}]}
+{"id":367,"content":"이득이 증가했습니다. 증폭도는 gain.increase@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"gain.increase@naver.com","begin":18,"end":41,"label":"EMAIL"}]}
+{"id":368,"content":"손실이 감소했습니다. 효율은 loss.reduction@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"loss.reduction@daum.net","begin":17,"end":40,"label":"EMAIL"}]}
+{"id":369,"content":"SNR이 개선되었습니다. 신호 대 잡음비는 snr.improved@nate.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"snr.improved@nate.com","begin":28,"end":49,"label":"EMAIL"}]}
+{"id":370,"content":"THD가 낮아졌습니다. 왜곡률은 thd.distortion@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"thd.distortion@gmail.com","begin":17,"end":41,"label":"EMAIL"}]}
+{"id":371,"content":"SINAD가 향상되었습니다. 비율은 sinad.ratio@kakao.com으로 계산됩니다.","has_sensitive":true,"entities":[{"value":"sinad.ratio@kakao.com","begin":19,"end":40,"label":"EMAIL"}]}
+{"id":372,"content":"ENOB가 측정되었습니다. 유효 비트는 enob.effective@naver.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"enob.effective@naver.com","begin":21,"end":45,"label":"EMAIL"}]}
+{"id":373,"content":"SFDR이 충분합니다. 동적 범위는 sfdr.dynamic@daum.net에서 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"sfdr.dynamic@daum.net","begin":20,"end":41,"label":"EMAIL"}]}
+{"id":374,"content":"IMD가 억제되었습니다. 상호변조는 imd.intermodulation@nate.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"imd.intermodulation@nate.com","begin":18,"end":46,"label":"EMAIL"}]}
+{"id":375,"content":"크로스토크가 차단되었습니다. 격리도는 crosstalk.isolation@gmail.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"crosstalk.isolation@gmail.com","begin":24,"end":53,"label":"EMAIL"}]}
+{"id":376,"content":"정합이 완료되었습니다. 임피던스는 matching.impedance@kakao.com에서 조정됩니다.","has_sensitive":true,"entities":[{"value":"matching.impedance@kakao.com","begin":20,"end":48,"label":"EMAIL"}]}
+{"id":377,"content":"반사가 최소화되었습니다. VSWR은 reflection.vswr@naver.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"reflection.vswr@naver.com","begin":21,"end":46,"label":"EMAIL"}]}
+{"id":378,"content":"전송이 최적화되었습니다. 손실은 transmission.loss@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"transmission.loss@daum.net","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":379,"content":"삽입 손실이 측정되었습니다. 값은 insertion.loss@nate.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"insertion.loss@nate.com","begin":20,"end":43,"label":"EMAIL"}]}
+{"id":380,"content":"반환 손실이 개선되었습니다. 특성은 return.loss@gmail.com에서 분석 가능합니다.","has_sensitive":true,"entities":[{"value":"return.loss@gmail.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":381,"content":"격리도가 높습니다. 분리 특성은 isolation.characteristic@kakao.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"isolation.characteristic@kakao.com","begin":18,"end":52,"label":"EMAIL"}]}
+{"id":382,"content":"지향성이 우수합니다. 방향성은 directivity.direction@naver.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"directivity.direction@naver.com","begin":17,"end":48,"label":"EMAIL"}]}
+{"id":383,"content":"커플링이 조정되었습니다. 결합도는 coupling.factor@daum.net에서 설정하세요.","has_sensitive":true,"entities":[{"value":"coupling.factor@daum.net","begin":20,"end":44,"label":"EMAIL"}]}
+{"id":384,"content":"평탄도가 개선되었습니다. 편차는 flatness.deviation@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"flatness.deviation@nate.com","begin":19,"end":46,"label":"EMAIL"}]}
+{"id":385,"content":"리플이 감소했습니다. 변동은 ripple.variation@gmail.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"ripple.variation@gmail.com","begin":16,"end":42,"label":"EMAIL"}]}
+{"id":386,"content":"스퓨리어스가 제거되었습니다. 불요파는 spurious.emission@kakao.com으로 감시됩니다.","has_sensitive":true,"entities":[{"value":"spurious.emission@kakao.com","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":387,"content":"고조파가 필터링되었습니다. 차수는 harmonic.order@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"harmonic.order@naver.com","begin":21,"end":45,"label":"EMAIL"}]}
+{"id":388,"content":"기본파가 추출되었습니다. 성분은 fundamental.component@daum.net으로 분리됩니다.","has_sensitive":true,"entities":[{"value":"fundamental.component@daum.net","begin":19,"end":49,"label":"EMAIL"}]}
+{"id":389,"content":"배음이 분석되었습니다. 스펙트럼은 overtone.spectrum@nate.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"overtone.spectrum@nate.com","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":390,"content":"서브하모닉이 감지되었습니다. 주파수는 subharmonic.frequency@gmail.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"subharmonic.frequency@gmail.com","begin":24,"end":55,"label":"EMAIL"}]}
+{"id":391,"content":"인터모듈레이션이 측정되었습니다. 생성물은 intermodulation.product@kakao.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"intermodulation.product@kakao.com","begin":29,"end":62,"label":"EMAIL"}]}
+{"id":392,"content":"클리핑이 방지되었습니다. 임계값은 clipping.threshold@naver.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"clipping.threshold@naver.com","begin":20,"end":48,"label":"EMAIL"}]}
+{"id":393,"content":"포화가 회피되었습니다. 레벨은 saturation.level@daum.net에서 관리하세요.","has_sensitive":true,"entities":[{"value":"saturation.level@daum.net","begin":18,"end":43,"label":"EMAIL"}]}
+{"id":394,"content":"오프셋이 제거되었습니다. DC 성분은 offset.dc@nate.com으로 보상됩니다.","has_sensitive":true,"entities":[{"value":"offset.dc@nate.com","begin":20,"end":38,"label":"EMAIL"}]}
+{"id":395,"content":"드리프트가 보정되었습니다. 경향은 drift.trend@gmail.com에서 추적 가능합니다.","has_sensitive":true,"entities":[{"value":"drift.trend@gmail.com","begin":20,"end":41,"label":"EMAIL"}]}
+{"id":396,"content":"교정이 완료되었습니다. 기준값은 calibration.reference@kakao.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"calibration.reference@kakao.com","begin":19,"end":50,"label":"EMAIL"}]}
+{"id":397,"content":"검증이 성공했습니다. 인증서는 verification.certificate@naver.com으로 발급됩니다.","has_sensitive":true,"entities":[{"value":"verification.certificate@naver.com","begin":18,"end":52,"label":"EMAIL"}]}
+{"id":398,"content":"추적성이 확보되었습니다. 체인은 traceability.chain@daum.net에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"traceability.chain@daum.net","begin":20,"end":47,"label":"EMAIL"}]}
+{"id":399,"content":"불확도가 평가되었습니다. 범위는 uncertainty.range@nate.com으로 표시됩니다.","has_sensitive":true,"entities":[{"value":"uncertainty.range@nate.com","begin":19,"end":45,"label":"EMAIL"}]}
+{"id":400,"content":"정확도가 향상되었습니다. 오차는 accuracy.error@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"accuracy.error@gmail.com","begin":19,"end":43,"label":"EMAIL"}]}
+{"id":401,"content":"정밀도가 높습니다. 재현성은 precision.repeatability@kakao.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"precision.repeatability@kakao.com","begin":16,"end":49,"label":"EMAIL"}]}
+{"id":402,"content":"분해능이 충분합니다. 최소 단위는 resolution.minimum@naver.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"resolution.minimum@naver.com","begin":20,"end":48,"label":"EMAIL"}]}
+{"id":403,"content":"감도가 조정되었습니다. 민감도는 sensitivity.adjust@daum.net에서 설정하세요.","has_sensitive":true,"entities":[{"value":"sensitivity.adjust@daum.net","begin":18,"end":45,"label":"EMAIL"}]}
+{"id":404,"content":"선형성이 보장됩니다. 편차는 linearity.deviation@nate.com으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"linearity.deviation@nate.com","begin":16,"end":44,"label":"EMAIL"}]}
+{"id":405,"content":"히스테리시스가 최소화되었습니다. 폭은 hysteresis.width@gmail.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"hysteresis.width@gmail.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":406,"content":"재현성이 우수합니다. 변동 계수는 reproducibility.coefficient@kakao.com으로 계산됩니다.","has_sensitive":true,"entities":[{"value":"reproducibility.coefficient@kakao.com","begin":20,"end":57,"label":"EMAIL"}]}
+{"id":407,"content":"반복성이 검증되었습니다. 표준편차는 repeatability.stdev@naver.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"repeatability.stdev@naver.com","begin":23,"end":52,"label":"EMAIL"}]}
+{"id":408,"content":"안정성이 유지됩니다. 시간 경과는 stability.time@daum.net에서 모니터링됩니다.","has_sensitive":true,"entities":[{"value":"stability.time@daum.net","begin":21,"end":44,"label":"EMAIL"}]}
+{"id":409,"content":"드리프트가 안정적입니다. 비율은 drift.rate@nate.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"drift.rate@nate.com","begin":21,"end":40,"label":"EMAIL"}]}
+{"id":410,"content":"응답 시간이 빠릅니다. 지연은 response.delay@gmail.com에서 측정 가능합니다.","has_sensitive":true,"entities":[{"value":"response.delay@gmail.com","begin":18,"end":42,"label":"EMAIL"}]}
+{"id":411,"content":"회복 시간이 짧습니다. 복귀는 recovery.time@kakao.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"recovery.time@kakao.com","begin":18,"end":41,"label":"EMAIL"}]}
+{"id":412,"content":"동적 범위가 넓습니다. 범위는 dynamic.range@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"dynamic.range@naver.com","begin":17,"end":40,"label":"EMAIL"}]}
+{"id":413,"content":"선택성이 뛰어납니다. 대역은 selectivity.band@daum.net으로 설정 가능합니다.","has_sensitive":true,"entities":[{"value":"selectivity.band@daum.net","begin":17,"end":42,"label":"EMAIL"}]}
+{"id":414,"content":"제거율이 높습니다. 감쇠는 rejection.attenuation@nate.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"rejection.attenuation@nate.com","begin":15,"end":45,"label":"EMAIL"}]}
+{"id":415,"content":"통과 대역이 평탄합니다. 리플은 passband.ripple@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"passband.ripple@gmail.com","begin":19,"end":44,"label":"EMAIL"}]}
+{"id":416,"content":"차단 대역이 급준합니다. 롤오프는 stopband.rolloff@kakao.com으로 평가됩니다.","has_sensitive":true,"entities":[{"value":"stopband.rolloff@kakao.com","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":417,"content":"천이 대역이 좁습니다. 폭은 transition.width@naver.com에서 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"transition.width@naver.com","begin":16,"end":42,"label":"EMAIL"}]}
+{"id":418,"content":"차수가 결정되었습니다. 필터 복잡도는 filter.order@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"filter.order@daum.net","begin":24,"end":45,"label":"EMAIL"}]}
+{"id":419,"content":"계수가 계산되었습니다. 탭 가중치는 coefficient.weight@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"coefficient.weight@nate.com","begin":20,"end":47,"label":"EMAIL"}]}
+{"id":420,"content":"지연선이 구현되었습니다. 샘플 수는 delay.samples@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"delay.samples@gmail.com","begin":21,"end":44,"label":"EMAIL"}]}
+{"id":421,"content":"버퍼가 할당되었습니다. 크기는 buffer.size@kakao.com으로 조정 가능합니다.","has_sensitive":true,"entities":[{"value":"buffer.size@kakao.com","begin":17,"end":38,"label":"EMAIL"}]}
+{"id":422,"content":"큐가 초기화되었습니다. 길이는 queue.length@naver.com에서 설정됩니다.","has_sensitive":true,"entities":[{"value":"queue.length@naver.com","begin":17,"end":39,"label":"EMAIL"}]}
+{"id":423,"content":"스택이 생성되었습니다. 깊이는 stack.depth@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"stack.depth@daum.net","begin":17,"end":37,"label":"EMAIL"}]}
+{"id":424,"content":"리스트가 정렬되었습니다. 순서는 list.sort@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"list.sort@nate.com","begin":19,"end":37,"label":"EMAIL"}]}
+{"id":425,"content":"배열이 할당되었습니다. 인덱스는 array.index@gmail.com으로 접근 가능합니다.","has_sensitive":true,"entities":[{"value":"array.index@gmail.com","begin":19,"end":40,"label":"EMAIL"}]}
+{"id":426,"content":"행렬이 생성되었습니다. 차원은 matrix.dimension@kakao.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"matrix.dimension@kakao.com","begin":17,"end":43,"label":"EMAIL"}]}
+{"id":427,"content":"벡터가 계산되었습니다. 크기는 vector.magnitude@naver.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"vector.magnitude@naver.com","begin":17,"end":43,"label":"EMAIL"}]}
+{"id":428,"content":"텐서가 초기화되었습니다. 형태는 tensor.shape@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"tensor.shape@daum.net","begin":19,"end":40,"label":"EMAIL"}]}
+{"id":429,"content":"스칼라가 할당되었습니다. 값은 scalar.value@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"scalar.value@nate.com","begin":17,"end":38,"label":"EMAIL"}]}
+{"id":430,"content":"변수가 선언되었습니다. 타입은 variable.type@gmail.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"variable.type@gmail.com","begin":17,"end":40,"label":"EMAIL"}]}
+{"id":431,"content":"상수가 정의되었습니다. 불변값은 constant.immutable@kakao.com으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"constant.immutable@kakao.com","begin":18,"end":46,"label":"EMAIL"}]}
+{"id":432,"content":"포인터가 할당되었습니다. 주소는 pointer.address@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"pointer.address@naver.com","begin":19,"end":44,"label":"EMAIL"}]}
+{"id":433,"content":"참조가 생성되었습니다. 대상은 reference.target@daum.net으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"reference.target@daum.net","begin":17,"end":42,"label":"EMAIL"}]}
+{"id":434,"content":"구조체가 정의되었습니다. 멤버는 struct.member@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"struct.member@nate.com","begin":19,"end":41,"label":"EMAIL"}]}
+{"id":435,"content":"클래스가 선언되었습니다. 속성은 class.property@gmail.com으로 접근 가능합니다.","has_sensitive":true,"entities":[{"value":"class.property@gmail.com","begin":19,"end":43,"label":"EMAIL"}]}
+{"id":436,"content":"객체가 인스턴스화되었습니다. 메서드는 object.method@kakao.com으로 호출됩니다.","has_sensitive":true,"entities":[{"value":"object.method@kakao.com","begin":23,"end":46,"label":"EMAIL"}]}
+{"id":437,"content":"인터페이스가 구현되었습니다. 계약은 interface.contract@naver.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"interface.contract@naver.com","begin":21,"end":49,"label":"EMAIL"}]}
+{"id":438,"content":"추상 클래스가 상속되었습니다. 기본 동작은 abstract.base@daum.net에서 제공됩니다.","has_sensitive":true,"entities":[{"value":"abstract.base@daum.net","begin":27,"end":49,"label":"EMAIL"}]}
+{"id":439,"content":"다형성이 적용되었습니다. 오버라이드는 polymorphism.override@nate.com으로 구현됩니다.","has_sensitive":true,"entities":[{"value":"polymorphism.override@nate.com","begin":25,"end":55,"label":"EMAIL"}]}
+{"id":440,"content":"캡슐화가 유지됩니다. 접근 제어는 encapsulation.access@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"encapsulation.access@gmail.com","begin":20,"end":50,"label":"EMAIL"}]}
+{"id":441,"content":"상속이 설정되었습니다. 계층 구조는 inheritance.hierarchy@kakao.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"inheritance.hierarchy@kakao.com","begin":22,"end":53,"label":"EMAIL"}]}
+{"id":442,"content":"컴포지션이 사용되었습니다. 구성은 composition.structure@naver.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"composition.structure@naver.com","begin":21,"end":52,"label":"EMAIL"}]}
+{"id":443,"content":"집합이 형성되었습니다. 요소는 aggregation.element@daum.net에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"aggregation.element@daum.net","begin":17,"end":45,"label":"EMAIL"}]}
+{"id":444,"content":"연관이 맺어졌습니다. 관계는 association.relation@nate.com으로 표현됩니다.","has_sensitive":true,"entities":[{"value":"association.relation@nate.com","begin":15,"end":44,"label":"EMAIL"}]}
+{"id":445,"content":"의존성이 주입되었습니다. 컨테이너는 dependency.injection@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"dependency.injection@gmail.com","begin":21,"end":51,"label":"EMAIL"}]}
+{"id":446,"content":"싱글톤이 생성되었습니다. 인스턴스는 singleton.instance@kakao.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"singleton.instance@kakao.com","begin":21,"end":49,"label":"EMAIL"}]}
+{"id":447,"content":"팩토리가 구현되었습니다. 생성 패턴은 factory.pattern@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"factory.pattern@naver.com","begin":21,"end":46,"label":"EMAIL"}]}
+{"id":448,"content":"빌더가 사용되었습니다. 구축 단계는 builder.steps@daum.net으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"builder.steps@daum.net","begin":21,"end":43,"label":"EMAIL"}]}
+{"id":449,"content":"프로토타입이 복제되었습니다. 원형은 prototype.original@nate.com으로 보관됩니다.","has_sensitive":true,"entities":[{"value":"prototype.original@nate.com","begin":21,"end":48,"label":"EMAIL"}]}
+{"id":450,"content":"어댑터가 연결되었습니다. 변환은 adapter.conversion@gmail.com으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"adapter.conversion@gmail.com","begin":18,"end":46,"label":"EMAIL"}]}
+{"id":451,"content":"브리지가 분리되었습니다. 추상화는 bridge.abstraction@kakao.com으로 독립됩니다.","has_sensitive":true,"entities":[{"value":"bridge.abstraction@kakao.com","begin":19,"end":47,"label":"EMAIL"}]}
+{"id":452,"content":"컴포지트가 구성되었습니다. 트리 구조는 composite.tree@naver.com에서 탐색됩니다.","has_sensitive":true,"entities":[{"value":"composite.tree@naver.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":453,"content":"데코레이터가 장식되었습니다. 기능 추가는 decorator.enhance@daum.net으로 가능합니다.","has_sensitive":true,"entities":[{"value":"decorator.enhance@daum.net","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":454,"content":"퍼사드가 단순화되었습니다. 인터페이스는 facade.interface@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"facade.interface@nate.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":455,"content":"플라이웨이트가 공유되었습니다. 내부 상태는 flyweight.intrinsic@gmail.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"flyweight.intrinsic@gmail.com","begin":27,"end":56,"label":"EMAIL"}]}
+{"id":456,"content":"프록시가 대리합니다. 실제 객체는 proxy.realobject@kakao.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"proxy.realobject@kakao.com","begin":19,"end":45,"label":"EMAIL"}]}
+{"id":457,"content":"책임 연쇄가 형성되었습니다. 핸들러는 chain.handler@naver.com에서 처리됩니다.","has_sensitive":true,"entities":[{"value":"chain.handler@naver.com","begin":23,"end":46,"label":"EMAIL"}]}
+{"id":458,"content":"커맨드가 실행되었습니다. 명령 객체는 command.execute@daum.net으로 호출됩니다.","has_sensitive":true,"entities":[{"value":"command.execute@daum.net","begin":22,"end":46,"label":"EMAIL"}]}
+{"id":459,"content":"인터프리터가 해석했습니다. 문법은 interpreter.grammar@nate.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"interpreter.grammar@nate.com","begin":21,"end":49,"label":"EMAIL"}]}
+{"id":460,"content":"이터레이터가 순회합니다. 컬렉션은 iterator.collection@gmail.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"iterator.collection@gmail.com","begin":20,"end":49,"label":"EMAIL"}]}
+{"id":461,"content":"중재자가 조정합니다. 통신은 mediator.communication@kakao.com으로 중계됩니다.","has_sensitive":true,"entities":[{"value":"mediator.communication@kakao.com","begin":16,"end":48,"label":"EMAIL"}]}
+{"id":462,"content":"메멘토가 저장되었습니다. 상태 복원은 memento.restore@naver.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"memento.restore@naver.com","begin":20,"end":45,"label":"EMAIL"}]}
+{"id":463,"content":"옵저버가 통지받았습니다. 구독자는 observer.subscriber@daum.net으로 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"observer.subscriber@daum.net","begin":20,"end":48,"label":"EMAIL"}]}
+{"id":464,"content":"상태가 전환되었습니다. 컨텍스트는 state.context@nate.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"state.context@nate.com","begin":19,"end":41,"label":"EMAIL"}]}
+{"id":465,"content":"전략이 선택되었습니다. 알고리즘은 strategy.algorithm@gmail.com으로 교체 가능합니다.","has_sensitive":true,"entities":[{"value":"strategy.algorithm@gmail.com","begin":19,"end":47,"label":"EMAIL"}]}
+{"id":466,"content":"템플릿 메서드가 정의되었습니다. 골격은 template.skeleton@kakao.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"template.skeleton@kakao.com","begin":24,"end":51,"label":"EMAIL"}]}
+{"id":467,"content":"방문자가 순회했습니다. 요소는 visitor.element@naver.com에서 방문됩니다.","has_sensitive":true,"entities":[{"value":"visitor.element@naver.com","begin":18,"end":43,"label":"EMAIL"}]}
+{"id":468,"content":"모델이 업데이트되었습니다. 데이터는 model.data@daum.net으로 동기화됩니다.","has_sensitive":true,"entities":[{"value":"model.data@daum.net","begin":21,"end":40,"label":"EMAIL"}]}
+{"id":469,"content":"뷰가 렌더링되었습니다. 표현은 view.presentation@nate.com으로 출력됩니다.","has_sensitive":true,"entities":[{"value":"view.presentation@nate.com","begin":17,"end":43,"label":"EMAIL"}]}
+{"id":470,"content":"컨트롤러가 처리했습니다. 로직은 controller.logic@gmail.com에서 실행됩니다.","has_sensitive":true,"entities":[{"value":"controller.logic@gmail.com","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":471,"content":"프레젠터가 중재합니다. 바인딩은 presenter.binding@kakao.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"presenter.binding@kakao.com","begin":18,"end":45,"label":"EMAIL"}]}
+{"id":472,"content":"뷰모델이 바인딩되었습니다. 상태는 viewmodel.state@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"viewmodel.state@naver.com","begin":20,"end":45,"label":"EMAIL"}]}
+{"id":473,"content":"서비스가 제공됩니다. 비즈니스 로직은 service.business@daum.net에서 처리됩니다.","has_sensitive":true,"entities":[{"value":"service.business@daum.net","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":474,"content":"리포지토리가 저장합니다. 엔티티는 repository.entity@nate.com으로 영속화됩니다.","has_sensitive":true,"entities":[{"value":"repository.entity@nate.com","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":475,"content":"DAO가 접근합니다. 데이터베이스는 dao.database@gmail.com으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"dao.database@gmail.com","begin":21,"end":43,"label":"EMAIL"}]}
+{"id":476,"content":"DTO가 전송되었습니다. 객체는 dto.transfer@kakao.com으로 변환됩니다.","has_sensitive":true,"entities":[{"value":"dto.transfer@kakao.com","begin":18,"end":40,"label":"EMAIL"}]}
+{"id":477,"content":"엔티티가 매핑되었습니다. ORM은 entity.mapping@naver.com에서 설정됩니다.","has_sensitive":true,"entities":[{"value":"entity.mapping@naver.com","begin":20,"end":44,"label":"EMAIL"}]}
+{"id":478,"content":"밸류 객체가 불변입니다. 값은 valueobject.immutable@daum.net으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"valueobject.immutable@daum.net","begin":19,"end":49,"label":"EMAIL"}]}
+{"id":479,"content":"집합 루트가 관리합니다. 경계는 aggregateroot.boundary@nate.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"aggregateroot.boundary@nate.com","begin":19,"end":50,"label":"EMAIL"}]}
+{"id":480,"content":"도메인 이벤트가 발생했습니다. 알림은 domainevent.notification@gmail.com으로 전파됩니다.","has_sensitive":true,"entities":[{"value":"domainevent.notification@gmail.com","begin":24,"end":58,"label":"EMAIL"}]}
+{"id":481,"content":"명령이 수행되었습니다. 의도는 command.intent@kakao.com으로 표현됩니다.","has_sensitive":true,"entities":[{"value":"command.intent@kakao.com","begin":17,"end":41,"label":"EMAIL"}]}
+{"id":482,"content":"쿼리가 실행되었습니다. 조회는 query.read@naver.com에서 처리됩니다.","has_sensitive":true,"entities":[{"value":"query.read@naver.com","begin":18,"end":38,"label":"EMAIL"}]}
+{"id":483,"content":"사가가 조율합니다. 트랜잭션은 saga.transaction@daum.net으로 보상됩니다.","has_sensitive":true,"entities":[{"value":"saga.transaction@daum.net","begin":17,"end":42,"label":"EMAIL"}]}
+{"id":484,"content":"이벤트 소싱이 기록합니다. 히스토리는 eventsourcing.history@nate.com으로 재생됩니다.","has_sensitive":true,"entities":[{"value":"eventsourcing.history@nate.com","begin":24,"end":54,"label":"EMAIL"}]}
+{"id":485,"content":"CQRS가 분리되었습니다. 읽기는 cqrs.read@gmail.com에서 최적화됩니다.","has_sensitive":true,"entities":[{"value":"cqrs.read@gmail.com","begin":20,"end":39,"label":"EMAIL"}]}
+{"id":486,"content":"마이크로서비스가 배포되었습니다. 엔드포인트는 microservice.endpoint@kakao.com으로 노출됩니다.","has_sensitive":true,"entities":[{"value":"microservice.endpoint@kakao.com","begin":32,"end":63,"label":"EMAIL"}]}
+{"id":487,"content":"API 게이트웨이가 라우팅합니다. 경로는 apigateway.route@naver.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"apigateway.route@naver.com","begin":27,"end":53,"label":"EMAIL"}]}
+{"id":488,"content":"서비스 메시가 연결합니다. 통신은 servicemesh.communication@daum.net으로 제어됩니다.","has_sensitive":true,"entities":[{"value":"servicemesh.communication@daum.net","begin":20,"end":54,"label":"EMAIL"}]}
+{"id":489,"content":"로드 밸런서가 분산합니다. 트래픽은 loadbalancer.traffic@nate.com으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"loadbalancer.traffic@nate.com","begin":22,"end":51,"label":"EMAIL"}]}
+{"id":490,"content":"서킷 브레이커가 차단했습니다. 장애는 circuitbreaker.fault@gmail.com으로 격리됩니다.","has_sensitive":true,"entities":[{"value":"circuitbreaker.fault@gmail.com","begin":25,"end":55,"label":"EMAIL"}]}
+{"id":491,"content":"재시도 정책이 적용되었습니다. 횟수는 retry.policy@kakao.com에서 설정됩니다.","has_sensitive":true,"entities":[{"value":"retry.policy@kakao.com","begin":23,"end":45,"label":"EMAIL"}]}
+{"id":492,"content":"타임아웃이 발생했습니다. 제한은 timeout.limit@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"timeout.limit@naver.com","begin":19,"end":42,"label":"EMAIL"}]}
+{"id":493,"content":"벌크헤드가 격리합니다. 리소스는 bulkhead.resource@daum.net으로 분리됩니다.","has_sensitive":true,"entities":[{"value":"bulkhead.resource@daum.net","begin":18,"end":44,"label":"EMAIL"}]}
+{"id":494,"content":"레이트 리미터가 제한합니다. 속도는 ratelimiter.speed@nate.com으로 조절됩니다.","has_sensitive":true,"entities":[{"value":"ratelimiter.speed@nate.com","begin":23,"end":49,"label":"EMAIL"}]}
+{"id":495,"content":"캐시가 히트했습니다. 데이터는 cache.hit@gmail.com에서 반환됩니다.","has_sensitive":true,"entities":[{"value":"cache.hit@gmail.com","begin":18,"end":37,"label":"EMAIL"}]}
+{"id":496,"content":"인덱스가 생성되었습니다. 조회 성능은 index.performance@kakao.com으로 개선됩니다.","has_sensitive":true,"entities":[{"value":"index.performance@kakao.com","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":497,"content":"파티션이 분할되었습니다. 샤드는 partition.shard@naver.com에서 관리됩니다.","has_sensitive":true,"entities":[{"value":"partition.shard@naver.com","begin":20,"end":45,"label":"EMAIL"}]}
+{"id":498,"content":"복제가 동기화되었습니다. 노드는 replication.node@daum.net으로 미러링됩니다.","has_sensitive":true,"entities":[{"value":"replication.node@daum.net","begin":19,"end":44,"label":"EMAIL"}]}
+{"id":499,"content":"클러스터가 확장되었습니다. 노드는 cluster.scale@nate.com으로 추가됩니다.","has_sensitive":true,"entities":[{"value":"cluster.scale@nate.com","begin":21,"end":43,"label":"EMAIL"}]}
+{"id":500,"content":"합의가 도달되었습니다. 프로토콜은 consensus.protocol@gmail.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"consensus.protocol@gmail.com","begin":19,"end":47,"label":"EMAIL"}]}
+{"id":501,"content":"리더가 선출되었습니다. 노드는 leader.election@kakao.com으로 결정됩니다.","has_sensitive":true,"entities":[{"value":"leader.election@kakao.com","begin":17,"end":42,"label":"EMAIL"}]}
+{"id":502,"content":"팔로워가 추종합니다. 복제는 follower.replication@naver.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"follower.replication@naver.com","begin":17,"end":47,"label":"EMAIL"}]}
+{"id":503,"content":"쿼럼이 형성되었습니다. 과반수는 quorum.majority@daum.net에서 확인됩니다.","has_sensitive":true,"entities":[{"value":"quorum.majority@daum.net","begin":18,"end":42,"label":"EMAIL"}]}
+{"id":504,"content":"로그가 복제되었습니다. 엔트리는 log.replication@nate.com으로 전파됩니다.","has_sensitive":true,"entities":[{"value":"log.replication@nate.com","begin":20,"end":44,"label":"EMAIL"}]}
+{"id":505,"content":"스냅샷이 압축되었습니다. 상태는 snapshot.compact@gmail.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"snapshot.compact@gmail.com","begin":19,"end":45,"label":"EMAIL"}]}
+{"id":506,"content":"체크포인트가 설정되었습니다. 위치는 checkpoint.position@kakao.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"checkpoint.position@kakao.com","begin":21,"end":50,"label":"EMAIL"}]}
+{"id":507,"content":"커밋이 완료되었습니다. 변경 사항은 commit.changes@naver.com으로 반영됩니다.","has_sensitive":true,"entities":[{"value":"commit.changes@naver.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":508,"content":"롤백이 수행되었습니다. 복원 지점은 rollback.point@daum.net으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"rollback.point@daum.net","begin":23,"end":46,"label":"EMAIL"}]}
+{"id":509,"content":"트랜잭션이 시작되었습니다. 격리 수준은 transaction.isolation@nate.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"transaction.isolation@nate.com","begin":26,"end":56,"label":"EMAIL"}]}
+{"id":510,"content":"잠금이 획득되었습니다. 동시성은 lock.concurrency@gmail.com으로 제어됩니다.","has_sensitive":true,"entities":[{"value":"lock.concurrency@gmail.com","begin":18,"end":44,"label":"EMAIL"}]}
+{"id":511,"content":"데드락이 감지되었습니다. 해결은 deadlock.resolution@kakao.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"deadlock.resolution@kakao.com","begin":19,"end":48,"label":"EMAIL"}]}
+{"id":512,"content":"타임스탬프가 기록되었습니다. 순서는 timestamp.ordering@naver.com으로 보장됩니다.","has_sensitive":true,"entities":[{"value":"timestamp.ordering@naver.com","begin":21,"end":49,"label":"EMAIL"}]}
+{"id":513,"content":"버전이 증가했습니다. 충돌 해결은 version.conflict@daum.net으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"version.conflict@daum.net","begin":20,"end":45,"label":"EMAIL"}]}
+{"id":514,"content":"병합이 완료되었습니다. 결과는 merge.result@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"merge.result@nate.com","begin":18,"end":39,"label":"EMAIL"}]}
+{"id":515,"content":"충돌이 해결되었습니다. 전략은 conflict.strategy@gmail.com으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"conflict.strategy@gmail.com","begin":18,"end":45,"label":"EMAIL"}]}
+{"id":516,"content":"분기가 생성되었습니다. 브랜치는 branch.create@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"branch.create@kakao.com","begin":19,"end":42,"label":"EMAIL"}]}
+{"id":517,"content":"태그가 지정되었습니다. 릴리스는 tag.release@naver.com에서 표시됩니다.","has_sensitive":true,"entities":[{"value":"tag.release@naver.com","begin":18,"end":39,"label":"EMAIL"}]}
+{"id":518,"content":"체리픽이 적용되었습니다. 커밋은 cherrypick.commit@daum.net으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"cherrypick.commit@daum.net","begin":20,"end":46,"label":"EMAIL"}]}
+{"id":519,"content":"리베이스가 진행되었습니다. 기준은 rebase.base@nate.com으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"rebase.base@nate.com","begin":21,"end":41,"label":"EMAIL"}]}
+{"id":520,"content":"스태시가 저장되었습니다. 임시 보관은 stash.temporary@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"stash.temporary@gmail.com","begin":22,"end":47,"label":"EMAIL"}]}
+{"id":521,"content":"풀 리퀘스트가 생성되었습니다. 검토는 pullrequest.review@kakao.com으로 요청됩니다.","has_sensitive":true,"entities":[{"value":"pullrequest.review@kakao.com","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":522,"content":"코드 리뷰가 완료되었습니다. 피드백은 codereview.feedback@naver.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"codereview.feedback@naver.com","begin":24,"end":53,"label":"EMAIL"}]}
+{"id":523,"content":"승인이 완료되었습니다. 병합 권한은 approval.merge@daum.net으로 부여됩니다.","has_sensitive":true,"entities":[{"value":"approval.merge@daum.net","begin":22,"end":45,"label":"EMAIL"}]}
+{"id":524,"content":"CI가 실행되었습니다. 빌드 상태는 ci.build@nate.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"ci.build@nate.com","begin":21,"end":38,"label":"EMAIL"}]}
+{"id":525,"content":"CD가 배포합니다. 릴리스는 cd.release@gmail.com으로 자동화됩니다.","has_sensitive":true,"entities":[{"value":"cd.release@gmail.com","begin":16,"end":36,"label":"EMAIL"}]}
+{"id":526,"content":"파이프라인이 구성되었습니다. 단계는 pipeline.stage@kakao.com에서 정의됩니다.","has_sensitive":true,"entities":[{"value":"pipeline.stage@kakao.com","begin":22,"end":46,"label":"EMAIL"}]}
+{"id":527,"content":"아티팩트가 저장되었습니다. 바이너리는 artifact.binary@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"artifact.binary@naver.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":528,"content":"도커 이미지가 빌드되었습니다. 레지스트리는 docker.registry@daum.net으로 푸시됩니다.","has_sensitive":true,"entities":[{"value":"docker.registry@daum.net","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":529,"content":"컨테이너가 실행되었습니다. 오케스트레이션은 container.orchestration@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"container.orchestration@nate.com","begin":32,"end":64,"label":"EMAIL"}]}
+{"id":530,"content":"팟이 스케줄되었습니다. 배치는 pod.scheduling@gmail.com에서 결정됩니다.","has_sensitive":true,"entities":[{"value":"pod.scheduling@gmail.com","begin":18,"end":42,"label":"EMAIL"}]}
+{"id":531,"content":"서비스가 노출되었습니다. 엔드포인트는 service.expose@kakao.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"service.expose@kakao.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":532,"content":"인그레스가 라우팅합니다. 규칙은 ingress.rule@naver.com에서 설정됩니다.","has_sensitive":true,"entities":[{"value":"ingress.rule@naver.com","begin":20,"end":42,"label":"EMAIL"}]}
+{"id":533,"content":"볼륨이 마운트되었습니다. 스토리지는 volume.storage@daum.net으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"volume.storage@daum.net","begin":22,"end":45,"label":"EMAIL"}]}
+{"id":534,"content":"시크릿이 암호화되었습니다. 키는 secret.encryption@nate.com으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"secret.encryption@nate.com","begin":19,"end":45,"label":"EMAIL"}]}
+{"id":535,"content":"컨피그맵이 주입되었습니다. 설정은 configmap.inject@gmail.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"configmap.inject@gmail.com","begin":21,"end":47,"label":"EMAIL"}]}
+{"id":536,"content":"헬스체크가 통과했습니다. 상태는 healthcheck.status@kakao.com으로 보고됩니다.","has_sensitive":true,"entities":[{"value":"healthcheck.status@kakao.com","begin":19,"end":47,"label":"EMAIL"}]}
+{"id":537,"content":"레디니스 프로브가 준비되었습니다. 신호는 readiness.probe@naver.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"readiness.probe@naver.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":538,"content":"라이브니스 프로브가 응답합니다. 확인은 liveness.probe@daum.net에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"liveness.probe@daum.net","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":539,"content":"오토스케일링이 조정합니다. 메트릭은 autoscaling.metric@nate.com으로 측정됩니다.","has_sensitive":true,"entities":[{"value":"autoscaling.metric@nate.com","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":540,"content":"HPA가 확장합니다. 레플리카는 hpa.replica@gmail.com으로 증가됩니다.","has_sensitive":true,"entities":[{"value":"hpa.replica@gmail.com","begin":18,"end":39,"label":"EMAIL"}]}
+{"id":541,"content":"VPA가 조절합니다. 리소스는 vpa.resource@kakao.com으로 최적화됩니다.","has_sensitive":true,"entities":[{"value":"vpa.resource@kakao.com","begin":17,"end":39,"label":"EMAIL"}]}
+{"id":542,"content":"네임스페이스가 격리되었습니다. 범위는 namespace.scope@naver.com으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"namespace.scope@naver.com","begin":23,"end":48,"label":"EMAIL"}]}
+{"id":543,"content":"라벨이 선택되었습니다. 필터링은 label.selector@daum.net으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"label.selector@daum.net","begin":20,"end":43,"label":"EMAIL"}]}
+{"id":544,"content":"어노테이션이 추가되었습니다. 메타데이터는 annotation.metadata@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"annotation.metadata@nate.com","begin":27,"end":55,"label":"EMAIL"}]}
+{"id":545,"content":"테인트가 적용되었습니다. 톨러레이션은 taint.toleration@gmail.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"taint.toleration@gmail.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":546,"content":"어피니티가 구성되었습니다. 선호도는 affinity.preference@kakao.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"affinity.preference@kakao.com","begin":21,"end":50,"label":"EMAIL"}]}
+{"id":547,"content":"노드 셀렉터가 매칭합니다. 조건은 nodeselector.condition@naver.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"nodeselector.condition@naver.com","begin":21,"end":53,"label":"EMAIL"}]}
+{"id":548,"content":"리소스 쿼터가 제한합니다. 할당량은 resourcequota.allocation@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"resourcequota.allocation@daum.net","begin":24,"end":57,"label":"EMAIL"}]}
+{"id":549,"content":"리밋 레인지가 설정되었습니다. 범위는 limitrange.boundary@nate.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"limitrange.boundary@nate.com","begin":25,"end":53,"label":"EMAIL"}]}
+{"id":550,"content":"네트워크 정책이 적용되었습니다. 규칙은 networkpolicy.rule@gmail.com으로 차단됩니다.","has_sensitive":true,"entities":[{"value":"networkpolicy.rule@gmail.com","begin":26,"end":54,"label":"EMAIL"}]}
+{"id":551,"content":"보안 컨텍스트가 강화되었습니다. 권한은 securitycontext.privilege@kakao.com으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"securitycontext.privilege@kakao.com","begin":28,"end":63,"label":"EMAIL"}]}
+{"id":552,"content":"PSP가 검증합니다. 정책은 psp.policy@naver.com에서 시행됩니다.","has_sensitive":true,"entities":[{"value":"psp.policy@naver.com","begin":16,"end":36,"label":"EMAIL"}]}
+{"id":553,"content":"RBAC이 인가합니다. 역할은 rbac.role@daum.net으로 바인딩됩니다.","has_sensitive":true,"entities":[{"value":"rbac.role@daum.net","begin":17,"end":35,"label":"EMAIL"}]}
+{"id":554,"content":"서비스 어카운트가 생성되었습니다. 토큰은 serviceaccount.token@nate.com으로 발급됩니다.","has_sensitive":true,"entities":[{"value":"serviceaccount.token@nate.com","begin":29,"end":58,"label":"EMAIL"}]}
+{"id":555,"content":"클러스터롤이 할당되었습니다. 범위는 clusterrole.scope@gmail.com으로 확장됩니다.","has_sensitive":true,"entities":[{"value":"clusterrole.scope@gmail.com","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":556,"content":"롤 바인딩이 연결되었습니다. 주체는 rolebinding.subject@kakao.com으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"rolebinding.subject@kakao.com","begin":21,"end":50,"label":"EMAIL"}]}
+{"id":557,"content":"어드미션 컨트롤러가 검증합니다. 웹훅은 admission.webhook@naver.com으로 호출됩니다.","has_sensitive":true,"entities":[{"value":"admission.webhook@naver.com","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":558,"content":"뮤테이팅 웹훅이 수정합니다. 변형은 mutating.webhook@daum.net으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"mutating.webhook@daum.net","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":559,"content":"밸리데이팅 웹훅이 검사합니다. 유효성은 validating.webhook@nate.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"validating.webhook@nate.com","begin":27,"end":54,"label":"EMAIL"}]}
+{"id":560,"content":"CRD가 확장합니다. 사용자 정의는 crd.custom@gmail.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"crd.custom@gmail.com","begin":21,"end":41,"label":"EMAIL"}]}
+{"id":561,"content":"오퍼레이터가 조정합니다. 상태 조정은 operator.reconcile@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"operator.reconcile@kakao.com","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":562,"content":"컨트롤 루프가 감시합니다. 이벤트는 controlloop.watch@naver.com으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"controlloop.watch@naver.com","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":563,"content":"스테이트풀셋이 순서를 보장합니다. 파드는 statefulset.pod@daum.net으로 유지됩니다.","has_sensitive":true,"entities":[{"value":"statefulset.pod@daum.net","begin":29,"end":53,"label":"EMAIL"}]}
+{"id":564,"content":"데몬셋이 모든 노드에 배포됩니다. 에이전트는 daemonset.agent@nate.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"daemonset.agent@nate.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":565,"content":"잡이 완료되었습니다. 배치 작업은 job.batch@gmail.com에서 종료됩니다.","has_sensitive":true,"entities":[{"value":"job.batch@gmail.com","begin":22,"end":41,"label":"EMAIL"}]}
+{"id":566,"content":"크론잡이 스케줄됩니다. 주기는 cronjob.schedule@kakao.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"cronjob.schedule@kakao.com","begin":19,"end":45,"label":"EMAIL"}]}
+{"id":567,"content":"디플로이먼트가 롤아웃합니다. 전략은 deployment.strategy@naver.com으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"deployment.strategy@naver.com","begin":24,"end":53,"label":"EMAIL"}]}
+{"id":568,"content":"레플리카셋이 복제합니다. 인스턴스는 replicaset.instance@daum.net으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"replicaset.instance@daum.net","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":569,"content":"레플리케이션 컨트롤러가 유지합니다. 개수는 replicationcontroller.count@nate.com으로 보장됩니다.","has_sensitive":true,"entities":[{"value":"replicationcontroller.count@nate.com","begin":32,"end":68,"label":"EMAIL"}]}
+{"id":570,"content":"엔드포인트가 업데이트되었습니다. 주소는 endpoint.address@gmail.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"endpoint.address@gmail.com","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":571,"content":"퍼시스턴트 볼륨이 프로비저닝되었습니다. 스토리지는 persistentvolume.storage@kakao.com으로 할당됩니다.","has_sensitive":true,"entities":[{"value":"persistentvolume.storage@kakao.com","begin":38,"end":72,"label":"EMAIL"}]}
+{"id":572,"content":"PVC가 바인딩되었습니다. 클레임은 pvc.claim@naver.com으로 요청됩니다.","has_sensitive":true,"entities":[{"value":"pvc.claim@naver.com","begin":20,"end":39,"label":"EMAIL"}]}
+{"id":573,"content":"스토리지 클래스가 선택되었습니다. 프로비저너는 storageclass.provisioner@daum.net으로 지정됩니다.","has_sensitive":true,"entities":[{"value":"storageclass.provisioner@daum.net","begin":34,"end":67,"label":"EMAIL"}]}
+{"id":574,"content":"볼륨 스냅샷이 생성되었습니다. 백업은 volumesnapshot.backup@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"volumesnapshot.backup@nate.com","begin":28,"end":58,"label":"EMAIL"}]}
+{"id":575,"content":"CSI 드라이버가 연결합니다. 인터페이스는 csi.driver@gmail.com으로 구현됩니다.","has_sensitive":true,"entities":[{"value":"csi.driver@gmail.com","begin":27,"end":47,"label":"EMAIL"}]}
+{"id":576,"content":"프로메테우스가 수집합니다. 메트릭은 prometheus.metric@kakao.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"prometheus.metric@kakao.com","begin":24,"end":51,"label":"EMAIL"}]}
+{"id":577,"content":"그라파나가 시각화합니다. 대시보드는 grafana.dashboard@naver.com에서 확인됩니다.","has_sensitive":true,"entities":[{"value":"grafana.dashboard@naver.com","begin":24,"end":51,"label":"EMAIL"}]}
+{"id":578,"content":"알림 매니저가 통지합니다. 경고는 alertmanager.alert@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"alertmanager.alert@daum.net","begin":23,"end":50,"label":"EMAIL"}]}
+{"id":579,"content":"로키가 로그를 집계합니다. 쿼리는 loki.query@nate.com에서 실행됩니다.","has_sensitive":true,"entities":[{"value":"loki.query@nate.com","begin":22,"end":41,"label":"EMAIL"}]}
+{"id":580,"content":"예거가 추적합니다. 트레이스는 jaeger.trace@gmail.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"jaeger.trace@gmail.com","begin":19,"end":41,"label":"EMAIL"}]}
+{"id":581,"content":"집킨이 분산 추적합니다. 스팬은 zipkin.span@kakao.com으로 수집됩니다.","has_sensitive":true,"entities":[{"value":"zipkin.span@kakao.com","begin":20,"end":41,"label":"EMAIL"}]}
+{"id":582,"content":"플루언트디가 전달합니다. 로그는 fluentd.log@naver.com으로 라우팅됩니다.","has_sensitive":true,"entities":[{"value":"fluentd.log@naver.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":583,"content":"일래스틱서치가 인덱싱합니다. 문서는 elasticsearch.document@daum.net으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"elasticsearch.document@daum.net","begin":27,"end":58,"label":"EMAIL"}]}
+{"id":584,"content":"키바나가 분석합니다. 시각화는 kibana.visualization@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"kibana.visualization@nate.com","begin":19,"end":48,"label":"EMAIL"}]}
+{"id":585,"content":"로그스태시가 파이프라인을 구성합니다. 필터는 logstash.filter@gmail.com으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"logstash.filter@gmail.com","begin":33,"end":58,"label":"EMAIL"}]}
+{"id":586,"content":"메트릭비트가 수집합니다. 시스템 지표는 metricbeat.system@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"metricbeat.system@kakao.com","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":587,"content":"파일비트가 전달합니다. 로그 파일은 filebeat.file@naver.com으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"filebeat.file@naver.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":588,"content":"하트비트가 모니터링합니다. 가용성은 heartbeat.availability@daum.net으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"heartbeat.availability@daum.net","begin":24,"end":55,"label":"EMAIL"}]}
+{"id":589,"content":"APM이 성능을 추적합니다. 트랜잭션은 apm.transaction@nate.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"apm.transaction@nate.com","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":590,"content":"뉴렐릭이 모니터링합니다. 인사이트는 newrelic.insight@gmail.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"newrelic.insight@gmail.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":591,"content":"데이터독이 관측합니다. 이벤트는 datadog.event@kakao.com으로 수집됩니다.","has_sensitive":true,"entities":[{"value":"datadog.event@kakao.com","begin":21,"end":44,"label":"EMAIL"}]}
+{"id":592,"content":"스플렁크가 검색합니다. 인덱스는 splunk.index@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"splunk.index@naver.com","begin":20,"end":42,"label":"EMAIL"}]}
+{"id":593,"content":"써모가 오토스케일링합니다. 예측은 thermo.prediction@daum.net으로 계산됩니다.","has_sensitive":true,"entities":[{"value":"thermo.prediction@daum.net","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":594,"content":"아르고CD가 지속적으로 배포합니다. GitOps는 argocd.gitops@nate.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"argocd.gitops@nate.com","begin":34,"end":56,"label":"EMAIL"}]}
+{"id":595,"content":"플럭스가 동기화합니다. 매니페스트는 flux.manifest@gmail.com으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"flux.manifest@gmail.com","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":596,"content":"젠킨스가 빌드합니다. 파이프라인은 jenkins.pipeline@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"jenkins.pipeline@kakao.com","begin":24,"end":50,"label":"EMAIL"}]}
+{"id":597,"content":"깃랩 CI가 통합합니다. 러너는 gitlabci.runner@naver.com에서 작동됩니다.","has_sensitive":true,"entities":[{"value":"gitlabci.runner@naver.com","begin":21,"end":46,"label":"EMAIL"}]}
+{"id":598,"content":"서클CI가 자동화합니다. 워크플로우는 circleci.workflow@daum.net으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"circleci.workflow@daum.net","begin":25,"end":51,"label":"EMAIL"}]}
+{"id":599,"content":"트래비스가 테스트합니다. 빌드는 travis.build@nate.com으로 트리거됩니다.","has_sensitive":true,"entities":[{"value":"travis.build@nate.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":600,"content":"깃허브 액션이 실행됩니다. 워크플로우는 githubaction.workflow@gmail.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"githubaction.workflow@gmail.com","begin":29,"end":60,"label":"EMAIL"}]}
+{"id":601,"content":"테라폼이 인프라를 프로비저닝합니다. 상태는 terraform.state@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"terraform.state@kakao.com","begin":33,"end":58,"label":"EMAIL"}]}
+{"id":602,"content":"앤서블이 구성을 관리합니다. 플레이북은 ansible.playbook@naver.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"ansible.playbook@naver.com","begin":28,"end":54,"label":"EMAIL"}]}
+{"id":603,"content":"퍼펫이 자동화합니다. 매니페스트는 puppet.manifest@daum.net으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"puppet.manifest@daum.net","begin":23,"end":47,"label":"EMAIL"}]}
+{"id":604,"content":"셰프가 조리법을 실행합니다. 레시피는 chef.recipe@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"chef.recipe@nate.com","begin":26,"end":46,"label":"EMAIL"}]}
+{"id":605,"content":"솔트스택이 명령을 실행합니다. 상태는 saltstack.state@gmail.com으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"saltstack.state@gmail.com","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":606,"content":"파커가 이미지를 빌드합니다. 템플릿은 packer.template@kakao.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"packer.template@kakao.com","begin":26,"end":51,"label":"EMAIL"}]}
+{"id":607,"content":"베이그런트가 환경을 구성합니다. Vagrantfile은 vagrant.file@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"vagrant.file@naver.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":608,"content":"컨설이 서비스를 발견합니다. 레지스트리는 consul.registry@daum.net으로 유지됩니다.","has_sensitive":true,"entities":[{"value":"consul.registry@daum.net","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":609,"content":"볼트가 비밀을 관리합니다. 시크릿은 vault.secret@nate.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"vault.secret@nate.com","begin":25,"end":46,"label":"EMAIL"}]}
+{"id":610,"content":"etcd가 키-값을 저장합니다. 데이터는 etcd.data@gmail.com으로 복제됩니다.","has_sensitive":true,"entities":[{"value":"etcd.data@gmail.com","begin":27,"end":46,"label":"EMAIL"}]}
+{"id":611,"content":"주키퍼가 조정합니다. 노드는 zookeeper.node@kakao.com으로 동기화됩니다.","has_sensitive":true,"entities":[{"value":"zookeeper.node@kakao.com","begin":18,"end":42,"label":"EMAIL"}]}
+{"id":612,"content":"레디스가 캐싱합니다. 키는 redis.key@naver.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"redis.key@naver.com","begin":17,"end":36,"label":"EMAIL"}]}
+{"id":613,"content":"멤캐시드가 메모리에 저장합니다. 객체는 memcached.object@daum.net으로 캐시됩니다.","has_sensitive":true,"entities":[{"value":"memcached.object@daum.net","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":614,"content":"하젤캐스트가 분산 캐시를 제공합니다. 맵은 hazelcast.map@nate.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"hazelcast.map@nate.com","begin":32,"end":54,"label":"EMAIL"}]}
+{"id":615,"content":"레빗MQ가 메시지를 전달합니다. 큐는 rabbitmq.queue@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"rabbitmq.queue@gmail.com","begin":26,"end":50,"label":"EMAIL"}]}
+{"id":616,"content":"카프카가 스트리밍합니다. 토픽은 kafka.topic@kakao.com으로 파티셔닝됩니다.","has_sensitive":true,"entities":[{"value":"kafka.topic@kakao.com","begin":21,"end":42,"label":"EMAIL"}]}
+{"id":617,"content":"액티브MQ가 브로커 역할을 합니다. 메시지는 activemq.message@naver.com으로 라우팅됩니다.","has_sensitive":true,"entities":[{"value":"activemq.message@naver.com","begin":34,"end":60,"label":"EMAIL"}]}
+{"id":618,"content":"NATS가 발행-구독합니다. 주제는 nats.subject@daum.net으로 구독됩니다.","has_sensitive":true,"entities":[{"value":"nats.subject@daum.net","begin":21,"end":42,"label":"EMAIL"}]}
+{"id":619,"content":"펄서가 메시지를 퍼블리시합니다. 토픽은 pulsar.topic@nate.com으로 분산됩니다.","has_sensitive":true,"entities":[{"value":"pulsar.topic@nate.com","begin":28,"end":49,"label":"EMAIL"}]}
+{"id":620,"content":"아파치 플링크가 스트림을 처리합니다. 작업은 flink.job@gmail.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"flink.job@gmail.com","begin":34,"end":53,"label":"EMAIL"}]}
+{"id":621,"content":"아파치 스파크가 빅데이터를 분석합니다. RDD는 spark.rdd@kakao.com으로 변환됩니다.","has_sensitive":true,"entities":[{"value":"spark.rdd@kakao.com","begin":35,"end":54,"label":"EMAIL"}]}
+{"id":622,"content":"아파치 스톰이 실시간 처리합니다. 토폴로지는 storm.topology@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"storm.topology@naver.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":623,"content":"아파치 삼자가 스트림을 통합합니다. 파이프라인은 samza.pipeline@daum.net으로 구성됩니다.","has_sensitive":true,"entities":[{"value":"samza.pipeline@daum.net","begin":35,"end":58,"label":"EMAIL"}]}
+{"id":624,"content":"아파치 빔이 통합 모델을 제공합니다. 파이프라인은 beam.pipeline@nate.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"beam.pipeline@nate.com","begin":38,"end":60,"label":"EMAIL"}]}
+{"id":625,"content":"아파치 에어플로우가 워크플로우를 스케줄합니다. DAG는 airflow.dag@gmail.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"airflow.dag@gmail.com","begin":40,"end":61,"label":"EMAIL"}]}
+{"id":626,"content":"루이지가 파이프라인을 구축합니다. 태스크는 luigi.task@kakao.com으로 의존됩니다.","has_sensitive":true,"entities":[{"value":"luigi.task@kakao.com","begin":29,"end":49,"label":"EMAIL"}]}
+{"id":627,"content":"프리펙트가 플로우를 관리합니다. 실행은 prefect.flow@naver.com으로 오케스트레이션됩니다.","has_sensitive":true,"entities":[{"value":"prefect.flow@naver.com","begin":27,"end":49,"label":"EMAIL"}]}
+{"id":628,"content":"다그스터가 데이터 파이프라인을 구성합니다. 자산은 dagster.asset@daum.net으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"dagster.asset@daum.net","begin":38,"end":60,"label":"EMAIL"}]}
+{"id":629,"content":"케다가 이벤트 기반으로 스케일합니다. 스케일러는 keda.scaler@nate.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"keda.scaler@nate.com","begin":36,"end":56,"label":"EMAIL"}]}
+{"id":630,"content":"나이파이가 데이터 플로우를 자동화합니다. 프로세서는 nifi.processor@gmail.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"nifi.processor@gmail.com","begin":39,"end":63,"label":"EMAIL"}]}
+{"id":631,"content":"하둡이 분산 저장합니다. HDFS는 hadoop.hdfs@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"hadoop.hdfs@kakao.com","begin":22,"end":43,"label":"EMAIL"}]}
+{"id":632,"content":"하이브가 데이터를 쿼리합니다. 테이블은 hive.table@naver.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"hive.table@naver.com","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":633,"content":"프레스토가 분산 쿼리를 실행합니다. 카탈로그는 presto.catalog@daum.net으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"presto.catalog@daum.net","begin":33,"end":56,"label":"EMAIL"}]}
+{"id":634,"content":"트리노가 SQL을 처리합니다. 커넥터는 trino.connector@nate.com으로 구성됩니다.","has_sensitive":true,"entities":[{"value":"trino.connector@nate.com","begin":27,"end":51,"label":"EMAIL"}]}
+{"id":635,"content":"드루이드가 OLAP를 제공합니다. 세그먼트는 druid.segment@gmail.com으로 인덱싱됩니다.","has_sensitive":true,"entities":[{"value":"druid.segment@gmail.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":636,"content":"핀타운이 메트릭을 집계합니다. 시계열은 pinot.timeseries@kakao.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"pinot.timeseries@kakao.com","begin":28,"end":54,"label":"EMAIL"}]}
+{"id":637,"content":"클릭하우스가 컬럼 기반으로 저장합니다. 테이블은 clickhouse.table@naver.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"clickhouse.table@naver.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":638,"content":"스노우플레이크가 클라우드 DW를 제공합니다. 웨어하우스는 snowflake.warehouse@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"snowflake.warehouse@daum.net","begin":41,"end":69,"label":"EMAIL"}]}
+{"id":639,"content":"빅쿼리가 서버리스 분석을 제공합니다. 데이터셋은 bigquery.dataset@nate.com으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"bigquery.dataset@nate.com","begin":37,"end":62,"label":"EMAIL"}]}
+{"id":640,"content":"레드시프트가 데이터 웨어하우스를 호스팅합니다. 클러스터는 redshift.cluster@gmail.com으로 확장됩니다.","has_sensitive":true,"entities":[{"value":"redshift.cluster@gmail.com","begin":44,"end":70,"label":"EMAIL"}]}
+{"id":641,"content":"아테나가 S3 데이터를 쿼리합니다. 테이블은 athena.table@kakao.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"athena.table@kakao.com","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":642,"content":"글루가 ETL을 수행합니다. 작업은 glue.job@naver.com으로 스케줄됩니다.","has_sensitive":true,"entities":[{"value":"glue.job@naver.com","begin":21,"end":39,"label":"EMAIL"}]}
+{"id":643,"content":"EMR이 하둡 클러스터를 관리합니다. 단계는 emr.step@daum.net으로 제출됩니다.","has_sensitive":true,"entities":[{"value":"emr.step@daum.net","begin":30,"end":47,"label":"EMAIL"}]}
+{"id":644,"content":"키네시스가 실시간 스트림을 수집합니다. 샤드는 kinesis.shard@nate.com으로 분할됩니다.","has_sensitive":true,"entities":[{"value":"kinesis.shard@nate.com","begin":35,"end":57,"label":"EMAIL"}]}
+{"id":645,"content":"파이어호스가 데이터를 전송합니다. 스트림은 firehose.stream@gmail.com으로 배달됩니다.","has_sensitive":true,"entities":[{"value":"firehose.stream@gmail.com","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":646,"content":"람다가 서버리스 함수를 실행합니다. 핸들러는 lambda.handler@kakao.com으로 호출됩니다.","has_sensitive":true,"entities":[{"value":"lambda.handler@kakao.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":647,"content":"스텝 함수가 워크플로우를 조정합니다. 상태 머신은 stepfunction.statemachine@naver.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"stepfunction.statemachine@naver.com","begin":37,"end":72,"label":"EMAIL"}]}
+{"id":648,"content":"SQS가 메시지 큐를 제공합니다. 큐는 sqs.queue@daum.net으로 폴링됩니다.","has_sensitive":true,"entities":[{"value":"sqs.queue@daum.net","begin":25,"end":43,"label":"EMAIL"}]}
+{"id":649,"content":"SNS가 알림을 발행합니다. 토픽은 sns.topic@nate.com으로 구독됩니다.","has_sensitive":true,"entities":[{"value":"sns.topic@nate.com","begin":20,"end":38,"label":"EMAIL"}]}
+{"id":650,"content":"EventBridge가 이벤트를 라우팅합니다. 규칙은 eventbridge.rule@gmail.com으로 매칭됩니다.","has_sensitive":true,"entities":[{"value":"eventbridge.rule@gmail.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":651,"content":"S3가 객체 스토리지를 제공합니다. 버킷은 s3.bucket@kakao.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"s3.bucket@kakao.com","begin":30,"end":49,"label":"EMAIL"}]}
+{"id":652,"content":"EBS가 블록 스토리지를 마운트합니다. 볼륨은 ebs.volume@naver.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"ebs.volume@naver.com","begin":33,"end":53,"label":"EMAIL"}]}
+{"id":653,"content":"EFS가 파일 시스템을 공유합니다. 마운트는 efs.mount@daum.net으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"efs.mount@daum.net","begin":30,"end":48,"label":"EMAIL"}]}
+{"id":654,"content":"FSx가 관리형 파일 시스템을 제공합니다. 인스턴스는 fsx.instance@nate.com으로 프로비저닝됩니다.","has_sensitive":true,"entities":[{"value":"fsx.instance@nate.com","begin":39,"end":60,"label":"EMAIL"}]}
+{"id":655,"content":"RDS가 관계형 데이터베이스를 호스팅합니다. 인스턴스는 rds.instance@gmail.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"rds.instance@gmail.com","begin":40,"end":62,"label":"EMAIL"}]}
+{"id":656,"content":"Aurora가 MySQL과 호환됩니다. 클러스터는 aurora.cluster@kakao.com으로 확장됩니다.","has_sensitive":true,"entities":[{"value":"aurora.cluster@kakao.com","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":657,"content":"DynamoDB가 NoSQL을 제공합니다. 테이블은 dynamodb.table@naver.com으로 파티셔닝됩니다.","has_sensitive":true,"entities":[{"value":"dynamodb.table@naver.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":658,"content":"ElastiCache가 인메모리 캐시를 관리합니다. 노드는 elasticache.node@daum.net으로 복제됩니다.","has_sensitive":true,"entities":[{"value":"elasticache.node@daum.net","begin":40,"end":65,"label":"EMAIL"}]}
+{"id":659,"content":"Neptune이 그래프 DB를 제공합니다. 인스턴스는 neptune.instance@nate.com으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"neptune.instance@nate.com","begin":34,"end":59,"label":"EMAIL"}]}
+{"id":660,"content":"DocumentDB가 MongoDB와 호환됩니다. 클러스터는 documentdb.cluster@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"documentdb.cluster@gmail.com","begin":36,"end":64,"label":"EMAIL"}]}
+{"id":661,"content":"Keyspaces가 Cassandra를 서비스합니다. 테이블은 keyspaces.table@kakao.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"keyspaces.table@kakao.com","begin":39,"end":64,"label":"EMAIL"}]}
+{"id":662,"content":"QLDB가 원장 DB를 제공합니다. 원장은 qldb.ledger@naver.com으로 불변 저장됩니다.","has_sensitive":true,"entities":[{"value":"qldb.ledger@naver.com","begin":27,"end":48,"label":"EMAIL"}]}
+{"id":663,"content":"Timestream이 시계열 DB를 제공합니다. 테이블은 timestream.table@daum.net으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"timestream.table@daum.net","begin":37,"end":62,"label":"EMAIL"}]}
+{"id":664,"content":"VPC가 가상 네트워크를 격리합니다. 서브넷은 vpc.subnet@nate.com으로 분할됩니다.","has_sensitive":true,"entities":[{"value":"vpc.subnet@nate.com","begin":32,"end":51,"label":"EMAIL"}]}
+{"id":665,"content":"EC2가 가상 머신을 제공합니다. 인스턴스는 ec2.instance@gmail.com으로 시작됩니다.","has_sensitive":true,"entities":[{"value":"ec2.instance@gmail.com","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":666,"content":"ECS가 컨테이너를 오케스트레이션합니다. 태스크는 ecs.task@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"ecs.task@kakao.com","begin":36,"end":54,"label":"EMAIL"}]}
+{"id":667,"content":"EKS가 쿠버네티스를 관리합니다. 클러스터는 eks.cluster@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"eks.cluster@naver.com","begin":32,"end":53,"label":"EMAIL"}]}
+{"id":668,"content":"Fargate가 서버리스 컨테이너를 실행합니다. 태스크는 fargate.task@daum.net으로 시작됩니다.","has_sensitive":true,"entities":[{"value":"fargate.task@daum.net","begin":40,"end":61,"label":"EMAIL"}]}
+{"id":669,"content":"App Runner가 컨테이너 앱을 배포합니다. 서비스는 apprunner.service@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"apprunner.service@nate.com","begin":38,"end":64,"label":"EMAIL"}]}
+{"id":670,"content":"Lightsail이 간편한 VPS를 제공합니다. 인스턴스는 lightsail.instance@gmail.com으로 시작됩니다.","has_sensitive":true,"entities":[{"value":"lightsail.instance@gmail.com","begin":36,"end":64,"label":"EMAIL"}]}
+{"id":671,"content":"Batch가 배치 작업을 실행합니다. 작업은 batch.job@kakao.com으로 제출됩니다.","has_sensitive":true,"entities":[{"value":"batch.job@kakao.com","begin":28,"end":47,"label":"EMAIL"}]}
+{"id":672,"content":"Elastic Beanstalk이 앱을 배포합니다. 환경은 beanstalk.environment@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"beanstalk.environment@naver.com","begin":40,"end":71,"label":"EMAIL"}]}
+{"id":673,"content":"CloudFormation이 인프라를 코드로 관리합니다. 스택은 cloudformation.stack@daum.net으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"cloudformation.stack@daum.net","begin":44,"end":73,"label":"EMAIL"}]}
+{"id":674,"content":"SAM이 서버리스 앱을 배포합니다. 템플릿은 sam.template@nate.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"sam.template@nate.com","begin":31,"end":52,"label":"EMAIL"}]}
+{"id":675,"content":"CDK가 인프라를 프로그래밍합니다. 스택은 cdk.stack@gmail.com으로 합성됩니다.","has_sensitive":true,"entities":[{"value":"cdk.stack@gmail.com","begin":29,"end":48,"label":"EMAIL"}]}
+{"id":676,"content":"CloudWatch가 모니터링합니다. 메트릭은 cloudwatch.metric@kakao.com으로 수집됩니다.","has_sensitive":true,"entities":[{"value":"cloudwatch.metric@kakao.com","begin":31,"end":58,"label":"EMAIL"}]}
+{"id":677,"content":"X-Ray가 분산 추적을 제공합니다. 트레이스는 xray.trace@naver.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"xray.trace@naver.com","begin":31,"end":51,"label":"EMAIL"}]}
+{"id":678,"content":"CloudTrail이 API 호출을 로깅합니다. 이벤트는 cloudtrail.event@daum.net으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"cloudtrail.event@daum.net","begin":37,"end":62,"label":"EMAIL"}]}
+{"id":679,"content":"Config가 리소스 변경을 추적합니다. 규칙은 config.rule@nate.com으로 평가됩니다.","has_sensitive":true,"entities":[{"value":"config.rule@nate.com","begin":31,"end":51,"label":"EMAIL"}]}
+{"id":680,"content":"Systems Manager가 운영을 자동화합니다. 문서는 ssm.document@gmail.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"ssm.document@gmail.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":681,"content":"IAM이 접근을 제어합니다. 정책은 iam.policy@kakao.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"iam.policy@kakao.com","begin":22,"end":42,"label":"EMAIL"}]}
+{"id":682,"content":"KMS가 키를 관리합니다. 암호화는 kms.encryption@naver.com으로 수행됩니다.","has_sensitive":true,"entities":[{"value":"kms.encryption@naver.com","begin":21,"end":45,"label":"EMAIL"}]}
+{"id":683,"content":"Secrets Manager가 비밀을 보관합니다. 시크릿은 secrets.manager@daum.net으로 회전됩니다.","has_sensitive":true,"entities":[{"value":"secrets.manager@daum.net","begin":37,"end":61,"label":"EMAIL"}]}
+{"id":684,"content":"Certificate Manager가 인증서를 발급합니다. 인증서는 acm.certificate@nate.com으로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"acm.certificate@nate.com","begin":43,"end":67,"label":"EMAIL"}]}
+{"id":685,"content":"WAF가 웹 방화벽을 제공합니다. 규칙은 waf.rule@gmail.com으로 필터링됩니다.","has_sensitive":true,"entities":[{"value":"waf.rule@gmail.com","begin":25,"end":43,"label":"EMAIL"}]}
+{"id":686,"content":"Shield가 DDoS를 방어합니다. 보호는 shield.protection@kakao.com으로 활성화됩니다.","has_sensitive":true,"entities":[{"value":"shield.protection@kakao.com","begin":25,"end":52,"label":"EMAIL"}]}
+{"id":687,"content":"GuardDuty가 위협을 탐지합니다. 발견 사항은 guardduty.finding@naver.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"guardduty.finding@naver.com","begin":35,"end":62,"label":"EMAIL"}]}
+{"id":688,"content":"Inspector가 취약점을 스캔합니다. 결과는 inspector.result@daum.net으로 리포트됩니다.","has_sensitive":true,"entities":[{"value":"inspector.result@daum.net","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":689,"content":"Macie가 민감 데이터를 발견합니다. 분류는 macie.classification@nate.com으로 수행됩니다.","has_sensitive":true,"entities":[{"value":"macie.classification@nate.com","begin":31,"end":60,"label":"EMAIL"}]}
+{"id":690,"content":"Detective가 보안 조사를 지원합니다. 그래프는 detective.graph@gmail.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"detective.graph@gmail.com","begin":35,"end":60,"label":"EMAIL"}]}
+{"id":691,"content":"Security Hub가 보안 상태를 통합합니다. 발견 사항은 securityhub.finding@kakao.com으로 집계됩니다.","has_sensitive":true,"entities":[{"value":"securityhub.finding@kakao.com","begin":42,"end":71,"label":"EMAIL"}]}
+{"id":692,"content":"Route 53이 DNS를 관리합니다. 레코드는 route53.record@naver.com으로 라우팅됩니다.","has_sensitive":true,"entities":[{"value":"route53.record@naver.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":693,"content":"CloudFront가 CDN을 제공합니다. 배포는 cloudfront.distribution@daum.net으로 캐싱됩니다.","has_sensitive":true,"entities":[{"value":"cloudfront.distribution@daum.net","begin":30,"end":62,"label":"EMAIL"}]}
+{"id":694,"content":"API Gateway가 REST API를 관리합니다. 엔드포인트는 apigateway.endpoint@nate.com으로 노출됩니다.","has_sensitive":true,"entities":[{"value":"apigateway.endpoint@nate.com","begin":39,"end":67,"label":"EMAIL"}]}
+{"id":695,"content":"Direct Connect가 전용선을 연결합니다. 가상 인터페이스는 directconnect.vif@gmail.com으로 프로비저닝됩니다.","has_sensitive":true,"entities":[{"value":"directconnect.vif@gmail.com","begin":47,"end":74,"label":"EMAIL"}]}
+{"id":696,"content":"Transit Gateway가 VPC를 연결합니다. 어태치먼트는 transitgateway.attachment@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"transitgateway.attachment@kakao.com","begin":40,"end":75,"label":"EMAIL"}]}
+{"id":697,"content":"PrivateLink가 서비스를 안전하게 연결합니다. 엔드포인트는 privatelink.endpoint@naver.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"privatelink.endpoint@naver.com","begin":46,"end":76,"label":"EMAIL"}]}
+{"id":698,"content":"Global Accelerator가 트래픽을 가속합니다. 가속기는 globalaccelerator.accelerator@daum.net으로 최적화됩니다.","has_sensitive":true,"entities":[{"value":"globalaccelerator.accelerator@daum.net","begin":46,"end":84,"label":"EMAIL"}]}
+{"id":699,"content":"App Mesh가 서비스 메시를 제공합니다. 가상 노드는 appmesh.virtualnode@nate.com으로 구성됩니다.","has_sensitive":true,"entities":[{"value":"appmesh.virtualnode@nate.com","begin":42,"end":70,"label":"EMAIL"}]}
+{"id":700,"content":"Cloud Map이 서비스를 발견합니다. 네임스페이스는 cloudmap.namespace@gmail.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"cloudmap.namespace@gmail.com","begin":38,"end":66,"label":"EMAIL"}]}
+{"id":701,"content":"SageMaker가 ML 모델을 학습합니다. 노트북은 sagemaker.notebook@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"sagemaker.notebook@kakao.com","begin":34,"end":62,"label":"EMAIL"}]}
+{"id":702,"content":"Comprehend가 텍스트를 분석합니다. 감정은 comprehend.sentiment@naver.com으로 감지됩니다.","has_sensitive":true,"entities":[{"value":"comprehend.sentiment@naver.com","begin":32,"end":62,"label":"EMAIL"}]}
+{"id":703,"content":"Rekognition이 이미지를 인식합니다. 레이블은 rekognition.label@daum.net으로 태깅됩니다.","has_sensitive":true,"entities":[{"value":"rekognition.label@daum.net","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":704,"content":"Polly가 텍스트를 음성으로 변환합니다. 오디오는 polly.audio@nate.com으로 합성됩니다.","has_sensitive":true,"entities":[{"value":"polly.audio@nate.com","begin":35,"end":55,"label":"EMAIL"}]}
+{"id":705,"content":"Transcribe가 음성을 텍스트로 변환합니다. 자막은 transcribe.subtitle@gmail.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"transcribe.subtitle@gmail.com","begin":39,"end":68,"label":"EMAIL"}]}
+{"id":706,"content":"Translate가 번역을 제공합니다. 텍스트는 translate.text@kakao.com으로 번역됩니다.","has_sensitive":true,"entities":[{"value":"translate.text@kakao.com","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":707,"content":"Lex가 챗봇을 구축합니다. 봇은 lex.bot@naver.com으로 대화합니다.","has_sensitive":true,"entities":[{"value":"lex.bot@naver.com","begin":20,"end":37,"label":"EMAIL"}]}
+{"id":708,"content":"Personalize가 추천을 제공합니다. 캠페인은 personalize.campaign@daum.net으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"personalize.campaign@daum.net","begin":31,"end":60,"label":"EMAIL"}]}
+{"id":709,"content":"Forecast가 시계열을 예측합니다. 예측은 forecast.prediction@nate.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"forecast.prediction@nate.com","begin":29,"end":57,"label":"EMAIL"}]}
+{"id":710,"content":"Fraud Detector가 사기를 탐지합니다. 모델은 frauddetector.model@gmail.com으로 평가됩니다.","has_sensitive":true,"entities":[{"value":"frauddetector.model@gmail.com","begin":36,"end":65,"label":"EMAIL"}]}
+{"id":711,"content":"Kendra가 검색을 지능화합니다. 인덱스는 kendra.index@kakao.com으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"kendra.index@kakao.com","begin":30,"end":52,"label":"EMAIL"}]}
+{"id":712,"content":"Textract가 문서를 추출합니다. 양식은 textract.form@naver.com으로 파싱됩니다.","has_sensitive":true,"entities":[{"value":"textract.form@naver.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":713,"content":"CodeCommit이 Git 저장소를 호스팅합니다. 리포지토리는 codecommit.repository@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"codecommit.repository@daum.net","begin":46,"end":76,"label":"EMAIL"}]}
+{"id":714,"content":"CodeBuild가 소스를 컴파일합니다. 프로젝트는 codebuild.project@nate.com으로 빌드됩니다.","has_sensitive":true,"entities":[{"value":"codebuild.project@nate.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":715,"content":"CodeDeploy가 배포를 자동화합니다. 애플리케이션은 codedeploy.application@gmail.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"codedeploy.application@gmail.com","begin":39,"end":71,"label":"EMAIL"}]}
+{"id":716,"content":"CodePipeline이 파이프라인을 구성합니다. 스테이지는 codepipeline.stage@kakao.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"codepipeline.stage@kakao.com","begin":42,"end":70,"label":"EMAIL"}]}
+{"id":717,"content":"CodeStar가 프로젝트를 통합합니다. 팀은 codestar.team@naver.com으로 협업합니다.","has_sensitive":true,"entities":[{"value":"codestar.team@naver.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":718,"content":"CodeArtifact가 패키지를 관리합니다. 리포지토리는 codeartifact.repository@daum.net으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"codeartifact.repository@daum.net","begin":39,"end":71,"label":"EMAIL"}]}
+{"id":719,"content":"CodeGuru가 코드를 검토합니다. 추천은 codeguru.recommendation@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"codeguru.recommendation@nate.com","begin":29,"end":61,"label":"EMAIL"}]}
+{"id":720,"content":"Cloud9이 IDE를 제공합니다. 환경은 cloud9.environment@gmail.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"cloud9.environment@gmail.com","begin":24,"end":52,"label":"EMAIL"}]}
+{"id":721,"content":"Amplify가 풀스택 앱을 빌드합니다. 백엔드는 amplify.backend@kakao.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"amplify.backend@kakao.com","begin":35,"end":60,"label":"EMAIL"}]}
+{"id":722,"content":"Device Farm이 모바일 앱을 테스트합니다. 디바이스는 devicefarm.device@naver.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"devicefarm.device@naver.com","begin":40,"end":67,"label":"EMAIL"}]}
+{"id":723,"content":"AppSync가 GraphQL API를 제공합니다. 리졸버는 appsync.resolver@daum.net으로 매핑됩니다.","has_sensitive":true,"entities":[{"value":"appsync.resolver@daum.net","begin":37,"end":62,"label":"EMAIL"}]}
+{"id":724,"content":"Pinpoint가 고객 참여를 분석합니다. 캠페인은 pinpoint.campaign@nate.com으로 타겟팅됩니다.","has_sensitive":true,"entities":[{"value":"pinpoint.campaign@nate.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":725,"content":"QuickSight가 BI를 제공합니다. 대시보드는 quicksight.dashboard@gmail.com으로 시각화됩니다.","has_sensitive":true,"entities":[{"value":"quicksight.dashboard@gmail.com","begin":33,"end":63,"label":"EMAIL"}]}
+{"id":726,"content":"Managed Blockchain이 블록체인을 호스팅합니다. 네트워크는 blockchain.network@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"blockchain.network@kakao.com","begin":49,"end":77,"label":"EMAIL"}]}
+{"id":727,"content":"Ground Station이 위성 데이터를 수신합니다. 연결은 groundstation.contact@naver.com으로 스케줄됩니다.","has_sensitive":true,"entities":[{"value":"groundstation.contact@naver.com","begin":40,"end":71,"label":"EMAIL"}]}
+{"id":728,"content":"Bracket이 양자 컴퓨팅을 제공합니다. 작업은 braket.job@daum.net으로 제출됩니다.","has_sensitive":true,"entities":[{"value":"braket.job@daum.net","begin":31,"end":50,"label":"EMAIL"}]}
+{"id":729,"content":"RoboMaker가 로봇을 시뮬레이션합니다. 애플리케이션은 robomaker.application@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"robomaker.application@nate.com","begin":39,"end":69,"label":"EMAIL"}]}
+{"id":730,"content":"GameLift가 게임 서버를 호스팅합니다. 플릿은 gamelift.fleet@gmail.com으로 확장됩니다.","has_sensitive":true,"entities":[{"value":"gamelift.fleet@gmail.com","begin":35,"end":59,"label":"EMAIL"}]}
+{"id":731,"content":"Sumerian이 AR/VR을 구축합니다. 씬은 sumerian.scene@kakao.com으로 퍼블리시됩니다.","has_sensitive":true,"entities":[{"value":"sumerian.scene@kakao.com","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":732,"content":"IVS가 라이브 스트리밍을 제공합니다. 채널은 ivs.channel@naver.com으로 방송됩니다.","has_sensitive":true,"entities":[{"value":"ivs.channel@naver.com","begin":32,"end":53,"label":"EMAIL"}]}
+{"id":733,"content":"Elastic Transcoder가 미디어를 트랜스코딩합니다. 파이프라인은 transcoder.pipeline@daum.net으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"transcoder.pipeline@daum.net","begin":51,"end":79,"label":"EMAIL"}]}
+{"id":734,"content":"MediaConvert가 파일 기반 변환을 수행합니다. 작업은 mediaconvert.job@nate.com으로 제출됩니다.","has_sensitive":true,"entities":[{"value":"mediaconvert.job@nate.com","begin":42,"end":67,"label":"EMAIL"}]}
+{"id":735,"content":"MediaLive가 라이브 비디오를 처리합니다. 채널은 medialive.channel@gmail.com으로 인코딩됩니다.","has_sensitive":true,"entities":[{"value":"medialive.channel@gmail.com","begin":38,"end":65,"label":"EMAIL"}]}
+{"id":736,"content":"MediaPackage가 비디오를 패키징합니다. 채널은 mediapackage.channel@kakao.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"mediapackage.channel@kakao.com","begin":38,"end":68,"label":"EMAIL"}]}
+{"id":737,"content":"MediaStore가 미디어를 저장합니다. 컨테이너는 mediastore.container@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"mediastore.container@naver.com","begin":36,"end":66,"label":"EMAIL"}]}
+{"id":738,"content":"MediaTailor가 광고를 삽입합니다. 구성은 mediatailor.configuration@daum.net으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"mediatailor.configuration@daum.net","begin":31,"end":65,"label":"EMAIL"}]}
+{"id":739,"content":"Elemental Link가 라이브 인코딩을 제공합니다. 디바이스는 elementallink.device@nate.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"elementallink.device@nate.com","begin":46,"end":75,"label":"EMAIL"}]}
+{"id":740,"content":"Kinesis Video Streams가 비디오를 스트리밍합니다. 스트림은 kvs.stream@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"kvs.stream@gmail.com","begin":49,"end":69,"label":"EMAIL"}]}
+{"id":741,"content":"Chime이 화상 회의를 제공합니다. 미팅은 chime.meeting@kakao.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"chime.meeting@kakao.com","begin":29,"end":52,"label":"EMAIL"}]}
+{"id":742,"content":"Connect가 콜센터를 클라우드화합니다. 인스턴스는 connect.instance@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"connect.instance@naver.com","begin":38,"end":64,"label":"EMAIL"}]}
+{"id":743,"content":"WorkSpaces가 가상 데스크톱을 제공합니다. 번들은 workspaces.bundle@daum.net으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"workspaces.bundle@daum.net","begin":39,"end":65,"label":"EMAIL"}]}
+{"id":744,"content":"AppStream이 앱을 스트리밍합니다. 플릿은 appstream.fleet@nate.com으로 확장됩니다.","has_sensitive":true,"entities":[{"value":"appstream.fleet@nate.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":745,"content":"WorkDocs가 문서를 협업합니다. 사이트는 workdocs.site@gmail.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"workdocs.site@gmail.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":746,"content":"WorkMail이 이메일을 호스팅합니다. 조직은 workmail.organization@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"workmail.organization@kakao.com","begin":35,"end":66,"label":"EMAIL"}]}
+{"id":747,"content":"WorkLink가 브라우저를 보안합니다. 플릿은 worklink.fleet@naver.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"worklink.fleet@naver.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":748,"content":"Organizations가 계정을 조직화합니다. OU는 organizations.ou@daum.net으로 구조화됩니다.","has_sensitive":true,"entities":[{"value":"organizations.ou@daum.net","begin":35,"end":60,"label":"EMAIL"}]}
+{"id":749,"content":"Control Tower가 거버넌스를 설정합니다. 랜딩존은 controltower.landingzone@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"controltower.landingzone@nate.com","begin":42,"end":75,"label":"EMAIL"}]}
+{"id":750,"content":"Service Catalog가 제품을 관리합니다. 포트폴리오는 servicecatalog.portfolio@gmail.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"servicecatalog.portfolio@gmail.com","begin":44,"end":78,"label":"EMAIL"}]}
+{"id":751,"content":"License Manager가 라이센스를 추적합니다. 구성은 licensemanager.configuration@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"licensemanager.configuration@kakao.com","begin":41,"end":79,"label":"EMAIL"}]}
+{"id":752,"content":"Cost Explorer가 비용을 분석합니다. 리포트는 costexplorer.report@naver.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"costexplorer.report@naver.com","begin":36,"end":65,"label":"EMAIL"}]}
+{"id":753,"content":"Budgets가 예산을 설정합니다. 알림은 budgets.alert@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"budgets.alert@daum.net","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":754,"content":"Cost Anomaly Detection이 이상을 감지합니다. 알림은 anomalydetection.alert@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"anomalydetection.alert@nate.com","begin":45,"end":76,"label":"EMAIL"}]}
+{"id":755,"content":"Savings Plans가 절감을 제공합니다. 권장 사항은 savingsplans.recommendation@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"savingsplans.recommendation@gmail.com","begin":39,"end":76,"label":"EMAIL"}]}
+{"id":756,"content":"Compute Optimizer가 리소스를 최적화합니다. 추천은 computeoptimizer.recommendation@kakao.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"computeoptimizer.recommendation@kakao.com","begin":43,"end":84,"label":"EMAIL"}]}
+{"id":757,"content":"Resource Groups가 리소스를 태깅합니다. 그룹은 resourcegroups.group@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"resourcegroups.group@naver.com","begin":40,"end":70,"label":"EMAIL"}]}
+{"id":758,"content":"Tag Editor가 태그를 일괄 편집합니다. 변경 사항은 tageditor.changes@daum.net으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"tageditor.changes@daum.net","begin":40,"end":66,"label":"EMAIL"}]}
+{"id":759,"content":"Trusted Advisor가 모범 사례를 권장합니다. 체크는 trustedadvisor.check@nate.com으로 수행됩니다.","has_sensitive":true,"entities":[{"value":"trustedadvisor.check@nate.com","begin":44,"end":73,"label":"EMAIL"}]}
+{"id":760,"content":"Health Dashboard가 서비스 상태를 표시합니다. 이벤트는 health.event@gmail.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"health.event@gmail.com","begin":44,"end":66,"label":"EMAIL"}]}
+{"id":761,"content":"Personal Health Dashboard가 계정 상태를 모니터링합니다. 알림은 phd.notification@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"phd.notification@kakao.com","begin":54,"end":80,"label":"EMAIL"}]}
+{"id":762,"content":"Support Center가 기술 지원을 제공합니다. 케이스는 support.case@naver.com으로 접수됩니다.","has_sensitive":true,"entities":[{"value":"support.case@naver.com","begin":41,"end":63,"label":"EMAIL"}]}
+{"id":763,"content":"Managed Services가 운영을 위임합니다. 관리 계획은 managedservices.plan@daum.net으로 수립됩니다.","has_sensitive":true,"entities":[{"value":"managedservices.plan@daum.net","begin":41,"end":70,"label":"EMAIL"}]}
+{"id":764,"content":"Professional Services가 컨설팅을 제공합니다. 프로젝트는 proserv.project@nate.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"proserv.project@nate.com","begin":46,"end":70,"label":"EMAIL"}]}
+{"id":765,"content":"Partner Network가 파트너를 연결합니다. 협력사는 apn.partner@gmail.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"apn.partner@gmail.com","begin":39,"end":60,"label":"EMAIL"}]}
+{"id":766,"content":"Marketplace가 소프트웨어를 판매합니다. 제품은 marketplace.product@kakao.com으로 리스팅됩니다.","has_sensitive":true,"entities":[{"value":"marketplace.product@kakao.com","begin":38,"end":67,"label":"EMAIL"}]}
+{"id":767,"content":"Training and Certification이 교육을 제공합니다. 과정은 training.course@naver.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"training.course@naver.com","begin":49,"end":74,"label":"EMAIL"}]}
+{"id":768,"content":"Solutions Library가 아키텍처를 공유합니다. 레퍼런스는 solutions.reference@daum.net으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"solutions.reference@daum.net","begin":45,"end":73,"label":"EMAIL"}]}
+{"id":769,"content":"Well-Architected Tool이 프레임워크를 평가합니다. 워크로드는 wellarchitected.workload@nate.com으로 검토됩니다.","has_sensitive":true,"entities":[{"value":"wellarchitected.workload@nate.com","begin":50,"end":83,"label":"EMAIL"}]}
+{"id":770,"content":"IQ가 전문가를 매칭합니다. 프로젝트는 iq.project@gmail.com으로 의뢰됩니다.","has_sensitive":true,"entities":[{"value":"iq.project@gmail.com","begin":25,"end":45,"label":"EMAIL"}]}
+{"id":771,"content":"Activate가 스타트업을 지원합니다. 크레딧은 activate.credits@kakao.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"activate.credits@kakao.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":772,"content":"Educate가 학생을 지원합니다. 프로그램은 educate.program@naver.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"educate.program@naver.com","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":773,"content":"Open Data가 공개 데이터를 호스팅합니다. 데이터셋은 opendata.dataset@daum.net으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"opendata.dataset@daum.net","begin":43,"end":68,"label":"EMAIL"}]}
+{"id":774,"content":"Public Datasets가 연구 데이터를 제공합니다. 버킷은 publicdata.bucket@nate.com으로 공유됩니다.","has_sensitive":true,"entities":[{"value":"publicdata.bucket@nate.com","begin":43,"end":69,"label":"EMAIL"}]}
+{"id":775,"content":"Data Exchange가 데이터를 거래합니다. 제품은 dataexchange.product@gmail.com으로 구독됩니다.","has_sensitive":true,"entities":[{"value":"dataexchange.product@gmail.com","begin":36,"end":66,"label":"EMAIL"}]}
+{"id":776,"content":"Lake Formation이 데이터 레이크를 구축합니다. 권한은 lakeformation.permission@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"lakeformation.permission@kakao.com","begin":47,"end":81,"label":"EMAIL"}]}
+{"id":777,"content":"DataBrew가 데이터를 정제합니다. 레시피는 databrew.recipe@naver.com으로 작성됩니다.","has_sensitive":true,"entities":[{"value":"databrew.recipe@naver.com","begin":33,"end":58,"label":"EMAIL"}]}
+{"id":778,"content":"DataSync가 데이터를 이동합니다. 작업은 datasync.task@daum.net으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"datasync.task@daum.net","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":779,"content":"Transfer Family가 파일을 전송합니다. 서버는 transfer.server@nate.com으로 접속됩니다.","has_sensitive":true,"entities":[{"value":"transfer.server@nate.com","begin":38,"end":62,"label":"EMAIL"}]}
+{"id":780,"content":"Snow Family가 대용량 데이터를 마이그레이션합니다. 디바이스는 snow.device@gmail.com으로 주문됩니다.","has_sensitive":true,"entities":[{"value":"snow.device@gmail.com","begin":49,"end":70,"label":"EMAIL"}]}
+{"id":781,"content":"Migration Hub가 마이그레이션을 추적합니다. 진행 상황은 migrationhub.progress@kakao.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"migrationhub.progress@kakao.com","begin":46,"end":77,"label":"EMAIL"}]}
+{"id":782,"content":"Application Discovery가 애플리케이션을 발견합니다. 에이전트는 discovery.agent@naver.com으로 설치됩니다.","has_sensitive":true,"entities":[{"value":"discovery.agent@naver.com","begin":52,"end":77,"label":"EMAIL"}]}
+{"id":783,"content":"Server Migration Service가 서버를 마이그레이션합니다. 복제는 sms.replication@daum.net으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"sms.replication@daum.net","begin":53,"end":77,"label":"EMAIL"}]}
+{"id":784,"content":"Database Migration Service가 DB를 이전합니다. 엔드포인트는 dms.endpoint@nate.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"dms.endpoint@nate.com","begin":49,"end":70,"label":"EMAIL"}]}
+{"id":785,"content":"Schema Conversion Tool이 스키마를 변환합니다. 프로젝트는 sct.project@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"sct.project@gmail.com","begin":45,"end":66,"label":"EMAIL"}]}
+{"id":786,"content":"Application Migration Service가 앱을 리플랫폼합니다. 웨이브는 mgn.wave@kakao.com으로 조율됩니다.","has_sensitive":true,"entities":[{"value":"mgn.wave@kakao.com","begin":54,"end":72,"label":"EMAIL"}]}
+{"id":787,"content":"CloudEndure가 재해 복구를 제공합니다. 복제는 cloudendure.replication@naver.com으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"cloudendure.replication@naver.com","begin":39,"end":72,"label":"EMAIL"}]}
+{"id":788,"content":"Disaster Recovery가 DR 계획을 수립합니다. 훈련은 dr.drill@daum.net으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"dr.drill@daum.net","begin":41,"end":58,"label":"EMAIL"}]}
+{"id":789,"content":"Elastic Disaster Recovery가 복구를 자동화합니다. 런치는 edr.launch@nate.com으로 수행됩니다.","has_sensitive":true,"entities":[{"value":"edr.launch@nate.com","begin":48,"end":67,"label":"EMAIL"}]}
+{"id":790,"content":"Backup이 데이터를 백업합니다. 볼트는 backup.vault@gmail.com으로 보관됩니다.","has_sensitive":true,"entities":[{"value":"backup.vault@gmail.com","begin":27,"end":49,"label":"EMAIL"}]}
+{"id":791,"content":"Storage Gateway가 온프레미스를 연결합니다. 게이트웨이는 storagegateway.gateway@kakao.com으로 활성화됩니다.","has_sensitive":true,"entities":[{"value":"storagegateway.gateway@kakao.com","begin":47,"end":79,"label":"EMAIL"}]}
+{"id":792,"content":"Outposts가 온프레미스 인프라를 제공합니다. 사이트는 outposts.site@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"outposts.site@naver.com","begin":45,"end":68,"label":"EMAIL"}]}
+{"id":793,"content":"Local Zones가 지연 시간을 단축합니다. 위치는 localzones.location@daum.net으로 선택됩니다.","has_sensitive":true,"entities":[{"value":"localzones.location@daum.net","begin":38,"end":66,"label":"EMAIL"}]}
+{"id":794,"content":"Wavelength가 5G 엣지를 제공합니다. 존은 wavelength.zone@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"wavelength.zone@nate.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":795,"content":"VMware Cloud가 하이브리드 클라우드를 구축합니다. SDDC는 vmware.sddc@gmail.com으로 프로비저닝됩니다.","has_sensitive":true,"entities":[{"value":"vmware.sddc@gmail.com","begin":49,"end":70,"label":"EMAIL"}]}
+{"id":796,"content":"IoT Core가 디바이스를 연결합니다. 사물은 iot.thing@kakao.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"iot.thing@kakao.com","begin":30,"end":49,"label":"EMAIL"}]}
+{"id":797,"content":"IoT Greengrass가 엣지에서 실행합니다. 그룹은 greengrass.group@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"greengrass.group@naver.com","begin":40,"end":66,"label":"EMAIL"}]}
+{"id":798,"content":"IoT Analytics가 IoT 데이터를 분석합니다. 데이터셋은 iotanalytics.dataset@daum.net으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"iotanalytics.dataset@daum.net","begin":45,"end":74,"label":"EMAIL"}]}
+{"id":799,"content":"IoT Events가 이벤트를 감지합니다. 디텍터는 iotevents.detector@nate.com으로 트리거됩니다.","has_sensitive":true,"entities":[{"value":"iotevents.detector@nate.com","begin":36,"end":63,"label":"EMAIL"}]}
+{"id":800,"content":"IoT SiteWise가 산업 데이터를 수집합니다. 자산은 iotsitewise.asset@gmail.com으로 모델링됩니다.","has_sensitive":true,"entities":[{"value":"iotsitewise.asset@gmail.com","begin":43,"end":70,"label":"EMAIL"}]}
+{"id":801,"content":"IoT TwinMaker가 디지털 트윈을 생성합니다. 워크스페이스는 iottwinmaker.workspace@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"iottwinmaker.workspace@kakao.com","begin":48,"end":80,"label":"EMAIL"}]}
+{"id":802,"content":"IoT FleetWise가 차량 데이터를 수집합니다. 플릿은 iotfleetwise.fleet@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"iotfleetwise.fleet@naver.com","begin":44,"end":72,"label":"EMAIL"}]}
+{"id":803,"content":"FreeRTOS가 마이크로컨트롤러 OS를 제공합니다. 커널은 freertos.kernel@daum.net으로 다운로드됩니다.","has_sensitive":true,"entities":[{"value":"freertos.kernel@daum.net","begin":48,"end":72,"label":"EMAIL"}]}
+{"id":804,"content":"IoT Device Defender가 보안을 감사합니다. 정책은 devicedefender.policy@nate.com으로 적용됩니다.","has_sensitive":true,"entities":[{"value":"devicedefender.policy@nate.com","begin":45,"end":75,"label":"EMAIL"}]}
+{"id":805,"content":"IoT Device Management가 디바이스를 관리합니다. 플릿은 devicemanagement.fleet@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"devicemanagement.fleet@gmail.com","begin":48,"end":80,"label":"EMAIL"}]}
+{"id":806,"content":"IoT 1-Click이 버튼을 프로그래밍합니다. 디바이스는 iot1click.device@kakao.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"iot1click.device@kakao.com","begin":42,"end":68,"label":"EMAIL"}]}
+{"id":807,"content":"Elastic Inference가 추론을 가속화합니다. 가속기는 elasticinference.accelerator@naver.com으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"elasticinference.accelerator@naver.com","begin":46,"end":84,"label":"EMAIL"}]}
+{"id":808,"content":"Inferentia가 추론 칩을 제공합니다. 인스턴스는 inferentia.instance@daum.net으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"inferentia.instance@daum.net","begin":38,"end":66,"label":"EMAIL"}]}
+{"id":809,"content":"Trainium이 학습 칩을 제공합니다. 인스턴스는 trainium.instance@nate.com으로 학습됩니다.","has_sensitive":true,"entities":[{"value":"trainium.instance@nate.com","begin":37,"end":63,"label":"EMAIL"}]}
+{"id":810,"content":"Neuron SDK가 칩을 최적화합니다. 컴파일러는 neuron.compiler@gmail.com으로 변환합니다.","has_sensitive":true,"entities":[{"value":"neuron.compiler@gmail.com","begin":37,"end":62,"label":"EMAIL"}]}
+{"id":811,"content":"Panorama가 컴퓨터 비전을 엣지에 배포합니다. 어플라이언스는 panorama.appliance@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"panorama.appliance@kakao.com","begin":48,"end":76,"label":"EMAIL"}]}
+{"id":812,"content":"DeepLens가 딥러닝 카메라를 제공합니다. 프로젝트는 deeplens.project@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"deeplens.project@naver.com","begin":42,"end":68,"label":"EMAIL"}]}
+{"id":813,"content":"DeepRacer가 강화 학습을 가르칩니다. 모델은 deepracer.model@daum.net으로 훈련됩니다.","has_sensitive":true,"entities":[{"value":"deepracer.model@daum.net","begin":39,"end":63,"label":"EMAIL"}]}
+{"id":814,"content":"DeepComposer가 음악을 생성합니다. 작곡은 deepcomposer.composition@nate.com으로 창작됩니다.","has_sensitive":true,"entities":[{"value":"deepcomposer.composition@nate.com","begin":36,"end":69,"label":"EMAIL"}]}
+{"id":815,"content":"Lookout for Vision이 결함을 감지합니다. 프로젝트는 lookoutvision.project@gmail.com으로 학습됩니다.","has_sensitive":true,"entities":[{"value":"lookoutvision.project@gmail.com","begin":47,"end":78,"label":"EMAIL"}]}
+{"id":816,"content":"Lookout for Equipment가 장비를 모니터링합니다. 모델은 lookoutequipment.model@kakao.com으로 추론됩니다.","has_sensitive":true,"entities":[{"value":"lookoutequipment.model@kakao.com","begin":49,"end":81,"label":"EMAIL"}]}
+{"id":817,"content":"Lookout for Metrics가 이상을 탐지합니다. 알림은 lookoutmetrics.alert@naver.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"lookoutmetrics.alert@naver.com","begin":45,"end":75,"label":"EMAIL"}]}
+{"id":818,"content":"Monitron이 산업 장비를 모니터링합니다. 센서는 monitron.sensor@daum.net으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"monitron.sensor@daum.net","begin":40,"end":64,"label":"EMAIL"}]}
+{"id":819,"content":"HealthLake가 의료 데이터를 관리합니다. 데이터스토어는 healthlake.datastore@nate.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"healthlake.datastore@nate.com","begin":44,"end":73,"label":"EMAIL"}]}
+{"id":820,"content":"HealthImaging이 의료 영상을 저장합니다. 데이터스토어는 healthimaging.datastore@gmail.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"healthimaging.datastore@gmail.com","begin":47,"end":80,"label":"EMAIL"}]}
+{"id":821,"content":"HealthOmics가 오믹스 데이터를 분석합니다. 워크플로우는 healthomics.workflow@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"healthomics.workflow@kakao.com","begin":45,"end":75,"label":"EMAIL"}]}
+{"id":822,"content":"FinSpace가 금융 데이터를 분석합니다. 환경은 finspace.environment@naver.com으로 구성됩니다.","has_sensitive":true,"entities":[{"value":"finspace.environment@naver.com","begin":38,"end":68,"label":"EMAIL"}]}
+{"id":823,"content":"Supply Chain이 공급망을 최적화합니다. 인스턴스는 supplychain.instance@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"supplychain.instance@daum.net","begin":41,"end":70,"label":"EMAIL"}]}
+{"id":824,"content":"Clean Rooms가 협업 분석을 제공합니다. 룸은 cleanrooms.room@nate.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"cleanrooms.room@nate.com","begin":36,"end":60,"label":"EMAIL"}]}
+{"id":825,"content":"Entity Resolution이 엔티티를 매칭합니다. 워크플로우는 entityresolution.workflow@gmail.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"entityresolution.workflow@gmail.com","begin":47,"end":82,"label":"EMAIL"}]}
+{"id":826,"content":"SimSpace Weaver가 시뮬레이션을 확장합니다. 세션은 simspaceweaver.session@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"simspaceweaver.session@kakao.com","begin":47,"end":79,"label":"EMAIL"}]}
+{"id":827,"content":"Deadline Cloud가 렌더링을 관리합니다. 팜은 deadlinecloud.farm@naver.com으로 스케줄됩니다.","has_sensitive":true,"entities":[{"value":"deadlinecloud.farm@naver.com","begin":38,"end":66,"label":"EMAIL"}]}
+{"id":828,"content":"Verified Permissions가 권한을 검증합니다. 정책 스토어는 verifiedpermissions.store@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"verifiedpermissions.store@daum.net","begin":50,"end":84,"label":"EMAIL"}]}
+{"id":829,"content":"Private CA가 사설 인증서를 발급합니다. 인증 기관은 privateca.authority@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"privateca.authority@nate.com","begin":44,"end":72,"label":"EMAIL"}]}
+{"id":830,"content":"Payment Cryptography가 결제를 암호화합니다. 키는 paymentcrypto.key@gmail.com으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"paymentcrypto.key@gmail.com","begin":44,"end":71,"label":"EMAIL"}]}
+{"id":831,"content":"CloudHSM이 하드웨어 보안 모듈을 제공합니다. 클러스터는 cloudhsm.cluster@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"cloudhsm.cluster@kakao.com","begin":48,"end":74,"label":"EMAIL"}]}
+{"id":832,"content":"Directory Service가 Active Directory를 호스팅합니다. 디렉터리는 directoryservice.directory@naver.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"directoryservice.directory@naver.com","begin":60,"end":96,"label":"EMAIL"}]}
+{"id":833,"content":"Single Sign-On이 SSO를 제공합니다. 포털은 sso.portal@daum.net으로 접속됩니다.","has_sensitive":true,"entities":[{"value":"sso.portal@daum.net","begin":35,"end":54,"label":"EMAIL"}]}
+{"id":834,"content":"Cognito가 사용자를 인증합니다. 사용자 풀은 cognito.userpool@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"cognito.userpool@nate.com","begin":36,"end":61,"label":"EMAIL"}]}
+{"id":835,"content":"Verified Access가 제로 트러스트를 구현합니다. 인스턴스는 verifiedaccess.instance@gmail.com으로 검증됩니다.","has_sensitive":true,"entities":[{"value":"verifiedaccess.instance@gmail.com","begin":50,"end":83,"label":"EMAIL"}]}
+{"id":836,"content":"Resource Access Manager가 리소스를 공유합니다. 공유는 ram.share@kakao.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"ram.share@kakao.com","begin":46,"end":65,"label":"EMAIL"}]}
+{"id":837,"content":"Artifact가 규정 준수 문서를 제공합니다. 리포트는 artifact.report@naver.com으로 다운로드됩니다.","has_sensitive":true,"entities":[{"value":"artifact.report@naver.com","begin":43,"end":68,"label":"EMAIL"}]}
+{"id":838,"content":"Audit Manager가 감사를 자동화합니다. 평가는 auditmanager.assessment@daum.net으로 수행됩니다.","has_sensitive":true,"entities":[{"value":"auditmanager.assessment@daum.net","begin":39,"end":71,"label":"EMAIL"}]}
+{"id":839,"content":"Service Quotas가 할당량을 관리합니다. 요청은 servicequotas.request@nate.com으로 증가됩니다.","has_sensitive":true,"entities":[{"value":"servicequotas.request@nate.com","begin":40,"end":70,"label":"EMAIL"}]}
+{"id":840,"content":"Proton이 인프라 템플릿을 관리합니다. 서비스는 proton.service@gmail.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"proton.service@gmail.com","begin":36,"end":60,"label":"EMAIL"}]}
+{"id":841,"content":"App Runner가 웹 앱을 자동 배포합니다. 서비스는 apprunner.service@kakao.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"apprunner.service@kakao.com","begin":41,"end":68,"label":"EMAIL"}]}
+{"id":842,"content":"App Config가 앱 설정을 관리합니다. 프로필은 appconfig.profile@naver.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"appconfig.profile@naver.com","begin":35,"end":62,"label":"EMAIL"}]}
+{"id":843,"content":"App Integrations가 서비스를 통합합니다. 커넥터는 appintegrations.connector@daum.net으로 연결됩니다.","has_sensitive":true,"entities":[{"value":"appintegrations.connector@daum.net","begin":45,"end":79,"label":"EMAIL"}]}
+{"id":844,"content":"Customer Profiles가 고객 데이터를 통합합니다. 도메인은 customerprofiles.domain@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"customerprofiles.domain@nate.com","begin":48,"end":80,"label":"EMAIL"}]}
+{"id":845,"content":"Cases가 케이스를 관리합니다. 도메인은 cases.domain@gmail.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"cases.domain@gmail.com","begin":26,"end":48,"label":"EMAIL"}]}
+{"id":846,"content":"Connect Customer Profiles가 고객을 360도로 봅니다. 프로필은 connectprofiles.profile@kakao.com으로 통합됩니다.","has_sensitive":true,"entities":[{"value":"connectprofiles.profile@kakao.com","begin":56,"end":89,"label":"EMAIL"}]}
+{"id":847,"content":"Voice ID가 음성으로 인증합니다. 도메인은 voiceid.domain@naver.com으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"voiceid.domain@naver.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":848,"content":"Wisdom이 지식을 추천합니다. 어시스턴트는 wisdom.assistant@daum.net으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"wisdom.assistant@daum.net","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":849,"content":"Q Business가 비즈니스 AI를 제공합니다. 애플리케이션은 qbusiness.application@nate.com으로 배포됩니다.","has_sensitive":true,"entities":[{"value":"qbusiness.application@nate.com","begin":45,"end":75,"label":"EMAIL"}]}
+{"id":850,"content":"Q Developer가 코드를 생성합니다. 추천은 qdeveloper.suggestion@gmail.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"qdeveloper.suggestion@gmail.com","begin":32,"end":63,"label":"EMAIL"}]}
+{"id":851,"content":"CodeWhisperer가 AI로 코딩을 지원합니다. 제안은 codewhisperer.suggestion@kakao.com으로 표시됩니다.","has_sensitive":true,"entities":[{"value":"codewhisperer.suggestion@kakao.com","begin":40,"end":74,"label":"EMAIL"}]}
+{"id":852,"content":"DevOps Guru가 운영을 개선합니다. 인사이트는 devopsguru.insight@naver.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"devopsguru.insight@naver.com","begin":39,"end":67,"label":"EMAIL"}]}
+{"id":853,"content":"Fault Injection Simulator가 카오스를 시뮬레이션합니다. 실험은 fis.experiment@daum.net으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"fis.experiment@daum.net","begin":56,"end":79,"label":"EMAIL"}]}
+{"id":854,"content":"Resilience Hub가 복원력을 평가합니다. 앱은 resiliencehub.app@nate.com으로 분석됩니다.","has_sensitive":true,"entities":[{"value":"resiliencehub.app@nate.com","begin":35,"end":61,"label":"EMAIL"}]}
+{"id":855,"content":"Application Signals가 애플리케이션을 관측합니다. 신호는 appsignals.signal@gmail.com으로 수집됩니다.","has_sensitive":true,"entities":[{"value":"appsignals.signal@gmail.com","begin":49,"end":76,"label":"EMAIL"}]}
+{"id":856,"content":"Internet Monitor가 인터넷을 모니터링합니다. 모니터는 internetmonitor.monitor@kakao.com으로 추적됩니다.","has_sensitive":true,"entities":[{"value":"internetmonitor.monitor@kakao.com","begin":45,"end":78,"label":"EMAIL"}]}
+{"id":857,"content":"Network Manager가 글로벌 네트워크를 관리합니다. 네트워크는 networkmanager.network@naver.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"networkmanager.network@naver.com","begin":50,"end":82,"label":"EMAIL"}]}
+{"id":858,"content":"Cloud WAN이 광역 네트워크를 구축합니다. 글로벌 네트워크는 cloudwan.global@daum.net으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"cloudwan.global@daum.net","begin":52,"end":76,"label":"EMAIL"}]}
+{"id":859,"content":"Verified Credentials가 자격 증명을 검증합니다. 스키마는 verifiedcredentials.schema@nate.com으로 정의됩니다.","has_sensitive":true,"entities":[{"value":"verifiedcredentials.schema@nate.com","begin":52,"end":87,"label":"EMAIL"}]}
+{"id":860,"content":"Resource Explorer가 리소스를 검색합니다. 인덱스는 resourceexplorer.index@gmail.com으로 쿼리됩니다.","has_sensitive":true,"entities":[{"value":"resourceexplorer.index@gmail.com","begin":44,"end":76,"label":"EMAIL"}]}
+{"id":861,"content":"User Notifications가 알림을 통합합니다. 채널은 usernotifications.channel@kakao.com으로 구독됩니다.","has_sensitive":true,"entities":[{"value":"usernotifications.channel@kakao.com","begin":42,"end":77,"label":"EMAIL"}]}
+{"id":862,"content":"Omics가 유전체를 분석합니다. 워크플로우는 omics.workflow@naver.com으로 실행됩니다.","has_sensitive":true,"entities":[{"value":"omics.workflow@naver.com","begin":34,"end":58,"label":"EMAIL"}]}
+{"id":863,"content":"Deadline가 렌더 팜을 관리합니다. 큐는 deadline.queue@daum.net으로 스케줄됩니다.","has_sensitive":true,"entities":[{"value":"deadline.queue@daum.net","begin":27,"end":50,"label":"EMAIL"}]}
+{"id":864,"content":"Deadline Cloud가 클라우드 렌더링을 제공합니다. 팜은 deadlinecloud.farm@nate.com으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"deadlinecloud.farm@nate.com","begin":46,"end":73,"label":"EMAIL"}]}
+{"id":865,"content":"Marketplace Entitlement이 권한을 관리합니다. 자격은 mpentitlement.entitlement@gmail.com으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"mpentitlement.entitlement@gmail.com","begin":49,"end":84,"label":"EMAIL"}]}
+{"id":866,"content":"Marketplace Commerce Analytics가 판매를 분석합니다. 리포트는 mpanalytics.report@kakao.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"mpanalytics.report@kakao.com","begin":56,"end":84,"label":"EMAIL"}]}
+{"id":867,"content":"Marketplace Catalog가 제품을 관리합니다. 엔티티는 mpcatalog.entity@naver.com으로 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"mpcatalog.entity@naver.com","begin":46,"end":72,"label":"EMAIL"}]}
+{"id":868,"content":"Partner Central이 파트너를 관리합니다. 계정은 partnercentral.account@daum.net으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"partnercentral.account@daum.net","begin":40,"end":71,"label":"EMAIL"}]}
+{"id":869,"content":"Marketplace Agreement이 계약을 관리합니다. 동의는 mpagreement.consent@nate.com으로 기록됩니다.","has_sensitive":true,"entities":[{"value":"mpagreement.consent@nate.com","begin":46,"end":74,"label":"EMAIL"}]}
+{"id":870,"content":"Marketplace Deployment이 솔루션을 배포합니다. 파라미터는 mpdeployment.parameter@gmail.com으로 설정됩니다.","has_sensitive":true,"entities":[{"value":"mpdeployment.parameter@gmail.com","begin":51,"end":83,"label":"EMAIL"}]}
+{"id":871,"content":"Seller Central이 판매를 관리합니다. 대시보드는 sellercentral.dashboard@kakao.com으로 접근됩니다.","has_sensitive":true,"entities":[{"value":"sellercentral.dashboard@kakao.com","begin":42,"end":75,"label":"EMAIL"}]}
+{"id":872,"content":"Marketing Central이 캠페인을 실행합니다. 캠페인은 marketingcentral.campaign@naver.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"marketingcentral.campaign@naver.com","begin":46,"end":81,"label":"EMAIL"}]}
+{"id":873,"content":"Brand Registry가 브랜드를 보호합니다. 등록은 brandregistry.registration@daum.net으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"brandregistry.registration@daum.net","begin":39,"end":75,"label":"EMAIL"}]}
+{"id":874,"content":"Seller Insights가 판매 인사이트를 제공합니다. 분석은 sellerinsights.analytics@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"sellerinsights.analytics@nate.com","begin":49,"end":82,"label":"EMAIL"}]}
+{"id":875,"content":"Delivery Experience가 배송을 최적화합니다. 추적은 deliveryexperience.tracking@gmail.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"deliveryexperience.tracking@gmail.com","begin":44,"end":81,"label":"EMAIL"}]}
+{"id":876,"content":"Business Prime가 기업 구매를 관리합니다. 계정은 businessprime.account@kakao.com으로 생성됩니다.","has_sensitive":true,"entities":[{"value":"businessprime.account@kakao.com","begin":43,"end":74,"label":"EMAIL"}]}
+{"id":877,"content":"결제 정보가 업데이트되었습니다. 변경 사항은 billing.update@naver.com으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"billing.update@naver.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":878,"content":"보안 점검이 완료되었습니다. 상세 결과는 security.check@daum.net에서 조회하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"security.check@daum.net","begin":32,"end":55,"label":"EMAIL"}]}
+{"id":879,"content":"회원 등급이 상향 조정되었습니다. 혜택 안내는 membership.grade@nate.com으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"membership.grade@nate.com","begin":36,"end":61,"label":"EMAIL"}]}
+{"id":880,"content":"포인트가 적립되었습니다. 내역 확인은 points.history@gmail.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"points.history@gmail.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":881,"content":"쿠폰이 발급되었습니다. 사용 가능한 쿠폰은 coupon.available@kakao.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"coupon.available@kakao.com","begin":33,"end":59,"label":"EMAIL"}]}
+{"id":882,"content":"배송이 지연되고 있습니다. 보상 안내는 delivery.delay@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"delivery.delay@naver.com","begin":30,"end":54,"label":"EMAIL"}]}
+{"id":883,"content":"반품이 승인되었습니다. 환불 절차는 return.refund@daum.net으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"return.refund@daum.net","begin":28,"end":50,"label":"EMAIL"}]}
+{"id":884,"content":"교환이 접수되었습니다. 새 상품 발송은 exchange.shipping@nate.com으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"exchange.shipping@nate.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":885,"content":"리뷰 작성이 완료되었습니다. 적립 포인트는 review.points@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"review.points@gmail.com","begin":34,"end":57,"label":"EMAIL"}]}
+{"id":886,"content":"위시리스트에 추가되었습니다. 가격 변동 알림은 wishlist.alert@kakao.com으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"wishlist.alert@kakao.com","begin":37,"end":61,"label":"EMAIL"}]}
+{"id":887,"content":"재입고 알림이 설정되었습니다. 입고 시 restock.notification@naver.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"restock.notification@naver.com","begin":28,"end":58,"label":"EMAIL"}]}
+{"id":888,"content":"가격 인하 상품을 알려드립니다. 상세 내역은 price.drop@daum.net에서 확인하세요.","has_sensitive":true,"entities":[{"value":"price.drop@daum.net","begin":33,"end":52,"label":"EMAIL"}]}
+{"id":889,"content":"특가 행사가 시작되었습니다. 할인 쿠폰은 sale.coupon@nate.com으로 발송되었습니다.","has_sensitive":true,"entities":[{"value":"sale.coupon@nate.com","begin":32,"end":52,"label":"EMAIL"}]}
+{"id":890,"content":"타임 세일이 진행 중입니다. 남은 수량은 timesale.stock@gmail.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"timesale.stock@gmail.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":891,"content":"이벤트 당첨을 축하합니다. 경품 수령 방법은 event.prize@kakao.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"event.prize@kakao.com","begin":34,"end":55,"label":"EMAIL"}]}
+{"id":892,"content":"설문 참여 감사합니다. 추첨 결과는 survey.result@naver.com으로 발표됩니다.","has_sensitive":true,"entities":[{"value":"survey.result@naver.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":893,"content":"출석 이벤트 보상이 지급되었습니다. 확인은 attendance.reward@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"attendance.reward@daum.net","begin":34,"end":60,"label":"EMAIL"}]}
+{"id":894,"content":"친구 추천 이벤트에 참여해주세요. 혜택은 referral.benefit@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"referral.benefit@nate.com","begin":34,"end":59,"label":"EMAIL"}]}
+{"id":895,"content":"생일 축하 쿠폰을 드립니다. 사용 안내는 birthday.coupon@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"birthday.coupon@gmail.com","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":896,"content":"정기 구독이 갱신되었습니다. 다음 결제일은 subscription.next@kakao.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"subscription.next@kakao.com","begin":33,"end":60,"label":"EMAIL"}]}
+{"id":897,"content":"구독 해지가 처리되었습니다. 환불 내역은 cancel.subscription@naver.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"cancel.subscription@naver.com","begin":32,"end":61,"label":"EMAIL"}]}
+{"id":898,"content":"정기 배송 일정이 변경되었습니다. 새로운 일정은 recurring.schedule@daum.net으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"recurring.schedule@daum.net","begin":37,"end":64,"label":"EMAIL"}]}
+{"id":899,"content":"배송지가 추가되었습니다. 기본 배송지 설정은 address.default@nate.com에서 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"address.default@nate.com","begin":35,"end":59,"label":"EMAIL"}]}
+{"id":900,"content":"본인 인증이 완료되었습니다. 인증 내역은 identity.verify@gmail.com으로 저장됩니다.","has_sensitive":true,"entities":[{"value":"identity.verify@gmail.com","begin":30,"end":55,"label":"EMAIL"}]}
+{"id":901,"content":"비밀번호가 재설정되었습니다. 보안 안내는 password.reset@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"password.reset@kakao.com","begin":32,"end":56,"label":"EMAIL"}]}
+{"id":902,"content":"로그인 알림입니다. 새로운 기기에서 접속이 감지되어 login.alert@naver.com으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"login.alert@naver.com","begin":45,"end":66,"label":"EMAIL"}]}
+{"id":903,"content":"계정 보안 설정이 변경되었습니다. 확인은 account.security@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"account.security@daum.net","begin":32,"end":57,"label":"EMAIL"}]}
+{"id":904,"content":"2단계 인증이 활성화되었습니다. 백업 코드는 twofa.backup@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"twofa.backup@nate.com","begin":36,"end":57,"label":"EMAIL"}]}
+{"id":905,"content":"이메일 주소가 변경되었습니다. 변경 확인은 email.change@gmail.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"email.change@gmail.com","begin":32,"end":54,"label":"EMAIL"}]}
+{"id":906,"content":"휴대폰 번호가 인증되었습니다. 인증 완료 알림은 phone.verify@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"phone.verify@kakao.com","begin":37,"end":59,"label":"EMAIL"}]}
+{"id":907,"content":"개인정보 수정이 완료되었습니다. 변경 내역은 profile.change@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"profile.change@naver.com","begin":34,"end":58,"label":"EMAIL"}]}
+{"id":908,"content":"프로필 이미지가 업데이트되었습니다. 승인 결과는 profile.image@daum.net으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"profile.image@daum.net","begin":38,"end":60,"label":"EMAIL"}]}
+{"id":909,"content":"알림 설정이 저장되었습니다. 맞춤 알림은 notification.custom@nate.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"notification.custom@nate.com","begin":29,"end":57,"label":"EMAIL"}]}
+{"id":910,"content":"마케팅 수신 동의가 변경되었습니다. 확인 메일은 marketing.consent@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"marketing.consent@gmail.com","begin":37,"end":64,"label":"EMAIL"}]}
+{"id":911,"content":"약관 동의가 업데이트되었습니다. 최신 약관은 terms.agreement@kakao.com에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"terms.agreement@kakao.com","begin":33,"end":58,"label":"EMAIL"}]}
+{"id":912,"content":"개인정보 처리방침이 변경되었습니다. 전문은 privacy.policy@naver.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"privacy.policy@naver.com","begin":35,"end":59,"label":"EMAIL"}]}
+{"id":913,"content":"소셜 계정이 연동되었습니다. 연동 관리는 social.link@daum.net에서 진행하세요.","has_sensitive":true,"entities":[{"value":"social.link@daum.net","begin":29,"end":49,"label":"EMAIL"}]}
+{"id":914,"content":"연동 해제가 완료되었습니다. 재연동은 link.disconnect@nate.com으로 요청 가능합니다.","has_sensitive":true,"entities":[{"value":"link.disconnect@nate.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":915,"content":"API 키가 생성되었습니다. 보안상 apikey.secure@gmail.com으로만 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"apikey.secure@gmail.com","begin":25,"end":48,"label":"EMAIL"}]}
+{"id":916,"content":"웹훅이 등록되었습니다. 테스트 이벤트는 webhook.test@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"webhook.test@kakao.com","begin":31,"end":53,"label":"EMAIL"}]}
+{"id":917,"content":"OAuth 인증이 승인되었습니다. 토큰 갱신은 oauth.refresh@naver.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"oauth.refresh@naver.com","begin":33,"end":56,"label":"EMAIL"}]}
+{"id":918,"content":"세션이 만료되었습니다. 재로그인 안내는 session.expired@daum.net으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"session.expired@daum.net","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":919,"content":"로그아웃되었습니다. 보안을 위해 logout.security@nate.com으로 확인 메일이 전송됩니다.","has_sensitive":true,"entities":[{"value":"logout.security@nate.com","begin":25,"end":49,"label":"EMAIL"}]}
+{"id":920,"content":"계정이 일시 정지되었습니다. 해제 신청은 account.suspend@gmail.com으로 부탁드립니다.","has_sensitive":true,"entities":[{"value":"account.suspend@gmail.com","begin":32,"end":57,"label":"EMAIL"}]}
+{"id":921,"content":"계정이 복구되었습니다. 복구 완료 알림은 account.restore@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"account.restore@kakao.com","begin":32,"end":57,"label":"EMAIL"}]}
+{"id":922,"content":"계정 삭제가 예약되었습니다. 취소는 account.delete@naver.com으로 가능합니다.","has_sensitive":true,"entities":[{"value":"account.delete@naver.com","begin":28,"end":52,"label":"EMAIL"}]}
+{"id":923,"content":"휴면 계정이 해제되었습니다. 재활성화 내역은 dormant.reactivate@daum.net으로 확인하세요.","has_sensitive":true,"entities":[{"value":"dormant.reactivate@daum.net","begin":35,"end":62,"label":"EMAIL"}]}
+{"id":924,"content":"접근 권한이 변경되었습니다. 권한 내역은 access.permission@nate.com에서 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"access.permission@nate.com","begin":31,"end":57,"label":"EMAIL"}]}
+{"id":925,"content":"관리자 권한이 부여되었습니다. 관리 페이지는 admin.access@gmail.com으로 접근하세요.","has_sensitive":true,"entities":[{"value":"admin.access@gmail.com","begin":33,"end":55,"label":"EMAIL"}]}
+{"id":926,"content":"팀 초대장이 발송되었습니다. 수락 링크는 team.invite@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"team.invite@kakao.com","begin":31,"end":52,"label":"EMAIL"}]}
+{"id":927,"content":"팀원이 추가되었습니다. 환영 메시지는 team.member@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"team.member@naver.com","begin":29,"end":50,"label":"EMAIL"}]}
+{"id":928,"content":"역할이 변경되었습니다. 새로운 역할 안내는 role.change@daum.net으로 전달됩니다.","has_sensitive":true,"entities":[{"value":"role.change@daum.net","begin":32,"end":52,"label":"EMAIL"}]}
+{"id":929,"content":"프로젝트가 생성되었습니다. 협업 초대는 project.collaborate@nate.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"project.collaborate@nate.com","begin":31,"end":59,"label":"EMAIL"}]}
+{"id":930,"content":"작업이 할당되었습니다. 상세 내용은 task.assign@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"task.assign@gmail.com","begin":26,"end":47,"label":"EMAIL"}]}
+{"id":931,"content":"마일스톤이 달성되었습니다. 축하 메시지는 milestone.achieved@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"milestone.achieved@kakao.com","begin":32,"end":60,"label":"EMAIL"}]}
+{"id":932,"content":"댓글이 작성되었습니다. 멘션 알림은 comment.mention@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"comment.mention@naver.com","begin":27,"end":52,"label":"EMAIL"}]}
+{"id":933,"content":"답글이 등록되었습니다. 작성자에게 reply.notification@daum.net으로 통지됩니다.","has_sensitive":true,"entities":[{"value":"reply.notification@daum.net","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":934,"content":"좋아요가 추가되었습니다. 인기 게시물은 like.popular@nate.com으로 선정됩니다.","has_sensitive":true,"entities":[{"value":"like.popular@nate.com","begin":30,"end":51,"label":"EMAIL"}]}
+{"id":935,"content":"북마크에 저장되었습니다. 모음 관리는 bookmark.collection@gmail.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"bookmark.collection@gmail.com","begin":27,"end":56,"label":"EMAIL"}]}
+{"id":936,"content":"공유가 완료되었습니다. 공유 통계는 share.analytics@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"share.analytics@kakao.com","begin":25,"end":50,"label":"EMAIL"}]}
+{"id":937,"content":"신고가 접수되었습니다. 처리 결과는 report.result@naver.com으로 회신됩니다.","has_sensitive":true,"entities":[{"value":"report.result@naver.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":938,"content":"차단이 적용되었습니다. 차단 목록은 block.list@daum.net에서 관리 가능합니다.","has_sensitive":true,"entities":[{"value":"block.list@daum.net","begin":25,"end":44,"label":"EMAIL"}]}
+{"id":939,"content":"팔로우가 시작되었습니다. 새 소식은 follow.updates@nate.com으로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"follow.updates@nate.com","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":940,"content":"언팔로우되었습니다. 재팔로우는 unfollow.refollow@gmail.com으로 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"unfollow.refollow@gmail.com","begin":22,"end":49,"label":"EMAIL"}]}
+{"id":941,"content":"구독자가 증가했습니다. 구독자 관리는 subscriber.manage@kakao.com에서 진행하세요.","has_sensitive":true,"entities":[{"value":"subscriber.manage@kakao.com","begin":28,"end":55,"label":"EMAIL"}]}
+{"id":942,"content":"새 글이 발행되었습니다. 구독자에게 publish.notification@naver.com으로 알림됩니다.","has_sensitive":true,"entities":[{"value":"publish.notification@naver.com","begin":28,"end":58,"label":"EMAIL"}]}
+{"id":943,"content":"초안이 저장되었습니다. 임시 보관함은 draft.autosave@daum.net에서 접근 가능합니다.","has_sensitive":true,"entities":[{"value":"draft.autosave@daum.net","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":944,"content":"예약 발행이 설정되었습니다. 발행 시각은 schedule.publish@nate.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"schedule.publish@nate.com","begin":29,"end":54,"label":"EMAIL"}]}
+{"id":945,"content":"편집 권한이 부여되었습니다. 공동 작업은 edit.collaborate@gmail.com으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"edit.collaborate@gmail.com","begin":30,"end":56,"label":"EMAIL"}]}
+{"id":946,"content":"버전이 저장되었습니다. 이전 버전은 version.history@kakao.com에서 복원 가능합니다.","has_sensitive":true,"entities":[{"value":"version.history@kakao.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":947,"content":"충돌이 감지되었습니다. 병합 도움은 conflict.merge@naver.com으로 요청하세요.","has_sensitive":true,"entities":[{"value":"conflict.merge@naver.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":948,"content":"동기화가 완료되었습니다. 최신 상태는 sync.status@daum.net에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"sync.status@daum.net","begin":27,"end":47,"label":"EMAIL"}]}
+{"id":949,"content":"백업이 생성되었습니다. 복원 방법은 backup.restore@nate.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"backup.restore@nate.com","begin":24,"end":47,"label":"EMAIL"}]}
+{"id":950,"content":"내보내기가 완료되었습니다. 다운로드 링크는 export.download@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"export.download@gmail.com","begin":32,"end":57,"label":"EMAIL"}]}
+{"id":951,"content":"가져오기가 진행되었습니다. 완료 알림은 import.complete@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"import.complete@kakao.com","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":952,"content":"데이터 마이그레이션이 시작되었습니다. 진행 상황은 migrate.progress@naver.com으로 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"migrate.progress@naver.com","begin":40,"end":66,"label":"EMAIL"}]}
+{"id":953,"content":"스토리지 용량이 부족합니다. 업그레이드는 storage.upgrade@daum.net으로 신청하세요.","has_sensitive":true,"entities":[{"value":"storage.upgrade@daum.net","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":954,"content":"용량이 증설되었습니다. 새로운 한도는 capacity.increase@nate.com으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"capacity.increase@nate.com","begin":28,"end":54,"label":"EMAIL"}]}
+{"id":955,"content":"플랜이 업그레이드되었습니다. 새 기능 안내는 plan.upgrade@gmail.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"plan.upgrade@gmail.com","begin":34,"end":56,"label":"EMAIL"}]}
+{"id":956,"content":"다운그레이드가 예약되었습니다. 변경 사항은 plan.downgrade@kakao.com으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"plan.downgrade@kakao.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":957,"content":"무료 체험이 시작되었습니다. 체험 안내는 trial.start@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"trial.start@naver.com","begin":30,"end":51,"label":"EMAIL"}]}
+{"id":958,"content":"체험 기간이 종료되었습니다. 결제 안내는 trial.end@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"trial.end@daum.net","begin":30,"end":48,"label":"EMAIL"}]}
+{"id":959,"content":"결제가 성공적으로 처리되었습니다. 영수증은 payment.success@nate.com으로 발급됩니다.","has_sensitive":true,"entities":[{"value":"payment.success@nate.com","begin":36,"end":60,"label":"EMAIL"}]}
+{"id":960,"content":"결제에 실패했습니다. 재시도 안내는 payment.failed@gmail.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"payment.failed@gmail.com","begin":26,"end":50,"label":"EMAIL"}]}
+{"id":961,"content":"자동 결제가 설정되었습니다. 결제일 알림은 autopay.reminder@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"autopay.reminder@kakao.com","begin":32,"end":58,"label":"EMAIL"}]}
+{"id":962,"content":"결제 수단이 추가되었습니다. 관리는 payment.method@naver.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"payment.method@naver.com","begin":26,"end":50,"label":"EMAIL"}]}
+{"id":963,"content":"카드 유효기간이 만료됩니다. 갱신 요청은 card.expiry@daum.net으로 부탁드립니다.","has_sensitive":true,"entities":[{"value":"card.expiry@daum.net","begin":29,"end":49,"label":"EMAIL"}]}
+{"id":964,"content":"세금계산서가 발행되었습니다. 다운로드는 tax.invoice@nate.com에서 가능합니다.","has_sensitive":true,"entities":[{"value":"tax.invoice@nate.com","begin":29,"end":49,"label":"EMAIL"}]}
+{"id":965,"content":"현금영수증이 신청되었습니다. 승인 결과는 cash.receipt@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"cash.receipt@gmail.com","begin":32,"end":54,"label":"EMAIL"}]}
+{"id":966,"content":"할부가 승인되었습니다. 납부 일정은 installment.schedule@kakao.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"installment.schedule@kakao.com","begin":24,"end":54,"label":"EMAIL"}]}
+{"id":967,"content":"연체료가 발생했습니다. 납부 안내는 overdue.charge@naver.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"overdue.charge@naver.com","begin":24,"end":48,"label":"EMAIL"}]}
+{"id":968,"content":"크레딧이 충전되었습니다. 잔액 확인은 credit.balance@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"credit.balance@daum.net","begin":26,"end":49,"label":"EMAIL"}]}
+{"id":969,"content":"포인트가 차감되었습니다. 사용 내역은 point.usage@nate.com으로 확인하세요.","has_sensitive":true,"entities":[{"value":"point.usage@nate.com","begin":26,"end":46,"label":"EMAIL"}]}
+{"id":970,"content":"캐시백이 적립되었습니다. 적립 내역은 cashback.history@gmail.com에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"cashback.history@gmail.com","begin":27,"end":53,"label":"EMAIL"}]}
+{"id":971,"content":"리워드가 지급되었습니다. 사용 방법은 reward.redeem@kakao.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"reward.redeem@kakao.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":972,"content":"적립금이 소멸 예정입니다. 사용 권장 안내는 points.expiry@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"points.expiry@naver.com","begin":34,"end":57,"label":"EMAIL"}]}
+{"id":973,"content":"기프트카드가 등록되었습니다. 잔액 확인은 giftcard.balance@daum.net에서 가능합니다.","has_sensitive":true,"entities":[{"value":"giftcard.balance@daum.net","begin":31,"end":56,"label":"EMAIL"}]}
+{"id":974,"content":"상품권이 발송되었습니다. 수령 확인은 voucher.delivery@nate.com으로 부탁드립니다.","has_sensitive":true,"entities":[{"value":"voucher.delivery@nate.com","begin":28,"end":53,"label":"EMAIL"}]}
+{"id":975,"content":"할인 코드가 적용되었습니다. 할인 내역은 discount.applied@gmail.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"discount.applied@gmail.com","begin":30,"end":56,"label":"EMAIL"}]}
+{"id":976,"content":"프로모션 코드가 유효하지 않습니다. 재확인은 promo.invalid@kakao.com으로 문의하세요.","has_sensitive":true,"entities":[{"value":"promo.invalid@kakao.com","begin":37,"end":60,"label":"EMAIL"}]}
+{"id":977,"content":"멤버십 혜택이 적용되었습니다. 상세 내역은 member.benefit@naver.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"member.benefit@naver.com","begin":33,"end":57,"label":"EMAIL"}]}
+{"id":978,"content":"VIP 등급으로 승급되었습니다. 특별 혜택은 vip.exclusive@daum.net으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"vip.exclusive@daum.net","begin":34,"end":56,"label":"EMAIL"}]}
+{"id":979,"content":"등급 유지 안내드립니다. 다음 평가일은 grade.maintain@nate.com으로 통보됩니다.","has_sensitive":true,"entities":[{"value":"grade.maintain@nate.com","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":980,"content":"등급 하락 예정입니다. 유지 방법은 grade.downgrade@gmail.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"grade.downgrade@gmail.com","begin":24,"end":49,"label":"EMAIL"}]}
+{"id":981,"content":"추천 상품을 선정했습니다. 맞춤 추천은 recommend.product@kakao.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"recommend.product@kakao.com","begin":29,"end":56,"label":"EMAIL"}]}
+{"id":982,"content":"인기 상품을 소개합니다. 베스트 상품은 popular.items@naver.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"popular.items@naver.com","begin":30,"end":53,"label":"EMAIL"}]}
+{"id":983,"content":"신상품이 출시되었습니다. 최신 제품은 new.arrival@daum.net으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"new.arrival@daum.net","begin":28,"end":48,"label":"EMAIL"}]}
+{"id":984,"content":"품절 상품이 재입고되었습니다. 구매 링크는 restock.item@nate.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"restock.item@nate.com","begin":34,"end":55,"label":"EMAIL"}]}
+{"id":985,"content":"단종 예정 상품입니다. 마지막 구매 기회는 discontinued.final@gmail.com으로 알려드립니다.","has_sensitive":true,"entities":[{"value":"discontinued.final@gmail.com","begin":34,"end":62,"label":"EMAIL"}]}
+{"id":986,"content":"시즌 오프 세일이 시작되었습니다. 할인 상품은 season.sale@kakao.com에서 확인하세요.","has_sensitive":true,"entities":[{"value":"season.sale@kakao.com","begin":37,"end":58,"label":"EMAIL"}]}
+{"id":987,"content":"재고 소진 임박 상품입니다. 긴급 알림은 stock.alert@naver.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"stock.alert@naver.com","begin":31,"end":52,"label":"EMAIL"}]}
+{"id":988,"content":"한정 수량 판매가 진행됩니다. 선착순 안내는 limited.quantity@daum.net으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"limited.quantity@daum.net","begin":33,"end":58,"label":"EMAIL"}]}
+{"id":989,"content":"예약 판매가 시작되었습니다. 예약 링크는 preorder.start@nate.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"preorder.start@nate.com","begin":32,"end":55,"label":"EMAIL"}]}
+{"id":990,"content":"사전 예약이 마감되었습니다. 출시 알림은 preorder.end@gmail.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"preorder.end@gmail.com","begin":32,"end":54,"label":"EMAIL"}]}
+{"id":991,"content":"얼리버드 할인이 적용되었습니다. 특가 안내는 earlybird.discount@kakao.com으로 전송됩니다.","has_sensitive":true,"entities":[{"value":"earlybird.discount@kakao.com","begin":35,"end":63,"label":"EMAIL"}]}
+{"id":992,"content":"그룹 구매가 성사되었습니다. 할인 혜택은 group.purchase@naver.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"group.purchase@naver.com","begin":31,"end":55,"label":"EMAIL"}]}
+{"id":993,"content":"공동 구매 모집 중입니다. 참여 링크는 collective.buy@daum.net으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"collective.buy@daum.net","begin":28,"end":51,"label":"EMAIL"}]}
+{"id":994,"content":"번들 상품을 추천합니다. 패키지 할인은 bundle.discount@nate.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"bundle.discount@nate.com","begin":29,"end":53,"label":"EMAIL"}]}
+{"id":995,"content":"크로스셀 상품을 제안합니다. 함께 구매 시 crosssell.offer@gmail.com으로 추가 할인됩니다.","has_sensitive":true,"entities":[{"value":"crosssell.offer@gmail.com","begin":34,"end":59,"label":"EMAIL"}]}
+{"id":996,"content":"업셀 제안을 드립니다. 프리미엄 옵션은 upsell.premium@kakao.com으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"upsell.premium@kakao.com","begin":29,"end":53,"label":"EMAIL"}]}
+{"id":997,"content":"재구매 할인 쿠폰입니다. 단골 고객 혜택은 repurchase.loyalty@naver.com으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"repurchase.loyalty@naver.com","begin":32,"end":60,"label":"EMAIL"}]}
+{"id":998,"content":"장바구니 상품이 할인되었습니다. 특별 혜택은 cart.discount@daum.net으로 알려드립니다.","has_sensitive":true,"entities":[{"value":"cart.discount@daum.net","begin":35,"end":57,"label":"EMAIL"}]}
+{"id":999,"content":"위시리스트 상품이 세일 중입니다. 알림 설정은 wishlist.sale@nate.com에서 관리하세요.","has_sensitive":true,"entities":[{"value":"wishlist.sale@nate.com","begin":36,"end":58,"label":"EMAIL"}]}
+{"id":1000,"content":"맞춤 추천 서비스가 업데이트되었습니다. 새로운 추천은 personalized.recommendation@gmail.com으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"personalized.recommendation@gmail.com","begin":42,"end":79,"label":"EMAIL"}]}
