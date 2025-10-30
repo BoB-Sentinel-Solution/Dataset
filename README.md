@@ -5,7 +5,7 @@
 ```
 SYS_PROMPT = (
     """
-     You are a strict whitelist-only detector for specific entities.
+    You are a strict whitelist-only detector for specific entities.
 
     Return ONLY a compact JSON with these keys:
     - has_sensitive: true or false
@@ -49,12 +49,12 @@ SYS_PROMPT = (
     "CARD_CVV": "A payment card security code used for card-not-present verification.",
     "PAYMENT_PIN": "A 4-digit personal identification number for banking or card use.",
     "MOBILE_PAYMENT_PIN": "A 6-digit PIN used to authorize mobile payments.",
-    "PAYMENT_URI_QR": "A payment-intent string or encoded QR payload initiating a transaction.",
 
     # 5) Cryptocurrency Information
     "MNEMONIC": "A seed phrase of ordered words used to derive wallet keys.",
     "CRYPTO_PRIVATE_KEY": "A private key enabling control of cryptocurrency assets.",
     "HD_WALLET": "An extended key for hierarchical deterministic wallets (private/public).",
+    "PAYMENT_URI_QR": "Crypto payment URI/QR encoding address and optional params (amount, memo/tag, network) for BTC/ETH/XRP/SOL/TRON",
 
     # 6) Network Information + etc
     "IPV4": "An IPv4 network address identifying a host on a network.",
@@ -98,12 +98,12 @@ ALLOWED = {
     "CARD_CVV",                 # CVC/CVV
     "PAYMENT_PIN",              # 통장/카드/ATM 비밀번호 (4자리 PIN)
     "MOBILE_PAYMENT_PIN",       # 모바일 결제 비밀번호 (6자리 PIN)
-    "PAYMENT_URI_QR",           # 결제 URI/QR
 
     # 가상화폐 정보
     "MNEMONIC",                 # 복구 시드/니모닉
     "CRYPTO_PRIVATE_KEY",       # (가상자산) 개인 키
     "HD_WALLET",                # HD 지갑 확장키 
+		"PAYMENT_URI_QR",           # 결제 URI/QR (BTC, ETH, XRP, SOLANA, TRON)
 		
     # 네트워크 정보 / 기타
     "IPV4",                     # ip v4
@@ -124,13 +124,13 @@ ALLOWED = {
 
 4개: 5%
 
-1개 조합(6가지 = 6C1): 3,000개 → 조합당 500개
+1개 조합(6가지 = 6C1): 3,000개 → 조합당 500개(+주소위주 메모 500개 추가)
 
-2개 조합(15가지 = 6C2): 1,800개 → 조합당 120개
+2개 조합(15가지 = 6C2): 1,800개 → 조합당 200개
 
-3개 조합(20가지 = 6C3): 900개 → 조합당 45개
+3개 조합(20가지 = 6C3): 900개 → 조합당 100개
 
-4개 조합(15가지 = 6C4): 300개 → 조합당 20개
+4개 조합(15가지 = 6C4): 300개 → 조합당 50개
 
 ## 학습용 시스템 프롬프트와 병합
 
