@@ -1,0 +1,1000 @@
+{"id":1,"content":"우편물 발송을 준비했습니다. 우편번호 04567 를 확인해 주시고, 또한 주소 변경 시 알려주세요.","has_sensitive":true,"entities":[{"value":"04567","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":2,"content":"배송지 주소는 서울시 강남구이며 우편번호는 06234 입니다. 참고로 정확한 배송을 위해 연락처도 함께 남겨주세요.","has_sensitive":true,"entities":[{"value":"06234","begin":29,"end":34,"label":"POSTAL_CODE"}]}
+{"id":3,"content":"고객님의 등록된 우편번호 48058 로 상품이 발송되었습니다. 배송 조회는 홈페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"48058","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":4,"content":"신규 사업장의 우편번호는 30112 이고, 상세주소는 5층 501호입니다.","has_sensitive":true,"entities":[{"value":"30112","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":5,"content":"먼저 회원가입을 완료해 주세요. 배송지 우편번호 21450 과 상세 주소를 입력하시면 됩니다.","has_sensitive":true,"entities":[{"value":"21450","begin":30,"end":35,"label":"POSTAL_CODE"}]}
+{"id":6,"content":"본사 이전 안내드립니다. 새 주소의 우편번호는 13579 이며, 다음 주부터 업무를 시작합니다.","has_sensitive":true,"entities":[{"value":"13579","begin":28,"end":33,"label":"POSTAL_CODE"}]}
+{"id":7,"content":"택배 수령지를 확인해 주세요. 우편번호 08842 와 동 호수를 정확히 기재 부탁드립니다.","has_sensitive":true,"entities":[{"value":"08842","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":8,"content":"주문하신 상품은 우편번호 15678 지역으로 내일 도착 예정입니다. 배송 시간은 오전 중입니다.","has_sensitive":true,"entities":[{"value":"15678","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":9,"content":"지점 주소 변경을 알려드립니다. 우편번호 02345 로 변경되었으며, 월요일부터 운영합니다.","has_sensitive":true,"entities":[{"value":"02345","begin":25,"end":30,"label":"POSTAL_CODE"}]}
+{"id":10,"content":"회원님의 기본 배송지는 우편번호 34567 입니다. 그리고 추가 배송지도 등록 가능합니다.","has_sensitive":true,"entities":[{"value":"34567","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":11,"content":"반품 접수가 완료되었습니다. 우편번호 45678 로 택배를 보내주시면 확인 후 처리하겠습니다.","has_sensitive":true,"entities":[{"value":"45678","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":12,"content":"고객센터 위치는 우편번호 56789 지역입니다. 아울러 방문 상담은 예약제로 운영됩니다.","has_sensitive":true,"entities":[{"value":"56789","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":13,"content":"새로운 매장이 오픈합니다. 우편번호는 67890 이고, 오픈 기념 행사도 진행됩니다.","has_sensitive":true,"entities":[{"value":"67890","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":14,"content":"등기우편 발송 완료했습니다. 우편번호 78901 로 발송되었으며 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"78901","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":15,"content":"제품 수령 확인 부탁드립니다. 우편번호 89012 로 오늘 오후에 배송 완료 예정입니다.","has_sensitive":true,"entities":[{"value":"89012","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":16,"content":"사무실 주소 안내입니다. 우편번호 90123 이며, 참고로 주차는 건물 지하에서 가능합니다.","has_sensitive":true,"entities":[{"value":"90123","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":17,"content":"배송 주소를 다시 확인해 주세요. 우편번호 01234 가 맞는지 검토 부탁드립니다.","has_sensitive":true,"entities":[{"value":"01234","begin":24,"end":29,"label":"POSTAL_CODE"}]}
+{"id":18,"content":"서비스센터는 우편번호 12389 지역에 위치합니다. 다만 토요일은 오전만 운영합니다.","has_sensitive":true,"entities":[{"value":"12389","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":19,"content":"계산서 발행 주소는 우편번호 23456 입니다. 그리고 사업자등록증 사본도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"23456","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":20,"content":"물류센터 위치 안내드립니다. 우편번호는 34512 이고, 대량 구매 문의도 환영합니다.","has_sensitive":true,"entities":[{"value":"34512","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":21,"content":"주문서에 기재된 우편번호 45623 로 출고 처리되었습니다. 송장번호는 별도 안내드립니다.","has_sensitive":true,"entities":[{"value":"45623","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":22,"content":"신청하신 카탈로그를 우편번호 56734 로 발송합니다. 또한 온라인에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"56734","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":23,"content":"교환 상품은 우편번호 67845 지역으로 배송 예정입니다. 배송비는 무료로 처리됩니다.","has_sensitive":true,"entities":[{"value":"67845","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":24,"content":"회원 정보를 업데이트했습니다. 우편번호 78956 가 정확히 등록되었습니다.","has_sensitive":true,"entities":[{"value":"78956","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":25,"content":"영업소 주소는 우편번호 89067 입니다. 참고로 방문 전 유선 연락 부탁드립니다.","has_sensitive":true,"entities":[{"value":"89067","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":26,"content":"견적서 발송 주소가 우편번호 90178 로 확인됩니다. 다만 내용 검토 후 회신 바랍니다.","has_sensitive":true,"entities":[{"value":"90178","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":27,"content":"고객님께서 요청하신 자료를 우편번호 01289 로 발송했습니다. 수령 후 확인 부탁드립니다.","has_sensitive":true,"entities":[{"value":"01289","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":28,"content":"대리점 위치는 우편번호 13590 지역입니다. 그리고 운영 시간은 평일 9시부터입니다.","has_sensitive":true,"entities":[{"value":"13590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":29,"content":"설치 기사가 우편번호 24601 로 방문 예정입니다. 아울러 연락처를 확인해 주세요.","has_sensitive":true,"entities":[{"value":"24601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":30,"content":"청구서 발송 주소를 우편번호 35712 로 변경했습니다. 다음 달부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"35712","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":31,"content":"샘플 제품을 우편번호 46823 지역으로 발송합니다. 또한 사용 후기도 남겨주세요.","has_sensitive":true,"entities":[{"value":"46823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":32,"content":"가입 신청서는 우편번호 57934 로 보내주시기 바랍니다. 접수 후 연락드리겠습니다.","has_sensitive":true,"entities":[{"value":"57934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":33,"content":"전시장 주소는 우편번호 68045 입니다. 참고로 주말에는 예약 방문만 가능합니다.","has_sensitive":true,"entities":[{"value":"68045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":34,"content":"발송 예정 주소가 우편번호 79156 인지 확인 부탁드립니다. 오류 시 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"79156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":35,"content":"본점 이전을 알려드립니다. 새 우편번호는 80267 이며, 다음 달부터 영업합니다.","has_sensitive":true,"entities":[{"value":"80267","begin":25,"end":30,"label":"POSTAL_CODE"}]}
+{"id":36,"content":"배송 불가 지역을 안내합니다. 우편번호 91378 는 현재 서비스가 제한됩니다.","has_sensitive":true,"entities":[{"value":"91378","begin":22,"end":27,"label":"POSTAL_CODE"}]}
+{"id":37,"content":"수리 접수가 완료되었습니다. 우편번호 02489 로 제품을 보내주시면 점검하겠습니다.","has_sensitive":true,"entities":[{"value":"02489","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":38,"content":"A/S센터는 우편번호 14590 지역에 있습니다. 그리고 사전 예약이 필수입니다.","has_sensitive":true,"entities":[{"value":"14590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":39,"content":"회원 가입 주소가 우편번호 25601 로 등록되었습니다. 또한 이메일 인증도 완료해 주세요.","has_sensitive":true,"entities":[{"value":"25601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":40,"content":"매장 안내를 도와드립니다. 가장 가까운 지점은 우편번호 36712 지역입니다.","has_sensitive":true,"entities":[{"value":"36712","begin":32,"end":37,"label":"POSTAL_CODE"}]}
+{"id":41,"content":"반품 처리 주소는 우편번호 47823 입니다. 다만 제품 상태 확인 후 환불됩니다.","has_sensitive":true,"entities":[{"value":"47823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":42,"content":"출장 서비스 가능 지역은 우편번호 58934 입니다. 참고로 추가 비용이 발생합니다.","has_sensitive":true,"entities":[{"value":"58934","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":43,"content":"상담센터 위치를 안내합니다. 우편번호 69045 이며, 평일 오후 6시까지 운영합니다.","has_sensitive":true,"entities":[{"value":"69045","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":44,"content":"긴급 배송은 우편번호 70156 지역만 가능합니다. 그리고 추가 요금이 부과됩니다.","has_sensitive":true,"entities":[{"value":"70156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":45,"content":"주문 내역을 확인했습니다. 배송지 우편번호 81267 이 정확한지 재확인 바랍니다.","has_sensitive":true,"entities":[{"value":"81267","begin":26,"end":31,"label":"POSTAL_CODE"}]}
+{"id":46,"content":"지사 주소 변경 안내입니다. 우편번호가 92378 로 바뀌었으니 참고하세요.","has_sensitive":true,"entities":[{"value":"92378","begin":22,"end":27,"label":"POSTAL_CODE"}]}
+{"id":47,"content":"계약서 수령 주소는 우편번호 03489 입니다. 아울러 서명 후 회송 부탁드립니다.","has_sensitive":true,"entities":[{"value":"03489","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":48,"content":"신제품 안내 자료를 우편번호 15590 로 보내드립니다. 또한 문의 사항은 연락 주세요.","has_sensitive":true,"entities":[{"value":"15590","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":49,"content":"설문지 회수 주소는 우편번호 26601 입니다. 다만 마감일까지 보내주셔야 합니다.","has_sensitive":true,"entities":[{"value":"26601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":50,"content":"프로모션 상품은 우편번호 37712 지역부터 순차 배송됩니다. 양해 부탁드립니다.","has_sensitive":true,"entities":[{"value":"37712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":51,"content":"입찰 서류는 우편번호 48823 로 제출하시면 됩니다. 참고로 마감 시간을 지켜주세요.","has_sensitive":true,"entities":[{"value":"48823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":52,"content":"회의 장소는 우편번호 59934 지역 회의실입니다. 그리고 주차권은 프론트에서 받으세요.","has_sensitive":true,"entities":[{"value":"59934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":53,"content":"세금계산서 발행 주소는 우편번호 60045 입니다. 또한 이메일로도 발송 가능합니다.","has_sensitive":true,"entities":[{"value":"60045","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":54,"content":"고객 응대 매뉴얼을 우편번호 71156 로 발송했습니다. 수령 확인 부탁드립니다.","has_sensitive":true,"entities":[{"value":"71156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":55,"content":"공지사항을 전달합니다. 본사 우편번호는 82267 이고, 방문 시간은 사전 조율 바랍니다.","has_sensitive":true,"entities":[{"value":"82267","begin":22,"end":27,"label":"POSTAL_CODE"}]}
+{"id":56,"content":"카드 발급 신청서를 우편번호 93378 로 보내주세요. 다만 신분증 사본도 동봉하세요.","has_sensitive":true,"entities":[{"value":"93378","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":57,"content":"안내장 발송 완료했습니다. 우편번호 04489 로 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"04489","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":58,"content":"구독 서비스 배송지는 우편번호 16590 입니다. 참고로 매월 첫째 주에 발송됩니다.","has_sensitive":true,"entities":[{"value":"16590","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":59,"content":"증명서 발급은 우편번호 27601 지역 주민센터에서 가능합니다. 신분증을 지참하세요.","has_sensitive":true,"entities":[{"value":"27601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":60,"content":"정기 점검 안내드립니다. 우편번호 38712 지역은 다음 주 화요일 예정입니다.","has_sensitive":true,"entities":[{"value":"38712","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":61,"content":"이벤트 당첨자에게 경품을 우편번호 49823 로 발송합니다. 또한 개인정보 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"49823","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":62,"content":"출판물 배송 주소가 우편번호 50934 로 확인됩니다. 그리고 배송 기간은 일주일입니다.","has_sensitive":true,"entities":[{"value":"50934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":63,"content":"고객 감사 선물을 우편번호 61045 로 보냅니다. 아울러 추가 구매 시 할인 쿠폰도 제공합니다.","has_sensitive":true,"entities":[{"value":"61045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":64,"content":"수강 신청서는 우편번호 72156 로 우송해 주세요. 다만 접수 순서대로 처리됩니다.","has_sensitive":true,"entities":[{"value":"72156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":65,"content":"자료 요청 감사합니다. 우편번호 83267 로 발송 완료했으며 내일 도착합니다.","has_sensitive":true,"entities":[{"value":"83267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":66,"content":"변경된 주소는 우편번호 94378 입니다. 참고로 모든 우편물이 새 주소로 전달됩니다.","has_sensitive":true,"entities":[{"value":"94378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":67,"content":"체험단 키트를 우편번호 05489 지역으로 발송합니다. 그리고 리뷰 작성도 부탁드립니다.","has_sensitive":true,"entities":[{"value":"05489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":68,"content":"매장 이전 오픈 안내입니다. 새 주소의 우편번호는 17590 이며, 재오픈 할인 행사도 진행합니다.","has_sensitive":true,"entities":[{"value":"17590","begin":29,"end":34,"label":"POSTAL_CODE"}]}
+{"id":69,"content":"주문 확정되었습니다. 배송 주소 우편번호 28601 로 오늘 출고됩니다.","has_sensitive":true,"entities":[{"value":"28601","begin":25,"end":30,"label":"POSTAL_CODE"}]}
+{"id":70,"content":"견본품 신청 감사합니다. 우편번호 39712 로 일주일 내 배송 예정입니다.","has_sensitive":true,"entities":[{"value":"39712","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":71,"content":"본사 주소 확인 부탁드립니다. 우편번호가 40823 이 맞는지 검토해 주세요.","has_sensitive":true,"entities":[{"value":"40823","begin":24,"end":29,"label":"POSTAL_CODE"}]}
+{"id":72,"content":"명함을 제작했습니다. 우편번호 51934 가 정확히 인쇄되었는지 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"51934","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":73,"content":"택배 발송 안내입니다. 우편번호 62045 로 오늘 오후 픽업 예정입니다.","has_sensitive":true,"entities":[{"value":"62045","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":74,"content":"서류 접수 주소는 우편번호 73156 입니다. 또한 사본도 함께 보관해 주세요.","has_sensitive":true,"entities":[{"value":"73156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":75,"content":"고객님의 주소가 우편번호 84267 로 등록되어 있습니다. 변경 시 알려주세요.","has_sensitive":true,"entities":[{"value":"84267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":76,"content":"회원 등급 혜택 안내서를 우편번호 95378 로 발송합니다. 참고로 유효기간도 확인하세요.","has_sensitive":true,"entities":[{"value":"95378","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":77,"content":"상품권을 우편번호 06489 지역으로 배송 완료했습니다. 수령 후 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"06489","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":78,"content":"교육자료 발송 주소를 우편번호 18590 로 변경했습니다. 다만 다음 발송부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"18590","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":79,"content":"기념품 배송은 우편번호 29601 지역으로 진행됩니다. 그리고 포장 상태도 꼼꼼히 확인했습니다.","has_sensitive":true,"entities":[{"value":"29601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":80,"content":"안내 책자를 우편번호 30712 로 보냅니다. 아울러 추가 요청 사항은 연락 주세요.","has_sensitive":true,"entities":[{"value":"30712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":81,"content":"주문 상품 포장 완료했습니다. 우편번호 41823 로 내일 배송됩니다.","has_sensitive":true,"entities":[{"value":"41823","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":82,"content":"우편 발송 내역을 확인했습니다. 우편번호 52934 가 수령지로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":24,"end":29,"label":"POSTAL_CODE"}]}
+{"id":83,"content":"현장 방문 일정을 조율합니다. 우편번호 63045 지역은 오전 방문 가능합니다.","has_sensitive":true,"entities":[{"value":"63045","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":84,"content":"보증서 발급 주소는 우편번호 74156 입니다. 참고로 구매 영수증도 보관하세요.","has_sensitive":true,"entities":[{"value":"74156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":85,"content":"계약 완료 안내드립니다. 우편번호 85267 로 계약서 사본을 발송하겠습니다.","has_sensitive":true,"entities":[{"value":"85267","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":86,"content":"정기 구독 신청 감사합니다. 우편번호 96378 로 매월 배송 진행됩니다.","has_sensitive":true,"entities":[{"value":"96378","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":87,"content":"대량 주문 접수 완료했습니다. 우편번호 07489 지역으로 분할 배송 예정입니다.","has_sensitive":true,"entities":[{"value":"07489","begin":22,"end":27,"label":"POSTAL_CODE"}]}
+{"id":88,"content":"신청서 수령했습니다. 우편번호 19590 로 처리 결과를 발송하겠습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":89,"content":"서비스 이용 안내서를 우편번호 20601 로 보냅니다. 또한 문의는 콜센터로 연락하세요.","has_sensitive":true,"entities":[{"value":"20601","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":90,"content":"증빙 서류 제출은 우편번호 31712 로 해주시기 바랍니다. 다만 원본 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"31712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":91,"content":"초대장 발송 완료했습니다. 우편번호 42823 로 이번 주 내 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"42823","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":92,"content":"샘플 요청 건을 처리했습니다. 우편번호 53934 로 발송되었으니 확인하세요.","has_sensitive":true,"entities":[{"value":"53934","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":93,"content":"영수증 재발급은 우편번호 64045 로 신청서를 보내주세요. 참고로 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"64045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":94,"content":"고객 만족도 조사지를 우편번호 75156 로 회송 부탁드립니다. 경품 이벤트도 진행합니다.","has_sensitive":true,"entities":[{"value":"75156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":95,"content":"우편 주소 검증이 완료되었습니다. 등록된 우편번호는 86267 입니다.","has_sensitive":true,"entities":[{"value":"86267","begin":31,"end":36,"label":"POSTAL_CODE"}]}
+{"id":96,"content":"결제 확인서를 우편번호 97378 로 발송합니다. 그리고 세부 내역도 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"97378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":97,"content":"현장 설명회 장소는 우편번호 08489 지역입니다. 아울러 참석 여부를 회신해 주세요.","has_sensitive":true,"entities":[{"value":"08489","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":98,"content":"배송 예정 안내드립니다. 우편번호 10590 로 모레 배송 완료 예정입니다.","has_sensitive":true,"entities":[{"value":"10590","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":99,"content":"우편함 등록 주소는 우편번호 21601 입니다. 다만 정기적으로 확인해 주세요.","has_sensitive":true,"entities":[{"value":"21601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":100,"content":"고객 센터 이전을 알립니다. 새 우편번호는 32712 이며, 기존 연락처는 유지됩니다.","has_sensitive":true,"entities":[{"value":"32712","begin":25,"end":30,"label":"POSTAL_CODE"}]}
+{"id":101,"content":"선물 포장 서비스를 이용하셨습니다. 우편번호 43823 로 배송되며 메시지 카드도 동봉했습니다.","has_sensitive":true,"entities":[{"value":"43823","begin":25,"end":30,"label":"POSTAL_CODE"}]}
+{"id":102,"content":"제품 등록증을 우편번호 54934 로 보내주시면 보증 기간이 연장됩니다.","has_sensitive":true,"entities":[{"value":"54934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":103,"content":"회원 혜택 안내서가 우편번호 65045 로 발송되었습니다. 참고로 앱에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"65045","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":104,"content":"정산 명세서는 우편번호 76156 로 매월 발송됩니다. 또한 이메일로도 받아보실 수 있습니다.","has_sensitive":true,"entities":[{"value":"76156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":105,"content":"고객 문의 답변서를 우편번호 87267 로 발송했습니다. 추가 문의는 언제든 연락 주세요.","has_sensitive":true,"entities":[{"value":"87267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":106,"content":"신규 서비스 안내를 우편번호 98378 지역 고객님들께 발송합니다.","has_sensitive":true,"entities":[{"value":"98378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":107,"content":"업데이트 안내문을 우편번호 09489 로 보냅니다. 그리고 앱 업데이트도 필수입니다.","has_sensitive":true,"entities":[{"value":"09489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":108,"content":"쿠폰북을 우편번호 11590 지역으로 배송 완료했습니다. 유효기간 내 사용하세요.","has_sensitive":true,"entities":[{"value":"11590","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":109,"content":"감사 인사를 전합니다. 우편번호 22601 로 감사패를 발송했으니 확인 부탁드립니다.","has_sensitive":true,"entities":[{"value":"22601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":110,"content":"고객 약관 동의서를 우편번호 33712 로 보내주세요. 다만 서명 날인이 필요합니다.","has_sensitive":true,"entities":[{"value":"33712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":111,"content":"주문 취소 처리 완료했습니다. 우편번호 44823 로 환불 내역서를 발송하겠습니다.","has_sensitive":true,"entities":[{"value":"44823","begin":22,"end":27,"label":"POSTAL_CODE"}]}
+{"id":112,"content":"방문 수리 서비스는 우편번호 55934 지역만 가능합니다. 참고로 예약제로 운영됩니다.","has_sensitive":true,"entities":[{"value":"55934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":113,"content":"재고 입고 안내드립니다. 우편번호 66045 지역 매장에 신제품이 입고되었습니다.","has_sensitive":true,"entities":[{"value":"66045","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":114,"content":"이벤트 참여 감사합니다. 우편번호 77156 로 경품을 발송할 예정입니다.","has_sensitive":true,"entities":[{"value":"77156","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":115,"content":"안전 점검 일정을 공지합니다. 우편번호 88267 지역은 다음 주 월요일입니다.","has_sensitive":true,"entities":[{"value":"88267","begin":20,"end":25,"label":"POSTAL_CODE"}]}
+{"id":116,"content":"할인 쿠폰을 우편번호 99378 로 보냅니다. 아울러 유효기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"99378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":117,"content":"정기 배송 신청이 완료되었습니다. 우편번호 00489 로 매주 목요일 배송됩니다.","has_sensitive":true,"entities":[{"value":"00489","begin":24,"end":29,"label":"POSTAL_CODE"}]}
+{"id":118,"content":"워크샵 자료를 우편번호 12590 로 발송했습니다. 또한 온라인 링크도 전달했습니다.","has_sensitive":true,"entities":[{"value":"12590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":119,"content":"회원 카드 발급 주소는 우편번호 23601 입니다. 다만 사진 1매가 필요합니다.","has_sensitive":true,"entities":[{"value":"23601","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":120,"content":"배송 추적 정보를 확인했습니다. 우편번호 34712 로 운송 중이며 내일 도착합니다.","has_sensitive":true,"entities":[{"value":"34712","begin":23,"end":28,"label":"POSTAL_CODE"}]}
+{"id":121,"content":"홍보 자료 배포는 우편번호 45823 지역부터 시작합니다. 참고로 순차 진행됩니다.","has_sensitive":true,"entities":[{"value":"45823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":122,"content":"시설 이용 안내서를 우편번호 56934 로 보냅니다. 그리고 규정도 숙지해 주세요.","has_sensitive":true,"entities":[{"value":"56934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":123,"content":"수령 확인서를 우편번호 67045 로 회신해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"67045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":124,"content":"공고문 발송 완료했습니다. 우편번호 78156 지역 주민분들께 전달되었습니다.","has_sensitive":true,"entities":[{"value":"78156","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":125,"content":"납품 예정을 알립니다. 우편번호 89267 로 다음 달 첫째 주에 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"89267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":126,"content":"프로젝트 계약서를 우편번호 90378 로 발송했습니다. 또한 검토 후 회신 바랍니다.","has_sensitive":true,"entities":[{"value":"90378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":127,"content":"제안서 접수 주소는 우편번호 01489 입니다. 아울러 마감일 엄수 부탁드립니다.","has_sensitive":true,"entities":[{"value":"01489","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":128,"content":"출판 기념 도서를 우편번호 13590 로 보냅니다. 다만 한정 수량이므로 서둘러 주세요.","has_sensitive":true,"entities":[{"value":"13590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":129,"content":"기술 지원 센터는 우편번호 24601 지역에 있습니다. 참고로 원격 지원도 가능합니다.","has_sensitive":true,"entities":[{"value":"24601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":130,"content":"환불 신청 서류를 우편번호 35712 로 보내주세요. 그리고 계좌 정보도 기재하세요.","has_sensitive":true,"entities":[{"value":"35712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":131,"content":"감사패 전달식 장소는 우편번호 46823 입니다. 아울러 참석 명단도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"46823","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":132,"content":"요금 고지서를 우편번호 57934 로 발송했습니다. 납부 기한을 지켜주세요.","has_sensitive":true,"entities":[{"value":"57934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":133,"content":"출입증 발급은 우편번호 68045 지역 사무소에서 가능합니다.","has_sensitive":true,"entities":[{"value":"68045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":134,"content":"보도자료를 우편번호 79156 로 배포했습니다. 또한 웹사이트에도 게시했습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":135,"content":"제품 보증서는 우편번호 80267 로 보내주시면 등록 처리됩니다.","has_sensitive":true,"entities":[{"value":"80267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":136,"content":"월간 리포트를 우편번호 91378 로 발송합니다. 참고로 분기별 요약본도 제공됩니다.","has_sensitive":true,"entities":[{"value":"91378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":137,"content":"행사 티켓을 우편번호 02489 지역으로 배송 완료했습니다. 당일 지참하세요.","has_sensitive":true,"entities":[{"value":"02489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":138,"content":"보상 내역서를 우편번호 14590 로 발송했습니다. 그리고 문의 사항은 연락 주세요.","has_sensitive":true,"entities":[{"value":"14590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":139,"content":"신청 결과를 우편번호 25601 로 통보하겠습니다. 다만 처리 기간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"25601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":140,"content":"자격증 발급 주소는 우편번호 36712 입니다. 아울러 수수료 납부도 필요합니다.","has_sensitive":true,"entities":[{"value":"36712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":141,"content":"신용카드 청구서는 우편번호 47823 로 매월 발송됩니다.","has_sensitive":true,"entities":[{"value":"47823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":142,"content":"임시 주소는 우편번호 58934 입니다. 참고로 한 달 후 원래 주소로 돌아갑니다.","has_sensitive":true,"entities":[{"value":"58934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":143,"content":"모집 공고를 우편번호 69045 지역에 게시했습니다. 또한 온라인 접수도 가능합니다.","has_sensitive":true,"entities":[{"value":"69045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":144,"content":"구매 확인증을 우편번호 70156 로 보냅니다. 그리고 A/S 신청 시 필요합니다.","has_sensitive":true,"entities":[{"value":"70156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":145,"content":"시험 응시표를 우편번호 81267 로 발송했습니다. 시험 당일 반드시 지참하세요.","has_sensitive":true,"entities":[{"value":"81267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":146,"content":"수료증 발급은 우편번호 92378 로 신청하시면 됩니다.","has_sensitive":true,"entities":[{"value":"92378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":147,"content":"가입 확인서를 우편번호 03489 로 보냈습니다. 아울러 로그인 정보도 확인하세요.","has_sensitive":true,"entities":[{"value":"03489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":148,"content":"분양 안내서는 우편번호 15590 지역 모델하우스에서 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"15590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":149,"content":"관리비 내역서를 우편번호 26601 로 발송합니다. 다만 이의 제기 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"26601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":150,"content":"통지서 수령 주소가 우편번호 37712 로 변경되었습니다. 참고 바랍니다.","has_sensitive":true,"entities":[{"value":"37712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":151,"content":"결과 보고서를 우편번호 48823 로 발송 완료했습니다. 그리고 전자 파일도 첨부했습니다.","has_sensitive":true,"entities":[{"value":"48823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":152,"content":"점검 통보서는 우편번호 59934 지역 우편함에 투입되었습니다.","has_sensitive":true,"entities":[{"value":"59934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":153,"content":"보험 안내 책자를 우편번호 60045 로 보냅니다. 또한 상담 예약도 가능합니다.","has_sensitive":true,"entities":[{"value":"60045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":154,"content":"수상 소식을 전합니다. 우편번호 71156 로 상패를 발송했으니 확인하세요.","has_sensitive":true,"entities":[{"value":"71156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":155,"content":"약관 변경 안내문을 우편번호 82267 로 발송합니다. 아울러 웹사이트에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"82267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":156,"content":"해지 신청서는 우편번호 93378 로 제출하시면 됩니다. 다만 위약금이 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"93378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":157,"content":"입주 안내문을 우편번호 04489 로 보냈습니다. 참고로 입주일은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"04489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":158,"content":"증서 발급 신청은 우편번호 16590 로 보내주세요. 그리고 신분증 사본도 동봉하세요.","has_sensitive":true,"entities":[{"value":"16590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":159,"content":"캠페인 안내서를 우편번호 27601 지역에 배포했습니다.","has_sensitive":true,"entities":[{"value":"27601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":160,"content":"주주 총회 소집 통지서를 우편번호 38712 로 발송했습니다. 또한 온라인 참석도 가능합니다.","has_sensitive":true,"entities":[{"value":"38712","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":161,"content":"교육 일정표를 우편번호 49823 로 보냅니다. 아울러 교재도 함께 발송됩니다.","has_sensitive":true,"entities":[{"value":"49823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":162,"content":"연회비 청구서는 우편번호 50934 로 매년 발송됩니다.","has_sensitive":true,"entities":[{"value":"50934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":163,"content":"추천서를 우편번호 61045 지역으로 발송 완료했습니다. 다만 원본 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"61045","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":164,"content":"면접 안내문을 우편번호 72156 로 보냈습니다. 참고로 면접 일시를 확인하세요.","has_sensitive":true,"entities":[{"value":"72156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":165,"content":"등록 완료 안내서를 우편번호 83267 로 발송합니다. 그리고 온라인 인증도 필요합니다.","has_sensitive":true,"entities":[{"value":"83267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":166,"content":"이전 공고를 우편번호 94378 지역에 게시했습니다.","has_sensitive":true,"entities":[{"value":"94378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":167,"content":"선발 결과를 우편번호 05489 로 통지하겠습니다. 아울러 합격자 발표도 게시됩니다.","has_sensitive":true,"entities":[{"value":"05489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":168,"content":"보증금 반환 내역서를 우편번호 17590 로 발송했습니다.","has_sensitive":true,"entities":[{"value":"17590","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":169,"content":"감정평가서는 우편번호 28601 로 보내주시기 바랍니다. 다만 감정 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"28601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":170,"content":"취업 알선 자료를 우편번호 39712 로 보냅니다. 또한 면접 준비 팁도 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"39712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":171,"content":"변경 신청서는 우편번호 40823 로 제출하시면 됩니다. 참고로 처리 기간은 일주일입니다.","has_sensitive":true,"entities":[{"value":"40823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":172,"content":"추가 서류를 우편번호 51934 지역으로 보내주세요. 그리고 사본은 보관하세요.","has_sensitive":true,"entities":[{"value":"51934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":173,"content":"완납 증명서를 우편번호 62045 로 발급해 드립니다.","has_sensitive":true,"entities":[{"value":"62045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":174,"content":"세미나 자료를 우편번호 73156 로 발송했습니다. 아울러 참석자 명단도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"73156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":175,"content":"분실 신고서는 우편번호 84267 로 보내주세요. 다만 재발급 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"84267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":176,"content":"예약 확인증을 우편번호 95378 로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"95378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":177,"content":"작품 접수는 우편번호 06489 로 해주시기 바랍니다. 참고로 마감일이 임박했습니다.","has_sensitive":true,"entities":[{"value":"06489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":178,"content":"협력 제안서를 우편번호 18590 로 보냅니다. 그리고 검토 후 회신 부탁드립니다.","has_sensitive":true,"entities":[{"value":"18590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":179,"content":"진단서 발급은 우편번호 29601 지역 병원에서 가능합니다.","has_sensitive":true,"entities":[{"value":"29601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":180,"content":"보도 자료를 우편번호 30712 로 배포했습니다. 또한 미디어 문의도 환영합니다.","has_sensitive":true,"entities":[{"value":"30712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":181,"content":"참가 신청서는 우편번호 41823 로 제출하시면 됩니다. 아울러 참가비 납부도 필요합니다.","has_sensitive":true,"entities":[{"value":"41823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":182,"content":"검사 결과지를 우편번호 52934 로 발송했습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":183,"content":"연말 정산 서류는 우편번호 63045 로 보내주세요. 다만 기한을 꼭 지켜주세요.","has_sensitive":true,"entities":[{"value":"63045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":184,"content":"기부 영수증을 우편번호 74156 로 발급해 드립니다. 참고로 세액 공제 가능합니다.","has_sensitive":true,"entities":[{"value":"74156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":185,"content":"훈련 교재를 우편번호 85267 지역으로 배송합니다. 그리고 실습 일정도 안내했습니다.","has_sensitive":true,"entities":[{"value":"85267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":186,"content":"저작권 등록 확인서를 우편번호 96378 로 보냅니다.","has_sensitive":true,"entities":[{"value":"96378","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":187,"content":"평가 결과를 우편번호 07489 로 통보하겠습니다. 아울러 개선 방안도 제시됩니다.","has_sensitive":true,"entities":[{"value":"07489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":188,"content":"초청장을 우편번호 19590 지역으로 발송 완료했습니다. 다만 드레스 코드가 있습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":189,"content":"청약 신청서는 우편번호 20601 로 보내주세요.","has_sensitive":true,"entities":[{"value":"20601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":190,"content":"연수 안내문을 우편번호 31712 로 발송합니다. 참고로 숙박 시설도 제공됩니다.","has_sensitive":true,"entities":[{"value":"31712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":191,"content":"위임장은 우편번호 42823 로 보내주시기 바랍니다. 그리고 인감 날인이 필요합니다.","has_sensitive":true,"entities":[{"value":"42823","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":192,"content":"인증서 발급 주소는 우편번호 53934 입니다.","has_sensitive":true,"entities":[{"value":"53934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":193,"content":"채용 공고를 우편번호 64045 지역에 게시했습니다. 또한 온라인 지원도 가능합니다.","has_sensitive":true,"entities":[{"value":"64045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":194,"content":"지원금 신청서를 우편번호 75156 로 제출하세요. 아울러 첨부 서류도 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"75156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":195,"content":"패널티 통지서를 우편번호 86267 로 발송했습니다.","has_sensitive":true,"entities":[{"value":"86267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":196,"content":"실적 보고서는 우편번호 97378 로 제출하시면 됩니다. 다만 양식을 준수해 주세요.","has_sensitive":true,"entities":[{"value":"97378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":197,"content":"홍보물을 우편번호 08489 지역으로 배포 완료했습니다. 참고로 추가 제작도 가능합니다.","has_sensitive":true,"entities":[{"value":"08489","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":198,"content":"추첨 결과를 우편번호 10590 로 통보합니다. 그리고 경품 수령 방법도 안내했습니다.","has_sensitive":true,"entities":[{"value":"10590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":199,"content":"수습 평가서는 우편번호 21601 로 보내주세요.","has_sensitive":true,"entities":[{"value":"21601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":200,"content":"감사장을 우편번호 32712 로 발송했습니다. 아울러 공식 행사도 계획 중입니다.","has_sensitive":true,"entities":[{"value":"32712","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":201,"content":"소개서를 우편번호 43823 지역으로 배송합니다. 다만 사전 협의가 필요합니다.","has_sensitive":true,"entities":[{"value":"43823","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":202,"content":"정산서를 우편번호 54934 로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"54934","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":203,"content":"권고문을 우편번호 65045 로 보냅니다. 참고로 개선 기한은 2주입니다.","has_sensitive":true,"entities":[{"value":"65045","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":204,"content":"승인서를 우편번호 76156 지역으로 발송했습니다. 그리고 유효 기간도 확인하세요.","has_sensitive":true,"entities":[{"value":"76156","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":205,"content":"경고장은 우편번호 87267 로 보내졌습니다.","has_sensitive":true,"entities":[{"value":"87267","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":206,"content":"심사 결과를 우편번호 98378 로 통지하겠습니다. 아울러 재심 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"98378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":207,"content":"수상작을 우편번호 09489 지역으로 발송합니다. 다만 전시 기간도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"09489","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":208,"content":"동의서는 우편번호 11590 로 제출하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"11590","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":209,"content":"초안을 우편번호 22601 로 보냅니다. 참고로 수정 의견을 보내주세요.","has_sensitive":true,"entities":[{"value":"22601","begin":7,"end":12,"label":"POSTAL_CODE"}]}
+{"id":210,"content":"최종안을 우편번호 33712 지역으로 배송 완료했습니다. 그리고 검토 부탁드립니다.","has_sensitive":true,"entities":[{"value":"33712","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":211,"content":"통보서를 우편번호 44823 로 발송했습니다.","has_sensitive":true,"entities":[{"value":"44823","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":212,"content":"답변서는 우편번호 55934 로 회신해 주세요. 아울러 서명도 필수입니다.","has_sensitive":true,"entities":[{"value":"55934","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":213,"content":"조사 보고서를 우편번호 66045 로 제출하시면 됩니다. 다만 기밀 유지를 부탁드립니다.","has_sensitive":true,"entities":[{"value":"66045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":214,"content":"요청서를 우편번호 77156 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"77156","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":215,"content":"명세서를 우편번호 88267 로 발송합니다. 참고로 내역을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"88267","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":216,"content":"추가 자료는 우편번호 99378 로 보내드립니다. 그리고 질문 사항은 연락 주세요.","has_sensitive":true,"entities":[{"value":"99378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":217,"content":"정정 안내문을 우편번호 00489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"00489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":218,"content":"복사본은 우편번호 12590 로 보내주시기 바랍니다. 아울러 원본은 보관하세요.","has_sensitive":true,"entities":[{"value":"12590","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":219,"content":"지침서를 우편번호 23601 로 발송 완료했습니다. 다만 숙지 후 시행 바랍니다.","has_sensitive":true,"entities":[{"value":"23601","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":220,"content":"확인증을 우편번호 34712 지역으로 보냅니다.","has_sensitive":true,"entities":[{"value":"34712","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":221,"content":"탈퇴 신청서는 우편번호 45823 로 제출하시면 됩니다. 참고로 처리 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"45823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":222,"content":"사본을 우편번호 56934 로 발송했습니다. 그리고 원본은 별도 보관됩니다.","has_sensitive":true,"entities":[{"value":"56934","begin":7,"end":12,"label":"POSTAL_CODE"}]}
+{"id":223,"content":"배정 통지를 우편번호 67045 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"67045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":224,"content":"합격 통지서를 우편번호 78156 로 발송합니다. 아울러 등록 절차도 안내했습니다.","has_sensitive":true,"entities":[{"value":"78156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":225,"content":"불합격 통지는 우편번호 89267 로 발송되었습니다. 다만 재응시 가능합니다.","has_sensitive":true,"entities":[{"value":"89267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":226,"content":"개선 통지를 우편번호 90378 지역으로 보냅니다.","has_sensitive":true,"entities":[{"value":"90378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":227,"content":"설치 안내서를 우편번호 01489 로 발송 완료했습니다. 참고로 기술 지원도 제공됩니다.","has_sensitive":true,"entities":[{"value":"01489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":228,"content":"납부 내역서는 우편번호 13590 로 보냅니다. 그리고 영수증도 함께 발송됩니다.","has_sensitive":true,"entities":[{"value":"13590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":229,"content":"품질 인증서를 우편번호 24601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"24601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":230,"content":"교환 안내서는 우편번호 35712 로 제공됩니다. 아울러 기한 내 신청 바랍니다.","has_sensitive":true,"entities":[{"value":"35712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":231,"content":"취소 확인증을 우편번호 46823 로 보냅니다. 다만 취소 수수료가 발생합니다.","has_sensitive":true,"entities":[{"value":"46823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":232,"content":"선정 결과를 우편번호 57934 지역으로 통보했습니다.","has_sensitive":true,"entities":[{"value":"57934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":233,"content":"포상금 지급 안내를 우편번호 68045 로 발송합니다. 참고로 계좌 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"68045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":234,"content":"상환 계획서는 우편번호 79156 로 제출하세요. 그리고 월별 납부액도 기재하세요.","has_sensitive":true,"entities":[{"value":"79156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":235,"content":"연장 신청서를 우편번호 80267 지역으로 보내주세요.","has_sensitive":true,"entities":[{"value":"80267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":236,"content":"종료 안내문을 우편번호 91378 로 발송했습니다. 아울러 감사 인사를 전합니다.","has_sensitive":true,"entities":[{"value":"91378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":237,"content":"갱신 안내서는 우편번호 02489 로 보냅니다. 다만 갱신료 납부가 필요합니다.","has_sensitive":true,"entities":[{"value":"02489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":238,"content":"재발급 신청은 우편번호 14590 지역 창구에서 가능합니다.","has_sensitive":true,"entities":[{"value":"14590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":239,"content":"이용 안내서를 우편번호 25601 로 발송 완료했습니다. 참고로 온라인 가이드도 있습니다.","has_sensitive":true,"entities":[{"value":"25601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":240,"content":"사용 설명서를 우편번호 36712 로 보냅니다. 그리고 동영상 매뉴얼도 제공됩니다.","has_sensitive":true,"entities":[{"value":"36712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":241,"content":"배부 자료를 우편번호 47823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"47823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":242,"content":"승인 결과를 우편번호 58934 로 통지합니다. 아울러 후속 절차도 안내드립니다.","has_sensitive":true,"entities":[{"value":"58934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":243,"content":"거부 통보서는 우편번호 69045 로 발송되었습니다. 다만 이의 신청이 가능합니다.","has_sensitive":true,"entities":[{"value":"69045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":244,"content":"보류 안내를 우편번호 70156 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"70156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":245,"content":"진행 상황을 우편번호 81267 로 보고합니다. 참고로 정기 업데이트도 제공됩니다.","has_sensitive":true,"entities":[{"value":"81267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":246,"content":"수정 요청서를 우편번호 92378 로 보내주세요. 그리고 구체적인 사항을 명시하세요.","has_sensitive":true,"entities":[{"value":"92378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":247,"content":"보완 요청을 우편번호 03489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"03489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":248,"content":"심의 결과를 우편번호 15590 로 통보합니다. 아울러 세부 사항도 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"15590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":249,"content":"추천 의견서는 우편번호 26601 로 제출하시면 됩니다. 다만 추천인 서명이 필요합니다.","has_sensitive":true,"entities":[{"value":"26601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":250,"content":"승낙서를 우편번호 37712 지역으로 보냅니다.","has_sensitive":true,"entities":[{"value":"37712","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":251,"content":"거절 의사를 우편번호 48823 로 전달했습니다. 참고로 사유도 함께 기재했습니다.","has_sensitive":true,"entities":[{"value":"48823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":252,"content":"양해 요청서를 우편번호 59934 로 발송합니다. 그리고 개선 계획도 첨부했습니다.","has_sensitive":true,"entities":[{"value":"59934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":253,"content":"협조 요청을 우편번호 60045 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"60045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":254,"content":"응답서를 우편번호 71156 로 회신해 주세요. 아울러 기한 내 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"71156","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":255,"content":"반려 통지서는 우편번호 82267 로 발송되었습니다. 다만 재제출이 가능합니다.","has_sensitive":true,"entities":[{"value":"82267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":256,"content":"보고서를 우편번호 93378 지역으로 제출했습니다.","has_sensitive":true,"entities":[{"value":"93378","begin":8,"end":13,"label":"POSTAL_CODE"}]}
+{"id":257,"content":"제출 확인증을 우편번호 04489 로 보냅니다. 참고로 접수 번호도 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"04489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":258,"content":"검토 의견을 우편번호 16590 로 발송했습니다. 그리고 수정 제안도 포함했습니다.","has_sensitive":true,"entities":[{"value":"16590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":259,"content":"점검 내역서를 우편번호 27601 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"27601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":260,"content":"조치 계획서는 우편번호 38712 로 제출하시기 바랍니다. 아울러 일정도 명시하세요.","has_sensitive":true,"entities":[{"value":"38712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":261,"content":"이행 보고서를 우편번호 49823 로 보냅니다. 다만 증빙 자료도 첨부하세요.","has_sensitive":true,"entities":[{"value":"49823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":262,"content":"확정 통지를 우편번호 50934 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"50934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":263,"content":"변경 승인서를 우편번호 61045 로 보냅니다. 참고로 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"61045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":264,"content":"유예 안내문을 우편번호 72156 로 발송합니다. 그리고 새로운 기한도 고지됩니다.","has_sensitive":true,"entities":[{"value":"72156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":265,"content":"조정 결과를 우편번호 83267 지역으로 통보했습니다.","has_sensitive":true,"entities":[{"value":"83267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":266,"content":"중재 안내서는 우편번호 94378 로 발송됩니다. 아울러 절차도 설명되어 있습니다.","has_sensitive":true,"entities":[{"value":"94378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":267,"content":"판정 결과를 우편번호 05489 로 통지합니다. 다만 이의 제기 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"05489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":268,"content":"재판정 요청서는 우편번호 17590 지역으로 보내주세요.","has_sensitive":true,"entities":[{"value":"17590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":269,"content":"결정 사항을 우편번호 28601 로 공지합니다. 참고로 상세 내용은 첨부 파일을 확인하세요.","has_sensitive":true,"entities":[{"value":"28601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":270,"content":"재검토 요청을 우편번호 39712 로 보냅니다. 그리고 근거 자료도 제출하세요.","has_sensitive":true,"entities":[{"value":"39712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":271,"content":"예비 통지를 우편번호 40823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"40823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":272,"content":"본 통지서는 우편번호 51934 로 발송됩니다. 아울러 이전 통지는 무효입니다.","has_sensitive":true,"entities":[{"value":"51934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":273,"content":"최종 통지를 우편번호 62045 로 보냅니다. 다만 이번이 마지막 안내입니다.","has_sensitive":true,"entities":[{"value":"62045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":274,"content":"사전 안내를 우편번호 73156 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"73156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":275,"content":"사후 안내서를 우편번호 84267 로 보냅니다. 참고로 추가 조치는 불필요합니다.","has_sensitive":true,"entities":[{"value":"84267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":276,"content":"보충 설명서를 우편번호 95378 로 발송했습니다. 그리고 이해를 돕기 위한 도표도 있습니다.","has_sensitive":true,"entities":[{"value":"95378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":277,"content":"추가 안내를 우편번호 06489 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"06489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":278,"content":"특별 공지를 우편번호 18590 로 발송합니다. 아울러 중요 사항이므로 필독 바랍니다.","has_sensitive":true,"entities":[{"value":"18590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":279,"content":"긴급 통보를 우편번호 29601 로 보냅니다. 다만 즉시 조치가 필요합니다.","has_sensitive":true,"entities":[{"value":"29601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":280,"content":"정기 안내서는 우편번호 30712 지역으로 매월 발송됩니다.","has_sensitive":true,"entities":[{"value":"30712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":281,"content":"임시 공지를 우편번호 41823 로 발송했습니다. 참고로 정식 공지는 별도 안내됩니다.","has_sensitive":true,"entities":[{"value":"41823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":282,"content":"공식 문서를 우편번호 52934 로 보냅니다. 그리고 법적 효력이 있으니 보관하세요.","has_sensitive":true,"entities":[{"value":"52934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":283,"content":"비공식 의견을 우편번호 63045 지역으로 전달했습니다.","has_sensitive":true,"entities":[{"value":"63045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":284,"content":"공개 자료는 우편번호 74156 로 배포됩니다. 아울러 웹사이트에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"74156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":285,"content":"비공개 문서를 우편번호 85267 로 발송합니다. 다만 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"85267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":286,"content":"제한 공개 자료를 우편번호 96378 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"96378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":287,"content":"일반 안내문을 우편번호 07489 로 배포합니다. 참고로 누구나 열람 가능합니다.","has_sensitive":true,"entities":[{"value":"07489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":288,"content":"특수 자료는 우편번호 19590 로 보냅니다. 그리고 승인된 인원만 접근 가능합니다.","has_sensitive":true,"entities":[{"value":"19590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":289,"content":"표준 양식을 우편번호 20601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"20601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":290,"content":"맞춤 양식은 우편번호 31712 로 제공됩니다. 아울러 작성 예시도 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"31712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":291,"content":"간소화 서식을 우편번호 42823 로 보냅니다. 다만 필수 항목은 반드시 기재하세요.","has_sensitive":true,"entities":[{"value":"42823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":292,"content":"상세 양식을 우편번호 53934 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"53934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":293,"content":"통합 서식은 우편번호 64045 로 발송됩니다. 참고로 모든 항목을 포함하고 있습니다.","has_sensitive":true,"entities":[{"value":"64045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":294,"content":"분리 양식을 우편번호 75156 로 보냅니다. 그리고 각각 별도 제출하시면 됩니다.","has_sensitive":true,"entities":[{"value":"75156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":295,"content":"신규 서식을 우편번호 86267 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"86267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":296,"content":"구 양식은 우편번호 97378 로 보내지 않습니다. 아울러 신규 양식을 사용하세요.","has_sensitive":true,"entities":[{"value":"97378","begin":9,"end":14,"label":"POSTAL_CODE"}]}
+{"id":297,"content":"개정 서식을 우편번호 08489 로 발송합니다. 다만 변경 사항을 숙지하세요.","has_sensitive":true,"entities":[{"value":"08489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":298,"content":"기존 양식은 우편번호 10590 지역에서 계속 사용됩니다.","has_sensitive":true,"entities":[{"value":"10590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":299,"content":"대체 서식을 우편번호 21601 로 보냅니다. 참고로 선택적으로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"21601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":300,"content":"필수 양식은 우편번호 32712 로 발송됩니다. 그리고 제출 의무가 있습니다.","has_sensitive":true,"entities":[{"value":"32712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":301,"content":"선택 서식을 우편번호 43823 지역으로 보냈습니다.","has_sensitive":true,"entities":[{"value":"43823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":302,"content":"권장 양식은 우편번호 54934 로 배포합니다. 아울러 사용을 권장하지만 강제는 아닙니다.","has_sensitive":true,"entities":[{"value":"54934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":303,"content":"참고 서식을 우편번호 65045 로 보냅니다. 다만 예시로만 활용하세요.","has_sensitive":true,"entities":[{"value":"65045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":304,"content":"공통 양식을 우편번호 76156 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"76156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":305,"content":"개별 서식은 우편번호 87267 로 발송됩니다. 참고로 각 상황에 맞게 선택하세요.","has_sensitive":true,"entities":[{"value":"87267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":306,"content":"기본 양식을 우편번호 98378 로 보냅니다. 그리고 추가 항목이 필요하면 별도 첨부하세요.","has_sensitive":true,"entities":[{"value":"98378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":307,"content":"고급 서식을 우편번호 09489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"09489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":308,"content":"초급 양식은 우편번호 11590 로 제공됩니다. 아울러 처음 사용자에게 적합합니다.","has_sensitive":true,"entities":[{"value":"11590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":309,"content":"중급 서식을 우편번호 22601 로 보냅니다. 다만 기본 지식이 필요합니다.","has_sensitive":true,"entities":[{"value":"22601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":310,"content":"전문 양식을 우편번호 33712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"33712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":311,"content":"단순 서식은 우편번호 44823 로 발송됩니다. 참고로 빠른 처리에 적합합니다.","has_sensitive":true,"entities":[{"value":"44823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":312,"content":"복잡 양식을 우편번호 55934 로 보냅니다. 그리고 작성 지침도 함께 제공됩니다.","has_sensitive":true,"entities":[{"value":"55934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":313,"content":"축약 서식을 우편번호 66045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"66045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":314,"content":"전체 양식은 우편번호 77156 로 제공됩니다. 아울러 모든 정보를 담고 있습니다.","has_sensitive":true,"entities":[{"value":"77156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":315,"content":"부분 서식을 우편번호 88267 로 보냅니다. 다만 필요한 부분만 작성하세요.","has_sensitive":true,"entities":[{"value":"88267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":316,"content":"종합 양식을 우편번호 99378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"99378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":317,"content":"요약 서식은 우편번호 00489 로 발송됩니다. 참고로 핵심 내용만 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"00489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":318,"content":"전용 양식을 우편번호 12590 로 보냅니다. 그리고 특정 목적에만 사용하세요.","has_sensitive":true,"entities":[{"value":"12590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":319,"content":"범용 서식을 우편번호 23601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"23601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":320,"content":"한정 양식은 우편번호 34712 로 제공됩니다. 아울러 기간 내에만 유효합니다.","has_sensitive":true,"entities":[{"value":"34712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":321,"content":"무제한 서식을 우편번호 45823 로 보냅니다. 다만 횟수 제한이 없습니다.","has_sensitive":true,"entities":[{"value":"45823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":322,"content":"일회용 양식을 우편번호 56934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"56934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":323,"content":"재사용 서식은 우편번호 67045 로 발송됩니다. 참고로 여러 번 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"67045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":324,"content":"디지털 양식을 우편번호 78156 로 보냅니다. 그리고 온라인 작성도 지원됩니다.","has_sensitive":true,"entities":[{"value":"78156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":325,"content":"종이 서식을 우편번호 89267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"89267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":326,"content":"전자 양식은 우편번호 90378 로 제공됩니다. 아울러 전자 서명도 가능합니다.","has_sensitive":true,"entities":[{"value":"90378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":327,"content":"수기 서식을 우편번호 01489 로 보냅니다. 다만 필기구로만 작성하세요.","has_sensitive":true,"entities":[{"value":"01489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":328,"content":"인쇄 양식을 우편번호 13590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"13590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":329,"content":"복사 가능 서식은 우편번호 24601 로 발송됩니다. 참고로 자유롭게 복제하세요.","has_sensitive":true,"entities":[{"value":"24601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":330,"content":"원본 양식을 우편번호 35712 로 보냅니다. 그리고 복사본은 인정되지 않습니다.","has_sensitive":true,"entities":[{"value":"35712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":331,"content":"사본 제출용 서식을 우편번호 46823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"46823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":332,"content":"원본 보관용 양식은 우편번호 57934 로 제공됩니다. 아울러 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"57934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":333,"content":"임시 저장 가능 서식을 우편번호 68045 로 보냅니다. 다만 최종 제출을 잊지 마세요.","has_sensitive":true,"entities":[{"value":"68045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":334,"content":"즉시 제출용 양식을 우편번호 79156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":335,"content":"예약 제출 가능 서식은 우편번호 80267 로 발송됩니다. 참고로 원하는 날짜를 선택하세요.","has_sensitive":true,"entities":[{"value":"80267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":336,"content":"자동 제출 양식을 우편번호 91378 로 보냅니다. 그리고 작성 완료 시 자동 접수됩니다.","has_sensitive":true,"entities":[{"value":"91378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":337,"content":"수동 제출 서식을 우편번호 02489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"02489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":338,"content":"일괄 제출 가능 양식은 우편번호 14590 로 제공됩니다. 아울러 여러 건을 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"14590","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":339,"content":"개별 제출 서식을 우편번호 25601 로 보냅니다. 다만 건별로 제출해야 합니다.","has_sensitive":true,"entities":[{"value":"25601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":340,"content":"통합 제출 양식을 우편번호 36712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"36712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":341,"content":"분할 제출 가능 서식은 우편번호 47823 로 발송됩니다. 참고로 나눠서 제출 가능합니다.","has_sensitive":true,"entities":[{"value":"47823","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":342,"content":"단계별 제출 양식을 우편번호 58934 로 보냅니다. 그리고 순서대로 진행하세요.","has_sensitive":true,"entities":[{"value":"58934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":343,"content":"동시 제출 서식을 우편번호 69045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"69045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":344,"content":"순차 제출 양식은 우편번호 70156 로 제공됩니다. 아울러 간격을 두고 제출하세요.","has_sensitive":true,"entities":[{"value":"70156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":345,"content":"우선 제출 서식을 우편번호 81267 로 보냅니다. 다만 급한 경우에만 사용하세요.","has_sensitive":true,"entities":[{"value":"81267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":346,"content":"일반 제출 양식을 우편번호 92378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"92378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":347,"content":"긴급 제출 서식은 우편번호 03489 로 발송됩니다. 참고로 당일 처리됩니다.","has_sensitive":true,"entities":[{"value":"03489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":348,"content":"정기 제출 양식을 우편번호 15590 로 보냅니다. 그리고 매월 제출하시면 됩니다.","has_sensitive":true,"entities":[{"value":"15590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":349,"content":"수시 제출 서식을 우편번호 26601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"26601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":350,"content":"연간 제출 양식은 우편번호 37712 로 제공됩니다. 아울러 연말에 제출하세요.","has_sensitive":true,"entities":[{"value":"37712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":351,"content":"분기별 제출 서식을 우편번호 48823 로 보냅니다. 다만 3개월마다 제출해야 합니다.","has_sensitive":true,"entities":[{"value":"48823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":352,"content":"월간 제출 양식을 우편번호 59934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"59934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":353,"content":"주간 제출 서식은 우편번호 60045 로 발송됩니다. 참고로 매주 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"60045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":354,"content":"일일 제출 양식을 우편번호 71156 로 보냅니다. 그리고 매일 작성해야 합니다.","has_sensitive":true,"entities":[{"value":"71156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":355,"content":"실시간 제출 서식을 우편번호 82267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"82267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":356,"content":"지연 제출 가능 양식은 우편번호 93378 로 제공됩니다. 아울러 사유서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"93378","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":357,"content":"기한 내 제출 서식을 우편번호 04489 로 보냅니다. 다만 마감일을 엄수하세요.","has_sensitive":true,"entities":[{"value":"04489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":358,"content":"조기 제출 양식을 우편번호 16590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"16590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":359,"content":"연장 신청 가능 서식은 우편번호 27601 로 발송됩니다. 참고로 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"27601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":360,"content":"재연장 불가 양식을 우편번호 38712 로 보냅니다. 그리고 한 번만 연장 가능합니다.","has_sensitive":true,"entities":[{"value":"38712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":361,"content":"무기한 제출 서식을 우편번호 49823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"49823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":362,"content":"한시적 제출 양식은 우편번호 50934 로 제공됩니다. 아울러 이번 달까지만 유효합니다.","has_sensitive":true,"entities":[{"value":"50934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":363,"content":"영구 보관 서식을 우편번호 61045 로 보냅니다. 다만 절대 폐기하지 마세요.","has_sensitive":true,"entities":[{"value":"61045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":364,"content":"한정 보관 양식을 우편번호 72156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"72156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":365,"content":"즉시 폐기 가능 서식은 우편번호 83267 로 발송됩니다. 참고로 사용 후 파기하세요.","has_sensitive":true,"entities":[{"value":"83267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":366,"content":"장기 보관 양식을 우편번호 94378 로 보냅니다. 그리고 10년간 보관해야 합니다.","has_sensitive":true,"entities":[{"value":"94378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":367,"content":"단기 보관 서식을 우편번호 05489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"05489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":368,"content":"암호화 필요 양식은 우편번호 17590 로 제공됩니다. 아울러 보안 규정을 준수하세요.","has_sensitive":true,"entities":[{"value":"17590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":369,"content":"일반 보안 서식을 우편번호 28601 로 보냅니다. 다만 외부 유출에 주의하세요.","has_sensitive":true,"entities":[{"value":"28601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":370,"content":"고급 보안 양식을 우편번호 39712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"39712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":371,"content":"공개 가능 서식은 우편번호 40823 로 발송됩니다. 참고로 공유가 허용됩니다.","has_sensitive":true,"entities":[{"value":"40823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":372,"content":"배포 금지 양식을 우편번호 51934 로 보냅니다. 그리고 타인에게 전달하지 마세요.","has_sensitive":true,"entities":[{"value":"51934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":373,"content":"출력 가능 서식을 우편번호 62045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"62045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":374,"content":"출력 금지 양식은 우편번호 73156 로 제공됩니다. 아울러 화면으로만 확인하세요.","has_sensitive":true,"entities":[{"value":"73156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":375,"content":"다운로드 가능 서식을 우편번호 84267 로 보냅니다. 다만 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"84267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":376,"content":"스트리밍 전용 양식을 우편번호 95378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"95378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":377,"content":"편집 가능 서식은 우편번호 06489 로 발송됩니다. 참고로 자유롭게 수정하세요.","has_sensitive":true,"entities":[{"value":"06489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":378,"content":"편집 불가 양식을 우편번호 18590 로 보냅니다. 그리고 내용 변경이 금지됩니다.","has_sensitive":true,"entities":[{"value":"18590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":379,"content":"부분 편집 가능 서식을 우편번호 29601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"29601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":380,"content":"전체 편집 양식은 우편번호 30712 로 제공됩니다. 아울러 모든 필드를 수정할 수 있습니다.","has_sensitive":true,"entities":[{"value":"30712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":381,"content":"서식 변환 가능 양식을 우편번호 41823 로 보냅니다. 다만 포맷 변경이 허용됩니다.","has_sensitive":true,"entities":[{"value":"41823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":382,"content":"고정 포맷 서식을 우편번호 52934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":383,"content":"유연한 포맷 양식은 우편번호 63045 로 발송됩니다. 참고로 다양한 형식을 지원합니다.","has_sensitive":true,"entities":[{"value":"63045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":384,"content":"엄격한 포맷 서식을 우편번호 74156 로 보냅니다. 그리고 규정을 정확히 따라야 합니다.","has_sensitive":true,"entities":[{"value":"74156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":385,"content":"자동 저장 양식을 우편번호 85267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"85267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":386,"content":"수동 저장 서식은 우편번호 96378 로 제공됩니다. 아울러 주기적으로 저장하세요.","has_sensitive":true,"entities":[{"value":"96378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":387,"content":"백업 가능 양식을 우편번호 07489 로 보냅니다. 다만 백업본을 생성하세요.","has_sensitive":true,"entities":[{"value":"07489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":388,"content":"복원 가능 서식을 우편번호 19590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":389,"content":"버전 관리 양식은 우편번호 20601 로 발송됩니다. 참고로 이력이 기록됩니다.","has_sensitive":true,"entities":[{"value":"20601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":390,"content":"단일 버전 서식을 우편번호 31712 로 보냅니다. 그리고 최신본만 유효합니다.","has_sensitive":true,"entities":[{"value":"31712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":391,"content":"다중 버전 양식을 우편번호 42823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"42823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":392,"content":"최신 버전 서식은 우편번호 53934 로 제공됩니다. 아울러 구버전은 사용 불가합니다.","has_sensitive":true,"entities":[{"value":"53934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":393,"content":"이전 버전 양식을 우편번호 64045 로 보냅니다. 다만 호환성 문제가 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"64045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":394,"content":"베타 버전 서식을 우편번호 75156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"75156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":395,"content":"정식 버전 양식은 우편번호 86267 로 발송됩니다. 참고로 안정적으로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"86267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":396,"content":"테스트 버전 서식을 우편번호 97378 로 보냅니다. 그리고 피드백을 보내주세요.","has_sensitive":true,"entities":[{"value":"97378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":397,"content":"상용 버전 양식을 우편번호 08489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"08489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":398,"content":"시험 버전 서식은 우편번호 10590 로 제공됩니다. 아울러 평가 기간이 제한됩니다.","has_sensitive":true,"entities":[{"value":"10590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":399,"content":"무료 버전 양식을 우편번호 21601 로 보냅니다. 다만 기능이 제한적입니다.","has_sensitive":true,"entities":[{"value":"21601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":400,"content":"유료 버전 서식을 우편번호 32712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"32712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":401,"content":"평가판 버전 양식은 우편번호 43823 로 발송됩니다. 참고로 30일간 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"43823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":402,"content":"정품 버전 서식을 우편번호 54934 로 보냅니다. 그리고 인증 키가 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"54934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":403,"content":"라이선스 필요 양식을 우편번호 65045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"65045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":404,"content":"무제한 사용 서식은 우편번호 76156 로 제공됩니다. 아울러 영구 라이선스입니다.","has_sensitive":true,"entities":[{"value":"76156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":405,"content":"제한적 사용 양식을 우편번호 87267 로 보냅니다. 다만 특정 조건에서만 사용하세요.","has_sensitive":true,"entities":[{"value":"87267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":406,"content":"단독 사용 서식을 우편번호 98378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"98378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":407,"content":"공동 사용 양식은 우편번호 09489 로 발송됩니다. 참고로 여러 사람이 접근 가능합니다.","has_sensitive":true,"entities":[{"value":"09489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":408,"content":"독점 사용 서식을 우편번호 11590 로 보냅니다. 그리고 타인 사용이 금지됩니다.","has_sensitive":true,"entities":[{"value":"11590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":409,"content":"공유 가능 양식을 우편번호 22601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"22601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":410,"content":"개인 전용 서식은 우편번호 33712 로 제공됩니다. 아울러 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"33712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":411,"content":"법인 전용 양식을 우편번호 44823 로 보냅니다. 다만 사업자 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"44823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":412,"content":"기업 전용 서식을 우편번호 55934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"55934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":413,"content":"개인 사업자 양식은 우편번호 66045 로 발송됩니다. 참고로 간이 절차를 따릅니다.","has_sensitive":true,"entities":[{"value":"66045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":414,"content":"일반 사업자 서식을 우편번호 77156 로 보냅니다. 그리고 정규 절차가 적용됩니다.","has_sensitive":true,"entities":[{"value":"77156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":415,"content":"단체 전용 양식을 우편번호 88267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"88267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":416,"content":"조합 전용 서식은 우편번호 99378 로 제공됩니다. 아울러 조합원 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"99378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":417,"content":"협회 전용 양식을 우편번호 00489 로 보냅니다. 다만 회원 자격을 확인합니다.","has_sensitive":true,"entities":[{"value":"00489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":418,"content":"공공 기관 서식을 우편번호 12590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"12590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":419,"content":"민간 기관 양식은 우편번호 23601 로 발송됩니다. 참고로 별도 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"23601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":420,"content":"정부 기관 서식을 우편번호 34712 로 보냅니다. 그리고 공문 형식을 따라야 합니다.","has_sensitive":true,"entities":[{"value":"34712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":421,"content":"지자체 전용 양식을 우편번호 45823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"45823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":422,"content":"중앙 정부 서식은 우편번호 56934 로 제공됩니다. 아울러 통일된 양식입니다.","has_sensitive":true,"entities":[{"value":"56934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":423,"content":"지방 정부 양식을 우편번호 67045 로 보냅니다. 다만 지역별로 상이할 수 있습니다.","has_sensitive":true,"entities":[{"value":"67045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":424,"content":"국제 기구 서식을 우편번호 78156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"78156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":425,"content":"국내 전용 양식은 우편번호 89267 로 발송됩니다. 참고로 한글로만 작성하세요.","has_sensitive":true,"entities":[{"value":"89267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":426,"content":"해외 사용 서식을 우편번호 90378 로 보냅니다. 그리고 영문 버전도 제공됩니다.","has_sensitive":true,"entities":[{"value":"90378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":427,"content":"다국어 지원 양식을 우편번호 01489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"01489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":428,"content":"한글 전용 서식은 우편번호 13590 로 제공됩니다. 아울러 번역본은 인정되지 않습니다.","has_sensitive":true,"entities":[{"value":"13590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":429,"content":"영문 전용 양식을 우편번호 24601 로 보냅니다. 다만 영어로만 작성해야 합니다.","has_sensitive":true,"entities":[{"value":"24601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":430,"content":"이중 언어 서식을 우편번호 35712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"35712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":431,"content":"번역 가능 양식은 우편번호 46823 로 발송됩니다. 참고로 공식 번역본을 제출하세요.","has_sensitive":true,"entities":[{"value":"46823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":432,"content":"원문 제출 서식을 우편번호 57934 로 보냅니다. 그리고 원어로 작성해야 합니다.","has_sensitive":true,"entities":[{"value":"57934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":433,"content":"번역본 허용 양식을 우편번호 68045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"68045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":434,"content":"공증 필요 서식은 우편번호 79156 로 제공됩니다. 아울러 공증인 확인이 필수입니다.","has_sensitive":true,"entities":[{"value":"79156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":435,"content":"자체 확인 양식을 우편번호 80267 로 보냅니다. 다만 본인 서명만 필요합니다.","has_sensitive":true,"entities":[{"value":"80267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":436,"content":"제3자 인증 서식을 우편번호 91378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"91378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":437,"content":"자필 서명 양식은 우편번호 02489 로 발송됩니다. 참고로 직접 서명해야 합니다.","has_sensitive":true,"entities":[{"value":"02489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":438,"content":"전자 서명 서식을 우편번호 14590 로 보냅니다. 그리고 공인 인증서가 필요합니다.","has_sensitive":true,"entities":[{"value":"14590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":439,"content":"날인 필요 양식을 우편번호 25601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"25601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":440,"content":"인감 날인 서식은 우편번호 36712 로 제공됩니다. 아울러 인감 증명서도 첨부하세요.","has_sensitive":true,"entities":[{"value":"36712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":441,"content":"직인 날인 양식을 우편번호 47823 로 보냅니다. 다만 법인 대표의 직인이 필요합니다.","has_sensitive":true,"entities":[{"value":"47823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":442,"content":"무인 가능 서식을 우편번호 58934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"58934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":443,"content":"서명란 있는 양식은 우편번호 69045 로 발송됩니다. 참고로 지정된 곳에 서명하세요.","has_sensitive":true,"entities":[{"value":"69045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":444,"content":"서명란 없는 서식을 우편번호 70156 로 보냅니다. 그리고 별도 서명이 불필요합니다.","has_sensitive":true,"entities":[{"value":"70156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":445,"content":"다중 서명 양식을 우편번호 81267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"81267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":446,"content":"단일 서명 서식은 우편번호 92378 로 제공됩니다. 아울러 한 명만 서명하면 됩니다.","has_sensitive":true,"entities":[{"value":"92378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":447,"content":"순차 서명 양식을 우편번호 03489 로 보냅니다. 다만 순서대로 서명해야 합니다.","has_sensitive":true,"entities":[{"value":"03489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":448,"content":"동시 서명 서식을 우편번호 15590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"15590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":449,"content":"대리 서명 가능 양식은 우편번호 26601 로 발송됩니다. 참고로 위임장이 필요합니다.","has_sensitive":true,"entities":[{"value":"26601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":450,"content":"본인 서명 필수 서식을 우편번호 37712 로 보냅니다. 그리고 대리 서명은 불가합니다.","has_sensitive":true,"entities":[{"value":"37712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":451,"content":"증인 서명 필요 양식을 우편번호 48823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"48823","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":452,"content":"보증인 서명 서식은 우편번호 59934 로 제공됩니다. 아울러 보증인 정보도 기재하세요.","has_sensitive":true,"entities":[{"value":"59934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":453,"content":"연대 서명 양식을 우편번호 60045 로 보냅니다. 다만 모두의 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"60045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":454,"content":"개별 서명 서식을 우편번호 71156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"71156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":455,"content":"합의 서명 양식은 우편번호 82267 로 발송됩니다. 참고로 전원 합의가 전제됩니다.","has_sensitive":true,"entities":[{"value":"82267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":456,"content":"과반 서명 서식을 우편번호 93378 로 보냅니다. 그리고 과반수 서명이 필요합니다.","has_sensitive":true,"entities":[{"value":"93378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":457,"content":"만장일치 양식을 우편번호 04489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"04489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":458,"content":"다수결 서식은 우편번호 16590 로 제공됩니다. 아울러 투표 결과를 기재하세요.","has_sensitive":true,"entities":[{"value":"16590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":459,"content":"기명 투표 양식을 우편번호 27601 로 보냅니다. 다만 이름을 명시해야 합니다.","has_sensitive":true,"entities":[{"value":"27601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":460,"content":"무기명 투표 서식을 우편번호 38712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"38712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":461,"content":"전자 투표 양식은 우편번호 49823 로 발송됩니다. 참고로 온라인으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"49823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":462,"content":"서면 투표 서식을 우편번호 50934 로 보냅니다. 그리고 우편으로 제출하세요.","has_sensitive":true,"entities":[{"value":"50934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":463,"content":"현장 투표 양식을 우편번호 61045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"61045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":464,"content":"사전 투표 서식은 우편번호 72156 로 제공됩니다. 아울러 기간 내 투표하세요.","has_sensitive":true,"entities":[{"value":"72156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":465,"content":"당일 투표 양식을 우편번호 83267 로 보냅니다. 다만 당일만 투표 가능합니다.","has_sensitive":true,"entities":[{"value":"83267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":466,"content":"조기 투표 서식을 우편번호 94378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"94378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":467,"content":"연기 투표 양식은 우편번호 05489 로 발송됩니다. 참고로 재투표 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"05489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":468,"content":"재투표 서식을 우편번호 17590 로 보냅니다. 그리고 이전 투표는 무효입니다.","has_sensitive":true,"entities":[{"value":"17590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":469,"content":"최종 투표 양식을 우편번호 28601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"28601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":470,"content":"예비 투표 서식은 우편번호 39712 로 제공됩니다. 아울러 본 투표 전 시행됩니다.","has_sensitive":true,"entities":[{"value":"39712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":471,"content":"본 투표 양식을 우편번호 40823 로 보냅니다. 다만 공식 결과로 인정됩니다.","has_sensitive":true,"entities":[{"value":"40823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":472,"content":"비밀 투표 서식을 우편번호 51934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"51934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":473,"content":"공개 투표 양식은 우편번호 62045 로 발송됩니다. 참고로 결과가 공개됩니다.","has_sensitive":true,"entities":[{"value":"62045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":474,"content":"익명 투표 서식을 우편번호 73156 로 보냅니다. 그리고 신원이 공개되지 않습니다.","has_sensitive":true,"entities":[{"value":"73156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":475,"content":"실명 투표 양식을 우편번호 84267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"84267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":476,"content":"대리 투표 서식은 우편번호 95378 로 제공됩니다. 아울러 위임장을 제출하세요.","has_sensitive":true,"entities":[{"value":"95378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":477,"content":"직접 투표 양식을 우편번호 06489 로 보냅니다. 다만 본인만 투표할 수 있습니다.","has_sensitive":true,"entities":[{"value":"06489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":478,"content":"위임 투표 서식을 우편번호 18590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"18590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":479,"content":"자유 투표 양식은 우편번호 29601 로 발송됩니다. 참고로 제한이 없습니다.","has_sensitive":true,"entities":[{"value":"29601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":480,"content":"제한 투표 서식을 우편번호 30712 로 보냅니다. 그리고 조건을 충족해야 합니다.","has_sensitive":true,"entities":[{"value":"30712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":481,"content":"전면 개정 양식을 우편번호 41823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"41823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":482,"content":"부분 개정 서식은 우편번호 52934 로 제공됩니다. 아울러 변경 부분만 표시되어 있습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":483,"content":"신설 조항 양식을 우편번호 63045 로 보냅니다. 다만 새로 추가된 내용입니다.","has_sensitive":true,"entities":[{"value":"63045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":484,"content":"삭제 조항 서식을 우편번호 74156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"74156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":485,"content":"수정 조항 양식은 우편번호 85267 로 발송됩니다. 참고로 개정 내용을 확인하세요.","has_sensitive":true,"entities":[{"value":"85267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":486,"content":"유지 조항 서식을 우편번호 96378 로 보냅니다. 그리고 기존 내용이 유지됩니다.","has_sensitive":true,"entities":[{"value":"96378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":487,"content":"폐지 조항 양식을 우편번호 07489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"07489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":488,"content":"신규 제정 서식은 우편번호 19590 로 제공됩니다. 아울러 처음 제정된 것입니다.","has_sensitive":true,"entities":[{"value":"19590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":489,"content":"재제정 양식을 우편번호 20601 로 보냅니다. 다만 전면 재작성되었습니다.","has_sensitive":true,"entities":[{"value":"20601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":490,"content":"개편 서식을 우편번호 31712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"31712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":491,"content":"보완 양식은 우편번호 42823 로 발송됩니다. 참고로 미비점을 보완했습니다.","has_sensitive":true,"entities":[{"value":"42823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":492,"content":"통합 서식을 우편번호 53934 로 보냅니다. 그리고 여러 양식을 합쳤습니다.","has_sensitive":true,"entities":[{"value":"53934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":493,"content":"분리 양식을 우편번호 64045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"64045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":494,"content":"병합 서식은 우편번호 75156 로 제공됩니다. 아울러 두 양식이 결합되었습니다.","has_sensitive":true,"entities":[{"value":"75156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":495,"content":"분할 양식을 우편번호 86267 로 보냅니다. 다만 별도로 제출해야 합니다.","has_sensitive":true,"entities":[{"value":"86267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":496,"content":"확대 서식을 우편번호 97378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"97378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":497,"content":"축소 양식은 우편번호 08489 로 발송됩니다. 참고로 간소화되었습니다.","has_sensitive":true,"entities":[{"value":"08489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":498,"content":"연장 서식을 우편번호 10590 로 보냅니다. 그리고 기간이 연장되었습니다.","has_sensitive":true,"entities":[{"value":"10590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":499,"content":"단축 양식을 우편번호 21601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"21601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":500,"content":"강화 서식은 우편번호 32712 로 제공됩니다. 아울러 요건이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"32712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":501,"content":"완화 양식을 우편번호 43823 로 보냅니다. 다만 조건이 완화되었습니다.","has_sensitive":true,"entities":[{"value":"43823","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":502,"content":"엄격화 서식을 우편번호 54934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"54934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":503,"content":"간편화 양식은 우편번호 65045 로 발송됩니다. 참고로 절차가 단순해졌습니다.","has_sensitive":true,"entities":[{"value":"65045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":504,"content":"복잡화 서식을 우편번호 76156 로 보냅니다. 그리고 절차가 추가되었습니다.","has_sensitive":true,"entities":[{"value":"76156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":505,"content":"명확화 양식을 우편번호 87267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"87267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":506,"content":"구체화 서식은 우편번호 98378 로 제공됩니다. 아울러 세부 사항이 명시되었습니다.","has_sensitive":true,"entities":[{"value":"98378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":507,"content":"추상화 양식을 우편번호 09489 로 보냅니다. 다만 개괄적으로 작성하세요.","has_sensitive":true,"entities":[{"value":"09489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":508,"content":"상세화 서식을 우편번호 11590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"11590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":509,"content":"표준화 양식은 우편번호 22601 로 발송됩니다. 참고로 통일된 기준입니다.","has_sensitive":true,"entities":[{"value":"22601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":510,"content":"맞춤화 서식을 우편번호 33712 로 보냅니다. 그리고 개별 상황에 맞춥니다.","has_sensitive":true,"entities":[{"value":"33712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":511,"content":"정형화 양식을 우편번호 44823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"44823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":512,"content":"유연화 서식은 우편번호 55934 로 제공됩니다. 아울러 융통성 있게 작성하세요.","has_sensitive":true,"entities":[{"value":"55934","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":513,"content":"경직화 양식을 우편번호 66045 로 보냅니다. 다만 엄격히 준수해야 합니다.","has_sensitive":true,"entities":[{"value":"66045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":514,"content":"자동화 서식을 우편번호 77156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"77156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":515,"content":"수동화 양식은 우편번호 88267 로 발송됩니다. 참고로 직접 처리해야 합니다.","has_sensitive":true,"entities":[{"value":"88267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":516,"content":"전산화 서식을 우편번호 99378 로 보냅니다. 그리고 시스템에 입력됩니다.","has_sensitive":true,"entities":[{"value":"99378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":517,"content":"디지털화 양식을 우편번호 00489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"00489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":518,"content":"전자화 서식은 우편번호 12590 로 제공됩니다. 아울러 온라인으로 제출하세요.","has_sensitive":true,"entities":[{"value":"12590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":519,"content":"종이화 양식을 우편번호 23601 로 보냅니다. 다만 출력하여 제출하세요.","has_sensitive":true,"entities":[{"value":"23601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":520,"content":"모바일 전용 서식을 우편번호 34712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"34712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":521,"content":"PC 전용 양식은 우편번호 45823 로 발송됩니다. 참고로 컴퓨터에서만 작성 가능합니다.","has_sensitive":true,"entities":[{"value":"45823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":522,"content":"태블릿 호환 서식을 우편번호 56934 로 보냅니다. 그리고 모든 기기에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"56934","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":523,"content":"크로스플랫폼 양식을 우편번호 67045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"67045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":524,"content":"윈도우 전용 서식은 우편번호 78156 로 제공됩니다. 아울러 윈도우에서만 실행됩니다.","has_sensitive":true,"entities":[{"value":"78156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":525,"content":"맥OS 전용 양식을 우편번호 89267 로 보냅니다. 다만 맥에서만 사용하세요.","has_sensitive":true,"entities":[{"value":"89267","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":526,"content":"리눅스 호환 서식을 우편번호 90378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"90378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":527,"content":"안드로이드 전용 양식은 우편번호 01489 로 발송됩니다. 참고로 안드로이드 앱이 필요합니다.","has_sensitive":true,"entities":[{"value":"01489","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":528,"content":"iOS 전용 서식을 우편번호 13590 로 보냅니다. 그리고 아이폰에서 작성하세요.","has_sensitive":true,"entities":[{"value":"13590","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":529,"content":"웹 기반 양식을 우편번호 24601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"24601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":530,"content":"앱 기반 서식은 우편번호 35712 로 제공됩니다. 아울러 앱을 설치해야 합니다.","has_sensitive":true,"entities":[{"value":"35712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":531,"content":"클라우드 저장 양식을 우편번호 46823 로 보냅니다. 다만 자동으로 동기화됩니다.","has_sensitive":true,"entities":[{"value":"46823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":532,"content":"로컬 저장 서식을 우편번호 57934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"57934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":533,"content":"온라인 제출 양식은 우편번호 68045 로 발송됩니다. 참고로 인터넷 연결이 필요합니다.","has_sensitive":true,"entities":[{"value":"68045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":534,"content":"오프라인 제출 서식을 우편번호 79156 로 보냅니다. 그리고 직접 방문해야 합니다.","has_sensitive":true,"entities":[{"value":"79156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":535,"content":"하이브리드 양식을 우편번호 80267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"80267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":536,"content":"네트워크 필수 서식은 우편번호 91378 로 제공됩니다. 아울러 항상 온라인 상태여야 합니다.","has_sensitive":true,"entities":[{"value":"91378","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":537,"content":"독립 실행 양식을 우편번호 02489 로 보냅니다. 다만 네트워크 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"02489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":538,"content":"실시간 동기화 서식을 우편번호 14590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"14590","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":539,"content":"배치 동기화 양식은 우편번호 25601 로 발송됩니다. 참고로 일정 시간마다 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"25601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":540,"content":"수동 동기화 서식을 우편번호 36712 로 보냅니다. 그리고 직접 업데이트해야 합니다.","has_sensitive":true,"entities":[{"value":"36712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":541,"content":"자동 업데이트 양식을 우편번호 47823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"47823","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":542,"content":"선택 업데이트 서식은 우편번호 58934 로 제공됩니다. 아울러 원하는 것만 업데이트하세요.","has_sensitive":true,"entities":[{"value":"58934","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":543,"content":"강제 업데이트 양식을 우편번호 69045 로 보냅니다. 다만 반드시 최신 버전을 사용해야 합니다.","has_sensitive":true,"entities":[{"value":"69045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":544,"content":"알림 기능 서식을 우편번호 70156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"70156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":545,"content":"무알림 양식은 우편번호 81267 로 발송됩니다. 참고로 조용히 작동합니다.","has_sensitive":true,"entities":[{"value":"81267","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":546,"content":"푸시 알림 서식을 우편번호 92378 로 보냅니다. 그리고 실시간으로 알려드립니다.","has_sensitive":true,"entities":[{"value":"92378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":547,"content":"이메일 알림 양식을 우편번호 03489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"03489","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":548,"content":"SMS 알림 서식은 우편번호 15590 로 제공됩니다. 아울러 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"15590","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":549,"content":"앱 알림 양식을 우편번호 26601 로 보냅니다. 다만 앱 권한을 허용해야 합니다.","has_sensitive":true,"entities":[{"value":"26601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":550,"content":"배너 알림 서식을 우편번호 37712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"37712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":551,"content":"팝업 알림 양식은 우편번호 48823 로 발송됩니다. 참고로 화면에 표시됩니다.","has_sensitive":true,"entities":[{"value":"48823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":552,"content":"소리 알림 서식을 우편번호 59934 로 보냅니다. 그리고 알림음이 울립니다.","has_sensitive":true,"entities":[{"value":"59934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":553,"content":"진동 알림 양식을 우편번호 60045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"60045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":554,"content":"조용한 알림 서식은 우편번호 71156 로 제공됩니다. 아울러 방해하지 않습니다.","has_sensitive":true,"entities":[{"value":"71156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":555,"content":"예약 알림 양식을 우편번호 82267 로 보냅니다. 다만 지정 시간에 알립니다.","has_sensitive":true,"entities":[{"value":"82267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":556,"content":"즉시 알림 서식을 우편번호 93378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"93378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":557,"content":"지연 알림 양식은 우편번호 04489 로 발송됩니다. 참고로 일정 시간 후 알립니다.","has_sensitive":true,"entities":[{"value":"04489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":558,"content":"반복 알림 서식을 우편번호 16590 로 보냅니다. 그리고 주기적으로 알려드립니다.","has_sensitive":true,"entities":[{"value":"16590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":559,"content":"일회성 알림 양식을 우편번호 27601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"27601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":560,"content":"지속 알림 서식은 우편번호 38712 로 제공됩니다. 아울러 계속 표시됩니다.","has_sensitive":true,"entities":[{"value":"38712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":561,"content":"소멸 알림 양식을 우편번호 49823 로 보냅니다. 다만 자동으로 사라집니다.","has_sensitive":true,"entities":[{"value":"49823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":562,"content":"누적 알림 서식을 우편번호 50934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"50934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":563,"content":"개별 알림 양식은 우편번호 61045 로 발송됩니다. 참고로 각각 별도 표시됩니다.","has_sensitive":true,"entities":[{"value":"61045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":564,"content":"그룹 알림 서식을 우편번호 72156 로 보냅니다. 그리고 묶어서 알려드립니다.","has_sensitive":true,"entities":[{"value":"72156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":565,"content":"우선순위 알림 양식을 우편번호 83267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"83267","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":566,"content":"일반 알림 서식은 우편번호 94378 로 제공됩니다. 아울러 보통 중요도입니다.","has_sensitive":true,"entities":[{"value":"94378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":567,"content":"긴급 알림 양식을 우편번호 05489 로 보냅니다. 다만 즉시 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"05489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":568,"content":"일반 우편 서식을 우편번호 17590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"17590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":569,"content":"등기 우편 양식은 우편번호 28601 로 발송됩니다. 참고로 수령 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"28601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":570,"content":"특급 배송 서식을 우편번호 39712 로 보냅니다. 그리고 당일 도착합니다.","has_sensitive":true,"entities":[{"value":"39712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":571,"content":"일반 배송 양식을 우편번호 40823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"40823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":572,"content":"택배 발송 서식은 우편번호 51934 로 제공됩니다. 아울러 송장번호가 부여됩니다.","has_sensitive":true,"entities":[{"value":"51934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":573,"content":"퀵서비스 양식을 우편번호 62045 로 보냅니다. 다만 추가 요금이 있습니다.","has_sensitive":true,"entities":[{"value":"62045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":574,"content":"우체국 택배 서식을 우편번호 73156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"73156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":575,"content":"민간 택배 양식은 우편번호 84267 로 발송됩니다. 참고로 업체 선택이 가능합니다.","has_sensitive":true,"entities":[{"value":"84267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":576,"content":"국제 우편 서식을 우편번호 95378 로 보냅니다. 그리고 통관 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"95378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":577,"content":"국내 전용 양식을 우편번호 06489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"06489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":578,"content":"항공 우편 서식은 우편번호 18590 로 제공됩니다. 아울러 빠른 배송이 보장됩니다.","has_sensitive":true,"entities":[{"value":"18590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":579,"content":"선박 운송 양식을 우편번호 29601 로 보냅니다. 다만 시간이 오래 걸립니다.","has_sensitive":true,"entities":[{"value":"29601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":580,"content":"육로 운송 서식을 우편번호 30712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"30712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":581,"content":"복합 운송 양식은 우편번호 41823 로 발송됩니다. 참고로 여러 경로를 이용합니다.","has_sensitive":true,"entities":[{"value":"41823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":582,"content":"직송 서식을 우편번호 52934 로 보냅니다. 그리고 중간 경유 없이 배송됩니다.","has_sensitive":true,"entities":[{"value":"52934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":583,"content":"경유 배송 양식을 우편번호 63045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"63045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":584,"content":"직배송 서식은 우편번호 74156 로 제공됩니다. 아울러 생산자가 직접 보냅니다.","has_sensitive":true,"entities":[{"value":"74156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":585,"content":"위탁 배송 양식을 우편번호 85267 로 보냅니다. 다만 제3자가 배송합니다.","has_sensitive":true,"entities":[{"value":"85267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":586,"content":"집하 요청 서식을 우편번호 96378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"96378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":587,"content":"방문 수령 양식은 우편번호 07489 로 발송됩니다. 참고로 직접 찾아가야 합니다.","has_sensitive":true,"entities":[{"value":"07489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":588,"content":"무인 배송 서식을 우편번호 19590 로 보냅니다. 그리고 무인함에 보관됩니다.","has_sensitive":true,"entities":[{"value":"19590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":589,"content":"대면 배송 양식을 우편번호 20601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"20601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":590,"content":"비대면 서식은 우편번호 31712 로 제공됩니다. 아울러 문앞에 두고 갑니다.","has_sensitive":true,"entities":[{"value":"31712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":591,"content":"새벽 배송 양식을 우편번호 42823 로 보냅니다. 다만 전날 주문해야 합니다.","has_sensitive":true,"entities":[{"value":"42823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":592,"content":"정오 배송 서식을 우편번호 53934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"53934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":593,"content":"야간 배송 양식은 우편번호 64045 로 발송됩니다. 참고로 저녁 시간에 도착합니다.","has_sensitive":true,"entities":[{"value":"64045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":594,"content":"주말 배송 서식을 우편번호 75156 로 보냅니다. 그리고 토요일에도 가능합니다.","has_sensitive":true,"entities":[{"value":"75156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":595,"content":"평일 전용 양식을 우편번호 86267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"86267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":596,"content":"공휴일 배송 서식은 우편번호 97378 로 제공됩니다. 아울러 별도 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"97378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":597,"content":"예약 배송 양식을 우편번호 08489 로 보냅니다. 다만 원하는 날짜를 지정하세요.","has_sensitive":true,"entities":[{"value":"08489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":598,"content":"즉시 배송 서식을 우편번호 10590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"10590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":599,"content":"정기 배송 양식은 우편번호 21601 로 발송됩니다. 참고로 매주 같은 날 배송됩니다.","has_sensitive":true,"entities":[{"value":"21601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":600,"content":"단발성 서식을 우편번호 32712 로 보냅니다. 그리고 일회성 주문입니다.","has_sensitive":true,"entities":[{"value":"32712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":601,"content":"묶음 배송 양식을 우편번호 43823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"43823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":602,"content":"개별 배송 서식은 우편번호 54934 로 제공됩니다. 아울러 따로따로 도착합니다.","has_sensitive":true,"entities":[{"value":"54934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":603,"content":"합배송 양식을 우편번호 65045 로 보냅니다. 다만 모아서 한 번에 보냅니다.","has_sensitive":true,"entities":[{"value":"65045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":604,"content":"분할 배송 서식을 우편번호 76156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"76156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":605,"content":"무료 배송 양식은 우편번호 87267 로 발송됩니다. 참고로 조건 충족 시 무료입니다.","has_sensitive":true,"entities":[{"value":"87267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":606,"content":"유료 배송 서식을 우편번호 98378 로 보냅니다. 그리고 배송비가 부과됩니다.","has_sensitive":true,"entities":[{"value":"98378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":607,"content":"착불 배송 양식을 우편번호 09489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"09489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":608,"content":"선불 배송 서식은 우편번호 11590 로 제공됩니다. 아울러 미리 결제해야 합니다.","has_sensitive":true,"entities":[{"value":"11590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":609,"content":"반품 배송 양식을 우편번호 22601 로 보냅니다. 다만 반송 주소를 확인하세요.","has_sensitive":true,"entities":[{"value":"22601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":610,"content":"교환 배송 서식을 우편번호 33712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"33712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":611,"content":"왕복 배송 양식은 우편번호 44823 로 발송됩니다. 참고로 양방향 배송입니다.","has_sensitive":true,"entities":[{"value":"44823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":612,"content":"편도 배송 서식을 우편번호 55934 로 보냅니다. 그리고 일방향 배송입니다.","has_sensitive":true,"entities":[{"value":"55934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":613,"content":"보험 가입 양식을 우편번호 66045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"66045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":614,"content":"일반 배송 서식은 우편번호 77156 로 제공됩니다. 아울러 기본 배상만 적용됩니다.","has_sensitive":true,"entities":[{"value":"77156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":615,"content":"고가 배송 양식을 우편번호 88267 로 보냅니다. 다만 가치 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"88267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":616,"content":"냉장 배송 서식을 우편번호 99378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"99378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":617,"content":"냉동 배송 양식은 우편번호 00489 로 발송됩니다. 참고로 저온 유지가 필요합니다.","has_sensitive":true,"entities":[{"value":"00489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":618,"content":"상온 배송 서식을 우편번호 12590 로 보냅니다. 그리고 온도 관리 불필요합니다.","has_sensitive":true,"entities":[{"value":"12590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":619,"content":"신선 식품 양식을 우편번호 23601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"23601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":620,"content":"일반 화물 서식은 우편번호 34712 로 제공됩니다. 아울러 특별 관리가 없습니다.","has_sensitive":true,"entities":[{"value":"34712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":621,"content":"위험물 배송 양식을 우편번호 45823 로 보냅니다. 다만 특수 허가가 필요합니다.","has_sensitive":true,"entities":[{"value":"45823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":622,"content":"일반 물품 서식을 우편번호 56934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"56934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":623,"content":"깨지기 쉬운 물품 양식은 우편번호 67045 로 발송됩니다. 참고로 주의 표시가 필요합니다.","has_sensitive":true,"entities":[{"value":"67045","begin":21,"end":26,"label":"POSTAL_CODE"}]}
+{"id":624,"content":"견고한 포장 서식을 우편번호 78156 로 보냅니다. 그리고 이중 포장을 권장합니다.","has_sensitive":true,"entities":[{"value":"78156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":625,"content":"간단 포장 양식을 우편번호 89267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"89267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":626,"content":"선물 포장 서식은 우편번호 90378 로 제공됩니다. 아울러 리본 포장도 가능합니다.","has_sensitive":true,"entities":[{"value":"90378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":627,"content":"일반 포장 양식을 우편번호 01489 로 보냅니다. 다만 기본 포장만 제공됩니다.","has_sensitive":true,"entities":[{"value":"01489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":628,"content":"친환경 포장 서식을 우편번호 13590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"13590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":629,"content":"재활용 포장 양식은 우편번호 24601 로 발송됩니다. 참고로 재사용 박스를 사용합니다.","has_sensitive":true,"entities":[{"value":"24601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":630,"content":"신규 포장 서식을 우편번호 35712 로 보냅니다. 그리고 새 포장재만 사용합니다.","has_sensitive":true,"entities":[{"value":"35712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":631,"content":"대형 화물 양식을 우편번호 46823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"46823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":632,"content":"소형 화물 서식은 우편번호 57934 로 제공됩니다. 아울러 소포로 발송 가능합니다.","has_sensitive":true,"entities":[{"value":"57934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":633,"content":"중형 화물 양식을 우편번호 68045 로 보냅니다. 다만 적재함에 들어갈 크기입니다.","has_sensitive":true,"entities":[{"value":"68045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":634,"content":"특대형 서식을 우편번호 79156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":635,"content":"경량 화물 양식은 우편번호 80267 로 발송됩니다. 참고로 무게 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"80267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":636,"content":"중량 화물 서식을 우편번호 91378 로 보냅니다. 그리고 추가 운임이 발생합니다.","has_sensitive":true,"entities":[{"value":"91378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":637,"content":"부피 화물 양식을 우편번호 02489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"02489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":638,"content":"정량 화물 서식은 우편번호 14590 로 제공됩니다. 아울러 표준 요금이 적용됩니다.","has_sensitive":true,"entities":[{"value":"14590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":639,"content":"초과 화물 양식을 우편번호 25601 로 보냅니다. 다만 초과 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"25601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":640,"content":"적정 화물 서식을 우편번호 36712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"36712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":641,"content":"단독 배송 양식은 우편번호 47823 로 발송됩니다. 참고로 단독으로 운송됩니다.","has_sensitive":true,"entities":[{"value":"47823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":642,"content":"혼적 배송 서식을 우편번호 58934 로 보냅니다. 그리고 다른 화물과 함께 갑니다.","has_sensitive":true,"entities":[{"value":"58934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":643,"content":"전용 차량 양식을 우편번호 69045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"69045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":644,"content":"공동 배송 서식은 우편번호 70156 로 제공됩니다. 아울러 효율적인 배송입니다.","has_sensitive":true,"entities":[{"value":"70156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":645,"content":"우선 처리 양식을 우편번호 81267 로 보냅니다. 다만 먼저 처리됩니다.","has_sensitive":true,"entities":[{"value":"81267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":646,"content":"일반 처리 서식을 우편번호 92378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"92378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":647,"content":"후순위 양식은 우편번호 03489 로 발송됩니다. 참고로 나중에 처리될 수 있습니다.","has_sensitive":true,"entities":[{"value":"03489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":648,"content":"자동 분류 서식을 우편번호 15590 로 보냅니다. 그리고 시스템이 자동 배정합니다.","has_sensitive":true,"entities":[{"value":"15590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":649,"content":"수동 분류 양식을 우편번호 26601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"26601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":650,"content":"바코드 부착 서식은 우편번호 37712 로 제공됩니다. 아울러 추적이 용이합니다.","has_sensitive":true,"entities":[{"value":"37712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":651,"content":"QR코드 양식을 우편번호 48823 로 보냅니다. 다만 스캔하여 확인하세요.","has_sensitive":true,"entities":[{"value":"48823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":652,"content":"RFID 태그 서식을 우편번호 59934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"59934","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":653,"content":"일련번호 부여 양식은 우편번호 60045 로 발송됩니다. 참고로 고유번호가 있습니다.","has_sensitive":true,"entities":[{"value":"60045","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":654,"content":"추적 가능 서식을 우편번호 71156 로 보냅니다. 그리고 실시간 위치 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"71156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":655,"content":"추적 불가 양식을 우편번호 82267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"82267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":656,"content":"실시간 추적 서식은 우편번호 93378 로 제공됩니다. 아울러 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"93378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":657,"content":"배송 완료 양식을 우편번호 04489 로 보냅니다. 다만 수령 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"04489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":658,"content":"배송 중 서식을 우편번호 16590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"16590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":659,"content":"출고 대기 양식은 우편번호 27601 로 발송됩니다. 참고로 곧 출발합니다.","has_sensitive":true,"entities":[{"value":"27601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":660,"content":"입고 완료 서식을 우편번호 38712 로 보냅니다. 그리고 창고에 도착했습니다.","has_sensitive":true,"entities":[{"value":"38712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":661,"content":"집하 완료 양식을 우편번호 49823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"49823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":662,"content":"배차 완료 서식은 우편번호 50934 로 제공됩니다. 아울러 기사님이 배정되었습니다.","has_sensitive":true,"entities":[{"value":"50934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":663,"content":"상차 완료 양식을 우편번호 61045 로 보냅니다. 다만 차량에 적재되었습니다.","has_sensitive":true,"entities":[{"value":"61045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":664,"content":"하차 완료 서식을 우편번호 72156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"72156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":665,"content":"분류 완료 양식은 우편번호 83267 로 발송됩니다. 참고로 센터에서 분류되었습니다.","has_sensitive":true,"entities":[{"value":"83267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":666,"content":"간선 이동 서식을 우편번호 94378 로 보냅니다. 그리고 지역 간 이동 중입니다.","has_sensitive":true,"entities":[{"value":"94378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":667,"content":"지선 배송 양식을 우편번호 05489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"05489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":668,"content":"최종 배송 서식은 우편번호 17590 로 제공됩니다. 아울러 목적지로 향하고 있습니다.","has_sensitive":true,"entities":[{"value":"17590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":669,"content":"배송 시도 양식을 우편번호 28601 로 보냅니다. 다만 부재 시 재배송됩니다.","has_sensitive":true,"entities":[{"value":"28601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":670,"content":"부재중 서식을 우편번호 39712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"39712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":671,"content":"재배송 요청 양식은 우편번호 40823 로 발송됩니다. 참고로 다시 시도합니다.","has_sensitive":true,"entities":[{"value":"40823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":672,"content":"보관 중 서식을 우편번호 51934 로 보냅니다. 그리고 보관함에 있습니다.","has_sensitive":true,"entities":[{"value":"51934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":673,"content":"보관 기간 양식을 우편번호 62045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"62045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":674,"content":"보관 만료 서식은 우편번호 73156 로 제공됩니다. 아울러 반송될 수 있습니다.","has_sensitive":true,"entities":[{"value":"73156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":675,"content":"반송 처리 양식을 우편번호 84267 로 보냅니다. 다만 발송자에게 돌려보냅니다.","has_sensitive":true,"entities":[{"value":"84267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":676,"content":"주소 오류 서식을 우편번호 95378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"95378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":677,"content":"수정 요청 양식은 우편번호 06489 로 발송됩니다. 참고로 정보 재확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"06489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":678,"content":"배송 지연 서식을 우편번호 18590 로 보냅니다. 그리고 사과 말씀드립니다.","has_sensitive":true,"entities":[{"value":"18590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":679,"content":"정상 배송 양식을 우편번호 29601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"29601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":680,"content":"빠른 배송 서식은 우편번호 30712 로 제공됩니다. 아울러 예상보다 빠릅니다.","has_sensitive":true,"entities":[{"value":"30712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":681,"content":"통상 배송 양식을 우편번호 41823 로 보냅니다. 다만 일반적인 기간입니다.","has_sensitive":true,"entities":[{"value":"41823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":682,"content":"느린 배송 서식을 우편번호 52934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":683,"content":"파손 신고 양식은 우편번호 63045 로 발송됩니다. 참고로 보상 절차를 안내합니다.","has_sensitive":true,"entities":[{"value":"63045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":684,"content":"분실 신고 서식을 우편번호 74156 로 보냅니다. 그리고 조사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"74156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":685,"content":"정상 도착 양식을 우편번호 85267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"85267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":686,"content":"손상 없음 서식은 우편번호 96378 로 제공됩니다. 아울러 안전하게 도착했습니다.","has_sensitive":true,"entities":[{"value":"96378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":687,"content":"일부 손상 양식을 우편번호 07489 로 보냅니다. 다만 교환이 가능합니다.","has_sensitive":true,"entities":[{"value":"07489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":688,"content":"전체 손상 서식을 우편번호 19590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":689,"content":"재포장 양식은 우편번호 20601 로 발송됩니다. 참고로 다시 포장합니다.","has_sensitive":true,"entities":[{"value":"20601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":690,"content":"재발송 서식을 우편번호 31712 로 보냅니다. 그리고 새로 보냅니다.","has_sensitive":true,"entities":[{"value":"31712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":691,"content":"클레임 접수 양식을 우편번호 42823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"42823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":692,"content":"만족도 조사 서식은 우편번호 53934 로 제공됩니다. 아울러 의견을 남겨주세요.","has_sensitive":true,"entities":[{"value":"53934","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":693,"content":"개선 의견 양식을 우편번호 64045 로 보냅니다. 다만 소중한 의견 감사합니다.","has_sensitive":true,"entities":[{"value":"64045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":694,"content":"칭찬 접수 서식을 우편번호 75156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"75156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":695,"content":"불만 처리 양식은 우편번호 86267 로 발송됩니다. 참고로 신속히 처리하겠습니다.","has_sensitive":true,"entities":[{"value":"86267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":696,"content":"보상 신청 서식을 우편번호 97378 로 보냅니다. 그리고 증빙 자료가 필요합니다.","has_sensitive":true,"entities":[{"value":"97378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":697,"content":"환불 신청 양식을 우편번호 08489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"08489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":698,"content":"부분 환불 서식은 우편번호 10590 로 제공됩니다. 아울러 차액만 환불됩니다.","has_sensitive":true,"entities":[{"value":"10590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":699,"content":"전액 환불 양식을 우편번호 21601 로 보냅니다. 다만 전액 돌려받습니다.","has_sensitive":true,"entities":[{"value":"21601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":700,"content":"포인트 적립 서식을 우편번호 32712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"32712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":701,"content":"마일리지 양식은 우편번호 43823 로 발송됩니다. 참고로 누적 가능합니다.","has_sensitive":true,"entities":[{"value":"43823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":702,"content":"쿠폰 발급 서식을 우편번호 54934 로 보냅니다. 그리고 다음 구매 시 사용하세요.","has_sensitive":true,"entities":[{"value":"54934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":703,"content":"할인권 양식을 우편번호 65045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"65045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":704,"content":"적립금 사용 서식은 우편번호 76156 로 제공됩니다. 아울러 결제 시 차감됩니다.","has_sensitive":true,"entities":[{"value":"76156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":705,"content":"현금 환급 양식을 우편번호 87267 로 보냅니다. 다만 계좌 입금으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"87267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":706,"content":"카드 취소 서식을 우편번호 98378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"98378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":707,"content":"계좌 이체 양식은 우편번호 09489 로 발송됩니다. 참고로 입금 정보를 확인하세요.","has_sensitive":true,"entities":[{"value":"09489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":708,"content":"무통장 입금 서식을 우편번호 11590 로 보냅니다. 그리고 입금 후 연락 주세요.","has_sensitive":true,"entities":[{"value":"11590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":709,"content":"가상계좌 양식을 우편번호 22601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"22601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":710,"content":"실시간 계좌이체 서식은 우편번호 33712 로 제공됩니다. 아울러 즉시 확인됩니다.","has_sensitive":true,"entities":[{"value":"33712","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":711,"content":"신용카드 양식을 우편번호 44823 로 보냅니다. 다만 할부도 가능합니다.","has_sensitive":true,"entities":[{"value":"44823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":712,"content":"체크카드 서식을 우편번호 55934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"55934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":713,"content":"간편결제 양식은 우편번호 66045 로 발송됩니다. 참고로 빠르게 결제됩니다.","has_sensitive":true,"entities":[{"value":"66045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":714,"content":"페이 결제 서식을 우편번호 77156 로 보냅니다. 그리고 앱으로 결제하세요.","has_sensitive":true,"entities":[{"value":"77156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":715,"content":"포인트 결제 양식을 우편번호 88267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"88267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":716,"content":"복합 결제 서식은 우편번호 99378 로 제공됩니다. 아울러 여러 방법을 조합하세요.","has_sensitive":true,"entities":[{"value":"99378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":717,"content":"일시불 양식을 우편번호 00489 로 보냅니다. 다만 한 번에 결제됩니다.","has_sensitive":true,"entities":[{"value":"00489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":718,"content":"할부 결제 서식을 우편번호 12590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"12590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":719,"content":"무이자 할부 양식은 우편번호 23601 로 발송됩니다. 참고로 이자가 없습니다.","has_sensitive":true,"entities":[{"value":"23601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":720,"content":"유이자 할부 서식을 우편번호 34712 로 보냅니다. 그리고 이자가 부과됩니다.","has_sensitive":true,"entities":[{"value":"34712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":721,"content":"선결제 양식을 우편번호 45823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"45823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":722,"content":"후불 결제 서식은 우편번호 56934 로 제공됩니다. 아울러 나중에 결제하세요.","has_sensitive":true,"entities":[{"value":"56934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":723,"content":"월 정산 양식을 우편번호 67045 로 보냅니다. 다만 매월 청구됩니다.","has_sensitive":true,"entities":[{"value":"67045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":724,"content":"즉시 결제 서식을 우편번호 78156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"78156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":725,"content":"예약 결제 양식은 우편번호 89267 로 발송됩니다. 참고로 지정일에 결제됩니다.","has_sensitive":true,"entities":[{"value":"89267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":726,"content":"자동 결제 서식을 우편번호 90378 로 보냅니다. 그리고 매월 자동으로 결제됩니다.","has_sensitive":true,"entities":[{"value":"90378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":727,"content":"수동 결제 양식을 우편번호 01489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"01489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":728,"content":"영수증 발급 서식은 우편번호 13590 로 제공됩니다. 아울러 즉시 출력 가능합니다.","has_sensitive":true,"entities":[{"value":"13590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":729,"content":"전자 영수증 양식을 우편번호 24601 로 보냅니다. 다만 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"24601","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":730,"content":"종이 영수증 서식을 우편번호 35712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"35712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":731,"content":"현금 영수증 양식은 우편번호 46823 로 발송됩니다. 참고로 소득공제가 됩니다.","has_sensitive":true,"entities":[{"value":"46823","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":732,"content":"카드 영수증 서식을 우편번호 57934 로 보냅니다. 그리고 매출전표로 사용됩니다.","has_sensitive":true,"entities":[{"value":"57934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":733,"content":"간이 영수증 양식을 우편번호 68045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"68045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":734,"content":"정식 영수증 서식은 우편번호 79156 로 제공됩니다. 아울러 법적 효력이 있습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":735,"content":"간이 세금계산서 양식을 우편번호 80267 로 보냅니다. 다만 간소화된 양식입니다.","has_sensitive":true,"entities":[{"value":"80267","begin":18,"end":23,"label":"POSTAL_CODE"}]}
+{"id":736,"content":"정규 세금계산서 서식을 우편번호 91378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"91378","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":737,"content":"전자 세금계산서 양식은 우편번호 02489 로 발송됩니다. 참고로 국세청에 전송됩니다.","has_sensitive":true,"entities":[{"value":"02489","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":738,"content":"종이 세금계산서 서식을 우편번호 14590 로 보냅니다. 그리고 직접 교부됩니다.","has_sensitive":true,"entities":[{"value":"14590","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":739,"content":"수정 세금계산서 양식을 우편번호 25601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"25601","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":740,"content":"거래 명세서 서식은 우편번호 36712 로 제공됩니다. 아울러 거래 내역이 있습니다.","has_sensitive":true,"entities":[{"value":"36712","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":741,"content":"입금 확인증 양식을 우편번호 47823 로 보냅니다. 다만 입금 증빙용입니다.","has_sensitive":true,"entities":[{"value":"47823","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":742,"content":"출금 내역서 서식을 우편번호 58934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"58934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":743,"content":"거래 내역서 양식은 우편번호 69045 로 발송됩니다. 참고로 전체 내역이 있습니다.","has_sensitive":true,"entities":[{"value":"69045","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":744,"content":"잔액 증명서 서식을 우편번호 70156 로 보냅니다. 그리고 잔고를 증명합니다.","has_sensitive":true,"entities":[{"value":"70156","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":745,"content":"계좌 개설 양식을 우편번호 81267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"81267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":746,"content":"계좌 해지 서식은 우편번호 92378 로 제공됩니다. 아울러 잔액을 확인하세요.","has_sensitive":true,"entities":[{"value":"92378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":747,"content":"통장 재발급 양식을 우편번호 03489 로 보냅니다. 다만 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"03489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":748,"content":"체크카드 발급 서식을 우편번호 15590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"15590","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":749,"content":"신용카드 신청 양식은 우편번호 26601 로 발송됩니다. 참고로 심사가 필요합니다.","has_sensitive":true,"entities":[{"value":"26601","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":750,"content":"카드 해지 서식을 우편번호 37712 로 보냅니다. 그리고 미사용 금액을 환급합니다.","has_sensitive":true,"entities":[{"value":"37712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":751,"content":"한도 증액 양식을 우편번호 48823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"48823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":752,"content":"한도 감액 서식은 우편번호 59934 로 제공됩니다. 아울러 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"59934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":753,"content":"결제일 변경 양식을 우편번호 60045 로 보냅니다. 다만 다음 달부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"60045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":754,"content":"자동 이체 등록 서식을 우편번호 71156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"71156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":755,"content":"자동 이체 해지 양식은 우편번호 82267 로 발송됩니다. 참고로 다음 달부터 중지됩니다.","has_sensitive":true,"entities":[{"value":"82267","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":756,"content":"이체 한도 변경 서식을 우편번호 93378 로 보냅니다. 그리고 보안 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"93378","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":757,"content":"송금 확인서 양식을 우편번호 04489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"04489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":758,"content":"수취 확인서 서식은 우편번호 16590 로 제공됩니다. 아울러 입금을 증명합니다.","has_sensitive":true,"entities":[{"value":"16590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":759,"content":"해외 송금 양식을 우편번호 27601 로 보냅니다. 다만 환율이 적용됩니다.","has_sensitive":true,"entities":[{"value":"27601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":760,"content":"국내 송금 서식을 우편번호 38712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"38712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":761,"content":"실시간 송금 양식은 우편번호 49823 로 발송됩니다. 참고로 즉시 입금됩니다.","has_sensitive":true,"entities":[{"value":"49823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":762,"content":"예약 송금 서식을 우편번호 50934 로 보냅니다. 그리고 지정일에 이체됩니다.","has_sensitive":true,"entities":[{"value":"50934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":763,"content":"대량 이체 양식을 우편번호 61045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"61045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":764,"content":"소액 이체 서식은 우편번호 72156 로 제공됩니다. 아울러 수수료가 면제됩니다.","has_sensitive":true,"entities":[{"value":"72156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":765,"content":"고액 이체 양식을 우편번호 83267 로 보냅니다. 다만 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"83267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":766,"content":"정기 적금 서식을 우편번호 94378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"94378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":767,"content":"자유 적금 양식은 우편번호 05489 로 발송됩니다. 참고로 금액이 자유롭습니다.","has_sensitive":true,"entities":[{"value":"05489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":768,"content":"정기 예금 서식을 우편번호 17590 로 보냅니다. 그리고 만기까지 유지됩니다.","has_sensitive":true,"entities":[{"value":"17590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":769,"content":"자유 예금 양식을 우편번호 28601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"28601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":770,"content":"청약 통장 서식은 우편번호 39712 로 제공됩니다. 아울러 주택 청약용입니다.","has_sensitive":true,"entities":[{"value":"39712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":771,"content":"저축 통장 양식을 우편번호 40823 로 보냅니다. 다만 이자가 발생합니다.","has_sensitive":true,"entities":[{"value":"40823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":772,"content":"입출금 통장 서식을 우편번호 51934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"51934","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":773,"content":"외화 통장 양식은 우편번호 62045 로 발송됩니다. 참고로 환전이 가능합니다.","has_sensitive":true,"entities":[{"value":"62045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":774,"content":"원화 통장 서식을 우편번호 73156 로 보냅니다. 그리고 기본 계좌입니다.","has_sensitive":true,"entities":[{"value":"73156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":775,"content":"급여 통장 양식을 우편번호 84267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"84267","begin":14,"end":19,"label":"POSTAL_CODE"}|}
+{"id":776,"content":"연금 통장 서식은 우편번호 95378 로 제공됩니다. 아울러 연금 수령용입니다.","has_sensitive":true,"entities":[{"value":"95378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":777,"content":"어린이 통장 양식을 우편번호 06489 로 보냅니다. 다만 보호자 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"06489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":778,"content":"청소년 통장 서식을 우편번호 18590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"18590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":779,"content":"성인 전용 양식은 우편번호 29601 로 발송됩니다. 참고로 만 19세 이상만 가능합니다.","has_sensitive":true,"entities":[{"value":"29601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":780,"content":"시니어 통장 서식을 우편번호 30712 로 보냅니다. 그리고 우대 금리가 적용됩니다.","has_sensitive":true,"entities":[{"value":"30712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":781,"content":"일반 고객 양식을 우편번호 41823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"41823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":782,"content":"VIP 고객 서식은 우편번호 52934 로 제공됩니다. 아울러 프리미엄 서비스입니다.","has_sensitive":true,"entities":[{"value":"52934","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":783,"content":"우수 고객 양식을 우편번호 63045 로 보냅니다. 다만 특별 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"63045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":784,"content":"신규 고객 서식을 우편번호 74156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"74156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":785,"content":"기존 고객 양식은 우편번호 85267 로 발송됩니다. 참고로 추가 절차가 간소합니다.","has_sensitive":true,"entities":[{"value":"85267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":786,"content":"휴면 고객 서식을 우편번호 96378 로 보냅니다. 그리고 재활성화가 필요합니다.","has_sensitive":true,"entities":[{"value":"96378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":787,"content":"탈퇴 고객 양식을 우편번호 07489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"07489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":788,"content":"복귀 고객 서식은 우편번호 19590 로 제공됩니다. 아울러 환영 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":789,"content":"추천 고객 양식을 우편번호 20601 로 보냅니다. 다만 추천인 정보를 기재하세요.","has_sensitive":true,"entities":[{"value":"20601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":790,"content":"초대 고객 서식을 우편번호 31712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"31712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":791,"content":"제휴 고객 양식은 우편번호 42823 로 발송됩니다. 참고로 제휴사 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"42823","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":792,"content":"일반 회원 서식을 우편번호 53934 로 보냅니다. 그리고 기본 등급입니다.","has_sensitive":true,"entities":[{"value":"53934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":793,"content":"골드 회원 양식을 우편번호 64045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"64045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":794,"content":"플래티넘 회원 서식은 우편번호 75156 로 제공됩니다. 아울러 최상위 등급입니다.","has_sensitive":true,"entities":[{"value":"75156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":795,"content":"다이아 회원 양식을 우편번호 86267 로 보냅니다. 다만 초대받은 회원만 가능합니다.","has_sensitive":true,"entities":[{"value":"86267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":796,"content":"실버 회원 서식을 우편번호 97378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"97378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":797,"content":"브론즈 회원 양식은 우편번호 08489 로 발송됩니다. 참고로 진입 등급입니다.","has_sensitive":true,"entities":[{"value":"08489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":798,"content":"화이트 회원 서식을 우편번호 10590 로 보냅니다. 그리고 준회원 자격입니다.","has_sensitive":true,"entities":[{"value":"10590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":799,"content":"블랙 회원 양식을 우편번호 21601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"21601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":800,"content":"정회원 서식은 우편번호 32712 로 제공됩니다. 아울러 모든 권한이 있습니다.","has_sensitive":true,"entities":[{"value":"32712","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":801,"content":"준회원 양식을 우편번호 43823 로 보냅니다. 다만 일부 기능이 제한됩니다.","has_sensitive":true,"entities":[{"value":"43823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":802,"content":"임시 회원 서식을 우편번호 54934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"54934","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":803,"content":"평생 회원 양식은 우편번호 65045 로 발송됩니다. 참고로 만료일이 없습니다.","has_sensitive":true,"entities":[{"value":"65045","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":804,"content":"기간제 회원 서식을 우편번호 76156 로 보냅니다. 그리고 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"76156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":805,"content":"무료 회원 양식을 우편번호 87267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"87267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":806,"content":"유료 회원 서식은 우편번호 98378 로 제공됩니다. 아울러 연회비가 있습니다.","has_sensitive":true,"entities":[{"value":"98378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":807,"content":"월 구독 양식을 우편번호 09489 로 보냅니다. 다만 매월 자동 결제됩니다.","has_sensitive":true,"entities":[{"value":"09489","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":808,"content":"연 구독 서식을 우편번호 11590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"11590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":809,"content":"평생 구독 양식은 우편번호 22601 로 발송됩니다. 참고로 일회 결제로 영구 이용됩니다.","has_sensitive":true,"entities":[{"value":"22601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":810,"content":"체험 구독 서식을 우편번호 33712 로 보냅니다. 그리고 일정 기간 무료입니다.","has_sensitive":true,"entities":[{"value":"33712","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":811,"content":"프리미엄 구독 양식을 우편번호 44823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"44823","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":812,"content":"베이직 구독 서식은 우편번호 55934 로 제공됩니다. 아울러 기본 요금제입니다.","has_sensitive":true,"entities":[{"value":"55934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":813,"content":"스탠다드 구독 양식을 우편번호 66045 로 보냅니다. 다만 중간 등급입니다.","has_sensitive":true,"entities":[{"value":"66045","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":814,"content":"프로 구독 서식을 우편번호 77156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"77156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":815,"content":"엔터프라이즈 양식은 우편번호 88267 로 발송됩니다. 참고로 기업용입니다.","has_sensitive":true,"entities":[{"value":"88267","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":816,"content":"개인 요금제 서식을 우편번호 99378 로 보냅니다. 그리고 1인 사용자용입니다.","has_sensitive":true,"entities":[{"value":"99378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":817,"content":"가족 요금제 양식을 우편번호 00489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"00489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":818,"content":"단체 요금제 서식은 우편번호 12590 로 제공됩니다. 아울러 5인 이상부터 가능합니다.","has_sensitive":true,"entities":[{"value":"12590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":819,"content":"학생 요금제 양식을 우편번호 23601 로 보냅니다. 다만 학생증 제시가 필요합니다.","has_sensitive":true,"entities":[{"value":"23601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":820,"content":"직장인 요금제 서식을 우편번호 34712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"34712","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":821,"content":"노인 요금제 양식은 우편번호 45823 로 발송됩니다. 참고로 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"45823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":822,"content":"장애인 요금제 서식을 우편번호 56934 로 보냅니다. 그리고 특별 할인이 있습니다.","has_sensitive":true,"entities":[{"value":"56934","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":823,"content":"군인 요금제 양식을 우편번호 67045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"67045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":824,"content":"공무원 요금제 서식은 우편번호 78156 로 제공됩니다. 아울러 신분증 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"78156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":825,"content":"교직원 요금제 양식을 우편번호 89267 로 보냅니다. 다만 재직 증명서가 필요합니다.","has_sensitive":true,"entities":[{"value":"89267","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":826,"content":"프리랜서 양식을 우편번호 90378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"90378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":827,"content":"사업자 요금제 서식은 우편번호 01489 로 발송됩니다. 참고로 사업자등록증이 필요합니다.","has_sensitive":true,"entities":[{"value":"01489","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":828,"content":"창업자 지원 양식을 우편번호 13590 로 보냅니다. 그리고 초기 할인을 제공합니다.","has_sensitive":true,"entities":[{"value":"13590","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":829,"content":"스타트업 서식을 우편번호 24601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"24601","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":830,"content":"중소기업 양식은 우편번호 35712 로 제공됩니다. 아울러 우대 조건이 있습니다.","has_sensitive":true,"entities":[{"value":"35712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":831,"content":"대기업 서식을 우편번호 46823 로 보냅니다. 다만 별도 계약이 필요합니다.","has_sensitive":true,"entities":[{"value":"46823","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":832,"content":"비영리 단체 양식을 우편번호 57934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"57934","begin":16,"end":21,"label":"POSTAL_CODE"}]}
+{"id":833,"content":"영리 단체 서식은 우편번호 68045 로 발송됩니다. 참고로 정상 요금이 적용됩니다.","has_sensitive":true,"entities":[{"value":"68045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":834,"content":"교육 기관 양식을 우편번호 79156 로 보냅니다. 그리고 교육 목적 할인이 있습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":835,"content":"의료 기관 서식을 우편번호 80267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"80267","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":836,"content":"공공 기관 양식은 우편번호 91378 로 제공됩니다. 아울러 특별 계약이 가능합니다.","has_sensitive":true,"entities":[{"value":"91378","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":837,"content":"민간 기관 서식을 우편번호 02489 로 보냅니다. 다만 일반 요금이 적용됩니다.","has_sensitive":true,"entities":[{"value":"02489","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":838,"content":"연구소 양식을 우편번호 14590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"14590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":839,"content":"연구원 서식은 우편번호 25601 로 발송됩니다. 참고로 연구 목적 지원이 있습니다.","has_sensitive":true,"entities":[{"value":"25601","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":840,"content":"실험실 양식을 우편번호 36712 로 보냅니다. 그리고 안전 규정을 준수하세요.","has_sensitive":true,"entities":[{"value":"36712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":841,"content":"작업장 서식을 우편번호 47823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"47823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":842,"content":"공장 양식은 우편번호 58934 로 제공됩니다. 아울러 산업용 요금제입니다.","has_sensitive":true,"entities":[{"value":"58934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":843,"content":"창고 서식을 우편번호 69045 로 보냅니다. 다만 물류 전용입니다.","has_sensitive":true,"entities":[{"value":"69045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":844,"content":"매장 양식을 우편번호 70156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"70156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":845,"content":"점포 서식은 우편번호 81267 로 발송됩니다. 참고로 소매업 전용입니다.","has_sensitive":true,"entities":[{"value":"81267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":846,"content":"백화점 양식을 우편번호 92378 로 보냅니다. 그리고 대형 유통 요금제입니다.","has_sensitive":true,"entities":[{"value":"92378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":847,"content":"마트 서식을 우편번호 03489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"03489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":848,"content":"편의점 양식은 우편번호 15590 로 제공됩니다. 아울러 24시간 운영용입니다.","has_sensitive":true,"entities":[{"value":"15590","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":849,"content":"카페 서식을 우편번호 26601 로 보냅니다. 다만 음식점업 요금제입니다.","has_sensitive":true,"entities":[{"value":"26601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":850,"content":"음식점 양식을 우편번호 37712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"37712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":851,"content":"레스토랑 서식은 우편번호 48823 로 발송됩니다. 참고로 고급 요식업용입니다.","has_sensitive":true,"entities":[{"value":"48823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":852,"content":"호텔 양식을 우편번호 59934 로 보냅니다. 그리고 숙박업 전용입니다.","has_sensitive":true,"entities":[{"value":"59934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":853,"content":"모텔 서식을 우편번호 60045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"60045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":854,"content":"펜션 양식은 우편번호 71156 로 제공됩니다. 아울러 휴양 시설용입니다.","has_sensitive":true,"entities":[{"value":"71156","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":855,"content":"리조트 서식을 우편번호 82267 로 보냅니다. 다만 종합 휴양지용입니다.","has_sensitive":true,"entities":[{"value":"82267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":856,"content":"병원 양식을 우편번호 93378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"93378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":857,"content":"의원 서식은 우편번호 04489 로 발송됩니다. 참고로 1차 의료기관용입니다.","has_sensitive":true,"entities":[{"value":"04489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":858,"content":"한의원 양식을 우편번호 16590 로 보냅니다. 그리고 한방 의료용입니다.","has_sensitive":true,"entities":[{"value":"16590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":859,"content":"치과 서식을 우편번호 27601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"27601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":860,"content":"약국 양식은 우편번호 38712 로 제공됩니다. 아울러 약사법을 준수하세요.","has_sensitive":true,"entities":[{"value":"38712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":861,"content":"미용실 서식을 우편번호 49823 로 보냅니다. 다만 미용업 전용입니다.","has_sensitive":true,"entities":[{"value":"49823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":862,"content":"이발소 양식을 우편번호 50934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"50934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":863,"content":"네일샵 서식은 우편번호 61045 로 발송됩니다. 참고로 뷰티업 전용입니다.","has_sensitive":true,"entities":[{"value":"61045","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":864,"content":"피부과 양식을 우편번호 72156 로 보냅니다. 그리고 피부 관리 전문입니다.","has_sensitive":true,"entities":[{"value":"72156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":865,"content":"성형외과 서식을 우편번호 83267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"83267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":866,"content":"한약방 양식은 우편번호 94378 로 제공됩니다. 아울러 한약 조제용입니다.","has_sensitive":true,"entities":[{"value":"94378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":867,"content":"건강원 서식을 우편번호 05489 로 보냅니다. 다만 건강식품 전문입니다.","has_sensitive":true,"entities":[{"value":"05489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":868,"content":"헬스장 양식을 우편번호 17590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"17590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":869,"content":"수영장 서식은 우편번호 28601 로 발송됩니다. 참고로 수영 교육용입니다.","has_sensitive":true,"entities":[{"value":"28601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":870,"content":"체육관 양식을 우편번호 39712 로 보냅니다. 그리고 체육 시설용입니다.","has_sensitive":true,"entities":[{"value":"39712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":871,"content":"골프장 서식을 우편번호 40823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"40823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":872,"content":"테니스장 양식은 우편번호 51934 로 제공됩니다. 아울러 코트 예약용입니다.","has_sensitive":true,"entities":[{"value":"51934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":873,"content":"볼링장 서식을 우편번호 62045 로 보냅니다. 다만 레인 예약이 필요합니다.","has_sensitive":true,"entities":[{"value":"62045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":874,"content":"당구장 양식을 우편번호 73156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"73156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":875,"content":"노래방 서식은 우편번호 84267 로 발송됩니다. 참고로 룸 예약용입니다.","has_sensitive":true,"entities":[{"value":"84267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":876,"content":"PC방 양식을 우편번호 95378 로 보냅니다. 그리고 게임방 전용입니다.","has_sensitive":true,"entities":[{"value":"95378","begin":12,"end":17,"label":"POSTAL_CODE"}]}
+{"id":877,"content":"오락실 서식을 우편번호 06489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"06489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":878,"content":"극장 양식은 우편번호 18590 로 제공됩니다. 아울러 영화관 전용입니다.","has_sensitive":true,"entities":[{"value":"18590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":879,"content":"공연장 서식을 우편번호 29601 로 보냅니다. 다만 공연 예약용입니다.","has_sensitive":true,"entities":[{"value":"29601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":880,"content":"박물관 양식을 우편번호 30712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"30712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":881,"content":"미술관 서식은 우편번호 41823 로 발송됩니다. 참고로 전시 관람용입니다.","has_sensitive":true,"entities":[{"value":"41823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":882,"content":"도서관 양식을 우편번호 52934 로 보냅니다. 그리고 회원 가입용입니다.","has_sensitive":true,"entities":[{"value":"52934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":883,"content":"서점 서식을 우편번호 63045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"63045","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":884,"content":"문구점 양식은 우편번호 74156 로 제공됩니다. 아울러 학용품 판매용입니다.","has_sensitive":true,"entities":[{"value":"74156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":885,"content":"꽃집 서식을 우편번호 85267 로 보냅니다. 다만 화훼 판매용입니다.","has_sensitive":true,"entities":[{"value":"85267","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":886,"content":"애완동물샵 양식을 우편번호 96378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"96378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":887,"content":"동물병원 서식은 우편번호 07489 로 발송됩니다. 참고로 수의사가 필요합니다.","has_sensitive":true,"entities":[{"value":"07489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":888,"content":"세탁소 양식을 우편번호 19590 로 보냅니다. 그리고 세탁업 전용입니다.","has_sensitive":true,"entities":[{"value":"19590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":889,"content":"세차장 서식을 우편번호 20601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"20601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":890,"content":"주유소 양식은 우편번호 31712 로 제공됩니다. 아울러 석유 판매업입니다.","has_sensitive":true,"entities":[{"value":"31712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":891,"content":"정비소 서식을 우편번호 42823 로 보냅니다. 다만 자동차 수리용입니다.","has_sensitive":true,"entities":[{"value":"42823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":892,"content":"카센터 양식을 우편번호 53934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"53934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":893,"content":"렌터카 서식은 우편번호 64045 로 발송됩니다. 참고로 차량 대여업입니다.","has_sensitive":true,"entities":[{"value":"64045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":894,"content":"주차장 양식을 우편번호 75156 로 보냅니다. 그리고 주차 관리용입니다.","has_sensitive":true,"entities":[{"value":"75156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":895,"content":"부동산 서식을 우편번호 86267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"86267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":896,"content":"공인중개사 양식은 우편번호 97378 로 제공됩니다. 아울러 중개업 전용입니다.","has_sensitive":true,"entities":[{"value":"97378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":897,"content":"법무사 서식을 우편번호 08489 로 보냅니다. 다만 법률 서비스용입니다.","has_sensitive":true,"entities":[{"value":"08489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":898,"content":"변호사 양식을 우편번호 10590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"10590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":899,"content":"회계사 서식은 우편번호 21601 로 발송됩니다. 참고로 회계 업무용입니다.","has_sensitive":true,"entities":[{"value":"21601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":900,"content":"세무사 양식을 우편번호 32712 로 보냅니다. 그리고 세무 상담용입니다.","has_sensitive":true,"entities":[{"value":"32712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":901,"content":"행정사 서식을 우편번호 43823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"43823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":902,"content":"노무사 양식은 우편번호 54934 로 제공됩니다. 아울러 노무 관리용입니다.","has_sensitive":true,"entities":[{"value":"54934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":903,"content":"관세사 서식을 우편번호 65045 로 보냅니다. 다만 통관 업무용입니다.","has_sensitive":true,"entities":[{"value":"65045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":904,"content":"감정평가사 양식을 우편번호 76156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"76156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":905,"content":"보험설계사 서식은 우편번호 87267 로 발송됩니다. 참고로 보험 상담용입니다.","has_sensitive":true,"entities":[{"value":"87267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":906,"content":"투자상담사 양식을 우편번호 98378 로 보냅니다. 그리고 자산 관리용입니다.","has_sensitive":true,"entities":[{"value":"98378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":907,"content":"여행사 서식을 우편번호 09489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"09489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":908,"content":"항공사 양식은 우편번호 11590 로 제공됩니다. 아울러 항공 운송업입니다.","has_sensitive":true,"entities":[{"value":"11590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":909,"content":"운송회사 서식을 우편번호 22601 로 보냅니다. 다만 물류 운송용입니다.","has_sensitive":true,"entities":[{"value":"22601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":910,"content":"택배회사 양식을 우편번호 33712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"33712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":911,"content":"통신사 서식은 우편번호 44823 로 발송됩니다. 참고로 이동통신 전용입니다.","has_sensitive":true,"entities":[{"value":"44823","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":912,"content":"방송사 양식을 우편번호 55934 로 보냅니다. 그리고 방송 제작용입니다.","has_sensitive":true,"entities":[{"value":"55934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":913,"content":"신문사 서식을 우편번호 66045 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"66045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":914,"content":"출판사 양식은 우편번호 77156 로 제공됩니다. 아울러 출판 사업용입니다.","has_sensitive":true,"entities":[{"value":"77156","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":915,"content":"광고대행사 서식을 우편번호 88267 로 보냅니다. 다만 광고 제작용입니다.","has_sensitive":true,"entities":[{"value":"88267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":916,"content":"마케팅회사 양식을 우편번호 99378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"99378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":917,"content":"컨설팅회사 서식은 우편번호 00489 로 발송됩니다. 참고로 경영 자문용입니다.","has_sensitive":true,"entities":[{"value":"00489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":918,"content":"IT회사 양식을 우편번호 12590 로 보냅니다. 그리고 정보기술 전문입니다.","has_sensitive":true,"entities":[{"value":"12590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":919,"content":"소프트웨어 서식을 우편번호 23601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"23601","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":920,"content":"게임회사 양식은 우편번호 34712 로 제공됩니다. 아울러 게임 개발용입니다.","has_sensitive":true,"entities":[{"value":"34712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":921,"content":"엔터테인먼트 서식을 우편번호 45823 로 보냅니다. 다만 연예 기획용입니다.","has_sensitive":true,"entities":[{"value":"45823","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":922,"content":"음반회사 양식을 우편번호 56934 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"56934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":923,"content":"영화사 서식은 우편번호 67045 로 발송됩니다. 참고로 영화 제작용입니다.","has_sensitive":true,"entities":[{"value":"67045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":924,"content":"드라마 제작사 양식을 우편번호 78156 로 보냅니다. 그리고 드라마 제작용입니다.","has_sensitive":true,"entities":[{"value":"78156","begin":17,"end":22,"label":"POSTAL_CODE"}]}
+{"id":925,"content":"애니메이션 서식을 우편번호 89267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"89267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":926,"content":"디자인회사 양식은 우편번호 90378 로 제공됩니다. 아울러 디자인 전문입니다.","has_sensitive":true,"entities":[{"value":"90378","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":927,"content":"건축사무소 서식을 우편번호 01489 로 보냅니다. 다만 건축 설계용입니다.","has_sensitive":true,"entities":[{"value":"01489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":928,"content":"인테리어 양식을 우편번호 13590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"13590","begin":14,"end":19,"label":"POSTAL_CODE"}]}
+{"id":929,"content":"시공사 서식은 우편번호 24601 로 발송됩니다. 참고로 건설 전문입니다.","has_sensitive":true,"entities":[{"value":"24601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":930,"content":"조경회사 양식을 우편번호 35712 로 보냅니다. 그리고 정원 조성용입니다.","has_sensitive":true,"entities":[{"value":"35712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":931,"content":"청소업체 서식을 우편번호 46823 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"46823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":932,"content":"경비업체 양식은 우편번호 57934 로 제공됩니다. 아울러 보안 서비스용입니다.","has_sensitive":true,"entities":[{"value":"57934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":933,"content":"용역회사 서식을 우편번호 68045 로 보냅니다. 다만 각종 용역 서비스용입니다.","has_sensitive":true,"entities":[{"value":"68045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":934,"content":"인력파견 양식을 우편번호 79156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"79156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":935,"content":"구인구직 서식은 우편번호 80267 로 발송됩니다. 참고로 채용 공고용입니다.","has_sensitive":true,"entities":[{"value":"80267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":936,"content":"헤드헌팅 양식을 우편번호 91378 로 보냅니다. 그리고 인재 추천용입니다.","has_sensitive":true,"entities":[{"value":"91378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":937,"content":"교육업체 서식을 우편번호 02489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"02489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":938,"content":"학원 양식은 우편번호 14590 로 제공됩니다. 아울러 학원 등록용입니다.","has_sensitive":true,"entities":[{"value":"14590","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":939,"content":"과외 서식을 우편번호 25601 로 보냅니다. 다만 개인 교습용입니다.","has_sensitive":true,"entities":[{"value":"25601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":940,"content":"유치원 양식을 우편번호 36712 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"36712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":941,"content":"어린이집 서식은 우편번호 47823 로 발송됩니다. 참고로 보육시설용입니다.","has_sensitive":true,"entities":[{"value":"47823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":942,"content":"놀이방 양식을 우편번호 58934 로 보냅니다. 그리고 아동 보육용입니다.","has_sensitive":true,"entities":[{"value":"58934","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":943,"content":"키즈카페 서식을 우편번호 69045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"69045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":944,"content":"체험학습 양식은 우편번호 70156 로 제공됩니다. 아울러 현장 학습용입니다.","has_sensitive":true,"entities":[{"value":"70156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":945,"content":"방과후교실 서식을 우편번호 81267 로 보냅니다. 다만 학교 프로그램용입니다.","has_sensitive":true,"entities":[{"value":"81267","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":946,"content":"독서실 양식을 우편번호 92378 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"92378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":947,"content":"스터디카페 서식은 우편번호 03489 로 발송됩니다. 참고로 학습 공간용입니다.","has_sensitive":true,"entities":[{"value":"03489","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":948,"content":"코워킹스페이스 양식을 우편번호 15590 로 보냅니다. 그리고 공유 오피스용입니다.","has_sensitive":true,"entities":[{"value":"15590","begin":19,"end":24,"label":"POSTAL_CODE"}]}
+{"id":949,"content":"사무실 서식을 우편번호 26601 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"26601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":950,"content":"회의실 양식은 우편번호 37712 로 제공됩니다. 아울러 회의 예약용입니다.","has_sensitive":true,"entities":[{"value":"37712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":951,"content":"세미나실 서식을 우편번호 48823 로 보냅니다. 다만 대관 신청용입니다.","has_sensitive":true,"entities":[{"value":"48823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":952,"content":"강당 양식을 우편번호 59934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"59934","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":953,"content":"공연장 서식은 우편번호 60045 로 발송됩니다. 참고로 공연장 대관용입니다.","has_sensitive":true,"entities":[{"value":"60045","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":954,"content":"스튜디오 양식을 우편번호 71156 로 보냅니다. 그리고 촬영 스튜디오용입니다.","has_sensitive":true,"entities":[{"value":"71156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":955,"content":"녹음실 서식을 우편번호 82267 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"82267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":956,"content":"연습실 양식은 우편번호 93378 로 제공됩니다. 아울러 음악 연습용입니다.","has_sensitive":true,"entities":[{"value":"93378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":957,"content":"댄스학원 서식을 우편번호 04489 로 보냅니다. 다만 무용 교육용입니다.","has_sensitive":true,"entities":[{"value":"04489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":958,"content":"음악학원 양식을 우편번호 16590 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"16590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":959,"content":"미술학원 서식은 우편번호 27601 로 발송됩니다. 참고로 미술 교육용입니다.","has_sensitive":true,"entities":[{"value":"27601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":960,"content":"컴퓨터학원 양식을 우편번호 38712 로 보냅니다. 그리고 IT 교육용입니다.","has_sensitive":true,"entities":[{"value":"38712","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":961,"content":"외국어학원 서식을 우편번호 49823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"49823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":962,"content":"영어학원 양식은 우편번호 50934 로 제공됩니다. 아울러 영어 전문 교육용입니다.","has_sensitive":true,"entities":[{"value":"50934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":963,"content":"중국어학원 서식을 우편번호 61045 로 보냅니다. 다만 중국어 교육용입니다.","has_sensitive":true,"entities":[{"value":"61045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":964,"content":"일본어학원 양식을 우편번호 72156 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"72156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":965,"content":"수학학원 서식은 우편번호 83267 로 발송됩니다. 참고로 수학 전문 교육용입니다.","has_sensitive":true,"entities":[{"value":"83267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":966,"content":"과학학원 양식을 우편번호 94378 로 보냅니다. 그리고 과학 실험 교육용입니다.","has_sensitive":true,"entities":[{"value":"94378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":967,"content":"독서논술 서식을 우편번호 05489 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"05489","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":968,"content":"논술학원 양식은 우편번호 17590 로 제공됩니다. 아울러 논술 지도용입니다.","has_sensitive":true,"entities":[{"value":"17590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":969,"content":"입시학원 서식을 우편번호 28601 로 보냅니다. 다만 입시 대비용입니다.","has_sensitive":true,"entities":[{"value":"28601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":970,"content":"검정고시 양식을 우편번호 39712 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"39712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":971,"content":"자격증학원 서식은 우편번호 40823 로 발송됩니다. 참고로 자격증 취득용입니다.","has_sensitive":true,"entities":[{"value":"40823","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":972,"content":"기술학원 양식을 우편번호 51934 로 보냅니다. 그리고 기술 교육용입니다.","has_sensitive":true,"entities":[{"value":"51934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":973,"content":"직업훈련소 서식을 우편번호 62045 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"62045","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":974,"content":"평생교육원 양식은 우편번호 73156 로 제공됩니다. 아울러 평생 학습용입니다.","has_sensitive":true,"entities":[{"value":"73156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":975,"content":"문화센터 서식을 우편번호 84267 로 보냅니다. 다만 문화 강좌용입니다.","has_sensitive":true,"entities":[{"value":"84267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":976,"content":"복지관 양식을 우편번호 95378 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"95378","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":977,"content":"경로당 서식은 우편번호 06489 로 발송됩니다. 참고로 노인 복지용입니다.","has_sensitive":true,"entities":[{"value":"06489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":978,"content":"노인정 양식을 우편번호 18590 로 보냅니다. 그리고 어르신 시설용입니다.","has_sensitive":true,"entities":[{"value":"18590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":979,"content":"요양원 서식을 우편번호 29601 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"29601","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":980,"content":"양로원 양식은 우편번호 30712 로 제공됩니다. 아울러 노인 요양용입니다.","has_sensitive":true,"entities":[{"value":"30712","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":981,"content":"재활센터 서식을 우편번호 41823 로 보냅니다. 다만 재활 치료용입니다.","has_sensitive":true,"entities":[{"value":"41823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":982,"content":"보육시설 양식을 우편번호 52934 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"52934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":983,"content":"사회복지 서식은 우편번호 63045 로 발송됩니다. 참고로 복지 서비스용입니다.","has_sensitive":true,"entities":[{"value":"63045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":984,"content":"자원봉사 양식을 우편번호 74156 로 보냅니다. 그리고 봉사 활동용입니다.","has_sensitive":true,"entities":[{"value":"74156","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":985,"content":"기부금 서식을 우편번호 85267 지역으로 발송 완료했습니다.","has_sensitive":true,"entities":[{"value":"85267","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":986,"content":"후원 양식은 우편번호 96378 로 제공됩니다. 아울러 정기 후원용입니다.","has_sensitive":true,"entities":[{"value":"96378","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":987,"content":"기증 서식을 우편번호 07489 로 보냅니다. 다만 물품 기증용입니다.","has_sensitive":true,"entities":[{"value":"07489","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":988,"content":"자선단체 양식을 우편번호 19590 지역으로 배포했습니다.","has_sensitive":true,"entities":[{"value":"19590","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":989,"content":"NGO 서식은 우편번호 20601 로 발송됩니다. 참고로 비정부기구용입니다.","has_sensitive":true,"entities":[{"value":"20601","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":990,"content":"NPO 양식을 우편번호 31712 로 보냅니다. 그리고 비영리단체용입니다.","has_sensitive":true,"entities":[{"value":"31712","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":991,"content":"재단법인 서식을 우편번호 42823 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"42823","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":992,"content":"사단법인 양식은 우편번호 53934 로 제공됩니다. 아울러 법인 설립용입니다.","has_sensitive":true,"entities":[{"value":"53934","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":993,"content":"협동조합 서식을 우편번호 64045 로 보냅니다. 다만 조합 운영용입니다.","has_sensitive":true,"entities":[{"value":"64045","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":994,"content":"사회적기업 양식을 우편번호 75156 지역으로 배포 완료했습니다.","has_sensitive":true,"entities":[{"value":"75156","begin":15,"end":20,"label":"POSTAL_CODE"}]}
+{"id":995,"content":"마을기업 서식은 우편번호 86267 로 발송됩니다. 참고로 지역 공동체용입니다.","has_sensitive":true,"entities":[{"value":"86267","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":996,"content":"커뮤니티 양식을 우편번호 97378 로 보냅니다. 그리고 주민 활동용입니다.","has_sensitive":true,"entities":[{"value":"97378","begin":13,"end":18,"label":"POSTAL_CODE"}]}
+{"id":997,"content":"동호회 서식을 우편번호 08489 지역으로 발송했습니다.","has_sensitive":true,"entities":[{"value":"08489","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":998,"content":"동아리 양식은 우편번호 10590 로 제공됩니다. 아울러 동아리 활동용입니다.","has_sensitive":true,"entities":[{"value":"10590","begin":11,"end":16,"label":"POSTAL_CODE"}]}
+{"id":999,"content":"클럽 서식을 우편번호 21601 로 보냅니다. 다만 회원 모집용입니다.","has_sensitive":true,"entities":[{"value":"21601","begin":10,"end":15,"label":"POSTAL_CODE"}]}
+{"id":1000,"content":"모임 양식을 우편번호 32712 지역으로 배포 완료했습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"32712","begin":10,"end":15,"label":"POSTAL_CODE"}]}
