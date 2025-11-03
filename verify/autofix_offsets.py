@@ -60,6 +60,7 @@ ALLOWED = {
     "MAC_ADDRESS",              # mac 주소
     "IMEI",                     # IMEI
 }
+# ---------------------------------------------------------------------
 
 def normalize_for_compare(s: str, use_nfkc: bool, use_casefold: bool) -> str:
     """비교용 정규화: NFC/NFKC + (옵션) casefold."""

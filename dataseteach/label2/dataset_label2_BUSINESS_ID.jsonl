@@ -1,0 +1,1000 @@
+{"id":1,"content":"사업자 정보 갱신을 위해 확인 절차를 진행합니다. 또한 사업자등록번호 123-45-67890 는 예시 값이며 접수 후 즉시 마스킹됩니다.","has_sensitive":true,"entities":[{"value":"123-45-67890","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":2,"content":"거래처 등록을 위해 필요한 서류를 제출해 주시기 바랍니다. 먼저 귀사의 사업자등록번호 245-81-92034 를 확인하였으며 계약서를 준비 중입니다.","has_sensitive":true,"entities":[{"value":"245-81-92034","begin":54,"end":66,"label":"BUSINESS_ID"}]}
+{"id":3,"content":"세금계산서 발행을 위해 다음 정보를 확인합니다. 사업자등록번호는 387-22-45678 이며 발행일은 오늘 기준입니다.","has_sensitive":true,"entities":[{"value":"387-22-45678","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":4,"content":"협력업체 선정 건으로 연락드립니다. 참고로 사업자번호 512-94-33210 으로 등록된 업체와의 계약을 검토 중입니다.","has_sensitive":true,"entities":[{"value":"512-94-33210","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":5,"content":"입찰 참가를 위한 서류 검토가 완료되었습니다. 귀사의 사업자등록번호 678-15-82947 이 정상적으로 확인되었습니다.","has_sensitive":true,"entities":[{"value":"678-15-82947","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":6,"content":"거래 승인 요청 건에 대해 안내드립니다. 사업자등록번호 891-33-76543 을 기준으로 신용조회가 진행됩니다.","has_sensitive":true,"entities":[{"value":"891-33-76543","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":7,"content":"법인 설립 등기가 완료되어 안내드립니다. 다만 사업자번호 234-56-12098 는 본사 기준이며 지점은 별도입니다.","has_sensitive":true,"entities":[{"value":"234-56-12098","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":8,"content":"정기 세무조사 일정을 공유드립니다. 조사 대상 사업자등록번호는 456-78-90321 이며 다음 주 월요일 예정입니다.","has_sensitive":true,"entities":[{"value":"456-78-90321","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":9,"content":"온라인 쇼핑몰 운영 사업자 정보를 업데이트합니다. 그리고 사업자번호 567-89-01234 가 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"567-89-01234","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":10,"content":"공급계약서 체결을 위한 정보 확인 중입니다. 또한 사업자등록번호 789-01-23456 으로 전자세금계산서가 발행됩니다.","has_sensitive":true,"entities":[{"value":"789-01-23456","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":11,"content":"신규 가맹점 등록 건을 처리하고 있습니다. 사업자번호 890-12-34567 로 확인되며 승인까지 2일 소요 예정입니다.","has_sensitive":true,"entities":[{"value":"890-12-34567","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":12,"content":"부가가치세 신고를 위한 자료를 준비 중입니다. 먼저 사업자등록번호 901-23-45678 이 올바른지 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"901-23-45678","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":13,"content":"도매 거래처 정보가 업데이트되었습니다. 참고로 사업자번호 112-34-56789 를 보유한 업체와 우선 협상합니다.","has_sensitive":true,"entities":[{"value":"112-34-56789","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":14,"content":"프랜차이즈 가맹 계약서를 발송합니다. 본사 사업자등록번호는 223-45-67890 이며 계약 기간은 3년입니다.","has_sensitive":true,"entities":[{"value":"223-45-67890","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":15,"content":"물품 공급 업체 선정이 완료되었습니다. 아울러 사업자번호 334-56-78901 로 등록된 업체가 최종 선정되었습니다.","has_sensitive":true,"entities":[{"value":"334-56-78901","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":16,"content":"건설업 면허 확인 절차를 진행합니다. 귀사의 사업자등록번호 445-67-89012 가 국토부 시스템에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"445-67-89012","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":17,"content":"수출입 통관을 위한 서류를 검토하였습니다. 그리고 사업자번호 556-78-90123 이 관세청에 정상 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"556-78-90123","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":18,"content":"외주 용역 계약 체결 건으로 연락드립니다. 사업자등록번호 667-89-01234 를 기준으로 대금 지급이 진행됩니다.","has_sensitive":true,"entities":[{"value":"667-89-01234","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":19,"content":"식품 제조업 허가증 발급이 완료되었습니다. 다만 사업자번호 778-90-12345 는 본점 소재지 기준으로 발급되었습니다.","has_sensitive":true,"entities":[{"value":"778-90-12345","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":20,"content":"법인 카드 발급 신청이 접수되었습니다. 먼저 사업자등록번호 889-01-23456 의 유효성 검증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"889-01-23456","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":21,"content":"무역업 등록 절차가 진행되고 있습니다. 또한 사업자번호 990-12-34567 로 관세사 대행 업무가 시작됩니다.","has_sensitive":true,"entities":[{"value":"990-12-34567","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":22,"content":"금융기관 대출 심사를 위해 자료를 제출합니다. 참고로 사업자등록번호는 101-23-45678 이며 재무제표도 첨부하였습니다.","has_sensitive":true,"entities":[{"value":"101-23-45678","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":23,"content":"정부 지원금 신청이 완료되었습니다. 신청 사업자번호 212-34-56789 로 결과가 통보될 예정입니다.","has_sensitive":true,"entities":[{"value":"212-34-56789","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":24,"content":"제조업체 품질 인증서를 발급합니다. 아울러 사업자등록번호 323-45-67890 을 보유한 기업에 대한 심사가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"323-45-67890","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":25,"content":"임대차 계약서 작성을 위해 정보를 확인합니다. 그리고 사업자번호 434-56-78901 이 임대인 명의로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"434-56-78901","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":26,"content":"소프트웨어 공급 계약 건입니다. 귀사 사업자등록번호 545-67-89012 를 확인하였으며 라이선스 계약을 준비합니다.","has_sensitive":true,"entities":[{"value":"545-67-89012","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":27,"content":"광고 대행사 선정 결과를 알려드립니다. 다만 사업자번호 656-78-90123 로 등록된 업체의 포트폴리오를 검토 중입니다.","has_sensitive":true,"entities":[{"value":"656-78-90123","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":28,"content":"물류센터 운영 계약을 체결합니다. 먼저 사업자등록번호 767-89-01234 가 정상 확인되었으며 계약서를 발송합니다.","has_sensitive":true,"entities":[{"value":"767-89-01234","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":29,"content":"의료기기 판매업 허가가 승인되었습니다. 또한 사업자번호 878-90-12345 로 식약처 등록이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"878-90-12345","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":30,"content":"인테리어 공사 견적서를 보내드립니다. 참고로 시공사 사업자등록번호는 989-01-23456 이며 보증보험 가입 완료하였습니다.","has_sensitive":true,"entities":[{"value":"989-01-23456","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":31,"content":"전자상거래 사업자 신고가 완료되었습니다. 아울러 사업자번호 100-12-34567 이 통신판매업 신고번호와 연동됩니다.","has_sensitive":true,"entities":[{"value":"100-12-34567","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":32,"content":"컨설팅 용역 대금 지급을 준비합니다. 그리고 사업자등록번호 211-23-45678 로 세금계산서 발행을 요청드립니다.","has_sensitive":true,"entities":[{"value":"211-23-45678","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":33,"content":"화물 운송업 등록증이 발급되었습니다. 사업자번호 322-34-56789 를 기준으로 운송 보험에 가입하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"322-34-56789","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":34,"content":"호텔 예약 시스템 연동 작업을 진행합니다. 다만 사업자등록번호 433-45-67890 은 본사 통합 계정으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"433-45-67890","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":35,"content":"주류 판매업 신고필증을 교부합니다. 먼저 사업자번호 544-56-78901 로 주류 유통 시스템에 등록하셔야 합니다.","has_sensitive":true,"entities":[{"value":"544-56-78901","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":36,"content":"자동차 정비업 등록이 승인되었습니다. 또한 사업자등록번호 655-67-89012 가 교통안전공단에 정상 등록되었습니다.","has_sensitive":true,"entities":[{"value":"655-67-89012","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":37,"content":"보험 대리점 개설 허가를 받았습니다. 참고로 사업자번호 766-78-90123 을 보유하신 분은 교육 이수가 필요합니다.","has_sensitive":true,"entities":[{"value":"766-78-90123","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":38,"content":"학원 설립 인가 신청이 접수되었습니다. 아울러 사업자등록번호 877-89-01234 로 교육청 승인 절차가 진행됩니다.","has_sensitive":true,"entities":[{"value":"877-89-01234","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":39,"content":"부동산 중개업소 개설 등록이 완료되었습니다. 그리고 사업자번호 988-90-12345 가 부동산 거래관리 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"988-90-12345","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":40,"content":"통신판매업 신고증을 발급받았습니다. 귀하의 사업자등록번호 109-01-23456 이 공정거래위원회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"109-01-23456","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":41,"content":"여행사 등록 사항을 변경하였습니다. 다만 사업자번호 210-12-34567 은 기존 정보와 동일하게 유지됩니다.","has_sensitive":true,"entities":[{"value":"210-12-34567","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":42,"content":"화장품 제조 판매업 허가가 발급되었습니다. 먼저 사업자등록번호 321-23-45678 로 식약처 통합정보시스템에 등록하세요.","has_sensitive":true,"entities":[{"value":"321-23-45678","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":43,"content":"건축 설계 사무소 등록증을 교부합니다. 또한 사업자번호 432-34-56789 가 건축사협회에 정회원으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"432-34-56789","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":44,"content":"대형마트 입점 계약을 체결합니다. 참고로 사업자등록번호는 543-45-67890 이며 공급업체 등록이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"543-45-67890","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":45,"content":"소규모 창업 지원금 심사가 진행됩니다. 아울러 사업자번호 654-56-78901 로 신청하신 내용을 검토하고 있습니다.","has_sensitive":true,"entities":[{"value":"654-56-78901","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":46,"content":"환경 컨설팅 업체 등록이 완료되었습니다. 그리고 사업자등록번호 765-67-89012 를 기반으로 사업을 시작하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"765-67-89012","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":47,"content":"세탁소 개업 신고를 접수하였습니다. 귀하의 사업자번호 876-78-90123 이 지자체 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"876-78-90123","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":48,"content":"커피 전문점 가맹 계약서를 발송합니다. 다만 사업자등록번호 987-89-01234 는 가맹점주 개인 사업자번호입니다.","has_sensitive":true,"entities":[{"value":"987-89-01234","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":49,"content":"웹 에이전시 사업자 정보를 업데이트합니다. 먼저 사업자번호 108-90-12345 로 홈택스 전자세금계산서를 발행합니다.","has_sensitive":true,"entities":[{"value":"108-90-12345","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":50,"content":"수입 식품 유통업 신고가 완료되었습니다. 또한 사업자등록번호 219-01-23456 이 검역소 시스템에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"219-01-23456","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":51,"content":"택배 대행 업체 계약 체결 건입니다. 참고로 사업자번호 320-12-34567 을 보유한 업체와 연간 계약을 진행합니다.","has_sensitive":true,"entities":[{"value":"320-12-34567","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":52,"content":"에너지 절약 시설 설치업 등록이 승인되었습니다. 아울러 사업자등록번호 431-23-45678 로 정부 보조금을 신청할 수 있습니다.","has_sensitive":true,"entities":[{"value":"431-23-45678","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":53,"content":"주유소 운영 허가증이 발급되었습니다. 그리고 사업자번호 542-34-56789 가 석유관리원에 정상 등록되었습니다.","has_sensitive":true,"entities":[{"value":"542-34-56789","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":54,"content":"반려동물 용품 쇼핑몰을 운영하고 있습니다. 귀사의 사업자등록번호 653-45-67890 으로 입점 신청이 접수되었습니다.","has_sensitive":true,"entities":[{"value":"653-45-67890","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":55,"content":"마케팅 대행사 업무 계약서를 작성합니다. 다만 사업자번호 764-56-78901 은 지점이 아닌 본점 기준입니다.","has_sensitive":true,"entities":[{"value":"764-56-78901","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":56,"content":"공연 기획사 등록 절차가 완료되었습니다. 먼저 사업자등록번호 875-67-89012 로 문화체육관광부에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"875-67-89012","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":57,"content":"외식업 창업 자금 대출 신청이 접수되었습니다. 또한 사업자번호 986-78-90123 로 신용평가가 진행됩니다.","has_sensitive":true,"entities":[{"value":"986-78-90123","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":58,"content":"IT 개발 업체 협력사로 등록합니다. 참고로 사업자등록번호는 107-89-01234 이며 기술 검증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"107-89-01234","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":59,"content":"온라인 교육 플랫폼 사업자 신고가 완료되었습니다. 아울러 사업자번호 218-90-12345 가 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"218-90-12345","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":60,"content":"농산물 도매시장 입점 계약을 진행합니다. 그리고 사업자등록번호 329-01-23456 을 기준으로 거래처 등록이 완료됩니다.","has_sensitive":true,"entities":[{"value":"329-01-23456","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":61,"content":"인쇄 출판사 사업자 정보를 확인하였습니다. 귀사의 사업자번호 430-12-34567 이 출판문화산업진흥원에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"430-12-34567","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":62,"content":"청소 용역 업체 선정 결과를 통보합니다. 다만 사업자등록번호 541-23-45678 로 등록된 업체가 최종 선정되었습니다.","has_sensitive":true,"entities":[{"value":"541-23-45678","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":63,"content":"헬스클럽 개업 신고를 완료하였습니다. 먼저 사업자번호 652-34-56789 로 체육시설업 등록증을 발급받으셨습니다.","has_sensitive":true,"entities":[{"value":"652-34-56789","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":64,"content":"건강기능식품 판매업 신고가 접수되었습니다. 또한 사업자등록번호 763-45-67890 이 식약처에 정상 등록되었습니다.","has_sensitive":true,"entities":[{"value":"763-45-67890","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":65,"content":"택시 운송 사업 면허가 발급되었습니다. 참고로 사업자번호 874-56-78901 을 보유한 법인은 택시 10대를 운영합니다.","has_sensitive":true,"entities":[{"value":"874-56-78901","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":66,"content":"게임 개발사 협력 계약서를 체결합니다. 아울러 사업자등록번호 985-67-89012 로 게임물등급위원회에 등록하셔야 합니다.","has_sensitive":true,"entities":[{"value":"985-67-89012","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":67,"content":"반도체 부품 공급 업체로 등록합니다. 그리고 사업자번호 106-78-90123 이 협력업체 관리시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"106-78-90123","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":68,"content":"의류 제조업 사업자 정보를 갱신하였습니다. 귀사의 사업자등록번호 217-89-01234 로 수출입 통관이 가능합니다.","has_sensitive":true,"entities":[{"value":"217-89-01234","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":69,"content":"드론 촬영 서비스 사업을 시작합니다. 다만 사업자번호 328-90-12345 는 항공촬영업 허가와 별도로 관리됩니다.","has_sensitive":true,"entities":[{"value":"328-90-12345","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":70,"content":"가구 제작 업체 등록이 완료되었습니다. 먼저 사업자등록번호 439-01-23456 으로 대형 유통업체 납품이 가능합니다.","has_sensitive":true,"entities":[{"value":"439-01-23456","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":71,"content":"음향 장비 렌탈 업체와 계약을 진행합니다. 또한 사업자번호 540-12-34567 로 장비 보험 가입이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"540-12-34567","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":72,"content":"보안 서비스 업체 선정 건입니다. 참고로 사업자등록번호는 651-23-45678 이며 경비업 허가증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"651-23-45678","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":73,"content":"모바일 앱 개발 계약서를 발송합니다. 아울러 사업자번호 762-34-56789 가 소프트웨어산업협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"762-34-56789","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":74,"content":"냉동 창고 운영 허가를 받았습니다. 그리고 사업자등록번호 873-45-67890 으로 식품안전관리 인증을 신청할 수 있습니다.","has_sensitive":true,"entities":[{"value":"873-45-67890","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":75,"content":"미용실 개업 신고가 접수되었습니다. 귀하의 사업자번호 984-56-78901 이 공중위생관리법에 따라 등록되었습니다.","has_sensitive":true,"entities":[{"value":"984-56-78901","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":76,"content":"제약회사 원료 공급 계약을 체결합니다. 다만 사업자등록번호 105-67-89012 는 의약품 제조업 허가번호와 다릅니다.","has_sensitive":true,"entities":[{"value":"105-67-89012","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":77,"content":"중고차 매매 사업자 등록이 완료되었습니다. 먼저 사업자번호 216-78-90123 로 자동차관리법에 따른 신고가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"216-78-90123","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":78,"content":"항공권 발권 대행사와 제휴를 맺습니다. 또한 사업자등록번호 327-89-01234 가 국제항공운송협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"327-89-01234","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":79,"content":"영상 제작 업체 입찰에 참여합니다. 참고로 사업자번호 438-90-12345 를 보유한 업체의 포트폴리오가 우수합니다.","has_sensitive":true,"entities":[{"value":"438-90-12345","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":80,"content":"전기 공사 업체 등록증을 교부합니다. 아울러 사업자등록번호 549-01-23456 으로 전기안전관리자를 선임하셔야 합니다.","has_sensitive":true,"entities":[{"value":"549-01-23456","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":81,"content":"패션 디자인 스튜디오와 협업을 시작합니다. 그리고 사업자번호 650-12-34567 이 문화예술위원회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"650-12-34567","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":82,"content":"피부 관리실 개업 준비를 도와드립니다. 귀하의 사업자등록번호 761-23-45678 로 화장품 판매업 신고도 가능합니다.","has_sensitive":true,"entities":[{"value":"761-23-45678","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":83,"content":"렌터카 사업 허가가 발급되었습니다. 다만 사업자번호 872-34-56789 는 자동차 대여사업 등록번호와 연동됩니다.","has_sensitive":true,"entities":[{"value":"872-34-56789","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":84,"content":"바이오 기업 투자 유치 건을 검토합니다. 먼저 사업자등록번호 983-45-67890 이 벤처기업 인증과 함께 확인됩니다.","has_sensitive":true,"entities":[{"value":"983-45-67890","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":85,"content":"화학 물질 유통업 신고를 완료하였습니다. 또한 사업자번호 104-56-78901 로 환경부 화학물질 등록시스템에 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"104-56-78901","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":86,"content":"악기 판매점 사업자 정보를 업데이트합니다. 참고로 사업자등록번호는 215-67-89012 이며 온라인 쇼핑몰도 운영 중입니다.","has_sensitive":true,"entities":[{"value":"215-67-89012","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":87,"content":"관세사 사무소 개설 등록이 승인되었습니다. 아울러 사업자번호 326-78-90123 이 관세청에 정식 등록되었습니다.","has_sensitive":true,"entities":[{"value":"326-78-90123","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":88,"content":"클라우드 서비스 공급 계약을 체결합니다. 그리고 사업자등록번호 437-89-01234 로 정보보호관리체계 인증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"437-89-01234","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":89,"content":"한의원 개원 신고가 접수되었습니다. 귀하의 사업자번호 548-90-12345 와 의료기관 개설 신고가 함께 처리됩니다.","has_sensitive":true,"entities":[{"value":"548-90-12345","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":90,"content":"친환경 제품 제조업 인증을 받았습니다. 다만 사업자등록번호 659-01-23456 은 환경마크 인증번호와 별도입니다.","has_sensitive":true,"entities":[{"value":"659-01-23456","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":91,"content":"메이크업 아티스트 개인 사업자로 등록하셨습니다. 먼저 사업자번호 760-12-34567 로 세금 신고를 진행하시면 됩니다.","has_sensitive":true,"entities":[{"value":"760-12-34567","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":92,"content":"목욕탕 운영 허가증이 발급되었습니다. 또한 사업자등록번호 871-23-45678 이 공중위생업소로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"871-23-45678","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":93,"content":"사진 스튜디오 창업을 준비하고 있습니다. 참고로 사업자번호 982-34-56789 를 발급받으면 영업을 시작할 수 있습니다.","has_sensitive":true,"entities":[{"value":"982-34-56789","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":94,"content":"광고물 제작 설치업 등록이 완료되었습니다. 아울러 사업자등록번호 103-45-67890 으로 옥외광고사업 신고를 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"103-45-67890","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":95,"content":"산업용 로봇 공급 업체와 계약합니다. 그리고 사업자번호 214-56-78901 이 기계설비업체로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"214-56-78901","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":96,"content":"애견 호텔 운영 허가를 받았습니다. 귀하의 사업자등록번호 325-67-89012 로 동물보호법에 따른 등록이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"325-67-89012","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":97,"content":"수족관 설치 업체 정보를 확인하였습니다. 다만 사업자번호 436-78-90123 은 본사 통합 관리번호로 사용됩니다.","has_sensitive":true,"entities":[{"value":"436-78-90123","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":98,"content":"세차장 개업 신고를 접수하였습니다. 먼저 사업자등록번호 547-89-01234 로 환경오염 방지시설 설치를 확인합니다.","has_sensitive":true,"entities":[{"value":"547-89-01234","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":99,"content":"조경 공사 업체 선정 결과를 통보합니다. 또한 사업자번호 658-90-12345 가 조경수 생산업 등록과 함께 확인됩니다.","has_sensitive":true,"entities":[{"value":"658-90-12345","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":100,"content":"네일 아트 샵 창업 컨설팅을 진행합니다. 참고로 사업자등록번호는 769-01-23456 이며 미용업 신고도 필요합니다.","has_sensitive":true,"entities":[{"value":"769-01-23456","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":101,"content":"수입차 정비 전문점 등록이 완료되었습니다. 아울러 사업자번호 870-12-34567 로 자동차관리법상 정비업 등록을 하셨습니다.","has_sensitive":true,"entities":[{"value":"870-12-34567","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":102,"content":"코인 세탁소 프랜차이즈 가맹 계약서를 발송합니다. 그리고 사업자등록번호 981-23-45678 이 가맹본부 통합 관리됩니다.","has_sensitive":true,"entities":[{"value":"981-23-45678","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":103,"content":"요가 센터 개업 준비를 도와드립니다. 귀하의 사업자번호 102-34-56789 와 체육시설업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"102-34-56789","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":104,"content":"철강 자재 유통 업체로 등록합니다. 다만 사업자등록번호 213-45-67890 은 제조업이 아닌 도매업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"213-45-67890","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":105,"content":"애완동물 용품 제조사와 계약을 체결합니다. 먼저 사업자번호 324-56-78901 로 품질 인증서를 확인하였습니다.","has_sensitive":true,"entities":[{"value":"324-56-78901","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":106,"content":"무선통신 대리점 개설 허가가 승인되었습니다. 또한 사업자등록번호 435-67-89012 가 통신사 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"435-67-89012","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":107,"content":"가전제품 수리 센터 등록이 완료되었습니다. 참고로 사업자번호 546-78-90123 을 보유하고 서비스 센터를 운영합니다.","has_sensitive":true,"entities":[{"value":"546-78-90123","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":108,"content":"소셜 미디어 마케팅 대행사 계약서를 작성합니다. 아울러 사업자등록번호 657-89-01234 로 광고업 신고가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"657-89-01234","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":109,"content":"태양광 발전 설치 업체와 협력합니다. 그리고 사업자번호 768-90-12345 가 신재생에너지 사업자로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"768-90-12345","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":110,"content":"펫 장례 서비스 사업을 시작합니다. 귀하의 사업자등록번호 879-01-23456 으로 동물장묘업 신고를 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"879-01-23456","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":111,"content":"드라이클리닝 전문점 개업 신고가 접수되었습니다. 다만 사업자번호 990-12-34568 는 세탁업 등록증 번호와 다릅니다.","has_sensitive":true,"entities":[{"value":"990-12-34568","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":112,"content":"스마트폰 액세서리 쇼핑몰 운영 사업자입니다. 먼저 사업자등록번호 101-23-45679 로 통신판매업 신고를 완료하였습니다.","has_sensitive":true,"entities":[{"value":"101-23-45679","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":113,"content":"화훼 농장 직영점 개설 등록이 완료되었습니다. 또한 사업자번호 212-34-56780 이 농업경영체로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"212-34-56780","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":114,"content":"자동차 부품 제조업체와 납품 계약을 맺습니다. 참고로 사업자등록번호는 323-45-67891 이며 품질 보증서를 첨부합니다.","has_sensitive":true,"entities":[{"value":"323-45-67891","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":115,"content":"이사 화물 운송 업체 등록증을 교부합니다. 아울러 사업자번호 434-56-78902 로 화물자동차 운송사업 허가를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"434-56-78902","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":116,"content":"베이커리 카페 창업을 준비하고 있습니다. 그리고 사업자등록번호 545-67-89013 이 식품위생법상 영업 신고되었습니다.","has_sensitive":true,"entities":[{"value":"545-67-89013","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":117,"content":"모터사이클 판매점 사업자 정보를 확인하였습니다. 귀하의 사업자번호 656-78-90124 로 이륜자동차 판매업을 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"656-78-90124","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":118,"content":"전자책 출판 플랫폼 사업 허가가 승인되었습니다. 다만 사업자등록번호 767-89-01235 은 전자출판사업 신고번호와 별도입니다.","has_sensitive":true,"entities":[{"value":"767-89-01235","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":119,"content":"방역 소독 업체 선정이 완료되었습니다. 먼저 사업자번호 878-90-12346 로 방역업 신고를 완료한 업체를 선정하였습니다.","has_sensitive":true,"entities":[{"value":"878-90-12346","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":120,"content":"법무법인 고문 계약을 체결합니다. 또한 사업자등록번호 989-01-23457 이 변호사법에 따라 정식 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"989-01-23457","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":121,"content":"3D 프린팅 서비스 업체와 협업합니다. 참고로 사업자번호 100-12-34568 을 보유한 업체가 시제품 제작을 담당합니다.","has_sensitive":true,"entities":[{"value":"100-12-34568","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":122,"content":"농수산물 직거래 장터 운영 사업자입니다. 아울러 사업자등록번호 211-23-45679 로 온라인 쇼핑몰을 개설하였습니다.","has_sensitive":true,"entities":[{"value":"211-23-45679","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":123,"content":"스포츠 용품 도매업 등록이 완료되었습니다. 그리고 사업자번호 322-34-56780 이 유통업체 네트워크에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"322-34-56780","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":124,"content":"가상현실 콘텐츠 제작사와 계약을 진행합니다. 귀하의 사업자등록번호 433-45-67891 로 문화콘텐츠 사업자로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"433-45-67891","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":125,"content":"건강검진센터 운영 허가가 발급되었습니다. 다만 사업자번호 544-56-78902 는 의료기관 개설 허가번호와 다릅니다.","has_sensitive":true,"entities":[{"value":"544-56-78902","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":126,"content":"포장 이사 전문 업체 등록증을 교부합니다. 먼저 사업자등록번호 655-67-89013 으로 운송 보험에 가입하셨습니다.","has_sensitive":true,"entities":[{"value":"655-67-89013","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":127,"content":"펜션 운영 사업자 신고를 완료하였습니다. 또한 사업자번호 766-78-90124 가 관광사업 등록번호와 연동됩니다.","has_sensitive":true,"entities":[{"value":"766-78-90124","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":128,"content":"음반 제작사와 유통 계약을 체결합니다. 참고로 사업자등록번호는 877-89-01235 이며 저작권 등록도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"877-89-01235","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":129,"content":"금형 제작 업체 협력사로 등록합니다. 아울러 사업자번호 988-90-12346 이 기계공업협동조합에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"988-90-12346","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":130,"content":"반려견 훈련소 개업 신고가 접수되었습니다. 그리고 사업자등록번호 109-01-23457 로 동물훈련업 신고를 진행합니다.","has_sensitive":true,"entities":[{"value":"109-01-23457","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":131,"content":"에스테틱 전문점 창업 컨설팅을 진행합니다. 귀하의 사업자번호 210-12-34568 와 미용업 신고를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"210-12-34568","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":132,"content":"자연 휴양림 운영 사업 허가를 받았습니다. 다만 사업자등록번호 321-23-45679 는 산림청 등록번호와 별도입니다.","has_sensitive":true,"entities":[{"value":"321-23-45679","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":133,"content":"반려동물 사료 제조업 등록이 완료되었습니다. 먼저 사업자번호 432-34-56780 로 사료관리법에 따른 신고를 하셨습니다.","has_sensitive":true,"entities":[{"value":"432-34-56780","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":134,"content":"인터넷 데이터센터 운영 계약을 체결합니다. 또한 사업자등록번호 543-45-67891 이 정보통신사업자로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"543-45-67891","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":135,"content":"골프 연습장 개업 준비를 도와드립니다. 참고로 사업자번호 654-56-78902 를 발급받으면 체육시설업 등록이 가능합니다.","has_sensitive":true,"entities":[{"value":"654-56-78902","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":136,"content":"중고 가전 매입 업체 정보를 확인하였습니다. 아울러 사업자등록번호 765-67-89013 으로 폐기물 수집운반업도 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"765-67-89013","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":137,"content":"야외 결혼식장 운영 허가가 승인되었습니다. 그리고 사업자번호 876-78-90124 가 식품위생법상 휴게음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"876-78-90124","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":138,"content":"축산물 가공 업체와 납품 계약을 맺습니다. 귀하의 사업자등록번호 987-89-01235 로 HACCP 인증을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"987-89-01235","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":139,"content":"캠핑장 운영 사업자 등록이 완료되었습니다. 다만 사업자번호 108-90-12346 은 관광진흥법상 등록번호와 별도입니다.","has_sensitive":true,"entities":[{"value":"108-90-12346","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":140,"content":"교육용 소프트웨어 개발사와 협력합니다. 먼저 사업자등록번호 219-01-23457 이 소프트웨어사업자로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"219-01-23457","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":141,"content":"친환경 세제 제조업 인증을 받았습니다. 또한 사업자번호 320-12-34568 로 환경표지 인증을 신청할 수 있습니다.","has_sensitive":true,"entities":[{"value":"320-12-34568","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":142,"content":"피아노 학원 설립 인가가 승인되었습니다. 참고로 사업자등록번호는 431-23-45679 이며 교육청 등록도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"431-23-45679","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":143,"content":"유기농 식품 인증 업체로 등록합니다. 아울러 사업자번호 542-34-56780 이 친환경농산물 인증기관에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"542-34-56780","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":144,"content":"소방 안전 점검 업체 선정이 완료되었습니다. 그리고 사업자등록번호 653-45-67891 로 소방시설관리업 등록을 확인하였습니다.","has_sensitive":true,"entities":[{"value":"653-45-67891","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":145,"content":"드럼 세탁기 렌탈 서비스 사업을 시작합니다. 귀하의 사업자번호 764-56-78902 와 할부거래업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"764-56-78902","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":146,"content":"시각 디자인 스튜디오 개업 신고가 접수되었습니다. 다만 사업자등록번호 875-67-89013 은 프리랜서 개인사업자번호입니다.","has_sensitive":true,"entities":[{"value":"875-67-89013","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":147,"content":"냉난방기 설치 업체 등록증을 교부합니다. 먼저 사업자번호 986-78-90124 로 기계설비공사업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"986-78-90124","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":148,"content":"건축물 철거 업체와 계약을 체결합니다. 또한 사업자등록번호 107-89-01235 가 건설업 등록증과 함께 확인됩니다.","has_sensitive":true,"entities":[{"value":"107-89-01235","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":149,"content":"애니메이션 제작사 협력사로 등록합니다. 참고로 사업자번호 218-90-12346 을 보유한 업체가 프로젝트를 수행합니다.","has_sensitive":true,"entities":[{"value":"218-90-12346","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":150,"content":"노인 요양 시설 운영 허가를 받았습니다. 아울러 사업자등록번호 329-01-23457 로 장기요양기관으로 지정되었습니다.","has_sensitive":true,"entities":[{"value":"329-01-23457","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":151,"content":"베트남 음식점 개업 준비를 도와드립니다. 그리고 사업자번호 430-12-34568 이 외국인 음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"430-12-34568","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":152,"content":"자동차 유리 교체 전문점 등록이 완료되었습니다. 귀하의 사업자등록번호 541-23-45679 로 자동차 정비업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"541-23-45679","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":153,"content":"수제 맥주 양조장 개업 신고가 접수되었습니다. 다만 사업자번호 652-34-56780 는 주류 제조 면허번호와 별도입니다.","has_sensitive":true,"entities":[{"value":"652-34-56780","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":154,"content":"가정용 CCTV 설치 업체와 계약합니다. 먼저 사업자등록번호 763-45-67891 이 전기공사업 등록증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"763-45-67891","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":155,"content":"산후조리원 운영 허가가 승인되었습니다. 또한 사업자번호 874-56-78902 가 의료법에 따라 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"874-56-78902","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":156,"content":"목재 가공 업체 협력사로 등록합니다. 참고로 사업자등록번호는 985-67-89013 이며 품질 인증서를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"985-67-89013","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":157,"content":"오토바이 퀵서비스 사업 등록이 완료되었습니다. 아울러 사업자번호 106-78-90124 로 화물자동차 운송사업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"106-78-90124","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":158,"content":"애완동물 미용실 개업 준비를 진행합니다. 그리고 사업자등록번호 217-89-01235 이 동물 관련 사업자로 등록됩니다.","has_sensitive":true,"entities":[{"value":"217-89-01235","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":159,"content":"무인 편의점 프랜차이즈 가맹 계약서를 발송합니다. 귀하의 사업자번호 328-90-12346 와 통신판매업 신고를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"328-90-12346","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":160,"content":"VR 게임방 운영 사업자 신고를 완료하였습니다. 다만 사업자등록번호 439-01-23457 은 게임제공업 신고번호와 다릅니다.","has_sensitive":true,"entities":[{"value":"439-01-23457","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":161,"content":"가구 배송 설치 업체와 계약을 체결합니다. 먼저 사업자번호 540-12-34568 로 용역 계약서를 작성하였습니다.","has_sensitive":true,"entities":[{"value":"540-12-34568","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":162,"content":"맛집 배달 대행 플랫폼 사업을 시작합니다. 또한 사업자등록번호 651-23-45679 가 통신판매중개업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"651-23-45679","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":163,"content":"네트워크 보안 솔루션 업체 선정이 완료되었습니다. 참고로 사업자번호 762-34-56780 을 보유한 업체가 최종 선정되었습니다.","has_sensitive":true,"entities":[{"value":"762-34-56780","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":164,"content":"한복 대여점 개업 신고가 접수되었습니다. 아울러 사업자등록번호 873-45-67891 로 의류 임대업을 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"873-45-67891","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":165,"content":"천연 비누 제조 판매업 허가를 받았습니다. 그리고 사업자번호 984-56-78903 이 화장품 제조업으로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"984-56-78903","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":166,"content":"컴퓨터 수리 센터 등록이 완료되었습니다. 귀하의 사업자등록번호 105-67-89014 로 전자제품 수리업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"105-67-89014","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":167,"content":"홈 클리닝 서비스 사업자로 등록합니다. 다만 사업자번호 216-78-90125 는 청소용역업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"216-78-90125","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":168,"content":"세무사 사무소 개설 등록을 진행합니다. 먼저 사업자등록번호 327-89-01236 이 세무사회에 정상 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"327-89-01236","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":169,"content":"실내 인테리어 필름 시공 업체와 계약합니다. 또한 사업자번호 438-90-12347 로 건설업 등록을 확인하였습니다.","has_sensitive":true,"entities":[{"value":"438-90-12347","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":170,"content":"반려견 놀이터 운영 허가가 승인되었습니다. 참고로 사업자등록번호는 549-01-23458 이며 동물 관련 시설로 등록됩니다.","has_sensitive":true,"entities":[{"value":"549-01-23458","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":171,"content":"보일러 수리 전문 업체 정보를 확인하였습니다. 아울러 사업자번호 650-12-34569 이 기계설비유지관리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"650-12-34569","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":172,"content":"수입 와인 판매점 개업 준비를 도와드립니다. 그리고 사업자등록번호 761-23-45680 로 주류 판매업 신고를 진행합니다.","has_sensitive":true,"entities":[{"value":"761-23-45680","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":173,"content":"스쿠터 렌탈 서비스 사업을 시작합니다. 귀하의 사업자번호 872-34-56781 와 자동차 대여사업 등록을 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"872-34-56781","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":174,"content":"방음 시공 전문 업체 등록이 완료되었습니다. 다만 사업자등록번호 983-45-67892 는 건축물 리모델링업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"983-45-67892","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":175,"content":"유튜버 MCN 소속 계약서를 작성합니다. 먼저 사업자번호 104-56-78903 로 광고업 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"104-56-78903","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":176,"content":"중고 서적 매입 업체와 계약을 체결합니다. 또한 사업자등록번호 215-67-89014 가 출판유통업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"215-67-89014","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":177,"content":"바리스타 학원 설립 인가 신청이 접수되었습니다. 참고로 사업자번호 326-78-90125 를 발급받으면 직업훈련기관으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"326-78-90125","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":178,"content":"미용 기기 수입 판매 업체로 등록합니다. 아울러 사업자등록번호 437-89-01236 으로 의료기기 판매업도 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"437-89-01236","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":179,"content":"태권도 도장 개관 준비를 진행합니다. 그리고 사업자번호 548-90-12347 이 체육시설업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"548-90-12347","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":180,"content":"조명 전문 쇼룸 운영 사업자입니다. 귀하의 사업자등록번호 659-01-23458 로 전자제품 판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"659-01-23458","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":181,"content":"산업용 에어컨 설치 업체 선정이 완료되었습니다. 다만 사업자번호 760-12-34569 는 냉동공조공사업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"760-12-34569","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":182,"content":"문구 도매 유통 업체와 거래를 시작합니다. 먼저 사업자등록번호 871-23-45680 이 문구류 도매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"871-23-45680","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":183,"content":"패브릭 소파 제조 판매업을 운영합니다. 또한 사업자번호 982-34-56781 로 가구 제조업 신고를 완료하였습니다.","has_sensitive":true,"entities":[{"value":"982-34-56781","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":184,"content":"웨딩 플래너 사무소 개업 신고가 접수되었습니다. 참고로 사업자등록번호는 103-45-67892 이며 예식 서비스업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"103-45-67892","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":185,"content":"실버타운 운영 사업 허가를 받았습니다. 아울러 사업자번호 214-56-78903 이 노인복지시설로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"214-56-78903","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":186,"content":"수제 초콜릿 공방 창업을 준비합니다. 그리고 사업자등록번호 325-67-89014 가 식품제조가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"325-67-89014","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":187,"content":"태양열 온수기 설치 업체 등록이 완료되었습니다. 귀하의 사업자번호 436-78-90125 로 설비공사업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"436-78-90125","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":188,"content":"아쿠아리움 카페 개업 준비를 도와드립니다. 다만 사업자등록번호 547-89-01236 은 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"547-89-01236","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":189,"content":"헬리콥터 관광 사업 허가가 승인되었습니다. 먼저 사업자번호 658-90-12347 로 항공운송사업 등록을 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"658-90-12347","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":190,"content":"주방 기물 렌탈 서비스 계약을 체결합니다. 또한 사업자등록번호 769-01-23458 이 물품대여업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"769-01-23458","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":191,"content":"고시원 운영 사업자 신고를 완료하였습니다. 참고로 사업자번호 870-12-34569 를 발급받으면 숙박업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"870-12-34569","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":192,"content":"아로마 테라피 샵 개업 신고가 접수되었습니다. 아울러 사업자등록번호 981-23-45680 로 뷰티 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"981-23-45680","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":193,"content":"공기청정기 렌탈 사업을 시작합니다. 그리고 사업자번호 102-34-56781 이 전자제품 임대업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"102-34-56781","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":194,"content":"자전거 정비소 등록이 완료되었습니다. 귀하의 사업자등록번호 213-45-67892 로 자전거 수리업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"213-45-67892","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":195,"content":"애견 카페 프랜차이즈 가맹 계약서를 발송합니다. 다만 사업자번호 324-56-78903 는 일반음식점 허가가 필요합니다.","has_sensitive":true,"entities":[{"value":"324-56-78903","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":196,"content":"홈베이킹 재료 쇼핑몰 운영 사업자입니다. 먼저 사업자등록번호 435-67-89014 로 식품 판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"435-67-89014","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":197,"content":"바이크 튜닝 전문점 개업 준비를 진행합니다. 또한 사업자번호 546-78-90125 가 자동차 정비업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"546-78-90125","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":198,"content":"상조 서비스 업체 협력사로 등록합니다. 참고로 사업자등록번호는 657-89-01236 이며 장례지도사 자격도 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"657-89-01236","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":199,"content":"스포츠 마사지 샵 운영 허가를 받았습니다. 아울러 사업자번호 768-90-12347 로 안마시술소 신고를 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"768-90-12347","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":200,"content":"카페베네 가맹점 계약 체결이 완료되었습니다. 그리고 사업자등록번호 879-01-23458 이 본사 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"879-01-23458","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":201,"content":"전통 시장 상인회 등록 절차를 진행합니다. 귀하의 사업자번호 980-12-34569 와 시장 점포 허가를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"980-12-34569","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":202,"content":"공유 오피스 운영 사업자 신고를 완료하였습니다. 다만 사업자등록번호 101-23-45680 은 부동산 임대업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"101-23-45680","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":203,"content":"모바일 쿠폰 발행 플랫폼 사업을 시작합니다. 먼저 사업자번호 212-34-56781 로 전자금융업 등록을 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"212-34-56781","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":204,"content":"반려동물 장례 서비스 업체와 계약합니다. 또한 사업자등록번호 323-45-67892 가 동물장묘업으로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"323-45-67892","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":205,"content":"자동차 코팅 전문점 개업 신고가 접수되었습니다. 참고로 사업자번호 434-56-78903 을 발급받으면 세차업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"434-56-78903","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":206,"content":"푸드트럭 운영 사업 허가를 받았습니다. 아울러 사업자등록번호 545-67-89014 로 이동 판매업 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"545-67-89014","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":207,"content":"독서실 운영 등록이 완료되었습니다. 그리고 사업자번호 656-78-90125 가 교육서비스업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"656-78-90125","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":208,"content":"수경재배 농장 사업자로 등록합니다. 귀하의 사업자등록번호 767-89-01236 로 시설원예업 신고를 진행합니다.","has_sensitive":true,"entities":[{"value":"767-89-01236","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":209,"content":"AI 챗봇 개발 업체 협력사 선정이 완료되었습니다. 다만 사업자번호 878-90-12347 은 소프트웨어 개발업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"878-90-12347","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":210,"content":"방탈출 카페 프랜차이즈 가맹 계약서를 작성합니다. 먼저 사업자등록번호 989-01-23458 로 실내 오락장업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"989-01-23458","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":211,"content":"케이터링 서비스 업체 등록을 진행합니다. 또한 사업자번호 100-12-34570 이 식품 조리업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"100-12-34570","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":212,"content":"라식 수술 전문 안과 개원 신고가 접수되었습니다. 참고로 사업자등록번호는 211-23-45681 이며 의료기관 개설 허가도 필요합니다.","has_sensitive":true,"entities":[{"value":"211-23-45681","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":213,"content":"공인중개사 사무소 개설 등록이 완료되었습니다. 아울러 사업자번호 322-34-56782 로 부동산 중개업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"322-34-56782","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":214,"content":"스마트팜 운영 사업 허가를 받았습니다. 그리고 사업자등록번호 433-45-67893 이 농업경영체로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"433-45-67893","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":215,"content":"매니큐어 전문점 개업 준비를 도와드립니다. 귀하의 사업자번호 544-56-78904 와 미용업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"544-56-78904","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":216,"content":"수입 자동차 딜러 등록 절차가 완료되었습니다. 다만 사업자등록번호 655-67-89015 는 자동차 판매업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"655-67-89015","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":217,"content":"블라인드 설치 전문 업체와 계약을 체결합니다. 먼저 사업자번호 766-78-90126 로 실내장식공사업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"766-78-90126","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":218,"content":"스시 전문 레스토랑 개업 신고가 접수되었습니다. 또한 사업자등록번호 877-89-01237 이 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"877-89-01237","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":219,"content":"모텔 운영 사업자로 등록합니다. 참고로 사업자번호 988-90-12348 을 발급받으면 숙박업 신고가 완료됩니다.","has_sensitive":true,"entities":[{"value":"988-90-12348","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":220,"content":"IT 보안 컨설팅 업체 협력사 선정이 완료되었습니다. 아울러 사업자등록번호 109-01-23459 로 정보보호 사업자로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"109-01-23459","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":221,"content":"반려동물 사진관 개업 준비를 진행합니다. 그리고 사업자번호 210-12-34570 이 사진업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"210-12-34570","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":222,"content":"헬스 보조식품 제조 판매업을 운영합니다. 귀하의 사업자등록번호 321-23-45681 로 건강기능식품 판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"321-23-45681","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":223,"content":"유리 공예 스튜디오 창업을 준비합니다. 다만 사업자번호 432-34-56782 는 공예품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"432-34-56782","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":224,"content":"전기차 충전소 운영 사업 허가를 받았습니다. 먼저 사업자등록번호 543-45-67893 으로 전기사업 등록을 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"543-45-67893","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":225,"content":"찜질방 운영 등록이 완료되었습니다. 또한 사업자번호 654-56-78904 가 목욕장업으로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"654-56-78904","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":226,"content":"수입 의류 브랜드 매장 개점 신고가 접수되었습니다. 참고로 사업자등록번호는 765-67-89015 이며 의류 소매업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"765-67-89015","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":227,"content":"통번역 서비스 업체 협력사로 등록합니다. 아울러 사업자번호 876-78-90126 이 전문 서비스업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"876-78-90126","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":228,"content":"공예품 갤러리 카페 개업 준비를 도와드립니다. 그리고 사업자등록번호 987-89-01237 로 일반음식점을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"987-89-01237","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":229,"content":"반지 각인 서비스 사업을 시작합니다. 귀하의 사업자번호 108-90-12348 와 귀금속 제조업 신고를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"108-90-12348","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":230,"content":"드론 배송 서비스 사업 허가가 승인되었습니다. 다만 사업자등록번호 219-01-23459 은 택배업 등록과 별도입니다.","has_sensitive":true,"entities":[{"value":"219-01-23459","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":231,"content":"치킨 전문점 프랜차이즈 가맹 계약서를 발송합니다. 먼저 사업자번호 320-12-34570 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"320-12-34570","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":232,"content":"LED 조명 제조 업체와 납품 계약을 맺습니다. 또한 사업자등록번호 431-23-45681 이 전자제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"431-23-45681","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":233,"content":"샌드위치 카페 개업 신고가 접수되었습니다. 참고로 사업자번호 542-34-56782 를 발급받으면 영업을 시작할 수 있습니다.","has_sensitive":true,"entities":[{"value":"542-34-56782","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":234,"content":"애견 유치원 운영 허가를 받았습니다. 아울러 사업자등록번호 653-45-67893 로 동물 관련 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"653-45-67893","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":235,"content":"화물 운송 중개 플랫폼 사업을 시작합니다. 그리고 사업자번호 764-56-78904 이 화물운송 주선업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"764-56-78904","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":236,"content":"노래방 기기 렌탈 업체 등록이 완료되었습니다. 귀하의 사업자등록번호 875-67-89015 로 물품 임대업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"875-67-89015","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":237,"content":"생활 한복 디자인 브랜드 창업을 준비합니다. 다만 사업자번호 986-78-90126 는 의류 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"986-78-90126","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":238,"content":"편의점 가맹점 계약 체결이 완료되었습니다. 먼저 사업자등록번호 107-89-01237 이 본부 시스템에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"107-89-01237","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":239,"content":"3D 스캐닝 서비스 업체와 협력합니다. 또한 사업자번호 218-90-12348 로 산업 디자인업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"218-90-12348","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":240,"content":"야구 연습장 운영 사업자 신고를 완료하였습니다. 참고로 사업자등록번호는 329-01-23459 이며 체육시설업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"329-01-23459","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":241,"content":"수제 맥주 펍 개업 준비를 도와드립니다. 아울러 사업자번호 430-12-34570 와 주류 판매 허가를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"430-12-34570","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":242,"content":"반려견 수제간식 제조 판매업을 운영합니다. 그리고 사업자등록번호 541-23-45681 로 식품제조가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"541-23-45681","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":243,"content":"게스트하우스 운영 등록이 완료되었습니다. 귀하의 사업자번호 652-34-56782 와 관광숙박업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"652-34-56782","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":244,"content":"인공지능 음성인식 솔루션 개발 업체 선정이 완료되었습니다. 다만 사업자등록번호 763-45-67893 은 소프트웨어 개발업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"763-45-67893","begin":51,"end":63,"label":"BUSINESS_ID"}]}
+{"id":245,"content":"도예 공방 창업을 준비하고 있습니다. 먼저 사업자번호 874-56-78904 로 공예품 제조 판매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"874-56-78904","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":246,"content":"차량용 블랙박스 판매점 개업 신고가 접수되었습니다. 또한 사업자등록번호 985-67-89015 가 전자제품 소매업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"985-67-89015","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":247,"content":"복합 문화 공간 운영 사업 허가를 받았습니다. 참고로 사업자번호 106-78-90126 을 보유하고 다양한 사업을 진행합니다.","has_sensitive":true,"entities":[{"value":"106-78-90126","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":248,"content":"자동차 랩핑 전문점 등록이 완료되었습니다. 아울러 사업자등록번호 217-89-01237 로 광고물 제작업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"217-89-01237","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":249,"content":"분재 판매점 사업자로 등록합니다. 그리고 사업자번호 328-90-12348 이 화훼 소매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"328-90-12348","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":250,"content":"수족관 청소 전문 업체와 계약을 체결합니다. 귀하의 사업자등록번호 439-01-23459 로 시설 관리 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"439-01-23459","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":251,"content":"외국인 전용 민박 운영 허가가 승인되었습니다. 다만 사업자번호 540-12-34570 는 숙박업 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"540-12-34570","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":252,"content":"스케이트보드 전문점 개업 준비를 진행합니다. 먼저 사업자등록번호 651-23-45681 로 스포츠용품 소매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"651-23-45681","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":253,"content":"수제 쿠키 제조 판매업을 운영합니다. 또한 사업자번호 762-34-56782 가 과자류 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"762-34-56782","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":254,"content":"캠핑 용품 렌탈 서비스 사업을 시작합니다. 참고로 사업자등록번호는 873-45-67893 이며 물품 대여업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"873-45-67893","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":255,"content":"반려묘 전문 호텔 운영 등록이 완료되었습니다. 아울러 사업자번호 984-56-78904 로 동물 위탁관리업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"984-56-78904","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":256,"content":"디지털 사이니지 설치 업체와 협력합니다. 그리고 사업자등록번호 105-67-89015 가 전자제품 설치업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"105-67-89015","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":257,"content":"파티 플래닝 서비스 사업자로 등록합니다. 귀하의 사업자번호 216-78-90126 와 이벤트 대행업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"216-78-90126","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":258,"content":"향초 제작 공방 창업을 준비하고 있습니다. 다만 사업자등록번호 327-89-01237 은 공예품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"327-89-01237","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":259,"content":"전기 자전거 판매점 개업 신고가 접수되었습니다. 먼저 사업자번호 438-90-12348 로 자전거 소매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"438-90-12348","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":260,"content":"가죽 공예 스튜디오 운영 허가를 받았습니다. 또한 사업자등록번호 549-01-23459 가 가죽제품 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"549-01-23459","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":261,"content":"베이글 전문점 프랜차이즈 가맹 계약서를 발송합니다. 참고로 사업자번호 650-12-34570 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"650-12-34570","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":262,"content":"아쿠아로빅 전문 수영장 운영 사업자입니다. 아울러 사업자등록번호 761-23-45681 로 체육시설업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"761-23-45681","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":263,"content":"스마트 도어락 설치 업체 등록이 완료되었습니다. 그리고 사업자번호 872-34-56782 가 전자제품 설치업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"872-34-56782","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":264,"content":"수입 주방용품 쇼핑몰 운영을 시작합니다. 귀하의 사업자등록번호 983-45-67893 로 통신판매업 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"983-45-67893","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":265,"content":"반려동물 행동 교정 센터 개업 준비를 도와드립니다. 다만 사업자번호 104-56-78904 는 동물 훈련업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"104-56-78904","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":266,"content":"냉동 식품 도매 업체와 거래를 진행합니다. 먼저 사업자등록번호 215-67-89015 이 식품 도매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"215-67-89015","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":267,"content":"댄스 스포츠 학원 설립 인가 신청이 접수되었습니다. 또한 사업자번호 326-78-90126 로 체육 교습소를 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"326-78-90126","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":268,"content":"천연 염색 공방 창업을 준비합니다. 참고로 사업자등록번호는 437-89-01237 이며 염색 가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"437-89-01237","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":269,"content":"드라이브 스루 카페 개업 신고가 승인되었습니다. 아울러 사업자등록번호 548-90-12348 로 일반음식점 허가를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"548-90-12348","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":270,"content":"스노클링 장비 렌탈 서비스 사업을 시작합니다. 그리고 사업자번호 659-01-23459 이 물품 대여업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"659-01-23459","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":271,"content":"애견 동반 카페 운영 허가를 받았습니다. 귀하의 사업자등록번호 760-12-34570 와 일반음식점 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"760-12-34570","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":272,"content":"보석 감정 서비스 업체로 등록합니다. 다만 사업자번호 871-23-45681 는 전문 서비스업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"871-23-45681","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":273,"content":"중고 골프채 매매점 개업 준비를 진행합니다. 먼저 사업자등록번호 982-34-56782 로 중고품 소매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"982-34-56782","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":274,"content":"에어컨 청소 전문 업체 등록이 완료되었습니다. 또한 사업자번호 103-45-67893 이 시설 청소업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"103-45-67893","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":275,"content":"반려동물 택시 서비스 사업 허가가 승인되었습니다. 참고로 사업자등록번호는 214-56-78904 이며 여객자동차 운송업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"214-56-78904","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":276,"content":"수제 햄버거 레스토랑 개업 신고가 접수되었습니다. 아울러 사업자번호 325-67-89015 를 발급받으면 영업을 시작할 수 있습니다.","has_sensitive":true,"entities":[{"value":"325-67-89015","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":277,"content":"온라인 꽃 배송 서비스 플랫폼을 운영합니다. 그리고 사업자등록번호 436-78-90126 이 통신판매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"436-78-90126","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":278,"content":"자동차 유리 썬팅 전문점 등록이 완료되었습니다. 귀하의 사업자번호 547-89-01237 로 자동차 정비업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"547-89-01237","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":279,"content":"펫 택시 서비스 업체와 계약을 체결합니다. 다만 사업자등록번호 658-90-12348 은 화물 운송업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"658-90-12348","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":280,"content":"커피 로스팅 공방 창업을 준비하고 있습니다. 먼저 사업자번호 769-01-23459 로 식품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"769-01-23459","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":281,"content":"바이올린 수리 공방 개업 신고가 승인되었습니다. 또한 사업자등록번호 870-12-34570 가 악기 수리업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"870-12-34570","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":282,"content":"수입 와인바 운영 허가를 받았습니다. 참고로 사업자번호 981-23-45681 을 보유하고 주류 판매 허가도 받으셨습니다.","has_sensitive":true,"entities":[{"value":"981-23-45681","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":283,"content":"디저트 카페 프랜차이즈 가맹 계약서를 작성합니다. 아울러 사업자등록번호 102-34-56783 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"102-34-56783","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":284,"content":"애견 놀이방 운영 사업자로 등록합니다. 그리고 사업자번호 213-45-67894 이 동물 위탁관리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"213-45-67894","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":285,"content":"산악자전거 렌탈 서비스 사업을 시작합니다. 귀하의 사업자등록번호 324-56-78905 로 물품 대여업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"324-56-78905","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":286,"content":"에스프레소 바 개업 준비를 도와드립니다. 다만 사업자번호 435-67-89016 는 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"435-67-89016","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":287,"content":"반려동물 영양 상담 센터 등록이 완료되었습니다. 먼저 사업자등록번호 546-78-90127 로 상담 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"546-78-90127","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":288,"content":"홈 베이커리 온라인 판매 사업을 진행합니다. 또한 사업자번호 657-89-01238 이 통신판매업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"657-89-01238","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":289,"content":"중고 명품 가방 매매점 개업 신고가 접수되었습니다. 참고로 사업자등록번호는 768-90-12349 이며 중고품 소매업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"768-90-12349","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":290,"content":"필라테스 강사 개인 사업자로 등록하셨습니다. 아울러 사업자번호 879-01-23460 로 체육 교습 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"879-01-23460","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":291,"content":"수제 잼 제조 판매업을 운영합니다. 그리고 사업자등록번호 980-12-34571 이 식품제조가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"980-12-34571","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":292,"content":"애견 수영장 운영 허가를 받았습니다. 귀하의 사업자번호 101-23-45682 와 동물 관련 시설업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"101-23-45682","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":293,"content":"캐릭터 라이선스 상품 판매점 등록이 완료되었습니다. 다만 사업자등록번호 212-34-56783 은 완구 소매업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"212-34-56783","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":294,"content":"족욕 카페 개업 준비를 진행하고 있습니다. 먼저 사업자번호 323-45-67894 로 일반음식점을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"323-45-67894","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":295,"content":"반려동물 수제 간식 쇼핑몰 운영 사업자입니다. 또한 사업자등록번호 434-56-78905 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"434-56-78905","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":296,"content":"모바일 게임 개발사와 퍼블리싱 계약을 체결합니다. 참고로 사업자번호 545-67-89016 을 보유한 업체와 협력합니다.","has_sensitive":true,"entities":[{"value":"545-67-89016","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":297,"content":"프리미엄 반려견 호텔 운영을 시작합니다. 아울러 사업자등록번호 656-78-90127 로 동물 위탁관리업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"656-78-90127","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":298,"content":"전통 차 전문점 개업 신고가 승인되었습니다. 그리고 사업자번호 767-89-01238 이 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"767-89-01238","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":299,"content":"유기농 샐러드 전문점 프랜차이즈 가맹 계약서를 발송합니다. 귀하의 사업자등록번호 878-90-12349 와 일반음식점 허가를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"878-90-12349","begin":50,"end":62,"label":"BUSINESS_ID"}]}
+{"id":300,"content":"애견 옷 제작 판매 업체로 등록합니다. 다만 사업자번호 989-01-23460 는 의류 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"989-01-23460","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":301,"content":"반려동물 펜션 운영 사업 허가가 승인되었습니다. 먼저 사업자등록번호 100-12-34571 로 숙박업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"100-12-34571","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":302,"content":"코워킹 스페이스 운영 등록이 완료되었습니다. 또한 사업자번호 211-23-45682 가 부동산 임대업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"211-23-45682","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":303,"content":"수제 피자 배달 전문점 개업 신고가 접수되었습니다. 참고로 사업자등록번호는 322-34-56783 이며 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"322-34-56783","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":304,"content":"반려묘 전문 용품점 창업을 준비합니다. 아울러 사업자번호 433-45-67894 와 애완동물용품 소매업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"433-45-67894","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":305,"content":"인테리어 소품 쇼핑몰 운영 사업자입니다. 그리고 사업자등록번호 544-56-78905 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"544-56-78905","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":306,"content":"비건 레스토랑 개업 준비를 도와드립니다. 귀하의 사업자번호 655-67-89016 와 일반음식점 허가를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"655-67-89016","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":307,"content":"반려동물 장묘 서비스 업체 등록이 완료되었습니다. 다만 사업자등록번호 766-78-90127 은 동물장묘업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"766-78-90127","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":308,"content":"키즈 카페 프랜차이즈 가맹 계약서를 작성합니다. 먼저 사업자번호 877-89-01238 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"877-89-01238","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":309,"content":"홈 클래스 요리 강좌 사업을 시작합니다. 또한 사업자등록번호 988-90-12349 가 교육 서비스업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"988-90-12349","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":310,"content":"애견 미용 전문점 개업 신고가 승인되었습니다. 참고로 사업자번호 109-01-23460 을 발급받으면 영업을 시작할 수 있습니다.","has_sensitive":true,"entities":[{"value":"109-01-23460","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":311,"content":"오가닉 화장품 제조 판매업을 운영합니다. 아울러 사업자등록번호 210-12-34571 로 화장품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"210-12-34571","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":312,"content":"반려동물 건강검진 센터 운영 허가를 받았습니다. 그리고 사업자번호 321-23-45682 가 동물병원으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"321-23-45682","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":313,"content":"독립 서점 개업 준비를 진행하고 있습니다. 귀하의 사업자등록번호 432-34-56783 로 서적 소매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"432-34-56783","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":314,"content":"스마트 홈 시스템 설치 업체 등록이 완료되었습니다. 다만 사업자번호 543-45-67894 는 전기공사업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"543-45-67894","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":315,"content":"애견 행동 교정 센터와 계약을 체결합니다. 먼저 사업자등록번호 654-56-78905 이 동물 훈련업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"654-56-78905","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":316,"content":"글루텐 프리 베이커리 개업 신고가 접수되었습니다. 또한 사업자번호 765-67-89016 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"765-67-89016","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":317,"content":"반려동물 심리 상담 서비스 사업을 시작합니다. 참고로 사업자등록번호는 876-78-90127 이며 전문 상담업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"876-78-90127","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":318,"content":"프리미엄 와인 수입 업체로 등록합니다. 아울러 사업자번호 987-89-01238 과 주류 수입업 허가를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"987-89-01238","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":319,"content":"애견 전용 수영장 운영 사업 허가가 승인되었습니다. 그리고 사업자등록번호 108-90-12349 로 체육시설업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"108-90-12349","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":320,"content":"빈티지 가구 판매점 창업을 준비합니다. 귀하의 사업자번호 219-01-23460 와 중고가구 소매업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"219-01-23460","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":321,"content":"반려동물 전문 사진관 개업 신고가 접수되었습니다. 다만 사업자등록번호 320-12-34571 은 사진 촬영업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"320-12-34571","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":322,"content":"주스 바 프랜차이즈 가맹 계약서를 발송합니다. 먼저 사업자번호 431-23-45682 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"431-23-45682","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":323,"content":"애견 데이케어 센터 운영 등록이 완료되었습니다. 또한 사업자등록번호 542-34-56783 가 동물 위탁관리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"542-34-56783","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":324,"content":"핸드메이드 비누 쇼핑몰 운영 사업자입니다. 참고로 사업자번호 653-45-67894 를 발급받아 통신판매업을 신고하였습니다.","has_sensitive":true,"entities":[{"value":"653-45-67894","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":325,"content":"반려견 노즈워크 교실 개업 준비를 도와드립니다. 아울러 사업자등록번호 764-56-78905 로 교육 서비스업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"764-56-78905","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":326,"content":"로컬 푸드 카페 창업을 준비하고 있습니다. 그리고 사업자번호 875-67-89016 이 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"875-67-89016","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":327,"content":"반려묘 전용 호텔 운영 허가를 받았습니다. 귀하의 사업자등록번호 986-78-90127 와 동물 위탁관리업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"986-78-90127","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":328,"content":"친환경 세차장 사업자로 등록합니다. 다만 사업자번호 107-89-01238 는 세차업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"107-89-01238","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":329,"content":"애견 유치원 프랜차이즈 가맹 계약서를 작성합니다. 먼저 사업자등록번호 218-90-12349 로 동물 위탁관리업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"218-90-12349","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":330,"content":"수제 와플 전문점 개업 신고가 승인되었습니다. 또한 사업자번호 329-01-23460 이 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"329-01-23460","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":331,"content":"반려동물 자연식 제조 판매업을 운영합니다. 참고로 사업자등록번호는 430-12-34571 이며 사료 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"430-12-34571","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":332,"content":"플라워 클래스 스튜디오 등록이 완료되었습니다. 아울러 사업자번호 541-23-45682 로 교육 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"541-23-45682","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":333,"content":"애견 물놀이장 운영 사업 허가가 승인되었습니다. 그리고 사업자등록번호 652-34-56783 로 동물 관련 시설업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"652-34-56783","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":334,"content":"스페셜티 커피 로스터리 창업을 준비합니다. 귀하의 사업자번호 763-45-67894 와 식품 제조업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"763-45-67894","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":335,"content":"반려동물 놀이터 운영 등록을 진행합니다. 다만 사업자등록번호 874-56-78905 은 동물 관련 시설업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"874-56-78905","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":336,"content":"제로 웨이스트 샵 개업 신고가 접수되었습니다. 먼저 사업자번호 985-67-89016 로 소매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"985-67-89016","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":337,"content":"애견 전문 영양제 쇼핑몰 운영 사업자입니다. 또한 사업자등록번호 106-78-90127 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"106-78-90127","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":338,"content":"비건 베이커리 카페 프랜차이즈 가맹 계약서를 발송합니다. 참고로 사업자번호 217-89-01238 을 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"217-89-01238","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":339,"content":"반려동물 산책 대행 서비스 사업을 시작합니다. 아울러 사업자등록번호 328-90-12349 로 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"328-90-12349","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":340,"content":"수제 아이스크림 판매점 개업 준비를 도와드립니다. 그리고 사업자번호 439-01-23460 이 식품제조가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"439-01-23460","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":341,"content":"애견 일시 보호소 운영 허가를 받았습니다. 귀하의 사업자등록번호 540-12-34571 와 동물 보호업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"540-12-34571","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":342,"content":"유러피안 카페 창업을 준비하고 있습니다. 다만 사업자번호 651-23-45682 는 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"651-23-45682","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":343,"content":"반려묘 놀이방 운영 사업자로 등록합니다. 먼저 사업자등록번호 762-34-56783 이 동물 위탁관리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"762-34-56783","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":344,"content":"수제 버거 전문점 개업 신고가 승인되었습니다. 또한 사업자번호 873-45-67894 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"873-45-67894","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":345,"content":"애견 전문 캠핑장 운영 등록이 완료되었습니다. 참고로 사업자등록번호는 984-56-78905 이며 관광 편의시설업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"984-56-78905","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":346,"content":"로스팅 원두 도매 업체와 거래를 시작합니다. 아울러 사업자번호 105-67-89016 이 식품 도매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"105-67-89016","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":347,"content":"반려동물 스파 센터 개업 준비를 진행합니다. 그리고 사업자등록번호 216-78-90127 로 미용업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"216-78-90127","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":348,"content":"건강 주스 바 프랜차이즈 가맹 계약서를 작성합니다. 귀하의 사업자번호 327-89-01238 와 일반음식점 허가를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"327-89-01238","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":349,"content":"애견 수제 간식 공방 창업을 준비합니다. 다만 사업자등록번호 438-90-12349 는 식품제조가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"438-90-12349","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":350,"content":"파스타 전문점 개업 신고가 접수되었습니다. 먼저 사업자번호 549-01-23460 로 일반음식점을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"549-01-23460","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":351,"content":"반려동물 패션 브랜드 운영 등록이 완료되었습니다. 또한 사업자등록번호 650-12-34571 이 의류 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"650-12-34571","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":352,"content":"오가닉 카페 사업 허가를 받았습니다. 참고로 사업자번호 761-23-45682 을 보유하고 일반음식점을 운영합니다.","has_sensitive":true,"entities":[{"value":"761-23-45682","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":353,"content":"애견 호텔 체인 프랜차이즈 가맹 계약서를 발송합니다. 아울러 사업자등록번호 872-34-56783 로 동물 위탁관리업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"872-34-56783","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":354,"content":"수제 초콜릿 공방 개업 준비를 도와드립니다. 그리고 사업자번호 983-45-67894 이 식품제조가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"983-45-67894","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":355,"content":"반려동물 마사지 센터 창업을 준비합니다. 귀하의 사업자등록번호 104-56-78905 와 서비스업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"104-56-78905","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":356,"content":"크로플 전문점 운영 사업자로 등록합니다. 다만 사업자번호 215-67-89016 은 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"215-67-89016","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":357,"content":"애견 전문 약국 개업 신고가 승인되었습니다. 먼저 사업자등록번호 326-78-90127 로 동물 의약품 판매업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"326-78-90127","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":358,"content":"도시락 배달 전문점 등록이 완료되었습니다. 또한 사업자번호 437-89-01238 이 식품 조리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"437-89-01238","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":359,"content":"반려동물 전문 인터넷 방송국 사업을 시작합니다. 참고로 사업자등록번호는 548-90-12349 이며 방송업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"548-90-12349","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":360,"content":"브런치 카페 프랜차이즈 가맹 계약서를 작성합니다. 아울러 사업자번호 659-01-23460 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"659-01-23460","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":361,"content":"애견 전문 의류 쇼핑몰 운영 사업자입니다. 그리고 사업자등록번호 760-12-34571 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"760-12-34571","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":362,"content":"수프 전문 레스토랑 개업 준비를 도와드립니다. 귀하의 사업자번호 871-23-45682 와 일반음식점 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"871-23-45682","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":363,"content":"반려묘 전문 사료 제조업을 운영합니다. 다만 사업자등록번호 982-34-56783 은 사료 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"982-34-56783","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":364,"content":"에그 타르트 전문점 개업 신고가 접수되었습니다. 먼저 사업자번호 103-45-67894 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"103-45-67894","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":365,"content":"애견 전문 보험 대리점 등록이 완료되었습니다. 또한 사업자등록번호 214-56-78905 가 보험 대리업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"214-56-78905","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":366,"content":"타코 전문점 운영 사업 허가를 받았습니다. 참고로 사업자번호 325-67-89016 을 발급받아 일반음식점을 신고하였습니다.","has_sensitive":true,"entities":[{"value":"325-67-89016","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":367,"content":"반려동물 건강 식품 제조 판매업을 시작합니다. 아울러 사업자등록번호 436-78-90127 로 건강기능식품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"436-78-90127","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":368,"content":"아사이 보울 카페 창업을 준비하고 있습니다. 그리고 사업자번호 547-89-01238 이 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"547-89-01238","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":369,"content":"애견 전문 카시트 제조업체와 계약을 체결합니다. 귀하의 사업자등록번호 658-90-12349 로 자동차 부품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"658-90-12349","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":370,"content":"베이글 샌드위치 전문점 개업 신고가 승인되었습니다. 다만 사업자번호 769-01-23460 는 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"769-01-23460","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":371,"content":"반려동물 전문 카메라 렌탈 서비스 사업자로 등록합니다. 먼저 사업자등록번호 870-12-34571 이 물품 대여업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"870-12-34571","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":372,"content":"라떼 아트 교육 스튜디오 운영 등록이 완료되었습니다. 또한 사업자번호 981-23-45682 로 교육 서비스업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"981-23-45682","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":373,"content":"애견 전문 운동장 개업 준비를 도와드립니다. 참고로 사업자등록번호는 102-34-56784 이며 체육시설업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"102-34-56784","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":374,"content":"팥빙수 전문점 프랜차이즈 가맹 계약서를 발송합니다. 아울러 사업자번호 213-45-67895 와 일반음식점 허가를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"213-45-67895","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":375,"content":"반려동물 전문 캐리어 쇼핑몰 운영 사업을 시작합니다. 그리고 사업자등록번호 324-56-78906 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"324-56-78906","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":376,"content":"수제 젤라또 판매점 창업을 준비합니다. 귀하의 사업자번호 435-67-89017 와 식품제조가공업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"435-67-89017","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":377,"content":"애견 전문 리조트 운영 사업 허가가 승인되었습니다. 다만 사업자등록번호 546-78-90128 은 관광숙박업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"546-78-90128","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":378,"content":"크로와상 전문점 개업 신고가 접수되었습니다. 먼저 사업자번호 657-89-01239 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"657-89-01239","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":379,"content":"반려동물 전문 변호사 사무소 개설 등록이 완료되었습니다. 또한 사업자등록번호 768-90-12350 이 법무 서비스업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"768-90-12350","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":380,"content":"핫도그 전문점 운영 등록을 진행합니다. 참고로 사업자번호 879-01-23461 을 발급받으면 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"879-01-23461","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":381,"content":"애견 전문 요가 센터 개업 준비를 도와드립니다. 아울러 사업자등록번호 990-12-34572 로 체육 교습업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"990-12-34572","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":382,"content":"수제 요거트 제조 판매업을 운영합니다. 그리고 사업자번호 101-23-45683 이 유제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"101-23-45683","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":383,"content":"반려견 전문 침구 브랜드 창업을 준비합니다. 귀하의 사업자등록번호 212-34-56784 와 섬유제품 제조업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"212-34-56784","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":384,"content":"밀크티 전문점 프랜차이즈 가맹 계약서를 작성합니다. 다만 사업자번호 323-45-67895 는 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"323-45-67895","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":385,"content":"애견 전문 세탁 서비스 사업을 시작합니다. 먼저 사업자등록번호 434-56-78906 로 세탁업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"434-56-78906","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":386,"content":"나초 전문점 개업 신고가 승인되었습니다. 또한 사업자번호 545-67-89017 이 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"545-67-89017","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":387,"content":"반려동물 전문 웨딩 플래너 사업자로 등록합니다. 참고로 사업자등록번호는 656-78-90128 이며 예식 서비스업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"656-78-90128","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":388,"content":"마카롱 전문점 운영 등록이 완료되었습니다. 아울러 사업자번호 767-89-01239 로 제과점업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"767-89-01239","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":389,"content":"애견 전문 택배 서비스 업체와 계약을 체결합니다. 그리고 사업자등록번호 878-90-12350 이 화물운송업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"878-90-12350","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":390,"content":"츄러스 전문점 개업 준비를 진행하고 있습니다. 귀하의 사업자번호 989-01-23461 와 제과점업 신고를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"989-01-23461","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":391,"content":"반려동물 전문 안전용품 제조업을 운영합니다. 다만 사업자등록번호 100-12-34572 은 안전용품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"100-12-34572","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":392,"content":"포케 전문점 프랜차이즈 가맹 계약서를 발송합니다. 먼저 사업자번호 211-23-45683 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"211-23-45683","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":393,"content":"애견 전문 도서 출판사 창업을 준비합니다. 또한 사업자등록번호 322-34-56784 가 출판업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"322-34-56784","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":394,"content":"타피오카 펄 제조 판매업 사업을 시작합니다. 참고로 사업자번호 433-45-67895 를 발급받아 식품제조가공업을 신고하였습니다.","has_sensitive":true,"entities":[{"value":"433-45-67895","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":395,"content":"반려견 전문 치과 병원 개원 신고가 접수되었습니다. 아울러 사업자등록번호 544-56-78906 로 동물병원을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"544-56-78906","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":396,"content":"케밥 전문점 운영 허가를 받았습니다. 그리고 사업자번호 655-67-89017 이 일반음식점으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"655-67-89017","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":397,"content":"애견 전문 블로그 운영 사업자로 등록합니다. 귀하의 사업자등록번호 766-78-90128 와 광고업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"766-78-90128","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":398,"content":"퀘사디아 전문점 개업 준비를 도와드립니다. 다만 사업자번호 877-89-01239 는 일반음식점으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"877-89-01239","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":399,"content":"반려동물 전문 도서관 운영 등록이 완료되었습니다. 먼저 사업자등록번호 988-90-12350 이 도서관업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"988-90-12350","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":400,"content":"부리또 전문점 프랜차이즈 가맹 계약서를 작성합니다. 또한 사업자번호 109-01-23461 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"109-01-23461","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":401,"content":"애견 전문 뮤지컬 제작사 창업을 준비합니다. 참고로 사업자등록번호는 210-12-34572 이며 공연업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"210-12-34572","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":402,"content":"슬러시 전문점 개업 신고가 승인되었습니다. 아울러 사업자번호 321-23-45683 를 발급받으면 일반음식점으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"321-23-45683","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":403,"content":"반려동물 전문 운송 컨테이너 제조업을 운영합니다. 그리고 사업자등록번호 432-34-56784 가 운송장비 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"432-34-56784","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":404,"content":"핫초코 전문점 운영 사업을 시작합니다. 귀하의 사업자번호 543-45-67895 와 일반음식점 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"543-45-67895","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":405,"content":"애견 전문 드론 촬영 서비스 업체로 등록합니다. 다만 사업자등록번호 654-56-78906 은 영상 제작업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"654-56-78906","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":406,"content":"팬케이크 전문점 프랜차이즈 가맹 계약서를 발송합니다. 먼저 사업자번호 765-67-89017 로 일반음식점 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"765-67-89017","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":407,"content":"반려동물 전문 법률 서비스 사업 허가가 승인되었습니다. 또한 사업자등록번호 876-78-90128 이 법무업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"876-78-90128","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":408,"content":"쿠키 전문점 개업 준비를 진행하고 있습니다. 참고로 사업자번호 987-89-01239 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"987-89-01239","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":409,"content":"애견 전문 스마트 목걸이 제조업체와 계약을 체결합니다. 아울러 사업자등록번호 108-90-12350 로 전자제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"108-90-12350","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":410,"content":"시나몬 롤 전문점 운영 등록이 완료되었습니다. 그리고 사업자번호 219-01-23461 이 제과점업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"219-01-23461","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":411,"content":"반려동물 전문 심리 치료 센터 창업을 준비합니다. 귀하의 사업자등록번호 320-12-34572 와 의료 서비스업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"320-12-34572","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":412,"content":"프레첼 전문점 개업 신고가 접수되었습니다. 다만 사업자번호 431-23-45683 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"431-23-45683","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":413,"content":"애견 전문 유모차 제조 판매업을 운영합니다. 먼저 사업자등록번호 542-34-56784 로 육아용품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"542-34-56784","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":414,"content":"컵케이크 전문점 프랜차이즈 가맹 계약서를 작성합니다. 또한 사업자번호 653-45-67895 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"653-45-67895","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":415,"content":"반려동물 전문 메모리얼 제품 제조업 사업을 시작합니다. 참고로 사업자등록번호는 764-56-78906 이며 기타 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"764-56-78906","begin":51,"end":63,"label":"BUSINESS_ID"}]}
+{"id":416,"content":"도넛 전문점 운영 허가를 받았습니다. 아울러 사업자번호 875-67-89017 를 보유하고 제과점업을 신고하였습니다.","has_sensitive":true,"entities":[{"value":"875-67-89017","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":417,"content":"애견 전문 미술 전시회 사업자로 등록합니다. 그리고 사업자등록번호 986-78-90128 이 전시업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"986-78-90128","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":418,"content":"스콘 전문점 개업 준비를 도와드립니다. 귀하의 사업자번호 107-89-01239 와 제과점업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"107-89-01239","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":419,"content":"반려동물 전문 친환경 장난감 제조업을 운영합니다. 다만 사업자등록번호 218-90-12350 은 완구 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"218-90-12350","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":420,"content":"타르트 전문점 프랜차이즈 가맹 계약서를 발송합니다. 먼저 사업자번호 329-01-23461 로 제과점업 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"329-01-23461","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":421,"content":"애견 전문 스파 제품 제조 판매업 등록이 완료되었습니다. 또한 사업자등록번호 430-12-34572 가 화장품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"430-12-34572","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":422,"content":"몽블랑 전문점 개업 신고가 승인되었습니다. 참고로 사업자번호 541-23-45683 을 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"541-23-45683","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":423,"content":"반려동물 전문 클라우드 펀딩 플랫폼 사업을 시작합니다. 아울러 사업자등록번호 652-34-56784 로 통신판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"652-34-56784","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":424,"content":"바움쿠헨 전문점 운영 등록을 진행합니다. 그리고 사업자번호 763-45-67895 이 제과점업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"763-45-67895","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":425,"content":"애견 전문 블록체인 서비스 업체와 계약을 체결합니다. 귀하의 사업자등록번호 874-56-78906 로 정보통신업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"874-56-78906","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":426,"content":"카스텔라 전문점 개업 준비를 도와드립니다. 다만 사업자번호 985-67-89017 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"985-67-89017","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":427,"content":"반려동물 전문 AI 헬스케어 서비스 창업을 준비합니다. 먼저 사업자등록번호 106-78-90128 이 정보통신업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"106-78-90128","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":428,"content":"슈크림 전문점 프랜차이즈 가맹 계약서를 작성합니다. 또한 사업자번호 217-89-01239 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"217-89-01239","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":429,"content":"애견 전문 IoT 기기 제조업을 운영합니다. 참고로 사업자등록번호는 328-90-12350 이며 전자제품 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"328-90-12350","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":430,"content":"밀푀유 전문점 개업 신고가 접수되었습니다. 아울러 사업자번호 439-01-23461 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"439-01-23461","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":431,"content":"반려동물 전문 구독 서비스 플랫폼 사업자로 등록합니다. 그리고 사업자등록번호 540-12-34572 가 통신판매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"540-12-34572","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":432,"content":"마들렌 전문점 운영 허가를 받았습니다. 귀하의 사업자번호 651-23-45683 와 제과점업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"651-23-45683","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":433,"content":"애견 전문 빅데이터 분석 서비스 업체 등록이 완료되었습니다. 다만 사업자등록번호 762-34-56784 은 정보통신업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"762-34-56784","begin":50,"end":62,"label":"BUSINESS_ID"}]}
+{"id":434,"content":"푸딩 전문점 개업 준비를 진행하고 있습니다. 먼저 사업자번호 873-45-67895 로 식품제조가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"873-45-67895","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":435,"content":"반려동물 전문 가상현실 콘텐츠 제작사와 계약을 체결합니다. 또한 사업자등록번호 984-56-78906 이 영상 제작업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"984-56-78906","begin":49,"end":61,"label":"BUSINESS_ID"}]}
+{"id":436,"content":"젤리 전문점 프랜차이즈 가맹 계약서를 발송합니다. 참고로 사업자번호 105-67-89017 를 발급받으면 식품제조가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"105-67-89017","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":437,"content":"애견 전문 로봇 개발 업체 창업을 준비합니다. 아울러 사업자등록번호 216-78-90128 로 기계장비 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"216-78-90128","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":438,"content":"캔디 전문점 개업 신고가 승인되었습니다. 그리고 사업자번호 327-89-01239 이 식품제조가공업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"327-89-01239","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":439,"content":"반려동물 전문 3D 프린팅 서비스 사업을 시작합니다. 귀하의 사업자등록번호 438-90-12350 와 기타 제조업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"438-90-12350","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":440,"content":"머랭 전문점 운영 등록이 완료되었습니다. 다만 사업자번호 549-01-23461 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"549-01-23461","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":441,"content":"애견 전문 증강현실 앱 개발사로 등록합니다. 먼저 사업자등록번호 650-12-34573 이 소프트웨어 개발업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"650-12-34573","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":442,"content":"누가 전문점 개업 준비를 도와드립니다. 또한 사업자번호 761-23-45684 로 식품제조가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"761-23-45684","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":443,"content":"반려동물 전문 드론 배송 서비스 업체 등록이 완료되었습니다. 참고로 사업자등록번호는 872-34-56785 이며 배송업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"872-34-56785","begin":53,"end":65,"label":"BUSINESS_ID"}]}
+{"id":444,"content":"초콜릿 봉봉 전문점 프랜차이즈 가맹 계약서를 작성합니다. 아울러 사업자번호 983-45-67896 와 제과점업 허가를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"983-45-67896","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":445,"content":"애견 전문 음성인식 기기 제조업을 운영합니다. 그리고 사업자등록번호 104-56-78907 가 전자제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"104-56-78907","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":446,"content":"캐러멜 전문점 개업 신고가 접수되었습니다. 귀하의 사업자번호 215-67-89018 로 식품제조가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"215-67-89018","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":447,"content":"반려동물 전문 스마트 팜 사업 허가가 승인되었습니다. 다만 사업자등록번호 326-78-90129 는 농업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"326-78-90129","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":448,"content":"트러플 전문점 운영 등록을 진행합니다. 먼저 사업자번호 437-89-01240 이 제과점업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"437-89-01240","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":449,"content":"애견 전문 자율주행 차량 개발 업체와 계약을 체결합니다. 또한 사업자등록번호 548-90-12351 로 자동차 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"548-90-12351","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":450,"content":"패스츄리 전문점 개업 준비를 도와드립니다. 참고로 사업자번호 659-01-23462 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"659-01-23462","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":451,"content":"반려동물 전문 나노 기술 연구소 창업을 준비합니다. 아울러 사업자등록번호 760-12-34573 이 연구개발업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"760-12-34573","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":452,"content":"브라우니 전문점 프랜차이즈 가맹 계약서를 발송합니다. 그리고 사업자번호 871-23-45684 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"871-23-45684","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":453,"content":"애견 전문 양자컴퓨팅 서비스 사업자로 등록합니다. 귀하의 사업자등록번호 982-34-56785 와 정보통신업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"982-34-56785","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":454,"content":"파운드 케이크 전문점 개업 신고가 승인되었습니다. 다만 사업자번호 103-45-67896 은 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"103-45-67896","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":455,"content":"반려동물 전문 바이오 기술 연구소 운영 등록이 완료되었습니다. 먼저 사업자등록번호 214-56-78907 이 연구개발업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"214-56-78907","begin":51,"end":63,"label":"BUSINESS_ID"}]}
+{"id":456,"content":"티라미수 전문점 운영 사업을 시작합니다. 또한 사업자번호 325-67-89018 로 제과점업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"325-67-89018","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":457,"content":"애견 전문 신재생에너지 사업 허가를 받았습니다. 참고로 사업자등록번호는 436-78-90129 이며 에너지업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"436-78-90129","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":458,"content":"레어 치즈케이크 전문점 개업 준비를 진행하고 있습니다. 아울러 사업자번호 547-89-01240 와 제과점업 신고를 함께 준비합니다.","has_sensitive":true,"entities":[{"value":"547-89-01240","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":459,"content":"반려동물 전문 우주 산업 기술 업체와 계약을 체결합니다. 그리고 사업자등록번호 658-90-12351 로 항공우주산업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"658-90-12351","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":460,"content":"샤를로트 전문점 프랜차이즈 가맹 계약서를 작성합니다. 귀하의 사업자번호 769-01-23462 와 제과점업 허가를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"769-01-23462","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":461,"content":"애견 전문 해양 바이오 기술 연구소 창업을 준비합니다. 다만 사업자등록번호 870-12-34573 은 연구개발업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"870-12-34573","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":462,"content":"사바랭 전문점 개업 신고가 접수되었습니다. 먼저 사업자번호 981-23-45684 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"981-23-45684","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":463,"content":"반려동물 전문 스마트 시티 플랫폼 사업자로 등록합니다. 또한 사업자등록번호 102-34-56786 이 정보통신업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"102-34-56786","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":464,"content":"페스츄리 크림 전문점 운영 허가를 받았습니다. 참고로 사업자번호 213-45-67897 을 보유하고 제과점업을 신고하였습니다.","has_sensitive":true,"entities":[{"value":"213-45-67897","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":465,"content":"애견 전문 핀테크 서비스 업체 등록이 완료되었습니다. 아울러 사업자등록번호 324-56-78908 로 금융업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"324-56-78908","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":466,"content":"피낭시에 전문점 개업 준비를 도와드립니다. 그리고 사업자번호 435-67-89019 이 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"435-67-89019","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":467,"content":"반려동물 전문 블록체인 금융 플랫폼 창업을 준비합니다. 귀하의 사업자등록번호 546-78-90130 와 금융업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"546-78-90130","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":468,"content":"다쿠아즈 전문점 프랜차이즈 가맹 계약서를 발송합니다. 다만 사업자번호 657-89-01241 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"657-89-01241","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":469,"content":"애견 전문 메타버스 콘텐츠 제작 사업을 시작합니다. 먼저 사업자등록번호 768-90-12352 이 영상 제작업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"768-90-12352","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":470,"content":"칸놀리 전문점 개업 신고가 승인되었습니다. 또한 사업자번호 879-01-23463 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"879-01-23463","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":471,"content":"반려동물 전문 디지털 트윈 기술 업체 운영 등록이 완료되었습니다. 참고로 사업자등록번호는 990-12-34574 이며 정보통신업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"990-12-34574","begin":57,"end":69,"label":"BUSINESS_ID"}]}
+{"id":472,"content":"프로피테롤 전문점 운영 사업 허가를 받았습니다. 아울러 사업자번호 101-23-45685 와 제과점업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"101-23-45685","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":473,"content":"애견 전문 양자 암호화 서비스 사업자로 등록합니다. 그리고 사업자등록번호 212-34-56786 이 정보보호업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"212-34-56786","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":474,"content":"에클레어 전문점 개업 준비를 진행하고 있습니다. 귀하의 사업자번호 323-45-67897 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"323-45-67897","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":475,"content":"반려동물 전문 인공위성 통신 서비스 업체와 계약을 체결합니다. 다만 사업자등록번호 434-56-78908 은 통신업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"434-56-78908","begin":50,"end":62,"label":"BUSINESS_ID"}]}
+{"id":476,"content":"파르페 전문점 프랜차이즈 가맹 계약서를 작성합니다. 먼저 사업자번호 545-67-89019 로 제과점업 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"545-67-89019","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":477,"content":"애견 전문 수소 에너지 기술 연구소 창업을 준비합니다. 또한 사업자등록번호 656-78-90130 이 연구개발업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"656-78-90130","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":478,"content":"크렘 브륄레 전문점 개업 신고가 접수되었습니다. 참고로 사업자번호 767-89-01241 을 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"767-89-01241","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":479,"content":"반려동물 전문 6G 통신 기술 개발 사업자로 등록합니다. 아울러 사업자등록번호 878-90-12352 로 정보통신업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"878-90-12352","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":480,"content":"무스 케이크 전문점 운영 등록이 완료되었습니다. 그리고 사업자번호 989-01-23463 이 제과점업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"989-01-23463","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":481,"content":"애견 전문 홀로그램 기술 업체 개업 준비를 도와드립니다. 귀하의 사업자등록번호 100-12-34574 와 전자제품 제조업 신고를 함께 진행합니다.","has_sensitive":true,"entities":[{"value":"100-12-34574","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":482,"content":"팬나코타 전문점 프랜차이즈 가맹 계약서를 발송합니다. 다만 사업자번호 211-23-45685 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"211-23-45685","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":483,"content":"반려동물 전문 탄소 포집 기술 사업 허가가 승인되었습니다. 먼저 사업자등록번호 322-34-56786 이 환경업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"322-34-56786","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":484,"content":"밀크레이프 전문점 개업 신고가 승인되었습니다. 또한 사업자번호 433-45-67897 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"433-45-67897","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":485,"content":"애견 전문 해저 자원 탐사 업체 운영 등록이 완료되었습니다. 참고로 사업자등록번호는 544-56-78908 이며 자원개발업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"544-56-78908","begin":53,"end":65,"label":"BUSINESS_ID"}]}
+{"id":486,"content":"수플레 전문점 운영 사업을 시작합니다. 아울러 사업자번호 655-67-89019 와 제과점업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"655-67-89019","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":487,"content":"반려동물 전문 우주 관광 서비스 사업자로 등록합니다. 그리고 사업자등록번호 766-78-90130 이 관광업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"766-78-90130","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":488,"content":"바스크 치즈케이크 전문점 개업 준비를 진행하고 있습니다. 귀하의 사업자번호 877-89-01241 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"877-89-01241","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":489,"content":"애견 전문 초고속 열차 기술 개발 업체와 계약을 체결합니다. 다만 사업자등록번호 988-90-12352 는 운송장비 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"988-90-12352","begin":50,"end":62,"label":"BUSINESS_ID"}]}
+{"id":490,"content":"카놀리 전문점 프랜차이즈 가맹 계약서를 작성합니다. 먼저 사업자번호 109-01-23463 로 제과점업 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"109-01-23463","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":491,"content":"반려동물 전문 인공 강우 기술 연구소 창업을 준비합니다. 또한 사업자등록번호 210-12-34574 이 연구개발업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"210-12-34574","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":492,"content":"타르트 타탱 전문점 개업 신고가 접수되었습니다. 참고로 사업자번호 321-23-45685 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"321-23-45685","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":493,"content":"애견 전문 핵융합 에너지 기술 사업자로 등록합니다. 아울러 사업자등록번호 432-34-56787 로 에너지업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"432-34-56787","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":494,"content":"라바 케이크 전문점 운영 허가를 받았습니다. 그리고 사업자번호 543-45-67898 이 제과점업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"543-45-67898","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":495,"content":"반려동물 전문 스마트 그리드 시스템 개발 업체 등록이 완료되었습니다. 귀하의 사업자등록번호 654-56-78909 와 전력업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"654-56-78909","begin":60,"end":72,"label":"BUSINESS_ID"}]}
+{"id":496,"content":"오페라 케이크 전문점 개업 준비를 도와드립니다. 다만 사업자번호 765-67-89020 는 제과점업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"765-67-89020","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":497,"content":"애견 전문 친환경 플라스틱 제조 사업 허가가 승인되었습니다. 먼저 사업자등록번호 876-78-90131 이 화학제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"876-78-90131","begin":51,"end":63,"label":"BUSINESS_ID"}]}
+{"id":498,"content":"슈트루델 전문점 프랜차이즈 가맹 계약서를 발송합니다. 또한 사업자번호 987-89-01242 로 제과점업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"987-89-01242","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":499,"content":"반려동물 전문 스마트 물류 시스템 운영 사업을 시작합니다. 참고로 사업자등록번호는 108-90-12353 이며 물류업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"108-90-12353","begin":53,"end":65,"label":"BUSINESS_ID"}]}
+{"id":500,"content":"클라푸티 전문점 개업 신고가 승인되었습니다. 아울러 사업자번호 219-01-23464 를 발급받으면 제과점업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"219-01-23464","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":501,"content":"국세청 신고서류 제출을 위해 정보를 확인합니다. 먼저 사업자등록번호 320-12-34575 로 부가가치세 신고를 진행하셔야 합니다.","has_sensitive":true,"entities":[{"value":"320-12-34575","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":502,"content":"전자세금계산서 발행 건으로 연락드립니다. 또한 사업자번호 431-23-45686 이 홈택스에 정상 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"431-23-45686","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":503,"content":"협력업체 등록 절차를 안내해 드립니다. 참고로 사업자등록번호는 542-34-56787 이며 계약서 작성이 필요합니다.","has_sensitive":true,"entities":[{"value":"542-34-56787","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":504,"content":"법인 설립 등기 신청이 접수되었습니다. 아울러 사업자번호 653-45-67898 로 법인 인감증명서를 발급받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"653-45-67898","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":505,"content":"수출입 통관 업무를 처리하고 있습니다. 그리고 사업자등록번호 764-56-78909 가 관세청에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"764-56-78909","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":506,"content":"정부 지원 사업 신청서를 제출합니다. 귀하의 사업자번호 875-67-89020 와 재무제표를 함께 제출해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"875-67-89020","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":507,"content":"세무조사 대응을 위한 자료를 준비 중입니다. 다만 사업자등록번호 986-78-90131 은 법인세 신고 내역과 일치해야 합니다.","has_sensitive":true,"entities":[{"value":"986-78-90131","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":508,"content":"입찰 참가 자격을 심사하고 있습니다. 먼저 사업자번호 107-89-01242 로 신용평가 조회를 진행합니다.","has_sensitive":true,"entities":[{"value":"107-89-01242","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":509,"content":"거래 승인 요청 건을 검토하였습니다. 또한 사업자등록번호 218-90-12353 이 여신 심사에 통과하였습니다.","has_sensitive":true,"entities":[{"value":"218-90-12353","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":510,"content":"납품 계약서 체결을 위해 정보를 확인합니다. 참고로 사업자번호 329-01-23464 를 기준으로 대금 지급이 이루어집니다.","has_sensitive":true,"entities":[{"value":"329-01-23464","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":511,"content":"공사 입찰 공고 건으로 안내드립니다. 아울러 사업자등록번호 430-12-34575 로 건설업 면허를 확인하였습니다.","has_sensitive":true,"entities":[{"value":"430-12-34575","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":512,"content":"물품 공급 업체로 선정되셨습니다. 그리고 사업자번호 541-23-45686 이 조달청에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"541-23-45686","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":513,"content":"용역 계약 갱신 절차를 진행합니다. 귀하의 사업자등록번호 652-34-56787 와 사업자등록증 사본을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"652-34-56787","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":514,"content":"외주 업체 등록이 완료되었습니다. 다만 사업자번호 763-45-67898 는 본사 통합 관리 시스템에 입력됩니다.","has_sensitive":true,"entities":[{"value":"763-45-67898","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":515,"content":"은행 대출 신청 서류를 검토하였습니다. 먼저 사업자등록번호 874-56-78909 로 기업신용정보를 조회하였습니다.","has_sensitive":true,"entities":[{"value":"874-56-78909","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":516,"content":"보증보험 가입 절차를 안내드립니다. 또한 사업자번호 985-67-89020 이 보험사에 정상 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"985-67-89020","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":517,"content":"리스 계약 체결을 위해 심사 중입니다. 참고로 사업자등록번호는 106-78-90131 이며 재무 상태가 양호합니다.","has_sensitive":true,"entities":[{"value":"106-78-90131","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":518,"content":"신용카드 가맹점 등록이 승인되었습니다. 아울러 사업자번호 217-89-01242 로 카드 결제 시스템을 연동합니다.","has_sensitive":true,"entities":[{"value":"217-89-01242","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":519,"content":"세금 환급 신청이 접수되었습니다. 그리고 사업자등록번호 328-90-12353 로 환급금이 입금될 예정입니다.","has_sensitive":true,"entities":[{"value":"328-90-12353","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":520,"content":"특허 출원 건을 처리하고 있습니다. 귀하의 사업자번호 439-01-23464 와 기술 문서를 함께 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"439-01-23464","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":521,"content":"품질 인증서 발급 신청이 완료되었습니다. 다만 사업자등록번호 540-12-34575 는 인증기관에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"540-12-34575","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":522,"content":"가맹점 모집 공고를 진행하고 있습니다. 먼저 사업자번호 651-23-45686 로 본부 시스템에 등록됩니다.","has_sensitive":true,"entities":[{"value":"651-23-45686","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":523,"content":"해외 바이어와의 계약 건을 검토합니다. 또한 사업자등록번호 762-34-56787 이 무역협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"762-34-56787","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":524,"content":"환경 영향 평가 서류를 제출하였습니다. 참고로 사업자번호 873-45-67898 를 기준으로 환경부 승인을 받아야 합니다.","has_sensitive":true,"entities":[{"value":"873-45-67898","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":525,"content":"안전 관리 점검 일정을 공지합니다. 아울러 사업자등록번호 984-56-78909 로 안전보건공단에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"984-56-78909","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":526,"content":"중소기업 지원금 신청이 승인되었습니다. 그리고 사업자번호 105-67-89021 이 중소벤처기업부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"105-67-89021","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":527,"content":"온라인 쇼핑몰 개설 신고를 완료하였습니다. 귀하의 사업자등록번호 216-78-90132 로 통신판매업 신고증이 발급됩니다.","has_sensitive":true,"entities":[{"value":"216-78-90132","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":528,"content":"근로자 4대 보험 가입을 처리하고 있습니다. 다만 사업자번호 327-89-01243 은 근로복지공단에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"327-89-01243","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":529,"content":"임대차 계약 연장 건을 협의합니다. 먼저 사업자등록번호 438-90-12354 로 계약서를 작성하겠습니다.","has_sensitive":true,"entities":[{"value":"438-90-12354","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":530,"content":"주류 판매 허가 신청이 접수되었습니다. 또한 사업자번호 549-01-23465 가 국세청 주류 면허 시스템에 등록됩니다.","has_sensitive":true,"entities":[{"value":"549-01-23465","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":531,"content":"식품위생법 준수 점검 결과를 안내드립니다. 참고로 사업자등록번호는 650-12-34576 이며 적합 판정을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"650-12-34576","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":532,"content":"건축물 사용 승인 신청이 완료되었습니다. 아울러 사업자번호 761-23-45687 로 준공 검사를 진행합니다.","has_sensitive":true,"entities":[{"value":"761-23-45687","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":533,"content":"의료기관 개설 신고가 승인되었습니다. 그리고 사업자등록번호 872-34-56788 이 보건소에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"872-34-56788","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":534,"content":"통신사업 허가 신청 서류를 검토하였습니다. 귀하의 사업자번호 983-45-67899 와 기술 검토서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"983-45-67899","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":535,"content":"소프트웨어 사업자 신고를 완료하였습니다. 다만 사업자등록번호 104-56-78910 은 과학기술정보통신부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"104-56-78910","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":536,"content":"제조업 인허가 절차를 진행하고 있습니다. 먼저 사업자번호 215-67-89021 로 환경 시설 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"215-67-89021","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":537,"content":"운송 사업 등록이 승인되었습니다. 또한 사업자등록번호 326-78-90132 가 교통안전공단에 정상 등록되었습니다.","has_sensitive":true,"entities":[{"value":"326-78-90132","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":538,"content":"외국인 투자 기업 등록 건을 처리합니다. 참고로 사업자번호 437-89-01243 을 기준으로 외국환은행에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"437-89-01243","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":539,"content":"지식재산권 등록 신청이 접수되었습니다. 아울러 사업자등록번호 548-90-12354 로 특허청에 출원하셨습니다.","has_sensitive":true,"entities":[{"value":"548-90-12354","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":540,"content":"벤처기업 인증 심사가 진행됩니다. 그리고 사업자번호 659-01-23465 이 기술보증기금에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"659-01-23465","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":541,"content":"무역업 등록 절차를 안내해 드립니다. 귀하의 사업자등록번호 760-12-34576 로 관세사 대행 업무를 진행합니다.","has_sensitive":true,"entities":[{"value":"760-12-34576","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":542,"content":"금융 투자 업체 등록이 완료되었습니다. 다만 사업자번호 871-23-45687 은 금융감독원에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"871-23-45687","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":543,"content":"부동산 개발 사업 승인 건을 검토합니다. 먼저 사업자등록번호 982-34-56788 로 토지거래허가를 신청하셔야 합니다.","has_sensitive":true,"entities":[{"value":"982-34-56788","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":544,"content":"재활용 사업 허가가 승인되었습니다. 또한 사업자번호 103-45-67899 가 환경부 폐기물 처리업으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"103-45-67899","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":545,"content":"화학 물질 취급 업체 신고를 완료하였습니다. 참고로 사업자등록번호는 214-56-78910 이며 화학물질안전원에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"214-56-78910","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":546,"content":"문화재 수리 업체 등록이 승인되었습니다. 아울러 사업자번호 325-67-89021 로 문화재청에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"325-67-89021","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":547,"content":"관광 사업 등록 절차를 진행하고 있습니다. 그리고 사업자등록번호 436-78-90132 가 문화체육관광부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"436-78-90132","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":548,"content":"교육 서비스 업체 인가 신청이 접수되었습니다. 귀하의 사업자번호 547-89-01243 와 교육 과정을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"547-89-01243","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":549,"content":"농업 경영체 등록이 완료되었습니다. 다만 사업자등록번호 658-90-12354 는 농림축산식품부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"658-90-12354","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":550,"content":"수산업 허가 신청 서류를 검토하였습니다. 먼저 사업자번호 769-01-23465 로 해양수산부에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"769-01-23465","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":551,"content":"축산업 등록 절차가 진행되고 있습니다. 또한 사업자등록번호 870-12-34576 이 가축 방역 시스템에 등록됩니다.","has_sensitive":true,"entities":[{"value":"870-12-34576","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":552,"content":"임업 경영 등록이 승인되었습니다. 참고로 사업자번호 981-23-45687 을 기준으로 산림청에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"981-23-45687","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":553,"content":"에너지 공급 사업 허가가 승인되었습니다. 아울러 사업자등록번호 102-34-56789 로 산업통상자원부에 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"102-34-56789","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":554,"content":"광업 채굴 허가 신청이 접수되었습니다. 그리고 사업자번호 213-45-67900 이 광산안전관리본부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"213-45-67900","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":555,"content":"통신 판매 중개 업체로 등록하셨습니다. 귀하의 사업자등록번호 324-56-78911 와 플랫폼 운영 계획서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"324-56-78911","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":556,"content":"직업 소개 사업 허가가 승인되었습니다. 다만 사업자번호 435-67-89022 는 고용노동부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"435-67-89022","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":557,"content":"경비 보안 업체 등록 절차를 진행합니다. 먼저 사업자등록번호 546-78-90133 로 경찰청에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"546-78-90133","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":558,"content":"화재 보험 대리점 개설이 완료되었습니다. 또한 사업자번호 657-89-01244 가 금융감독원에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"657-89-01244","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":559,"content":"손해 사정 업체 신고가 승인되었습니다. 참고로 사업자등록번호는 768-90-12355 이며 보험개발원에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"768-90-12355","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":560,"content":"신용 정보 업체 허가 신청이 접수되었습니다. 아울러 사업자번호 879-01-23466 로 신용정보원에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"879-01-23466","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":561,"content":"채권 추심 업체 등록이 완료되었습니다. 그리고 사업자등록번호 990-12-34577 이 법무부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"990-12-34577","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":562,"content":"경매 대행 업체 신고가 승인되었습니다. 귀하의 사업자번호 101-23-45688 와 법원 등록증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"101-23-45688","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":563,"content":"공증 사무소 개설 허가가 승인되었습니다. 다만 사업자등록번호 212-34-56789 은 법무법인으로 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"212-34-56789","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":564,"content":"법무 사무소 등록 절차를 진행합니다. 먼저 사업자번호 323-45-67900 로 대한변호사협회에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"323-45-67900","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":565,"content":"회계 법인 설립 신청이 접수되었습니다. 또한 사업자등록번호 434-56-78911 이 금융감독원에 등록됩니다.","has_sensitive":true,"entities":[{"value":"434-56-78911","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":566,"content":"세무 법인 개설 허가가 승인되었습니다. 참고로 사업자번호 545-67-89022 를 기준으로 국세청에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"545-67-89022","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":567,"content":"관세 법인 등록이 완료되었습니다. 아울러 사업자등록번호 656-78-90133 로 관세청에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"656-78-90133","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":568,"content":"노무 법인 설립 신청이 승인되었습니다. 그리고 사업자번호 767-89-01244 가 고용노동부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"767-89-01244","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":569,"content":"변리사 사무소 개설 허가를 받았습니다. 귀하의 사업자등록번호 878-90-12355 와 특허청 등록증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"878-90-12355","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":570,"content":"감정 평가 법인 등록이 완료되었습니다. 다만 사업자번호 989-01-23466 은 국토교통부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"989-01-23466","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":571,"content":"건축 설계 사무소 신고가 승인되었습니다. 먼저 사업자등록번호 100-12-34577 로 건축사협회에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"100-12-34577","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":572,"content":"토목 설계 업체 등록 절차를 진행합니다. 또한 사업자번호 211-23-45688 이 엔지니어링협회에 등록됩니다.","has_sensitive":true,"entities":[{"value":"211-23-45688","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":573,"content":"전기 설계 업체 허가가 승인되었습니다. 참고로 사업자등록번호는 322-34-56789 이며 전기기술인협회에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"322-34-56789","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":574,"content":"기계 설계 업체 신고가 접수되었습니다. 아울러 사업자번호 433-45-67900 로 기계설비기술사회에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"433-45-67900","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":575,"content":"소방 설계 업체 등록이 완료되었습니다. 그리고 사업자등록번호 544-56-78911 이 소방청에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"544-56-78911","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":576,"content":"정보 통신 공사업 허가를 받았습니다. 귀하의 사업자번호 655-67-89022 와 기술인력을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"655-67-89022","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":577,"content":"소프트웨어 개발 업체로 등록하셨습니다. 다만 사업자등록번호 766-78-90133 은 한국소프트웨어산업협회에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"766-78-90133","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":578,"content":"시스템 통합 업체 신고가 승인되었습니다. 먼저 사업자번호 877-89-01244 로 정보통신공사업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"877-89-01244","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":579,"content":"네트워크 구축 업체 등록이 완료되었습니다. 또한 사업자등록번호 988-90-12355 가 과학기술정보통신부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"988-90-12355","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":580,"content":"데이터베이스 관리 업체 허가가 승인되었습니다. 참고로 사업자번호 109-01-23466 을 기준으로 개인정보보호위원회에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"109-01-23466","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":581,"content":"보안 솔루션 업체 등록 절차를 진행합니다. 아울러 사업자등록번호 210-12-34577 로 정보보호산업협회에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"210-12-34577","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":582,"content":"클라우드 서비스 사업자로 등록하셨습니다. 그리고 사업자번호 321-23-45688 이 클라우드컴퓨팅협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"321-23-45688","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":583,"content":"빅데이터 분석 업체 신고가 완료되었습니다. 귀하의 사업자등록번호 432-34-56789 와 데이터 활용 계획서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"432-34-56789","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":584,"content":"인공지능 개발 업체 허가를 받았습니다. 다만 사업자번호 543-45-67900 은 인공지능산업협회에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"543-45-67900","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":585,"content":"블록체인 기술 업체 등록이 승인되었습니다. 먼저 사업자등록번호 654-56-78911 로 블록체인협회에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"654-56-78911","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":586,"content":"사물인터넷 솔루션 업체 신고가 접수되었습니다. 또한 사업자번호 765-67-89022 가 IoT산업협회에 등록됩니다.","has_sensitive":true,"entities":[{"value":"765-67-89022","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":587,"content":"가상현실 콘텐츠 제작사로 등록하셨습니다. 참고로 사업자등록번호는 876-78-90133 이며 VR협회에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"876-78-90133","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":588,"content":"증강현실 기술 업체 허가가 승인되었습니다. 아울러 사업자번호 987-89-01244 로 AR개발자협회에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"987-89-01244","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":589,"content":"메타버스 플랫폼 사업자 등록이 완료되었습니다. 그리고 사업자등록번호 108-90-12355 가 메타버스산업협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"108-90-12355","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":590,"content":"로봇 공학 기술 업체 신고가 승인되었습니다. 귀하의 사업자번호 219-01-23466 와 로봇산업진흥원 등록증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"219-01-23466","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":591,"content":"드론 운항 사업자로 등록하셨습니다. 다만 사업자등록번호 320-12-34577 은 항공안전기술원에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"320-12-34577","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":592,"content":"자율주행 기술 업체 허가를 받았습니다. 먼저 사업자번호 431-23-45689 로 국토교통부에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"431-23-45689","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":593,"content":"전기차 충전 인프라 사업자 등록이 완료되었습니다. 또한 사업자등록번호 542-34-56790 이 한국전력공사에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"542-34-56790","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":594,"content":"수소차 충전소 운영 허가가 승인되었습니다. 참고로 사업자번호 653-45-67901 을 기준으로 산업통상자원부에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"653-45-67901","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":595,"content":"배터리 제조 업체 등록 절차를 진행합니다. 아울러 사업자등록번호 764-56-78912 로 환경부 화학물질 등록도 필요합니다.","has_sensitive":true,"entities":[{"value":"764-56-78912","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":596,"content":"신재생에너지 발전 사업자로 등록하셨습니다. 그리고 사업자번호 875-67-89023 이 에너지공단에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"875-67-89023","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":597,"content":"풍력 발전 설치 업체 신고가 완료되었습니다. 귀하의 사업자등록번호 986-78-90134 와 설치 계획서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"986-78-90134","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":598,"content":"태양광 모듈 제조업 허가를 받았습니다. 다만 사업자번호 107-89-01245 은 산업통상자원부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"107-89-01245","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":599,"content":"지열 에너지 개발 업체 등록이 승인되었습니다. 먼저 사업자등록번호 218-90-12356 로 한국지질자원연구원에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"218-90-12356","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":600,"content":"바이오매스 발전소 운영 신고가 접수되었습니다. 또한 사업자번호 329-01-23467 이 환경부에 등록됩니다.","has_sensitive":true,"entities":[{"value":"329-01-23467","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":601,"content":"스마트그리드 구축 사업자로 등록하셨습니다. 참고로 사업자등록번호는 440-12-34578 이며 전력거래소에 등록되었습니다.","has_sensitive":true,"entities":[{"value":"440-12-34578","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":602,"content":"에너지 저장 시스템 제조업 허가가 승인되었습니다. 아울러 사업자번호 551-23-45689 로 안전검사를 완료하셔야 합니다.","has_sensitive":true,"entities":[{"value":"551-23-45689","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":603,"content":"전력 중개 사업 등록이 완료되었습니다. 그리고 사업자등록번호 662-34-56790 이 전력시장운영규칙에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"662-34-56790","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":604,"content":"마이크로그리드 구축 업체 신고가 승인되었습니다. 귀하의 사업자번호 773-45-67901 와 기술 검토서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"773-45-67901","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":605,"content":"스마트 미터링 솔루션 업체로 등록하셨습니다. 다만 사업자등록번호 884-56-78912 는 한국전력공사 시스템에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"884-56-78912","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":606,"content":"전력 수요 관리 사업 허가를 받았습니다. 먼저 사업자번호 995-67-89023 로 에너지관리공단에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"995-67-89023","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":607,"content":"열병합 발전소 운영 등록이 승인되었습니다. 또한 사업자등록번호 116-78-90134 이 지역난방공사에 등록됩니다.","has_sensitive":true,"entities":[{"value":"116-78-90134","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":608,"content":"집단에너지 공급 사업자 신고가 접수되었습니다. 참고로 사업자번호 227-89-01245 를 기준으로 열 공급을 시작합니다.","has_sensitive":true,"entities":[{"value":"227-89-01245","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":609,"content":"연료전지 발전 업체 허가가 승인되었습니다. 아울러 사업자등록번호 338-90-12356 로 가스안전공사에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"338-90-12356","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":610,"content":"소수력 발전소 설치 등록이 완료되었습니다. 그리고 사업자번호 449-01-23467 이 한국수력원자력에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"449-01-23467","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":611,"content":"조류 발전 시설 운영 신고가 승인되었습니다. 귀하의 사업자등록번호 550-12-34578 와 환경영향평가서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"550-12-34578","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":612,"content":"파력 발전 프로젝트 사업자로 등록하셨습니다. 다만 사업자번호 661-23-45689 은 해양수산부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"661-23-45689","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":613,"content":"온도차 에너지 활용 업체 허가를 받았습니다. 먼저 사업자등록번호 772-34-56790 로 건물에너지관리시스템에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"772-34-56790","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":614,"content":"폐열 회수 설비 제조업 등록이 승인되었습니다. 또한 사업자번호 883-45-67901 이 에너지절약전문기업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"883-45-67901","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":615,"content":"에너지 컨설팅 업체 신고가 접수되었습니다. 참고로 사업자등록번호는 994-56-78912 이며 기술사 자격도 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"994-56-78912","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":616,"content":"녹색 건축 인증 기관으로 등록하셨습니다. 아울러 사업자번호 115-67-89023 로 국토교통부에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"115-67-89023","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":617,"content":"제로 에너지 건물 설계 업체 허가가 승인되었습니다. 그리고 사업자등록번호 226-78-90134 가 건축사협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"226-78-90134","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":618,"content":"에너지 진단 전문 기업 등록이 완료되었습니다. 귀하의 사업자번호 337-89-01245 와 진단원 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"337-89-01245","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":619,"content":"탄소 배출권 거래 중개 업체로 등록하셨습니다. 다만 사업자등록번호 448-90-12356 은 환경부에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"448-90-12356","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":620,"content":"온실가스 감축 컨설팅 사업 허가를 받았습니다. 먼저 사업자번호 559-01-23467 로 저탄소녹색성장기본법에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"559-01-23467","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":621,"content":"환경 영향 평가 대행 업체 등록이 승인되었습니다. 또한 사업자등록번호 660-12-34578 이 환경영향평가협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"660-12-34578","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":622,"content":"수질 오염 방지 시설 설치 업체 신고가 접수되었습니다. 참고로 사업자번호 771-23-45689 를 기준으로 환경관리업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"771-23-45689","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":623,"content":"대기 오염 측정 장비 제조업 허가가 승인되었습니다. 아울러 사업자등록번호 882-34-56790 로 형식승인을 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"882-34-56790","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":624,"content":"소음 진동 측정 대행 업체로 등록하셨습니다. 그리고 사업자번호 993-45-67901 이 한국환경공단에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"993-45-67901","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":625,"content":"토양 오염 정화 업체 등록이 완료되었습니다. 귀하의 사업자등록번호 114-56-78912 와 정화 기술 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"114-56-78912","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":626,"content":"폐기물 수거 운반 업체 신고가 승인되었습니다. 다만 사업자번호 225-67-89023 은 폐기물관리법에 따라 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"225-67-89023","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":627,"content":"재활용 선별 시설 운영 허가를 받았습니다. 먼저 사업자등록번호 336-78-90134 로 지자체에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"336-78-90134","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":628,"content":"음식물 쓰레기 처리 업체 등록이 승인되었습니다. 또한 사업자번호 447-89-01245 가 환경부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"447-89-01245","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":629,"content":"의료 폐기물 처리 전문 업체로 등록하셨습니다. 참고로 사업자등록번호는 558-90-12356 이며 특별관리시설로 허가받았습니다.","has_sensitive":true,"entities":[{"value":"558-90-12356","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":630,"content":"유해 화학물질 처리 업체 신고가 접수되었습니다. 아울러 사업자번호 669-01-23467 로 환경부 유해화학물질관리시스템에 등록하셔야 합니다.","has_sensitive":true,"entities":[{"value":"669-01-23467","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":631,"content":"방사성 폐기물 관리 업체 허가가 승인되었습니다. 그리고 사업자등록번호 770-12-34578 이 원자력안전위원회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"770-12-34578","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":632,"content":"전자 폐기물 재활용 업체 등록이 완료되었습니다. 귀하의 사업자번호 881-23-45689 와 재활용 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"881-23-45689","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":633,"content":"건설 폐기물 중간처리 업체로 등록하셨습니다. 다만 사업자등록번호 992-34-56790 은 건설폐기물재활용협회에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"992-34-56790","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":634,"content":"폐수 처리 전문 업체 신고가 승인되었습니다. 먼저 사업자번호 113-45-67901 로 수질오염방지시설 설치를 완료하셔야 합니다.","has_sensitive":true,"entities":[{"value":"113-45-67901","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":635,"content":"하수 처리 시설 운영 허가를 받았습니다. 또한 사업자등록번호 224-56-78912 가 환경공단에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"224-56-78912","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":636,"content":"정수 처리 약품 제조업 등록이 승인되었습니다. 참고로 사업자번호 335-67-89023 을 기준으로 먹는물관리법에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"335-67-89023","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":637,"content":"수도 시설 관리 업체로 등록하셨습니다. 아울러 사업자등록번호 446-78-90134 로 상하수도협회에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"446-78-90134","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":638,"content":"해양 환경 정화 업체 신고가 접수되었습니다. 그리고 사업자번호 557-89-01245 이 해양환경공단에 등록됩니다.","has_sensitive":true,"entities":[{"value":"557-89-01245","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":639,"content":"방제 장비 임대 업체 허가가 승인되었습니다. 귀하의 사업자등록번호 668-90-12356 와 방제 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"668-90-12356","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":640,"content":"유류 오염 방제 전문 업체 등록이 완료되었습니다. 다만 사업자등록번호 779-01-23467 은 해양경찰청에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"779-01-23467","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":641,"content":"실내 공기질 측정 대행 업체로 등록하셨습니다. 먼저 사업자번호 880-12-34578 로 실내공기질관리법에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"880-12-34578","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":642,"content":"석면 조사 제거 업체 신고가 승인되었습니다. 또한 사업자등록번호 991-23-45689 가 고용노동부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"991-23-45689","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":643,"content":"라돈 측정 분석 업체 허가를 받았습니다. 참고로 사업자번호 112-34-56790 을 보유하고 원자력안전기술원에 신고하였습니다.","has_sensitive":true,"entities":[{"value":"112-34-56790","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":644,"content":"미세먼지 저감 장치 제조업 등록이 승인되었습니다. 아울러 사업자등록번호 223-45-67901 로 환경부 인증을 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"223-45-67901","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":645,"content":"공기 청정 시스템 설치 업체로 등록하셨습니다. 그리고 사업자번호 334-56-78912 가 실내환경협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"334-56-78912","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":646,"content":"환경 모니터링 시스템 구축 업체 신고가 접수되었습니다. 귀하의 사업자등록번호 445-67-89023 와 기술 인력을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"445-67-89023","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":647,"content":"기상 관측 장비 제조업 허가가 승인되었습니다. 다만 사업자번호 556-78-90134 은 기상청에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"556-78-90134","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":648,"content":"지진 감지 시스템 설치 업체 등록이 완료되었습니다. 먼저 사업자등록번호 667-89-01245 로 행정안전부에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"667-89-01245","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":649,"content":"재난 안전 컨설팅 업체로 등록하셨습니다. 또한 사업자번호 778-90-12356 이 소방방재청에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"778-90-12356","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":650,"content":"비상 전원 공급 장치 제조업 신고가 승인되었습니다. 참고로 사업자등록번호는 889-01-23467 이며 KC인증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"889-01-23467","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":651,"content":"통합 관제 시스템 구축 업체 허가를 받았습니다. 아울러 사업자번호 990-12-34578 로 정보통신공사업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"990-12-34578","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":652,"content":"지능형 교통 시스템 설치 업체 등록이 승인되었습니다. 그리고 사업자등록번호 111-23-45689 가 국토교통부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"111-23-45689","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":653,"content":"도로 안전 시설물 설치 업체로 등록하셨습니다. 귀하의 사업자번호 222-34-56790 와 안전진단 자격을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"222-34-56790","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":654,"content":"교량 점검 진단 전문 업체 신고가 접수되었습니다. 다만 사업자등록번호 333-45-67901 은 시설안전공단에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"333-45-67901","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":655,"content":"터널 안전 관리 업체 허가가 승인되었습니다. 먼저 사업자번호 444-56-78912 로 한국도로공사에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"444-56-78912","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":656,"content":"댐 안전 점검 업체 등록이 완료되었습니다. 또한 사업자등록번호 555-67-89023 이 한국수자원공사에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"555-67-89023","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":657,"content":"항만 시설물 유지보수 업체로 등록하셨습니다. 참고로 사업자번호 666-78-90134 를 기준으로 해양수산부에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"666-78-90134","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":658,"content":"철도 시설 안전 진단 업체 신고가 승인되었습니다. 아울러 사업자등록번호 777-89-01245 로 한국철도공사에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"777-89-01245","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":659,"content":"공항 시설 관리 업체 허가를 받았습니다. 그리고 사업자번호 888-90-12356 이 한국공항공사에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"888-90-12356","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":660,"content":"항공 정비 업체 등록이 승인되었습니다. 귀하의 사업자등록번호 999-01-23467 와 정비사 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"999-01-23467","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":661,"content":"우주 발사체 부품 제조업으로 등록하셨습니다. 다만 사업자번호 121-12-34578 은 항공우주연구원에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"121-12-34578","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":662,"content":"위성 통신 서비스 업체 신고가 접수되었습니다. 먼저 사업자등록번호 232-23-45689 로 과학기술정보통신부에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"232-23-45689","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":663,"content":"원격 탐사 데이터 분석 업체 허가가 승인되었습니다. 또한 사업자번호 343-34-56790 이 국가위성정보활용지원센터에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"343-34-56790","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":664,"content":"GPS 측량 서비스 업체 등록이 완료되었습니다. 참고로 사업자등록번호는 454-45-67901 이며 측량업 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"454-45-67901","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":665,"content":"지형 정보 시스템 구축 업체로 등록하셨습니다. 아울러 사업자번호 565-56-78912 로 국토정보공사에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"565-56-78912","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":666,"content":"3차원 지도 제작 업체 신고가 승인되었습니다. 그리고 사업자등록번호 676-67-89023 이 공간정보산업협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"676-67-89023","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":667,"content":"항공 사진 측량 업체 허가를 받았습니다. 귀하의 사업자번호 787-78-90134 와 항공촬영 허가증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"787-78-90134","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":668,"content":"수로 측량 전문 업체 등록이 승인되었습니다. 다만 사업자등록번호 898-89-01245 은 국립해양조사원에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"898-89-01245","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":669,"content":"지적 측량 업체로 등록하셨습니다. 먼저 사업자번호 909-90-12356 로 대한지적공사에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"909-90-12356","begin":28,"end":40,"label":"BUSINESS_ID"}]}
+{"id":670,"content":"지하 시설물 탐사 업체 신고가 접수되었습니다. 또한 사업자등록번호 131-01-23467 이 한국시설안전공단에 등록됩니다.","has_sensitive":true,"entities":[{"value":"131-01-23467","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":671,"content":"지질 조사 분석 업체 허가가 승인되었습니다. 참고로 사업자번호 242-12-34578 을 기준으로 지질자원연구원에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"242-12-34578","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":672,"content":"토질 시험 전문 업체 등록이 완료되었습니다. 아울러 사업자등록번호 353-23-45689 로 건설기술인협회에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"353-23-45689","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":673,"content":"지반 조사 업체로 등록하셨습니다. 그리고 사업자번호 464-34-56790 이 한국지반공학회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"464-34-56790","begin":29,"end":41,"label":"BUSINESS_ID"}]}
+{"id":674,"content":"구조물 안전 진단 업체 신고가 승인되었습니다. 귀하의 사업자등록번호 575-45-67901 와 안전진단 전문기관 지정서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"575-45-67901","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":675,"content":"비파괴 검사 업체 허가를 받았습니다. 다만 사업자등록번호 686-56-78912 는 한국비파괴검사협회에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"686-56-78912","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":676,"content":"용접 검사 전문 업체 등록이 승인되었습니다. 먼저 사업자번호 797-67-89023 로 용접기능사 자격을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"797-67-89023","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":677,"content":"재료 시험 분석 업체로 등록하셨습니다. 또한 사업자등록번호 908-78-90134 가 한국화학융합시험연구원에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"908-78-90134","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":678,"content":"품질 검사 인증 업체 신고가 접수되었습니다. 참고로 사업자번호 141-89-01245 을 기준으로 한국인정기구에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"141-89-01245","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":679,"content":"계량 측정 기기 검정 업체 허가가 승인되었습니다. 아울러 사업자등록번호 252-90-12356 로 한국표준과학연구원에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"252-90-12356","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":680,"content":"교정 서비스 전문 업체 등록이 완료되었습니다. 그리고 사업자번호 363-01-23467 이 국가교정기관으로 인정받았습니다.","has_sensitive":true,"entities":[{"value":"363-01-23467","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":681,"content":"시험 분석 연구소로 등록하셨습니다. 귀하의 사업자등록번호 474-12-34578 와 KOLAS 인정서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"474-12-34578","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":682,"content":"화학 분석 서비스 업체 신고가 승인되었습니다. 다만 사업자번호 585-23-45689 은 식품의약품안전처에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"585-23-45689","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":683,"content":"미생물 검사 업체 허가를 받았습니다. 먼저 사업자등록번호 696-34-56790 로 질병관리청에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"696-34-56790","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":684,"content":"유전자 분석 서비스 업체 등록이 승인되었습니다. 또한 사업자등록번호 817-45-67901 이 생명윤리법에 따라 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"817-45-67901","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":685,"content":"임상 시험 수탁 기관으로 등록하셨습니다. 참고로 사업자번호 928-56-78912 를 기준으로 식약처 승인을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"928-56-78912","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":686,"content":"의료 기기 임상 시험 업체 신고가 접수되었습니다. 아울러 사업자등록번호 151-67-89023 로 의료기기법에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"151-67-89023","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":687,"content":"바이오 의약품 연구 개발 업체 허가가 승인되었습니다. 그리고 사업자번호 262-78-90134 가 첨단바이오의약품센터에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"262-78-90134","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":688,"content":"줄기세포 연구 기관 등록이 완료되었습니다. 귀하의 사업자등록번호 373-89-01245 와 생명윤리위원회 승인서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"373-89-01245","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":689,"content":"유전자 치료제 개발 업체로 등록하셨습니다. 다만 사업자번호 484-90-12356 은 식품의약품안전처에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"484-90-12356","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":690,"content":"세포 치료제 제조 업체 신고가 승인되었습니다. 먼저 사업자등록번호 595-01-23467 로 첨단재생의료법에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"595-01-23467","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":691,"content":"조직 공학 제품 개발 업체 허가를 받았습니다. 또한 사업자번호 616-12-34578 이 한국조직공학회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"616-12-34578","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":692,"content":"인공 장기 제조 업체 등록이 승인되었습니다. 참고로 사업자등록번호는 727-23-45689 이며 의료기기 제조허가를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"727-23-45689","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":693,"content":"재생 의료 서비스 제공 기관으로 등록하셨습니다. 아울러 사업자번호 838-34-56790 로 보건복지부에 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"838-34-56790","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":694,"content":"정밀 의료 진단 업체 신고가 접수되었습니다. 그리고 사업자등록번호 949-45-67901 이 유전자검사기관으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"949-45-67901","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":695,"content":"맞춤형 건강관리 서비스 업체 허가가 승인되었습니다. 귀하의 사업자번호 161-56-78912 와 개인정보 처리 방침을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"161-56-78912","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":696,"content":"원격 의료 플랫폼 운영 업체 등록이 완료되었습니다. 다만 사업자등록번호 272-67-89023 은 보건의료기본법에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"272-67-89023","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":697,"content":"디지털 헬스케어 서비스 사업자로 등록하셨습니다. 먼저 사업자번호 383-78-90134 로 식품의약품안전처에 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"383-78-90134","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":698,"content":"모바일 헬스 앱 개발 업체 신고가 승인되었습니다. 또한 사업자등록번호 494-89-01245 가 의료기기로 허가받았습니다.","has_sensitive":true,"entities":[{"value":"494-89-01245","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":699,"content":"웨어러블 의료기기 제조 업체 허가를 받았습니다. 참고로 사업자번호 515-90-12356 을 기준으로 전파법 인증도 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"515-90-12356","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":700,"content":"스마트 병원 시스템 구축 업체 등록이 승인되었습니다. 아울러 사업자등록번호 626-01-23467 로 의료정보시스템을 구축하셨습니다.","has_sensitive":true,"entities":[{"value":"626-01-23467","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":701,"content":"전자 의무 기록 시스템 개발 업체로 등록하셨습니다. 그리고 사업자번호 737-12-34578 이 보건복지부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"737-12-34578","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":702,"content":"의료 영상 분석 AI 솔루션 업체 신고가 접수되었습니다. 귀하의 사업자등록번호 848-23-45689 와 의료기기 허가증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"848-23-45689","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":703,"content":"의료 빅데이터 분석 플랫폼 허가가 승인되었습니다. 다만 사업자번호 959-34-56790 은 개인정보보호법에 따라 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"959-34-56790","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":704,"content":"약물 전달 시스템 개발 업체 등록이 완료되었습니다. 먼저 사업자등록번호 171-45-67901 로 의약품 연구개발 신고를 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"171-45-67901","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":705,"content":"나노 의약품 제조 업체로 등록하셨습니다. 또한 사업자번호 282-56-78912 가 나노융합산업협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"282-56-78912","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":706,"content":"백신 개발 연구소 신고가 승인되었습니다. 참고로 사업자등록번호는 393-67-89023 이며 GMP 시설을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"393-67-89023","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":707,"content":"진단 키트 제조 업체 허가를 받았습니다. 아울러 사업자번호 414-78-90134 로 체외진단의료기기 허가를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"414-78-90134","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":708,"content":"혈액 검사 서비스 업체 등록이 승인되었습니다. 그리고 사업자등록번호 525-89-01245 가 진단검사의학과 전문의 관리하에 운영됩니다.","has_sensitive":true,"entities":[{"value":"525-89-01245","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":709,"content":"병리 검사 전문 기관으로 등록하셨습니다. 귀하의 사업자번호 636-90-12356 와 병리과 전문의 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"636-90-12356","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":710,"content":"영상 진단 검사 센터 신고가 접수되었습니다. 다만 사업자등록번호 747-01-23467 은 영상의학과 전문의가 필요합니다.","has_sensitive":true,"entities":[{"value":"747-01-23467","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":711,"content":"내시경 검사 전문 클리닉 허가가 승인되었습니다. 먼저 사업자번호 858-12-34578 로 내과 전문의 신고를 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"858-12-34578","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":712,"content":"건강검진 센터 등록이 완료되었습니다. 또한 사업자등록번호 969-23-45689 가 국민건강보험공단에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"969-23-45689","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":713,"content":"인공 투석 센터 운영 업체로 등록하셨습니다. 참고로 사업자번호 181-34-56790 을 기준으로 신장내과 전문의가 상주합니다.","has_sensitive":true,"entities":[{"value":"181-34-56790","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":714,"content":"물리 치료 센터 신고가 승인되었습니다. 아울러 사업자등록번호 292-45-67901 로 물리치료사 면허를 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"292-45-67901","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":715,"content":"작업 치료 클리닉 허가를 받았습니다. 그리고 사업자번호 313-56-78912 가 작업치료사협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"313-56-78912","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":716,"content":"언어 치료 센터 등록이 승인되었습니다. 귀하의 사업자등록번호 424-67-89023 와 언어재활사 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"424-67-89023","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":717,"content":"심리 상담 센터 운영 업체로 등록하셨습니다. 다만 사업자번호 535-78-90134 는 임상심리사 자격이 필요합니다.","has_sensitive":true,"entities":[{"value":"535-78-90134","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":718,"content":"정신 건강 의학과 의원 신고가 접수되었습니다. 먼저 사업자등록번호 646-89-01245 로 정신건강의학과 전문의 신고를 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"646-89-01245","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":719,"content":"중독 재활 센터 허가가 승인되었습니다. 또한 사업자번호 757-90-12356 이 보건복지부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"757-90-12356","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":720,"content":"치매 전문 요양 시설 등록이 완료되었습니다. 참고로 사업자등록번호는 868-01-23467 이며 장기요양기관으로 지정받았습니다.","has_sensitive":true,"entities":[{"value":"868-01-23467","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":721,"content":"호스피스 완화 의료 기관으로 등록하셨습니다. 아울러 사업자번호 979-12-34578 로 완화의료전문기관 지정을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"979-12-34578","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":722,"content":"재가 간호 서비스 업체 신고가 승인되었습니다. 그리고 사업자등록번호 191-23-45689 가 간호사 면허를 기반으로 운영됩니다.","has_sensitive":true,"entities":[{"value":"191-23-45689","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":723,"content":"방문 요양 서비스 센터 허가를 받았습니다. 귀하의 사업자번호 212-34-56791 와 요양보호사 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"212-34-56791","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":724,"content":"산후 조리원 운영 등록이 승인되었습니다. 다만 사업자등록번호 323-45-67902 은 의료법에 따라 신고되어야 합니다.","has_sensitive":true,"entities":[{"value":"323-45-67902","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":725,"content":"조산원 개설 신고가 접수되었습니다. 먼저 사업자번호 434-56-78913 로 조산사 면허를 확인하셔야 합니다.","has_sensitive":true,"entities":[{"value":"434-56-78913","begin":29,"end":41,"label":"BUSINESS_ID"}]}
+{"id":726,"content":"안마 시술소 운영 업체로 등록하셨습니다. 또한 사업자등록번호 545-67-89024 가 시각장애인 안마사 자격으로 운영됩니다.","has_sensitive":true,"entities":[{"value":"545-67-89024","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":727,"content":"한의원 개원 허가가 승인되었습니다. 참고로 사업자번호 656-78-90135 을 기준으로 한의사 면허가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"656-78-90135","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":728,"content":"한방 병원 개설 등록이 완료되었습니다. 아울러 사업자등록번호 767-89-01246 로 의료기관 개설 신고를 하셨습니다.","has_sensitive":true,"entities":[{"value":"767-89-01246","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":729,"content":"침구 치료 전문 한의원 신고가 승인되었습니다. 그리고 사업자번호 878-90-12357 이 대한한의사협회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"878-90-12357","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":730,"content":"한약 조제실 운영 업체 허가를 받았습니다. 귀하의 사업자등록번호 989-01-23468 와 한약사 면허를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"989-01-23468","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":731,"content":"약국 개설 등록이 승인되었습니다. 다만 사업자번호 121-12-34579 은 약사 면허 소지자만 가능합니다.","has_sensitive":true,"entities":[{"value":"121-12-34579","begin":27,"end":39,"label":"BUSINESS_ID"}]}
+{"id":732,"content":"동물 약국 운영 신고가 접수되었습니다. 먼저 사업자등록번호 232-23-45690 로 수의사 면허를 확인하셔야 합니다.","has_sensitive":true,"entities":[{"value":"232-23-45690","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":733,"content":"동물 병원 개원 허가가 승인되었습니다. 또한 사업자번호 343-34-56791 이 대한수의사회에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"343-34-56791","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":734,"content":"야생 동물 진료 기관 등록이 완료되었습니다. 참고로 사업자등록번호는 454-45-67902 이며 환경부 승인을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"454-45-67902","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":735,"content":"동물 재활 치료 센터로 등록하셨습니다. 아울러 사업자번호 565-56-78913 로 수의재활치료사 자격을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"565-56-78913","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":736,"content":"동물 응급 의료 센터 신고가 승인되었습니다. 그리고 사업자등록번호 676-67-89024 가 24시간 진료 체계로 운영됩니다.","has_sensitive":true,"entities":[{"value":"676-67-89024","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":737,"content":"반려동물 검진 센터 허가를 받았습니다. 귀하의 사업자번호 787-78-90135 와 진단 장비 목록을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"787-78-90135","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":738,"content":"동물 피부과 전문 병원 등록이 승인되었습니다. 다만 사업자등록번호 898-89-01246 은 피부과 전문 수의사가 필요합니다.","has_sensitive":true,"entities":[{"value":"898-89-01246","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":739,"content":"동물 치과 클리닉 운영 업체로 등록하셨습니다. 먼저 사업자번호 909-90-12357 로 치과 진료 장비를 갖추셔야 합니다.","has_sensitive":true,"entities":[{"value":"909-90-12357","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":740,"content":"반려동물 안과 전문 병원 신고가 접수되었습니다. 또한 사업자등록번호 131-01-23468 이 안과 수의사로 운영됩니다.","has_sensitive":true,"entities":[{"value":"131-01-23468","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":741,"content":"동물 외과 수술 센터 허가가 승인되었습니다. 참고로 사업자번호 242-12-34579 를 기준으로 무균 수술실을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"242-12-34579","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":742,"content":"동물 내과 진료 병원 등록이 완료되었습니다. 아울러 사업자등록번호 353-23-45690 로 내과 전문 진료를 제공합니다.","has_sensitive":true,"entities":[{"value":"353-23-45690","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":743,"content":"조류 전문 동물 병원으로 등록하셨습니다. 그리고 사업자번호 464-34-56791 이 조류 진료 경험을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"464-34-56791","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":744,"content":"파충류 전문 동물 병원 신고가 승인되었습니다. 귀하의 사업자등록번호 575-45-67902 와 특수동물 진료 자격을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"575-45-67902","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":745,"content":"수족류 전문 병원 허가를 받았습니다. 다만 사업자번호 686-56-78913 은 수생동물 진료 시설이 필요합니다.","has_sensitive":true,"entities":[{"value":"686-56-78913","begin":29,"end":41,"label":"BUSINESS_ID"}]}
+{"id":746,"content":"말 전문 동물 병원 등록이 승인되었습니다. 먼저 사업자등록번호 797-67-89024 로 대동물 진료 시설을 갖추셔야 합니다.","has_sensitive":true,"entities":[{"value":"797-67-89024","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":747,"content":"가축 질병 진단 연구소 운영 업체로 등록하셨습니다. 또한 사업자번호 908-78-90135 가 농림축산검역본부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"908-78-90135","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":748,"content":"동물 백신 제조 업체 신고가 접수되었습니다. 참고로 사업자등록번호는 141-89-01246 이며 동물용 의약품 제조 허가를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"141-89-01246","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":749,"content":"동물 의약품 도매 업체 허가가 승인되었습니다. 아울러 사업자번호 252-90-12357 로 동물용 의약품 판매업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"252-90-12357","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":750,"content":"동물 의료기기 수입 업체 등록이 완료되었습니다. 그리고 사업자등록번호 363-01-23468 이 식품의약품안전처에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"363-01-23468","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":751,"content":"수의학 연구소 운영 허가를 받았습니다. 귀하의 사업자번호 474-12-34579 와 동물실험시설 등록증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"474-12-34579","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":752,"content":"실험동물 사육 시설로 등록하셨습니다. 다만 사업자등록번호 585-23-45690 은 동물보호법에 따라 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"585-23-45690","begin":32,"end":44,"label":"BUSINESS_ID"}]}
+{"id":753,"content":"동물 실험 윤리위원회 운영 기관 신고가 승인되었습니다. 먼저 사업자등록번호 696-34-56791 로 기관생명윤리위원회를 구성하셔야 합니다.","has_sensitive":true,"entities":[{"value":"696-34-56791","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":754,"content":"동물 복지 인증 기관 등록이 완료되었습니다. 또한 사업자번호 817-45-67902 가 농림축산식품부에 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"817-45-67902","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":755,"content":"동물 보호 단체로 등록하셨습니다. 참고로 사업자등록번호는 928-56-78913 이며 비영리법인으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"928-56-78913","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":756,"content":"유기동물 보호소 운영 신고가 접수되었습니다. 아울러 사업자번호 151-67-89024 로 동물보호센터 지정을 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"151-67-89024","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":757,"content":"동물 입양 센터 허가가 승인되었습니다. 그리고 사업자등록번호 262-78-90135 가 동물등록대행업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"262-78-90135","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":758,"content":"반려동물 행동 상담 센터 등록이 완료되었습니다. 귀하의 사업자번호 373-89-01246 와 동물행동전문가 자격증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"373-89-01246","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":759,"content":"펫 시터 파견 업체로 등록하셨습니다. 다만 사업자등록번호 484-90-12357 은 파견근로자보호법에 등록되어야 합니다.","has_sensitive":true,"entities":[{"value":"484-90-12357","begin":31,"end":43,"label":"BUSINESS_ID"}]}
+{"id":760,"content":"반려동물 돌봄 서비스 신고가 승인되었습니다. 먼저 사업자번호 595-01-23468 로 동물돌봄관리사 교육을 이수하셔야 합니다.","has_sensitive":true,"entities":[{"value":"595-01-23468","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":761,"content":"애견 카페 운영 허가를 받았습니다. 또한 사업자등록번호 616-12-34579 가 식품위생법상 휴게음식점으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"616-12-34579","begin":30,"end":42,"label":"BUSINESS_ID"}]}
+{"id":762,"content":"고양이 카페 개업 등록이 승인되었습니다. 참고로 사업자번호 727-23-45690 을 기준으로 일반음식점 허가를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"727-23-45690","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":763,"content":"반려동물 동반 식당 신고가 접수되었습니다. 아울러 사업자등록번호 838-34-56791 로 테라스 영업장을 별도 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"838-34-56791","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":764,"content":"애견 동반 펜션 운영 허가가 승인되었습니다. 그리고 사업자번호 949-45-67902 가 관광숙박업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"949-45-67902","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":765,"content":"반려동물 동반 캠핑장 등록이 완료되었습니다. 귀하의 사업자등록번호 161-56-78913 와 야영장업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"161-56-78913","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":766,"content":"애견 동반 해변 운영 업체로 등록하셨습니다. 다만 사업자번호 272-67-89024 는 지자체 조례에 따라 허가받아야 합니다.","has_sensitive":true,"entities":[{"value":"272-67-89024","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":767,"content":"반려동물 전용 수영장 신고가 승인되었습니다. 먼저 사업자등록번호 383-78-90135 로 체육시설업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"383-78-90135","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":768,"content":"애견 전용 놀이터 운영 허가를 받았습니다. 또한 사업자번호 494-89-01246 이 공원시설업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"494-89-01246","begin":33,"end":45,"label":"BUSINESS_ID"}]}
+{"id":769,"content":"반려동물 테마파크 등록이 승인되었습니다. 참고로 사업자등록번호는 515-90-12357 이며 종합유원시설업으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"515-90-12357","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":770,"content":"애견 공원 조성 사업 신고가 접수되었습니다. 아울러 사업자번호 626-01-23468 로 공원 운영 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"626-01-23468","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":771,"content":"반려동물 문화 센터 운영 허가가 승인되었습니다. 그리고 사업자등록번호 737-12-34579 가 문화시설업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"737-12-34579","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":772,"content":"애견 박물관 개관 등록이 완료되었습니다. 귀하의 사업자번호 848-23-45690 와 박물관 설립 허가증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"848-23-45690","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":773,"content":"반려동물 체험관 운영 업체로 등록하셨습니다. 다만 사업자등록번호 959-34-56791 은 체험학습시설로 신고되어야 합니다.","has_sensitive":true,"entities":[{"value":"959-34-56791","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":774,"content":"애견 놀이 시설 제조 업체 신고가 승인되었습니다. 먼저 사업자번호 171-45-67902 로 놀이시설 안전검사를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"171-45-67902","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":775,"content":"반려동물 가구 제작 업체 허가를 받았습니다. 또한 사업자등록번호 282-56-78913 이 가구 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"282-56-78913","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":776,"content":"애견 하우스 제조 업체 등록이 승인되었습니다. 참고로 사업자번호 393-67-89024 를 기준으로 목재가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"393-67-89024","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":777,"content":"반려동물 침대 브랜드로 등록하셨습니다. 아울러 사업자등록번호 414-78-90135 로 섬유제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"414-78-90135","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":778,"content":"애견 이동 가방 제조 업체 신고가 접수되었습니다. 그리고 사업자번호 525-89-01246 이 가방 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"525-89-01246","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":779,"content":"반려동물 목줄 제작 업체 허가가 승인되었습니다. 귀하의 사업자등록번호 636-90-12357 와 제품 안전인증을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"636-90-12357","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":780,"content":"애견 하네스 제조 업체 등록이 완료되었습니다. 다만 사업자번호 747-01-23468 은 KC인증을 받아야 합니다.","has_sensitive":true,"entities":[{"value":"747-01-23468","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":781,"content":"반려동물 식기 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 858-12-34579 로 식품용 기구 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"858-12-34579","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":782,"content":"애견 급수기 제조 업체 신고가 승인되었습니다. 또한 사업자번호 969-23-45690 이 플라스틱 제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"969-23-45690","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":783,"content":"반려동물 자동 급식기 개발 업체 허가를 받았습니다. 참고로 사업자등록번호는 181-34-56791 이며 전자제품 제조업으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"181-34-56791","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":784,"content":"애견 CCTV 제조 업체 등록이 승인되었습니다. 아울러 사업자번호 292-45-67902 로 전기통신기자재 적합성 평가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"292-45-67902","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":785,"content":"반려동물 GPS 추적기 개발 업체로 등록하셨습니다. 그리고 사업자등록번호 313-56-78913 이 위치정보사업자로 신고되어 있습니다.","has_sensitive":true,"entities":[{"value":"313-56-78913","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":786,"content":"애견 스마트 목걸이 제조 업체 신고가 접수되었습니다. 귀하의 사업자번호 424-67-89024 와 전파인증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"424-67-89024","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":787,"content":"반려동물 건강 모니터링 기기 허가가 승인되었습니다. 다만 사업자등록번호 535-78-90135 는 의료기기로 분류될 수 있습니다.","has_sensitive":true,"entities":[{"value":"535-78-90135","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":788,"content":"애견 체온계 제조 업체 등록이 완료되었습니다. 먼저 사업자번호 646-89-01246 로 동물용 의료기기 신고를 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"646-89-01246","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":789,"content":"반려동물 심박 측정기 개발 업체로 등록하셨습니다. 또한 사업자등록번호 757-90-12357 이 전자의료기기로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"757-90-12357","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":790,"content":"애견 체중계 제조 업체 신고가 승인되었습니다. 참고로 사업자번호 868-01-23468 을 기준으로 계량기 형식승인을 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"868-01-23468","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":791,"content":"반려동물 활동량 측정기 허가를 받았습니다. 아울러 사업자등록번호 979-12-34579 로 웨어러블 기기 인증을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"979-12-34579","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":792,"content":"애견 자동 문 시스템 제조 업체 등록이 승인되었습니다. 그리고 사업자번호 191-23-45690 이 자동문 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"191-23-45690","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":793,"content":"반려동물 공기청정기 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 212-34-56792 와 전기용품 안전인증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"212-34-56792","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":794,"content":"애견 온습도 조절 시스템 신고가 접수되었습니다. 다만 사업자번호 323-45-67903 은 냉난방기기 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"323-45-67903","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":795,"content":"반려동물 살균 소독기 제조 업체 허가가 승인되었습니다. 먼저 사업자등록번호 434-56-78914 로 위생용품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"434-56-78914","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":796,"content":"애견 전용 세탁기 개발 업체 등록이 완료되었습니다. 또한 사업자번호 545-67-89025 가 가전제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"545-67-89025","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":797,"content":"반려동물 건조기 제조 업체로 등록하셨습니다. 참고로 사업자등록번호는 656-78-90136 이며 전기용품 안전인증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"656-78-90136","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":798,"content":"애견 목욕 시스템 제작 업체 신고가 승인되었습니다. 아울러 사업자번호 767-89-01247 로 위생설비 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"767-89-01247","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":799,"content":"반려동물 그루밍 기기 제조 업체 허가를 받았습니다. 그리고 사업자등록번호 878-90-12358 이 미용기기 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"878-90-12358","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":800,"content":"애견 발톱깎이 제작 업체 등록이 승인되었습니다. 귀하의 사업자번호 989-01-23469 와 KC인증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"989-01-23469","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":801,"content":"반려동물 브러시 제조 업체로 등록하셨습니다. 다만 사업자등록번호 121-12-34580 은 생활용품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"121-12-34580","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":802,"content":"애견 샴푸 제조 판매 업체 신고가 접수되었습니다. 먼저 사업자번호 232-23-45691 로 화장품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"232-23-45691","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":803,"content":"반려동물 린스 개발 업체 허가가 승인되었습니다. 또한 사업자등록번호 343-34-56792 가 화장품 제조판매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"343-34-56792","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":804,"content":"애견 컨디셔너 제조 업체 등록이 완료되었습니다. 참고로 사업자번호 454-45-67903 을 기준으로 GMP 시설을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"454-45-67903","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":805,"content":"반려동물 치약 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 565-56-78914 로 의약외품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"565-56-78914","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":806,"content":"애견 칫솔 제조 업체 신고가 승인되었습니다. 그리고 사업자번호 676-67-89025 이 구강위생용품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"676-67-89025","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":807,"content":"반려동물 귀 세정제 개발 업체 허가를 받았습니다. 귀하의 사업자등록번호 787-78-90136 와 동물용 의약외품 허가증을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"787-78-90136","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":808,"content":"애견 눈 세정액 제조 업체 등록이 승인되었습니다. 다만 사업자번호 898-89-01247 은 수의사 처방이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"898-89-01247","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":809,"content":"반려동물 발 세정제 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 909-90-12358 로 세정제 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"909-90-12358","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":810,"content":"애견 소독제 제조 판매 업체 신고가 접수되었습니다. 또한 사업자번호 131-01-23469 이 생활화학제품으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"131-01-23469","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":811,"content":"반려동물 탈취제 개발 업체 허가가 승인되었습니다. 참고로 사업자등록번호는 242-12-34580 이며 환경부 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"242-12-34580","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":812,"content":"애견 배변 패드 제조 업체 등록이 완료되었습니다. 아울러 사업자번호 353-23-45691 로 위생용품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"353-23-45691","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":813,"content":"반려동물 기저귀 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 464-34-56792 가 위생용품 제조판매업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"464-34-56792","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":814,"content":"애견 생리대 제조 업체 신고가 승인되었습니다. 귀하의 사업자번호 575-45-67903 와 제품 안전성 시험 결과를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"575-45-67903","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":815,"content":"반려동물 위생 장갑 제작 업체 허가를 받았습니다. 다만 사업자등록번호 686-56-78914 는 고무제품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"686-56-78914","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":816,"content":"애견 배변 봉투 제조 업체 등록이 승인되었습니다. 먼저 사업자번호 797-67-89025 로 플라스틱 필름 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"797-67-89025","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":817,"content":"반려동물 쓰레기통 제작 업체로 등록하셨습니다. 또한 사업자등록번호 908-78-90136 이 플라스틱 용기 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"908-78-90136","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":818,"content":"애견 화장실 제조 업체 신고가 접수되었습니다. 참고로 사업자번호 141-89-01247 을 기준으로 위생설비 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"141-89-01247","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":819,"content":"반려동물 모래 생산 업체 허가가 승인되었습니다. 아울러 사업자등록번호 252-90-12358 로 광물제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"252-90-12358","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":820,"content":"애견 두부 모래 제조 업체 등록이 완료되었습니다. 그리고 사업자번호 363-01-23469 가 식물성 원료 제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"363-01-23469","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":821,"content":"반려동물 벤토나이트 모래 생산 업체로 등록하셨습니다. 귀하의 사업자등록번호 474-12-34580 와 광업권을 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"474-12-34580","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":822,"content":"애견 크리스탈 모래 제조 업체 신고가 승인되었습니다. 다만 사업자번호 585-23-45691 은 실리카겔 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"585-23-45691","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":823,"content":"반려동물 펠릿 제작 업체 허가를 받았습니다. 먼저 사업자등록번호 696-34-56792 로 목재펠릿 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"696-34-56792","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":824,"content":"애견 장난감 제조 업체 등록이 승인되었습니다. 또한 사업자번호 817-45-67903 이 완구류 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"817-45-67903","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":825,"content":"반려동물 봉제 인형 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 928-56-78914 이며 완구 안전인증을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"928-56-78914","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":826,"content":"애견 고무 장난감 제조 업체 신고가 접수되었습니다. 아울러 사업자번호 151-67-89025 로 고무제품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"151-67-89025","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":827,"content":"반려동물 나무 장난감 제작 업체 허가가 승인되었습니다. 그리고 사업자등록번호 262-78-90136 이 목재완구 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"262-78-90136","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":828,"content":"애견 로프 장난감 제조 업체 등록이 완료되었습니다. 귀하의 사업자번호 373-89-01247 와 섬유제품 안전성 시험서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"373-89-01247","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":829,"content":"반려동물 공 제작 업체로 등록하셨습니다. 다만 사업자등록번호 484-90-12358 은 스포츠용품 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"484-90-12358","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":830,"content":"애견 프리스비 제조 업체 신고가 승인되었습니다. 먼저 사업자번호 595-01-23469 로 플라스틱 제품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"595-01-23469","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":831,"content":"반려동물 터그 장난감 개발 업체 허가를 받았습니다. 또한 사업자등록번호 616-12-34580 이 완구류 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"616-12-34580","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":832,"content":"애견 퍼즐 장난감 제작 업체 등록이 승인되었습니다. 참고로 사업자번호 727-23-45691 을 기준으로 지능형 완구를 개발하고 있습니다.","has_sensitive":true,"entities":[{"value":"727-23-45691","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":833,"content":"반려동물 노즈워크 매트 제조 업체로 등록하셨습니다. 아울러 사업자등록번호 838-34-56792 로 섬유제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"838-34-56792","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":834,"content":"애견 스니핑 매트 제작 업체 신고가 접수되었습니다. 그리고 사업자번호 949-45-67903 이 애완용품 제조업으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"949-45-67903","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":835,"content":"반려동물 간식 제조 업체 허가가 승인되었습니다. 귀하의 사업자등록번호 161-56-78914 와 사료 제조업 신고를 함께 진행하셨습니다.","has_sensitive":true,"entities":[{"value":"161-56-78914","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":836,"content":"애견 육포 제작 업체 등록이 완료되었습니다. 다만 사업자번호 272-67-89025 는 식육가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"272-67-89025","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":837,"content":"반려동물 저키 제조 업체로 등록하셨습니다. 먼저 사업자등록번호 383-78-90136 로 식품제조가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"383-78-90136","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":838,"content":"애견 껌 제조 판매 업체 신고가 승인되었습니다. 또한 사업자번호 494-89-01247 이 동물용 식품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"494-89-01247","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":839,"content":"반려동물 덴탈껌 개발 업체 허가를 받았습니다. 참고로 사업자등록번호는 515-90-12358 이며 HACCP 인증을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"515-90-12358","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":840,"content":"애견 비스킷 제조 업체 등록이 승인되었습니다. 아울러 사업자번호 626-01-23469 로 과자류 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"626-01-23469","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":841,"content":"반려동물 쿠키 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 737-12-34580 이 제과업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"737-12-34580","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":842,"content":"애견 보로 제조 업체 신고가 접수되었습니다. 귀하의 사업자번호 848-23-45691 와 식품위생법상 허가를 신청하셨습니다.","has_sensitive":true,"entities":[{"value":"848-23-45691","begin":34,"end":46,"label":"BUSINESS_ID"}]}
+{"id":843,"content":"반려동물 츄르 개발 업체 허가가 승인되었습니다. 다만 사업자등록번호 959-34-56792 는 액상 사료로 분류됩니다.","has_sensitive":true,"entities":[{"value":"959-34-56792","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":844,"content":"애견 캔 간식 제조 업체 등록이 완료되었습니다. 먼저 사업자번호 171-45-67903 로 통조림 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"171-45-67903","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":845,"content":"반려동물 파우치 간식 제작 업체로 등록하셨습니다. 또한 사업자등록번호 282-56-78914 가 레토르트 식품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"282-56-78914","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":846,"content":"애견 동결건조 간식 제조 업체 신고가 승인되었습니다. 참고로 사업자번호 393-67-89025 를 기준으로 건조식품 제조시설을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"393-67-89025","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":847,"content":"반려동물 프리즈드라이 간식 개발 업체 허가를 받았습니다. 아울러 사업자등록번호 414-78-90136 로 특수 건조 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"414-78-90136","begin":49,"end":61,"label":"BUSINESS_ID"}]}
+{"id":848,"content":"애견 에어드라이 간식 제조 업체 등록이 승인되었습니다. 그리고 사업자번호 525-89-01247 이 자연건조 식품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"525-89-01247","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":849,"content":"반려동물 수제 간식 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 636-90-12358 와 소규모 식품제조업 신고를 하셨습니다.","has_sensitive":true,"entities":[{"value":"636-90-12358","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":850,"content":"애견 무첨가 간식 제조 업체 신고가 접수되었습니다. 다만 사업자번호 747-01-23469 은 유기가공식품 인증이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"747-01-23469","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":851,"content":"반려동물 저알레르기 간식 개발 업체 허가가 승인되었습니다. 먼저 사업자등록번호 858-12-34580 로 특수용도식품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"858-12-34580","begin":49,"end":61,"label":"BUSINESS_ID"}]}
+{"id":852,"content":"애견 다이어트 간식 제조 업체 등록이 완료되었습니다. 또한 사업자번호 969-23-45691 이 저칼로리 식품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"969-23-45691","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":853,"content":"반려동물 기능성 간식 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 181-34-56793 이며 건강기능식품 신고를 준비 중입니다.","has_sensitive":true,"entities":[{"value":"181-34-56793","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":854,"content":"애견 관절 영양제 제조 업체 신고가 승인되었습니다. 아울러 사업자번호 292-45-67904 로 동물용 의약외품 허가를 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"292-45-67904","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":855,"content":"반려동물 피부 영양제 개발 업체 허가를 받았습니다. 그리고 사업자등록번호 313-56-78915 이 건강보조식품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"313-56-78915","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":856,"content":"애견 눈 건강 영양제 제조 업체 등록이 승인되었습니다. 귀하의 사업자번호 424-67-89026 와 원료 안전성 자료를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"424-67-89026","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":857,"content":"반려동물 소화기 영양제 제작 업체로 등록하셨습니다. 다만 사업자등록번호 535-78-90137 은 수의사 처방이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"535-78-90137","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":858,"content":"애견 심장 영양제 제조 업체 신고가 접수되었습니다. 먼저 사업자번호 646-89-01248 로 동물용 의약품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"646-89-01248","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":859,"content":"반려동물 간 영양제 개발 업체 허가가 승인되었습니다. 또한 사업자등록번호 757-90-12359 이 건강기능식품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"757-90-12359","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":860,"content":"애견 신장 영양제 제조 업체 등록이 완료되었습니다. 참고로 사업자번호 868-01-23470 를 기준으로 GMP 인증을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"868-01-23470","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":861,"content":"반려동물 면역력 영양제 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 979-12-34581 로 건강보조제 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"979-12-34581","begin":45,"end":57,"label":"BUSINESS_ID"}]}
+{"id":862,"content":"애견 프로바이오틱스 제조 업체 신고가 승인되었습니다. 그리고 사업자번호 191-23-45692 가 유산균 제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"191-23-45692","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":863,"content":"반려동물 유산균 개발 업체 허가를 받았습니다. 귀하의 사업자등록번호 212-34-56793 와 균주 안전성 시험서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"212-34-56793","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":864,"content":"애견 효소 제품 제조 업체 등록이 승인되었습니다. 다만 사업자번호 323-45-67904 은 식품첨가물로 분류될 수 있습니다.","has_sensitive":true,"entities":[{"value":"323-45-67904","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":865,"content":"반려동물 오메가3 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 434-56-78915 로 건강기능식품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"434-56-78915","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":866,"content":"애견 글루코사민 제조 업체 신고가 접수되었습니다. 또한 사업자번호 545-67-89026 이 관절건강 제품으로 등록됩니다.","has_sensitive":true,"entities":[{"value":"545-67-89026","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":867,"content":"반려동물 콘드로이친 개발 업체 허가가 승인되었습니다. 참고로 사업자등록번호는 656-78-90137 이며 원료 수입 신고를 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"656-78-90137","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":868,"content":"애견 MSM 제품 제조 업체 등록이 완료되었습니다. 아울러 사업자번호 767-89-01248 로 건강보조식품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"767-89-01248","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":869,"content":"반려동물 콜라겐 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 878-90-12359 가 단백질 제품 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"878-90-12359","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":870,"content":"애견 항산화제 제조 업체 신고가 승인되었습니다. 귀하의 사업자번호 989-01-23470 와 항산화 효능 시험 자료를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"989-01-23470","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":871,"content":"반려동물 비타민 개발 업체 허가를 받았습니다. 다만 사업자등록번호 121-12-34581 은 영양제 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"121-12-34581","begin":37,"end":49,"label":"BUSINESS_ID"}]}
+{"id":872,"content":"애견 미네랄 제품 제조 업체 등록이 승인되었습니다. 먼저 사업자번호 232-23-45692 로 무기질 보충제 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"232-23-45692","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":873,"content":"반려동물 칼슘 제작 업체로 등록하셨습니다. 또한 사업자등록번호 343-34-56793 이 건강보조식품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"343-34-56793","begin":35,"end":47,"label":"BUSINESS_ID"}]}
+{"id":874,"content":"애견 아연 제품 제조 업체 신고가 접수되었습니다. 참고로 사업자번호 454-45-67904 를 기준으로 미네랄 제품을 생산하고 있습니다.","has_sensitive":true,"entities":[{"value":"454-45-67904","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":875,"content":"반려동물 철분 개발 업체 허가가 승인되었습니다. 아울러 사업자등록번호 565-56-78915 로 영양보충제 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"565-56-78915","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":876,"content":"애견 타우린 제조 업체 등록이 완료되었습니다. 그리고 사업자번호 676-67-89026 이 아미노산 제품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"676-67-89026","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":877,"content":"반려동물 L-카르니틴 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 787-78-90137 와 체중관리 제품 허가를 신청하셨습니다.","has_sensitive":true,"entities":[{"value":"787-78-90137","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":878,"content":"애견 식이섬유 제품 제조 업체 신고가 승인되었습니다. 다만 사업자번호 898-89-01248 은 소화 개선 제품으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"898-89-01248","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":879,"content":"반려동물 락토페린 개발 업체 허가를 받았습니다. 먼저 사업자등록번호 909-90-12359 로 면역 강화 제품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"909-90-12359","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":880,"content":"애견 초유 제품 제조 업체 등록이 승인되었습니다. 또한 사업자번호 131-01-23470 이 유제품 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"131-01-23470","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":881,"content":"반려동물 클로렐라 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 242-12-34581 이며 조류 제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"242-12-34581","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":882,"content":"애견 스피룰리나 제조 업체 신고가 접수되었습니다. 아울러 사업자번호 353-23-45692 로 건강보조식품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"353-23-45692","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":883,"content":"반려동물 홍삼 제품 개발 업체 허가가 승인되었습니다. 그리고 사업자등록번호 464-34-56793 이 인삼류 가공품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"464-34-56793","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":884,"content":"애견 녹용 제품 제조 업체 등록이 완료되었습니다. 귀하의 사업자번호 575-45-67904 와 한약재 가공업 신고를 하셨습니다.","has_sensitive":true,"entities":[{"value":"575-45-67904","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":885,"content":"반려동물 프로폴리스 제작 업체로 등록하셨습니다. 다만 사업자등록번호 686-56-78915 는 벌 산물 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"686-56-78915","begin":39,"end":51,"label":"BUSINESS_ID"}]}
+{"id":886,"content":"애견 로얄젤리 제조 업체 신고가 승인되었습니다. 먼저 사업자번호 797-67-89026 로 벌꿀 가공품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"797-67-89026","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":887,"content":"반려동물 상어 연골 개발 업체 허가를 받았습니다. 또한 사업자등록번호 908-78-90137 이 수산물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"908-78-90137","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":888,"content":"애견 크릴 오일 제품 제조 업체 등록이 승인되었습니다. 참고로 사업자번호 141-89-01248 을 기준으로 오메가3 제품을 생산하고 있습니다.","has_sensitive":true,"entities":[{"value":"141-89-01248","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":889,"content":"반려동물 밀크씨슬 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 252-90-12359 로 간 건강 제품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"252-90-12359","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":890,"content":"애견 실리마린 제조 업체 신고가 접수되었습니다. 그리고 사업자번호 363-01-23470 이 식물 추출물 제조업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"363-01-23470","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":891,"content":"반려동물 강황 제품 개발 업체 허가가 승인되었습니다. 귀하의 사업자등록번호 474-12-34581 와 커큐민 함량 시험서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"474-12-34581","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":892,"content":"애견 생강 제품 제조 업체 등록이 완료되었습니다. 다만 사업자번호 585-23-45692 은 향신료 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"585-23-45692","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":893,"content":"반려동물 마늘 추출물 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 696-34-56793 로 건강기능식품 제조업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"696-34-56793","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":894,"content":"애견 크랜베리 제품 제조 업체 신고가 승인되었습니다. 또한 사업자번호 817-45-67904 가 과일 추출물 제품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"817-45-67904","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":895,"content":"반려동물 블루베리 개발 업체 허가를 받았습니다. 참고로 사업자등록번호는 928-56-78915 이며 항산화 제품으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"928-56-78915","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":896,"content":"애견 호박 제품 제조 업체 등록이 승인되었습니다. 아울러 사업자번호 151-67-89026 로 채소 가공품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"151-67-89026","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":897,"content":"반려동물 고구마 간식 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 262-78-90138 이 농산물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"262-78-90138","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":898,"content":"애견 당근 제품 제조 업체 신고가 접수되었습니다. 귀하의 사업자번호 373-89-01249 와 유기농 인증서를 제출하셨습니다.","has_sensitive":true,"entities":[{"value":"373-89-01249","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":899,"content":"반려동물 브로콜리 간식 개발 업체 허가가 승인되었습니다. 다만 사업자등록번호 484-90-12360 은 채소 건조 제품으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"484-90-12360","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":900,"content":"애견 시금치 제품 제조 업체 등록이 완료되었습니다. 먼저 사업자번호 595-01-23471 로 녹색 채소 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"595-01-23471","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":901,"content":"반려동물 양배추 간식 제작 업체로 등록하셨습니다. 또한 사업자등록번호 616-12-34582 가 식품가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"616-12-34582","begin":41,"end":53,"label":"BUSINESS_ID"}]}
+{"id":902,"content":"애견 사과 제품 제조 업체 신고가 승인되었습니다. 참고로 사업자번호 727-23-45693 을 기준으로 과일 간식을 생산하고 있습니다.","has_sensitive":true,"entities":[{"value":"727-23-45693","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":903,"content":"반려동물 바나나 칩 개발 업체 허가를 받았습니다. 아울러 사업자등록번호 838-34-56794 로 과일 건조식품 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"838-34-56794","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":904,"content":"애견 딸기 제품 제조 업체 등록이 승인되었습니다. 그리고 사업자번호 949-45-67905 이 베리류 가공품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"949-45-67905","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":905,"content":"반려동물 수박 간식 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 161-56-78916 와 과일 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"161-56-78916","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":906,"content":"애견 배 제품 제조 업체 신고가 접수되었습니다. 다만 사업자번호 272-67-89027 은 과일류 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"272-67-89027","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":907,"content":"반려동물 멜론 간식 개발 업체 허가가 승인되었습니다. 먼저 사업자등록번호 383-78-90138 로 과일 건조 제품을 생산하고 있습니다.","has_sensitive":true,"entities":[{"value":"383-78-90138","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":908,"content":"애견 망고 제품 제조 업체 등록이 완료되었습니다. 또한 사업자번호 494-89-01249 이 열대과일 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"494-89-01249","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":909,"content":"반려동물 파인애플 간식 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 515-90-12360 이며 효소 함유 제품을 생산합니다.","has_sensitive":true,"entities":[{"value":"515-90-12360","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":910,"content":"애견 키위 제품 제조 업체 신고가 승인되었습니다. 아울러 사업자번호 626-01-23471 로 비타민 풍부 과일 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"626-01-23471","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":911,"content":"반려동물 복숭아 간식 개발 업체 허가를 받았습니다. 그리고 사업자등록번호 737-12-34582 가 핵과류 가공품으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"737-12-34582","begin":43,"end":55,"label":"BUSINESS_ID"}]}
+{"id":912,"content":"애견 자두 제품 제조 업체 등록이 승인되었습니다. 귀하의 사업자번호 848-23-45693 와 식품위생 허가를 신청하셨습니다.","has_sensitive":true,"entities":[{"value":"848-23-45693","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":913,"content":"반려동물 체리 간식 제작 업체로 등록하셨습니다. 다만 사업자등록번호 959-34-56794 는 씨앗 제거 가공이 필요합니다.","has_sensitive":true,"entities":[{"value":"959-34-56794","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":914,"content":"애견 오렌지 제품 제조 업체 신고가 접수되었습니다. 먼저 사업자번호 171-45-67905 로 감귤류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"171-45-67905","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":915,"content":"반려동물 귤 간식 개발 업체 허가가 승인되었습니다. 또한 사업자등록번호 282-56-78916 이 과일 박피 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"282-56-78916","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":916,"content":"애견 레몬 제품 제조 업체 등록이 완료되었습니다. 참고로 사업자번호 393-67-89027 을 기준으로 산미료 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"393-67-89027","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":917,"content":"반려동물 자몽 간식 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 414-78-90138 로 쓴맛 제거 가공 기술을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"414-78-90138","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":918,"content":"애견 토마토 제품 제조 업체 신고가 승인되었습니다. 그리고 사업자번호 525-89-01249 이 채소류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"525-89-01249","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":919,"content":"반려동물 오이 간식 개발 업체 허가를 받았습니다. 귀하의 사업자등록번호 636-90-12360 와 신선 채소 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"636-90-12360","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":920,"content":"애견 피망 제품 제조 업체 등록이 승인되었습니다. 다만 사업자번호 747-01-23471 은 파프리카류로 분류됩니다.","has_sensitive":true,"entities":[{"value":"747-01-23471","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":921,"content":"반려동물 가지 간식 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 858-12-34582 로 보라색 채소 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"858-12-34582","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":922,"content":"애견 애호박 제품 제조 업체 신고가 접수되었습니다. 또한 사업자번호 969-23-45693 이 박과류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"969-23-45693","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":923,"content":"반려동물 옥수수 간식 개발 업체 허가가 승인되었습니다. 참고로 사업자등록번호는 181-34-56794 이며 곡물 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"181-34-56794","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":924,"content":"애견 감자 제품 제조 업체 등록이 완료되었습니다. 아울러 사업자번호 292-45-67905 로 서류 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"292-45-67905","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":925,"content":"반려동물 무 간식 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 313-56-78916 이 근채류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"313-56-78916","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":926,"content":"애견 연근 제품 제조 업체 신고가 승인되었습니다. 귀하의 사업자번호 424-67-89027 와 식물성 섬유 가공 기술을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"424-67-89027","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":927,"content":"반려동물 우엉 간식 개발 업체 허가를 받았습니다. 다만 사업자등록번호 535-78-90138 은 뿌리 채소 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"535-78-90138","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":928,"content":"애견 연어 제품 제조 업체 등록이 승인되었습니다. 먼저 사업자번호 646-89-01249 로 수산물 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"646-89-01249","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":929,"content":"반려동물 참치 간식 제작 업체로 등록하셨습니다. 또한 사업자등록번호 757-90-12360 이 어류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"757-90-12360","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":930,"content":"애견 고등어 제품 제조 업체 신고가 접수되었습니다. 참고로 사업자번호 868-01-23471 을 기준으로 등푸른 생선 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"868-01-23471","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":931,"content":"반려동물 대구 간식 개발 업체 허가가 승인되었습니다. 아울러 사업자등록번호 979-12-34582 로 흰살생선 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"979-12-34582","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":932,"content":"애견 명태 제품 제조 업체 등록이 완료되었습니다. 그리고 사업자번호 191-23-45693 이 건어물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"191-23-45693","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":933,"content":"반려동물 정어리 간식 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 212-34-56794 와 소형 어류 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"212-34-56794","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":934,"content":"애견 멸치 제품 제조 업체 신고가 승인되었습니다. 다만 사업자번호 323-45-67905 은 건조 수산물로 분류됩니다.","has_sensitive":true,"entities":[{"value":"323-45-67905","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":935,"content":"반려동물 새우 간식 개발 업체 허가를 받았습니다. 먼저 사업자등록번호 434-56-78916 로 갑각류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"434-56-78916","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":936,"content":"애견 게 제품 제조 업체 등록이 승인되었습니다. 또한 사업자번호 545-67-89027 이 해산물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"545-67-89027","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":937,"content":"반려동물 오징어 간식 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 656-78-90138 이며 연체동물 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"656-78-90138","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":938,"content":"애견 문어 제품 제조 업체 신고가 접수되었습니다. 아울러 사업자번호 767-89-01249 로 두족류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"767-89-01249","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":939,"content":"반려동물 조개 간식 개발 업체 허가가 승인되었습니다. 그리고 사업자등록번호 878-90-12360 이 패류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"878-90-12360","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":940,"content":"애견 닭고기 제품 제조 업체 등록이 완료되었습니다. 귀하의 사업자번호 989-01-23471 와 가금류 도축장 허가를 신청하셨습니다.","has_sensitive":true,"entities":[{"value":"989-01-23471","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":941,"content":"반려동물 닭가슴살 간식 제작 업체로 등록하셨습니다. 다만 사업자등록번호 121-12-34583 은 육류 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"121-12-34583","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":942,"content":"애견 소고기 제품 제조 업체 신고가 승인되었습니다. 먼저 사업자번호 232-23-45694 로 식육가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"232-23-45694","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":943,"content":"반려동물 돼지고기 간식 개발 업체 허가를 받았습니다. 또한 사업자등록번호 343-34-56795 가 축산물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"343-34-56795","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":944,"content":"애견 오리고기 제품 제조 업체 등록이 승인되었습니다. 참고로 사업자번호 454-45-67906 을 기준으로 수금류 가공 시설을 운영하고 있습니다.","has_sensitive":true,"entities":[{"value":"454-45-67906","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":945,"content":"반려동물 칠면조 간식 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 565-56-78917 로 특수 가금류 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"565-56-78917","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":946,"content":"애견 양고기 제품 제조 업체 신고가 접수되었습니다. 그리고 사업자번호 676-67-89028 이 양육 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"676-67-89028","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":947,"content":"반려동물 사슴고기 간식 개발 업체 허가가 승인되었습니다. 귀하의 사업자등록번호 787-78-90139 와 야생동물 가공 허가를 신청하셨습니다.","has_sensitive":true,"entities":[{"value":"787-78-90139","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":948,"content":"애견 토끼고기 제품 제조 업체 등록이 완료되었습니다. 다만 사업자번호 898-89-01250 은 소동물 육류 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"898-89-01250","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":949,"content":"반려동물 캥거루 간식 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 909-90-12361 로 수입 육류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"909-90-12361","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":950,"content":"애견 타조고기 제품 제조 업체 신고가 승인되었습니다. 또한 사업자번호 131-01-23472 가 특수 조류 육류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"131-01-23472","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":951,"content":"반려동물 메추라기 간식 개발 업체 허가를 받았습니다. 참고로 사업자등록번호는 242-12-34583 이며 소형 조류 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"242-12-34583","begin":49,"end":61,"label":"BUSINESS_ID"}]}
+{"id":952,"content":"애견 달걀 제품 제조 업체 등록이 승인되었습니다. 아울러 사업자번호 353-23-45694 로 난가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"353-23-45694","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":953,"content":"반려동물 메추리알 간식 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 464-34-56795 가 소형 난류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"464-34-56795","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":954,"content":"애견 치즈 제품 제조 업체 신고가 접수되었습니다. 귀하의 사업자번호 575-45-67906 와 유제품 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"575-45-67906","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":955,"content":"반려동물 요거트 간식 개발 업체 허가가 승인되었습니다. 다만 사업자등록번호 686-56-78917 은 발효유 제조업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"686-56-78917","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":956,"content":"애견 우유 제품 제조 업체 등록이 완료되었습니다. 먼저 사업자번호 797-67-89028 로 유가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"797-67-89028","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":957,"content":"반려동물 염소유 간식 제작 업체로 등록하셨습니다. 또한 사업자등록번호 908-78-90139 가 특수 유제품 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"908-78-90139","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":958,"content":"애견 두유 제품 제조 업체 신고가 승인되었습니다. 참고로 사업자번호 141-89-01250 을 기준으로 식물성 유제품을 생산하고 있습니다.","has_sensitive":true,"entities":[{"value":"141-89-01250","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":959,"content":"반려동물 귀리우유 간식 개발 업체 허가를 받았습니다. 아울러 사업자등록번호 252-90-12361 로 식물성 음료 제조업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"252-90-12361","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":960,"content":"애견 코코넛 제품 제조 업체 등록이 승인되었습니다. 그리고 사업자번호 363-01-23472 가 열대 식물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"363-01-23472","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":961,"content":"반려동물 코코넛 오일 간식 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 474-12-34583 와 식용유 제조 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"474-12-34583","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":962,"content":"애견 아마씨 제품 제조 업체 신고가 접수되었습니다. 다만 사업자번호 585-23-45694 는 종자류 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"585-23-45694","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":963,"content":"반려동물 치아씨드 간식 개발 업체 허가가 승인되었습니다. 먼저 사업자등록번호 696-34-56795 로 기능성 씨앗 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"696-34-56795","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":964,"content":"애견 호두 제품 제조 업체 등록이 완료되었습니다. 또한 사업자번호 817-45-67906 이 견과류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"817-45-67906","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":965,"content":"반려동물 아몬드 간식 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 928-56-78917 이며 견과 볶음 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"928-56-78917","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":966,"content":"애견 땅콩 제품 제조 업체 신고가 승인되었습니다. 아울러 사업자번호 151-67-89027 로 콩과 식물 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"151-67-89027","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":967,"content":"반려동물 캐슈넛 간식 개발 업체 허가를 받았습니다. 그리고 사업자등록번호 262-78-90139 가 수입 견과류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"262-78-90139","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":968,"content":"애견 마카다미아 제품 제조 업체 등록이 승인되었습니다. 귀하의 사업자번호 373-89-01250 와 고급 견과류 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"373-89-01250","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":969,"content":"반려동물 피칸 간식 제작 업체로 등록하셨습니다. 다만 사업자등록번호 484-90-12361 은 북미산 견과류로 분류됩니다.","has_sensitive":true,"entities":[{"value":"484-90-12361","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":970,"content":"애견 잣 제품 제조 업체 신고가 접수되었습니다. 먼저 사업자번호 595-01-23472 로 국내산 견과류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"595-01-23472","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":971,"content":"반려동물 해바라기씨 간식 개발 업체 허가가 승인되었습니다. 또한 사업자등록번호 616-12-34583 이 유지종자 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"616-12-34583","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":972,"content":"애견 현미 제품 제조 업체 등록이 완료되었습니다. 참고로 사업자번호 727-23-45694 를 기준으로 곡물 도정업을 운영하고 있습니다.","has_sensitive":true,"entities":[{"value":"727-23-45694","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":973,"content":"반려동물 귀리 간식 제작 업체로 등록하셨습니다. 아울러 사업자등록번호 838-34-56795 로 잡곡 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"838-34-56795","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":974,"content":"애견 보리 제품 제조 업체 신고가 승인되었습니다. 그리고 사업자번호 949-45-67906 이 맥류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"949-45-67906","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":975,"content":"반려동물 퀴노아 간식 개발 업체 허가를 받았습니다. 귀하의 사업자등록번호 161-56-78917 와 슈퍼푸드 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"161-56-78917","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":976,"content":"애견 쌀 제품 제조 업체 등록이 승인되었습니다. 다만 사업자번호 272-67-89028 은 미곡 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"272-67-89028","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":977,"content":"반려동물 흑미 간식 제작 업체로 등록하셨습니다. 먼저 사업자등록번호 383-78-90139 로 유색미 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"383-78-90139","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":978,"content":"애견 찹쌀 제품 제조 업체 신고가 접수되었습니다. 또한 사업자번호 494-89-01250 이 찰기 곡물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"494-89-01250","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":979,"content":"반려동물 차조 간식 개발 업체 허가가 승인되었습니다. 참고로 사업자등록번호는 515-90-12361 이며 고대 곡물 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"515-90-12361","begin":48,"end":60,"label":"BUSINESS_ID"}]}
+{"id":980,"content":"애견 기장 제품 제조 업체 등록이 완료되었습니다. 아울러 사업자번호 626-01-23472 로 잡곡류 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"626-01-23472","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":981,"content":"반려동물 수수 간식 제작 업체로 등록하셨습니다. 그리고 사업자등록번호 737-12-34583 이 소형 곡물 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"737-12-34583","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":982,"content":"애견 조 제품 제조 업체 신고가 승인되었습니다. 귀하의 사업자번호 848-23-45694 와 곡물 분쇄 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"848-23-45694","begin":36,"end":48,"label":"BUSINESS_ID"}]}
+{"id":983,"content":"반려동물 메밀 간식 개발 업체 허가를 받았습니다. 다만 사업자등록번호 959-34-56795 는 건강 잡곡으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"959-34-56795","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":984,"content":"애견 렌틸콩 제품 제조 업체 등록이 승인되었습니다. 먼저 사업자번호 171-45-67906 로 콩류 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"171-45-67906","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":985,"content":"반려동물 병아리콩 간식 제작 업체로 등록하셨습니다. 또한 사업자등록번호 282-56-78917 이 수입 두류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"282-56-78917","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":986,"content":"애견 검은콩 제품 제조 업체 신고가 접수되었습니다. 참고로 사업자번호 393-67-89028 을 기준으로 국산 콩 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"393-67-89028","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":987,"content":"반려동물 강낭콩 간식 개발 업체 허가가 승인되었습니다. 아울러 사업자등록번호 414-78-90139 로 백색 콩류 가공업을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"414-78-90139","begin":46,"end":58,"label":"BUSINESS_ID"}]}
+{"id":988,"content":"애견 완두콩 제품 제조 업체 등록이 완료되었습니다. 그리고 사업자번호 525-89-01250 이 녹색 콩류 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"525-89-01250","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":989,"content":"반려동물 강황분말 간식 제작 업체로 등록하셨습니다. 귀하의 사업자등록번호 636-90-12361 와 향신료 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"636-90-12361","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":990,"content":"애견 시나몬 제품 제조 업체 신고가 승인되었습니다. 다만 사업자번호 747-01-23472 은 향료 가공업으로 분류됩니다.","has_sensitive":true,"entities":[{"value":"747-01-23472","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":991,"content":"반려동물 페퍼민트 간식 개발 업체 허가를 받았습니다. 먼저 사업자등록번호 858-12-34583 로 허브 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"858-12-34583","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":992,"content":"애견 카모마일 제품 제조 업체 등록이 승인되었습니다. 또한 사업자번호 969-23-45694 가 약초 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"969-23-45694","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":993,"content":"반려동물 로즈힙 간식 제작 업체로 등록하셨습니다. 참고로 사업자등록번호는 181-34-56796 이며 꽃잎 가공 기술을 보유하고 있습니다.","has_sensitive":true,"entities":[{"value":"181-34-56796","begin":47,"end":59,"label":"BUSINESS_ID"}]}
+{"id":994,"content":"애견 금잔화 제품 제조 업체 신고가 접수되었습니다. 아울러 사업자번호 292-45-67907 로 식용 꽃 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"292-45-67907","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":995,"content":"반려동물 히비스커스 간식 개발 업체 허가가 승인되었습니다. 그리고 사업자등록번호 313-56-78918 이 열대 꽃 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"313-56-78918","begin":49,"end":61,"label":"BUSINESS_ID"}]}
+{"id":996,"content":"애견 라벤더 제품 제조 업체 등록이 완료되었습니다. 귀하의 사업자번호 424-67-89029 와 아로마 허브 가공 시설을 신고하셨습니다.","has_sensitive":true,"entities":[{"value":"424-67-89029","begin":42,"end":54,"label":"BUSINESS_ID"}]}
+{"id":997,"content":"반려동물 레몬밤 간식 제작 업체로 등록하셨습니다. 다만 사업자등록번호 535-78-90140 은 진정 허브로 분류됩니다.","has_sensitive":true,"entities":[{"value":"535-78-90140","begin":40,"end":52,"label":"BUSINESS_ID"}]}
+{"id":998,"content":"애견 타임 제품 제조 업체 신고가 승인되었습니다. 먼저 사업자번호 646-89-01251 로 향신 허브 가공업을 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"646-89-01251","begin":38,"end":50,"label":"BUSINESS_ID"}]}
+{"id":999,"content":"반려동물 오레가노 간식 개발 업체 허가를 받았습니다. 또한 사업자등록번호 757-90-12362 가 이탈리안 허브 가공업으로 등록되어 있습니다.","has_sensitive":true,"entities":[{"value":"757-90-12362","begin":44,"end":56,"label":"BUSINESS_ID"}]}
+{"id":1000,"content":"애견 바질 제품 제조 업체 등록이 최종 승인되었습니다. 참고로 사업자번호 868-01-23473 을 기준으로 신선 허브 가공 사업을 시작하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"868-01-23473","begin":46,"end":58,"label":"BUSINESS_ID"}]}

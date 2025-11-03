@@ -1,0 +1,1000 @@
+{"id":1,"content":"제품 등록을 위해 IMEI 번호 358912345678901를 입력해주세요. 또한 구매 영수증도 함께 제출하시면 감사하겠습니다.","has_sensitive":true,"entities":[{"value":"358912345678901","begin":22,"end":37,"label":"IMEI"}]}
+{"id":2,"content":"고객님의 단말기 식별번호는 490123456789012입니다. 보증 서비스 이용 시 해당 번호를 꼭 기재해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"490123456789012","begin":18,"end":33,"label":"IMEI"}]}
+{"id":3,"content":"수리 접수가 완료되었으며 기기 고유번호 123456789012345로 확인되었습니다. 수리 기간은 약 3-5일 소요될 예정입니다.","has_sensitive":true,"entities":[{"value":"123456789012345","begin":28,"end":43,"label":"IMEI"}]}
+{"id":4,"content":"새로 구입하신 스마트폰의 IMEI는 987654321098765이며 정품 인증이 완료되었습니다. 제품 보증서는 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"987654321098765","begin":24,"end":39,"label":"IMEI"}]}
+{"id":5,"content":"분실 신고를 위해서는 기기번호 556677889900112를 경찰서에 제출하셔야 합니다. 참고로 신고 시 구매 증빙자료도 필요합니다.","has_sensitive":true,"entities":[{"value":"556677889900112","begin":20,"end":35,"label":"IMEI"}]}
+{"id":6,"content":"단말기 개통 신청서에 IMEI 코드 223344556677889를 기입하였습니다. 개통은 오늘 오후 중으로 처리될 예정입니다.","has_sensitive":true,"entities":[{"value":"223344556677889","begin":23,"end":38,"label":"IMEI"}]}
+{"id":7,"content":"고장 접수 내역을 확인한 결과 334455667788990 기기로 등록되어 있습니다. 수리 센터에서 곧 연락드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"334455667788990","begin":24,"end":39,"label":"IMEI"}]}
+{"id":8,"content":"해외 로밍 서비스 신청 시 단말 식별코드 445566778899001이 필요합니다. 출국 전에 미리 등록하시면 편리합니다.","has_sensitive":true,"entities":[{"value":"445566778899001","begin":29,"end":44,"label":"IMEI"}]}
+{"id":9,"content":"보험 청구를 위해 기기 고유번호 112233445566778을 보험사에 제출하셨습니다. 처리 결과는 일주일 내 통보됩니다.","has_sensitive":true,"entities":[{"value":"112233445566778","begin":22,"end":37,"label":"IMEI"}]}
+{"id":10,"content":"중고 거래 시 확인한 IMEI 번호는 667788990011223입니다. 정상 기기이며 분실 신고 이력이 없음을 확인했습니다.","has_sensitive":true,"entities":[{"value":"667788990011223","begin":22,"end":37,"label":"IMEI"}]}
+{"id":11,"content":"기기 등록 시스템에 778899001122334를 입력하여 인증을 완료하였습니다. 이제 모든 서비스를 정상적으로 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"778899001122334","begin":15,"end":30,"label":"IMEI"}]}
+{"id":12,"content":"AS 센터에서 확인한 단말기 번호는 889900112233445이며 제조일자는 2023년 5월입니다. 보증 기간은 아직 유효합니다.","has_sensitive":true,"entities":[{"value":"889900112233445","begin":23,"end":38,"label":"IMEI"}]}
+{"id":13,"content":"통신사 변경을 위해 기기 식별번호 990011223344556을 새로운 사업자에게 제공해주세요. 번호 이동은 당일 처리 가능합니다.","has_sensitive":true,"entities":[{"value":"990011223344556","begin":23,"end":38,"label":"IMEI"}]}
+{"id":14,"content":"제품 A/S 이력 조회 결과 101112131415161 단말기는 한 번도 수리 이력이 없는 깨끗한 상태입니다. 중고 거래 시 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"101112131415161","begin":21,"end":36,"label":"IMEI"}]}
+{"id":15,"content":"고객님께서 문의하신 기기의 IMEI는 202122232425262입니다. 해당 단말기는 정품으로 확인되었습니다.","has_sensitive":true,"entities":[{"value":"202122232425262","begin":23,"end":38,"label":"IMEI"}]}
+{"id":16,"content":"분실 단말기 차단 서비스를 위해 303132333435363을 이동통신사에 신고하였습니다. 즉시 사용이 정지되었습니다.","has_sensitive":true,"entities":[{"value":"303132333435363","begin":25,"end":40,"label":"IMEI"}]}
+{"id":17,"content":"단말기 펌웨어 업데이트를 진행하기 전에 404142434445464 번호를 백업 시스템에 저장하세요. 업데이트 중 데이터 손실을 방지할 수 있습니다.","has_sensitive":true,"entities":[{"value":"404142434445464","begin":32,"end":47,"label":"IMEI"}]}
+{"id":18,"content":"고객 상담 시스템에 등록된 기기 코드는 505152535455565입니다. 상담 이력은 모두 이 번호로 관리됩니다.","has_sensitive":true,"entities":[{"value":"505152535455565","begin":27,"end":42,"label":"IMEI"}]}
+{"id":19,"content":"교환 신청하신 제품의 IMEI 번호 606162636465666을 확인하였습니다. 새 제품은 내일 발송될 예정입니다.","has_sensitive":true,"entities":[{"value":"606162636465666","begin":23,"end":38,"label":"IMEI"}]}
+{"id":20,"content":"네트워크 등록을 위해 단말 고유번호 707172737475767이 필요합니다. 개통 완료 후 문자로 안내드리겠습니다.","has_sensitive":true,"entities":[{"value":"707172737475767","begin":24,"end":39,"label":"IMEI"}]}
+{"id":21,"content":"기기 인증 절차에서 808182838485868을 시스템에 등록하였습니다. 모든 보안 검증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"808182838485868","begin":18,"end":33,"label":"IMEI"}]}
+{"id":22,"content":"매장에서 구매하신 스마트폰의 식별번호는 909192939495969입니다. 영수증과 함께 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"909192939495969","begin":27,"end":42,"label":"IMEI"}]}
+{"id":23,"content":"도난 방지 시스템에 111213141516171를 등록하시면 분실 시 위치 추적이 가능합니다. 등록은 고객센터에서 도와드립니다.","has_sensitive":true,"entities":[{"value":"111213141516171","begin":17,"end":32,"label":"IMEI"}]}
+{"id":24,"content":"제조사 웹사이트에서 212223242526272 번호로 제품 등록을 완료하셨습니다. 온라인 보증서가 발급되었습니다.","has_sensitive":true,"entities":[{"value":"212223242526272","begin":18,"end":33,"label":"IMEI"}]}
+{"id":25,"content":"기기 점검 결과 313233343536373 단말기는 정상 작동 중입니다. 다음 정기 점검은 6개월 후입니다.","has_sensitive":true,"entities":[{"value":"313233343536373","begin":13,"end":28,"label":"IMEI"}]}
+{"id":26,"content":"고객님의 요청으로 414243444546474 기기에 대한 상세 이력을 조회하였습니다. 제조일은 2022년 8월이며 보증 기간 내입니다.","has_sensitive":true,"entities":[{"value":"414243444546474","begin":14,"end":29,"label":"IMEI"}]}
+{"id":27,"content":"통신 모듈 교체 작업 시 515253545556575를 새로운 부품에 할당하였습니다. 작업은 성공적으로 완료되었습니다.","has_sensitive":true,"entities":[{"value":"515253545556575","begin":20,"end":35,"label":"IMEI"}]}
+{"id":28,"content":"단말기 초기화 전에 반드시 616263646566676 번호를 기록해두세요. 초기화 후 재등록 시 필요합니다.","has_sensitive":true,"entities":[{"value":"616263646566676","begin":21,"end":36,"label":"IMEI"}]}
+{"id":29,"content":"국제 로밍 활성화를 위해 717273747576777을 해외 네트워크에 등록하였습니다. 출국 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"717273747576777","begin":20,"end":35,"label":"IMEI"}]}
+{"id":30,"content":"보안 업데이트 설치 대상 기기로 818283848586878이 선정되었습니다. 자동으로 다운로드가 시작됩니다.","has_sensitive":true,"entities":[{"value":"818283848586878","begin":23,"end":38,"label":"IMEI"}]}
+{"id":31,"content":"중고 매입 심사 결과 919293949596979 단말은 외관 A등급으로 평가되었습니다. 매입가는 시세보다 10% 높게 책정됩니다.","has_sensitive":true,"entities":[{"value":"919293949596979","begin":17,"end":32,"label":"IMEI"}]}
+{"id":32,"content":"유심 교체 작업 시 기기 번호 121314151617181를 통신사 시스템에 재등록하였습니다. 서비스는 즉시 복구됩니다.","has_sensitive":true,"entities":[{"value":"121314151617181","begin":20,"end":35,"label":"IMEI"}]}
+{"id":33,"content":"원격 지원 서비스를 위해 222324252627282를 원격 서버에 연결하였습니다. 기술자가 곧 접속할 예정입니다.","has_sensitive":true,"entities":[{"value":"222324252627282","begin":19,"end":34,"label":"IMEI"}]}
+{"id":34,"content":"제품 리콜 대상 여부를 확인한 결과 323334353637383은 해당사항이 없습니다. 안심하고 사용하셔도 됩니다.","has_sensitive":true,"entities":[{"value":"323334353637383","begin":26,"end":41,"label":"IMEI"}]}
+{"id":35,"content":"배터리 교체 신청서에 기재된 IMEI는 424344454647484입니다. 순정 배터리로 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"424344454647484","begin":24,"end":39,"label":"IMEI"}]}
+{"id":36,"content":"고객 지원팀에서 확인한 기기 식별코드 525354555657585는 정품 인증이 완료된 상태입니다. 모든 서비스 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"525354555657585","begin":26,"end":41,"label":"IMEI"}]}
+{"id":37,"content":"기기 보안 등급 평가에서 626364656667686은 최상급으로 분류되었습니다. 보안 위협이 전혀 감지되지 않았습니다.","has_sensitive":true,"entities":[{"value":"626364656667686","begin":19,"end":34,"label":"IMEI"}]}
+{"id":38,"content":"네트워크 품질 테스트를 위해 727374757677787 단말기를 선정하였습니다. 테스트는 내일 오전에 진행됩니다.","has_sensitive":true,"entities":[{"value":"727374757677787","begin":21,"end":36,"label":"IMEI"}]}
+{"id":39,"content":"소프트웨어 라이선스 인증 시 828384858687888을 사용하였습니다. 인증이 성공적으로 완료되었습니다.","has_sensitive":true,"entities":[{"value":"828384858687888","begin":23,"end":38,"label":"IMEI"}]}
+{"id":40,"content":"기기 데이터 마이그레이션 작업에서 929394959697989를 대상으로 지정하였습니다. 전송 시간은 약 2시간 소요됩니다.","has_sensitive":true,"entities":[{"value":"929394959697989","begin":28,"end":43,"label":"IMEI"}]}
+{"id":41,"content":"보증 연장 서비스 가입 시 131415161718191 번호를 계약서에 명시하였습니다. 연장 기간은 추가 2년입니다.","has_sensitive":true,"entities":[{"value":"131415161718191","begin":21,"end":36,"label":"IMEI"}]}
+{"id":42,"content":"기기 성능 벤치마크 테스트에서 232425262728292는 평균 이상의 점수를 기록하였습니다. 최적화 상태가 매우 양호합니다.","has_sensitive":true,"entities":[{"value":"232425262728292","begin":24,"end":39,"label":"IMEI"}]}
+{"id":43,"content":"고객님의 단말 식별번호 333435363738393으로 앱 설치 이력을 조회하였습니다. 최근 3개월간 50개의 앱이 설치되었습니다.","has_sensitive":true,"entities":[{"value":"333435363738393","begin":15,"end":30,"label":"IMEI"}]}
+{"id":44,"content":"분실폰 찾기 서비스에 433445464748494를 등록하시면 실시간 위치 추적이 가능합니다. 서비스는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"433445464748494","begin":18,"end":33,"label":"IMEI"}]}
+{"id":45,"content":"기기 하드웨어 진단 결과 533545564758595는 모든 부품이 정상 작동 중입니다. 추가 조치가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"533545564758595","begin":19,"end":34,"label":"IMEI"}]}
+{"id":46,"content":"통신 프로토콜 업그레이드 대상으로 633645666768696이 선정되었습니다. 업그레이드는 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"633645666768696","begin":25,"end":40,"label":"IMEI"}]}
+{"id":47,"content":"고객 인증 시스템에서 733745767778797 기기를 정상 등록하였습니다. 이제 프리미엄 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"733745767778797","begin":17,"end":32,"label":"IMEI"}]}
+{"id":48,"content":"기기 재판매 가치 평가에서 833845868788898은 시장가 대비 85%로 산정되었습니다. 상태가 우수하여 높은 가격을 받을 수 있습니다.","has_sensitive":true,"entities":[{"value":"833845868788898","begin":20,"end":35,"label":"IMEI"}]}
+{"id":49,"content":"네트워크 호환성 검사 결과 933945968798999는 5G 네트워크를 완벽히 지원합니다. 최고 속도로 데이터 통신이 가능합니다.","has_sensitive":true,"entities":[{"value":"933945968798999","begin":21,"end":36,"label":"IMEI"}]}
+{"id":50,"content":"기기 암호화 설정 시 141516171819202를 키 생성 기반으로 사용하였습니다. 데이터 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"141516171819202","begin":17,"end":32,"label":"IMEI"}]}
+{"id":51,"content":"펌웨어 복구 작업을 위해 242526272829303을 백업 서버에서 조회하였습니다. 복구는 30분 내 완료될 예정입니다.","has_sensitive":true,"entities":[{"value":"242526272829303","begin":18,"end":33,"label":"IMEI"}]}
+{"id":52,"content":"제조사 공식 인증 프로그램에 343536373839404를 등록하였습니다. 정품 인증 마크가 부여되었습니다.","has_sensitive":true,"entities":[{"value":"343536373839404","begin":24,"end":39,"label":"IMEI"}]}
+{"id":53,"content":"서비스 센터 방문 예약 시 기재하신 IMEI 443546474849505로 접수가 완료되었습니다. 예약 시간은 내일 오후 3시입니다.","has_sensitive":true,"entities":[{"value":"443546474849505","begin":28,"end":43,"label":"IMEI"}]}
+{"id":54,"content":"기기 소프트웨어 검증 과정에서 543556574859606은 모든 테스트를 통과하였습니다. 출시 준비가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"543556574859606","begin":23,"end":38,"label":"IMEI"}]}
+{"id":55,"content":"보안 패치 적용 대상 목록에 643656674869707이 포함되어 있습니다. 다음 주 화요일에 자동 설치됩니다.","has_sensitive":true,"entities":[{"value":"643656674869707","begin":20,"end":35,"label":"IMEI"}]}
+{"id":56,"content":"고객 만족도 조사를 위해 743756774879808 사용자를 무작위로 선정하였습니다. 설문 조사 링크를 발송해드렸습니다.","has_sensitive":true,"entities":[{"value":"743756774879808","begin":18,"end":33,"label":"IMEI"}]}
+{"id":57,"content":"기기 교환 프로그램 신청서에 843856874889909를 기입하셨습니다. 신청이 접수되어 처리 중입니다.","has_sensitive":true,"entities":[{"value":"843856874889909","begin":22,"end":37,"label":"IMEI"}]}
+{"id":58,"content":"원격 잠금 기능 활성화를 위해 943956978990010 단말을 보안 서버에 연결하였습니다. 도난 시 즉시 잠금됩니다.","has_sensitive":true,"entities":[{"value":"943956978990010","begin":21,"end":36,"label":"IMEI"}]}
+{"id":59,"content":"기기 시리얼 관리 시스템에 151617181920212를 입력하여 재고를 등록하였습니다. 출고 준비가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"151617181920212","begin":21,"end":36,"label":"IMEI"}]}
+{"id":60,"content":"통신 품질 모니터링 시스템에서 252627282930313 기기의 신호 강도를 측정하였습니다. 수신 상태가 매우 양호합니다.","has_sensitive":true,"entities":[{"value":"252627282930313","begin":24,"end":39,"label":"IMEI"}]}
+{"id":61,"content":"제품 보증 등록 시 입력하신 IMEI 번호 353637383940414가 확인되었습니다. 2년 무상 보증이 적용됩니다.","has_sensitive":true,"entities":[{"value":"353637383940414","begin":26,"end":41,"label":"IMEI"}]}
+{"id":62,"content":"기기 인증서 발급을 위해 453647484950515를 공식 데이터베이스에 등록하였습니다. 인증서는 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"453647484950515","begin":18,"end":33,"label":"IMEI"}]}
+{"id":63,"content":"네트워크 최적화 작업 대상으로 553657585960616을 선정하였습니다. 작업 후 통신 속도가 개선될 것입니다.","has_sensitive":true,"entities":[{"value":"553657585960616","begin":23,"end":38,"label":"IMEI"}]}
+{"id":64,"content":"고객 데이터 백업 시스템에 653667686970717을 등록하여 자동 백업을 시작하였습니다. 매일 자정에 백업됩니다.","has_sensitive":true,"entities":[{"value":"653667686970717","begin":20,"end":35,"label":"IMEI"}]}
+{"id":65,"content":"기기 성능 최적화 프로그램에서 753677787980818은 우수한 점수를 받았습니다. 추가 최적화가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"753677787980818","begin":23,"end":38,"label":"IMEI"}]}
+{"id":66,"content":"분실 신고 접수를 위해 853687888990919 번호를 경찰청 시스템에 입력하였습니다. 신고가 정상 처리되었습니다.","has_sensitive":true,"entities":[{"value":"853687888990919","begin":17,"end":32,"label":"IMEI"}]}
+{"id":67,"content":"제조사 품질 관리 시스템에서 953697989001020 단말을 샘플로 선정하였습니다. 정밀 검사가 진행될 예정입니다.","has_sensitive":true,"entities":[{"value":"953697989001020","begin":21,"end":36,"label":"IMEI"}]}
+{"id":68,"content":"기기 소유권 이전 절차에서 161718192021222를 새 소유자에게 등록하였습니다. 모든 권한이 이전되었습니다.","has_sensitive":true,"entities":[{"value":"161718192021222","begin":20,"end":35,"label":"IMEI"}]}
+{"id":69,"content":"통신사 변경 이력 조회 결과 262728293031323은 총 3번의 통신사 변경이 있었습니다. 현재는 정상 사용 중입니다.","has_sensitive":true,"entities":[{"value":"262728293031323","begin":20,"end":35,"label":"IMEI"}]}
+{"id":70,"content":"기기 하드웨어 업그레이드 시 362738394041424를 새로운 메인보드에 재할당하였습니다. 업그레이드가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"362738394041424","begin":22,"end":37,"label":"IMEI"}]}
+{"id":71,"content":"고객 지원 이력 관리 시스템에 462748495051525를 등록하였습니다. 모든 상담 내역이 저장됩니다.","has_sensitive":true,"entities":[{"value":"462748495051525","begin":21,"end":36,"label":"IMEI"}]}
+{"id":72,"content":"기기 보안 점검 결과 562758596061626은 악성 코드가 발견되지 않았습니다. 보안 상태가 매우 우수합니다.","has_sensitive":true,"entities":[{"value":"562758596061626","begin":15,"end":30,"label":"IMEI"}]}
+{"id":73,"content":"네트워크 설정 복원을 위해 662768697071727 기기를 초기 상태로 되돌렸습니다. 설정이 정상적으로 복원되었습니다.","has_sensitive":true,"entities":[{"value":"662768697071727","begin":20,"end":35,"label":"IMEI"}]}
+{"id":74,"content":"제품 리퍼 프로그램에 762778797081828을 등록하였습니다. 재생 작업 후 재판매될 예정입니다.","has_sensitive":true,"entities":[{"value":"762778797081828","begin":17,"end":32,"label":"IMEI"}]}
+{"id":75,"content":"기기 펌웨어 버전 확인 시 862788898091929는 최신 버전이 설치되어 있습니다. 업데이트가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"862788898091929","begin":19,"end":34,"label":"IMEI"}]}
+{"id":76,"content":"고객 맞춤 서비스 제공을 위해 962798990102030 사용자의 사용 패턴을 분석하였습니다. 맞춤 추천 서비스가 시작됩니다.","has_sensitive":true,"entities":[{"value":"962798990102030","begin":21,"end":36,"label":"IMEI"}]}
+{"id":77,"content":"기기 클라우드 동기화 설정에서 171819202122232를 계정에 연결하였습니다. 모든 데이터가 자동 동기화됩니다.","has_sensitive":true,"entities":[{"value":"171819202122232","begin":23,"end":38,"label":"IMEI"}]}
+{"id":78,"content":"통신망 장애 복구 작업 시 272829303132333 단말을 우선 처리하였습니다. 서비스가 정상화되었습니다.","has_sensitive":true,"entities":[{"value":"272829303132333","begin":19,"end":34,"label":"IMEI"}]}
+{"id":79,"content":"기기 데이터 삭제 요청에 따라 372839404142434의 모든 정보를 안전하게 삭제하였습니다. 개인정보가 완전히 제거되었습니다.","has_sensitive":true,"entities":[{"value":"372839404142434","begin":20,"end":35,"label":"IMEI"}]}
+{"id":80,"content":"제조사 보증 연장 신청 시 472849505152535를 계약 번호로 사용하였습니다. 연장 보증이 승인되었습니다.","has_sensitive":true,"entities":[{"value":"472849505152535","begin":19,"end":34,"label":"IMEI"}]}
+{"id":81,"content":"기기 성능 모니터링 시스템에서 572859606162636은 최적의 성능을 유지하고 있습니다. 정기 점검이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"572859606162636","begin":21,"end":36,"label":"IMEI"}]}
+{"id":82,"content":"네트워크 보안 인증서 발급을 위해 672869707172737을 암호화 키로 사용하였습니다. 인증서가 정상 발급되었습니다.","has_sensitive":true,"entities":[{"value":"672869707172737","begin":25,"end":40,"label":"IMEI"}]}
+{"id":83,"content":"고객 등급 평가 시스템에서 772879808182838 사용자를 VIP 등급으로 승급하였습니다. 특별 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"772879808182838","begin":18,"end":33,"label":"IMEI"}]}
+{"id":84,"content":"기기 원격 제어 설정에 872889909192939를 등록하여 원격 관리를 활성화하였습니다. 언제든지 원격 지원이 가능합니다.","has_sensitive":true,"entities":[{"value":"872889909192939","begin":17,"end":32,"label":"IMEI"}]}
+{"id":85,"content":"제품 품질 검증 과정에서 972899001020304는 모든 기준을 충족하였습니다. 출고 승인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"972899001020304","begin":18,"end":33,"label":"IMEI"}]}
+{"id":86,"content":"기기 위치 추적 서비스에 181920212223242를 등록하여 실시간 위치 확인이 가능합니다. 분실 시 유용하게 사용됩니다.","has_sensitive":true,"entities":[{"value":"181920212223242","begin":17,"end":32,"label":"IMEI"}]}
+{"id":87,"content":"통신 프로필 설정 작업에서 282930313233343을 기본 프로필로 지정하였습니다. 네트워크 연결이 최적화되었습니다.","has_sensitive":true,"entities":[{"value":"282930313233343","begin":20,"end":35,"label":"IMEI"}]}
+{"id":88,"content":"고객 보상 프로그램 참여 신청 시 382940414243444를 회원 번호로 등록하였습니다. 포인트 적립이 시작됩니다.","has_sensitive":true,"entities":[{"value":"382940414243444","begin":23,"end":38,"label":"IMEI"}]}
+{"id":89,"content":"기기 진단 애플리케이션에서 482950515253545는 건강 상태가 95점으로 매우 양호합니다. 교체가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"482950515253545","begin":19,"end":34,"label":"IMEI"}]}
+{"id":90,"content":"네트워크 로밍 설정 변경 시 582960616263646을 국제 로밍 목록에 추가하였습니다. 해외에서도 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"582960616263646","begin":20,"end":35,"label":"IMEI"}]}
+{"id":91,"content":"제조사 기술 지원팀에서 682970717273747 기기의 문제를 원격으로 해결하였습니다. 모든 기능이 정상 작동합니다.","has_sensitive":true,"entities":[{"value":"682970717273747","begin":17,"end":32,"label":"IMEI"}]}
+{"id":92,"content":"기기 소프트웨어 라이선스 갱신 시 782980818283848을 인증 코드로 사용하였습니다. 라이선스가 1년 연장되었습니다.","has_sensitive":true,"entities":[{"value":"782980818283848","begin":26,"end":41,"label":"IMEI"}]}
+{"id":93,"content":"고객 피드백 수집 시스템에 882990919293949를 등록하여 사용 경험을 조사하였습니다. 소중한 의견 감사합니다.","has_sensitive":true,"entities":[{"value":"882990919293949","begin":19,"end":34,"label":"IMEI"}]}
+{"id":94,"content":"기기 메모리 최적화 작업에서 982900102030405는 저장 공간이 충분합니다. 추가 정리가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"982900102030405","begin":20,"end":35,"label":"IMEI"}]}
+{"id":95,"content":"네트워크 속도 테스트 결과 192021222324252는 다운로드 500Mbps를 기록하였습니다. 최고 성능을 보여줍니다.","has_sensitive":true,"entities":[{"value":"192021222324252","begin":19,"end":34,"label":"IMEI"}]}
+{"id":96,"content":"기기 보안 업데이트 알림을 292031323334353 사용자에게 발송하였습니다. 업데이트는 필수적으로 진행해주세요.","has_sensitive":true,"entities":[{"value":"292031323334353","begin":20,"end":35,"label":"IMEI"}]}
+{"id":97,"content":"제품 교환 승인 처리에서 392041424344454를 새 제품 번호로 교체하였습니다. 배송은 내일 출발합니다.","has_sensitive":true,"entities":[{"value":"392041424344454","begin":18,"end":33,"label":"IMEI"}]}
+{"id":98,"content":"통신 서비스 가입 신청 시 492051525354555를 계약서에 명시하였습니다. 개통은 오늘 완료될 예정입니다.","has_sensitive":true,"entities":[{"value":"492051525354555","begin":19,"end":34,"label":"IMEI"}]}
+{"id":99,"content":"기기 배터리 수명 측정 결과 592061626364656은 80% 이상의 성능을 유지하고 있습니다. 교체 시기가 아닙니다.","has_sensitive":true,"entities":[{"value":"592061626364656","begin":19,"end":34,"label":"IMEI"}]}
+{"id":100,"content":"고객 인증 절차 완료 시 692071727374757 번호로 계정이 활성화되었습니다. 모든 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"692071727374757","begin":18,"end":33,"label":"IMEI"}]}
+{"id":101,"content":"기기 네트워크 설정 초기화 작업에서 792081828384858을 기본값으로 복원하였습니다. 연결 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"792081828384858","begin":26,"end":41,"label":"IMEI"}]}
+{"id":102,"content":"제조사 품질 보증 프로그램에 892091929394959를 등록하여 프리미엄 서비스를 신청하였습니다. 승인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"892091929394959","begin":21,"end":36,"label":"IMEI"}]}
+{"id":103,"content":"통신 장비 호환성 검사에서 992001020304050은 모든 네트워크와 호환됩니다. 제약 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"992001020304050","begin":20,"end":35,"label":"IMEI"}]}
+{"id":104,"content":"기기 데이터 전송 작업 시 102030405060708을 송신 기기로 설정하였습니다. 전송이 시작되었습니다.","has_sensitive":true,"entities":[{"value":"102030405060708","begin":18,"end":33,"label":"IMEI"}]}
+{"id":105,"content":"고객 불만 처리 시스템에서 202030405060709 케이스를 최우선으로 처리하였습니다. 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"202030405060709","begin":19,"end":34,"label":"IMEI"}]}
+{"id":106,"content":"기기 원격 업데이트 예약에 302040506070810을 등록하여 자동 업데이트를 설정하였습니다. 새벽 시간에 진행됩니다.","has_sensitive":true,"entities":[{"value":"302040506070810","begin":18,"end":33,"label":"IMEI"}]}
+{"id":107,"content":"네트워크 정책 적용 작업에서 402050607080911은 기업 정책이 적용되었습니다. 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"402050607080911","begin":20,"end":35,"label":"IMEI"}]}
+{"id":108,"content":"제품 사용 설명서 다운로드 시 502060708091012를 인증 번호로 입력하였습니다. 매뉴얼이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"502060708091012","begin":22,"end":37,"label":"IMEI"}]}
+{"id":109,"content":"기기 소음 테스트 결과 602070809001113은 기준치 이하로 매우 조용합니다. 품질 검사를 통과하였습니다.","has_sensitive":true,"entities":[{"value":"602070809001113","begin":16,"end":31,"label":"IMEI"}]}
+{"id":110,"content":"통신 요금제 변경 신청 시 702080900112214를 고객 식별번호로 사용하였습니다. 요금제가 변경되었습니다.","has_sensitive":true,"entities":[{"value":"702080900112214","begin":18,"end":33,"label":"IMEI"}]}
+{"id":111,"content":"고객 맞춤 알림 설정에서 802090011223315 기기에 푸시 알림을 활성화하였습니다. 중요한 정보를 실시간으로 받습니다.","has_sensitive":true,"entities":[{"value":"802090011223315","begin":17,"end":32,"label":"IMEI"}]}
+{"id":112,"content":"기기 충전 상태 모니터링 시스템에 902001122334416을 등록하였습니다. 배터리 관리가 최적화됩니다.","has_sensitive":true,"entities":[{"value":"902001122334416","begin":24,"end":39,"label":"IMEI"}]}
+{"id":113,"content":"네트워크 트래픽 분석 결과 112233445566779는 정상 범위 내에서 데이터를 사용하고 있습니다. 이상이 없습니다.","has_sensitive":true,"entities":[{"value":"112233445566779","begin":19,"end":34,"label":"IMEI"}]}
+{"id":114,"content":"제조사 리콜 통지서에 212243455667880을 대상 기기로 명시하였습니다. 무상 수리가 진행될 예정입니다.","has_sensitive":true,"entities":[{"value":"212243455667880","begin":16,"end":31,"label":"IMEI"}]}
+{"id":115,"content":"기기 센서 캘리브레이션 작업에서 312253465768981은 정밀도가 향상되었습니다. 측정 오차가 감소하였습니다.","has_sensitive":true,"entities":[{"value":"312253465768981","begin":24,"end":39,"label":"IMEI"}]}
+{"id":116,"content":"통신 프로토콜 호환성 테스트에서 412263475869082는 모든 표준을 지원합니다. 국제 사용이 가능합니다.","has_sensitive":true,"entities":[{"value":"412263475869082","begin":25,"end":40,"label":"IMEI"}]}
+{"id":117,"content":"고객 서비스 우선순위 시스템에 512273485960183을 VIP로 등록하였습니다. 우선 지원을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"512273485960183","begin":22,"end":37,"label":"IMEI"}]}
+{"id":118,"content":"기기 화면 보정 작업 결과 612283496071284는 색상이 정확합니다. 추가 보정이 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"612283496071284","begin":17,"end":32,"label":"IMEI"}]}
+{"id":119,"content":"네트워크 주파수 스캔 작업에서 712293506172385를 테스트 기기로 사용하였습니다. 모든 주파수를 감지합니다.","has_sensitive":true,"entities":[{"value":"712293506172385","begin":23,"end":38,"label":"IMEI"}]}
+{"id":120,"content":"제품 안전 인증 심사에서 812203516273486은 모든 안전 기준을 만족하였습니다. 인증 마크가 부여됩니다.","has_sensitive":true,"entities":[{"value":"812203516273486","begin":17,"end":32,"label":"IMEI"}]}
+{"id":121,"content":"기기 음향 품질 테스트 결과 912213526374587은 고음질을 지원합니다. 오디오 성능이 우수합니다.","has_sensitive":true,"entities":[{"value":"912213526374587","begin":19,"end":34,"label":"IMEI"}]}
+{"id":122,"content":"통신 암호화 설정 강화를 위해 122223536475688을 보안 키로 등록하였습니다. 데이터 보호가 강화되었습니다.","has_sensitive":true,"entities":[{"value":"122223536475688","begin":21,"end":36,"label":"IMEI"}]}
+{"id":123,"content":"고객 데이터 이전 작업에서 222233546576789를 타깃 기기로 설정하였습니다. 이전이 성공적으로 완료되었습니다.","has_sensitive":true,"entities":[{"value":"222233546576789","begin":18,"end":33,"label":"IMEI"}]}
+{"id":124,"content":"기기 터치 반응 속도 측정에서 322243556677880은 평균 50ms로 매우 빠릅니다. 반응성이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"322243556677880","begin":20,"end":35,"label":"IMEI"}]}
+{"id":125,"content":"네트워크 데이터 사용량 분석 결과 422253566778981은 월 평균 50GB를 사용합니다. 정상 사용량입니다.","has_sensitive":true,"entities":[{"value":"422253566778981","begin":24,"end":39,"label":"IMEI"}]}
+{"id":126,"content":"제조사 기술 지원 요청 시 522263576879082를 케이스 번호로 등록하였습니다. 담당자가 배정되었습니다.","has_sensitive":true,"entities":[{"value":"522263576879082","begin":18,"end":33,"label":"IMEI"}]}
+{"id":127,"content":"기기 GPS 정확도 테스트에서 622273586970183은 오차 범위 3미터 이내입니다. 위치 추적이 정확합니다.","has_sensitive":true,"entities":[{"value":"622273586970183","begin":19,"end":34,"label":"IMEI"}]}
+{"id":128,"content":"통신 서비스 중단 이력 조회 시 722283597071284는 장애 기록이 없습니다. 안정적으로 운영되고 있습니다.","has_sensitive":true,"entities":[{"value":"722283597071284","begin":20,"end":35,"label":"IMEI"}]}
+{"id":129,"content":"고객 만족도 평가에서 822293507172385 사용자는 5점 만점을 부여하셨습니다. 우수한 제품으로 평가받았습니다.","has_sensitive":true,"entities":[{"value":"822293507172385","begin":14,"end":29,"label":"IMEI"}]}
+{"id":130,"content":"기기 카메라 화질 테스트 결과 922203517273486은 4K 해상도를 지원합니다. 촬영 품질이 매우 우수합니다.","has_sensitive":true,"entities":[{"value":"922203517273486","begin":19,"end":34,"label":"IMEI"}]}
+{"id":131,"content":"네트워크 핸드오버 성능 평가에서 132213527374587은 끊김 없이 전환됩니다. 이동 중 통신이 안정적입니다.","has_sensitive":true,"entities":[{"value":"132213527374587","begin":23,"end":38,"label":"IMEI"}]}
+{"id":132,"content":"제품 에너지 효율 등급 평가에서 232223537475688은 1등급을 받았습니다. 전력 소비가 매우 적습니다.","has_sensitive":true,"entities":[{"value":"232223537475688","begin":22,"end":37,"label":"IMEI"}]}
+{"id":133,"content":"기기 진동 모터 테스트 결과 332233547576789는 정상 작동하고 있습니다. 촉각 피드백이 명확합니다.","has_sensitive":true,"entities":[{"value":"332233547576789","begin":18,"end":33,"label":"IMEI"}]}
+{"id":134,"content":"통신 망 혼잡도 분석 시스템에서 432243557677890 기기의 연결 상태를 모니터링하고 있습니다. 연결이 안정적입니다.","has_sensitive":true,"entities":[{"value":"432243557677890","begin":22,"end":37,"label":"IMEI"}]}
+{"id":135,"content":"고객 보상 포인트 적립 내역에 532253567778991이 등록되어 있습니다. 현재 5000포인트가 적립되었습니다.","has_sensitive":true,"entities":[{"value":"532253567778991","begin":21,"end":36,"label":"IMEI"}]}
+{"id":136,"content":"기기 블루투스 연결 테스트에서 632263577879092는 최대 8개 기기와 동시 연결이 가능합니다. 연결성이 우수합니다.","has_sensitive":true,"entities":[{"value":"632263577879092","begin":21,"end":36,"label":"IMEI"}]}
+{"id":137,"content":"네트워크 보안 인증 갱신 작업에서 732273587970193은 새로운 인증서를 발급받았습니다. 보안이 업데이트되었습니다.","has_sensitive":true,"entities":[{"value":"732273587970193","begin":24,"end":39,"label":"IMEI"}]}
+{"id":138,"content":"제조사 환경 인증 프로그램에 832283597071294를 등록하였습니다. 친환경 제품으로 인정받았습니다.","has_sensitive":true,"entities":[{"value":"832283597071294","begin":20,"end":35,"label":"IMEI"}]}
+{"id":139,"content":"기기 방수 성능 테스트 결과 932293507172395는 IP68 등급을 만족합니다. 물속에서도 안전하게 사용됩니다.","has_sensitive":true,"entities":[{"value":"932293507172395","begin":19,"end":34,"label":"IMEI"}]}
+{"id":140,"content":"통신 지연 시간 측정 작업에서 142203517273496은 평균 20ms의 낮은 지연을 보입니다. 실시간 통신에 최적입니다.","has_sensitive":true,"entities":[{"value":"142203517273496","begin":20,"end":35,"label":"IMEI"}]}
+{"id":141,"content":"고객 예약 관리 시스템에 242213527374597을 등록하여 서비스 예약을 완료하였습니다. 방문 시간은 내일 2시입니다.","has_sensitive":true,"entities":[{"value":"242213527374597","begin":16,"end":31,"label":"IMEI"}]}
+{"id":142,"content":"기기 열 관리 시스템 테스트에서 342223537475698은 최적의 온도를 유지합니다. 과열 위험이 없습니다.","has_sensitive":true,"entities":[{"value":"342223537475698","begin":21,"end":36,"label":"IMEI"}]}
+{"id":143,"content":"네트워크 QoS 설정 작업에서 442233547576799를 우선순위 높음으로 지정하였습니다. 데이터 전송이 빨라집니다.","has_sensitive":true,"entities":[{"value":"442233547576799","begin":19,"end":34,"label":"IMEI"}]}
+{"id":144,"content":"제품 디자인 어워드 출품작으로 542243557677800을 선정하였습니다. 우수한 디자인으로 인정받았습니다.","has_sensitive":true,"entities":[{"value":"542243557677800","begin":23,"end":38,"label":"IMEI"}]}
+{"id":145,"content":"기기 마이크 감도 테스트 결과 642253567778901은 소음 제거 기능이 우수합니다. 녹음 품질이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"642253567778901","begin":19,"end":34,"label":"IMEI"}]}
+{"id":146,"content":"통신 커버리지 맵 업데이트에 742263577879002를 테스트 지점으로 추가하였습니다. 신호 강도가 측정됩니다.","has_sensitive":true,"entities":[{"value":"742263577879002","begin":21,"end":36,"label":"IMEI"}]}
+{"id":147,"content":"고객 피드백 보상 프로그램에서 842273587970103 참여자에게 기프트카드를 발송하였습니다. 소중한 의견 감사합니다.","has_sensitive":true,"entities":[{"value":"842273587970103","begin":22,"end":37,"label":"IMEI"}]}
+{"id":148,"content":"기기 NFC 기능 테스트에서 942283597071204는 정상적으로 작동합니다. 모바일 결제가 가능합니다.","has_sensitive":true,"entities":[{"value":"942283597071204","begin":18,"end":33,"label":"IMEI"}]}
+{"id":149,"content":"네트워크 슬라이싱 설정 작업에서 152293507172305를 전용 슬라이스에 할당하였습니다. 대역폭이 보장됩니다.","has_sensitive":true,"entities":[{"value":"152293507172305","begin":24,"end":39,"label":"IMEI"}]}
+{"id":150,"content":"제조사 베타 테스트 프로그램에 252203517273406을 참여 기기로 등록하였습니다. 신규 기능을 먼저 체험합니다.","has_sensitive":true,"entities":[{"value":"252203517273406","begin":21,"end":36,"label":"IMEI"}]}
+{"id":151,"content":"기기 스피커 출력 테스트 결과 352213527374507은 최대 음량이 충분합니다. 오디오 출력이 명확합니다.","has_sensitive":true,"entities":[{"value":"352213527374507","begin":19,"end":34,"label":"IMEI"}]}
+{"id":152,"content":"통신 채널 최적화 작업에서 452223537475608을 메인 채널로 설정하였습니다. 간섭이 최소화됩니다.","has_sensitive":true,"entities":[{"value":"452223537475608","begin":19,"end":34,"label":"IMEI"}]}
+{"id":153,"content":"고객 로열티 프로그램 등록 시 552233547576709를 멤버십 번호로 사용하였습니다. 평생 회원 자격이 부여됩니다.","has_sensitive":true,"entities":[{"value":"552233547576709","begin":20,"end":35,"label":"IMEI"}]}
+{"id":154,"content":"기기 자이로스코프 정확도 측정에서 652243557677810은 오차가 거의 없습니다. 게임 및 VR에 적합합니다.","has_sensitive":true,"entities":[{"value":"652243557677810","begin":24,"end":39,"label":"IMEI"}]}
+{"id":155,"content":"네트워크 에지 컴퓨팅 노드에 752253567778911을 연결하여 저지연 서비스를 제공합니다. 응답 속도가 빨라집니다.","has_sensitive":true,"entities":[{"value":"752253567778911","begin":20,"end":35,"label":"IMEI"}]}
+{"id":156,"content":"제품 사용자 매뉴얼 개정판에 852263577879012를 예시 기기로 사용하였습니다. 설명이 더욱 명확해졌습니다.","has_sensitive":true,"entities":[{"value":"852263577879012","begin":21,"end":36,"label":"IMEI"}]}
+{"id":157,"content":"기기 가속도계 캘리브레이션에서 952273587970113은 정밀도가 향상되었습니다. 걸음 수 측정이 정확합니다.","has_sensitive":true,"entities":[{"value":"952273587970113","begin":22,"end":37,"label":"IMEI"}]}
+{"id":158,"content":"통신 이중화 설정 작업에서 162283597071214를 백업 경로로 지정하였습니다. 장애 시 자동 전환됩니다.","has_sensitive":true,"entities":[{"value":"162283597071214","begin":18,"end":33,"label":"IMEI"}]}
+{"id":159,"content":"고객 설문 조사 응답자로 262293507172315를 무작위 선정하였습니다. 참여 감사 쿠폰을 발송하였습니다.","has_sensitive":true,"entities":[{"value":"262293507172315","begin":17,"end":32,"label":"IMEI"}]}
+{"id":160,"content":"기기 지문 센서 인식률 테스트에서 362203517273416은 99% 이상의 정확도를 보입니다. 보안성이 우수합니다.","has_sensitive":true,"entities":[{"value":"362203517273416","begin":23,"end":38,"label":"IMEI"}]}
+{"id":161,"content":"네트워크 트래픽 셰이핑 정책을 462213527374517에 적용하였습니다. 대역폭 사용이 효율적으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"462213527374517","begin":23,"end":38,"label":"IMEI"}]}
+{"id":162,"content":"제조사 공식 앱 스토어에 562223537475618을 개발자 계정으로 등록하였습니다. 앱 배포가 가능해졌습니다.","has_sensitive":true,"entities":[{"value":"562223537475618","begin":17,"end":32,"label":"IMEI"}]}
+{"id":163,"content":"기기 얼굴 인식 속도 측정 결과 662233547576719는 0.3초 이내에 잠금 해제됩니다. 매우 빠르고 편리합니다.","has_sensitive":true,"entities":[{"value":"662233547576719","begin":19,"end":34,"label":"IMEI"}]}
+{"id":164,"content":"통신 프로비저닝 설정에서 762243557677820을 자동 구성 목록에 추가하였습니다. 초기 설정이 간편해집니다.","has_sensitive":true,"entities":[{"value":"762243557677820","begin":18,"end":33,"label":"IMEI"}]}
+{"id":165,"content":"고객 기술 지원 티켓에 862253567778921을 참조 번호로 배정하였습니다. 처리 상황을 추적하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"862253567778921","begin":16,"end":31,"label":"IMEI"}]}
+{"id":166,"content":"기기 무선 충전 효율 테스트에서 962263577879022는 85% 이상의 전력 전달 효율을 보입니다. 빠른 충전이 가능합니다.","has_sensitive":true,"entities":[{"value":"962263577879022","begin":21,"end":36,"label":"IMEI"}]}
+{"id":167,"content":"네트워크 부하 분산 작업에서 172273587970123을 경로 분산 대상에 포함하였습니다. 혼잡도가 감소합니다.","has_sensitive":true,"entities":[{"value":"172273587970123","begin":19,"end":34,"label":"IMEI"}]}
+{"id":168,"content":"제품 보증서 재발급 신청 시 272283597071224를 증빙 번호로 제출하셨습니다. 재발급이 승인되었습니다.","has_sensitive":true,"entities":[{"value":"272283597071224","begin":18,"end":33,"label":"IMEI"}]}
+{"id":169,"content":"기기 환경 센서 정확도 평가에서 372293507172325는 온습도 측정이 정확합니다. 실내 환경 관리에 유용합니다.","has_sensitive":true,"entities":[{"value":"372293507172325","begin":21,"end":36,"label":"IMEI"}]}
+{"id":170,"content":"통신 서비스 품질 모니터링에 472203517273426을 샘플 기기로 선정하였습니다. 통계 데이터가 수집됩니다.","has_sensitive":true,"entities":[{"value":"472203517273426","begin":21,"end":36,"label":"IMEI"}]}
+{"id":171,"content":"고객 이벤트 당첨자로 572213527374527이 선정되었습니다. 축하드리며 경품을 발송하겠습니다.","has_sensitive":true,"entities":[{"value":"572213527374527","begin":14,"end":29,"label":"IMEI"}]}
+{"id":172,"content":"기기 메모리 성능 벤치마크에서 672223537475628은 읽기 속도 2GB/s를 기록하였습니다. 매우 빠른 속도입니다.","has_sensitive":true,"entities":[{"value":"672223537475628","begin":22,"end":37,"label":"IMEI"}]}
+{"id":173,"content":"네트워크 보안 감사 작업에서 772233547576729는 취약점이 발견되지 않았습니다. 보안 수준이 높습니다.","has_sensitive":true,"entities":[{"value":"772233547576729","begin":19,"end":34,"label":"IMEI"}]}
+{"id":174,"content":"제조사 파트너십 프로그램에 872243557677830을 협력사 코드로 등록하였습니다. 특별 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"872243557677830","begin":20,"end":35,"label":"IMEI"}]}
+{"id":175,"content":"기기 디스플레이 밝기 측정 결과 972253567778931은 최대 800nit를 지원합니다. 야외에서도 선명합니다.","has_sensitive":true,"entities":[{"value":"972253567778931","begin":21,"end":36,"label":"IMEI"}]}
+{"id":176,"content":"통신 우선순위 큐 설정에서 182263577879032를 최상위 우선순위로 지정하였습니다. 지연 없이 처리됩니다.","has_sensitive":true,"entities":[{"value":"182263577879032","begin":18,"end":33,"label":"IMEI"}]}
+{"id":177,"content":"고객 선호도 분석 시스템에 282273587970133을 등록하여 맞춤 서비스를 제공합니다. 만족도가 향상됩니다.","has_sensitive":true,"entities":[{"value":"282273587970133","begin":17,"end":32,"label":"IMEI"}]}
+{"id":178,"content":"기기 리프레시 레이트 테스트에서 382283597071234는 120Hz를 안정적으로 지원합니다. 화면이 매우 부드럽습니다.","has_sensitive":true,"entities":[{"value":"382283597071234","begin":23,"end":38,"label":"IMEI"}]}
+{"id":179,"content":"네트워크 페일오버 테스트 결과 482293507172335는 1초 이내에 백업 회선으로 전환됩니다. 안정성이 보장됩니다.","has_sensitive":true,"entities":[{"value":"482293507172335","begin":21,"end":36,"label":"IMEI"}]}
+{"id":180,"content":"제품 출시 기념 이벤트에 582203517273436을 사전 등록하시면 특별 사은품을 제공합니다. 서둘러 신청하세요.","has_sensitive":true,"entities":[{"value":"582203517273436","begin":17,"end":32,"label":"IMEI"}]}
+{"id":181,"content":"기기 터치 샘플링 레이트 측정에서 682213527374537은 240Hz를 기록하였습니다. 게임에 최적화되어 있습니다.","has_sensitive":true,"entities":[{"value":"682213527374537","begin":23,"end":38,"label":"IMEI"}]}
+{"id":182,"content":"통신 에러율 모니터링 시스템에서 782223537475638은 에러가 거의 발생하지 않습니다. 통신 품질이 우수합니다.","has_sensitive":true,"entities":[{"value":"782223537475638","begin":23,"end":38,"label":"IMEI"}]}
+{"id":183,"content":"고객 추천 프로그램 등록 시 882233547576739를 추천인 코드로 입력하였습니다. 양측 모두 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"882233547576739","begin":18,"end":33,"label":"IMEI"}]}
+{"id":184,"content":"기기 스토리지 수명 예측 분석에서 982243557677840은 5년 이상 사용 가능합니다. 내구성이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"982243557677840","begin":24,"end":39,"label":"IMEI"}]}
+{"id":185,"content":"네트워크 핑 안정성 테스트 결과 192253567778941은 변동폭이 5ms 이내입니다. 게임 플레이가 원활합니다.","has_sensitive":true,"entities":[{"value":"192253567778941","begin":21,"end":36,"label":"IMEI"}]}
+{"id":186,"content":"제조사 개발자 컨퍼런스에 292263577879042를 참가 등록하였습니다. 최신 기술 동향을 공유합니다.","has_sensitive":true,"entities":[{"value":"292263577879042","begin":18,"end":33,"label":"IMEI"}]}
+{"id":187,"content":"기기 와이파이 속도 측정 결과 392273587970143은 기가비트 속도를 지원합니다. 다운로드가 매우 빠릅니다.","has_sensitive":true,"entities":[{"value":"392273587970143","begin":19,"end":34,"label":"IMEI"}]}
+{"id":188,"content":"통신 로밍 프로필 업데이트에 492283597071244를 추가하여 신규 국가를 지원합니다. 여행이 더 편리해집니다.","has_sensitive":true,"entities":[{"value":"492283597071244","begin":21,"end":36,"label":"IMEI"}]}
+{"id":189,"content":"고객 멤버십 등급 상향 조정으로 592293507172345를 골드 등급으로 승급하였습니다. 추가 혜택을 받으십시오.","has_sensitive":true,"entities":[{"value":"592293507172345","begin":23,"end":38,"label":"IMEI"}]}
+{"id":190,"content":"기기 안테나 성능 측정 결과 692203517273446은 수신 감도가 우수합니다. 약한 신호도 잘 잡습니다.","has_sensitive":true,"entities":[{"value":"692203517273446","begin":18,"end":33,"label":"IMEI"}]}
+{"id":191,"content":"네트워크 베어러 변경 작업에서 792213527374547을 LTE에서 5G로 전환하였습니다. 속도가 크게 향상됩니다.","has_sensitive":true,"entities":[{"value":"792213527374547","begin":21,"end":36,"label":"IMEI"}]}
+{"id":192,"content":"제품 중고 매입 가격 산정 시 892223537475648을 기준 모델로 평가하였습니다. 시세 대비 90% 제시합니다.","has_sensitive":true,"entities":[{"value":"892223537475648","begin":19,"end":34,"label":"IMEI"}]}
+{"id":193,"content":"기기 듀얼심 기능 테스트에서 992233547576749는 동시에 두 회선을 안정적으로 운영합니다. 편리하게 사용됩니다.","has_sensitive":true,"entities":[{"value":"992233547576749","begin":19,"end":34,"label":"IMEI"}]}
+{"id":194,"content":"통신 주파수 집성 설정에서 103243557677850을 4개 밴드 동시 사용으로 구성하였습니다. 최고 속도를 제공합니다.","has_sensitive":true,"entities":[{"value":"103243557677850","begin":18,"end":33,"label":"IMEI"}]}
+{"id":195,"content":"고객 불편 사항 보상으로 203253567778951에 무료 수리 쿠폰을 발급하였습니다. 불편을 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"203253567778951","begin":16,"end":31,"label":"IMEI"}]}
+{"id":196,"content":"기기 USB 전송 속도 테스트 결과 303263577879052는 USB 3.1 규격을 지원합니다. 파일 전송이 빠릅니다.","has_sensitive":true,"entities":[{"value":"303263577879052","begin":22,"end":37,"label":"IMEI"}]}
+{"id":197,"content":"네트워크 다중 연결 관리 시스템에 403273587970153을 등록하여 동시 접속을 최적화합니다. 연결이 안정됩니다.","has_sensitive":true,"entities":[{"value":"403273587970153","begin":24,"end":39,"label":"IMEI"}]}
+{"id":198,"content":"제조사 품질 관리 인증 심사에서 503283597071254는 ISO 기준을 만족하였습니다. 품질이 보증됩니다.","has_sensitive":true,"entities":[{"value":"503283597071254","begin":22,"end":37,"label":"IMEI"}]}
+{"id":199,"content":"기기 적외선 센서 감지 범위 측정에서 603293507172355는 10미터 이내를 정확히 감지합니다. 리모컨 기능이 우수합니다.","has_sensitive":true,"entities":[{"value":"603293507172355","begin":26,"end":41,"label":"IMEI"}]}
+{"id":200,"content":"통신 SIM 카드 인증 절차에서 703203517273456을 정상 등록하였습니다. 네트워크 접속이 허용되었습니다.","has_sensitive":true,"entities":[{"value":"703203517273456","begin":20,"end":35,"label":"IMEI"}]}
+{"id":201,"content":"고객 특별 할인 쿠폰을 803213527374557 소유자에게 발송하였습니다. 30% 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"803213527374557","begin":16,"end":31,"label":"IMEI"}]}
+{"id":202,"content":"기기 압력 센서 정밀도 테스트에서 903223537475658은 해발고도를 정확히 측정합니다. 등산에 유용합니다.","has_sensitive":true,"entities":[{"value":"903223537475658","begin":23,"end":38,"label":"IMEI"}]}
+{"id":203,"content":"네트워크 가상화 환경 구성에서 113233547576759를 테스트 노드로 배치하였습니다. 성능 검증을 진행합니다.","has_sensitive":true,"entities":[{"value":"113233547576759","begin":21,"end":36,"label":"IMEI"}]}
+{"id":204,"content":"제품 재활용 프로그램 신청 시 213243557677860을 수거 대상으로 등록하였습니다. 환경 보호에 동참합니다.","has_sensitive":true,"entities":[{"value":"213243557677860","begin":19,"end":34,"label":"IMEI"}]}
+{"id":205,"content":"기기 모뎀 펌웨어 업데이트에서 313253567778961은 최신 버전으로 갱신되었습니다. 통신 성능이 개선됩니다.","has_sensitive":true,"entities":[{"value":"313253567778961","begin":20,"end":35,"label":"IMEI"}]}
+{"id":206,"content":"통신 에너지 절약 모드 적용 시 413263577879062를 저전력 프로파일로 전환하였습니다. 배터리가 오래 갑니다.","has_sensitive":true,"entities":[{"value":"413263577879062","begin":21,"end":36,"label":"IMEI"}]}
+{"id":207,"content":"고객 긴급 지원 요청에 513273587970163을 우선 처리 대상으로 지정하였습니다. 즉시 대응하겠습니다.","has_sensitive":true,"entities":[{"value":"513273587970163","begin":15,"end":30,"label":"IMEI"}]}
+{"id":208,"content":"기기 컬러 정확도 측정 결과 613283597071264는 DCI-P3 색영역을 100% 커버합니다. 색재현이 완벽합니다.","has_sensitive":true,"entities":[{"value":"613283597071264","begin":18,"end":33,"label":"IMEI"}]}
+{"id":209,"content":"네트워크 패킷 손실률 분석에서 713293507172365는 0.01% 미만의 손실률을 보입니다. 통신이 매우 안정적입니다.","has_sensitive":true,"entities":[{"value":"713293507172365","begin":21,"end":36,"label":"IMEI"}]}
+{"id":210,"content":"제조사 글로벌 보증 프로그램에 813203517273466을 등록하여 전세계에서 A/S를 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"813203517273466","begin":21,"end":36,"label":"IMEI"}]}
+{"id":211,"content":"기기 자동 밝기 조절 기능 테스트에서 913213527374567은 주변 조도에 정확히 반응합니다. 눈의 피로가 줄어듭니다.","has_sensitive":true,"entities":[{"value":"913213527374567","begin":26,"end":41,"label":"IMEI"}]}
+{"id":212,"content":"통신 캐리어 어그리게이션 설정에서 123223537475668을 5CA 모드로 활성화하였습니다. 최고 속도를 경험하세요.","has_sensitive":true,"entities":[{"value":"123223537475668","begin":26,"end":41,"label":"IMEI"}]}
+{"id":213,"content":"고객 충성도 보상 지급 시 223233547576769에 리워드 포인트 10000점을 적립하였습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"223233547576769","begin":16,"end":31,"label":"IMEI"}]}
+{"id":214,"content":"기기 홍채 인식 보안 등급 평가에서 323243557677870은 금융 거래 수준의 보안을 제공합니다. 안전하게 사용하세요.","has_sensitive":true,"entities":[{"value":"323243557677870","begin":24,"end":39,"label":"IMEI"}]}
+{"id":215,"content":"네트워크 음성 품질 테스트 결과 423253567778971은 HD Voice를 지원합니다. 통화 음질이 매우 선명합니다.","has_sensitive":true,"entities":[{"value":"423253567778971","begin":20,"end":35,"label":"IMEI"}]}
+{"id":216,"content":"제품 선물 포장 서비스 신청 시 523263577879072를 수령인 정보로 등록하였습니다. 정성껏 포장해드립니다.","has_sensitive":true,"entities":[{"value":"523263577879072","begin":20,"end":35,"label":"IMEI"}]}
+{"id":217,"content":"기기 근접 센서 반응 속도 측정에서 623273587970173은 즉각 반응합니다. 화면 오작동이 방지됩니다.","has_sensitive":true,"entities":[{"value":"623273587970173","begin":24,"end":39,"label":"IMEI"}]}
+{"id":218,"content":"통신 망 중립성 준수 확인 작업에서 723283597071274는 모든 트래픽을 동등하게 처리합니다. 공정한 서비스입니다.","has_sensitive":true,"entities":[{"value":"723283597071274","begin":25,"end":40,"label":"IMEI"}]}
+{"id":219,"content":"고객 생일 축하 쿠폰을 823293507172375에 발송하였습니다. 특별한 날 축하드리며 선물을 준비했습니다.","has_sensitive":true,"entities":[{"value":"823293507172375","begin":14,"end":29,"label":"IMEI"}]}
+{"id":220,"content":"기기 AI 프로세서 성능 벤치마크에서 923203517273476은 초당 10조 연산을 수행합니다. 인공지능 기능이 강력합니다.","has_sensitive":true,"entities":[{"value":"923203517273476","begin":25,"end":40,"label":"IMEI"}]}
+{"id":221,"content":"네트워크 레이턴시 최적화 작업에서 133213527374577을 엣지 서버와 직접 연결하였습니다. 응답이 즉각적입니다.","has_sensitive":true,"entities":[{"value":"133213527374577","begin":25,"end":40,"label":"IMEI"}]}
+{"id":222,"content":"제조사 에코 포인트 적립 프로그램에 233223537475678을 등록하였습니다. 친환경 활동에 포인트를 드립니다.","has_sensitive":true,"entities":[{"value":"233223537475678","begin":25,"end":40,"label":"IMEI"}]}
+{"id":223,"content":"기기 무선 디스플레이 연결 테스트에서 333233547576779는 끊김 없이 미러링됩니다. 대화면 감상이 편리합니다.","has_sensitive":true,"entities":[{"value":"333233547576779","begin":26,"end":41,"label":"IMEI"}]}
+{"id":224,"content":"통신 다중 SIM 프로필 관리에서 433243557677880을 eSIM으로 전환하였습니다. 물리적 카드가 필요 없습니다.","has_sensitive":true,"entities":[{"value":"433243557677880","begin":22,"end":37,"label":"IMEI"}]}
+{"id":225,"content":"고객 감사 이벤트 추첨 결과 533253567778981이 1등에 당첨되었습니다. 진심으로 축하드립니다.","has_sensitive":true,"entities":[{"value":"533253567778981","begin":18,"end":33,"label":"IMEI"}]}
+{"id":226,"content":"기기 햅틱 피드백 강도 조절 테스트에서 633263577879082는 10단계 세밀한 조정이 가능합니다. 사용자 경험이 향상됩니다.","has_sensitive":true,"entities":[{"value":"633263577879082","begin":27,"end":42,"label":"IMEI"}]}
+{"id":227,"content":"네트워크 IPv6 전환 작업에서 733273587970183을 듀얼 스택으로 설정하였습니다. 차세대 인터넷을 지원합니다.","has_sensitive":true,"entities":[{"value":"733273587970183","begin":20,"end":35,"label":"IMEI"}]}
+{"id":228,"content":"제품 교육 프로그램 참가 신청 시 833283597071284를 수강생 번호로 등록하였습니다. 전문가 과정이 시작됩니다.","has_sensitive":true,"entities":[{"value":"833283597071284","begin":22,"end":37,"label":"IMEI"}]}
+{"id":229,"content":"기기 초고속 충전 테스트 결과 933293507172385는 30분에 80% 충전됩니다. 빠른 충전을 경험하세요.","has_sensitive":true,"entities":[{"value":"933293507172385","begin":19,"end":34,"label":"IMEI"}]}
+{"id":230,"content":"통신 네트워크 슬라이스 관리에서 143203517273486을 프리미엄 슬라이스에 할당하였습니다. 최고 품질을 제공합니다.","has_sensitive":true,"entities":[{"value":"143203517273486","begin":23,"end":38,"label":"IMEI"}]}
+{"id":231,"content":"고객 연례 리뷰 미팅 일정에 243213527374587을 참석자로 등록하였습니다. 다음 주 목요일에 진행됩니다.","has_sensitive":true,"entities":[{"value":"243213527374587","begin":18,"end":33,"label":"IMEI"}]}
+{"id":232,"content":"기기 생체 인증 통합 보안 시스템에서 343223537475688은 3중 인증을 지원합니다. 보안이 매우 강력합니다.","has_sensitive":true,"entities":[{"value":"343223537475688","begin":25,"end":40,"label":"IMEI"}]}
+{"id":233,"content":"네트워크 피코셀 연결 최적화 작업에서 443233547576789를 실내 위치 측위에 활용합니다. 정확도가 1미터입니다.","has_sensitive":true,"entities":[{"value":"443233547576789","begin":27,"end":42,"label":"IMEI"}]}
+{"id":234,"content":"제조사 혁신 기술 시연회에 543243557677890을 데모 기기로 선정하였습니다. 최신 기술을 공개합니다.","has_sensitive":true,"entities":[{"value":"543243557677890","begin":18,"end":33,"label":"IMEI"}]}
+{"id":235,"content":"기기 적응형 새로고침 비율 기능에서 643253567778991은 배터리를 30% 절약합니다. 효율적인 기술입니다.","has_sensitive":true,"entities":[{"value":"643253567778991","begin":24,"end":39,"label":"IMEI"}]}
+{"id":236,"content":"통신 멀티캐스트 스트리밍 설정에서 743263577879092를 그룹 멤버로 추가하였습니다. 동시 시청이 가능합니다.","has_sensitive":true,"entities":[{"value":"743263577879092","begin":24,"end":39,"label":"IMEI"}]}
+{"id":237,"content":"고객 경험 개선 프로젝트에 843273587970193을 피드백 제공자로 선정하였습니다. 의견을 반영하겠습니다.","has_sensitive":true,"entities":[{"value":"843273587970193","begin":18,"end":33,"label":"IMEI"}]}
+{"id":238,"content":"기기 열화상 카메라 정확도 측정에서 943283597071294는 온도 편차 0.5도 이내입니다. 정밀 측정이 가능합니다.","has_sensitive":true,"entities":[{"value":"943283597071294","begin":24,"end":39,"label":"IMEI"}]}
+{"id":239,"content":"네트워크 DDoS 방어 시스템에 153293507172395를 보호 대상으로 등록하였습니다. 공격으로부터 안전합니다.","has_sensitive":true,"entities":[{"value":"153293507172395","begin":20,"end":35,"label":"IMEI"}]}
+{"id":240,"content":"제품 액세서리 호환성 검증에서 253203517273496은 모든 정품 액세서리와 호환됩니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"253203517273496","begin":21,"end":36,"label":"IMEI"}]}
+{"id":241,"content":"기기 공간 음향 처리 기술 테스트에서 353213527374597은 3D 사운드를 완벽히 재현합니다. 몰입감이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"353213527374597","begin":25,"end":40,"label":"IMEI"}]}
+{"id":242,"content":"통신 빔포밍 기술 적용 작업에서 453223537475698을 방향성 안테나로 설정하였습니다. 신호 강도가 증가합니다.","has_sensitive":true,"entities":[{"value":"453223537475698","begin":22,"end":37,"label":"IMEI"}]}
+{"id":243,"content":"고객 VIP 라운지 이용 권한을 553233547576799에 부여하였습니다. 프리미엄 서비스를 누리십시오.","has_sensitive":true,"entities":[{"value":"553233547576799","begin":20,"end":35,"label":"IMEI"}]}
+{"id":244,"content":"기기 구동 소음 측정 결과 653243557677800은 25dB 이하로 거의 무음입니다. 조용한 환경에 적합합니다.","has_sensitive":true,"entities":[{"value":"653243557677800","begin":16,"end":31,"label":"IMEI"}]}
+{"id":245,"content":"네트워크 QoE 모니터링 시스템에서 753253567778901은 사용자 만족도가 높습니다. 품질이 우수하게 관리됩니다.","has_sensitive":true,"entities":[{"value":"753253567778901","begin":22,"end":37,"label":"IMEI"}]}
+{"id":246,"content":"제품 연구개발 파트너십 체결 시 853263577879002를 협력 과제 코드로 지정하였습니다. 혁신을 함께 만듭니다.","has_sensitive":true,"entities":[{"value":"853263577879002","begin":21,"end":36,"label":"IMEI"}]}
+{"id":247,"content":"기기 전자파 흡수율 측정 결과 953273587970103은 국제 기준 대비 50% 수준입니다. 건강에 안전합니다.","has_sensitive":true,"entities":[{"value":"953273587970103","begin":18,"end":33,"label":"IMEI"}]}
+{"id":248,"content":"통신 망 접속 제어 정책에서 163283597071204를 화이트리스트에 추가하였습니다. 접속이 항상 허용됩니다.","has_sensitive":true,"entities":[{"value":"163283597071204","begin":19,"end":34,"label":"IMEI"}]}
+{"id":249,"content":"고객 맞춤형 패키지 구성 시 263293507172305를 선호도 분석 기준으로 사용하였습니다. 최적의 조합을 제안합니다.","has_sensitive":true,"entities":[{"value":"263293507172305","begin":18,"end":33,"label":"IMEI"}]}
+{"id":250,"content":"기기 역광 보정 기능 테스트에서 363203517273406은 자동으로 노출을 최적화합니다. 사진 품질이 향상됩니다.","has_sensitive":true,"entities":[{"value":"363203517273406","begin":21,"end":36,"label":"IMEI"}]}
+{"id":251,"content":"네트워크 트래픽 암호화 강화 작업에서 463213527374507은 AES-256을 적용하였습니다. 데이터가 안전합니다.","has_sensitive":true,"entities":[{"value":"463213527374507","begin":28,"end":43,"label":"IMEI"}]}
+{"id":252,"content":"제품 사전 예약 접수에서 563223537475608을 주문 번호로 발급하였습니다. 출시일에 우선 배송됩니다.","has_sensitive":true,"entities":[{"value":"563223537475608","begin":16,"end":31,"label":"IMEI"}]}
+{"id":253,"content":"기기 야간 촬영 모드 성능 평가에서 663233547576709는 저조도 환경에서도 선명합니다. 밤 사진이 밝습니다.","has_sensitive":true,"entities":[{"value":"663233547576709","begin":23,"end":38,"label":"IMEI"}]}
+{"id":254,"content":"통신 주파수 호핑 패턴 설정에서 763243557677810을 간섭 회피 모드로 구성하였습니다. 안정성이 증가합니다.","has_sensitive":true,"entities":[{"value":"763243557677810","begin":22,"end":37,"label":"IMEI"}]}
+{"id":255,"content":"고객 장기 사용 감사 선물로 863253567778911에 프리미엄 케이스를 발송하였습니다. 오래 사용해주셔서 감사합니다.","has_sensitive":true,"entities":[{"value":"863253567778911","begin":17,"end":32,"label":"IMEI"}]}
+{"id":256,"content":"기기 게임 최적화 모드 활성화에서 963263577879012는 프레임 드롭이 거의 없습니다. 쾌적한 게임 환경입니다.","has_sensitive":true,"entities":[{"value":"963263577879012","begin":23,"end":38,"label":"IMEI"}]}
+{"id":257,"content":"네트워크 동적 대역폭 할당 시스템에서 173273587970113을 우선 할당 그룹에 포함하였습니다. 속도가 보장됩니다.","has_sensitive":true,"entities":[{"value":"173273587970113","begin":27,"end":42,"label":"IMEI"}]}
+{"id":258,"content":"제품 커스터마이징 서비스 신청 시 273283597071214를 고유 디자인 코드로 지정하였습니다. 세상에 하나뿐인 제품입니다.","has_sensitive":true,"entities":[{"value":"273283597071214","begin":23,"end":38,"label":"IMEI"}]}
+{"id":259,"content":"기기 초광각 렌즈 왜곡 보정 테스트에서 373293507172315는 자연스러운 결과물을 생성합니다. 왜곡이 최소화됩니다.","has_sensitive":true,"entities":[{"value":"373293507172315","begin":27,"end":42,"label":"IMEI"}]}
+{"id":260,"content":"통신 망 접속 인증서 갱신 작업에서 473203517273416은 자동 갱신이 설정되었습니다. 만료 걱정이 없습니다.","has_sensitive":true,"entities":[{"value":"473203517273416","begin":24,"end":39,"label":"IMEI"}]}
+{"id":261,"content":"고객 커뮤니티 베타 테스터로 573213527374517을 선정하였습니다. 신규 기능을 먼저 체험하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"573213527374517","begin":19,"end":34,"label":"IMEI"}]}
+{"id":262,"content":"기기 매크로 촬영 성능 측정에서 673223537475618은 2cm 거리까지 초점이 맞습니다. 세밀한 촬영이 가능합니다.","has_sensitive":true,"entities":[{"value":"673223537475618","begin":20,"end":35,"label":"IMEI"}]}
+{"id":263,"content":"네트워크 지터 감소 알고리즘 적용에서 773233547576719는 변동폭이 1ms 이하로 줄었습니다. 실시간 통신이 안정됩니다.","has_sensitive":true,"entities":[{"value":"773233547576719","begin":27,"end":42,"label":"IMEI"}]}
+{"id":264,"content":"제품 수출 인증 서류 제출 시 873243557677820을 샘플 기기로 등록하였습니다. 해외 판매 승인을 받습니다.","has_sensitive":true,"entities":[{"value":"873243557677820","begin":18,"end":33,"label":"IMEI"}]}
+{"id":265,"content":"기기 음성 인식 정확도 평가에서 973253567778921은 소음 환경에서도 95% 이상 인식합니다. 편리하게 사용됩니다.","has_sensitive":true,"entities":[{"value":"973253567778921","begin":20,"end":35,"label":"IMEI"}]}
+{"id":266,"content":"통신 펨토셀 연동 설정에서 183263577879022를 홈 네트워크에 등록하였습니다. 실내 통화 품질이 개선됩니다.","has_sensitive":true,"entities":[{"value":"183263577879022","begin":17,"end":32,"label":"IMEI"}]}
+{"id":267,"content":"고객 프리미엄 보험 가입 시 283273587970123을 피보험 기기로 등록하였습니다. 완벽한 보장을 제공합니다.","has_sensitive":true,"entities":[{"value":"283273587970123","begin":18,"end":33,"label":"IMEI"}]}
+{"id":268,"content":"기기 슬로우 모션 촬영 성능 테스트에서 383283597071224는 960fps를 지원합니다. 순간을 포착할 수 있습니다.","has_sensitive":true,"entities":[{"value":"383283597071224","begin":27,"end":42,"label":"IMEI"}]}
+{"id":269,"content":"네트워크 멀티홉 라우팅 경로에 483293507172325를 중계 노드로 추가하였습니다. 커버리지가 확장됩니다.","has_sensitive":true,"entities":[{"value":"483293507172325","begin":22,"end":37,"label":"IMEI"}]}
+{"id":270,"content":"제품 전시회 출품작으로 583203517273426을 선정하여 부스에 전시합니다. 많은 관심 부탁드립니다.","has_sensitive":true,"entities":[{"value":"583203517273426","begin":15,"end":30,"label":"IMEI"}]}
+{"id":271,"content":"기기 타임랩스 기능 안정성 테스트에서 683213527374527은 24시간 연속 촬영이 가능합니다. 배터리가 오래 갑니다.","has_sensitive":true,"entities":[{"value":"683213527374527","begin":26,"end":41,"label":"IMEI"}]}
+{"id":272,"content":"통신 스펙트럼 효율 최적화 작업에서 783223537475628은 단위 주파수당 처리량이 높습니다. 효율적인 통신입니다.","has_sensitive":true,"entities":[{"value":"783223537475628","begin":25,"end":40,"label":"IMEI"}]}
+{"id":273,"content":"고객 연간 사용 통계 리포트를 883233547576729에 발송하였습니다. 한 해 동안의 활동을 확인하세요.","has_sensitive":true,"entities":[{"value":"883233547576729","begin":20,"end":35,"label":"IMEI"}]}
+{"id":274,"content":"기기 파노라마 촬영 정합도 측정에서 983243557677830은 이음새가 자연스럽습니다. 넓은 풍경을 담으세요.","has_sensitive":true,"entities":[{"value":"983243557677830","begin":24,"end":39,"label":"IMEI"}]}
+{"id":275,"content":"네트워크 동적 TDD 설정 최적화에서 193253567778931을 상향 우선 모드로 구성하였습니다. 업로드가 빨라집니다.","has_sensitive":true,"entities":[{"value":"193253567778931","begin":24,"end":39,"label":"IMEI"}]}
+{"id":276,"content":"제품 지속가능성 인증 심사에서 293263577879032는 친환경 소재 사용을 인정받았습니다. 지구를 생각합니다.","has_sensitive":true,"entities":[{"value":"293263577879032","begin":20,"end":35,"label":"IMEI"}]}
+{"id":277,"content":"기기 인물 사진 모드 성능 평가에서 393273587970133은 배경 흐림 효과가 자연스럽습니다. 인물이 돋보입니다.","has_sensitive":true,"entities":[{"value":"393273587970133","begin":23,"end":38,"label":"IMEI"}]}
+{"id":278,"content":"통신 셀 재선택 알고리즘 개선에서 493283597071234는 끊김 없는 핸드오버를 보여줍니다. 이동 중에도 안정적입니다.","has_sensitive":true,"entities":[{"value":"493283597071234","begin":24,"end":39,"label":"IMEI"}]}
+{"id":279,"content":"고객 라이프스타일 분석 프로젝트에 593293507172335를 연구 샘플로 선정하였습니다. 더 나은 서비스를 제공합니다.","has_sensitive":true,"entities":[{"value":"593293507172335","begin":24,"end":39,"label":"IMEI"}]}
+{"id":280,"content":"기기 HDR 동영상 처리 능력 테스트에서 693203517273436은 10bit 색심도를 지원합니다. 생생한 영상입니다.","has_sensitive":true,"entities":[{"value":"693203517273436","begin":26,"end":41,"label":"IMEI"}]}
+{"id":281,"content":"네트워크 MIMO 안테나 구성 최적화에서 793213527374537은 4x4 구성으로 처리량이 증가합니다. 속도가 배가됩니다.","has_sensitive":true,"entities":[{"value":"793213527374537","begin":27,"end":42,"label":"IMEI"}]}
+{"id":282,"content":"제품 사회공헌 프로그램 기부 대상으로 893223537475638을 선정하였습니다. 나눔을 실천하는 브랜드입니다.","has_sensitive":true,"entities":[{"value":"893223537475638","begin":25,"end":40,"label":"IMEI"}]}
+{"id":283,"content":"기기 야간 영상 안정화 기능 테스트에서 993233547576739는 손떨림 보정이 뛰어납니다. 흔들림 없는 영상입니다.","has_sensitive":true,"entities":[{"value":"993233547576739","begin":27,"end":42,"label":"IMEI"}]}
+{"id":284,"content":"통신 크로스 캐리어 스케줄링 설정에서 104243557677840을 연동 기기로 구성하였습니다. 자원 활용이 최적화됩니다.","has_sensitive":true,"entities":[{"value":"104243557677840","begin":28,"end":43,"label":"IMEI"}]}
+{"id":285,"content":"고객 웰빙 프로그램 참여자로 204253567778941을 등록하였습니다. 건강한 디지털 라이프를 지원합니다.","has_sensitive":true,"entities":[{"value":"204253567778941","begin":17,"end":32,"label":"IMEI"}]}
+{"id":286,"content":"기기 프로 동영상 촬영 기능 평가에서 304263577879042는 LOG 포맷을 지원합니다. 전문가급 편집이 가능합니다.","has_sensitive":true,"entities":[{"value":"304263577879042","begin":25,"end":40,"label":"IMEI"}]}
+{"id":287,"content":"네트워크 간섭 회피 기술 적용에서 404273587970143은 자동으로 깨끗한 채널을 선택합니다. 연결이 안정됩니다.","has_sensitive":true,"entities":[{"value":"404273587970143","begin":22,"end":37,"label":"IMEI"}]}
+{"id":288,"content":"제품 혁신 아이디어 공모전에 504283597071244를 출품하여 대상을 수상하였습니다. 축하드립니다.","has_sensitive":true,"entities":[{"value":"504283597071244","begin":18,"end":33,"label":"IMEI"}]}
+{"id":289,"content":"기기 실시간 번역 정확도 테스트에서 604293507172345는 20개 언어를 지원합니다. 해외여행이 편리해집니다.","has_sensitive":true,"entities":[{"value":"604293507172345","begin":23,"end":38,"label":"IMEI"}]}
+{"id":290,"content":"통신 네트워크 복원력 테스트 결과 704203517273446은 장애 발생 시 즉시 복구됩니다. 안정성이 검증되었습니다.","has_sensitive":true,"entities":[{"value":"704203517273446","begin":23,"end":38,"label":"IMEI"}]}
+{"id":291,"content":"고객 디지털 자산 관리 서비스에 804213527374547을 연동하여 클라우드 백업을 시작합니다. 데이터가 안전합니다.","has_sensitive":true,"entities":[{"value":"804213527374547","begin":21,"end":36,"label":"IMEI"}]}
+{"id":292,"content":"기기 문서 스캔 품질 평가에서 904223537475648은 OCR 인식률이 98% 이상입니다. 문서 관리가 편리합니다.","has_sensitive":true,"entities":[{"value":"904223537475648","begin":18,"end":33,"label":"IMEI"}]}
+{"id":293,"content":"네트워크 적응형 변조 코딩 설정에서 114233547576749는 채널 상태에 따라 최적화됩니다. 효율이 극대화됩니다.","has_sensitive":true,"entities":[{"value":"114233547576749","begin":24,"end":39,"label":"IMEI"}]}
+{"id":294,"content":"제품 글로벌 런칭 이벤트에 214243557677850을 홍보 모델로 선정하였습니다. 전세계에 소개됩니다.","has_sensitive":true,"entities":[{"value":"214243557677850","begin":18,"end":33,"label":"IMEI"}]}
+{"id":295,"content":"기기 AR 증강현실 성능 측정에서 314253567778951은 실시간 렌더링이 부드럽습니다. 몰입감 있는 경험입니다.","has_sensitive":true,"entities":[{"value":"314253567778951","begin":20,"end":35,"label":"IMEI"}]}
+{"id":296,"content":"통신 에지 AI 처리 노드 연결에서 414263577879052를 지능형 네트워크에 등록하였습니다. 실시간 분석이 가능합니다.","has_sensitive":true,"entities":[{"value":"414263577879052","begin":22,"end":37,"label":"IMEI"}]}
+{"id":297,"content":"고객 스마트홈 통합 시스템에 514273587970153을 허브로 등록하였습니다. 모든 기기를 제어할 수 있습니다.","has_sensitive":true,"entities":[{"value":"514273587970153","begin":18,"end":33,"label":"IMEI"}]}
+{"id":298,"content":"기기 초정밀 위치 측위 기능 테스트에서 614283597071254는 오차 30cm 이내입니다. 실내 내비게이션이 가능합니다.","has_sensitive":true,"entities":[{"value":"614283597071254","begin":27,"end":42,"label":"IMEI"}]}
+{"id":299,"content":"네트워크 블록체인 노드 등록 작업에서 714293507172355를 분산 네트워크에 추가하였습니다. 탈중앙화 서비스입니다.","has_sensitive":true,"entities":[{"value":"714293507172355","begin":26,"end":41,"label":"IMEI"}]}
+{"id":300,"content":"제품 패밀리 공유 플랜에 814203517273456을 마스터 기기로 설정하였습니다. 가족 모두가 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"814203517273456","begin":16,"end":31,"label":"IMEI"}]}
+{"id":301,"content":"기기 음성 합성 품질 평가에서 914213527374557은 자연스러운 발음을 생성합니다. 접근성이 향상됩니다.","has_sensitive":true,"entities":[{"value":"914213527374557","begin":18,"end":33,"label":"IMEI"}]}
+{"id":302,"content":"통신 양자 암호화 시범 사업에 124223537475658을 테스트베드로 참여시켰습니다. 미래 보안 기술입니다.","has_sensitive":true,"entities":[{"value":"124223537475658","begin":19,"end":34,"label":"IMEI"}]}
+{"id":303,"content":"고객 건강 모니터링 앱 연동에 224233547576759를 등록하여 생체 신호를 추적합니다. 건강 관리에 도움됩니다.","has_sensitive":true,"entities":[{"value":"224233547576759","begin":18,"end":33,"label":"IMEI"}]}
+{"id":304,"content":"기기 홀로그램 디스플레이 프로젝트에 324243557677860을 시제품으로 선정하였습니다. 혁신적인 기술입니다.","has_sensitive":true,"entities":[{"value":"324243557677860","begin":25,"end":40,"label":"IMEI"}]}
+{"id":305,"content":"네트워크 위성 연동 서비스 구축에서 424253567778961을 시범 단말로 등록하였습니다. 전세계 어디서나 연결됩니다.","has_sensitive":true,"entities":[{"value":"424253567778961","begin":24,"end":39,"label":"IMEI"}]}
+{"id":306,"content":"제품 순환 경제 프로그램에 524263577879062를 참여 기기로 등록하였습니다. 재활용이 보장됩니다.","has_sensitive":true,"entities":[{"value":"524263577879062","begin":17,"end":32,"label":"IMEI"}]}
+{"id":307,"content":"기기 뉴럴 엔진 성능 벤치마크에서 624273587970163은 초당 15조 연산을 수행합니다. AI 처리가 강력합니다.","has_sensitive":true,"entities":[{"value":"624273587970163","begin":22,"end":37,"label":"IMEI"}]}
+{"id":308,"content":"통신 테라헤르츠 대역 실험에 724283597071264를 연구 장비로 배정하였습니다. 차세대 통신을 준비합니다.","has_sensitive":true,"entities":[{"value":"724283597071264","begin":18,"end":33,"label":"IMEI"}]}
+{"id":309,"content":"고객 탄소 발자국 감소 캠페인에 824293507172365를 참여시켜 포인트를 적립합니다. 환경 보호에 동참하세요.","has_sensitive":true,"entities":[{"value":"824293507172365","begin":21,"end":36,"label":"IMEI"}]}
+{"id":310,"content":"기기 뇌파 센서 정확도 측정에서 924203517273466은 명상 상태를 정확히 감지합니다. 웰빙 기능이 추가되었습니다.","has_sensitive":true,"entities":[{"value":"924203517273466","begin":19,"end":34,"label":"IMEI"}]}
+{"id":311,"content":"네트워크 자율 주행 통신 프로토콜에 134213527374567을 V2X 모듈로 등록하였습니다. 안전 운전을 지원합니다.","has_sensitive":true,"entities":[{"value":"134213527374567","begin":26,"end":41,"label":"IMEI"}]}
+{"id":312,"content":"제품 메타버스 플랫폼 연동에 234223537475668을 아바타 기기로 등록하였습니다. 가상 세계를 경험하세요.","has_sensitive":true,"entities":[{"value":"234223537475668","begin":17,"end":32,"label":"IMEI"}]}
+{"id":313,"content":"기기 감정 인식 AI 정확도 평가에서 334233547576769는 7가지 감정을 식별합니다. 사용자를 이해하는 기술입니다.","has_sensitive":true,"entities":[{"value":"334233547576769","begin":22,"end":37,"label":"IMEI"}]}
+{"id":314,"content":"통신 양자 얽힘 네트워크 노드에 434243557677870을 실험 장비로 연결하였습니다. 물리학의 미래입니다.","has_sensitive":true,"entities":[{"value":"434243557677870","begin":22,"end":37,"label":"IMEI"}]}
+{"id":315,"content":"고객 디지털 웰빙 점수 측정에서 534253567778971은 균형 잡힌 사용 패턴을 보입니다. 건강한 습관입니다.","has_sensitive":true,"entities":[{"value":"534253567778971","begin":19,"end":34,"label":"IMEI"}]}
+{"id":316,"content":"기기 촉각 피드백 해상도 테스트에서 634263577879072는 1000개 지점을 구분합니다. 정밀한 터치 경험입니다.","has_sensitive":true,"entities":[{"value":"634263577879072","begin":24,"end":39,"label":"IMEI"}]}
+{"id":317,"content":"네트워크 소프트웨어 정의 라디오 설정에서 734273587970173을 재구성 가능 단말로 등록하였습니다. 유연한 통신입니다.","has_sensitive":true,"entities":[{"value":"734273587970173","begin":29,"end":44,"label":"IMEI"}]}
+{"id":318,"content":"제품 장인 정신 어워드 수상작으로 834283597071274를 선정하였습니다. 최고의 품질을 인정받았습니다.","has_sensitive":true,"entities":[{"value":"834283597071274","begin":21,"end":36,"label":"IMEI"}]}
+{"id":319,"content":"기기 공기질 센서 정밀도 측정에서 934293507172375는 미세먼지를 정확히 감지합니다. 건강을 지키는 기능입니다.","has_sensitive":true,"entities":[{"value":"934293507172375","begin":21,"end":36,"label":"IMEI"}]}
+{"id":320,"content":"통신 지능형 반사 표면 연동 작업에서 144203517273476을 빔 제어 기기로 설정하였습니다. 신호가 강화됩니다.","has_sensitive":true,"entities":[{"value":"144203517273476","begin":27,"end":42,"label":"IMEI"}]}
+{"id":321,"content":"고객 생애 주기 관리 프로그램에 244213527374577을 등록하여 맞춤 서비스를 제공합니다. 평생 파트너입니다.","has_sensitive":true,"entities":[{"value":"244213527374577","begin":20,"end":35,"label":"IMEI"}]}
+{"id":322,"content":"기기 라이다 센서 정확도 평가에서 344223537475678은 거리 측정 오차가 1cm 이내입니다. 정밀 측정이 가능합니다.","has_sensitive":true,"entities":[{"value":"344223537475678","begin":21,"end":36,"label":"IMEI"}]}
+{"id":323,"content":"네트워크 제로 트러스트 아키텍처에 444233547576779를 인증 기기로 등록하였습니다. 보안이 최고 수준입니다.","has_sensitive":true,"entities":[{"value":"444233547576779","begin":24,"end":39,"label":"IMEI"}]}
+{"id":324,"content":"제품 타임캡슐 프로젝트에 544243557677880을 참여시켜 미래 세대에 전달합니다. 역사의 일부가 됩니다.","has_sensitive":true,"entities":[{"value":"544243557677880","begin":16,"end":31,"label":"IMEI"}]}
+{"id":325,"content":"기기 후각 센서 개발 프로젝트에서 644253567778981을 시제품으로 테스트하고 있습니다. 혁신적인 시도입니다.","has_sensitive":true,"entities":[{"value":"644253567778981","begin":23,"end":38,"label":"IMEI"}]}
+{"id":326,"content":"통신 태양광 충전 네트워크 구축에서 744263577879082를 자가발전 노드로 등록하였습니다. 친환경 통신입니다.","has_sensitive":true,"entities":[{"value":"744263577879082","begin":25,"end":40,"label":"IMEI"}]}
+{"id":327,"content":"고객 유산 상속 디지털 서비스에 844273587970183을 등록하여 자산을 보호합니다. 미래를 준비하세요.","has_sensitive":true,"entities":[{"value":"844273587970183","begin":20,"end":35,"label":"IMEI"}]}
+{"id":328,"content":"기기 미각 시뮬레이터 연구에서 944283597071284를 인터페이스로 실험하고 있습니다. 감각의 확장입니다.","has_sensitive":true,"entities":[{"value":"944283597071284","begin":19,"end":34,"label":"IMEI"}]}
+{"id":329,"content":"네트워크 수중 통신 프로토콜 테스트에 154293507172385를 잠수 장비에 장착하였습니다. 해양 탐사가 가능합니다.","has_sensitive":true,"entities":[{"value":"154293507172385","begin":26,"end":41,"label":"IMEI"}]}
+{"id":330,"content":"제품 우주 환경 내구성 시험에 254203517273486을 국제우주정거장으로 발송합니다. 극한을 테스트합니다.","has_sensitive":true,"entities":[{"value":"254203517273486","begin":18,"end":33,"label":"IMEI"}]}
+{"id":331,"content":"기기 시간 왜곡 보정 기능 테스트에서 354213527374587은 상대론적 효과를 계산합니다. 정밀한 시계입니다.","has_sensitive":true,"entities":[{"value":"354213527374587","begin":25,"end":40,"label":"IMEI"}]}
+{"id":332,"content":"통신 뉴로모픽 칩 연동 작업에서 454223537475688을 신경망 프로세서로 구성하였습니다. 뇌를 모방한 기술입니다.","has_sensitive":true,"entities":[{"value":"454223537475688","begin":21,"end":36,"label":"IMEI"}]}
+{"id":333,"content":"고객 의식 업로드 연구 프로젝트에 554233547576789를 참여시켰습니다. 미래 기술의 가능성을 탐구합니다.","has_sensitive":true,"entities":[{"value":"554233547576789","begin":21,"end":36,"label":"IMEI"}]}
+{"id":334,"content":"기기 중력파 감지 센서 실험에서 654243557677890을 초정밀 측정 장비로 활용합니다. 우주의 비밀을 찾습니다.","has_sensitive":true,"entities":[{"value":"654243557677890","begin":20,"end":35,"label":"IMEI"}]}
+{"id":335,"content":"네트워크 다차원 통신 프로토콜에 754253567778991을 차원 간 중계기로 등록하였습니다. SF가 현실이 됩니다.","has_sensitive":true,"entities":[{"value":"754253567778991","begin":21,"end":36,"label":"IMEI"}]}
+{"id":336,"content":"제품 나노 기술 적용 연구에서 854263577879092를 분자 수준 제조에 활용합니다. 초소형화가 진행됩니다.","has_sensitive":true,"entities":[{"value":"854263577879092","begin":18,"end":33,"label":"IMEI"}]}
+{"id":337,"content":"기기 텔레파시 인터페이스 개발에서 954273587970193을 뇌-컴퓨터 연결 장치로 테스트합니다. 생각만으로 제어합니다.","has_sensitive":true,"entities":[{"value":"954273587970193","begin":23,"end":38,"label":"IMEI"}]}
+{"id":338,"content":"통신 시공간 왜곡 네트워크 실험에 164283597071294를 양자 터널 단말로 사용합니다. 순간 이동 통신입니다.","has_sensitive":true,"entities":[{"value":"164283597071294","begin":22,"end":37,"label":"IMEI"}]}
+{"id":339,"content":"고객 영생 서비스 가입 신청에 264293507172395를 등록하여 의식을 보존합니다. 영원히 기억됩니다.","has_sensitive":true,"entities":[{"value":"264293507172395","begin":17,"end":32,"label":"IMEI"}]}
+{"id":340,"content":"기기 반물질 배터리 장착 프로젝트에서 364203517273496을 에너지원으로 실험합니다. 무한 전력이 목표입니다.","has_sensitive":true,"entities":[{"value":"364203517273496","begin":26,"end":41,"label":"IMEI"}]}
+{"id":341,"content":"네트워크 암흑 에너지 통신 채널에 464213527374597을 우주론적 중계기로 배치합니다. 우주를 연결합니다.","has_sensitive":true,"entities":[{"value":"464213527374597","begin":22,"end":37,"label":"IMEI"}]}
+{"id":342,"content":"제품 의료기기 인증 절차에서 564223537475698은 FDA 승인을 준비 중입니다. 생명을 구하는 기술입니다.","has_sensitive":true,"entities":[{"value":"564223537475698","begin":17,"end":32,"label":"IMEI"}]}
+{"id":343,"content":"기기 유전자 분석 기능 추가에서 664233547576799를 바이오센서와 연동하였습니다. 개인 맞춤 의료입니다.","has_sensitive":true,"entities":[{"value":"664233547576799","begin":20,"end":35,"label":"IMEI"}]}
+{"id":344,"content":"통신 스마트 시티 통합 플랫폼에 764243557677800을 IoT 허브로 등록하였습니다. 도시가 연결됩니다.","has_sensitive":true,"entities":[{"value":"764243557677800","begin":21,"end":36,"label":"IMEI"}]}
+{"id":345,"content":"고객 재난 대비 긴급 통신망에 864253567778901을 우선 접속 기기로 지정하였습니다. 안전이 보장됩니다.","has_sensitive":true,"entities":[{"value":"864253567778901","begin":18,"end":33,"label":"IMEI"}]}
+{"id":346,"content":"기기 수명 연장 프로그램 적용에서 964263577879002는 10년 사용을 목표로 합니다. 지속 가능한 제품입니다.","has_sensitive":true,"entities":[{"value":"964263577879002","begin":22,"end":37,"label":"IMEI"}]}
+{"id":347,"content":"네트워크 분산 클라우드 엣지 컴퓨팅에 174273587970103을 포그 노드로 배치하였습니다. 실시간 처리가 가능합니다.","has_sensitive":true,"entities":[{"value":"174273587970103","begin":27,"end":42,"label":"IMEI"}]}
+{"id":348,"content":"제품 모듈형 업그레이드 시스템에 274283597071204를 기본 플랫폼으로 설정하였습니다. 무한 확장이 가능합니다.","has_sensitive":true,"entities":[{"value":"274283597071204","begin":20,"end":35,"label":"IMEI"}]}
+{"id":349,"content":"기기 자가 치유 기능 테스트에서 374293507172305는 손상을 자동 복구합니다. 내구성이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"374293507172305","begin":20,"end":35,"label":"IMEI"}]}
+{"id":350,"content":"통신 블록체인 기반 신원 인증에 474203517273406을 디지털 ID로 등록하였습니다. 프라이버시가 보호됩니다.","has_sensitive":true,"entities":[{"value":"474203517273406","begin":20,"end":35,"label":"IMEI"}]}
+{"id":351,"content":"고객 학습 지원 AI 튜터 서비스에 574213527374507을 연결하여 개인 맞춤 교육을 제공합니다. 학습 효과가 높습니다.","has_sensitive":true,"entities":[{"value":"574213527374507","begin":20,"end":35,"label":"IMEI"}]}
+{"id":352,"content":"기기 감성 컴퓨팅 엔진 탑재에서 674223537475608은 사용자 감정에 반응합니다. 공감하는 기술입니다.","has_sensitive":true,"entities":[{"value":"674223537475608","begin":19,"end":34,"label":"IMEI"}]}
+{"id":353,"content":"네트워크 양자 키 분배 시스템에 774233547576709를 보안 노드로 등록하였습니다. 완벽한 암호화입니다.","has_sensitive":true,"entities":[{"value":"774233547576709","begin":19,"end":34,"label":"IMEI"}]}
+{"id":354,"content":"제품 문화유산 디지털화 프로젝트에 874243557677810을 스캔 장비로 활용합니다. 역사를 보존합니다.","has_sensitive":true,"entities":[{"value":"874243557677810","begin":23,"end":38,"label":"IMEI"}]}
+{"id":355,"content":"기기 바이오피드백 치료 기능에서 974253567778911은 스트레스를 감소시킵니다. 웰빙을 증진합니다.","has_sensitive":true,"entities":[{"value":"974253567778911","begin":20,"end":35,"label":"IMEI"}]}
+{"id":356,"content":"통신 스웜 인텔리전스 네트워크에 184263577879012를 분산 에이전트로 배치하였습니다. 집단 지성을 구현합니다.","has_sensitive":true,"entities":[{"value":"184263577879012","begin":21,"end":36,"label":"IMEI"}]}
+{"id":357,"content":"고객 가상 비서 개인화 학습에 284273587970113을 데이터 소스로 활용합니다. 더욱 똑똑해집니다.","has_sensitive":true,"entities":[{"value":"284273587970113","begin":18,"end":33,"label":"IMEI"}]}
+{"id":358,"content":"기기 촉매 변환 에너지 시스템에서 384283597071214는 공기로 충전됩니다. 혁신적인 전원입니다.","has_sensitive":true,"entities":[{"value":"384283597071214","begin":22,"end":37,"label":"IMEI"}]}
+{"id":359,"content":"네트워크 뉴럴 렌더링 스트리밍에 484293507172315를 실시간 처리 노드로 사용합니다. 초현실적 화질입니다.","has_sensitive":true,"entities":[{"value":"484293507172315","begin":20,"end":35,"label":"IMEI"}]}
+{"id":360,"content":"제품 지속가능 개발 목표 달성에 584203517273416을 기여 사례로 등록하였습니다. 더 나은 세상을 만듭니다.","has_sensitive":true,"entities":[{"value":"584203517273416","begin":20,"end":35,"label":"IMEI"}]}
+{"id":361,"content":"기기 환경 DNA 분석 기능에서 684213527374517은 생태계를 모니터링합니다. 자연을 이해합니다.","has_sensitive":true,"entities":[{"value":"684213527374517","begin":17,"end":32,"label":"IMEI"}]}
+{"id":362,"content":"통신 탄소 중립 네트워크 구축에 784223537475618을 녹색 에너지 노드로 등록하였습니다. 환경을 지킵니다.","has_sensitive":true,"entities":[{"value":"784223537475618","begin":20,"end":35,"label":"IMEI"}]}
+{"id":363,"content":"고객 디지털 트윈 생성 서비스에 884233547576719를 원본 데이터로 사용합니다. 가상 분신이 생깁니다.","has_sensitive":true,"entities":[{"value":"884233547576719","begin":19,"end":34,"label":"IMEI"}]}
+{"id":364,"content":"기기 크리스퍼 유전자 편집 연동에서 984243557677820을 제어 인터페이스로 활용합니다. 생명공학이 발전합니다.","has_sensitive":true,"entities":[{"value":"984243557677820","begin":23,"end":38,"label":"IMEI"}]}
+{"id":365,"content":"네트워크 초전도 양자 컴퓨터 접속에 194253567778921을 양자 게이트로 연결하였습니다. 무한 계산력입니다.","has_sensitive":true,"entities":[{"value":"194253567778921","begin":23,"end":38,"label":"IMEI"}]}
+{"id":366,"content":"제품 순환 제조 시스템 도입에서 294263577879022는 100% 재활용됩니다. 폐기물이 없습니다.","has_sensitive":true,"entities":[{"value":"294263577879022","begin":19,"end":34,"label":"IMEI"}]}
+{"id":367,"content":"기기 플라즈마 정화 기능 탑재에서 394273587970123은 공기를 깨끗하게 합니다. 건강한 환경입니다.","has_sensitive":true,"entities":[{"value":"394273587970123","begin":21,"end":36,"label":"IMEI"}]}
+{"id":368,"content":"통신 홀로그래픽 통화 서비스에 494283597071224를 3D 디스플레이로 연동하였습니다. 실물처럼 대화합니다.","has_sensitive":true,"entities":[{"value":"494283597071224","begin":19,"end":34,"label":"IMEI"}]}
+{"id":369,"content":"고객 시간 은행 서비스 가입에 594293507172325를 등록하여 시간을 저축합니다. 새로운 가치 교환입니다.","has_sensitive":true,"entities":[{"value":"594293507172325","begin":17,"end":32,"label":"IMEI"}]}
+{"id":370,"content":"기기 텔로미어 연장 연구에서 694203517273426을 바이오해킹 도구로 실험합니다. 노화를 극복합니다.","has_sensitive":true,"entities":[{"value":"694203517273426","begin":17,"end":32,"label":"IMEI"}]}
+{"id":371,"content":"제품 보안 점검을 위해 IMEI 코드 359847102635841을 시스템에 입력하였습니다. 정상적으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"359847102635841","begin":23,"end":38,"label":"IMEI"}]}
+{"id":372,"content":"단말기 수리 접수 시 기기번호 490123456789012를 확인하였습니다. 수리는 3일 정도 소요될 예정입니다.","has_sensitive":true,"entities":[{"value":"490123456789012","begin":19,"end":34,"label":"IMEI"}]}
+{"id":373,"content":"개통 신청서에 기재된 IMEI는 123456789012345이며 심사가 완료되었습니다. 서비스 개시는 오늘 중입니다.","has_sensitive":true,"entities":[{"value":"123456789012345","begin":20,"end":35,"label":"IMEI"}]}
+{"id":374,"content":"분실 신고를 위해 987654321098765 기기를 통신사 시스템에 등록하였습니다. 사용이 차단되었습니다.","has_sensitive":true,"entities":[{"value":"987654321098765","begin":12,"end":27,"label":"IMEI"}]}
+{"id":375,"content":"정품 인증 절차에서 556677889900112를 제조사 데이터베이스와 대조하였습니다. 정품으로 확인되었습니다.","has_sensitive":true,"entities":[{"value":"556677889900112","begin":13,"end":28,"label":"IMEI"}]}
+{"id":376,"content":"고객님께서 문의하신 단말 식별번호 223344556677889는 2023년 3월에 제조된 제품입니다. 보증 기간 내에 있습니다.","has_sensitive":true,"entities":[{"value":"223344556677889","begin":21,"end":36,"label":"IMEI"}]}
+{"id":377,"content":"배송 추적을 위해 334455667788990을 주문 시스템에 연동하였습니다. 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"334455667788990","begin":11,"end":26,"label":"IMEI"}]}
+{"id":378,"content":"국제 로밍 활성화 신청 시 445566778899001 번호를 글로벌 네트워크에 등록하였습니다. 출국 후 바로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"445566778899001","begin":18,"end":33,"label":"IMEI"}]}
+{"id":379,"content":"보험 청구 서류에 기재하신 IMEI 112233445566778이 확인되었습니다. 청구가 접수되어 처리 중입니다.","has_sensitive":true,"entities":[{"value":"112233445566778","begin":22,"end":37,"label":"IMEI"}]}
+{"id":380,"content":"중고 거래 사기 방지를 위해 667788990011223을 블랙리스트와 대조하였습니다. 안전한 거래입니다.","has_sensitive":true,"entities":[{"value":"667788990011223","begin":18,"end":33,"label":"IMEI"}]}
+{"id":381,"content":"기기 등록 완료 알림을 778899001122334 사용자에게 발송하였습니다. 모든 서비스가 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"778899001122334","begin":15,"end":30,"label":"IMEI"}]}
+{"id":382,"content":"AS 센터 방문 시 제시하신 889900112233445는 무상 보증 대상입니다. 즉시 수리가 진행됩니다.","has_sensitive":true,"entities":[{"value":"889900112233445","begin":18,"end":33,"label":"IMEI"}]}
+{"id":383,"content":"통신사 변경을 위한 기기 정보 990011223344556이 새로운 시스템에 등록되었습니다. 번호 이동이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"990011223344556","begin":20,"end":35,"label":"IMEI"}]}
+{"id":384,"content":"제품 이력 조회 결과 101112131415161 단말은 한 번의 수리 이력이 있습니다. 배터리 교체가 진행되었습니다.","has_sensitive":true,"entities":[{"value":"101112131415161","begin":13,"end":28,"label":"IMEI"}]}
+{"id":385,"content":"고객 서비스 신청서에 명시된 IMEI 202122232425262로 계정을 생성하였습니다. 로그인 정보를 발송하였습니다.","has_sensitive":true,"entities":[{"value":"202122232425262","begin":24,"end":39,"label":"IMEI"}]}
+{"id":386,"content":"분실 단말기 위치 추적 시 303132333435363을 GPS 시스템과 연동하였습니다. 현재 위치가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"303132333435363","begin":17,"end":32,"label":"IMEI"}]}
+{"id":387,"content":"펌웨어 업데이트 대상으로 404142434445464가 선정되었습니다. 업데이트는 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"404142434445464","begin":16,"end":31,"label":"IMEI"}]}
+{"id":388,"content":"상담 이력 관리 시스템에 505152535455565를 고객 식별코드로 등록하였습니다. 이전 상담 내역을 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"505152535455565","begin":17,"end":32,"label":"IMEI"}]}
+{"id":389,"content":"교환 신청하신 제품의 기기번호 606162636465666으로 새 제품을 발송하였습니다. 택배 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"606162636465666","begin":20,"end":35,"label":"IMEI"}]}
+{"id":390,"content":"네트워크 개통 절차에서 707172737475767이 정상적으로 인증되었습니다. 통화 및 데이터 사용이 가능합니다.","has_sensitive":true,"entities":[{"value":"707172737475767","begin":15,"end":30,"label":"IMEI"}]}
+{"id":391,"content":"보안 검증 시스템에 808182838485868을 등록하여 이중 인증을 활성화하였습니다. 계정이 안전하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"808182838485868","begin":13,"end":28,"label":"IMEI"}]}
+{"id":392,"content":"매장에서 구매 시 발급된 영수증에 909192939495969가 명시되어 있습니다. 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"909192939495969","begin":24,"end":39,"label":"IMEI"}]}
+{"id":393,"content":"도난 방지 등록 서비스에 111213141516171을 추가하였습니다. 분실 시 즉시 알림을 받을 수 있습니다.","has_sensitive":true,"entities":[{"value":"111213141516171","begin":16,"end":31,"label":"IMEI"}]}
+{"id":394,"content":"제조사 웹사이트 제품 등록 시 212223242526272 번호를 입력하셨습니다. 온라인 보증서가 발급됩니다.","has_sensitive":true,"entities":[{"value":"212223242526272","begin":19,"end":34,"label":"IMEI"}]}
+{"id":395,"content":"정기 점검 대상 기기로 313233343536373이 선정되었습니다. 다음 주에 센터 방문 예약을 도와드리겠습니다.","has_sensitive":true,"entities":[{"value":"313233343536373","begin":14,"end":29,"label":"IMEI"}]}
+{"id":396,"content":"기기 상세 이력서에 414243444546474의 제조일과 출고일이 기재되어 있습니다. 보증 기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"414243444546474","begin":13,"end":28,"label":"IMEI"}]}
+{"id":397,"content":"통신 모듈 교체 작업 완료 후 515253545556575를 재등록하였습니다. 네트워크 연결이 정상화되었습니다.","has_sensitive":true,"entities":[{"value":"515253545556575","begin":20,"end":35,"label":"IMEI"}]}
+{"id":398,"content":"초기화 전 백업 시스템에 616263646566676을 등록하여 데이터를 저장하였습니다. 복원이 가능합니다.","has_sensitive":true,"entities":[{"value":"616263646566676","begin":17,"end":32,"label":"IMEI"}]}
+{"id":399,"content":"해외 로밍 요금제 변경 시 717273747576777을 통신사에 제출하셨습니다. 변경이 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"717273747576777","begin":17,"end":32,"label":"IMEI"}]}
+{"id":400,"content":"보안 업데이트 자동 설치 대상에 818283848586878이 포함되었습니다. 다음 재부팅 시 적용됩니다.","has_sensitive":true,"entities":[{"value":"818283848586878","begin":20,"end":35,"label":"IMEI"}]}
+{"id":401,"content":"중고 매입 심사 기준에 따라 919293949596979 기기는 A등급으로 분류되었습니다. 높은 가격을 제시합니다.","has_sensitive":true,"entities":[{"value":"919293949596979","begin":18,"end":33,"label":"IMEI"}]}
+{"id":402,"content":"유심 교체 후 재등록 절차에서 121314151617181을 네트워크에 동기화하였습니다. 서비스가 복구되었습니다.","has_sensitive":true,"entities":[{"value":"121314151617181","begin":18,"end":33,"label":"IMEI"}]}
+{"id":403,"content":"원격 지원 연결을 위해 222324252627282를 지원 서버에 등록하였습니다. 기술자 접속을 기다려주세요.","has_sensitive":true,"entities":[{"value":"222324252627282","begin":15,"end":30,"label":"IMEI"}]}
+{"id":404,"content":"리콜 대상 확인 결과 323334353637383은 해당사항이 없는 안전한 제품입니다. 계속 사용하셔도 됩니다.","has_sensitive":true,"entities":[{"value":"323334353637383","begin":13,"end":28,"label":"IMEI"}]}
+{"id":405,"content":"배터리 교체 신청 접수 시 424344454647484를 작업 번호로 발급하였습니다. 교체는 내일 완료됩니다.","has_sensitive":true,"entities":[{"value":"424344454647484","begin":17,"end":32,"label":"IMEI"}]}
+{"id":406,"content":"정품 인증 완료 알림을 525354555657585 소유자에게 발송하였습니다. 모든 기능을 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"525354555657585","begin":15,"end":30,"label":"IMEI"}]}
+{"id":407,"content":"보안 등급 평가 시스템에서 626364656667686은 최고 등급을 받았습니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"626364656667686","begin":16,"end":31,"label":"IMEI"}]}
+{"id":408,"content":"네트워크 품질 테스트 샘플로 727374757677787을 선정하였습니다. 테스트 결과는 일주일 내 공유됩니다.","has_sensitive":true,"entities":[{"value":"727374757677787","begin":18,"end":33,"label":"IMEI"}]}
+{"id":409,"content":"소프트웨어 라이선스 인증에 828384858687888을 키로 사용하였습니다. 인증이 성공적으로 완료되었습니다.","has_sensitive":true,"entities":[{"value":"828384858687888","begin":18,"end":33,"label":"IMEI"}]}
+{"id":410,"content":"데이터 마이그레이션 작업 시 929394959697989를 소스 기기로 지정하였습니다. 전송 진행률을 확인하세요.","has_sensitive":true,"entities":[{"value":"929394959697989","begin":18,"end":33,"label":"IMEI"}]}
+{"id":411,"content":"보증 연장 계약서에 131415161718191 번호가 명시되어 있습니다. 연장 기간은 2년입니다.","has_sensitive":true,"entities":[{"value":"131415161718191","begin":13,"end":28,"label":"IMEI"}]}
+{"id":412,"content":"성능 벤치마크 결과 232425262728292는 상위 10% 성능을 보여줍니다. 우수한 제품입니다.","has_sensitive":true,"entities":[{"value":"232425262728292","begin":13,"end":28,"label":"IMEI"}]}
+{"id":413,"content":"앱 설치 이력 조회 시 333435363738393으로 최근 3개월 데이터를 확인하였습니다. 총 47개 앱이 설치되었습니다.","has_sensitive":true,"entities":[{"value":"333435363738393","begin":13,"end":28,"label":"IMEI"}]}
+{"id":414,"content":"분실폰 찾기 활성화를 위해 433445464748494를 위치 서비스에 등록하였습니다. 실시간 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"433445464748494","begin":17,"end":32,"label":"IMEI"}]}
+{"id":415,"content":"하드웨어 진단 완료 후 533545564758595는 모든 항목에서 정상 판정을 받았습니다. 문제가 없습니다.","has_sensitive":true,"entities":[{"value":"533545564758595","begin":14,"end":29,"label":"IMEI"}]}
+{"id":416,"content":"프로토콜 업그레이드 대상에 633645666768696이 포함되었습니다. 업그레이드는 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"633645666768696","begin":17,"end":32,"label":"IMEI"}]}
+{"id":417,"content":"인증 시스템 정상 등록으로 733745767778797 기기가 프리미엄 서비스에 가입되었습니다. 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"733745767778797","begin":16,"end":31,"label":"IMEI"}]}
+{"id":418,"content":"재판매 가치 평가에서 833845868788898은 시세의 87%로 산정되었습니다. 상태가 매우 양호합니다.","has_sensitive":true,"entities":[{"value":"833845868788898","begin":14,"end":29,"label":"IMEI"}]}
+{"id":419,"content":"호환성 검사 통과로 933945968798999는 5G 네트워크를 완벽히 지원합니다. 최고 속도를 즐기세요.","has_sensitive":true,"entities":[{"value":"933945968798999","begin":13,"end":28,"label":"IMEI"}]}
+{"id":420,"content":"암호화 키 생성 시 141516171819202를 시드값으로 사용하였습니다. 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"141516171819202","begin":13,"end":28,"label":"IMEI"}]}
+{"id":421,"content":"펌웨어 복구 진행 중 242526272829303을 백업에서 불러왔습니다. 복구가 곧 완료됩니다.","has_sensitive":true,"entities":[{"value":"242526272829303","begin":13,"end":28,"label":"IMEI"}]}
+{"id":422,"content":"공식 인증 마크 부여를 위해 343536373839404를 등록하였습니다. 정품 인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"343536373839404","begin":17,"end":32,"label":"IMEI"}]}
+{"id":423,"content":"서비스 센터 예약 접수 시 443546474849505로 고객 정보를 확인하였습니다. 예약 시간은 내일 오후 2시입니다.","has_sensitive":true,"entities":[{"value":"443546474849505","begin":17,"end":32,"label":"IMEI"}]}
+{"id":424,"content":"소프트웨어 검증 테스트에서 543556574859606은 모든 기준을 충족하였습니다. 출시가 승인되었습니다.","has_sensitive":true,"entities":[{"value":"543556574859606","begin":17,"end":32,"label":"IMEI"}]}
+{"id":425,"content":"보안 패치 배포 목록에 643656674869707이 추가되었습니다. 다음 주에 자동 설치됩니다.","has_sensitive":true,"entities":[{"value":"643656674869707","begin":14,"end":29,"label":"IMEI"}]}
+{"id":426,"content":"설문 조사 대상자로 743756774879808을 무작위 선정하였습니다. 참여 부탁드립니다.","has_sensitive":true,"entities":[{"value":"743756774879808","begin":12,"end":27,"label":"IMEI"}]}
+{"id":427,"content":"교환 프로그램 접수에서 843856874889909를 신규 기기 번호로 발급하였습니다. 배송이 준비 중입니다.","has_sensitive":true,"entities":[{"value":"843856874889909","begin":14,"end":29,"label":"IMEI"}]}
+{"id":428,"content":"원격 잠금 기능 등록으로 943956978990010 단말이 보안 서버와 연동되었습니다. 도난 시 안전합니다.","has_sensitive":true,"entities":[{"value":"943956978990010","begin":14,"end":29,"label":"IMEI"}]}
+{"id":429,"content":"재고 관리 시스템에 151617181920212를 입력하여 출고를 준비하였습니다. 배송이 시작됩니다.","has_sensitive":true,"entities":[{"value":"151617181920212","begin":12,"end":27,"label":"IMEI"}]}
+{"id":430,"content":"품질 모니터링 대상으로 252627282930313 기기를 선정하였습니다. 신호 강도가 측정됩니다.","has_sensitive":true,"entities":[{"value":"252627282930313","begin":15,"end":30,"label":"IMEI"}]}
+{"id":431,"content":"보증 등록 확인 메시지를 353637383940414 사용자에게 발송하였습니다. 2년 보증이 시작됩니다.","has_sensitive":true,"entities":[{"value":"353637383940414","begin":15,"end":30,"label":"IMEI"}]}
+{"id":432,"content":"인증서 발급 절차에서 453647484950515를 공식 DB에 등록하였습니다. 인증서는 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"453647484950515","begin":14,"end":29,"label":"IMEI"}]}
+{"id":433,"content":"네트워크 최적화 완료로 553657585960616의 통신 속도가 향상되었습니다. 개선 효과를 확인하세요.","has_sensitive":true,"entities":[{"value":"553657585960616","begin":15,"end":30,"label":"IMEI"}]}
+{"id":434,"content":"자동 백업 시스템에 653667686970717을 등록하여 매일 자정에 백업합니다. 데이터가 안전합니다.","has_sensitive":true,"entities":[{"value":"653667686970717","begin":12,"end":27,"label":"IMEI"}]}
+{"id":435,"content":"성능 최적화 프로그램 적용으로 753677787980818은 더욱 빨라졌습니다. 체감 속도가 증가합니다.","has_sensitive":true,"entities":[{"value":"753677787980818","begin":19,"end":34,"label":"IMEI"}]}
+{"id":436,"content":"분실 신고 접수 완료로 853687888990919가 경찰청 시스템에 등록되었습니다. 사용이 차단되었습니다.","has_sensitive":true,"entities":[{"value":"853687888990919","begin":14,"end":29,"label":"IMEI"}]}
+{"id":437,"content":"품질 검사 샘플 선정으로 953697989001020 단말을 실험실로 이송하였습니다. 정밀 검사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"953697989001020","begin":15,"end":30,"label":"IMEI"}]}
+{"id":438,"content":"소유권 이전 완료로 161718192021222가 새 소유자 명의로 변경되었습니다. 모든 권한이 이전되었습니다.","has_sensitive":true,"entities":[{"value":"161718192021222","begin":11,"end":26,"label":"IMEI"}]}
+{"id":439,"content":"통신사 변경 이력에서 262728293031323은 총 2회의 변경 기록이 있습니다. 현재 정상 사용 중입니다.","has_sensitive":true,"entities":[{"value":"262728293031323","begin":13,"end":28,"label":"IMEI"}]}
+{"id":440,"content":"하드웨어 업그레이드 완료로 362738394041424가 새 메인보드에 등록되었습니다. 성능이 향상되었습니다.","has_sensitive":true,"entities":[{"value":"362738394041424","begin":16,"end":31,"label":"IMEI"}]}
+{"id":441,"content":"고객 지원 이력 저장을 위해 462748495051525를 CRM에 등록하였습니다. 상담 내역이 보관됩니다.","has_sensitive":true,"entities":[{"value":"462748495051525","begin":17,"end":32,"label":"IMEI"}]}
+{"id":442,"content":"보안 점검 완료로 562758596061626에서 악성 코드가 발견되지 않았습니다. 안전한 상태입니다.","has_sensitive":true,"entities":[{"value":"562758596061626","begin":11,"end":26,"label":"IMEI"}]}
+{"id":443,"content":"설정 복원 작업으로 662768697071727 기기가 초기 상태로 되돌아갔습니다. 재설정이 필요합니다.","has_sensitive":true,"entities":[{"value":"662768697071727","begin":11,"end":26,"label":"IMEI"}]}
+{"id":444,"content":"리퍼 프로그램 등록으로 762778797081828이 재생 작업 대기 중입니다. 재판매될 예정입니다.","has_sensitive":true,"entities":[{"value":"762778797081828","begin":13,"end":28,"label":"IMEI"}]}
+{"id":445,"content":"최신 버전 확인 결과 862788898091929는 업데이트가 필요하지 않습니다. 최신 상태를 유지하고 있습니다.","has_sensitive":true,"entities":[{"value":"862788898091929","begin":12,"end":27,"label":"IMEI"}]}
+{"id":446,"content":"사용 패턴 분석 완료로 962798990102030 사용자에게 맞춤 추천을 제공합니다. 서비스가 개선됩니다.","has_sensitive":true,"entities":[{"value":"962798990102030","begin":13,"end":28,"label":"IMEI"}]}
+{"id":447,"content":"클라우드 동기화 설정에서 171819202122232를 계정과 연결하였습니다. 자동 백업이 시작됩니다.","has_sensitive":true,"entities":[{"value":"171819202122232","begin":16,"end":31,"label":"IMEI"}]}
+{"id":448,"content":"통신망 장애 복구로 272829303132333 단말의 서비스가 정상화되었습니다. 통화가 가능합니다.","has_sensitive":true,"entities":[{"value":"272829303132333","begin":11,"end":26,"label":"IMEI"}]}
+{"id":449,"content":"데이터 삭제 요청 처리로 372839404142434의 모든 정보가 안전하게 제거되었습니다. 개인정보가 삭제되었습니다.","has_sensitive":true,"entities":[{"value":"372839404142434","begin":14,"end":29,"label":"IMEI"}]}
+{"id":450,"content":"보증 연장 승인으로 472849505152535 계약이 체결되었습니다. 추가 2년이 보장됩니다.","has_sensitive":true,"entities":[{"value":"472849505152535","begin":11,"end":26,"label":"IMEI"}]}
+{"id":451,"content":"성능 모니터링 결과 572859606162636은 최적 상태를 유지하고 있습니다. 정기 점검이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"572859606162636","begin":12,"end":27,"label":"IMEI"}]}
+{"id":452,"content":"보안 인증서 발급으로 672869707172737을 암호화 시스템에 등록하였습니다. 통신이 보호됩니다.","has_sensitive":true,"entities":[{"value":"672869707172737","begin":13,"end":28,"label":"IMEI"}]}
+{"id":453,"content":"VIP 등급 승급으로 772879808182838 사용자에게 특별 혜택이 제공됩니다. 프리미엄 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"772879808182838","begin":10,"end":25,"label":"IMEI"}]}
+{"id":454,"content":"원격 관리 활성화로 872889909192939를 지원 시스템에 연결하였습니다. 원격 지원이 가능합니다.","has_sensitive":true,"entities":[{"value":"872889909192939","begin":12,"end":27,"label":"IMEI"}]}
+{"id":455,"content":"품질 검증 통과로 972899001020304는 출고 승인을 받았습니다. 배송 준비가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"972899001020304","begin":11,"end":26,"label":"IMEI"}]}
+{"id":456,"content":"위치 추적 서비스 등록으로 181920212223242가 실시간 추적 시스템에 연동되었습니다. 분실 시 찾을 수 있습니다.","has_sensitive":true,"entities":[{"value":"181920212223242","begin":15,"end":30,"label":"IMEI"}]}
+{"id":457,"content":"프로필 최적화 완료로 282930313233343의 네트워크 연결이 개선되었습니다. 속도가 빨라졌습니다.","has_sensitive":true,"entities":[{"value":"282930313233343","begin":13,"end":28,"label":"IMEI"}]}
+{"id":458,"content":"보상 프로그램 가입으로 382940414243444가 포인트 적립을 시작합니다. 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"382940414243444","begin":13,"end":28,"label":"IMEI"}]}
+{"id":459,"content":"진단 애플리케이션 실행 결과 482950515253545는 건강 상태 96점입니다. 매우 양호한 상태입니다.","has_sensitive":true,"entities":[{"value":"482950515253545","begin":17,"end":32,"label":"IMEI"}]}
+{"id":460,"content":"국제 로밍 목록 추가로 582960616263646이 해외 네트워크와 연동되었습니다. 출국 후 바로 사용하세요.","has_sensitive":true,"entities":[{"value":"582960616263646","begin":13,"end":28,"label":"IMEI"}]}
+{"id":461,"content":"기술 지원 완료로 682970717273747 기기의 문제가 해결되었습니다. 모든 기능이 정상입니다.","has_sensitive":true,"entities":[{"value":"682970717273747","begin":11,"end":26,"label":"IMEI"}]}
+{"id":462,"content":"라이선스 갱신 완료로 782980818283848은 1년 연장되었습니다. 서비스를 계속 이용하세요.","has_sensitive":true,"entities":[{"value":"782980818283848","begin":13,"end":28,"label":"IMEI"}]}
+{"id":463,"content":"피드백 수집 완료로 882990919293949 사용자의 의견이 등록되었습니다. 소중한 의견 감사합니다.","has_sensitive":true,"entities":[{"value":"882990919293949","begin":11,"end":26,"label":"IMEI"}]}
+{"id":464,"content":"메모리 최적화 완료로 982900102030405는 저장 공간이 확보되었습니다. 여유 공간이 충분합니다.","has_sensitive":true,"entities":[{"value":"982900102030405","begin":13,"end":28,"label":"IMEI"}]}
+{"id":465,"content":"속도 테스트 결과 192021222324252는 다운로드 480Mbps를 기록하였습니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"192021222324252","begin":11,"end":26,"label":"IMEI"}]}
+{"id":466,"content":"업데이트 알림 발송으로 292031323334353 사용자에게 공지가 전달되었습니다. 업데이트를 진행하세요.","has_sensitive":true,"entities":[{"value":"292031323334353","begin":13,"end":28,"label":"IMEI"}]}
+{"id":467,"content":"교환 승인 처리로 392041424344454가 새 제품 번호로 변경되었습니다. 내일 출발합니다.","has_sensitive":true,"entities":[{"value":"392041424344454","begin":11,"end":26,"label":"IMEI"}]}
+{"id":468,"content":"서비스 가입 완료로 492051525354555가 계약서에 등록되었습니다. 개통은 오늘 중입니다.","has_sensitive":true,"entities":[{"value":"492051525354555","begin":12,"end":27,"label":"IMEI"}]}
+{"id":469,"content":"배터리 수명 측정 결과 592061626364656은 82%의 성능을 유지하고 있습니다. 교체가 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"592061626364656","begin":14,"end":29,"label":"IMEI"}]}
+{"id":470,"content":"계정 활성화 완료로 692071727374757 번호로 로그인이 가능합니다. 모든 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"692071727374757","begin":11,"end":26,"label":"IMEI"}]}
+{"id":471,"content":"설정 초기화 완료로 792081828384858이 기본값으로 복원되었습니다. 연결 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"792081828384858","begin":11,"end":26,"label":"IMEI"}]}
+{"id":472,"content":"품질 보증 등록으로 892091929394959가 프리미엄 서비스에 가입되었습니다. 승인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"892091929394959","begin":11,"end":26,"label":"IMEI"}]}
+{"id":473,"content":"호환성 확인 완료로 992001020304050은 모든 네트워크와 호환됩니다. 제약 없이 사용하세요.","has_sensitive":true,"entities":[{"value":"992001020304050","begin":11,"end":26,"label":"IMEI"}]}
+{"id":474,"content":"데이터 전송 시작으로 102030405060708을 송신 기기로 설정하였습니다. 전송 중입니다.","has_sensitive":true,"entities":[{"value":"102030405060708","begin":12,"end":27,"label":"IMEI"}]}
+{"id":475,"content":"불만 처리 완료로 202030405060709 케이스가 해결되었습니다. 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"202030405060709","begin":10,"end":25,"label":"IMEI"}]}
+{"id":476,"content":"업데이트 예약 완료로 302040506070810이 자동 업데이트에 등록되었습니다. 새벽에 진행됩니다.","has_sensitive":true,"entities":[{"value":"302040506070810","begin":12,"end":27,"label":"IMEI"}]}
+{"id":477,"content":"정책 적용 완료로 402050607080911에 기업 보안 정책이 설정되었습니다. 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"402050607080911","begin":10,"end":25,"label":"IMEI"}]}
+{"id":478,"content":"매뉴얼 다운로드 완료로 502060708091012를 인증 번호로 확인하였습니다. 파일이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"502060708091012","begin":14,"end":29,"label":"IMEI"}]}
+{"id":479,"content":"소음 테스트 통과로 602070809001113은 기준치 이하입니다. 품질 검사를 통과하였습니다.","has_sensitive":true,"entities":[{"value":"602070809001113","begin":11,"end":26,"label":"IMEI"}]}
+{"id":480,"content":"요금제 변경 완료로 702080900112214가 새 요금제로 전환되었습니다. 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"702080900112214","begin":11,"end":26,"label":"IMEI"}]}
+{"id":481,"content":"푸시 알림 활성화로 802090011223315 기기에 실시간 알림이 전송됩니다. 중요한 정보를 받으세요.","has_sensitive":true,"entities":[{"value":"802090011223315","begin":11,"end":26,"label":"IMEI"}]}
+{"id":482,"content":"배터리 관리 최적화로 902001122334416이 전력 효율 모드로 설정되었습니다. 사용 시간이 늘어납니다.","has_sensitive":true,"entities":[{"value":"902001122334416","begin":13,"end":28,"label":"IMEI"}]}
+{"id":483,"content":"트래픽 분석 완료로 112233445566779는 정상 범위 내입니다. 이상 징후가 없습니다.","has_sensitive":true,"entities":[{"value":"112233445566779","begin":11,"end":26,"label":"IMEI"}]}
+{"id":484,"content":"리콜 통지 확인 결과 212243455667880은 대상이 아닙니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"212243455667880","begin":12,"end":27,"label":"IMEI"}]}
+{"id":485,"content":"센서 캘리브레이션 완료로 312253465768981의 정밀도가 향상되었습니다. 측정이 정확해졌습니다.","has_sensitive":true,"entities":[{"value":"312253465768981","begin":16,"end":31,"label":"IMEI"}]}
+{"id":486,"content":"호환성 테스트 통과로 412263475869082는 모든 표준을 지원합니다. 국제 사용이 가능합니다.","has_sensitive":true,"entities":[{"value":"412263475869082","begin":13,"end":28,"label":"IMEI"}]}
+{"id":487,"content":"VIP 등록 완료로 512273485960183이 우선 지원 대상이 되었습니다. 특별 서비스를 받으세요.","has_sensitive":true,"entities":[{"value":"512273485960183","begin":10,"end":25,"label":"IMEI"}]}
+{"id":488,"content":"화면 보정 완료로 612283496071284는 색상이 정확합니다. 추가 조정이 필요 없습니다.","has_sensitive":true,"entities":[{"value":"612283496071284","begin":10,"end":25,"label":"IMEI"}]}
+{"id":489,"content":"주파수 스캔 완료로 712293506172385를 테스트 기기로 사용하였습니다. 모든 대역을 감지합니다.","has_sensitive":true,"entities":[{"value":"712293506172385","begin":12,"end":27,"label":"IMEI"}]}
+{"id":490,"content":"안전 인증 통과로 812203516273486은 모든 기준을 만족하였습니다. 인증 마크가 부여됩니다.","has_sensitive":true,"entities":[{"value":"812203516273486","begin":11,"end":26,"label":"IMEI"}]}
+{"id":491,"content":"음향 품질 테스트 결과 912213526374587은 고음질을 지원합니다. 오디오가 우수합니다.","has_sensitive":true,"entities":[{"value":"912213526374587","begin":13,"end":28,"label":"IMEI"}]}
+{"id":492,"content":"암호화 강화 완료로 122223536475688을 보안 키로 등록하였습니다. 데이터가 보호됩니다.","has_sensitive":true,"entities":[{"value":"122223536475688","begin":11,"end":26,"label":"IMEI"}]}
+{"id":493,"content":"데이터 이전 완료로 222233546576789를 타깃 기기로 설정하였습니다. 이전이 성공하였습니다.","has_sensitive":true,"entities":[{"value":"222233546576789","begin":11,"end":26,"label":"IMEI"}]}
+{"id":494,"content":"터치 반응 측정 결과 322243556677880은 평균 48ms로 매우 빠릅니다. 반응이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"322243556677880","begin":12,"end":27,"label":"IMEI"}]}
+{"id":495,"content":"사용량 분석 완료로 422253566778981은 월 평균 48GB를 사용합니다. 정상 범위입니다.","has_sensitive":true,"entities":[{"value":"422253566778981","begin":11,"end":26,"label":"IMEI"}]}
+{"id":496,"content":"지원 요청 접수로 522263576879082가 케이스 번호로 등록되었습니다. 담당자가 배정되었습니다.","has_sensitive":true,"entities":[{"value":"522263576879082","begin":10,"end":25,"label":"IMEI"}]}
+{"id":497,"content":"GPS 정확도 테스트 결과 622273586970183은 오차 2미터 이내입니다. 위치가 정확합니다.","has_sensitive":true,"entities":[{"value":"622273586970183","begin":14,"end":29,"label":"IMEI"}]}
+{"id":498,"content":"장애 이력 조회 결과 722283597071284는 기록이 없습니다. 안정적으로 운영 중입니다.","has_sensitive":true,"entities":[{"value":"722283597071284","begin":12,"end":27,"label":"IMEI"}]}
+{"id":499,"content":"만족도 평가 완료로 822293507172385 사용자는 5점 만점을 주셨습니다. 우수한 평가입니다.","has_sensitive":true,"entities":[{"value":"822293507172385","begin":11,"end":26,"label":"IMEI"}]}
+{"id":500,"content":"카메라 화질 테스트 결과 922203517273486은 4K를 지원합니다. 촬영 품질이 우수합니다.","has_sensitive":true,"entities":[{"value":"922203517273486","begin":14,"end":29,"label":"IMEI"}]}
+{"id":501,"content":"핸드오버 성능 평가에서 132213527374587은 끊김이 없습니다. 이동 중에도 안정적입니다.","has_sensitive":true,"entities":[{"value":"132213527374587","begin":14,"end":29,"label":"IMEI"}]}
+{"id":502,"content":"에너지 효율 등급 232223537475688은 1등급입니다. 전력 소비가 적습니다.","has_sensitive":true,"entities":[{"value":"232223537475688","begin":12,"end":27,"label":"IMEI"}]}
+{"id":503,"content":"진동 모터 테스트 결과 332233547576789는 정상 작동합니다. 촉각 피드백이 명확합니다.","has_sensitive":true,"entities":[{"value":"332233547576789","begin":13,"end":28,"label":"IMEI"}]}
+{"id":504,"content":"혼잡도 분석 완료로 432243557677890 기기의 연결이 안정적입니다. 문제가 없습니다.","has_sensitive":true,"entities":[{"value":"432243557677890","begin":11,"end":26,"label":"IMEI"}]}
+{"id":505,"content":"포인트 적립 완료로 532253567778991에 5000포인트가 적립되었습니다. 사용하세요.","has_sensitive":true,"entities":[{"value":"532253567778991","begin":11,"end":26,"label":"IMEI"}]}
+{"id":506,"content":"블루투스 테스트 결과 632263577879092는 8개 기기 동시 연결이 가능합니다. 연결성이 우수합니다.","has_sensitive":true,"entities":[{"value":"632263577879092","begin":12,"end":27,"label":"IMEI"}]}
+{"id":507,"content":"인증 갱신 완료로 732273587970193은 새로운 인증서를 받았습니다. 보안이 업데이트되었습니다.","has_sensitive":true,"entities":[{"value":"732273587970193","begin":10,"end":25,"label":"IMEI"}]}
+{"id":508,"content":"환경 인증 완료로 832283597071294를 친환경 제품으로 등록하였습니다. 인증을 받았습니다.","has_sensitive":true,"entities":[{"value":"832283597071294","begin":10,"end":25,"label":"IMEI"}]}
+{"id":509,"content":"방수 테스트 통과로 932293507172395는 IP68 등급입니다. 물속에서도 안전합니다.","has_sensitive":true,"entities":[{"value":"932293507172395","begin":11,"end":26,"label":"IMEI"}]}
+{"id":510,"content":"지연 측정 결과 142203517273496은 평균 18ms입니다. 실시간 통신에 최적입니다.","has_sensitive":true,"entities":[{"value":"142203517273496","begin":9,"end":24,"label":"IMEI"}]}
+{"id":511,"content":"예약 관리 완료로 242213527374597을 서비스 예약 목록에 추가하였습니다. 내일 2시입니다.","has_sensitive":true,"entities":[{"value":"242213527374597","begin":10,"end":25,"label":"IMEI"}]}
+{"id":512,"content":"열 관리 테스트 결과 342223537475698은 최적 온도를 유지합니다. 과열 위험이 없습니다.","has_sensitive":true,"entities":[{"value":"342223537475698","begin":12,"end":27,"label":"IMEI"}]}
+{"id":513,"content":"QoS 설정 완료로 442233547576799를 우선순위 높음으로 지정하였습니다. 전송이 빨라집니다.","has_sensitive":true,"entities":[{"value":"442233547576799","begin":10,"end":25,"label":"IMEI"}]}
+{"id":514,"content":"디자인 어워드 출품으로 542243557677800을 선정하였습니다. 우수한 디자인입니다.","has_sensitive":true,"entities":[{"value":"542243557677800","begin":14,"end":29,"label":"IMEI"}]}
+{"id":515,"content":"마이크 감도 테스트 결과 642253567778901은 소음 제거가 우수합니다. 녹음 품질이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"642253567778901","begin":14,"end":29,"label":"IMEI"}]}
+{"id":516,"content":"커버리지 맵 업데이트에 742263577879002를 테스트 지점으로 추가하였습니다. 신호가 측정됩니다.","has_sensitive":true,"entities":[{"value":"742263577879002","begin":16,"end":31,"label":"IMEI"}]}
+{"id":517,"content":"보상 지급 완료로 842273587970103 참여자에게 기프트카드를 발송하였습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"842273587970103","begin":10,"end":25,"label":"IMEI"}]}
+{"id":518,"content":"NFC 테스트 결과 942283597071204는 정상 작동합니다. 모바일 결제가 가능합니다.","has_sensitive":true,"entities":[{"value":"942283597071204","begin":10,"end":25,"label":"IMEI"}]}
+{"id":519,"content":"슬라이싱 설정 완료로 152293507172305를 전용 슬라이스에 할당하였습니다. 대역폭이 보장됩니다.","has_sensitive":true,"entities":[{"value":"152293507172305","begin":13,"end":28,"label":"IMEI"}]}
+{"id":520,"content":"베타 테스트 등록으로 252203517273406을 참여 기기로 선정하였습니다. 신규 기능을 체험하세요.","has_sensitive":true,"entities":[{"value":"252203517273406","begin":12,"end":27,"label":"IMEI"}]}
+{"id":521,"content":"스피커 출력 테스트 결과 352213527374507은 최대 음량이 충분합니다. 오디오가 명확합니다.","has_sensitive":true,"entities":[{"value":"352213527374507","begin":14,"end":29,"label":"IMEI"}]}
+{"id":522,"content":"채널 최적화 완료로 452223537475608을 메인 채널로 설정하였습니다. 간섭이 최소화됩니다.","has_sensitive":true,"entities":[{"value":"452223537475608","begin":12,"end":27,"label":"IMEI"}]}
+{"id":523,"content":"멤버십 등록 완료로 552233547576709를 회원 번호로 사용합니다. 평생 회원입니다.","has_sensitive":true,"entities":[{"value":"552233547576709","begin":12,"end":27,"label":"IMEI"}]}
+{"id":524,"content":"자이로 정확도 측정 결과 652243557677810은 오차가 거의 없습니다. VR에 적합합니다.","has_sensitive":true,"entities":[{"value":"652243557677810","begin":14,"end":29,"label":"IMEI"}]}
+{"id":525,"content":"엣지 컴퓨팅 연결로 752253567778911을 저지연 서비스에 등록하였습니다. 응답이 빠릅니다.","has_sensitive":true,"entities":[{"value":"752253567778911","begin":12,"end":27,"label":"IMEI"}]}
+{"id":526,"content":"매뉴얼 개정판에 852263577879012를 예시로 사용하였습니다. 설명이 명확해졌습니다.","has_sensitive":true,"entities":[{"value":"852263577879012","begin":10,"end":25,"label":"IMEI"}]}
+{"id":527,"content":"가속도계 캘리브레이션으로 952273587970113의 정밀도가 향상되었습니다. 걸음 수가 정확합니다.","has_sensitive":true,"entities":[{"value":"952273587970113","begin":17,"end":32,"label":"IMEI"}]}
+{"id":528,"content":"이중화 설정 완료로 162283597071214를 백업 경로로 지정하였습니다. 자동 전환됩니다.","has_sensitive":true,"entities":[{"value":"162283597071214","begin":12,"end":27,"label":"IMEI"}]}
+{"id":529,"content":"설문 응답자로 262293507172315를 선정하였습니다. 참여 쿠폰을 발송하였습니다.","has_sensitive":true,"entities":[{"value":"262293507172315","begin":9,"end":24,"label":"IMEI"}]}
+{"id":530,"content":"지문 센서 테스트 결과 362203517273416은 99% 정확도입니다. 보안성이 우수합니다.","has_sensitive":true,"entities":[{"value":"362203517273416","begin":13,"end":28,"label":"IMEI"}]}
+{"id":531,"content":"트래픽 셰이핑 적용으로 462213527374517의 대역폭이 효율적으로 관리됩니다. 안정적입니다.","has_sensitive":true,"entities":[{"value":"462213527374517","begin":15,"end":30,"label":"IMEI"}]}
+{"id":532,"content":"앱 스토어 등록으로 562223537475618을 개발자 계정으로 등록하였습니다. 배포가 가능합니다.","has_sensitive":true,"entities":[{"value":"562223537475618","begin":11,"end":26,"label":"IMEI"}]}
+{"id":533,"content":"얼굴 인식 측정 결과 662233547576719는 0.2초에 잠금 해제됩니다. 매우 빠릅니다.","has_sensitive":true,"entities":[{"value":"662233547576719","begin":12,"end":27,"label":"IMEI"}]}
+{"id":534,"content":"프로비저닝 설정으로 762243557677820을 자동 구성에 추가하였습니다. 설정이 간편합니다.","has_sensitive":true,"entities":[{"value":"762243557677820","begin":13,"end":28,"label":"IMEI"}]}
+{"id":535,"content":"지원 티켓 발급으로 862253567778921을 참조 번호로 배정하였습니다. 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"862253567778921","begin":12,"end":27,"label":"IMEI"}]}
+{"id":536,"content":"무선 충전 테스트 결과 962263577879022는 87% 효율입니다. 빠른 충전이 가능합니다.","has_sensitive":true,"entities":[{"value":"962263577879022","begin":13,"end":28,"label":"IMEI"}]}
+{"id":537,"content":"부하 분산 완료로 172273587970123을 경로 분산에 포함하였습니다. 혼잡도가 감소합니다.","has_sensitive":true,"entities":[{"value":"172273587970123","begin":10,"end":25,"label":"IMEI"}]}
+{"id":538,"content":"보증서 재발급 승인으로 272283597071224를 증빙으로 제출하셨습니다. 재발급됩니다.","has_sensitive":true,"entities":[{"value":"272283597071224","begin":15,"end":30,"label":"IMEI"}]}
+{"id":539,"content":"환경 센서 평가 결과 372293507172325는 온습도가 정확합니다. 실내 관리에 유용합니다.","has_sensitive":true,"entities":[{"value":"372293507172325","begin":12,"end":27,"label":"IMEI"}]}
+{"id":540,"content":"품질 모니터링에 472203517273426을 샘플로 선정하였습니다. 통계가 수집됩니다.","has_sensitive":true,"entities":[{"value":"472203517273426","begin":11,"end":26,"label":"IMEI"}]}
+{"id":541,"content":"이벤트 당첨자로 572213527374527이 선정되었습니다. 축하드리며 경품을 발송합니다.","has_sensitive":true,"entities":[{"value":"572213527374527","begin":10,"end":25,"label":"IMEI"}]}
+{"id":542,"content":"메모리 벤치마크 결과 672223537475628은 읽기 2GB/s입니다. 매우 빠릅니다.","has_sensitive":true,"entities":[{"value":"672223537475628","begin":13,"end":28,"label":"IMEI"}]}
+{"id":543,"content":"보안 감사 완료로 772233547576729는 취약점이 없습니다. 보안 수준이 높습니다.","has_sensitive":true,"entities":[{"value":"772233547576729","begin":10,"end":25,"label":"IMEI"}]}
+{"id":544,"content":"파트너십 등록으로 872243557677830을 협력사 코드로 등록하였습니다. 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"872243557677830","begin":12,"end":27,"label":"IMEI"}]}
+{"id":545,"content":"밝기 측정 결과 972253567778931은 최대 820nit입니다. 야외에서도 선명합니다.","has_sensitive":true,"entities":[{"value":"972253567778931","begin":10,"end":25,"label":"IMEI"}]}
+{"id":546,"content":"우선순위 큐 설정으로 182263577879032를 최상위로 지정하였습니다. 지연 없이 처리됩니다.","has_sensitive":true,"entities":[{"value":"182263577879032","begin":14,"end":29,"label":"IMEI"}]}
+{"id":547,"content":"선호도 분석 완료로 282273587970133을 맞춤 서비스에 등록하였습니다. 만족도가 향상됩니다.","has_sensitive":true,"entities":[{"value":"282273587970133","begin":11,"end":26,"label":"IMEI"}]}
+{"id":548,"content":"리프레시 레이트 테스트 결과 382283597071234는 120Hz를 지원합니다. 화면이 부드럽습니다.","has_sensitive":true,"entities":[{"value":"382283597071234","begin":17,"end":32,"label":"IMEI"}]}
+{"id":549,"content":"페일오버 테스트 결과 482293507172335는 1초 내 전환됩니다. 안정성이 보장됩니다.","has_sensitive":true,"entities":[{"value":"482293507172335","begin":13,"end":28,"label":"IMEI"}]}
+{"id":550,"content":"출시 이벤트 사전 등록으로 582203517273436을 등록하시면 사은품을 드립니다. 신청하세요.","has_sensitive":true,"entities":[{"value":"582203517273436","begin":16,"end":31,"label":"IMEI"}]}
+{"id":551,"content":"터치 샘플링 측정 결과 682213527374537은 240Hz입니다. 게임에 최적입니다.","has_sensitive":true,"entities":[{"value":"682213527374537","begin":14,"end":29,"label":"IMEI"}]}
+{"id":552,"content":"에러율 모니터링 결과 782223537475638은 에러가 거의 없습니다. 통신이 우수합니다.","has_sensitive":true,"entities":[{"value":"782223537475638","begin":13,"end":28,"label":"IMEI"}]}
+{"id":553,"content":"추천 프로그램 등록으로 882233547576739를 추천인 코드로 입력하였습니다. 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"882233547576739","begin":14,"end":29,"label":"IMEI"}]}
+{"id":554,"content":"수명 예측 분석 결과 982243557677840은 5년 이상 사용 가능합니다. 내구성이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"982243557677840","begin":13,"end":28,"label":"IMEI"}]}
+{"id":555,"content":"핑 안정성 테스트 결과 192253567778941은 변동 4ms 이내입니다. 게임이 원활합니다.","has_sensitive":true,"entities":[{"value":"192253567778941","begin":13,"end":28,"label":"IMEI"}]}
+{"id":556,"content":"컨퍼런스 참가 등록으로 292263577879042를 등록하였습니다. 최신 기술을 공유합니다.","has_sensitive":true,"entities":[{"value":"292263577879042","begin":14,"end":29,"label":"IMEI"}]}
+{"id":557,"content":"와이파이 속도 측정 결과 392273587970143은 기가비트를 지원합니다. 다운로드가 빠릅니다.","has_sensitive":true,"entities":[{"value":"392273587970143","begin":15,"end":30,"label":"IMEI"}]}
+{"id":558,"content":"로밍 프로필 업데이트로 492283597071244를 신규 국가에 추가하였습니다. 여행이 편리합니다.","has_sensitive":true,"entities":[{"value":"492283597071244","begin":15,"end":30,"label":"IMEI"}]}
+{"id":559,"content":"등급 상향 조정으로 592293507172345를 골드로 승급하였습니다. 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"592293507172345","begin":12,"end":27,"label":"IMEI"}]}
+{"id":560,"content":"안테나 성능 측정 결과 692203517273446은 수신이 우수합니다. 신호를 잘 잡습니다.","has_sensitive":true,"entities":[{"value":"692203517273446","begin":13,"end":28,"label":"IMEI"}]}
+{"id":561,"content":"베어러 변경 완료로 792213527374547을 5G로 전환하였습니다. 속도가 향상됩니다.","has_sensitive":true,"entities":[{"value":"792213527374547","begin":12,"end":27,"label":"IMEI"}]}
+{"id":562,"content":"매입 가격 산정으로 892223537475648을 기준 모델로 평가하였습니다. 시세의 92%입니다.","has_sensitive":true,"entities":[{"value":"892223537475648","begin":12,"end":27,"label":"IMEI"}]}
+{"id":563,"content":"듀얼심 테스트 결과 992233547576749는 두 회선을 안정적으로 운영합니다. 편리합니다.","has_sensitive":true,"entities":[{"value":"992233547576749","begin":11,"end":26,"label":"IMEI"}]}
+{"id":564,"content":"주파수 집성 설정으로 103243557677850을 4밴드로 구성하였습니다. 최고 속도입니다.","has_sensitive":true,"entities":[{"value":"103243557677850","begin":13,"end":28,"label":"IMEI"}]}
+{"id":565,"content":"보상 쿠폰 발급으로 203253567778951에 무료 수리권을 제공합니다. 불편을 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"203253567778951","begin":11,"end":26,"label":"IMEI"}]}
+{"id":566,"content":"USB 속도 테스트 결과 303263577879052는 USB 3.1을 지원합니다. 전송이 빠릅니다.","has_sensitive":true,"entities":[{"value":"303263577879052","begin":13,"end":28,"label":"IMEI"}]}
+{"id":567,"content":"다중 연결 관리로 403273587970153을 최적화하였습니다. 연결이 안정됩니다.","has_sensitive":true,"entities":[{"value":"403273587970153","begin":11,"end":26,"label":"IMEI"}]}
+{"id":568,"content":"품질 인증 심사 통과로 503283597071254는 ISO 기준을 만족합니다. 품질이 보증됩니다.","has_sensitive":true,"entities":[{"value":"503283597071254","begin":14,"end":29,"label":"IMEI"}]}
+{"id":569,"content":"적외선 센서 측정 결과 603293507172355는 10m 내를 감지합니다. 리모컨이 우수합니다.","has_sensitive":true,"entities":[{"value":"603293507172355","begin":14,"end":29,"label":"IMEI"}]}
+{"id":570,"content":"SIM 인증 완료로 703203517273456을 정상 등록하였습니다. 접속이 허용됩니다.","has_sensitive":true,"entities":[{"value":"703203517273456","begin":11,"end":26,"label":"IMEI"}]}
+{"id":571,"content":"할인 쿠폰 발송으로 803213527374557 소유자에게 30% 할인권을 드립니다. 사용하세요.","has_sensitive":true,"entities":[{"value":"803213527374557","begin":11,"end":26,"label":"IMEI"}]}
+{"id":572,"content":"압력 센서 테스트 결과 903223537475658은 해발고도를 정확히 측정합니다. 등산에 유용합니다.","has_sensitive":true,"entities":[{"value":"903223537475658","begin":13,"end":28,"label":"IMEI"}]}
+{"id":573,"content":"가상화 환경 구성으로 113233547576759를 테스트 노드로 배치하였습니다. 성능을 검증합니다.","has_sensitive":true,"entities":[{"value":"113233547576759","begin":13,"end":28,"label":"IMEI"}]}
+{"id":574,"content":"재활용 프로그램 신청으로 213243557677860을 수거 대상으로 등록하였습니다. 환경을 보호합니다.","has_sensitive":true,"entities":[{"value":"213243557677860","begin":15,"end":30,"label":"IMEI"}]}
+{"id":575,"content":"모뎀 업데이트 완료로 313253567778961은 최신 버전입니다. 성능이 개선됩니다.","has_sensitive":true,"entities":[{"value":"313253567778961","begin":12,"end":27,"label":"IMEI"}]}
+{"id":576,"content":"절약 모드 적용으로 413263577879062를 저전력으로 전환하였습니다. 배터리가 오래 갑니다.","has_sensitive":true,"entities":[{"value":"413263577879062","begin":11,"end":26,"label":"IMEI"}]}
+{"id":577,"content":"긴급 지원 요청으로 513273587970163을 우선 처리합니다. 즉시 대응합니다.","has_sensitive":true,"entities":[{"value":"513273587970163","begin":11,"end":26,"label":"IMEI"}]}
+{"id":578,"content":"컬러 정확도 측정 결과 613283597071264는 DCI-P3 100%입니다. 색재현이 완벽합니다.","has_sensitive":true,"entities":[{"value":"613283597071264","begin":14,"end":29,"label":"IMEI"}]}
+{"id":579,"content":"패킷 손실률 분석 결과 713293507172365는 0.01% 미만입니다. 통신이 안정적입니다.","has_sensitive":true,"entities":[{"value":"713293507172365","begin":14,"end":29,"label":"IMEI"}]}
+{"id":580,"content":"글로벌 보증 등록으로 813203517273466을 전세계 A/S에 등록하였습니다. 어디서나 받으세요.","has_sensitive":true,"entities":[{"value":"813203517273466","begin":13,"end":28,"label":"IMEI"}]}
+{"id":581,"content":"자동 밝기 테스트 결과 913213527374567은 조도에 정확히 반응합니다. 눈이 편합니다.","has_sensitive":true,"entities":[{"value":"913213527374567","begin":13,"end":28,"label":"IMEI"}]}
+{"id":582,"content":"어그리게이션 설정으로 123223537475668을 5CA로 활성화하였습니다. 최고 속도입니다.","has_sensitive":true,"entities":[{"value":"123223537475668","begin":15,"end":30,"label":"IMEI"}]}
+{"id":583,"content":"충성도 보상으로 223233547576769에 10000포인트를 적립하였습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"223233547576769","begin":10,"end":25,"label":"IMEI"}]}
+{"id":584,"content":"홍채 인식 평가 결과 323243557677870은 금융 수준 보안입니다. 안전하게 사용하세요.","has_sensitive":true,"entities":[{"value":"323243557677870","begin":12,"end":27,"label":"IMEI"}]}
+{"id":585,"content":"음성 품질 테스트 결과 423253567778971은 HD Voice를 지원합니다. 통화가 선명합니다.","has_sensitive":true,"entities":[{"value":"423253567778971","begin":14,"end":29,"label":"IMEI"}]}
+{"id":586,"content":"선물 포장 신청으로 523263577879072를 수령인으로 등록하였습니다. 정성껏 포장합니다.","has_sensitive":true,"entities":[{"value":"523263577879072","begin":12,"end":27,"label":"IMEI"}]}
+{"id":587,"content":"근접 센서 측정 결과 623273587970173은 즉각 반응합니다. 오작동이 방지됩니다.","has_sensitive":true,"entities":[{"value":"623273587970173","begin":12,"end":27,"label":"IMEI"}]}
+{"id":588,"content":"망 중립성 확인 완료로 723283597071274는 트래픽을 동등 처리합니다. 공정합니다.","has_sensitive":true,"entities":[{"value":"723283597071274","begin":13,"end":28,"label":"IMEI"}]}
+{"id":589,"content":"생일 쿠폰 발송으로 823293507172375에 축하 선물을 준비했습니다. 특별한 날입니다.","has_sensitive":true,"entities":[{"value":"823293507172375","begin":11,"end":26,"label":"IMEI"}]}
+{"id":590,"content":"AI 프로세서 벤치마크 결과 923203517273476은 초당 12조 연산입니다. 기능이 강력합니다.","has_sensitive":true,"entities":[{"value":"923203517273476","begin":17,"end":32,"label":"IMEI"}]}
+{"id":591,"content":"레이턴시 최적화 완료로 133213527374577을 엣지와 연결하였습니다. 응답이 즉각적입니다.","has_sensitive":true,"entities":[{"value":"133213527374577","begin":15,"end":30,"label":"IMEI"}]}
+{"id":592,"content":"에코 포인트 적립으로 233223537475678을 친환경 프로그램에 등록하였습니다. 포인트를 드립니다.","has_sensitive":true,"entities":[{"value":"233223537475678","begin":13,"end":28,"label":"IMEI"}]}
+{"id":593,"content":"무선 디스플레이 테스트 결과 333233547576779는 끊김 없이 미러링됩니다. 감상이 편리합니다.","has_sensitive":true,"entities":[{"value":"333233547576779","begin":17,"end":32,"label":"IMEI"}]}
+{"id":594,"content":"eSIM 전환 완료로 433243557677880을 가상 심으로 등록하였습니다. 물리 카드가 불필요합니다.","has_sensitive":true,"entities":[{"value":"433243557677880","begin":12,"end":27,"label":"IMEI"}]}
+{"id":595,"content":"추첨 당첨자로 533253567778981이 1등에 선정되었습니다. 진심으로 축하합니다.","has_sensitive":true,"entities":[{"value":"533253567778981","begin":9,"end":24,"label":"IMEI"}]}
+{"id":596,"content":"햅틱 피드백 테스트 결과 633263577879082는 10단계 조정이 가능합니다. 경험이 향상됩니다.","has_sensitive":true,"entities":[{"value":"633263577879082","begin":14,"end":29,"label":"IMEI"}]}
+{"id":597,"content":"IPv6 전환 완료로 733273587970183을 듀얼 스택으로 설정하였습니다. 차세대를 지원합니다.","has_sensitive":true,"entities":[{"value":"733273587970183","begin":12,"end":27,"label":"IMEI"}]}
+{"id":598,"content":"교육 프로그램 참가로 833283597071284를 수강생으로 등록하였습니다. 전문가 과정입니다.","has_sensitive":true,"entities":[{"value":"833283597071284","begin":14,"end":29,"label":"IMEI"}]}
+{"id":599,"content":"초고속 충전 테스트 결과 933293507172385는 30분에 85% 충전됩니다. 빠른 충전입니다.","has_sensitive":true,"entities":[{"value":"933293507172385","begin":15,"end":30,"label":"IMEI"}]}
+{"id":600,"content":"슬라이스 관리로 143203517273486을 프리미엄에 할당하였습니다. 최고 품질입니다.","has_sensitive":true,"entities":[{"value":"143203517273486","begin":10,"end":25,"label":"IMEI"}]}
+{"id":601,"content":"리뷰 미팅 일정으로 243213527374587을 참석자로 등록하였습니다. 다음 주 목요일입니다.","has_sensitive":true,"entities":[{"value":"243213527374587","begin":12,"end":27,"label":"IMEI"}]}
+{"id":602,"content":"생체 인증 시스템으로 343223537475688은 3중 인증을 지원합니다. 보안이 강력합니다.","has_sensitive":true,"entities":[{"value":"343223537475688","begin":14,"end":29,"label":"IMEI"}]}
+{"id":603,"content":"피코셀 연결 최적화로 443233547576789를 실내 측위에 활용합니다. 정확도 1m입니다.","has_sensitive":true,"entities":[{"value":"443233547576789","begin":14,"end":29,"label":"IMEI"}]}
+{"id":604,"content":"기술 시연회 데모로 543243557677890을 선정하였습니다. 최신 기술을 공개합니다.","has_sensitive":true,"entities":[{"value":"543243557677890","begin":12,"end":27,"label":"IMEI"}]}
+{"id":605,"content":"적응형 새로고침으로 643253567778991은 배터리를 32% 절약합니다. 효율적입니다.","has_sensitive":true,"entities":[{"value":"643253567778991","begin":13,"end":28,"label":"IMEI"}]}
+{"id":606,"content":"멀티캐스트 설정으로 743263577879092를 그룹 멤버로 추가하였습니다. 동시 시청 가능합니다.","has_sensitive":true,"entities":[{"value":"743263577879092","begin":13,"end":28,"label":"IMEI"}]}
+{"id":607,"content":"개선 프로젝트에 843273587970193을 피드백 제공자로 선정하였습니다. 의견을 반영합니다.","has_sensitive":true,"entities":[{"value":"843273587970193","begin":11,"end":26,"label":"IMEI"}]}
+{"id":608,"content":"열화상 카메라 측정 결과 943283597071294는 편차 0.3도 이내입니다. 정밀 측정 가능합니다.","has_sensitive":true,"entities":[{"value":"943283597071294","begin":15,"end":30,"label":"IMEI"}]}
+{"id":609,"content":"DDoS 방어 등록으로 153293507172395를 보호 대상으로 추가하였습니다. 공격에서 안전합니다.","has_sensitive":true,"entities":[{"value":"153293507172395","begin":13,"end":28,"label":"IMEI"}]}
+{"id":610,"content":"액세서리 호환성 검증 결과 253203517273496은 모든 정품과 호환됩니다. 안심하세요.","has_sensitive":true,"entities":[{"value":"253203517273496","begin":17,"end":32,"label":"IMEI"}]}
+{"id":611,"content":"공간 음향 테스트 결과 353213527374597은 3D 사운드를 재현합니다. 몰입감이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"353213527374597","begin":13,"end":28,"label":"IMEI"}]}
+{"id":612,"content":"빔포밍 적용 완료로 453223537475698을 방향성으로 설정하였습니다. 신호가 증가합니다.","has_sensitive":true,"entities":[{"value":"453223537475698","begin":13,"end":28,"label":"IMEI"}]}
+{"id":613,"content":"VIP 라운지 권한으로 553233547576799에 프리미엄 서비스를 부여하였습니다. 누리세요.","has_sensitive":true,"entities":[{"value":"553233547576799","begin":13,"end":28,"label":"IMEI"}]}
+{"id":614,"content":"구동 소음 측정 결과 653243557677800은 23dB 이하입니다. 조용한 환경에 적합합니다.","has_sensitive":true,"entities":[{"value":"653243557677800","begin":12,"end":27,"label":"IMEI"}]}
+{"id":615,"content":"QoE 모니터링 결과 753253567778901은 만족도가 높습니다. 품질이 우수합니다.","has_sensitive":true,"entities":[{"value":"753253567778901","begin":12,"end":27,"label":"IMEI"}]}
+{"id":616,"content":"R&D 파트너십 체결로 853263577879002를 협력 과제로 지정하였습니다. 혁신을 만듭니다.","has_sensitive":true,"entities":[{"value":"853263577879002","begin":14,"end":29,"label":"IMEI"}]}
+{"id":617,"content":"전자파 흡수율 측정 결과 953273587970103은 기준 대비 48%입니다. 건강에 안전합니다.","has_sensitive":true,"entities":[{"value":"953273587970103","begin":15,"end":30,"label":"IMEI"}]}
+{"id":618,"content":"접속 제어 정책으로 163283597071204를 화이트리스트에 추가하였습니다. 항상 허용됩니다.","has_sensitive":true,"entities":[{"value":"163283597071204","begin":12,"end":27,"label":"IMEI"}]}
+{"id":619,"content":"맞춤형 패키지 구성으로 263293507172305를 선호도 기준으로 사용하였습니다. 최적 조합입니다.","has_sensitive":true,"entities":[{"value":"263293507172305","begin":15,"end":30,"label":"IMEI"}]}
+{"id":620,"content":"역광 보정 테스트 결과 363203517273406은 노출을 최적화합니다. 사진이 향상됩니다.","has_sensitive":true,"entities":[{"value":"363203517273406","begin":13,"end":28,"label":"IMEI"}]}
+{"id":621,"content":"암호화 강화 완료로 463213527374507은 AES-256을 적용하였습니다. 데이터가 안전합니다.","has_sensitive":true,"entities":[{"value":"463213527374507","begin":13,"end":28,"label":"IMEI"}]}
+{"id":622,"content":"사전 예약 접수로 563223537475608을 주문 번호로 발급하였습니다. 우선 배송됩니다.","has_sensitive":true,"entities":[{"value":"563223537475608","begin":10,"end":25,"label":"IMEI"}]}
+{"id":623,"content":"야간 촬영 성능 평가 결과 663233547576709는 저조도에서도 선명합니다. 밤 사진이 밝습니다.","has_sensitive":true,"entities":[{"value":"663233547576709","begin":16,"end":31,"label":"IMEI"}]}
+{"id":624,"content":"주파수 호핑 설정으로 763243557677810을 간섭 회피로 구성하였습니다. 안정성이 증가합니다.","has_sensitive":true,"entities":[{"value":"763243557677810","begin":13,"end":28,"label":"IMEI"}]}
+{"id":625,"content":"감사 선물 발송으로 863253567778911에 프리미엄 케이스를 보냈습니다. 오래 사용해주셔서 감사합니다.","has_sensitive":true,"entities":[{"value":"863253567778911","begin":11,"end":26,"label":"IMEI"}]}
+{"id":626,"content":"게임 최적화 활성화로 963263577879012는 프레임이 안정적입니다. 쾌적한 환경입니다.","has_sensitive":true,"entities":[{"value":"963263577879012","begin":14,"end":29,"label":"IMEI"}]}
+{"id":627,"content":"동적 대역폭 할당으로 173273587970113을 우선 그룹에 포함하였습니다. 속도가 보장됩니다.","has_sensitive":true,"entities":[{"value":"173273587970113","begin":13,"end":28,"label":"IMEI"}]}
+{"id":628,"content":"커스터마이징 신청으로 273283597071214를 고유 디자인으로 지정하였습니다. 세상에 하나뿐입니다.","has_sensitive":true,"entities":[{"value":"273283597071214","begin":14,"end":29,"label":"IMEI"}]}
+{"id":629,"content":"초광각 왜곡 보정 테스트 결과 373293507172315는 자연스럽습니다. 왜곡이 최소화됩니다.","has_sensitive":true,"entities":[{"value":"373293507172315","begin":17,"end":32,"label":"IMEI"}]}
+{"id":630,"content":"인증서 갱신 작업으로 473203517273416은 자동 갱신됩니다. 만료 걱정이 없습니다.","has_sensitive":true,"entities":[{"value":"473203517273416","begin":13,"end":28,"label":"IMEI"}]}
+{"id":631,"content":"베타 테스터 선정으로 573213527374517을 신규 기능 체험자로 등록하였습니다. 먼저 체험하세요.","has_sensitive":true,"entities":[{"value":"573213527374517","begin":13,"end":28,"label":"IMEI"}]}
+{"id":632,"content":"매크로 촬영 측정 결과 673223537475618은 1.5cm까지 초점이 맞습니다. 세밀한 촬영 가능합니다.","has_sensitive":true,"entities":[{"value":"673223537475618","begin":14,"end":29,"label":"IMEI"}]}
+{"id":633,"content":"지터 감소 적용 결과 773233547576719는 변동 0.8ms 이하입니다. 실시간 통신이 안정됩니다.","has_sensitive":true,"entities":[{"value":"773233547576719","begin":13,"end":28,"label":"IMEI"}]}
+{"id":634,"content":"수출 인증 서류 제출로 873243557677820을 샘플로 등록하였습니다. 해외 판매 승인됩니다.","has_sensitive":true,"entities":[{"value":"873243557677820","begin":14,"end":29,"label":"IMEI"}]}
+{"id":635,"content":"음성 인식 평가 결과 973253567778921은 소음에서도 97% 인식합니다. 편리하게 사용됩니다.","has_sensitive":true,"entities":[{"value":"973253567778921","begin":13,"end":28,"label":"IMEI"}]}
+{"id":636,"content":"펨토셀 연동 설정으로 183263577879022를 홈 네트워크에 등록하였습니다. 실내 통화가 개선됩니다.","has_sensitive":true,"entities":[{"value":"183263577879022","begin":13,"end":28,"label":"IMEI"}]}
+{"id":637,"content":"프리미엄 보험 가입으로 283273587970123을 피보험 기기로 등록하였습니다. 완벽한 보장입니다.","has_sensitive":true,"entities":[{"value":"283273587970123","begin":15,"end":30,"label":"IMEI"}]}
+{"id":638,"content":"슬로우 모션 테스트 결과 383283597071224는 960fps를 지원합니다. 순간을 포착합니다.","has_sensitive":true,"entities":[{"value":"383283597071224","begin":15,"end":30,"label":"IMEI"}]}
+{"id":639,"content":"멀티홉 라우팅에 483293507172325를 중계 노드로 추가하였습니다. 커버리지가 확장됩니다.","has_sensitive":true,"entities":[{"value":"483293507172325","begin":12,"end":27,"label":"IMEI"}]}
+{"id":640,"content":"전시회 출품작으로 583203517273426을 선정하여 전시합니다. 많은 관심 부탁합니다.","has_sensitive":true,"entities":[{"value":"583203517273426","begin":11,"end":26,"label":"IMEI"}]}
+{"id":641,"content":"타임랩스 안정성 테스트 결과 683213527374527은 24시간 촬영이 가능합니다. 배터리가 오래 갑니다.","has_sensitive":true,"entities":[{"value":"683213527374527","begin":17,"end":32,"label":"IMEI"}]}
+{"id":642,"content":"스펙트럼 효율 최적화로 783223537475628은 처리량이 높습니다. 효율적인 통신입니다.","has_sensitive":true,"entities":[{"value":"783223537475628","begin":15,"end":30,"label":"IMEI"}]}
+{"id":643,"content":"연간 통계 리포트 발송으로 883233547576729에 활동 내역을 보냈습니다. 한 해를 확인하세요.","has_sensitive":true,"entities":[{"value":"883233547576729","begin":17,"end":32,"label":"IMEI"}]}
+{"id":644,"content":"파노라마 정합도 측정 결과 983243557677830은 이음새가 자연스럽습니다. 풍경을 담으세요.","has_sensitive":true,"entities":[{"value":"983243557677830","begin":16,"end":31,"label":"IMEI"}]}
+{"id":645,"content":"동적 TDD 최적화로 193253567778931을 상향 우선으로 구성하였습니다. 업로드가 빨라집니다.","has_sensitive":true,"entities":[{"value":"193253567778931","begin":12,"end":27,"label":"IMEI"}]}
+{"id":646,"content":"지속가능성 인증 심사로 293263577879032는 친환경 소재를 인정받았습니다. 지구를 생각합니다.","has_sensitive":true,"entities":[{"value":"293263577879032","begin":15,"end":30,"label":"IMEI"}]}
+{"id":647,"content":"인물 사진 모드 평가 결과 393273587970133은 배경 흐림이 자연스럽습니다. 인물이 돋보입니다.","has_sensitive":true,"entities":[{"value":"393273587970133","begin":16,"end":31,"label":"IMEI"}]}
+{"id":648,"content":"셀 재선택 알고리즘 개선으로 493283597071234는 끊김이 없습니다. 이동 중에도 안정적입니다.","has_sensitive":true,"entities":[{"value":"493283597071234","begin":17,"end":32,"label":"IMEI"}]}
+{"id":649,"content":"라이프스타일 분석 프로젝트로 593293507172335를 연구 샘플로 선정하였습니다. 더 나은 서비스입니다.","has_sensitive":true,"entities":[{"value":"593293507172335","begin":18,"end":33,"label":"IMEI"}]}
+{"id":650,"content":"HDR 동영상 처리 테스트 결과 693203517273436은 10bit를 지원합니다. 생생한 영상입니다.","has_sensitive":true,"entities":[{"value":"693203517273436","begin":18,"end":33,"label":"IMEI"}]}
+{"id":651,"content":"MIMO 안테나 최적화로 793213527374537은 4x4 구성입니다. 속도가 배가됩니다.","has_sensitive":true,"entities":[{"value":"793213527374537","begin":14,"end":29,"label":"IMEI"}]}
+{"id":652,"content":"사회공헌 프로그램 기부로 893223537475638을 선정하였습니다. 나눔을 실천합니다.","has_sensitive":true,"entities":[{"value":"893223537475638","begin":15,"end":30,"label":"IMEI"}]}
+{"id":653,"content":"야간 영상 안정화 테스트 결과 993233547576739는 손떨림 보정이 뛰어납니다. 흔들림이 없습니다.","has_sensitive":true,"entities":[{"value":"993233547576739","begin":18,"end":33,"label":"IMEI"}]}
+{"id":654,"content":"크로스 캐리어 스케줄링으로 104243557677840을 연동 기기로 구성하였습니다. 자원이 최적화됩니다.","has_sensitive":true,"entities":[{"value":"104243557677840","begin":18,"end":33,"label":"IMEI"}]}
+{"id":655,"content":"웰빙 프로그램 참여로 204253567778941을 등록하였습니다. 건강한 디지털 라이프를 지원합니다.","has_sensitive":true,"entities":[{"value":"204253567778941","begin":13,"end":28,"label":"IMEI"}]}
+{"id":656,"content":"프로 동영상 촬영 평가 결과 304263577879042는 LOG 포맷을 지원합니다. 전문가급 편집 가능합니다.","has_sensitive":true,"entities":[{"value":"304263577879042","begin":17,"end":32,"label":"IMEI"}]}
+{"id":657,"content":"간섭 회피 기술 적용으로 404273587970143은 깨끗한 채널을 선택합니다. 연결이 안정됩니다.","has_sensitive":true,"entities":[{"value":"404273587970143","begin":15,"end":30,"label":"IMEI"}]}
+{"id":658,"content":"혁신 아이디어 공모전 대상 수상으로 504283597071244를 출품하였습니다. 축하합니다.","has_sensitive":true,"entities":[{"value":"504283597071244","begin":23,"end":38,"label":"IMEI"}]}
+{"id":659,"content":"실시간 번역 테스트 결과 604293507172345는 22개 언어를 지원합니다. 해외여행이 편리합니다.","has_sensitive":true,"entities":[{"value":"604293507172345","begin":16,"end":31,"label":"IMEI"}]}
+{"id":660,"content":"네트워크 복원력 테스트 결과 704203517273446은 즉시 복구됩니다. 안정성이 검증되었습니다.","has_sensitive":true,"entities":[{"value":"704203517273446","begin":18,"end":33,"label":"IMEI"}]}
+{"id":661,"content":"디지털 자산 관리 서비스로 804213527374547을 클라우드에 연동하였습니다. 데이터가 안전합니다.","has_sensitive":true,"entities":[{"value":"804213527374547","begin":17,"end":32,"label":"IMEI"}]}
+{"id":662,"content":"문서 스캔 품질 평가 결과 904223537475648은 OCR 인식률 99%입니다. 문서 관리가 편리합니다.","has_sensitive":true,"entities":[{"value":"904223537475648","begin":16,"end":31,"label":"IMEI"}]}
+{"id":663,"content":"적응형 변조 코딩 설정으로 114233547576749는 채널에 따라 최적화됩니다. 효율이 극대화됩니다.","has_sensitive":true,"entities":[{"value":"114233547576749","begin":16,"end":31,"label":"IMEI"}]}
+{"id":664,"content":"글로벌 런칭 이벤트에 214243557677850을 홍보 모델로 선정하였습니다. 전세계에 소개됩니다.","has_sensitive":true,"entities":[{"value":"214243557677850","begin":14,"end":29,"label":"IMEI"}]}
+{"id":665,"content":"AR 증강현실 성능 측정 결과 314253567778951은 실시간 렌더링이 부드럽습니다. 몰입감이 있습니다.","has_sensitive":true,"entities":[{"value":"314253567778951","begin":17,"end":32,"label":"IMEI"}]}
+{"id":666,"content":"에지 AI 처리 노드 연결로 414263577879052를 지능형 네트워크에 등록하였습니다. 실시간 분석 가능합니다.","has_sensitive":true,"entities":[{"value":"414263577879052","begin":17,"end":32,"label":"IMEI"}]}
+{"id":667,"content":"스마트홈 통합 시스템으로 514273587970153을 허브로 등록하였습니다. 모든 기기를 제어합니다.","has_sensitive":true,"entities":[{"value":"514273587970153","begin":16,"end":31,"label":"IMEI"}]}
+{"id":668,"content":"초정밀 위치 측위 테스트 결과 614283597071254는 오차 25cm입니다. 실내 내비게이션이 가능합니다.","has_sensitive":true,"entities":[{"value":"614283597071254","begin":18,"end":33,"label":"IMEI"}]}
+{"id":669,"content":"블록체인 노드 등록 작업으로 714293507172355를 분산 네트워크에 추가하였습니다. 탈중앙화 서비스입니다.","has_sensitive":true,"entities":[{"value":"714293507172355","begin":17,"end":32,"label":"IMEI"}]}
+{"id":670,"content":"패밀리 공유 플랜에 814203517273456을 마스터로 설정하였습니다. 가족 모두가 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"814203517273456","begin":13,"end":28,"label":"IMEI"}]}
+{"id":671,"content":"음성 합성 품질 평가 결과 914213527374557은 자연스러운 발음입니다. 접근성이 향상됩니다.","has_sensitive":true,"entities":[{"value":"914213527374557","begin":16,"end":31,"label":"IMEI"}]}
+{"id":672,"content":"양자 암호화 시범 사업에 124223537475658을 테스트베드로 참여시켰습니다. 미래 보안입니다.","has_sensitive":true,"entities":[{"value":"124223537475658","begin":16,"end":31,"label":"IMEI"}]}
+{"id":673,"content":"건강 모니터링 앱 연동으로 224233547576759를 생체 신호 추적에 등록하였습니다. 건강 관리에 도움됩니다.","has_sensitive":true,"entities":[{"value":"224233547576759","begin":16,"end":31,"label":"IMEI"}]}
+{"id":674,"content":"홀로그램 디스플레이 프로젝트로 324243557677860을 시제품으로 선정하였습니다. 혁신적인 기술입니다.","has_sensitive":true,"entities":[{"value":"324243557677860","begin":21,"end":36,"label":"IMEI"}]}
+{"id":675,"content":"위성 연동 서비스 구축으로 424253567778961을 시범 단말로 등록하였습니다. 전세계에서 연결됩니다.","has_sensitive":true,"entities":[{"value":"424253567778961","begin":17,"end":32,"label":"IMEI"}]}
+{"id":676,"content":"순환 경제 프로그램에 524263577879062를 참여 기기로 등록하였습니다. 재활용이 보장됩니다.","has_sensitive":true,"entities":[{"value":"524263577879062","begin":14,"end":29,"label":"IMEI"}]}
+{"id":677,"content":"뉴럴 엔진 벤치마크 결과 624273587970163은 초당 18조 연산입니다. AI 처리가 강력합니다.","has_sensitive":true,"entities":[{"value":"624273587970163","begin":16,"end":31,"label":"IMEI"}]}
+{"id":678,"content":"테라헤르츠 대역 실험에 724283597071264를 연구 장비로 배정하였습니다. 차세대 통신입니다.","has_sensitive":true,"entities":[{"value":"724283597071264","begin":15,"end":30,"label":"IMEI"}]}
+{"id":679,"content":"탄소 감소 캠페인에 824293507172365를 참여시켜 포인트를 적립합니다. 환경을 보호합니다.","has_sensitive":true,"entities":[{"value":"824293507172365","begin":13,"end":28,"label":"IMEI"}]}
+{"id":680,"content":"뇌파 센서 측정 결과 924203517273466은 명상 상태를 감지합니다. 웰빙 기능입니다.","has_sensitive":true,"entities":[{"value":"924203517273466","begin":13,"end":28,"label":"IMEI"}]}
+{"id":681,"content":"V2X 모듈 등록으로 134213527374567을 자율주행 통신에 연결하였습니다. 안전 운전을 지원합니다.","has_sensitive":true,"entities":[{"value":"134213527374567","begin":11,"end":26,"label":"IMEI"}]}
+{"id":682,"content":"메타버스 플랫폼 연동으로 234223537475668을 아바타 기기로 등록하였습니다. 가상 세계를 경험하세요.","has_sensitive":true,"entities":[{"value":"234223537475668","begin":16,"end":31,"label":"IMEI"}]}
+{"id":683,"content":"감정 인식 AI 평가 결과 334233547576769는 8가지 감정을 식별합니다. 사용자를 이해합니다.","has_sensitive":true,"entities":[{"value":"334233547576769","begin":16,"end":31,"label":"IMEI"}]}
+{"id":684,"content":"양자 얽힘 네트워크 노드에 434243557677870을 실험 장비로 연결하였습니다. 물리학의 미래입니다.","has_sensitive":true,"entities":[{"value":"434243557677870","begin":17,"end":32,"label":"IMEI"}]}
+{"id":685,"content":"디지털 웰빙 점수 측정으로 534253567778971은 균형 잡힌 패턴입니다. 건강한 습관입니다.","has_sensitive":true,"entities":[{"value":"534253567778971","begin":17,"end":32,"label":"IMEI"}]}
+{"id":686,"content":"촉각 해상도 테스트 결과 634263577879072는 1200개 지점을 구분합니다. 정밀한 터치입니다.","has_sensitive":true,"entities":[{"value":"634263577879072","begin":16,"end":31,"label":"IMEI"}]}
+{"id":687,"content":"소프트웨어 정의 라디오로 734273587970173을 재구성 가능 단말로 등록하였습니다. 유연한 통신입니다.","has_sensitive":true,"entities":[{"value":"734273587970173","begin":16,"end":31,"label":"IMEI"}]}
+{"id":688,"content":"장인 정신 어워드 수상으로 834283597071274를 선정하였습니다. 최고의 품질입니다.","has_sensitive":true,"entities":[{"value":"834283597071274","begin":17,"end":32,"label":"IMEI"}]}
+{"id":689,"content":"공기질 센서 측정 결과 934293507172375는 미세먼지를 정확히 감지합니다. 건강을 지킵니다.","has_sensitive":true,"entities":[{"value":"934293507172375","begin":15,"end":30,"label":"IMEI"}]}
+{"id":690,"content":"지능형 반사 표면 연동으로 144203517273476을 빔 제어 기기로 설정하였습니다. 신호가 강화됩니다.","has_sensitive":true,"entities":[{"value":"144203517273476","begin":17,"end":32,"label":"IMEI"}]}
+{"id":691,"content":"생애 주기 관리 프로그램에 244213527374577을 등록하여 맞춤 서비스를 제공합니다. 평생 파트너입니다.","has_sensitive":true,"entities":[{"value":"244213527374577","begin":17,"end":32,"label":"IMEI"}]}
+{"id":692,"content":"라이다 센서 평가 결과 344223537475678은 거리 오차 0.8cm입니다. 정밀 측정이 가능합니다.","has_sensitive":true,"entities":[{"value":"344223537475678","begin":15,"end":30,"label":"IMEI"}]}
+{"id":693,"content":"제로 트러스트 아키텍처에 444233547576779를 인증 기기로 등록하였습니다. 보안이 최고입니다.","has_sensitive":true,"entities":[{"value":"444233547576779","begin":18,"end":33,"label":"IMEI"}]}
+{"id":694,"content":"타임캡슐 프로젝트에 544243557677880을 참여시켜 미래에 전달합니다. 역사의 일부입니다.","has_sensitive":true,"entities":[{"value":"544243557677880","begin":13,"end":28,"label":"IMEI"}]}
+{"id":695,"content":"후각 센서 개발 프로젝트로 644253567778981을 시제품으로 테스트합니다. 혁신적인 시도입니다.","has_sensitive":true,"entities":[{"value":"644253567778981","begin":17,"end":32,"label":"IMEI"}]}
+{"id":696,"content":"태양광 충전 네트워크 구축으로 744263577879082를 자가발전 노드로 등록하였습니다. 친환경입니다.","has_sensitive":true,"entities":[{"value":"744263577879082","begin":20,"end":35,"label":"IMEI"}]}
+{"id":697,"content":"디지털 유산 서비스에 844273587970183을 등록하여 자산을 보호합니다. 미래를 준비하세요.","has_sensitive":true,"entities":[{"value":"844273587970183","begin":15,"end":30,"label":"IMEI"}]}
+{"id":698,"content":"미각 시뮬레이터 연구로 944283597071284를 인터페이스로 실험합니다. 감각의 확장입니다.","has_sensitive":true,"entities":[{"value":"944283597071284","begin":15,"end":30,"label":"IMEI"}]}
+{"id":699,"content":"수중 통신 프로토콜 테스트에 154293507172385를 잠수 장비에 장착하였습니다. 해양 탐사가 가능합니다.","has_sensitive":true,"entities":[{"value":"154293507172385","begin":19,"end":34,"label":"IMEI"}]}
+{"id":700,"content":"우주 환경 내구성 시험으로 254203517273486을 우주정거장으로 발송합니다. 극한을 테스트합니다.","has_sensitive":true,"entities":[{"value":"254203517273486","begin":17,"end":32,"label":"IMEI"}]}
+{"id":701,"content":"시간 왜곡 보정 기능 테스트 결과 354213527374587은 상대론적 효과를 계산합니다. 정밀한 시계입니다.","has_sensitive":true,"entities":[{"value":"354213527374587","begin":21,"end":36,"label":"IMEI"}]}
+{"id":702,"content":"뉴로모픽 칩 연동 작업으로 454223537475688을 신경망 프로세서로 구성하였습니다. 뇌를 모방합니다.","has_sensitive":true,"entities":[{"value":"454223537475688","begin":18,"end":33,"label":"IMEI"}]}
+{"id":703,"content":"의식 업로드 연구 프로젝트에 554233547576789를 참여시켰습니다. 미래 기술을 탐구합니다.","has_sensitive":true,"entities":[{"value":"554233547576789","begin":18,"end":33,"label":"IMEI"}]}
+{"id":704,"content":"중력파 감지 센서 실험으로 654243557677890을 초정밀 측정 장비로 활용합니다. 우주의 비밀입니다.","has_sensitive":true,"entities":[{"value":"654243557677890","begin":17,"end":32,"label":"IMEI"}]}
+{"id":705,"content":"다차원 통신 프로토콜에 754253567778991을 차원 간 중계기로 등록하였습니다. SF가 현실입니다.","has_sensitive":true,"entities":[{"value":"754253567778991","begin":15,"end":30,"label":"IMEI"}]}
+{"id":706,"content":"나노 기술 적용 연구로 854263577879092를 분자 수준 제조에 활용합니다. 초소형화입니다.","has_sensitive":true,"entities":[{"value":"854263577879092","begin":15,"end":30,"label":"IMEI"}]}
+{"id":707,"content":"텔레파시 인터페이스 개발으로 954273587970193을 뇌-컴퓨터 장치로 테스트합니다. 생각으로 제어합니다.","has_sensitive":true,"entities":[{"value":"954273587970193","begin":19,"end":34,"label":"IMEI"}]}
+{"id":708,"content":"시공간 왜곡 네트워크 실험에 164283597071294를 양자 터널 단말로 사용합니다. 순간 이동입니다.","has_sensitive":true,"entities":[{"value":"164283597071294","begin":18,"end":33,"label":"IMEI"}]}
+{"id":709,"content":"영생 서비스 가입 신청으로 264293507172395를 등록하여 의식을 보존합니다. 영원히 기억됩니다.","has_sensitive":true,"entities":[{"value":"264293507172395","begin":16,"end":31,"label":"IMEI"}]}
+{"id":710,"content":"반물질 배터리 장착 프로젝트로 364203517273496을 에너지원으로 실험합니다. 무한 전력입니다.","has_sensitive":true,"entities":[{"value":"364203517273496","begin":20,"end":35,"label":"IMEI"}]}
+{"id":711,"content":"고객센터 문의 접수 시 IMEI 코드 456789012345678로 기기를 확인하였습니다. 상담이 신속하게 진행됩니다.","has_sensitive":true,"entities":[{"value":"456789012345678","begin":25,"end":40,"label":"IMEI"}]}
+{"id":712,"content":"기기 등록 완료 알림을 567890123456789 사용자에게 발송하였습니다. 모든 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"567890123456789","begin":15,"end":30,"label":"IMEI"}]}
+{"id":713,"content":"분실 단말기 차단 신청 시 678901234567890을 즉시 네트워크에서 차단하였습니다. 도난 방지가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"678901234567890","begin":18,"end":33,"label":"IMEI"}]}
+{"id":714,"content":"정품 등록 인증에서 789012345678901이 제조사 데이터베이스와 일치합니다. 정품으로 확인되었습니다.","has_sensitive":true,"entities":[{"value":"789012345678901","begin":12,"end":27,"label":"IMEI"}]}
+{"id":715,"content":"단말기 수리 견적서에 890123456789012가 기재되어 있습니다. 수리 비용은 15만원입니다.","has_sensitive":true,"entities":[{"value":"890123456789012","begin":14,"end":29,"label":"IMEI"}]}
+{"id":716,"content":"보험 청구 서류 제출 시 901234567890123을 피해 기기로 등록하였습니다. 보상이 진행됩니다.","has_sensitive":true,"entities":[{"value":"901234567890123","begin":17,"end":32,"label":"IMEI"}]}
+{"id":717,"content":"중고 거래 안전 확인에서 123450987654321은 정상 기기로 판명되었습니다. 안심하고 거래하세요.","has_sensitive":true,"entities":[{"value":"123450987654321","begin":16,"end":31,"label":"IMEI"}]}
+{"id":718,"content":"네트워크 개통 신청서에 234561098765432를 기재하여 제출하였습니다. 당일 개통이 가능합니다.","has_sensitive":true,"entities":[{"value":"234561098765432","begin":15,"end":30,"label":"IMEI"}]}
+{"id":719,"content":"AS 센터 방문 예약 시 345672109876543 기기의 점검을 예약하였습니다. 내일 오전 10시입니다.","has_sensitive":true,"entities":[{"value":"345672109876543","begin":16,"end":31,"label":"IMEI"}]}
+{"id":720,"content":"통신사 변경 절차에서 456783210987654를 신규 시스템에 이전하였습니다. 번호 이동이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"456783210987654","begin":14,"end":29,"label":"IMEI"}]}
+{"id":721,"content":"제품 이력 조회 결과 567894321098765에는 수리 기록이 없습니다. 깨끗한 상태입니다.","has_sensitive":true,"entities":[{"value":"567894321098765","begin":12,"end":27,"label":"IMEI"}]}
+{"id":722,"content":"고객 계정 생성 시 678905432109876을 기기 식별코드로 사용하였습니다. 로그인이 가능합니다.","has_sensitive":true,"entities":[{"value":"678905432109876","begin":12,"end":27,"label":"IMEI"}]}
+{"id":723,"content":"위치 추적 서비스 활성화로 789016543210987을 GPS 시스템에 연동하였습니다. 실시간 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"789016543210987","begin":18,"end":33,"label":"IMEI"}]}
+{"id":724,"content":"펌웨어 자동 업데이트 대상에 890127654321098이 포함되었습니다. 오늘 밤 업데이트됩니다.","has_sensitive":true,"entities":[{"value":"890127654321098","begin":19,"end":34,"label":"IMEI"}]}
+{"id":725,"content":"상담 이력 검색 시스템에 901238765432109를 입력하여 과거 상담 내역을 확인하였습니다. 총 5건입니다.","has_sensitive":true,"entities":[{"value":"901238765432109","begin":16,"end":31,"label":"IMEI"}]}
+{"id":726,"content":"교환 제품 발송 준비에서 135790246813579로 새 단말기를 등록하였습니다. 내일 택배 출발합니다.","has_sensitive":true,"entities":[{"value":"135790246813579","begin":17,"end":32,"label":"IMEI"}]}
+{"id":727,"content":"개통 인증 완료 알림으로 246801357924680이 정상적으로 네트워크에 접속되었습니다. 통화가 가능합니다.","has_sensitive":true,"entities":[{"value":"246801357924680","begin":15,"end":30,"label":"IMEI"}]}
+{"id":728,"content":"보안 검증 절차에서 357912468035791을 이중 인증 시스템에 등록하였습니다. 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"357912468035791","begin":13,"end":28,"label":"IMEI"}]}
+{"id":729,"content":"매장 구매 영수증에 468023579146802가 인쇄되어 있습니다. 보증 신청 시 필요합니다.","has_sensitive":true,"entities":[{"value":"468023579146802","begin":13,"end":28,"label":"IMEI"}]}
+{"id":730,"content":"도난 방지 등록 완료로 579134680257913이 분실 추적 시스템에 추가되었습니다. 안전하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"579134680257913","begin":14,"end":29,"label":"IMEI"}]}
+{"id":731,"content":"웹사이트 제품 등록에서 680245791368024를 입력하여 온라인 보증서를 발급받았습니다. 다운로드 가능합니다.","has_sensitive":true,"entities":[{"value":"680245791368024","begin":15,"end":30,"label":"IMEI"}]}
+{"id":732,"content":"정기 점검 안내 발송으로 791356802479135 소유자에게 센터 방문 일정을 안내하였습니다. 예약하세요.","has_sensitive":true,"entities":[{"value":"791356802479135","begin":15,"end":30,"label":"IMEI"}]}
+{"id":733,"content":"제조 이력서 확인 결과 802467913580246은 2023년 7월 생산 제품입니다. 보증 기간은 유효합니다.","has_sensitive":true,"entities":[{"value":"802467913580246","begin":13,"end":28,"label":"IMEI"}]}
+{"id":734,"content":"통신 모듈 교체 작업으로 913578024691357을 새 부품에 재등록하였습니다. 연결이 정상화되었습니다.","has_sensitive":true,"entities":[{"value":"913578024691357","begin":16,"end":31,"label":"IMEI"}]}
+{"id":735,"content":"데이터 백업 완료 알림을 147258369014725 기기로 발송하였습니다. 복원이 언제든지 가능합니다.","has_sensitive":true,"entities":[{"value":"147258369014725","begin":15,"end":30,"label":"IMEI"}]}
+{"id":736,"content":"해외 로밍 활성화 신청에 258369470125836을 글로벌 네트워크에 등록하였습니다. 출국 후 즉시 사용됩니다.","has_sensitive":true,"entities":[{"value":"258369470125836","begin":16,"end":31,"label":"IMEI"}]}
+{"id":737,"content":"보안 패치 설치 완료로 369470581236947은 최신 보안 상태를 유지합니다. 위협이 차단되었습니다.","has_sensitive":true,"entities":[{"value":"369470581236947","begin":14,"end":29,"label":"IMEI"}]}
+{"id":738,"content":"중고 매입 심사에서 470581692347058은 외관 B등급으로 평가되었습니다. 시세의 75%를 제안합니다.","has_sensitive":true,"entities":[{"value":"470581692347058","begin":12,"end":27,"label":"IMEI"}]}
+{"id":739,"content":"유심 교체 재등록으로 581692703458169를 통신사에 동기화하였습니다. 서비스가 즉시 복구됩니다.","has_sensitive":true,"entities":[{"value":"581692703458169","begin":13,"end":28,"label":"IMEI"}]}
+{"id":740,"content":"원격 기술 지원 연결에 692703814569270을 지원 서버에 등록하였습니다. 전문가가 접속 중입니다.","has_sensitive":true,"entities":[{"value":"692703814569270","begin":14,"end":29,"label":"IMEI"}]}
+{"id":741,"content":"리콜 대상 확인 작업에서 803814925670381은 해당되지 않습니다. 계속 안전하게 사용하세요.","has_sensitive":true,"entities":[{"value":"803814925670381","begin":16,"end":31,"label":"IMEI"}]}
+{"id":742,"content":"배터리 교체 예약 접수로 914925036781492를 작업 목록에 추가하였습니다. 교체는 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"914925036781492","begin":16,"end":31,"label":"IMEI"}]}
+{"id":743,"content":"정품 인증 성공 통지를 159263748159263 사용자에게 전송하였습니다. 모든 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"159263748159263","begin":15,"end":30,"label":"IMEI"}]}
+{"id":744,"content":"보안 등급 최상위 인증으로 260374859260374는 금융 거래 수준입니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"260374859260374","begin":17,"end":32,"label":"IMEI"}]}
+{"id":745,"content":"품질 테스트 샘플 선정으로 371485960371485를 실험실로 보냈습니다. 결과는 일주일 내 통보됩니다.","has_sensitive":true,"entities":[{"value":"371485960371485","begin":17,"end":32,"label":"IMEI"}]}
+{"id":746,"content":"라이선스 인증 키 등록에 482596071482596을 사용하여 소프트웨어를 활성화하였습니다. 정상 작동합니다.","has_sensitive":true,"entities":[{"value":"482596071482596","begin":17,"end":32,"label":"IMEI"}]}
+{"id":747,"content":"데이터 마이그레이션 진행으로 593607182593607을 소스로 지정하였습니다. 전송 진행률 65%입니다.","has_sensitive":true,"entities":[{"value":"593607182593607","begin":20,"end":35,"label":"IMEI"}]}
+{"id":748,"content":"보증 연장 계약 체결에 604718293604718이 명시되어 있습니다. 추가 3년이 보장됩니다.","has_sensitive":true,"entities":[{"value":"604718293604718","begin":14,"end":29,"label":"IMEI"}]}
+{"id":749,"content":"성능 벤치마크 상위권 기록으로 715829304715829는 전체의 상위 5%입니다. 뛰어난 성능입니다.","has_sensitive":true,"entities":[{"value":"715829304715829","begin":21,"end":36,"label":"IMEI"}]}
+{"id":750,"content":"앱 설치 통계 분석에서 826930415826930으로 최근 6개월간 62개 앱이 설치되었습니다. 활발한 사용입니다.","has_sensitive":true,"entities":[{"value":"826930415826930","begin":15,"end":30,"label":"IMEI"}]}
+{"id":751,"content":"분실폰 찾기 기능 등록으로 937041526937041을 위치 서비스에 연동하였습니다. 언제든지 추적 가능합니다.","has_sensitive":true,"entities":[{"value":"937041526937041","begin":18,"end":33,"label":"IMEI"}]}
+{"id":752,"content":"하드웨어 진단 보고서에서 148152637148152는 모든 부품이 정상입니다. 추가 조치가 불필요합니다.","has_sensitive":true,"entities":[{"value":"148152637148152","begin":17,"end":32,"label":"IMEI"}]}
+{"id":753,"content":"프로토콜 자동 업그레이드로 259263748259263이 최신 버전으로 갱신되었습니다. 호환성이 개선되었습니다.","has_sensitive":true,"entities":[{"value":"259263748259263","begin":19,"end":34,"label":"IMEI"}]}
+{"id":754,"content":"프리미엄 서비스 가입으로 360374859360374가 VIP 회원으로 등록되었습니다. 특별 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"360374859360374","begin":17,"end":32,"label":"IMEI"}]}
+{"id":755,"content":"재판매 가치 재평가에서 471485960471485는 시세의 88%로 상향되었습니다. 상태가 우수합니다.","has_sensitive":true,"entities":[{"value":"471485960471485","begin":16,"end":31,"label":"IMEI"}]}
+{"id":756,"content":"5G 네트워크 호환성 확인으로 582596071582596은 완벽하게 지원됩니다. 최고 속도로 이용하세요.","has_sensitive":true,"entities":[{"value":"582596071582596","begin":19,"end":34,"label":"IMEI"}]}
+{"id":757,"content":"암호화 키 재생성 작업에 693607182693607을 시드로 사용하였습니다. 보안 강도가 증가했습니다.","has_sensitive":true,"entities":[{"value":"693607182693607","begin":16,"end":31,"label":"IMEI"}]}
+{"id":758,"content":"펌웨어 복구 성공 알림을 804718293804718 기기로 전송하였습니다. 모든 기능이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"804718293804718","begin":15,"end":30,"label":"IMEI"}]}
+{"id":759,"content":"공식 인증 마크 부여로 915829304915829가 정품으로 등록되었습니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"915829304915829","begin":14,"end":29,"label":"IMEI"}]}
+{"id":760,"content":"서비스 센터 방문 확인으로 159357159753159로 고객 정보를 조회하였습니다. 대기 시간은 20분입니다.","has_sensitive":true,"entities":[{"value":"159357159753159","begin":17,"end":32,"label":"IMEI"}]}
+{"id":761,"content":"소프트웨어 검증 통과로 260468260864260은 모든 표준을 충족합니다. 출시 승인되었습니다.","has_sensitive":true,"entities":[{"value":"260468260864260","begin":15,"end":30,"label":"IMEI"}]}
+{"id":762,"content":"보안 업데이트 배포 대상에 371579371975371이 추가되었습니다. 자동 설치가 예정되어 있습니다.","has_sensitive":true,"entities":[{"value":"371579371975371","begin":18,"end":33,"label":"IMEI"}]}
+{"id":763,"content":"고객 설문 참여 요청을 482680482086482 사용자에게 발송하였습니다. 참여 부탁드립니다.","has_sensitive":true,"entities":[{"value":"482680482086482","begin":15,"end":30,"label":"IMEI"}]}
+{"id":764,"content":"기기 교환 프로그램 신청으로 593791593197593을 접수하였습니다. 처리 중입니다.","has_sensitive":true,"entities":[{"value":"593791593197593","begin":19,"end":34,"label":"IMEI"}]}
+{"id":765,"content":"원격 잠금 기능 활성화로 604802604208604가 보안 서버와 연결되었습니다. 도난 시 보호됩니다.","has_sensitive":true,"entities":[{"value":"604802604208604","begin":16,"end":31,"label":"IMEI"}]}
+{"id":766,"content":"재고 관리 시스템 입력으로 715913715319715를 출고 대기 목록에 추가하였습니다. 배송 준비 중입니다.","has_sensitive":true,"entities":[{"value":"715913715319715","begin":18,"end":33,"label":"IMEI"}]}
+{"id":767,"content":"신호 품질 모니터링 대상으로 826024826420826을 선정하였습니다. 실시간 측정이 진행됩니다.","has_sensitive":true,"entities":[{"value":"826024826420826","begin":19,"end":34,"label":"IMEI"}]}
+{"id":768,"content":"보증 등록 확인 메일을 937135937531937 소유자에게 발송하였습니다. 2년 무상 보증이 시작됩니다.","has_sensitive":true,"entities":[{"value":"937135937531937","begin":14,"end":29,"label":"IMEI"}]}
+{"id":769,"content":"인증서 발급 절차 완료로 148246148642148이 공식 DB에 등록되었습니다. 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"148246148642148","begin":16,"end":31,"label":"IMEI"}]}
+{"id":770,"content":"네트워크 최적화 작업으로 259357259753259의 통신 속도가 30% 향상되었습니다. 체감이 가능합니다.","has_sensitive":true,"entities":[{"value":"259357259753259","begin":17,"end":32,"label":"IMEI"}]}
+{"id":771,"content":"자동 백업 시스템 등록으로 360468360864360을 클라우드에 연동하였습니다. 매일 백업됩니다.","has_sensitive":true,"entities":[{"value":"360468360864360","begin":17,"end":32,"label":"IMEI"}]}
+{"id":772,"content":"성능 최적화 적용 완료로 471579471975471은 응답 속도가 빨라졌습니다. 쾌적하게 사용하세요.","has_sensitive":true,"entities":[{"value":"471579471975471","begin":17,"end":32,"label":"IMEI"}]}
+{"id":773,"content":"분실 신고 접수 처리로 582680582086582가 경찰청 DB에 등록되었습니다. 사용이 차단되었습니다.","has_sensitive":true,"entities":[{"value":"582680582086582","begin":14,"end":29,"label":"IMEI"}]}
+{"id":774,"content":"품질 검사 샘플로 693791693197693이 선정되어 정밀 검사가 진행됩니다. 결과는 2주 후입니다.","has_sensitive":true,"entities":[{"value":"693791693197693","begin":11,"end":26,"label":"IMEI"}]}
+{"id":775,"content":"소유권 이전 절차 완료로 804802804208804가 새 소유자로 변경되었습니다. 권한이 이전되었습니다.","has_sensitive":true,"entities":[{"value":"804802804208804","begin":16,"end":31,"label":"IMEI"}]}
+{"id":776,"content":"통신사 변경 이력 조회에서 915913915319915는 3회의 변경 기록이 있습니다. 현재 정상 사용 중입니다.","has_sensitive":true,"entities":[{"value":"915913915319915","begin":17,"end":32,"label":"IMEI"}]}
+{"id":777,"content":"하드웨어 업그레이드 완료로 147025147520147이 새 보드에 등록되었습니다. 성능이 향상되었습니다.","has_sensitive":true,"entities":[{"value":"147025147520147","begin":19,"end":34,"label":"IMEI"}]}
+{"id":778,"content":"고객 지원 데이터 저장으로 258136258631258을 CRM에 등록하였습니다. 상담 이력이 보관됩니다.","has_sensitive":true,"entities":[{"value":"258136258631258","begin":17,"end":32,"label":"IMEI"}]}
+{"id":779,"content":"보안 점검 완료 결과 369247369742369에서 위협이 발견되지 않았습니다. 안전한 상태입니다.","has_sensitive":true,"entities":[{"value":"369247369742369","begin":13,"end":28,"label":"IMEI"}]}
+{"id":780,"content":"설정 복원 작업 완료로 480358480853480이 초기 상태로 되돌아갔습니다. 재설정하세요.","has_sensitive":true,"entities":[{"value":"480358480853480","begin":15,"end":30,"label":"IMEI"}]}
+{"id":781,"content":"리퍼 프로그램 대기 중인 591469591964591은 재생 작업이 예정되어 있습니다. 재판매됩니다.","has_sensitive":true,"entities":[{"value":"591469591964591","begin":17,"end":32,"label":"IMEI"}]}
+{"id":782,"content":"최신 버전 상태 확인으로 602570602075602는 업데이트가 불필요합니다. 최신 상태입니다.","has_sensitive":true,"entities":[{"value":"602570602075602","begin":16,"end":31,"label":"IMEI"}]}
+{"id":783,"content":"사용 패턴 분석 결과 713681713186713에게 맞춤 추천이 제공됩니다. 서비스가 개선됩니다.","has_sensitive":true,"entities":[{"value":"713681713186713","begin":13,"end":28,"label":"IMEI"}]}
+{"id":784,"content":"클라우드 동기화 시작으로 824792824297824를 계정에 연결하였습니다. 자동 백업이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"824792824297824","begin":17,"end":32,"label":"IMEI"}]}
+{"id":785,"content":"통신망 복구 작업 완료로 935803935308935의 서비스가 정상화되었습니다. 통화가 가능합니다.","has_sensitive":true,"entities":[{"value":"935803935308935","begin":16,"end":31,"label":"IMEI"}]}
+{"id":786,"content":"데이터 삭제 요청 처리로 146914146419146의 모든 정보가 제거되었습니다. 개인정보 보호 완료입니다.","has_sensitive":true,"entities":[{"value":"146914146419146","begin":16,"end":31,"label":"IMEI"}]}
+{"id":787,"content":"보증 연장 승인 완료로 257025257520257 계약이 체결되었습니다. 추가 2년 보장입니다.","has_sensitive":true,"entities":[{"value":"257025257520257","begin":15,"end":30,"label":"IMEI"}]}
+{"id":788,"content":"성능 모니터링 정상 결과로 368136368631368은 최적 상태를 유지합니다. 정기 점검 완료입니다.","has_sensitive":true,"entities":[{"value":"368136368631368","begin":18,"end":33,"label":"IMEI"}]}
+{"id":789,"content":"보안 인증서 발급 완료로 479247479742479를 암호화에 등록하였습니다. 통신이 보호됩니다.","has_sensitive":true,"entities":[{"value":"479247479742479","begin":17,"end":32,"label":"IMEI"}]}
+{"id":790,"content":"VIP 등급 혜택 제공으로 580358580853580 사용자에게 특별 서비스가 시작됩니다. 이용하세요.","has_sensitive":true,"entities":[{"value":"580358580853580","begin":15,"end":30,"label":"IMEI"}]}
+{"id":791,"content":"원격 관리 연결 완료로 691469691964691을 지원 시스템에 등록하였습니다. 원격 지원 가능합니다.","has_sensitive":true,"entities":[{"value":"691469691964691","begin":15,"end":30,"label":"IMEI"}]}
+{"id":792,"content":"품질 검증 출고 승인으로 802570802075802는 배송 준비가 완료되었습니다. 출발 예정입니다.","has_sensitive":true,"entities":[{"value":"802570802075802","begin":17,"end":32,"label":"IMEI"}]}
+{"id":793,"content":"위치 추적 연동 완료로 913681913186913이 실시간 시스템에 연결되었습니다. 분실 시 찾을 수 있습니다.","has_sensitive":true,"entities":[{"value":"913681913186913","begin":15,"end":30,"label":"IMEI"}]}
+{"id":794,"content":"프로필 최적화 개선으로 159792159297159의 네트워크가 안정화되었습니다. 속도가 빨라졌습니다.","has_sensitive":true,"entities":[{"value":"159792159297159","begin":17,"end":32,"label":"IMEI"}]}
+{"id":795,"content":"보상 프로그램 포인트 적립으로 260803260308260에 적립이 시작됩니다. 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"260803260308260","begin":20,"end":35,"label":"IMEI"}]}
+{"id":796,"content":"진단 앱 실행 결과 371914371419371은 건강 상태 94점입니다. 매우 양호한 상태입니다.","has_sensitive":true,"entities":[{"value":"371914371419371","begin":12,"end":27,"label":"IMEI"}]}
+{"id":797,"content":"국제 로밍 목록 등록으로 482025482520482가 해외 네트워크에 연동되었습니다. 출국 후 사용하세요.","has_sensitive":true,"entities":[{"value":"482025482520482","begin":17,"end":32,"label":"IMEI"}]}
+{"id":798,"content":"기술 지원 문제 해결로 593136593631593의 오류가 수정되었습니다. 모든 기능이 정상입니다.","has_sensitive":true,"entities":[{"value":"593136593631593","begin":15,"end":30,"label":"IMEI"}]}
+{"id":799,"content":"라이선스 1년 연장으로 604247604742604는 계속 이용 가능합니다. 서비스를 사용하세요.","has_sensitive":true,"entities":[{"value":"604247604742604","begin":15,"end":30,"label":"IMEI"}]}
+{"id":800,"content":"피드백 등록 감사로 715358715853715 사용자의 의견이 반영됩니다. 소중한 의견입니다.","has_sensitive":true,"entities":[{"value":"715358715853715","begin":12,"end":27,"label":"IMEI"}]}
+{"id":801,"content":"메모리 최적화 공간 확보로 826469826964826은 여유 공간이 충분합니다. 계속 사용하세요.","has_sensitive":true,"entities":[{"value":"826469826964826","begin":18,"end":33,"label":"IMEI"}]}
+{"id":802,"content":"속도 테스트 최고 기록으로 937570937075937은 다운로드 520Mbps입니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"937570937075937","begin":17,"end":32,"label":"IMEI"}]}
+{"id":803,"content":"업데이트 알림 전송으로 148681148186148 사용자에게 공지되었습니다. 업데이트하세요.","has_sensitive":true,"entities":[{"value":"148681148186148","begin":15,"end":30,"label":"IMEI"}]}
+{"id":804,"content":"교환 승인 처리 완료로 259792259297259가 새 제품으로 변경되었습니다. 내일 발송됩니다.","has_sensitive":true,"entities":[{"value":"259792259297259","begin":15,"end":30,"label":"IMEI"}]}
+{"id":805,"content":"서비스 가입 계약으로 360803360308360이 등록되었습니다. 개통은 오늘 중 완료됩니다.","has_sensitive":true,"entities":[{"value":"360803360308360","begin":13,"end":28,"label":"IMEI"}]}
+{"id":806,"content":"배터리 수명 82% 유지로 471914471419471은 교체가 필요 없습니다. 계속 사용하세요.","has_sensitive":true,"entities":[{"value":"471914471419471","begin":17,"end":32,"label":"IMEI"}]}
+{"id":807,"content":"계정 활성화 로그인으로 582025582520582로 접속이 가능합니다. 모든 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"582025582520582","begin":16,"end":31,"label":"IMEI"}]}
+{"id":808,"content":"설정 초기화 복원으로 693136693631693이 기본값으로 돌아갔습니다. 연결 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"693136693631693","begin":15,"end":30,"label":"IMEI"}]}
+{"id":809,"content":"품질 보증 가입 완료로 804247804742804가 프리미엄에 등록되었습니다. 승인 완료입니다.","has_sensitive":true,"entities":[{"value":"804247804742804","begin":15,"end":30,"label":"IMEI"}]}
+{"id":810,"content":"호환성 확인 완벽 지원으로 915358915853915는 모든 네트워크와 호환됩니다. 제약이 없습니다.","has_sensitive":true,"entities":[{"value":"915358915853915","begin":19,"end":34,"label":"IMEI"}]}
+{"id":811,"content":"데이터 전송 시작 설정으로 159469159964159를 송신으로 지정하였습니다. 전송 중입니다.","has_sensitive":true,"entities":[{"value":"159469159964159","begin":18,"end":33,"label":"IMEI"}]}
+{"id":812,"content":"불만 처리 해결 완료로 260570260075260 케이스가 종료되었습니다. 문제가 해결되었습니다.","has_sensitive":true,"entities":[{"value":"260570260075260","begin":15,"end":30,"label":"IMEI"}]}
+{"id":813,"content":"업데이트 예약 등록으로 371681371186371이 자동 업데이트에 추가되었습니다. 새벽에 진행됩니다.","has_sensitive":true,"entities":[{"value":"371681371186371","begin":15,"end":30,"label":"IMEI"}]}
+{"id":814,"content":"정책 적용 보안 강화로 482792482297482에 기업 정책이 설정되었습니다. 보안이 강화되었습니다.","has_sensitive":true,"entities":[{"value":"482792482297482","begin":15,"end":30,"label":"IMEI"}]}
+{"id":815,"content":"매뉴얼 다운로드 인증으로 593803593308593을 확인하였습니다. 파일이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"593803593308593","begin":17,"end":32,"label":"IMEI"}]}
+{"id":816,"content":"소음 테스트 기준 통과로 604914604419604는 기준치 이하입니다. 품질 검사 통과입니다.","has_sensitive":true,"entities":[{"value":"604914604419604","begin":17,"end":32,"label":"IMEI"}]}
+{"id":817,"content":"요금제 변경 전환 완료로 715025715520715가 새 요금제로 적용되었습니다. 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"715025715520715","begin":17,"end":32,"label":"IMEI"}]}
+{"id":818,"content":"푸시 알림 활성화 전송으로 826136826631826에 실시간 알림이 시작됩니다. 중요 정보를 받으세요.","has_sensitive":true,"entities":[{"value":"826136826631826","begin":18,"end":33,"label":"IMEI"}]}
+{"id":819,"content":"배터리 관리 효율 모드로 937247937742937이 전력 절약 상태입니다. 사용 시간이 늘어납니다.","has_sensitive":true,"entities":[{"value":"937247937742937","begin":17,"end":32,"label":"IMEI"}]}
+{"id":820,"content":"트래픽 분석 정상 범위로 148358148853148은 이상이 없습니다. 안정적으로 사용 중입니다.","has_sensitive":true,"entities":[{"value":"148358148853148","begin":17,"end":32,"label":"IMEI"}]}
+{"id":821,"content":"리콜 통지 대상 아님으로 259469259964259는 안심하고 사용하세요. 문제가 없습니다.","has_sensitive":true,"entities":[{"value":"259469259964259","begin":16,"end":31,"label":"IMEI"}]}
+{"id":822,"content":"센서 캘리브레이션 향상으로 370570370075370의 정밀도가 개선되었습니다. 측정이 정확해졌습니다.","has_sensitive":true,"entities":[{"value":"370570370075370","begin":19,"end":34,"label":"IMEI"}]}
+{"id":823,"content":"호환성 테스트 표준 지원으로 481681481186481은 모든 기준을 만족합니다. 국제 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"481681481186481","begin":20,"end":35,"label":"IMEI"}]}
+{"id":824,"content":"VIP 등록 우선 지원으로 592792592297592가 특별 서비스 대상입니다. 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"592792592297592","begin":16,"end":31,"label":"IMEI"}]}
+{"id":825,"content":"화면 보정 색상 정확으로 603803603308603은 추가 조정이 불필요합니다. 완벽한 상태입니다.","has_sensitive":true,"entities":[{"value":"603803603308603","begin":16,"end":31,"label":"IMEI"}]}
+{"id":826,"content":"주파수 스캔 모든 대역으로 714914714419714를 테스트에 사용하였습니다. 전 대역 감지합니다.","has_sensitive":true,"entities":[{"value":"714914714419714","begin":19,"end":34,"label":"IMEI"}]}
+{"id":827,"content":"안전 인증 기준 만족으로 825025825520825는 인증 마크를 받았습니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"825025825520825","begin":17,"end":32,"label":"IMEI"}]}
+{"id":828,"content":"음향 품질 고음질 지원으로 936136936631936은 오디오가 우수합니다. 최고 음질입니다.","has_sensitive":true,"entities":[{"value":"936136936631936","begin":18,"end":33,"label":"IMEI"}]}
+{"id":829,"content":"암호화 강화 보안 키로 147247147742147을 등록하였습니다. 데이터가 안전하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"147247147742147","begin":15,"end":30,"label":"IMEI"}]}
+{"id":830,"content":"데이터 이전 성공 완료로 258358258853258을 타깃으로 설정하였습니다. 이전이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"258358258853258","begin":17,"end":32,"label":"IMEI"}]}
+{"id":831,"content":"터치 반응 매우 빠름으로 369469369964369는 평균 45ms입니다. 반응성이 뛰어납니다.","has_sensitive":true,"entities":[{"value":"369469369964369","begin":16,"end":31,"label":"IMEI"}]}
+{"id":832,"content":"사용량 분석 정상 수준으로 480570480075480은 월 52GB 사용입니다. 정상 범위입니다.","has_sensitive":true,"entities":[{"value":"480570480075480","begin":17,"end":32,"label":"IMEI"}]}
+{"id":833,"content":"지원 요청 접수 배정으로 591681591186591이 케이스로 등록되었습니다. 담당자 배정 완료입니다.","has_sensitive":true,"entities":[{"value":"591681591186591","begin":17,"end":32,"label":"IMEI"}]}
+{"id":834,"content":"GPS 정확도 오차 2m로 702792702297702는 위치가 정확합니다. 추적이 정밀합니다.","has_sensitive":true,"entities":[{"value":"702792702297702","begin":16,"end":31,"label":"IMEI"}]}
+{"id":835,"content":"장애 이력 기록 없음으로 813803813308813은 안정적으로 운영됩니다. 문제가 없습니다.","has_sensitive":true,"entities":[{"value":"813803813308813","begin":17,"end":32,"label":"IMEI"}]}
+{"id":836,"content":"만족도 평가 만점 기록으로 924914924419924 사용자는 5점을 주셨습니다. 우수한 평가입니다.","has_sensitive":true,"entities":[{"value":"924914924419924","begin":18,"end":33,"label":"IMEI"}]}
+{"id":837,"content":"카메라 화질 4K 지원으로 135025135520135는 촬영 품질이 뛰어납니다. 고화질 촬영 가능합니다.","has_sensitive":true,"entities":[{"value":"135025135520135","begin":16,"end":31,"label":"IMEI"}]}
+{"id":838,"content":"핸드오버 성능 끊김 없음으로 246136246631246은 이동 중에도 안정적입니다. 통화가 유지됩니다.","has_sensitive":true,"entities":[{"value":"246136246631246","begin":19,"end":34,"label":"IMEI"}]}
+{"id":839,"content":"에너지 효율 1등급으로 357247357742357은 전력 소비가 매우 적습니다. 친환경 제품입니다.","has_sensitive":true,"entities":[{"value":"357247357742357","begin":15,"end":30,"label":"IMEI"}]}
+{"id":840,"content":"진동 모터 정상 작동으로 468358468853468은 촉각 피드백이 명확합니다. 반응이 정확합니다.","has_sensitive":true,"entities":[{"value":"468358468853468","begin":16,"end":31,"label":"IMEI"}]}
+{"id":841,"content":"혼잡도 분석 연결 안정으로 579469579964579는 문제가 없습니다. 네트워크가 원활합니다.","has_sensitive":true,"entities":[{"value":"579469579964579","begin":17,"end":32,"label":"IMEI"}]}
+{"id":842,"content":"포인트 적립 5000점으로 680570680075680에 적립되었습니다. 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"680570680075680","begin":16,"end":31,"label":"IMEI"}]}
+{"id":843,"content":"블루투스 테스트 동시 10개로 791681791186791은 연결성이 우수합니다. 다중 연결 가능합니다.","has_sensitive":true,"entities":[{"value":"791681791186791","begin":19,"end":34,"label":"IMEI"}]}
+{"id":844,"content":"인증 갱신 새 인증서로 802792802297802는 보안이 업데이트되었습니다. 안전하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"802792802297802","begin":15,"end":30,"label":"IMEI"}]}
+{"id":845,"content":"환경 인증 친환경 제품으로 913803913308913을 등록하였습니다. 지구를 생각합니다.","has_sensitive":true,"entities":[{"value":"913803913308913","begin":18,"end":33,"label":"IMEI"}]}
+{"id":846,"content":"방수 테스트 IP68 등급으로 124914124419124는 물속에서도 안전합니다. 완벽한 방수입니다.","has_sensitive":true,"entities":[{"value":"124914124419124","begin":19,"end":34,"label":"IMEI"}]}
+{"id":847,"content":"지연 측정 평균 15ms로 235025235520235는 실시간 통신에 최적입니다. 매우 빠릅니다.","has_sensitive":true,"entities":[{"value":"235025235520235","begin":15,"end":30,"label":"IMEI"}]}
+{"id":848,"content":"예약 관리 내일 3시로 346136346631346을 예약 목록에 추가하였습니다. 방문하세요.","has_sensitive":true,"entities":[{"value":"346136346631346","begin":14,"end":29,"label":"IMEI"}]}
+{"id":849,"content":"열 관리 최적 온도로 457247457742457은 과열 위험이 없습니다. 안전하게 작동합니다.","has_sensitive":true,"entities":[{"value":"457247457742457","begin":13,"end":28,"label":"IMEI"}]}
+{"id":850,"content":"QoS 설정 우선순위 높음으로 568358568853568을 지정하였습니다. 전송이 빨라집니다.","has_sensitive":true,"entities":[{"value":"568358568853568","begin":19,"end":34,"label":"IMEI"}]}
+{"id":851,"content":"디자인 어워드 우수 디자인으로 679469679964679를 선정하였습니다. 수상작입니다.","has_sensitive":true,"entities":[{"value":"679469679964679","begin":21,"end":36,"label":"IMEI"}]}
+{"id":852,"content":"마이크 감도 소음 제거로 780570780075780은 녹음 품질이 뛰어납니다. 선명한 음질입니다.","has_sensitive":true,"entities":[{"value":"780570780075780","begin":16,"end":31,"label":"IMEI"}]}
+{"id":853,"content":"커버리지 맵 테스트 지점으로 891681891186891을 추가하였습니다. 신호가 측정됩니다.","has_sensitive":true,"entities":[{"value":"891681891186891","begin":20,"end":35,"label":"IMEI"}]}
+{"id":854,"content":"보상 지급 기프트카드로 902792902297902에 발송하였습니다. 감사의 마음입니다.","has_sensitive":true,"entities":[{"value":"902792902297902","begin":17,"end":32,"label":"IMEI"}]}
+{"id":855,"content":"NFC 테스트 정상 작동으로 123803123308123은 모바일 결제가 가능합니다. 편리하게 사용하세요.","has_sensitive":true,"entities":[{"value":"123803123308123","begin":17,"end":32,"label":"IMEI"}]}
+{"id":856,"content":"슬라이싱 설정 전용 할당으로 234914234419234를 프리미엄에 배정하였습니다. 대역폭이 보장됩니다.","has_sensitive":true,"entities":[{"value":"234914234419234","begin":20,"end":35,"label":"IMEI"}]}
+{"id":857,"content":"베타 테스트 참여 기기로 345025345520345를 선정하였습니다. 신규 기능을 체험하세요.","has_sensitive":true,"entities":[{"value":"345025345520345","begin":16,"end":31,"label":"IMEI"}]}
+{"id":858,"content":"스피커 출력 최대 음량으로 456136456631456은 오디오가 명확합니다. 충분한 볼륨입니다.","has_sensitive":true,"entities":[{"value":"456136456631456","begin":18,"end":33,"label":"IMEI"}]}
+{"id":859,"content":"채널 최적화 메인 채널로 567247567742567을 설정하였습니다. 간섭이 최소화됩니다.","has_sensitive":true,"entities":[{"value":"567247567742567","begin":17,"end":32,"label":"IMEI"}]}
+{"id":860,"content":"멤버십 등록 평생 회원으로 678358678853678을 등록하였습니다. 영구 혜택입니다.","has_sensitive":true,"entities":[{"value":"678358678853678","begin":18,"end":33,"label":"IMEI"}]}
+{"id":861,"content":"자이로 정확도 오차 없음으로 789469789964789는 VR에 적합합니다. 정밀한 감지입니다.","has_sensitive":true,"entities":[{"value":"789469789964789","begin":19,"end":34,"label":"IMEI"}]}
+{"id":862,"content":"엣지 컴퓨팅 저지연 서비스로 890570890075890을 등록하였습니다. 응답이 매우 빠릅니다.","has_sensitive":true,"entities":[{"value":"890570890075890","begin":20,"end":35,"label":"IMEI"}]}
+{"id":863,"content":"매뉴얼 개정판 예시로 901681901186901을 사용하였습니다. 설명이 명확해졌습니다.","has_sensitive":true,"entities":[{"value":"901681901186901","begin":14,"end":29,"label":"IMEI"}]}
+{"id":864,"content":"가속도계 캘리브레이션 정밀도로 112792112297112는 걸음 수가 정확합니다. 측정이 향상되었습니다.","has_sensitive":true,"entities":[{"value":"112792112297112","begin":21,"end":36,"label":"IMEI"}]}
+{"id":865,"content":"이중화 설정 백업 경로로 223803223308223을 지정하였습니다. 자동 전환됩니다.","has_sensitive":true,"entities":[{"value":"223803223308223","begin":17,"end":32,"label":"IMEI"}]}
+{"id":866,"content":"설문 응답자 참여 쿠폰으로 334914334419334를 선정하였습니다. 발송되었습니다.","has_sensitive":true,"entities":[{"value":"334914334419334","begin":18,"end":33,"label":"IMEI"}]}
+{"id":867,"content":"지문 센서 99% 정확도로 445025445520445는 보안성이 우수합니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"445025445520445","begin":17,"end":32,"label":"IMEI"}]}
+{"id":868,"content":"트래픽 셰이핑 효율 관리로 556136556631556의 대역폭이 안정됩니다. 최적화되었습니다.","has_sensitive":true,"entities":[{"value":"556136556631556","begin":19,"end":34,"label":"IMEI"}]}
+{"id":869,"content":"앱 스토어 개발자 계정으로 667247667742667을 등록하였습니다. 배포가 가능합니다.","has_sensitive":true,"entities":[{"value":"667247667742667","begin":18,"end":33,"label":"IMEI"}]}
+{"id":870,"content":"얼굴 인식 0.2초 해제로 778358778853778은 매우 빠릅니다. 편리한 잠금 해제입니다.","has_sensitive":true,"entities":[{"value":"778358778853778","begin":16,"end":31,"label":"IMEI"}]}
+{"id":871,"content":"프로비저닝 자동 구성으로 889469889964889를 추가하였습니다. 설정이 간편합니다.","has_sensitive":true,"entities":[{"value":"889469889964889","begin":18,"end":33,"label":"IMEI"}]}
+{"id":872,"content":"지원 티켓 참조 번호로 990570990075990을 배정하였습니다. 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"990570990075990","begin":15,"end":30,"label":"IMEI"}]}
+{"id":873,"content":"무선 충전 90% 효율로 101681101186101은 빠른 충전이 가능합니다. 편리하게 사용하세요.","has_sensitive":true,"entities":[{"value":"101681101186101","begin":16,"end":31,"label":"IMEI"}]}
+{"id":874,"content":"부하 분산 경로 분산으로 212792212297212를 포함하였습니다. 혼잡도가 감소합니다.","has_sensitive":true,"entities":[{"value":"212792212297212","begin":17,"end":32,"label":"IMEI"}]}
+{"id":875,"content":"보증서 재발급 승인으로 323803323308323을 제출하셨습니다. 재발급됩니다.","has_sensitive":true,"entities":[{"value":"323803323308323","begin":16,"end":31,"label":"IMEI"}]}
+{"id":876,"content":"환경 센서 온습도 정확으로 434914434419434는 실내 관리에 유용합니다. 정밀한 측정입니다.","has_sensitive":true,"entities":[{"value":"434914434419434","begin":18,"end":33,"label":"IMEI"}]}
+{"id":877,"content":"품질 모니터링 샘플 선정으로 545025545520545를 등록하였습니다. 통계가 수집됩니다.","has_sensitive":true,"entities":[{"value":"545025545520545","begin":20,"end":35,"label":"IMEI"}]}
+{"id":878,"content":"이벤트 당첨자 경품 발송으로 656136656631656이 선정되었습니다. 축하드립니다.","has_sensitive":true,"entities":[{"value":"656136656631656","begin":20,"end":35,"label":"IMEI"}]}
+{"id":879,"content":"메모리 벤치마크 2.2GB/s로 767247767742767은 매우 빠릅니다. 최고 속도입니다.","has_sensitive":true,"entities":[{"value":"767247767742767","begin":19,"end":34,"label":"IMEI"}]}
+{"id":880,"content":"보안 감사 취약점 없음으로 878358878853878은 보안 수준이 높습니다. 안전합니다.","has_sensitive":true,"entities":[{"value":"878358878853878","begin":19,"end":34,"label":"IMEI"}]}
+{"id":881,"content":"파트너십 협력사 코드로 989469989964989를 등록하였습니다. 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"989469989964989","begin":17,"end":32,"label":"IMEI"}]}
+{"id":882,"content":"밝기 측정 최대 850nit로 100570100075100은 야외에서도 선명합니다. 높은 밝기입니다.","has_sensitive":true,"entities":[{"value":"100570100075100","begin":18,"end":33,"label":"IMEI"}]}
+{"id":883,"content":"우선순위 큐 최상위로 211681211186211을 지정하였습니다. 지연 없이 처리됩니다.","has_sensitive":true,"entities":[{"value":"211681211186211","begin":14,"end":29,"label":"IMEI"}]}
+{"id":884,"content":"선호도 분석 맞춤 서비스로 322792322297322를 등록하였습니다. 만족도가 향상됩니다.","has_sensitive":true,"entities":[{"value":"322792322297322","begin":19,"end":34,"label":"IMEI"}]}
+{"id":885,"content":"리프레시 레이트 144Hz로 433803433308433은 화면이 매우 부드럽습니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"433803433308433","begin":17,"end":32,"label":"IMEI"}]}
+{"id":886,"content":"페일오버 테스트 1초 전환으로 544914544419544는 안정성이 보장됩니다. 즉시 복구됩니다.","has_sensitive":true,"entities":[{"value":"544914544419544","begin":20,"end":35,"label":"IMEI"}]}
+{"id":887,"content":"출시 이벤트 사전 등록으로 655025655520655를 등록하시면 사은품을 드립니다. 신청하세요.","has_sensitive":true,"entities":[{"value":"655025655520655","begin":19,"end":34,"label":"IMEI"}]}
+{"id":888,"content":"터치 샘플링 280Hz로 766136766631766은 게임에 최적입니다. 반응이 빠릅니다.","has_sensitive":true,"entities":[{"value":"766136766631766","begin":15,"end":30,"label":"IMEI"}]}
+{"id":889,"content":"에러율 모니터링 거의 없음으로 877247877742877은 통신이 우수합니다. 안정적입니다.","has_sensitive":true,"entities":[{"value":"877247877742877","begin":20,"end":35,"label":"IMEI"}]}
+{"id":890,"content":"추천 프로그램 추천인 코드로 988358988853988을 입력하였습니다. 양측 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"988358988853988","begin":20,"end":35,"label":"IMEI"}]}
+{"id":891,"content":"수명 예측 6년 이상으로 199469199964199는 내구성이 매우 뛰어납니다. 오래 사용하세요.","has_sensitive":true,"entities":[{"value":"199469199964199","begin":15,"end":30,"label":"IMEI"}]}
+{"id":892,"content":"핑 안정성 변동 3ms로 210570210075210은 게임이 매우 원활합니다. 최적 환경입니다.","has_sensitive":true,"entities":[{"value":"210570210075210","begin":15,"end":30,"label":"IMEI"}]}
+{"id":893,"content":"컨퍼런스 참가 등록으로 321681321186321을 등록하였습니다. 최신 기술을 공유합니다.","has_sensitive":true,"entities":[{"value":"321681321186321","begin":17,"end":32,"label":"IMEI"}]}
+{"id":894,"content":"와이파이 속도 기가비트로 432792432297432는 다운로드가 매우 빠릅니다. 최고 속도입니다.","has_sensitive":true,"entities":[{"value":"432792432297432","begin":18,"end":33,"label":"IMEI"}]}
+{"id":895,"content":"로밍 프로필 신규 국가로 543803543308543을 추가하였습니다. 여행이 더 편리해집니다.","has_sensitive":true,"entities":[{"value":"543803543308543","begin":17,"end":32,"label":"IMEI"}]}
+{"id":896,"content":"등급 상향 플래티넘으로 654914654419654를 승급하였습니다. 최고 등급 혜택입니다.","has_sensitive":true,"entities":[{"value":"654914654419654","begin":16,"end":31,"label":"IMEI"}]}
+{"id":897,"content":"안테나 성능 수신 우수로 765025765520765는 신호를 잘 잡습니다. 감도가 뛰어납니다.","has_sensitive":true,"entities":[{"value":"765025765520765","begin":17,"end":32,"label":"IMEI"}]}
+{"id":898,"content":"베어러 변경 5G 전환으로 876136876631876은 속도가 크게 향상됩니다. 빠른 통신입니다.","has_sensitive":true,"entities":[{"value":"876136876631876","begin":17,"end":32,"label":"IMEI"}]}
+{"id":899,"content":"매입 가격 시세 95%로 987247987742987을 평가하였습니다. 매우 높은 가격입니다.","has_sensitive":true,"entities":[{"value":"987247987742987","begin":16,"end":31,"label":"IMEI"}]}
+{"id":900,"content":"듀얼심 테스트 안정 운영으로 198358198853198은 두 회선을 지원합니다. 매우 편리합니다.","has_sensitive":true,"entities":[{"value":"198358198853198","begin":19,"end":34,"label":"IMEI"}]}
+{"id":901,"content":"주파수 집성 5밴드로 209469209964209를 구성하였습니다. 초고속 통신입니다.","has_sensitive":true,"entities":[{"value":"209469209964209","begin":14,"end":29,"label":"IMEI"}]}
+{"id":902,"content":"보상 쿠폰 무료 수리로 310570310075310에 발급하였습니다. 불편을 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"310570310075310","begin":15,"end":30,"label":"IMEI"}]}
+{"id":903,"content":"USB 속도 USB 3.2로 421681421186421은 전송이 매우 빠릅니다. 최신 규격입니다.","has_sensitive":true,"entities":[{"value":"421681421186421","begin":16,"end":31,"label":"IMEI"}]}
+{"id":904,"content":"다중 연결 최적화로 532792532297532를 관리합니다. 연결이 매우 안정적입니다.","has_sensitive":true,"entities":[{"value":"532792532297532","begin":13,"end":28,"label":"IMEI"}]}
+{"id":905,"content":"품질 인증 ISO 기준으로 643803643308643은 품질이 보증됩니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"643803643308643","begin":17,"end":32,"label":"IMEI"}]}
+{"id":906,"content":"적외선 센서 12m 감지로 754914754419754는 리모컨이 매우 우수합니다. 넓은 범위입니다.","has_sensitive":true,"entities":[{"value":"754914754419754","begin":17,"end":32,"label":"IMEI"}]}
+{"id":907,"content":"SIM 인증 정상 등록으로 865025865520865는 접속이 허용됩니다. 네트워크 사용 가능입니다.","has_sensitive":true,"entities":[{"value":"865025865520865","begin":16,"end":31,"label":"IMEI"}]}
+{"id":908,"content":"할인 쿠폰 40% 할인으로 976136976631976에 발송하였습니다. 사용하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"976136976631976","begin":17,"end":32,"label":"IMEI"}]}
+{"id":909,"content":"압력 센서 해발고도 정확으로 187247187742187은 등산에 매우 유용합니다. 정밀한 측정입니다.","has_sensitive":true,"entities":[{"value":"187247187742187","begin":20,"end":35,"label":"IMEI"}]}
+{"id":910,"content":"가상화 환경 테스트 노드로 298358298853298을 배치하였습니다. 성능 검증이 진행됩니다.","has_sensitive":true,"entities":[{"value":"298358298853298","begin":19,"end":34,"label":"IMEI"}]}
+{"id":911,"content":"재활용 프로그램 수거 대상으로 309469309964309를 등록하였습니다. 환경 보호에 동참합니다.","has_sensitive":true,"entities":[{"value":"309469309964309","begin":21,"end":36,"label":"IMEI"}]}
+{"id":912,"content":"모뎀 업데이트 최신 버전으로 410570410075410은 성능이 개선되었습니다. 통신이 빨라집니다.","has_sensitive":true,"entities":[{"value":"410570410075410","begin":20,"end":35,"label":"IMEI"}]}
+{"id":913,"content":"절약 모드 저전력으로 521681521186521을 전환하였습니다. 배터리가 오래 갑니다.","has_sensitive":true,"entities":[{"value":"521681521186521","begin":14,"end":29,"label":"IMEI"}]}
+{"id":914,"content":"긴급 지원 우선 처리로 632792632297632를 등록하였습니다. 즉시 대응합니다.","has_sensitive":true,"entities":[{"value":"632792632297632","begin":15,"end":30,"label":"IMEI"}]}
+{"id":915,"content":"컬러 정확도 DCI-P3 100%로 743803743308743은 색재현이 완벽합니다. 최고 품질입니다.","has_sensitive":true,"entities":[{"value":"743803743308743","begin":22,"end":37,"label":"IMEI"}]}
+{"id":916,"content":"패킷 손실률 0.005% 미만으로 854914854419854는 통신이 매우 안정적입니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"854914854419854","begin":21,"end":36,"label":"IMEI"}]}
+{"id":917,"content":"글로벌 보증 전세계 A/S로 965025965520965를 등록하였습니다. 어디서나 받을 수 있습니다.","has_sensitive":true,"entities":[{"value":"965025965520965","begin":18,"end":33,"label":"IMEI"}]}
+{"id":918,"content":"자동 밝기 조도 반응으로 176136176631176은 눈이 편안합니다. 자동 조절됩니다.","has_sensitive":true,"entities":[{"value":"176136176631176","begin":17,"end":32,"label":"IMEI"}]}
+{"id":919,"content":"어그리게이션 6CA 활성화로 287247287742287은 최고 속도입니다. 초고속 통신입니다.","has_sensitive":true,"entities":[{"value":"287247287742287","begin":20,"end":35,"label":"IMEI"}]}
+{"id":920,"content":"충성도 보상 15000포인트로 398358398853398에 적립되었습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"398358398853398","begin":20,"end":35,"label":"IMEI"}]}
+{"id":921,"content":"홍채 인식 금융 보안으로 409469409964409는 안전하게 사용하세요. 최고 보안입니다.","has_sensitive":true,"entities":[{"value":"409469409964409","begin":17,"end":32,"label":"IMEI"}]}
+{"id":922,"content":"음성 품질 HD Voice로 510570510075510은 통화가 매우 선명합니다. 고음질 통화입니다.","has_sensitive":true,"entities":[{"value":"510570510075510","begin":18,"end":33,"label":"IMEI"}]}
+{"id":923,"content":"선물 포장 정성껏 포장으로 621681621186621을 등록하였습니다. 특별하게 준비합니다.","has_sensitive":true,"entities":[{"value":"621681621186621","begin":19,"end":34,"label":"IMEI"}]}
+{"id":924,"content":"근접 센서 즉각 반응으로 732792732297732는 오작동이 방지됩니다. 정확한 감지입니다.","has_sensitive":true,"entities":[{"value":"732792732297732","begin":17,"end":32,"label":"IMEI"}]}
+{"id":925,"content":"망 중립성 동등 처리로 843803843308843은 공정한 서비스입니다. 차별이 없습니다.","has_sensitive":true,"entities":[{"value":"843803843308843","begin":16,"end":31,"label":"IMEI"}]}
+{"id":926,"content":"생일 쿠폰 축하 선물로 954914954419954에 발송하였습니다. 특별한 날입니다.","has_sensitive":true,"entities":[{"value":"954914954419954","begin":15,"end":30,"label":"IMEI"}]}
+{"id":927,"content":"AI 프로세서 초당 20조로 165025165520165는 기능이 매우 강력합니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"165025165520165","begin":17,"end":32,"label":"IMEI"}]}
+{"id":928,"content":"레이턴시 최적화 즉각 응답으로 276136276631276은 매우 빠릅니다. 지연이 없습니다.","has_sensitive":true,"entities":[{"value":"276136276631276","begin":21,"end":36,"label":"IMEI"}]}
+{"id":929,"content":"에코 포인트 친환경 적립으로 387247387742387을 등록하였습니다. 환경을 보호합니다.","has_sensitive":true,"entities":[{"value":"387247387742387","begin":20,"end":35,"label":"IMEI"}]}
+{"id":930,"content":"무선 디스플레이 끊김 없음으로 498358498853498은 미러링이 완벽합니다. 대화면 감상하세요.","has_sensitive":true,"entities":[{"value":"498358498853498","begin":21,"end":36,"label":"IMEI"}]}
+{"id":931,"content":"eSIM 전환 물리 카드 불필요로 509469509964509를 가상 심으로 등록하였습니다. 편리합니다.","has_sensitive":true,"entities":[{"value":"509469509964509","begin":23,"end":38,"label":"IMEI"}]}
+{"id":932,"content":"추첨 당첨 1등 선정으로 610570610075610이 당첨되었습니다. 진심으로 축하드립니다.","has_sensitive":true,"entities":[{"value":"610570610075610","begin":15,"end":30,"label":"IMEI"}]}
+{"id":933,"content":"햅틱 피드백 12단계 조정으로 721681721186721은 경험이 향상됩니다. 섬세한 터치입니다.","has_sensitive":true,"entities":[{"value":"721681721186721","begin":20,"end":35,"label":"IMEI"}]}
+{"id":934,"content":"IPv6 전환 듀얼 스택으로 832792832297832를 설정하였습니다. 차세대 인터넷입니다.","has_sensitive":true,"entities":[{"value":"832792832297832","begin":18,"end":33,"label":"IMEI"}]}
+{"id":935,"content":"교육 프로그램 전문가 과정으로 943803943308943을 등록하였습니다. 심화 학습입니다.","has_sensitive":true,"entities":[{"value":"943803943308943","begin":21,"end":36,"label":"IMEI"}]}
+{"id":936,"content":"초고속 충전 25분 90%로 154914154419154는 빠른 충전입니다. 매우 편리합니다.","has_sensitive":true,"entities":[{"value":"154914154419154","begin":18,"end":33,"label":"IMEI"}]}
+{"id":937,"content":"슬라이스 관리 프리미엄 할당으로 265025265520265를 지정하였습니다. 최고 품질입니다.","has_sensitive":true,"entities":[{"value":"265025265520265","begin":22,"end":37,"label":"IMEI"}]}
+{"id":938,"content":"리뷰 미팅 다음 주 금요일로 376136376631376을 등록하였습니다. 참석 부탁드립니다.","has_sensitive":true,"entities":[{"value":"376136376631376","begin":19,"end":34,"label":"IMEI"}]}
+{"id":939,"content":"생체 인증 4중 인증으로 487247487742487은 보안이 매우 강력합니다. 완벽한 보호입니다.","has_sensitive":true,"entities":[{"value":"487247487742487","begin":16,"end":31,"label":"IMEI"}]}
+{"id":940,"content":"피코셀 연결 실내 측위로 598358598853598을 활용합니다. 정확도 0.5m입니다.","has_sensitive":true,"entities":[{"value":"598358598853598","begin":17,"end":32,"label":"IMEI"}]}
+{"id":941,"content":"기술 시연회 최신 기술로 609469609964609를 선정하였습니다. 혁신을 공개합니다.","has_sensitive":true,"entities":[{"value":"609469609964609","begin":17,"end":32,"label":"IMEI"}]}
+{"id":942,"content":"적응형 새로고침 배터리 35% 절약으로 710570710075710은 효율적입니다. 전력 절감입니다.","has_sensitive":true,"entities":[{"value":"710570710075710","begin":27,"end":42,"label":"IMEI"}]}
+{"id":943,"content":"멀티캐스트 그룹 동시 시청으로 821681821186821을 추가하였습니다. 함께 감상하세요.","has_sensitive":true,"entities":[{"value":"821681821186821","begin":22,"end":37,"label":"IMEI"}]}
+{"id":944,"content":"개선 프로젝트 피드백 반영으로 932792932297932를 선정하였습니다. 의견이 소중합니다.","has_sensitive":true,"entities":[{"value":"932792932297932","begin":21,"end":36,"label":"IMEI"}]}
+{"id":945,"content":"열화상 카메라 편차 0.2도로 143803143308143은 정밀 측정이 가능합니다. 매우 정확합니다.","has_sensitive":true,"entities":[{"value":"143803143308143","begin":18,"end":33,"label":"IMEI"}]}
+{"id":946,"content":"DDoS 방어 공격 차단으로 254914254419254를 보호합니다. 안전하게 사용하세요.","has_sensitive":true,"entities":[{"value":"254914254419254","begin":18,"end":33,"label":"IMEI"}]}
+{"id":947,"content":"액세서리 호환성 모든 정품으로 365025365520365는 완벽하게 호환됩니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"365025365520365","begin":21,"end":36,"label":"IMEI"}]}
+{"id":948,"content":"공간 음향 3D 사운드로 476136476631476은 몰입감이 뛰어납니다. 최고 음질입니다.","has_sensitive":true,"entities":[{"value":"476136476631476","begin":17,"end":32,"label":"IMEI"}]}
+{"id":949,"content":"빔포밍 방향성 신호 강화로 587247587742587을 설정하였습니다. 수신이 향상됩니다.","has_sensitive":true,"entities":[{"value":"587247587742587","begin":19,"end":34,"label":"IMEI"}]}
+{"id":950,"content":"VIP 라운지 프리미엄 서비스로 698358698853698에 권한을 부여하였습니다. 특별한 대우입니다.","has_sensitive":true,"entities":[{"value":"698358698853698","begin":21,"end":36,"label":"IMEI"}]}
+{"id":951,"content":"구동 소음 20dB 이하로 709469709964709는 매우 조용합니다. 쾌적한 환경입니다.","has_sensitive":true,"entities":[{"value":"709469709964709","begin":16,"end":31,"label":"IMEI"}]}
+{"id":952,"content":"QoE 모니터링 만족도 최고로 810570810075810은 품질이 우수합니다. 최상의 경험입니다.","has_sensitive":true,"entities":[{"value":"810570810075810","begin":19,"end":34,"label":"IMEI"}]}
+{"id":953,"content":"R&D 파트너십 혁신 협력으로 921681921186921을 지정하였습니다. 함께 만듭니다.","has_sensitive":true,"entities":[{"value":"921681921186921","begin":20,"end":35,"label":"IMEI"}]}
+{"id":954,"content":"전자파 흡수율 기준 45%로 132792132297132는 건강에 안전합니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"132792132297132","begin":18,"end":33,"label":"IMEI"}]}
+{"id":955,"content":"접속 제어 화이트리스트로 243803243308243을 추가하였습니다. 항상 접속 가능합니다.","has_sensitive":true,"entities":[{"value":"243803243308243","begin":18,"end":33,"label":"IMEI"}]}
+{"id":956,"content":"맞춤형 패키지 최적 조합으로 354914354419354를 구성하였습니다. 완벽한 선택입니다.","has_sensitive":true,"entities":[{"value":"354914354419354","begin":20,"end":35,"label":"IMEI"}]}
+{"id":957,"content":"역광 보정 노출 최적화로 465025465520465는 사진이 향상됩니다. 자동 보정입니다.","has_sensitive":true,"entities":[{"value":"465025465520465","begin":17,"end":32,"label":"IMEI"}]}
+{"id":958,"content":"암호화 강화 AES-512로 576136576631576은 데이터가 완벽하게 보호됩니다. 최고 보안입니다.","has_sensitive":true,"entities":[{"value":"576136576631576","begin":18,"end":33,"label":"IMEI"}]}
+{"id":959,"content":"사전 예약 우선 배송으로 687247687742687을 등록하였습니다. 먼저 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"687247687742687","begin":17,"end":32,"label":"IMEI"}]}
+{"id":960,"content":"야간 촬영 저조도 선명으로 798358798853798은 밤 사진이 밝습니다. 고감도 센서입니다.","has_sensitive":true,"entities":[{"value":"798358798853798","begin":18,"end":33,"label":"IMEI"}]}
+{"id":961,"content":"주파수 호핑 간섭 회피로 809469809964809를 구성하였습니다. 안정성이 증가합니다.","has_sensitive":true,"entities":[{"value":"809469809964809","begin":17,"end":32,"label":"IMEI"}]}
+{"id":962,"content":"감사 선물 프리미엄 케이스로 910570910075910에 발송하였습니다. 오래 사용해주셔서 감사합니다.","has_sensitive":true,"entities":[{"value":"910570910075910","begin":20,"end":35,"label":"IMEI"}]}
+{"id":963,"content":"게임 최적화 프레임 안정으로 121681121186121은 쾌적한 환경입니다. 최고 성능입니다.","has_sensitive":true,"entities":[{"value":"121681121186121","begin":20,"end":35,"label":"IMEI"}]}
+{"id":964,"content":"동적 대역폭 우선 그룹으로 232792232297232를 포함하였습니다. 속도가 보장됩니다.","has_sensitive":true,"entities":[{"value":"232792232297232","begin":18,"end":33,"label":"IMEI"}]}
+{"id":965,"content":"커스터마이징 고유 디자인으로 343803343308343을 지정하였습니다. 세상에 하나뿐입니다.","has_sensitive":true,"entities":[{"value":"343803343308343","begin":21,"end":36,"label":"IMEI"}]}
+{"id":966,"content":"초광각 왜곡 보정 자연스러움으로 454914454419454는 왜곡이 최소화됩니다. 완벽한 보정입니다.","has_sensitive":true,"entities":[{"value":"454914454419454","begin":23,"end":38,"label":"IMEI"}]}
+{"id":967,"content":"인증서 갱신 자동 갱신으로 565025565520565는 만료 걱정이 없습니다. 자동 관리됩니다.","has_sensitive":true,"entities":[{"value":"565025565520565","begin":18,"end":33,"label":"IMEI"}]}
+{"id":968,"content":"베타 테스터 신규 기능으로 676136676631676을 선정하였습니다. 먼저 체험하세요.","has_sensitive":true,"entities":[{"value":"676136676631676","begin":19,"end":34,"label":"IMEI"}]}
+{"id":969,"content":"매크로 촬영 1cm 초점으로 787247787742787은 세밀한 촬영이 가능합니다. 미세 촬영입니다.","has_sensitive":true,"entities":[{"value":"787247787742787","begin":18,"end":33,"label":"IMEI"}]}
+{"id":970,"content":"지터 감소 변동 0.5ms로 898358898853898은 실시간 통신이 완벽합니다. 매우 안정적입니다.","has_sensitive":true,"entities":[{"value":"898358898853898","begin":17,"end":32,"label":"IMEI"}]}
+{"id":971,"content":"수출 인증 해외 판매로 909469909964909를 등록하였습니다. 글로벌 판매 승인입니다.","has_sensitive":true,"entities":[{"value":"909469909964909","begin":15,"end":30,"label":"IMEI"}]}
+{"id":972,"content":"음성 인식 소음 98% 인식으로 110570110075110은 편리하게 사용됩니다. 정확한 인식입니다.","has_sensitive":true,"entities":[{"value":"110570110075110","begin":21,"end":36,"label":"IMEI"}]}
+{"id":973,"content":"펨토셀 연동 실내 통화로 221681221186221을 등록하였습니다. 통화 품질이 개선됩니다.","has_sensitive":true,"entities":[{"value":"221681221186221","begin":17,"end":32,"label":"IMEI"}]}
+{"id":974,"content":"프리미엄 보험 완벽 보장으로 332792332297332를 등록하였습니다. 안심하고 사용하세요.","has_sensitive":true,"entities":[{"value":"332792332297332","begin":20,"end":35,"label":"IMEI"}]}
+{"id":975,"content":"슬로우 모션 1000fps로 443803443308443은 순간을 포착합니다. 초고속 촬영입니다.","has_sensitive":true,"entities":[{"value":"443803443308443","begin":18,"end":33,"label":"IMEI"}]}
+{"id":976,"content":"멀티홉 라우팅 커버리지 확장으로 554914554419554를 추가하였습니다. 범위가 넓어집니다.","has_sensitive":true,"entities":[{"value":"554914554419554","begin":23,"end":38,"label":"IMEI"}]}
+{"id":977,"content":"전시회 출품 많은 관심으로 665025665520665를 전시합니다. 기대해주세요.","has_sensitive":true,"entities":[{"value":"665025665520665","begin":18,"end":33,"label":"IMEI"}]}
+{"id":978,"content":"타임랩스 안정성 48시간으로 776136776631776은 배터리가 매우 오래 갑니다. 장시간 촬영입니다.","has_sensitive":true,"entities":[{"value":"776136776631776","begin":20,"end":35,"label":"IMEI"}]}
+{"id":979,"content":"스펙트럼 효율 처리량 최고로 887247887742887은 효율적인 통신입니다. 최적화되었습니다.","has_sensitive":true,"entities":[{"value":"887247887742887","begin":20,"end":35,"label":"IMEI"}]}
+{"id":980,"content":"연간 통계 활동 내역으로 998358998853998에 리포트를 보냈습니다. 한 해를 확인하세요.","has_sensitive":true,"entities":[{"value":"998358998853998","begin":16,"end":31,"label":"IMEI"}]}
+{"id":981,"content":"파노라마 정합도 이음새 완벽으로 109469109964109는 자연스럽습니다. 넓은 풍경을 담으세요.","has_sensitive":true,"entities":[{"value":"109469109964109","begin":24,"end":39,"label":"IMEI"}]}
+{"id":982,"content":"동적 TDD 상향 우선으로 210570210075570을 구성하였습니다. 업로드가 매우 빨라집니다.","has_sensitive":true,"entities":[{"value":"210570210075570","begin":16,"end":31,"label":"IMEI"}]}
+{"id":983,"content":"지속가능성 친환경 소재로 321681321186681은 지구를 생각합니다. 환경 보호입니다.","has_sensitive":true,"entities":[{"value":"321681321186681","begin":18,"end":33,"label":"IMEI"}]}
+{"id":984,"content":"인물 사진 배경 흐림으로 432792432297792는 인물이 돋보입니다. 자연스러운 보케입니다.","has_sensitive":true,"entities":[{"value":"432792432297792","begin":17,"end":32,"label":"IMEI"}]}
+{"id":985,"content":"셀 재선택 끊김 없음으로 543803543308803은 이동 중에도 완벽합니다. 안정적인 통신입니다.","has_sensitive":true,"entities":[{"value":"543803543308803","begin":16,"end":31,"label":"IMEI"}]}
+{"id":986,"content":"라이프스타일 분석 더 나은 서비스로 654914654419914를 샘플로 선정하였습니다. 개선이 진행됩니다.","has_sensitive":true,"entities":[{"value":"654914654419914","begin":27,"end":42,"label":"IMEI"}]}
+{"id":987,"content":"HDR 동영상 12bit 지원으로 765025765520025는 생생한 영상입니다. 최고 화질입니다.","has_sensitive":true,"entities":[{"value":"765025765520025","begin":19,"end":34,"label":"IMEI"}]}
+{"id":988,"content":"MIMO 안테나 8x8 구성으로 876136876631136은 속도가 4배입니다. 초고속 통신입니다.","has_sensitive":true,"entities":[{"value":"876136876631136","begin":18,"end":33,"label":"IMEI"}]}
+{"id":989,"content":"사회공헌 나눔 실천으로 987247987742247을 선정하였습니다. 더 나은 세상을 만듭니다.","has_sensitive":true,"entities":[{"value":"987247987742247","begin":16,"end":31,"label":"IMEI"}]}
+{"id":990,"content":"야간 영상 손떨림 보정으로 198358198853358은 흔들림이 전혀 없습니다. 완벽한 안정화입니다.","has_sensitive":true,"entities":[{"value":"198358198853358","begin":18,"end":33,"label":"IMEI"}]}
+{"id":991,"content":"크로스 캐리어 자원 최적화로 209469209964469를 연동하였습니다. 효율이 극대화됩니다.","has_sensitive":true,"entities":[{"value":"209469209964469","begin":21,"end":36,"label":"IMEI"}]}
+{"id":992,"content":"웰빙 프로그램 건강한 라이프로 310570310075570을 등록하였습니다. 건강을 지원합니다.","has_sensitive":true,"entities":[{"value":"310570310075570","begin":22,"end":37,"label":"IMEI"}]}
+{"id":993,"content":"프로 동영상 LOG 포맷으로 421681421186681은 전문가급 편집이 가능합니다. 영화 제작 수준입니다.","has_sensitive":true,"entities":[{"value":"421681421186681","begin":18,"end":33,"label":"IMEI"}]}
+{"id":994,"content":"간섭 회피 깨끗한 채널로 532792532297792를 선택합니다. 연결이 매우 안정적입니다.","has_sensitive":true,"entities":[{"value":"532792532297792","begin":17,"end":32,"label":"IMEI"}]}
+{"id":995,"content":"혁신 아이디어 대상 수상으로 643803643308803을 출품하였습니다. 진심으로 축하드립니다.","has_sensitive":true,"entities":[{"value":"643803643308803","begin":20,"end":35,"label":"IMEI"}]}
+{"id":996,"content":"실시간 번역 25개 언어로 754914754419914는 해외여행이 매우 편리합니다. 완벽한 통역입니다.","has_sensitive":true,"entities":[{"value":"754914754419914","begin":17,"end":32,"label":"IMEI"}]}
+{"id":997,"content":"네트워크 복원력 즉시 복구로 865025865520025는 안정성이 검증되었습니다. 신뢰할 수 있습니다.","has_sensitive":true,"entities":[{"value":"865025865520025","begin":20,"end":35,"label":"IMEI"}]}
+{"id":998,"content":"디지털 자산 클라우드 백업으로 976136976631136을 연동하였습니다. 데이터가 완벽하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"976136976631136","begin":22,"end":37,"label":"IMEI"}]}
+{"id":999,"content":"문서 스캔 OCR 99.5%로 187247187742247은 문서 관리가 매우 편리합니다. 정확한 인식입니다.","has_sensitive":true,"entities":[{"value":"187247187742247","begin":18,"end":33,"label":"IMEI"}]}
+{"id":1000,"content":"적응형 변조 채널 최적화로 298358298853358은 효율이 최대화됩니다. 지능형 통신입니다.","has_sensitive":true,"entities":[{"value":"298358298853358","begin":18,"end":33,"label":"IMEI"}]}

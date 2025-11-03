@@ -1,0 +1,1000 @@
+{"id":1,"content":"고객님의 카드 비밀번호는 1234 입니다. 안전한 곳에 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1234","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":2,"content":"ATM 기기에서 5678 을 입력하시면 출금이 가능합니다. 참고로 일일 한도는 300만원입니다.","has_sensitive":true,"entities":[{"value":"5678","begin":11,"end":15,"label":"PAYMENT_PIN"}]}
+{"id":3,"content":"새로운 체크카드의 PIN 번호는 9012 로 설정되었습니다. 첫 사용 시 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"9012","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":4,"content":"본인 확인을 위해 3456 을 입력해 주세요. 이 번호는 임시로 발급된 것입니다.","has_sensitive":true,"entities":[{"value":"3456","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":5,"content":"결제 시 사용하실 비밀번호 7890 를 기억해 주시기 바랍니다. 타인에게 노출되지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"7890","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":6,"content":"계좌 개설이 완료되었으며 초기 PIN은 2468 입니다. 변경은 영업점이나 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"2468","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":7,"content":"인증번호 1357 를 화면에 입력하시면 거래가 승인됩니다. 3분 이내에 입력해 주세요.","has_sensitive":true,"entities":[{"value":"1357","begin":5,"end":9,"label":"PAYMENT_PIN"}]}
+{"id":8,"content":"고객님께서 설정하신 보안 PIN 6543 이 정상적으로 등록되었습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"6543","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":9,"content":"배송 확인용 코드는 8901 이며 기사님께 알려주시면 됩니다. 또한 본인 확인용으로 사용됩니다.","has_sensitive":true,"entities":[{"value":"8901","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":10,"content":"카드 재발급 신청이 접수되었고 새 PIN은 4321 로 설정됩니다. 수령 후 즉시 변경하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4321","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":11,"content":"모바일 뱅킹 로그인을 위한 임시 비밀번호는 5432 입니다. 최초 로그인 시 필수로 변경해야 합니다.","has_sensitive":true,"entities":[{"value":"5432","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":12,"content":"안전한 거래를 위해 9876 을 입력하신 후 확인 버튼을 눌러주세요. 해당 번호는 1회용입니다.","has_sensitive":true,"entities":[{"value":"9876","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":13,"content":"체크카드 발급 완료되었으며 설정된 PIN 코드는 1111 입니다. 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"1111","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":14,"content":"송금 승인을 위해 2222 를 입력해 주시기 바랍니다. 다만 타인에게는 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"2222","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":15,"content":"고객님의 신규 은행 비밀번호 3333 이 등록 완료되었습니다. 아울러 보안을 위해 주기적 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"3333","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":16,"content":"현금 인출 시 필요한 코드는 4444 이며 분실 시 재발급 신청해 주세요. 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"4444","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":17,"content":"결제 인증번호로 5555 가 발송되었습니다. 해당 번호를 입력창에 정확히 입력하세요.","has_sensitive":true,"entities":[{"value":"5555","begin":11,"end":15,"label":"PAYMENT_PIN"}]}
+{"id":18,"content":"본인 인증 절차를 위한 PIN 번호 6666 를 준비해 주시기 바랍니다. 또한 신분증도 함께 지참하세요.","has_sensitive":true,"entities":[{"value":"6666","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":19,"content":"계좌이체 확인용 보안코드는 7777 입니다. 거래 완료 후 이 코드는 자동으로 무효화됩니다.","has_sensitive":true,"entities":[{"value":"7777","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":20,"content":"ATM에서 출금하실 때 8888 을 누르시면 됩니다. 참고로 영수증 발급도 가능합니다.","has_sensitive":true,"entities":[{"value":"8888","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":21,"content":"신용카드 결제 비밀번호 9999 로 변경이 완료되었습니다. 먼저 테스트 결제를 해보시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9999","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":22,"content":"고객센터 상담원입니다. 확인을 위해 1234 를 말씀해 주세요. 그리고 생년월일도 함께 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"1234","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":23,"content":"자동이체 등록을 위한 인증코드 5678 이 생성되었습니다. 유효시간은 5분입니다.","has_sensitive":true,"entities":[{"value":"5678","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":24,"content":"예금 계좌의 초기 비밀번호는 3210 으로 설정됩니다. 다만 보안상 즉시 변경하시길 권장합니다.","has_sensitive":true,"entities":[{"value":"3210","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":25,"content":"온라인 쇼핑몰 결제 시 7531 을 입력하시면 정상 처리됩니다. 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"7531","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":26,"content":"보안등급 상향을 위해 새로운 PIN 9753 이 부여되었습니다. 또한 지문인증도 병행 가능합니다.","has_sensitive":true,"entities":[{"value":"9753","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":27,"content":"간편결제 서비스 이용 시 필요한 번호는 8642 입니다. 아울러 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"8642","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":28,"content":"택배 수령 확인용 비밀번호 2468 를 배송기사에게 알려주시면 됩니다. 본인 확인 절차입니다.","has_sensitive":true,"entities":[{"value":"2468","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":29,"content":"대출 신청 승인되었으며 전자서명 PIN은 1357 입니다. 먼저 약관 동의를 완료해 주세요.","has_sensitive":true,"entities":[{"value":"1357","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":30,"content":"포인트 적립 카드의 비밀번호가 9876 로 재설정되었습니다. 변경 내역은 문자로도 발송됩니다.","has_sensitive":true,"entities":[{"value":"9876","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":31,"content":"멤버십 가입이 완료되었고 초기 PIN 코드는 5432 입니다. 마이페이지에서 수정 가능합니다.","has_sensitive":true,"entities":[{"value":"5432","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":32,"content":"무인 택배함 이용 시 입력 번호는 6789 이며 24시간 이내 찾아가시면 됩니다. 기한 엄수 부탁드립니다.","has_sensitive":true,"entities":[{"value":"6789","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":33,"content":"앱카드 등록 절차에서 4567 를 인증번호로 사용하세요. 참고로 등록 후 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4567","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":34,"content":"고객님의 가상계좌 비밀번호는 8520 으로 지정되었습니다. 또한 계좌번호는 별도 안내됩니다.","has_sensitive":true,"entities":[{"value":"8520","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":35,"content":"보안카드 대체 PIN 번호로 7410 이 발급되었습니다. 그리고 유효기간은 1년입니다.","has_sensitive":true,"entities":[{"value":"7410","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":36,"content":"전자지갑 충전을 위해 인증번호 3698 을 입력해 주세요. 다만 오타 3회 시 잠금 처리됩니다.","has_sensitive":true,"entities":[{"value":"3698","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":37,"content":"금융거래 보안을 위한 OTP 대체 코드는 2580 입니다. 먼저 앱을 최신 버전으로 업데이트하세요.","has_sensitive":true,"entities":[{"value":"2580","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":38,"content":"신규 발급된 체크카드의 PIN은 1470 이며 활성화가 필요합니다. 고객센터나 ATM에서 가능합니다.","has_sensitive":true,"entities":[{"value":"1470","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":39,"content":"비대면 계좌개설 완료되었고 임시 비밀번호 9630 을 사용하세요. 아울러 신분증 사본을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"9630","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":40,"content":"모바일 상품권 사용 시 PIN 코드 8520 을 입력하시면 됩니다. 유효기간 내에 사용하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"8520","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":41,"content":"고객님께서 요청하신 비밀번호 초기화가 완료되었으며 새 PIN은 7531 입니다. 보안을 위해 즉시 변경하세요.","has_sensitive":true,"entities":[{"value":"7531","begin":42,"end":46,"label":"PAYMENT_PIN"}]}
+{"id":42,"content":"스마트폰 간편결제 등록을 위해 6429 를 입력하시면 인증됩니다. 또한 지문 등록도 권장됩니다.","has_sensitive":true,"entities":[{"value":"6429","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":43,"content":"정기예금 가입 시 설정하신 출금 비밀번호는 5173 입니다. 만기 전 해지 시에도 필요합니다.","has_sensitive":true,"entities":[{"value":"5173","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":44,"content":"해외 결제 승인을 위한 추가 인증코드 4826 이 발송되었습니다. 참고로 환율 우대도 적용됩니다.","has_sensitive":true,"entities":[{"value":"4826","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":45,"content":"펀드 가입 완료되었으며 거래 비밀번호 3951 로 설정하셨습니다. 변경은 지점 방문 시 가능합니다.","has_sensitive":true,"entities":[{"value":"3951","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":46,"content":"자동차 할부 계약서 서명용 PIN은 7284 입니다. 먼저 계약 조건을 꼼꼼히 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7284","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":47,"content":"보험료 자동이체 등록 시 필요한 인증번호는 1593 입니다. 다만 계좌 잔액을 미리 확인하세요.","has_sensitive":true,"entities":[{"value":"1593","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":48,"content":"기업 법인카드 발급되었고 초기 비밀번호는 8462 로 지정되었습니다. 관리자 승인 후 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"8462","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":49,"content":"CMS 출금 동의를 위해 본인확인 코드 2739 을 입력하세요. 그리고 통장 사본도 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"2739","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":50,"content":"신한 체크카드의 결제 비밀번호가 6148 로 변경 완료되었습니다. 또한 SMS 알림도 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"6148","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":51,"content":"외환 송금 시 본인 인증용 PIN은 9285 이며 송금 한도는 1만 달러입니다. 수수료가 별도 부과됩니다.","has_sensitive":true,"entities":[{"value":"9285","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":52,"content":"증권계좌 개설이 승인되었으며 거래용 비밀번호는 5374 입니다. 주식 거래 전 투자 교육을 권장합니다.","has_sensitive":true,"entities":[{"value":"5374","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":53,"content":"암호화폐 지갑 생성되었고 초기 PIN 코드 4629 을 안전하게 보관하세요. 분실 시 복구가 불가능합니다.","has_sensitive":true,"entities":[{"value":"4629","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":54,"content":"청약통장 신규 가입 완료되었으며 출금 비밀번호는 7138 입니다. 먼저 자동이체 설정을 권장합니다.","has_sensitive":true,"entities":[{"value":"7138","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":55,"content":"선불카드 충전 시 필요한 인증 코드는 3582 이며 최대 50만원까지 가능합니다. 소액 결제에 편리합니다.","has_sensitive":true,"entities":[{"value":"3582","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":56,"content":"마이너스 통장 개설되었고 사용을 위한 PIN 번호 8916 을 기억하세요. 아울러 이자율은 연 4.5%입니다.","has_sensitive":true,"entities":[{"value":"8916","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":57,"content":"적금 만기 출금을 위해 비밀번호 2647 를 입력하시면 됩니다. 또한 이자소득세가 공제됩니다.","has_sensitive":true,"entities":[{"value":"2647","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":58,"content":"ISA 계좌 가입 완료되었으며 초기 설정 PIN은 1935 입니다. 세제 혜택 안내서를 참고하세요.","has_sensitive":true,"entities":[{"value":"1935","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":59,"content":"연금저축 펀드 가입 시 설정하신 비밀번호 5482 로 등록되었습니다. 납입 증명서는 연말에 발급됩니다.","has_sensitive":true,"entities":[{"value":"5482","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":60,"content":"카드론 신청이 승인되었고 인출용 PIN은 7249 입니다. 참고로 상환 일정을 꼭 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7249","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":61,"content":"모바일 쿠폰 사용 시 인증번호 9361 을 제시하시면 할인받으실 수 있습니다. 유효기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"9361","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":62,"content":"전자문서 서명을 위한 공인인증 PIN 번호는 4725 입니다. 먼저 인증서를 다운로드하셨는지 확인하세요.","has_sensitive":true,"entities":[{"value":"4725","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":63,"content":"기프트카드 등록 절차에서 보안코드 6183 을 입력하세요. 그리고 사용 가능 매장을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6183","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":64,"content":"비상금 대출 승인되었으며 출금 시 필요한 PIN은 8507 입니다. 다만 30일 내 상환하셔야 합니다.","has_sensitive":true,"entities":[{"value":"8507","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":65,"content":"디지털 회원권 활성화를 위해 3840 을 입력창에 넣어주세요. 또한 앱 푸시알림도 허용해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3840","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":66,"content":"페이코 간편결제 등록 완료되었고 보안 PIN 코드는 2196 입니다. 아울러 카드 정보도 안전하게 저장되었습니다.","has_sensitive":true,"entities":[{"value":"2196","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":67,"content":"무통장 입금 확인용 코드는 5748 이며 입금자명과 함께 기재하세요. 확인 후 즉시 발송됩니다.","has_sensitive":true,"entities":[{"value":"5748","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":68,"content":"스타벅스 기프트카드 충전 시 PIN 번호 9412 가 필요합니다. 먼저 앱에서 카드를 등록하셔야 합니다.","has_sensitive":true,"entities":[{"value":"9412","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":69,"content":"네이버페이 본인인증을 위해 6283 을 입력하시기 바랍니다. 참고로 포인트 적립도 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"6283","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":70,"content":"카카오페이 송금 확인 코드 1527 이 생성되었습니다. 또한 송금 내역은 톡으로도 전송됩니다.","has_sensitive":true,"entities":[{"value":"1527","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":71,"content":"토스 계좌 연동 시 필요한 인증번호는 4863 입니다. 그리고 보안등급을 높게 설정하시길 권장합니다.","has_sensitive":true,"entities":[{"value":"4863","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":72,"content":"앱 로그인 보안 강화를 위해 2차 인증 PIN 7945 를 설정하셨습니다. 다만 생체인증과 병행 가능합니다.","has_sensitive":true,"entities":[{"value":"7945","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":73,"content":"예치금 환불 신청이 완료되었으며 확인용 코드는 3019 입니다. 먼저 환불 계좌를 정확히 입력하셨는지 확인하세요.","has_sensitive":true,"entities":[{"value":"3019","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":74,"content":"삼성페이 카드 추가 시 보안번호 5624 을 입력하시면 됩니다. 아울러 MST와 NFC 모두 지원됩니다.","has_sensitive":true,"entities":[{"value":"5624","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":75,"content":"쿠팡 로켓배송 수령 시 본인확인 번호 8371 을 배송기사에게 알려주세요. 또한 부재 시 안전장소 배송도 가능합니다.","has_sensitive":true,"entities":[{"value":"8371","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":76,"content":"G마켓 주문 확인 코드는 2945 이며 고객센터 문의 시 필요합니다. 참고로 배송 조회도 가능합니다.","has_sensitive":true,"entities":[{"value":"2945","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":77,"content":"11번가 결제 인증번호 7162 가 발송되었습니다. 해당 코드를 3분 이내에 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7162","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":78,"content":"위메프 쿠폰 사용을 위해 인증코드 4539 을 입력하세요. 그리고 중복 할인은 불가능하다는 점 유의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4539","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":79,"content":"티몬 회원 가입 완료되었고 초기 비밀번호 6817 을 사용하세요. 먼저 이메일 인증도 완료해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6817","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":80,"content":"SSG닷컴 포인트 전환 시 본인확인 PIN 번호 9253 이 필요합니다. 또한 최소 1000포인트부터 가능합니다.","has_sensitive":true,"entities":[{"value":"9253","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":81,"content":"롯데온 적립금 사용을 위한 보안코드는 1684 입니다. 다만 일부 상품은 사용 제한이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"1684","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":82,"content":"네이버쇼핑 주문취소 확인 번호 5920 을 고객센터에 알려주시면 처리됩니다. 참고로 환불은 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"5920","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":83,"content":"CJ온스타일 홈쇼핑 주문 시 본인인증 코드 8146 이 발송되었습니다. 먼저 회원 가입이 필요합니다.","has_sensitive":true,"entities":[{"value":"8146","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":84,"content":"현대HMall 회원 등급 업그레이드되었고 확인 PIN은 3472 입니다. 아울러 추가 혜택도 제공됩니다.","has_sensitive":true,"entities":[{"value":"3472","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":85,"content":"GS샵 방송 중 주문하신 상품의 결제 인증번호는 6905 입니다. 또한 배송은 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"6905","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":86,"content":"무신사 스토어 구매 확정을 위한 코드 2738 을 입력하시면 포인트가 적립됩니다. 참고로 리뷰 작성 시 추가 적립됩니다.","has_sensitive":true,"entities":[{"value":"2738","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":87,"content":"29CM 멤버십 가입 완료되었으며 초기 PIN 코드는 5184 입니다. 먼저 스타일 취향을 설정해 주세요.","has_sensitive":true,"entities":[{"value":"5184","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":88,"content":"지그재그 앱 첫 구매 인증번호 9427 이 발급되었습니다. 그리고 신규 회원 쿠폰도 자동 지급됩니다.","has_sensitive":true,"entities":[{"value":"9427","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":89,"content":"에이블리 스타일북 공유 시 보안코드 4651 을 입력하세요. 다만 저작권 침해 콘텐츠는 삭제될 수 있습니다.","has_ensive":true,"entities":[{"value":"4651","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":90,"content":"브랜디 VIP 등급 승급되었고 확인용 PIN 번호 7293 을 사용하세요. 또한 무료 배송 쿠폰이 제공됩니다.","has_sensitive":true,"entities":[{"value":"7293","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":91,"content":"컬리 새벽배송 주문 확인 코드는 1856 이며 문 앞 배송 시 필요합니다. 아울러 신선도 보장 정책도 적용됩니다.","has_sensitive":true,"entities":[{"value":"1856","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":92,"content":"마켓컬리 정기구독 신청이 승인되었고 관리 PIN은 6420 입니다. 참고로 첫 주문은 무료 배송입니다.","has_sensitive":true,"entities":[{"value":"6420","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":93,"content":"오아시스 마켓 친환경 포장 선택하셨으며 확인번호 3579 를 보관하세요. 그리고 재사용 박스 반납 시 포인트 적립됩니다.","has_sensitive":true,"entities":[{"value":"3579","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":94,"content":"헬로네이처 유기농 식품 주문 시 인증 코드 8102 가 필요합니다. 먼저 원산지 정보를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"8102","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":95,"content":"배민 첫 주문 프로모션 적용되었고 확인 PIN 번호 5743 을 입력하세요. 또한 리뷰 작성 시 추가 할인됩니다.","has_sensitive":true,"entities":[{"value":"5743","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":96,"content":"요기요 라이더 배달 수령 시 본인확인 번호 2916 을 알려주시면 됩니다. 다만 비대면 배송도 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"2916","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":97,"content":"쿠팡이츠 주문 취소 요청이 접수되었으며 처리 코드는 7485 입니다. 참고로 환불은 즉시 진행됩니다.","has_sensitive":true,"entities":[{"value":"7485","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":98,"content":"배달특급 음식 평가 이벤트 참여 인증번호 4128 를 입력하시면 포인트가 지급됩니다. 아울러 당첨자는 개별 연락됩니다.","has_sensitive":true,"entities":[{"value":"4128","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":99,"content":"�땡겨요 앱 푸드 쿠폰 사용 시 보안코드 9364 이 필요합니다. 그리고 유효기간 만료 전에 사용하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9364","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":100,"content":"야놀자 숙박 예약 완료되었고 체크인 코드는 6251 입니다. 먼저 신분증을 준비하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6251","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":101,"content":"여기어때 호텔 예약 취소 시 확인번호 1937 을 입력하세요. 또한 취소 수수료 정책을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1937","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":102,"content":"에어비앤비 호스트 인증을 위한 PIN 번호 5820 이 발송되었습니다. 다만 여권 정보도 함께 제출해야 합니다.","has_sensitive":true,"entities":[{"value":"5820","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":103,"content":"부킹닷컴 체크인 시 제시할 확인 코드는 3496 입니다. 참고로 조식 포함 여부를 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"3496","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":104,"content":"인터파크 투어 패키지 여행 예약 인증번호 7652 가 생성되었습니다. 아울러 여행자 보험 가입도 권장합니다.","has_sensitive":true,"entities":[{"value":"7652","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":105,"content":"하나투어 항공권 발권 완료되었으며 예약번호 조회용 PIN은 2184 입니다. 그리고 수하물 규정을 미리 확인하세요.","has_sensitive":true,"entities":[{"value":"2184","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":106,"content":"모두투어 크루즈 승선 확인 코드는 9573 이며 출국 전 필수 지참하세요. 먼저 여권 유효기간도 체크하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9573","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":107,"content":"네이버 항공권 좌석 배정 시 필요한 인증번호는 4861 입니다. 또한 웹체크인도 24시간 전부터 가능합니다.","has_sensitive":true,"entities":[{"value":"4861","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":108,"content":"카카오T 택시 호출 완료되었고 승객 확인용 코드 6309 를 기사님께 알려주세요. 다만 안전벨트 착용은 필수입니다.","has_sensitive":true,"entities":[{"value":"6309","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":109,"content":"타다 프리미엄 이용 예약되었으며 탑승 PIN 번호는 1745 입니다. 참고로 차량 내 금연입니다.","has_sensitive":true,"entities":[{"value":"1745","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":110,"content":"우버 결제 수단 등록을 위해 인증코드 8529 을 입력하시기 바랍니다. 아울러 프로모션 코드도 함께 입력 가능합니다.","has_sensitive":true,"entities":[{"value":"8529","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":111,"content":"쏘카 차량 대여 시작 시 필요한 잠금해제 코드는 3672 입니다. 그리고 반납 시간을 엄수해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3672","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":112,"content":"그린카 회원가입이 완료되었고 초기 PIN 코드 5914 를 사용하세요. 먼저 운전면허 등록을 진행해 주세요.","has_sensitive":true,"entities":[{"value":"5914","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":113,"content":"피플카 차량 반납 확인용 보안번호는 7238 이며 앱에서 입력하시면 됩니다. 또한 주유 영수증도 제출하세요.","has_sensitive":true,"entities":[{"value":"7238","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":114,"content":"위드카 장기렌트 계약서 전자서명 PIN은 2860 입니다. 다만 보증금 입금 확인 후 차량 출고됩니다.","has_sensitive":true,"entities":[{"value":"2860","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":115,"content":"코레일 기차표 예약 완료되었으며 발권 시 필요한 번호는 9451 입니다. 참고로 출발 30분 전 탑승하세요.","has_sensitive":true,"entities":[{"value":"9451","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":116,"content":"SRT 좌석 변경 신청이 접수되었고 확인 코드 4736 를 보관하세요. 아울러 변경 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"4736","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":117,"content":"고속버스 터미널 모바일 승차권 사용 시 PIN 번호 6182 가 필요합니다. 그리고 출발 10분 전까지 도착하세요.","has_sensitive":true,"entities":[{"value":"6182","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":118,"content":"시외버스 예매 취소 요청이 승인되었으며 처리번호는 1598 입니다. 먼저 환불 계좌를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1598","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":119,"content":"지하철 정기권 충전을 위한 인증번호 8324 을 입력하세요. 또한 교통카드 등록도 필수입니다.","has_sensitive":true,"entities":[{"value":"8324","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":120,"content":"티머니 카드 분실신고 완료되었고 재발급 PIN은 5769 입니다. 다만 잔액 이전은 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"5769","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":121,"content":"캐시비 온라인 충전 시 본인확인 코드 2941 이 발송되었습니다. 참고로 최소 충전 금액은 1000원입니다.","has_sensitive":true,"entities":[{"value":"2941","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":122,"content":"CGV 영화 예매 완료되었으며 발권 번호는 7365 입니다. 아울러 상영 20분 전까지 입장 가능합니다.","has_sensitive":true,"entities":[{"value":"7365","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":123,"content":"롯데시네마 VIP 회원 승급되었고 확인용 PIN 코드 4582 를 사용하세요. 그리고 우선 예매 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"4582","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":124,"content":"메가박스 콤보 쿠폰 사용 시 인증번호 9217 을 매점에 제시하세요. 먼저 모바일 쿠폰함에서 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9217","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":125,"content":"씨네큐 단체관람 예약이 확정되었으며 대표자 인증 코드는 6834 입니다. 또한 최소 인원 미달 시 취소될 수 있습니다.","has_sensitive":true,"entities":[{"value":"6834","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":126,"content":"인터파크 티켓 공연 예매 완료되었고 입장 시 필요한 PIN은 1493 입니다. 다만 신분증 확인이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"1493","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":127,"content":"예스24 티켓 양도 신청이 승인되었으며 양도 코드는 5876 입니다. 참고로 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"5876","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":128,"content":"멜론티켓 얼리버드 예매 당첨되었고 구매 확인 번호 3129 를 보관하세요. 아울러 취소 시 재판매는 불가능합니다.","has_sensitive":true,"entities":[{"value":"3129","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":129,"content":"네이버 예약 레스토랑 테이블 확정되었으며 방문 시 코드 8604 를 직원에게 알려주세요. 그리고 노쇼 방지 정책이 적용됩니다.","has_sensitive":true,"entities":[{"value":"8604","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":130,"content":"카카오 헤어샵 예약이 완료되었고 방문 확인용 PIN 번호는 2751 입니다. 먼저 원하시는 스타일 사진을 준비해 오세요.","has_sensitive":true,"entities":[{"value":"2751","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":131,"content":"배달의민족 포장주문 준비 완료되었으며 픽업 코드 7948 을 매장에 알려주세요. 또한 포장 할인도 적용되었습니다.","has_sensitive":true,"entities":[{"value":"7948","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":132,"content":"스타벅스 사이렌오더 주문 완료되었고 수령 시 PIN 코드 4265 가 필요합니다. 다만 주문 후 10분 이내 방문하세요.","has_sensitive":true,"entities":[{"value":"4265","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":133,"content":"투썸플레이스 케이크 예약이 확정되었으며 픽업 인증번호는 9183 입니다. 참고로 당일 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"9183","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":134,"content":"이디야 멤버십 등급 업그레이드되었고 확인 코드 5372 를 사용하세요. 아울러 무료 음료 쿠폰도 지급됩니다.","has_sensitive":true,"entities":[{"value":"5372","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":135,"content":"파리바게뜨 생일케이크 주문 완료되었으며 수령 PIN은 6841 입니다. 그리고 초 개수를 미리 알려주시면 준비해 드립니다.","has_sensitive":true,"entities":[{"value":"6841","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":136,"content":"뚜레쥬르 단체 선물세트 예약되었고 픽업 확인번호 1527 을 지참하세요. 먼저 결제 완료 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1527","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":137,"content":"배스킨라빈스 아이스크림 케이크 예약 완료되었으며 수령 코드는 8496 입니다. 또한 픽업 시간을 정확히 지켜주세요.","has_sensitive":true,"entities":[{"value":"8496","begin":40,"end":44,"label":"PAYMENT_PIN"}]}
+{"id":138,"content":"던킨도너츠 모바일 쿠폰 사용 시 인증 PIN 번호 3714 가 필요합니다. 다만 중복 사용은 불가능합니다.","has_sensitive":true,"entities":[{"value":"3714","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":139,"content":"크리스피크림 온라인 주문 접수되었고 매장 픽업 코드 5928 을 준비하세요. 참고로 따뜻한 도넛은 주문 즉시 제조됩니다.","has_sensitive":true,"entities":[{"value":"5928","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":140,"content":"맥도날드 드라이브스루 주문 시 결제 확인 번호 2649 를 알려주세요. 아울러 소스 추가 요청도 가능합니다.","has_sensitive":true,"entities":[{"value":"2649","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":141,"content":"버거킹 모바일 오더 완료되었으며 픽업 PIN 코드는 7385 입니다. 그리고 음료 사이즈 업그레이드는 무료입니다.","has_sensitive":true,"entities":[{"value":"7385","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":142,"content":"롯데리아 해피밀 세트 예약되었고 수령 인증번호 4162 를 카운터에 제시하세요. 먼저 장난감 종류를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4162","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":143,"content":"KFC 치킨 예약주문이 완료되었으며 픽업 시 코드 9571 이 필요합니다. 또한 매장 도착 전 알림 부탁드립니다.","has_sensitive":true,"entities":[{"value":"9571","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":144,"content":"맘스터치 단체주문 접수되었고 픽업 확인용 PIN 번호 6823 을 지참하세요. 다만 주문 변경은 1시간 전까지만 가능합니다.","has_sensitive":true,"entities":[{"value":"6823","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":145,"content":"서브웨이 샌드위치 커스터마이징 주문 완료되었으며 수령 코드는 1948 입니다. 참고로 야채 추가는 무료입니다.","has_sensitive":true,"entities":[{"value":"1948","begin":42,"end":46,"label":"PAYMENT_PIN"}]}
+{"id":146,"content":"파파존스 피자 배달 주문 확정되었고 라이더 인증번호 5236 를 확인하세요. 아울러 비접촉 배송도 선택하셨습니다.","has_sensitive":true,"entities":[{"value":"5236","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":147,"content":"피자헛 온라인 예약 완료되었으며 매장 픽업 PIN은 8704 입니다. 그리고 토핑 변경 요청은 30분 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"8704","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":148,"content":"도미노피자 슈퍼위크 할인 적용되었고 주문 확인 코드 3591 을 보관하세요. 먼저 쿠폰 중복 사용 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3591","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":149,"content":"미스터피자 가족세트 주문이 접수되었으며 픽업 인증 PIN 7426 이 발급되었습니다. 또한 사이드 메뉴도 준비 중입니다.","has_sensitive":true,"entities":[{"value":"7426","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":150,"content":"BBQ 치킨 배달 주문 완료되었고 라이더 확인용 번호는 2859 입니다. 다만 문 앞 배송 시 안전장소를 지정해 주세요.","has_sensitive":true,"entities":[{"value":"2859","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":151,"content":"교촌치킨 포장주문 준비되었으며 매장 방문 시 코드 6137 를 알려주세요. 참고로 포장 시 음료 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"6137","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":152,"content":"BHC 치킨 세트 예약이 확정되었고 픽업 PIN 번호는 9482 입니다. 아울러 뿌링클과 맛초킹 중 선택하셨습니다.","has_sensitive":true,"entities":[{"value":"9482","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":153,"content":"굽네치킨 홈파티 세트 주문 완료되었으며 배송 확인 코드 4715 이 필요합니다. 그리고 예상 도착 시간은 40분입니다.","has_sensitive":true,"entities":[{"value":"4715","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":154,"content":"네네치킨 신메뉴 출시 기념 할인 적용되었고 주문번호 1863 을 저장하세요. 먼저 리뷰 작성 시 추가 쿠폰이 제공됩니다.","has_sensitive":true,"entities":[{"value":"1863","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":155,"content":"60계치킨 파티박스 예약되었으며 픽업 시 인증 PIN 5294 가 필요합니다. 또한 소스는 별도 포장됩니다.","has_sensitive":true,"entities":[{"value":"5294","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":156,"content":"놀부 족발보쌈 배달 주문 확정되었고 라이더 확인번호는 8361 입니다. 다만 계절 메뉴는 재고 소진 시 변경될 수 있습니다.","has_sensitive":true,"entities":[{"value":"8361","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":157,"content":"원할머니보쌈 포장주문 준비 완료되었으며 수령 코드 3748 을 매장에 알려주세요. 참고로 반찬은 리필이 가능합니다.","has_sensitive":true,"entities":[{"value":"3748","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":158,"content":"본죽 건강식 세트 배달 주문이 접수되었고 인증번호 6925 를 준비하세요. 아울러 알레르기 정보를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6925","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":159,"content":"죽이야기 환자식 주문 완료되었으며 병원 배달 코드는 2174 입니다. 그리고 온도 유지를 위해 보온팩이 제공됩니다.","has_sensitive":true,"entities":[{"value":"2174","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":160,"content":"공차 버블티 단체주문 예약되었고 픽업 확인 PIN 번호 7586 을 지참하세요. 먼저 당도와 얼음 양을 선택하셨는지 확인하세요.","has_sensitive":true,"entities":[{"value":"7586","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":161,"content":"메가커피 구독서비스 가입 완료되었으며 첫 이용 시 코드 9431 이 필요합니다. 또한 월 30잔까지 할인 적용됩니다.","has_sensitive":true,"entities":[{"value":"9431","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":162,"content":"컴포즈커피 앱 주문 완료되었고 매장 픽업 인증번호는 4852 입니다. 다만 피크 시간대에는 대기가 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"4852","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":163,"content":"빽다방 음료 쿠폰 사용 시 본인확인 코드 1679 를 직원에게 보여주세요. 참고로 유효기간이 임박했습니다.","has_sensitive":true,"entities":[{"value":"1679","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":164,"content":"카페베네 디저트 세트 예약이 확정되었으며 수령 PIN 5243 을 준비하세요. 아울러 케이크는 당일 제조됩니다.","has_sensitive":true,"entities":[{"value":"5243","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":165,"content":"할리스커피 단체 케이터링 주문 완료되었고 배송 코드는 8916 입니다. 그리고 컵과 빨대는 별도 제공됩니다.","has_sensitive":true,"entities":[{"value":"8916","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":166,"content":"엔제리너스 VIP 멤버십 승급되었으며 확인용 PIN 번호 3527 을 사용하세요. 먼저 전용 라운지 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"3527","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":167,"content":"탐앤탐스 브런치 세트 예약 완료되었고 방문 시 코드 6248 이 필요합니다. 또한 주말에는 웨이팅이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"6248","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":168,"content":"빕스 뷔페 예약이 확정되었으며 체크인 인증번호는 9735 입니다. 다만 노쇼 시 패널티가 부과됩니다.","has_sensitive":true,"entities":[{"value":"9735","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":169,"content":"애슐리 가족외식 예약 완료되었고 입장 시 PIN 코드 2481 를 제시하세요. 참고로 어린이는 신장 기준 요금이 적용됩니다.","has_sensitive":true,"entities":[{"value":"2481","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":170,"content":"아웃백 스테이크 코스 예약되었으며 테이블 배정 코드는 7164 입니다. 아울러 와인 페어링도 가능합니다.","has_sensitive":true,"entities":[{"value":"7164","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":171,"content":"빕스 기프트카드 등록 시 보안 PIN 번호 5398 이 필요합니다. 그리고 온라인과 매장 모두 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5398","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":172,"content":"CJ푸드빌 멤버십 통합 완료되었고 인증 코드는 8642 입니다. 먼저 계열사 포인트 합산 적립이 시작됩니다.","has_sensitive":true,"entities":[{"value":"8642","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":173,"content":"이마트 온라인 주문 픽업 예약되었으며 고객서비스 데스크 코드 4179 를 알려주세요. 또한 신분증 지참 필수입니다.","has_sensitive":true,"entities":[{"value":"4179","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":174,"content":"홈플러스 드라이브스루 주문 완료되었고 차량 확인 번호는 9526 입니다. 다만 주차장 진입 전 문자로 알려주세요.","has_sensitive":true,"entities":[{"value":"9526","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":175,"content":"롯데마트 새벽배송 신청이 접수되었으며 배송기사 인증 코드 3814 이 발급되었습니다. 참고로 부재 시 문 앞 배송됩니다.","has_sensitive":true,"entities":[{"value":"3814","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":176,"content":"코스트코 회원갱신이 완료되었고 신규 회원번호 확인용 PIN 6752 을 보관하세요. 아울러 가족카드도 추가 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"6752","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":177,"content":"다이소 대량구매 주문서 작성되었으며 픽업 시 필요한 코드는 2937 입니다. 그리고 재고 확인 후 연락드리겠습니다.","has_sensitive":true,"entities":[{"value":"2937","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":178,"content":"올리브영 온라인 단독 세트 예약 완료되었고 수령 PIN 번호 5481 이 필요합니다. 먼저 적립금도 함께 사용하셨습니다.","has_sensitive":true,"entities":[{"value":"5481","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":179,"content":"랄라블라 뷰티 박스 정기구독 신청되었으며 첫 배송 확인 코드 8163 을 저장하세요. 또한 취향 설문조사도 완료하셨습니다.","has_sensitive":true,"entities":[{"value":"8163","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":180,"content":"왓슨스 처방전 약품 픽업 예약되었고 본인확인 PIN 번호는 7295 입니다. 다만 신분증과 처방전을 지참하세요.","has_sensitive":true,"entities":[{"value":"7295","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":181,"content":"GS25 택배 수령을 위한 인증번호는 4628 이며 점원에게 알려주시면 됩니다. 참고로 보관 기간은 3일입니다.","has_sensitive":true,"entities":[{"value":"4628","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":182,"content":"CU 모바일 상품권 사용 시 보안코드 1374 를 입력하세요. 아울러 잔액은 다음 구매 시에도 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"1374","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":183,"content":"세븐일레븐 도시락 예약주문 완료되었으며 픽업 코드는 9582 입니다. 그리고 따뜻하게 데워드릴까요?","has_sensitive":true,"entities":[{"value":"9582","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":184,"content":"이마트24 새벽 픽업 서비스 신청되었고 수령 시 PIN 번호 6241 이 필요합니다. 먼저 재고 확인 문자를 기다려주세요.","has_sensitive":true,"entities":[{"value":"6241","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":185,"content":"미니스톱 소프트아이스크림 쿠폰 사용 시 인증코드 3759 를 제시하세요. 또한 토핑 추가도 가능합니다.","has_sensitive":true,"entities":[{"value":"3759","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":186,"content":"쿠팡 로켓프레시 주문 완료되었으며 새벽배송 확인 번호는 8416 입니다. 다만 지정 장소에 안전하게 보관됩니다.","has_sensitive":true,"entities":[{"value":"8416","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":187,"content":"마켓컬리 샛별배송 구독 신청되었고 첫 주문 인증 PIN 2895 을 저장하세요. 참고로 배송 시간은 선택하셨습니다.","has_sensitive":true,"entities":[{"value":"2895","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":188,"content":"SSG닷컴 스마일클럽 가입 완료되었으며 회원 확인 코드는 5173 입니다. 아울러 무료배송 혜택이 시작됩니다.","has_sensitive":true,"entities":[{"value":"5173","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":189,"content":"위메프오 정기배송 서비스 등록되었고 관리 PIN 번호 7648 을 사용하세요. 그리고 배송 주기 변경도 자유롭습니다.","has_sensitive":true,"entities":[{"value":"7648","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":190,"content":"티몬 슈퍼세이브 특가 주문 완료되었으며 픽업 인증번호는 4921 입니다. 먼저 매장 운영시간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4921","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":191,"content":"옥션 중고거래 안전결제 완료되었고 판매자 인증 코드 6387 이 전달되었습니다. 또한 직거래 시 신중하게 진행하세요.","has_sensitive":true,"entities":[{"value":"6387","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":192,"content":"G마켓 글로벌샵 구매대행 신청되었으며 통관 진행 코드는 1854 입니다. 다만 관세가 추가로 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"1854","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":193,"content":"11번가 해외직구 주문 확정되었고 배송 추적 번호와 PIN 9276 을 보관하세요. 참고로 배송 기간은 2주 정도입니다.","has_sensitive":true,"entities":[{"value":"9276","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":194,"content":"알리익스프레스 분쟁 조정 신청이 접수되었으며 케이스 번호 3542 를 확인하세요. 아울러 증빙자료를 첨부해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3542","begin":40,"end":44,"label":"PAYMENT_PIN"}]}
+{"id":195,"content":"아마존 프라임 회원 등록 완료되었고 계정 인증 PIN 코드 7189 이 발급되었습니다. 그리고 스트리밍 서비스도 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"7189","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":196,"content":"쿠팡 와우멤버십 결제 완료되었으며 가입 확인 번호는 5426 입니다. 먼저 무료체험 기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"5426","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":197,"content":"배민 B마트 첫 주문 할인 적용되었고 배송 확인 코드 8731 을 저장하세요. 또한 신선식품은 새벽에 도착합니다.","has_sensitive":true,"entities":[{"value":"8731","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":198,"content":"쿠팡이츠 슈퍼 장보기 서비스 이용되었으며 라이더 인증 PIN 2694 이 필요합니다. 다만 대면 수령을 권장합니다.","has_sensitive":true,"entities":[{"value":"2694","begin":40,"end":44,"label":"PAYMENT_PIN"}]}
+{"id":199,"content":"GS프레시몰 제철 과일 박스 예약되었고 수령 시 코드는 9153 입니다. 참고로 당도 선별하여 발송됩니다.","has_sensitive":true,"entities":[{"value":"9153","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":200,"content":"홈플러스 온라인 특가세일 주문 완료되었으며 픽업라커 이용 PIN 4867 을 확인하세요. 아울러 24시간 내 찾아가시면 됩니다.","has_sensitive":true,"entities":[{"value":"4867","begin":41,"end":45,"label":"PAYMENT_PIN"}]}
+{"id":201,"content":"카드 비밀번호 1928 을 설정하셨습니다. 안전하게 보관해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1928","begin":9,"end":13,"label":"PAYMENT_PIN"}]}
+{"id":202,"content":"본인 확인을 위해 7354 를 입력해 주세요. 이후 거래가 진행됩니다.","has_sensitive":true,"entities":[{"value":"7354","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":203,"content":"결제 완료되었으며 승인번호는 5812 입니다. 영수증은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"5812","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":204,"content":"ATM 출금 시 PIN 코드 3467 이 필요합니다. 타인에게 노출되지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"3467","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":205,"content":"새로운 보안번호 9281 로 변경되었습니다. 다음 로그인부터 사용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"9281","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":206,"content":"임시 비밀번호는 6543 이며 첫 로그인 후 변경하시기 바랍니다. 보안을 위해 필수입니다.","has_sensitive":true,"entities":[{"value":"6543","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":207,"content":"인증번호 4729 를 화면에 입력하세요. 유효시간은 5분입니다.","has_sensitive":true,"entities":[{"value":"4729","begin":5,"end":9,"label":"PAYMENT_PIN"}]}
+{"id":208,"content":"고객님의 PIN 번호 8156 이 발급되었습니다. 변경은 고객센터에서 가능합니다.","has_sensitive":true,"entities":[{"value":"8156","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":209,"content":"체크카드 초기 비밀번호 2974 를 확인하시기 바랍니다. 첫 사용 시 변경 필요합니다.","has_sensitive":true,"entities":[{"value":"2974","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":210,"content":"계좌이체 인증코드는 5386 입니다. 거래 완료 전까지 보관하세요.","has_sensitive":true,"entities":[{"value":"5386","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":211,"content":"모바일 결제 시 보안 PIN 7412 을 입력하시면 됩니다. 간편하고 안전합니다.","has_sensitive":true,"entities":[{"value":"7412","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":212,"content":"송금 승인을 위해 1635 를 눌러주세요. 본인 확인 절차입니다.","has_sensitive":true,"entities":[{"value":"1635","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":213,"content":"무인 기기 사용 시 코드 9847 이 필요합니다. 화면 안내를 따라주세요.","has_sensitive":true,"entities":[{"value":"9847","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":214,"content":"가상계좌 비밀번호 4213 로 지정되었습니다. 안전한 거래를 위해 변경 권장합니다.","has_sensitive":true,"entities":[{"value":"4213","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":215,"content":"전자서명 인증 PIN은 6958 입니다. 서명 시 필요하니 준비해 주세요.","has_sensitive":true,"entities":[{"value":"6958","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":216,"content":"본인 인증 완료를 위해 3527 을 입력하시기 바랍니다. 1회용 코드입니다.","has_sensitive":true,"entities":[{"value":"3527","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":217,"content":"온라인 뱅킹 로그인 비밀번호 8194 를 사용하세요. 보안등급이 높게 설정되었습니다.","has_sensitive":true,"entities":[{"value":"8194","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":218,"content":"출금 한도 변경 시 확인 코드 2746 이 필요합니다. 영업점 방문 없이 가능합니다.","has_sensitive":true,"entities":[{"value":"2746","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":219,"content":"신용카드 발급 완료되었고 PIN 5329 을 안전하게 보관하세요. 분실 시 재발급 신청하세요.","has_sensitive":true,"entities":[{"value":"5329","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":220,"content":"해외 결제 승인 코드는 9681 입니다. 환율 우대가 적용되었습니다.","has_sensitive":true,"entities":[{"value":"9681","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":221,"content":"자동이체 등록을 위한 인증번호 7254 를 입력해 주세요. 매월 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"7254","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":222,"content":"대출 승인되었으며 전자계약 PIN 4816 이 발급되었습니다. 약관을 꼼꼼히 확인하세요.","has_sensitive":true,"entities":[{"value":"4816","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":223,"content":"적금 가입 시 설정하신 비밀번호 1473 을 기억하세요. 만기 출금 시 필요합니다.","has_sensitive":true,"entities":[{"value":"1473","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":224,"content":"펀드 매수 확인용 보안코드 6827 이 생성되었습니다. 거래명세서를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6827","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":225,"content":"증권계좌 개설 완료되었고 초기 PIN 3945 를 사용하세요. 투자 전 교육 자료를 읽어보시길 권장합니다.","has_sensitive":true,"entities":[{"value":"3945","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":226,"content":"보험료 납부 인증번호는 5182 입니다. 자동이체 등록도 가능합니다.","has_sensitive":true,"entities":[{"value":"5182","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":227,"content":"외환 송금 시 본인 확인 코드 8369 을 준비하세요. 수수료는 별도 부과됩니다.","has_sensitive":true,"entities":[{"value":"8369","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":228,"content":"청약통장 출금 비밀번호 2795 로 설정되었습니다. 청약 신청 시 필요합니다.","has_sensitive":true,"entities":[{"value":"2795","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":229,"content":"ISA 계좌 가입 인증 PIN 번호 9416 이 발급되었습니다. 세제 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"9416","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":230,"content":"연금저축 펀드 거래 비밀번호 7138 을 등록하셨습니다. 납입 증명서는 연말에 발급됩니다.","has_sensitive":true,"entities":[{"value":"7138","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":231,"content":"카드론 신청 승인되었고 인출 PIN 4562 를 사용하세요. 상환 계획을 미리 세우시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4562","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":232,"content":"마이너스 통장 사용 시 보안번호 1879 이 필요합니다. 이자율은 연 4.2%입니다.","has_sensitive":true,"entities":[{"value":"1879","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":233,"content":"선불카드 충전 인증코드는 6324 입니다. 최대 50만원까지 충전 가능합니다.","has_sensitive":true,"entities":[{"value":"6324","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":234,"content":"기프트카드 등록 시 PIN 번호 5791 을 입력하세요. 온라인과 오프라인 모두 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5791","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":235,"content":"페이코 간편결제 등록 완료되었으며 보안 코드 8243 이 설정되었습니다. 지문인증도 병행 가능합니다.","has_sensitive":true,"entities":[{"value":"8243","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":236,"content":"네이버페이 충전 시 인증번호 3657 를 입력하세요. 포인트 적립도 함께 됩니다.","has_sensitive":true,"entities":[{"value":"3657","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":237,"content":"카카오페이 송금 확인 코드 9124 가 발송되었습니다. 메시지로도 전송됩니다.","has_sensitive":true,"entities":[{"value":"9124","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":238,"content":"토스 계좌 연동 인증번호는 2586 입니다. 보안등급을 높게 설정하시길 권장합니다.","has_sensitive":true,"entities":[{"value":"2586","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":239,"content":"삼성페이 카드 추가 시 보안 PIN 7349 이 필요합니다. MST와 NFC 모두 지원됩니다.","has_sensitive":true,"entities":[{"value":"7349","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":240,"content":"앱카드 활성화를 위해 인증코드 4918 을 입력하시기 바랍니다. 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4918","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":241,"content":"모바일 상품권 사용 시 PIN 1635 을 제시하세요. 유효기간 내에 사용하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1635","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":242,"content":"포인트 전환 신청이 완료되었고 확인 번호 6872 를 보관하세요. 전환 비율은 1:1입니다.","has_sensitive":true,"entities":[{"value":"6872","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":243,"content":"멤버십 등급 업그레이드되었으며 인증 PIN 5241 이 발급되었습니다. 추가 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"5241","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":244,"content":"쿠폰 다운로드 완료되었고 사용 시 코드 9783 을 입력하세요. 중복 사용은 불가능합니다.","has_sensitive":true,"entities":[{"value":"9783","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":245,"content":"적립금 사용을 위한 본인확인 번호 3426 이 필요합니다. 전액 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"3426","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":246,"content":"배송지 변경 요청이 승인되었으며 확인 코드는 7915 입니다. 배송 지연이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"7915","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":247,"content":"무인 택배함 이용 시 비밀번호 2348 을 입력하세요. 24시간 이내 수령하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2348","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":248,"content":"반품 신청이 접수되었고 처리 코드는 8571 입니다. 택배사 방문 시 알려주세요.","has_sensitive":true,"entities":[{"value":"8571","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":249,"content":"교환 승인되었으며 재배송 확인번호 4629 를 저장하세요. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"4629","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":250,"content":"환불 처리 완료되었고 승인 PIN 번호 1957 이 생성되었습니다. 계좌로 입금됩니다.","has_sensitive":true,"entities":[{"value":"1957","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":251,"content":"예약 취소 요청이 확정되었으며 확인 코드 6384 를 보관하시기 바랍니다. 취소 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"6384","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":252,"content":"주문 수정이 완료되었고 변경 인증번호는 5712 입니다. 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"5712","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":253,"content":"결제 취소되었으며 환불 처리 코드 9246 이 발급되었습니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"9246","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":254,"content":"재결제 요청이 접수되었고 승인번호는 3815 입니다. 할인 쿠폰은 재적용되었습니다.","has_sensitive":true,"entities":[{"value":"3815","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":255,"content":"구독 서비스 결제 완료되었으며 관리 PIN 7468 을 사용하세요. 다음 결제일은 다음달 1일입니다.","has_sensitive":true,"entities":[{"value":"7468","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":256,"content":"정기결제 등록되었고 확인 코드는 2193 입니다. 해지는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"2193","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":257,"content":"무료체험 신청이 승인되었으며 인증번호 8537 를 입력하세요. 30일간 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"8537","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":258,"content":"프리미엄 회원 가입 완료되었고 초기 PIN 4962 를 사용하세요. 전용 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4962","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":259,"content":"이벤트 당첨되었으며 경품 수령 코드는 6175 입니다. 본인 확인 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"6175","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":260,"content":"설문조사 참여 완료되었고 보상 지급 번호 9428 이 발급되었습니다. 포인트로 적립됩니다.","has_sensitive":true,"entities":[{"value":"9428","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":261,"content":"리뷰 작성 감사합니다. 적립금 지급 코드 3751 을 확인하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"3751","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":262,"content":"추천인 등록 완료되었으며 보너스 코드는 5896 입니다. 양쪽 모두 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"5896","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":263,"content":"친구 초대 이벤트 참여되었고 확인 PIN 8214 이 생성되었습니다. 쿠폰이 자동 지급됩니다.","has_sensitive":true,"entities":[{"value":"8214","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":264,"content":"출석체크 완료되었으며 보상 수령 번호는 1637 입니다. 연속 출석 시 추가 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"1637","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":265,"content":"미션 달성 축하드립니다. 보상 지급 코드 7582 를 저장하세요. 다음 미션도 도전해 보세요.","has_sensitive":true,"entities":[{"value":"7582","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":266,"content":"레벨업 완료되었고 특별 혜택 인증번호 4193 이 발급되었습니다. 전용 아이템을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4193","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":267,"content":"VIP 등급 승급되었으며 전용 라운지 이용 PIN 9367 을 사용하세요. 컨시어지 서비스도 제공됩니다.","has_sensitive":true,"entities":[{"value":"9367","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":268,"content":"플래티넘 회원 자격 획득하셨고 확인 코드는 2845 입니다. 평생 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"2845","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":269,"content":"다이아 등급 달성 축하드리며 인증번호 6529 를 보관하세요. 최상위 혜택을 누리실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6529","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":270,"content":"프로 멤버십 업그레이드되었고 관리 PIN 1784 이 설정되었습니다. 무제한 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"1784","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":271,"content":"비즈니스 계정 전환 완료되었으며 확인 코드 5932 를 사용하세요. 팀원 추가가 가능합니다.","has_sensitive":true,"entities":[{"value":"5932","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":272,"content":"엔터프라이즈 플랜 활성화되었고 관리자 PIN 8176 이 발급되었습니다. 전담 매니저가 배정됩니다.","has_sensitive":true,"entities":[{"value":"8176","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":273,"content":"법인 회원 등록 승인되었으며 대표 인증번호는 3649 입니다. 사업자등록증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"3649","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":274,"content":"기업 고객 전용 서비스 시작되었고 접속 코드 7251 을 저장하세요. 대량 구매 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"7251","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":275,"content":"파트너 프로그램 가입 완료되었으며 파트너 ID 확인 PIN 4895 이 필요합니다. 수수료 정산은 매월 말일입니다.","has_sensitive":true,"entities":[{"value":"4895","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":276,"content":"협력사 등록이 승인되었고 거래 인증번호는 9314 입니다. 계약서를 검토하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9314","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":277,"content":"공급업체 계정 활성화되었으며 시스템 접속 코드 2678 를 사용하세요. 주문 관리가 가능합니다.","has_sensitive":true,"entities":[{"value":"2678","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":278,"content":"판매자 인증 완료되었고 상품 등록 PIN 번호 6142 이 발급되었습니다. 수수료는 판매가의 10%입니다.","has_sensitive":true,"entities":[{"value":"6142","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":279,"content":"크리에이터 등록이 승인되었으며 수익 정산 코드는 5387 입니다. 월 최소 금액은 10만원입니다.","has_sensitive":true,"entities":[{"value":"5387","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":280,"content":"인플루언서 프로그램 가입 완료되었고 확인 PIN 8925 을 보관하세요. 협찬 제품이 발송됩니다.","has_sensitive":true,"entities":[{"value":"8925","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":281,"content":"제휴 마케팅 신청이 접수되었으며 제휴 ID 인증번호 1563 이 생성되었습니다. 승인까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"1563","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":282,"content":"광고주 등록 완료되었고 캠페인 관리 코드는 7498 입니다. 예산 설정을 먼저 진행하세요.","has_sensitive":true,"entities":[{"value":"7498","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":283,"content":"API 접근 권한이 부여되었으며 인증 키 연동 PIN 3821 을 사용하세요. 개발 문서를 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3821","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":284,"content":"개발자 계정 활성화되었고 토큰 발급 번호는 9276 입니다. 일일 호출 한도는 10만건입니다.","has_sensitive":true,"entities":[{"value":"9276","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":285,"content":"테스트 환경 접속 코드는 4632 이며 샌드박스 모드에서 사용하세요. 실제 결제는 되지 않습니다.","has_sensitive":true,"entities":[{"value":"4632","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":286,"content":"베타 테스터 선정되셨습니다. 접속 인증번호 6857 을 입력하세요. 피드백을 부탁드립니다.","has_sensitive":true,"entities":[{"value":"6857","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":287,"content":"얼리액세스 신청이 승인되었고 사전 체험 코드 2194 가 발급되었습니다. 정식 출시 전 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"2194","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":288,"content":"프리미엄 베타 참여 확정되었으며 특별 접속 PIN 5738 을 사용하세요. 버그 리포트를 제출해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5738","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":289,"content":"클로즈드 알파 테스트 초대되었고 인증 코드는 8463 입니다. 보안 유지 서약서에 동의해 주세요.","has_sensitive":true,"entities":[{"value":"8463","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":290,"content":"신규 기능 미리보기 권한이 부여되었으며 활성화 PIN 1925 이 필요합니다. 의견을 적극 반영하겠습니다.","has_sensitive":true,"entities":[{"value":"1925","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":291,"content":"고객센터 문의 접수되었고 상담 예약 번호는 7384 입니다. 담당자가 곧 연락드리겠습니다.","has_sensitive":true,"entities":[{"value":"7384","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":292,"content":"1:1 문의 답변이 등록되었으며 확인 코드 4619 를 참조하세요. 추가 문의는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"4619","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":293,"content":"전화 상담 예약 완료되었고 예약 확인번호는 9257 입니다. 시간 10분 전 대기해 주세요.","has_sensitive":true,"entities":[{"value":"9257","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":294,"content":"채팅 상담 연결 대기 중이며 대기번호는 3546 입니다. 현재 5명이 앞에 있습니다.","has_sensitive":true,"entities":[{"value":"3546","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":295,"content":"이메일 문의 회신 완료되었고 티켓 번호 6873 을 보관하세요. 만족도 조사에 참여해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6873","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":296,"content":"불만 접수가 등록되었으며 처리 코드는 2418 입니다. 보상 방안을 검토하여 연락드리겠습니다.","has_sensitive":true,"entities":[{"value":"2418","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":297,"content":"클레임 처리 완료되었고 보상 지급 PIN 번호 5791 이 발급되었습니다. 계좌로 입금 예정입니다.","has_sensitive":true,"entities":[{"value":"5791","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":298,"content":"환불 요청이 승인되었으며 환불 승인번호는 8132 입니다. 영업일 기준 7일 이내 처리됩니다.","has_sensitive":true,"entities":[{"value":"8132","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":299,"content":"보상 쿠폰이 발급되었고 사용 코드는 4965 입니다. 유효기간은 30일이며 중복 사용 불가합니다.","has_sensitive":true,"entities":[{"value":"4965","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":300,"content":"서비스 복구 완료되었으며 재접속 PIN 번호 7248 을 사용하세요. 불편을 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"7248","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":301,"content":"계정 복구 신청이 접수되었고 본인확인 코드 1683 이 발송되었습니다. 이메일과 SMS로 전송됩니다.","has_sensitive":true,"entities":[{"value":"1683","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":302,"content":"비밀번호 재설정 링크가 전송되었으며 인증번호 9425 를 입력하세요. 10분 내에 완료해야 합니다.","has_sensitive":true,"entities":[{"value":"9425","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":303,"content":"이메일 인증 완료되었고 계정 활성화 코드는 3756 입니다. 로그인이 가능합니다.","has_sensitive":true,"entities":[{"value":"3756","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":304,"content":"휴대폰 번호 변경이 승인되었으며 확인 PIN 6294 을 저장하세요. 새 번호로 SMS가 발송됩니다.","has_sensitive":true,"entities":[{"value":"6294","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":305,"content":"개인정보 수정 요청이 완료되었고 변경 승인번호는 5817 입니다. 변경 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5817","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":306,"content":"프로필 사진 업로드 완료되었으며 승인 코드 8361 이 생성되었습니다. 검토 후 공개됩니다.","has_sensitive":true,"entities":[{"value":"8361","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":307,"content":"닉네임 변경이 승인되었고 확인번호는 2749 입니다. 변경은 월 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"2749","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":308,"content":"주소록 동기화 완료되었으며 연동 PIN 번호 4182 를 사용하세요. 연락처가 안전하게 저장되었습니다.","has_sensitive":true,"entities":[{"value":"4182","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":309,"content":"알림 설정이 변경되었고 확인 코드는 9573 입니다. 푸시 알림이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"9573","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":310,"content":"보안 설정 강화 완료되었으며 2단계 인증 PIN 7416 이 설정되었습니다. 로그인 시 추가 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"7416","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":311,"content":"생체인증 등록이 완료되었고 백업 코드는 3825 입니다. 기기 변경 시 필요합니다.","has_sensitive":true,"entities":[{"value":"3825","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":312,"content":"지문인증 활성화되었으며 긴급 PIN 번호 6149 를 보관하세요. 인식 실패 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"6149","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":313,"content":"얼굴인증 등록 완료되었고 대체 인증 코드는 5982 입니다. 어두운 환경에서 사용하세요.","has_sensitive":true,"entities":[{"value":"5982","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":314,"content":"패턴 잠금이 설정되었으며 복구 PIN 번호 8237 이 발급되었습니다. 패턴 분실 시 사용하세요.","has_sensitive":true,"entities":[{"value":"8237","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":315,"content":"PIN 번호 1654 로 보안이 강화되었습니다. 6자리로 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"1654","begin":7,"end":11,"label":"PAYMENT_PIN"}]}
+{"id":316,"content":"OTP 인증이 활성화되었고 초기 시드값 코드 9376 을 저장하세요. 30초마다 갱신됩니다.","has_sensitive":true,"entities":[{"value":"9376","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":317,"content":"하드웨어 토큰 등록 완료되었으며 기기 인증 PIN 4518 이 필요합니다. 분실 시 즉시 신고하세요.","has_sensitive":true,"entities":[{"value":"4518","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":318,"content":"SMS 인증 완료되었고 일회용 코드는 7823 입니다. 5분 내에 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7823","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":319,"content":"이메일 인증 코드 2491 이 발송되었습니다. 스팸함도 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2491","begin":11,"end":15,"label":"PAYMENT_PIN"}]}
+{"id":320,"content":"카카오톡 인증 완료되었으며 연동 PIN 번호 6735 을 사용하세요. 친구 추가가 되었습니다.","has_sensitive":true,"entities":[{"value":"6735","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":321,"content":"네이버 아이디 연동되었고 통합 인증 코드는 5194 입니다. 간편 로그인이 가능합니다.","has_sensitive":true,"entities":[{"value":"5194","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":322,"content":"구글 계정 연결 완료되었으며 동기화 PIN 8462 이 설정되었습니다. 데이터가 백업됩니다.","has_sensitive":true,"entities":[{"value":"8462","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":323,"content":"페이스북 로그인 활성화되었고 프로필 연동 코드 3629 를 확인하세요. 친구 목록이 가져와집니다.","has_sensitive":true,"entities":[{"value":"3629","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":324,"content":"애플 아이디로 가입 완료되었으며 확인 PIN 번호 9147 이 발급되었습니다. iCloud 동기화도 가능합니다.","has_sensitive":true,"entities":[{"value":"9147","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":325,"content":"소셜 로그인 연동 완료되었고 통합 관리 코드는 2586 입니다. 여러 계정을 관리할 수 있습니다.","has_sensitive":true,"entities":[{"value":"2586","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":326,"content":"다중 계정 등록이 승인되었으며 전환 PIN 번호 7934 을 사용하세요. 쉽게 전환할 수 있습니다.","has_sensitive":true,"entities":[{"value":"7934","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":327,"content":"게스트 모드 종료되었고 정회원 전환 코드는 4271 입니다. 모든 기능을 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4271","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":328,"content":"임시 계정에서 정식 계정으로 업그레이드되었으며 확인 PIN 6853 이 필요합니다. 데이터가 유지됩니다.","has_sensitive":true,"entities":[{"value":"6853","begin":40,"end":44,"label":"PAYMENT_PIN"}]}
+{"id":329,"content":"체험판 종료 안내입니다. 정식 구매 시 할인 코드 1495 를 사용하세요. 30% 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"1495","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":330,"content":"무료 플랜에서 유료 플랜으로 전환되었고 결제 확인번호 5729 을 보관하세요. 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"5729","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":331,"content":"결제 정보 업데이트 완료되었으며 변경 확인 코드 8316 이 생성되었습니다. 다음 결제부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"8316","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":332,"content":"신용카드 등록이 완료되었고 카드 인증 PIN 번호 3642 를 입력하세요. 소액 결제로 확인됩니다.","has_sensitive":true,"entities":[{"value":"3642","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":333,"content":"계좌 등록 승인되었으며 1원 인증 코드는 9758 입니다. 통장에서 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9758","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":334,"content":"자동결제 카드 변경되었고 확인번호는 2473 입니다. 다음 결제일에 새 카드로 청구됩니다.","has_sensitive":true,"entities":[{"value":"2473","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":335,"content":"청구서 발행 완료되었으며 조회 코드는 6185 입니다. 이메일로도 발송되었습니다.","has_sensitive":true,"entities":[{"value":"6185","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":336,"content":"영수증 재발급 요청이 처리되었고 발급번호는 5927 입니다. PDF 파일로 다운로드 가능합니다.","has_sensitive":true,"entities":[{"value":"5927","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":337,"content":"세금계산서 신청이 접수되었으며 발행 코드 8341 을 저장하세요. 익월 10일에 발행됩니다.","has_sensitive":true,"entities":[{"value":"8341","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":338,"content":"현금영수증 발급 완료되었고 승인번호는 1796 입니다. 국세청 홈택스에서 확인하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"1796","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":339,"content":"거래명세서 다운로드 링크가 생성되었으며 접근 코드 4562 이 필요합니다. 7일간 유효합니다.","has_sensitive":true,"entities":[{"value":"4562","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":340,"content":"월별 사용 내역서 발송되었고 확인 PIN 번호 9283 를 입력하세요. 암호화되어 보호됩니다.","has_sensitive":true,"entities":[{"value":"9283","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":341,"content":"연간 결산 보고서 준비 완료되었으며 열람 코드는 7146 입니다. 회계 감사 시 사용하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7146","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":342,"content":"지출 분석 리포트가 생성되었고 다운로드 PIN 3859 을 사용하세요. 맞춤형 재무 조언이 포함되었습니다.","has_sensitive":true,"entities":[{"value":"3859","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":343,"content":"예산 초과 알림입니다. 상세 내역 확인 코드 6421 을 참조하세요. 지출 조정을 권장합니다.","has_sensitive":true,"entities":[{"value":"6421","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":344,"content":"목표 달성 축하드립니다. 보상 지급 PIN 번호 5718 이 발급되었습니다. 다음 목표도 설정해 보세요.","has_sensitive":true,"entities":[{"value":"5718","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":345,"content":"저축 챌린지 완료되었고 인증 코드는 8294 입니다. 보너스 이자가 추가로 지급됩니다.","has_sensitive":true,"entities":[{"value":"8294","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":346,"content":"투자 포트폴리오 리밸런싱 완료되었으며 확인번호 2637 를 보관하세요. 수익률이 개선되었습니다.","has_sensitive":true,"entities":[{"value":"2637","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":347,"content":"배당금 지급 예정이며 수령 확인 코드는 9145 입니다. 계좌로 자동 입금됩니다.","has_sensitive":true,"entities":[{"value":"9145","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":348,"content":"이자 정산 완료되었고 지급 내역 PIN 번호 4783 을 확인하세요. 세전 금액입니다.","has_sensitive":true,"entities":[{"value":"4783","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":349,"content":"환율 우대 쿠폰이 발급되었으며 사용 코드는 6952 입니다. 해외 송금 시 2% 할인됩니다.","has_sensitive":true,"entities":[{"value":"6952","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":350,"content":"수수료 면제 혜택이 적용되었고 확인번호는 1387 입니다. 이번 달 거래에 한하여 유효합니다.","has_sensitive":true,"entities":[{"value":"1387","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":351,"content":"우대 금리 적용 완료되었으며 승인 코드 5824 를 저장하세요. 연 0.5% 추가 금리입니다.","has_sensitive":true,"entities":[{"value":"5824","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":352,"content":"한도 증액 신청이 승인되었고 변경 확인 PIN 8169 이 필요합니다. 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"8169","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":353,"content":"신용등급 상향 조정되었으며 통지 코드는 3491 입니다. 대출 금리가 낮아질 수 있습니다.","has_sensitive":true,"entities":[{"value":"3491","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":354,"content":"금융 건전성 평가 완료되었고 결과 조회 번호 7256 을 사용하세요. 종합 점수는 우수입니다.","has_sensitive":true,"entities":[{"value":"7256","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":355,"content":"재무 건강 진단서가 발급되었으며 열람 PIN 2943 이 필요합니다. 개선 방안이 제시되어 있습니다.","has_sensitive":true,"entities":[{"value":"2943","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":356,"content":"맞춤형 상품 추천 받기를 완료하셨고 확인 코드 6578 을 입력하세요. 전문가 상담이 가능합니다.","has_sensitive":true,"entities":[{"value":"6578","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":357,"content":"자산 관리 서비스 신청되었으며 고객 전용 PIN 9312 이 배정되었습니다. 전담 매니저가 연락드립니다.","has_sensitive":true,"entities":[{"value":"9312","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":358,"content":"프라이빗 뱅킹 자격 획득하셨고 VIP 라운지 출입 코드 4726 을 사용하세요. 최고급 서비스를 경험하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4726","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":359,"content":"골드 클래스 승급 축하드리며 특전 이용 PIN 1895 이 발급되었습니다. 공항 라운지 이용이 무료입니다.","has_sensitive":true,"entities":[{"value":"1895","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":360,"content":"로열티 프로그램 가입 완료되었고 회원번호 확인 코드 5463 을 보관하세요. 평생 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"5463","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":361,"content":"포인트 통합 완료되었으며 전환 인증번호는 8237 입니다. 모든 계열사에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"8237","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":362,"content":"마일리지 적립 완료되었고 누적 확인 PIN 번호 3619 를 입력하세요. 항공권 교환이 가능합니다.","has_sensitive":true,"entities":[{"value":"3619","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":363,"content":"캐시백 지급 예정이며 수령 코드는 7482 입니다. 다음 결제 시 자동 차감됩니다.","has_sensitive":true,"entities":[{"value":"7482","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":364,"content":"리워드 포인트 2배 적립 이벤트 적용되었고 확인번호 2158 을 저장하세요. 이번 주말까지 유효합니다.","has_sensitive":true,"entities":[{"value":"2158","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":365,"content":"감사 쿠폰이 발급되었으며 사용 PIN 코드 9634 이 필요합니다. 전 상품 20% 할인입니다.","has_sensitive":true,"entities":[{"value":"9634","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":366,"content":"생일 축하 쿠폰 도착했습니다. 특별 할인 코드 4971 을 사용하세요. 이번 달 내에만 유효합니다.","has_sensitive":true,"entities":[{"value":"4971","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":367,"content":"웰컴 보너스 지급 완료되었고 수령 PIN 번호 6325 를 확인하세요. 신규 가입 감사 선물입니다.","has_sensitive":true,"entities":[{"value":"6325","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":368,"content":"추천 보상 적립되었으며 인증 코드는 1748 입니다. 친구와 함께 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"1748","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":369,"content":"시즌 한정 특가 쿠폰 발급되었고 사용번호 5896 을 입력하세요. 인기 상품 50% 할인입니다.","has_sensitive":true,"entities":[{"value":"5896","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":370,"content":"플래시 세일 참여 확정되었으며 구매 인증 PIN 8413 이 필요합니다. 선착순 100명 한정입니다.","has_sensitive":true,"entities":[{"value":"8413","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":371,"content":"타임 딜 주문 완료되었고 확인 코드는 3267 입니다. 최저가 보상제가 적용됩니다.","has_sensitive":true,"entities":[{"value":"3267","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":372,"content":"그룹 구매 성사되었으며 할인 적용 번호 7924 를 저장하세요. 참여자 모두 30% 할인받습니다.","has_sensitive":true,"entities":[{"value":"7924","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":373,"content":"공동 구매 최종 확정되었고 결제 진행 PIN 2546 을 사용하세요. 목표 인원을 달성했습니다.","has_sensitive":true,"entities":[{"value":"2546","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":374,"content":"소셜 커머스 특가 예약되었으며 픽업 코드는 9187 입니다. 매장 방문 시 제시하세요.","has_sensitive":true,"entities":[{"value":"9187","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":375,"content":"오늘의 딜 구매 완료되었고 배송 추적 번호와 PIN 4635 을 확인하세요. 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"4635","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":376,"content":"슈퍼 세이브 데이 주문이 접수되었으며 할인 확인 코드 6892 이 발급되었습니다. 최대 70% 할인 적용되었습니다.","has_sensitive":true,"entities":[{"value":"6892","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":377,"content":"멤버 전용 세일 참여 승인되었고 VIP 쿠폰 번호 1374 을 사용하세요. 추가 10% 할인됩니다.","has_sensitive":true,"entities":[{"value":"1374","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":378,"content":"앱 전용 특가 구매하셨으며 모바일 전용 코드 5729 를 보관하세요. 앱에서만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5729","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":379,"content":"첫 구매 고객 할인 적용되었고 신규 회원 PIN 8461 이 필요합니다. 다음 구매부터도 할인 계속됩니다.","has_sensitive":true,"entities":[{"value":"8461","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":380,"content":"재구매 감사 쿠폰 발급되었으며 충성 고객 코드 3152 을 입력하세요. 10% 추가 적립됩니다.","has_sensitive":true,"entities":[{"value":"3152","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":381,"content":"정기 구독 갱신 완료되었고 자동 결제 확인번호 9786 을 저장하세요. 다음 결제일은 30일 후입니다.","has_sensitive":true,"entities":[{"value":"9786","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":382,"content":"월간 박스 발송 예정이며 배송 조회 PIN 번호 4293 이 필요합니다. 이번 달 큐레이션을 확인하세요.","has_sensitive":true,"entities":[{"value":"4293","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":383,"content":"정기배송 일시정지 완료되었으며 재개 코드는 6817 입니다. 언제든 재시작 가능합니다.","has_sensitive":true,"entities":[{"value":"6817","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":384,"content":"구독 해지 요청이 처리되었고 환불 진행 PIN 2549 을 확인하세요. 남은 기간은 일할 계산됩니다.","has_sensitive":true,"entities":[{"value":"2549","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":385,"content":"무료 체험 기간 종료 안내드립니다. 계속 이용 시 코드 5938 을 입력하세요. 첫 달 50% 할인입니다.","has_sensitive":true,"entities":[{"value":"5938","begin":37,"end":41,"label":"PAYMENT_PIN"}]}
+{"id":386,"content":"플랜 변경 신청이 승인되었으며 업그레이드 확인 PIN 8174 이 발급되었습니다. 추가 기능이 해제됩니다.","has_sensitive":true,"entities":[{"value":"8174","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":387,"content":"다운그레이드 완료되었고 조정 환불 코드는 3625 입니다. 차액이 반환됩니다.","has_sensitive":true,"entities":[{"value":"3625","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":388,"content":"요금제 최적화 추천을 받으셨고 변경 PIN 번호 7491 을 사용하세요. 월 1만원 절약됩니다.","has_sensitive":true,"entities":[{"value":"7491","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":389,"content":"데이터 사용량 알림입니다. 추가 구매 시 할인 코드 1862 를 입력하세요. 긴급 충전 10% 할인입니다.","has_sensitive":true,"entities":[{"value":"1862","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":390,"content":"용량 업그레이드 완료되었으며 확장 인증번호는 9347 입니다. 100GB 추가되었습니다.","has_sensitive":true,"entities":[{"value":"9347","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":391,"content":"클라우드 스토리지 동기화 완료되었고 접근 코드 4516 을 보관하세요. 모든 기기에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4516","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":392,"content":"백업 완료되었으며 복구 키는 6238 입니다. 안전한 곳에 별도 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6238","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":393,"content":"파일 공유 링크가 생성되었고 보안 PIN 번호 5879 이 설정되었습니다. 7일간 유효합니다.","has_sensitive":true,"entities":[{"value":"5879","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":394,"content":"폴더 암호화 완료되었으며 해제 코드는 8123 입니다. 분실 시 복구 불가능합니다.","has_sensitive":true,"entities":[{"value":"8123","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":395,"content":"파일 다운로드 권한이 부여되었고 접근 PIN 2687 을 입력하세요. 1회 다운로드 후 만료됩니다.","has_sensitive":true,"entities":[{"value":"2687","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":396,"content":"업로드 완료되었으며 공유 확인 코드는 9435 입니다. 링크로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"9435","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":397,"content":"삭제 예정 파일 복구되었고 복원 PIN 번호 3752 가 필요합니다. 30일 이내에만 가능합니다.","has_sensitive":true,"entities":[{"value":"3752","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":398,"content":"휴지통 비우기 완료되었으며 최종 확인 코드 6941 을 저장하세요. 복구가 불가능합니다.","has_sensitive":true,"entities":[{"value":"6941","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":399,"content":"버전 관리 활성화되었고 이력 조회 PIN 1584 이 발급되었습니다. 이전 버전으로 복원 가능합니다.","has_sensitive":true,"entities":[{"value":"1584","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":400,"content":"협업 초대가 발송되었으며 참여 코드는 7269 입니다. 실시간 공동 작업이 가능합니다.","has_sensitive":true,"entities":[{"value":"7269","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":401,"content":"회의실 예약 완료되었고 입장 PIN 번호 4836 을 사용하세요. 화상 회의 시작 15분 전부터 입장 가능합니다.","has_sensitive":true,"entities":[{"value":"4836","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":402,"content":"웨비나 등록이 승인되었으며 참석 코드는 9152 입니다. 행사 당일 접속 링크로 입장하세요.","has_sensitive":true,"entities":[{"value":"9152","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":403,"content":"온라인 강의 수강 신청 완료되었고 입장 PIN 5723 이 필요합니다. 수강 기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"5723","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":404,"content":"자격증 시험 접수 완료되었으며 수험번호 확인 코드 2894 를 출력하세요. 신분증과 함께 지참하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2894","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":405,"content":"교육 과정 이수증이 발급되었고 증명서 번호 6417 을 기록하세요. PDF 다운로드 가능합니다.","has_sensitive":true,"entities":[{"value":"6417","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":406,"content":"수료증 신청이 접수되었으며 발급 PIN 번호 8365 이 생성되었습니다. 우편 발송까지 1주일 소요됩니다.","has_sensitive":true,"entities":[{"value":"8365","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":407,"content":"성적 조회 가능합니다. 열람 코드 3129 을 입력하세요. 이의신청 기간은 7일입니다.","has_sensitive":true,"entities":[{"value":"3129","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":408,"content":"장학금 신청이 승인되었고 수령 확인 PIN 7948 이 필요합니다. 계좌로 입금 예정입니다.","has_sensitive":true,"entities":[{"value":"7948","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":409,"content":"등록금 납부 완료되었으며 영수증 번호는 1562 입니다. 학생증 발급이 가능합니다.","has_sensitive":true,"entities":[{"value":"1562","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":410,"content":"휴학 신청이 처리되었고 승인 코드는 4736 입니다. 복학 시 미리 연락 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4736","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":411,"content":"졸업 예정자 확인서가 발급되었으며 문서 번호 9281 을 확인하세요. 취업 서류로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"9281","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":412,"content":"학위증명서 발급 신청 완료되었고 처리 PIN 5394 를 보관하세요. 영문 번역본도 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"5394","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":413,"content":"성적증명서 출력 코드는 6827 입니다. 무인 발급기에서 즉시 수령하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6827","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":414,"content":"재학증명서 온라인 발급되었으며 문서 확인 PIN 2473 이 필요합니다. 전자 서명이 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"2473","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":415,"content":"도서관 대출 연장되었고 반납일 확인 코드 8165 를 저장하세요. 최대 2회까지 연장 가능합니다.","has_sensitive":true,"entities":[{"value":"8165","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":416,"content":"열람실 좌석 예약 완료되었으며 입실 PIN 번호 3629 을 사용하세요. 예약 시간 엄수 부탁드립니다.","has_sensitive":true,"entities":[{"value":"3629","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":417,"content":"전자책 대여가 승인되었고 다운로드 코드는 7914 입니다. 14일간 열람 가능합니다.","has_sensitive":true,"entities":[{"value":"7914","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":418,"content":"논문 데이터베이스 접근 권한이 부여되었으며 로그인 PIN 4582 이 발급되었습니다. 학술 연구에 활용하세요.","has_sensitive":true,"entities":[{"value":"4582","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":419,"content":"연구실 출입증이 발급되었고 보안 코드는 9327 입니다. 분실 시 즉시 신고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9327","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":420,"content":"실험 장비 예약 완료되었으며 사용 인증 PIN 1746 을 입력하세요. 안전 교육 이수 필수입니다.","has_sensitive":true,"entities":[{"value":"1746","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":421,"content":"주차권 발급되었고 차량 등록 번호 확인 코드 5893 이 필요합니다. 출입 시 제시하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5893","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":422,"content":"기숙사 입실 승인되었으며 전자키 활성화 PIN 6214 를 사용하세요. 규칙을 준수해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6214","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":423,"content":"식당 식권 충전 완료되었고 잔액 확인 코드는 8437 입니다. 모바일 앱에서도 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"8437","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":424,"content":"체육관 이용권이 등록되었으며 입장 PIN 번호 2965 이 필요합니다. 운동복과 실내화를 준비하세요.","has_sensitive":true,"entities":[{"value":"2965","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":425,"content":"은행 계좌 개설 완료되었고 초기 비밀번호 7184 를 확인하세요. 첫 거래 전 변경이 필요합니다.","has_sensitive":true,"entities":[{"value":"7184","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":426,"content":"ATM 기계 사용 시 PIN 코드 3526 을 입력하시면 됩니다. 출금 한도는 일 200만원입니다.","has_sensitive":true,"entities":[{"value":"3526","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":427,"content":"신용카드 승인번호는 9418 이며 영수증을 보관하시기 바랍니다. 할부 거래도 가능합니다.","has_sensitive":true,"entities":[{"value":"9418","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":428,"content":"모바일 뱅킹 접속을 위한 보안 PIN 6732 이 설정되었습니다. 생체인증과 함께 사용하세요.","has_sensitive":true,"entities":[{"value":"6732","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":429,"content":"계좌이체 인증번호 4891 을 입력해 주시기 바랍니다. 거래 완료 후 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"4891","begin":11,"end":15,"label":"PAYMENT_PIN"}]}
+{"id":430,"content":"카드 비밀번호 변경이 완료되었으며 새 PIN은 5237 입니다. 타인에게 노출되지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"5237","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":431,"content":"현금 인출 시 필요한 인증코드는 8169 이며 수수료는 무료입니다. ATM 화면 안내를 따라주세요.","has_sensitive":true,"entities":[{"value":"8169","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":432,"content":"온라인 결제 승인을 위해 보안번호 2743 를 입력하세요. 또한 SMS 인증도 필요합니다.","has_sensitive":true,"entities":[{"value":"2743","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":433,"content":"체크카드 발급 신청이 완료되었고 초기 PIN 번호는 9625 입니다. 영업점이나 ATM에서 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"9625","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":434,"content":"송금 거래를 위한 확인 코드 1384 가 발송되었습니다. 먼저 수취인 계좌를 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"1384","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":435,"content":"자동이체 등록 시 본인인증 번호 6957 을 사용하세요. 다음달부터 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"6957","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":436,"content":"신규 통장 개설되었으며 출금 비밀번호는 4512 로 설정됩니다. 참고로 인터넷뱅킹도 신청되었습니다.","has_sensitive":true,"entities":[{"value":"4512","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":437,"content":"해외 결제 승인 코드 7893 이 생성되었습니다. 환전 수수료는 1.5%입니다.","has_sensitive":true,"entities":[{"value":"7893","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":438,"content":"비밀번호 초기화 완료되었고 임시 PIN은 3246 입니다. 그리고 최초 로그인 시 즉시 변경하셔야 합니다.","has_sensitive":true,"entities":[{"value":"3246","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":439,"content":"대출 승인되었으며 전자계약 서명용 코드는 5718 입니다. 아울러 약관을 꼼꼼히 읽어보시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5718","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":440,"content":"적금 만기 출금을 위해 비밀번호 9142 를 준비하세요. 또한 신분증 지참이 필수입니다.","has_sensitive":true,"entities":[{"value":"9142","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":441,"content":"펀드 매수 확인용 인증번호는 2836 이며 체결 내역은 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"2836","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":442,"content":"증권계좌 거래 비밀번호 6459 로 등록 완료되었습니다. 먼저 투자 성향 분석을 완료하세요.","has_sensitive":true,"entities":[{"value":"6459","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":443,"content":"보험료 자동납부 인증 PIN 번호 8371 이 필요합니다. 다만 잔액 부족 시 연체될 수 있습니다.","has_sensitive":true,"entities":[{"value":"8371","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":444,"content":"외환 송금 시 본인확인 코드는 1925 입니다. 참고로 송금 한도는 연 5만 달러입니다.","has_sensitive":true,"entities":[{"value":"1925","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":445,"content":"법인카드 발급되었고 관리자 PIN 코드 4763 을 사용하세요. 그리고 사용 내역은 월말에 정산됩니다.","has_sensitive":true,"entities":[{"value":"4763","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":446,"content":"청약통장 입금 확인번호는 5294 이며 청약 자격이 유지됩니다. 매월 정기 납입을 권장합니다.","has_sensitive":true,"entities":[{"value":"5294","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":447,"content":"마이너스 통장 개설 완료되었으며 사용 PIN은 7618 입니다. 또한 이자는 일할 계산됩니다.","has_sensitive":true,"entities":[{"value":"7618","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":448,"content":"선불카드 충전을 위한 인증코드 3852 가 발급되었습니다. 아울러 최대 100만원까지 충전 가능합니다.","has_sensitive":true,"entities":[{"value":"3852","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":449,"content":"기프티콘 등록 시 보안번호 9146 을 입력하세요. 먼저 유효기간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9146","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":450,"content":"간편결제 서비스 등록되었고 확인 PIN 2587 이 설정되었습니다. 다만 일 한도는 50만원입니다.","has_sensitive":true,"entities":[{"value":"2587","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":451,"content":"페이 충전 완료되었으며 거래번호는 6413 입니다. 참고로 포인트 적립도 함께 됩니다.","has_sensitive":true,"entities":[{"value":"6413","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":452,"content":"카카오뱅크 계좌 개설되었고 초기 비밀번호 8729 를 확인하세요. 그리고 체크카드도 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"8729","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":453,"content":"토스뱅크 송금 인증번호는 4165 이며 수수료 무료입니다. 또한 즉시 이체됩니다.","has_sensitive":true,"entities":[{"value":"4165","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":454,"content":"케이뱅크 대출 승인코드 5938 이 발송되었습니다. 아울러 금리는 연 3.8%입니다.","has_sensitive":true,"entities":[{"value":"5938","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":455,"content":"네이버페이 결제 시 보안 PIN 번호 7241 을 입력하세요. 먼저 카드 정보를 등록해야 합니다.","has_sensitive":true,"entities":[{"value":"7241","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":456,"content":"삼성페이 카드 등록 완료되었으며 인증코드는 1396 입니다. 다만 일부 가맹점은 사용 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"1396","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":457,"content":"애플페이 활성화를 위해 확인번호 9574 를 사용하세요. 참고로 FaceID 인증도 가능합니다.","has_sensitive":true,"entities":[{"value":"9574","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":458,"content":"구글페이 등록 시 본인인증 PIN 2845 이 필요합니다. 그리고 여러 카드를 추가할 수 있습니다.","has_sensitive":true,"entities":[{"value":"2845","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":459,"content":"페이코 포인트 전환 인증번호는 6182 입니다. 또한 전환 비율은 1:1입니다.","has_sensitive":true,"entities":[{"value":"6182","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":460,"content":"스마일페이 충전 완료되었고 확인 코드 4937 을 보관하세요. 아울러 CU에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4937","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":461,"content":"하나원큐 계좌이체 승인번호는 8526 이며 즉시 처리됩니다. 먼저 이체 한도를 확인하세요.","has_sensitive":true,"entities":[{"value":"8526","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":462,"content":"KB스타뱅킹 로그인 시 보안 PIN 3714 이 필요합니다. 다만 공용 PC에서는 사용 자제하세요.","has_sensitive":true,"entities":[{"value":"3714","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":463,"content":"신한 SOL뱅크 거래 인증코드는 5829 입니다. 참고로 생체인증도 등록 가능합니다.","has_sensitive":true,"entities":[{"value":"5829","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":464,"content":"우리WON뱅킹 출금 비밀번호 9163 로 설정되었습니다. 그리고 변경은 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"9163","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":465,"content":"NH올원뱅크 송금 확인 PIN 번호 2478 을 입력하세요. 또한 SMS로도 전송되었습니다.","has_sensitive":true,"entities":[{"value":"2478","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":466,"content":"IBK기업은행 대출 서명용 코드는 7395 입니다. 아울러 계약서를 출력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7395","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":467,"content":"SC은행 외환거래 인증번호 4681 이 발급되었습니다. 먼저 환율을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"4681","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":468,"content":"씨티뱅크 프리미엄 서비스 접속 PIN 6254 을 사용하세요. 다만 VIP 전용입니다.","has_sensitive":true,"entities":[{"value":"6254","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":469,"content":"BNK경남은행 정기예금 가입 완료되었으며 출금 코드는 1847 입니다. 참고로 만기는 1년 후입니다.","has_sensitive":true,"entities":[{"value":"1847","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":470,"content":"DGB대구은행 펀드 매수 확인번호는 9532 이며 수익률은 변동됩니다. 그리고 위험 등급을 확인하세요.","has_sensitive":true,"entities":[{"value":"9532","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":471,"content":"광주은행 적금 만기 출금용 PIN 번호 3265 이 필요합니다. 또한 이자소득세가 공제됩니다.","has_sensitive":true,"entities":[{"value":"3265","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":472,"content":"전북은행 모바일 뱅킹 인증코드는 5948 입니다. 아울러 지문인증 등록을 권장합니다.","has_sensitive":true,"entities":[{"value":"5948","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":473,"content":"제주은행 카드론 승인 확인번호 7126 을 보관하세요. 먼저 상환 계획을 세우시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7126","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":474,"content":"새마을금고 통장 개설되었고 초기 비밀번호는 8413 입니다. 다만 영업점 방문 시 변경 필요합니다.","has_sensitive":true,"entities":[{"value":"8413","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":475,"content":"신협 예금 가입 인증 PIN 코드 2679 가 발급되었습니다. 참고로 배당금도 지급됩니다.","has_sensitive":true,"entities":[{"value":"2679","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":476,"content":"수협은행 어업인 대출 승인코드는 4985 이며 금리 우대가 적용됩니다. 그리고 서류를 제출하세요.","has_sensitive":true,"entities":[{"value":"4985","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":477,"content":"산림조합 조합원 출자금 입금 확인번호 6317 을 저장하세요. 또한 연말 배당을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6317","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":478,"content":"우체국 예금 자동이체 등록 PIN 번호는 1592 입니다. 아울러 매월 5일에 출금됩니다.","has_sensitive":true,"entities":[{"value":"1592","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":479,"content":"저축은행 고금리 예금 가입되었으며 인증코드 9738 을 확인하세요. 먼저 예금자보호 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9738","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":480,"content":"카카오페이증권 계좌 개설 완료되었고 거래 PIN 5246 이 설정되었습니다. 다만 주식 거래 전 교육 이수 필요합니다.","has_sensitive":true,"entities":[{"value":"5246","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":481,"content":"토스증권 미국 주식 매수 인증번호는 8164 입니다. 참고로 환전 수수료가 발생합니다.","has_sensitive":true,"entities":[{"value":"8164","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":482,"content":"키움증권 선물옵션 거래 승인 코드 3721 을 사용하세요. 그리고 증거금을 미리 입금하셔야 합니다.","has_sensitive":true,"entities":[{"value":"3721","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":483,"content":"미래에셋증권 펀드 환매 확인번호는 6895 이며 3영업일 후 입금됩니다. 또한 수수료가 공제됩니다.","has_sensitive":true,"entities":[{"value":"6895","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":484,"content":"삼성증권 ISA 계좌 이체 PIN 번호 2543 이 필요합니다. 아울러 비과세 한도를 확인하세요.","has_sensitive":true,"entities":[{"value":"2543","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":485,"content":"한국투자증권 ETF 매수 완료되었고 체결번호 4719 를 보관하세요. 먼저 분배금 지급일을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4719","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":486,"content":"NH투자증권 연금저축 가입 인증코드는 9386 입니다. 다만 중도 인출 시 세금이 부과됩니다.","has_sensitive":true,"entities":[{"value":"9386","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":487,"content":"KB증권 해외주식 매도 확인 PIN 번호 5172 을 입력하세요. 참고로 양도소득세 신고가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"5172","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":488,"content":"신한투자증권 IPO 청약 신청되었으며 배정번호는 8624 입니다. 그리고 결과는 익일 발표됩니다.","has_sensitive":true,"entities":[{"value":"8624","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":489,"content":"하이투자증권 리츠 투자 승인코드 1437 가 발급되었습니다. 또한 배당 수익률을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1437","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":490,"content":"대신증권 신용거래 개시 PIN 코드는 7258 입니다. 아울러 이자율과 담보 비율을 확인하세요.","has_sensitive":true,"entities":[{"value":"7258","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":491,"content":"유안타증권 랩어카운트 가입 완료되었고 관리번호 3896 을 저장하세요. 먼저 투자 성향 분석이 진행됩니다.","has_sensitive":true,"entities":[{"value":"3896","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":492,"content":"메리츠증권 파생상품 거래 인증번호는 6541 이며 고위험 상품입니다. 다만 충분한 이해 후 거래하세요.","has_sensitive":true,"entities":[{"value":"6541","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":493,"content":"현대차증권 채권 매수 확인 코드 9217 이 생성되었습니다. 참고로 만기까지 보유를 권장합니다.","has_sensitive":true,"entities":[{"value":"9217","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":494,"content":"교보증권 해외채권 투자 승인 PIN 4753 을 사용하세요. 그리고 환헤지 여부를 선택하셔야 합니다.","has_sensitive":true,"entities":[{"value":"4753","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":495,"content":"SK증권 로보어드바이저 서비스 등록되었으며 접속번호는 8129 입니다. 또한 AI가 자동으로 리밸런싱합니다.","has_sensitive":true,"entities":[{"value":"8129","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":496,"content":"케이프투자증권 사모펀드 가입 인증코드 2685 가 필요합니다. 아울러 최소 투자금은 1억원입니다.","has_sensitive":true,"entities":[{"value":"2685","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":497,"content":"이베스트투자증권 API 트레이딩 등록 완료되었고 키값은 5914 입니다. 먼저 개발 문서를 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5914","begin":39,"end":43,"label":"PAYMENT_PIN"}]}
+{"id":498,"content":"다올투자증권 VIP 전용 서비스 활성화되었으며 PIN 번호 7382 을 입력하세요. 다만 자산 10억 이상 고객 대상입니다.","has_sensitive":true,"entities":[{"value":"7382","begin":38,"end":42,"label":"PAYMENT_PIN"}]}
+{"id":499,"content":"부국증권 금 실물 투자 신청되었고 인증번호는 1649 입니다. 참고로 보관료가 별도 부과됩니다.","has_sensitive":true,"entities":[{"value":"1649","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":500,"content":"비엔케이투자증권 DLS 가입 확인 코드 9473 을 보관하세요. 그리고 원금 손실 가능성을 인지하셔야 합니다.","has_sensitive":true,"entities":[{"value":"9473","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":501,"content":"카드 결제 승인을 위해 PIN 번호 3528 을 입력해 주세요. 또한 영수증 발급이 가능합니다.","has_sensitive":true,"entities":[{"value":"3528","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":502,"content":"통장 개설이 완료되었으며 출금용 비밀번호는 6841 입니다. 먼저 앱 설치를 권장합니다.","has_sensitive":true,"entities":[{"value":"6841","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":503,"content":"현금서비스 이용 시 보안코드 2947 이 필요합니다. 다만 이자율이 높으니 신중히 사용하세요.","has_sensitive":true,"entities":[{"value":"2947","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":504,"content":"계좌 잔액 조회를 위한 인증번호는 5736 이며 SMS로 발송되었습니다. 참고로 타행 조회도 가능합니다.","has_sensitive":true,"entities":[{"value":"5736","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":505,"content":"이체 한도 변경 신청이 승인되었고 확인 PIN 8194 을 저장하세요. 아울러 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"8194","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":506,"content":"정기예금 중도해지 확인용 코드는 4162 입니다. 그리고 약정 이율보다 낮은 금리가 적용됩니다.","has_sensitive":true,"entities":[{"value":"4162","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":507,"content":"예적금 만기 자동연장 설정되었으며 PIN 번호 9385 이 필요합니다. 먼저 금리 변동을 확인하세요.","has_sensitive":true,"entities":[{"value":"9385","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":508,"content":"보안카드 재발급 신청 완료되었고 임시 코드는 7219 입니다. 또한 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"7219","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":509,"content":"OTP 기기 등록을 위한 인증번호 1573 을 입력하세요. 다만 기기당 하나의 계좌만 연결 가능합니다.","has_sensitive":true,"entities":[{"value":"1573","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":510,"content":"공인인증서 갱신 완료되었으며 비밀번호는 6428 로 설정됩니다. 참고로 유효기간은 1년입니다.","has_sensitive":true,"entities":[{"value":"6428","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":511,"content":"금융인증서 발급되었고 확인 PIN 코드 3961 이 필요합니다. 그리고 클라우드에 안전하게 저장됩니다.","has_sensitive":true,"entities":[{"value":"3961","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":512,"content":"모바일 인증서 등록 시 보안번호 8547 를 사용하세요. 아울러 생체인증도 함께 등록 가능합니다.","has_sensitive":true,"entities":[{"value":"8547","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":513,"content":"전자서명 완료를 위해 인증 코드 2738 을 입력해 주시기 바랍니다. 먼저 문서 내용을 확인하세요.","has_sensitive":true,"entities":[{"value":"2738","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":514,"content":"비대면 계좌개설 본인인증 PIN 번호는 5914 입니다. 또한 영상통화가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"5914","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":515,"content":"스마트폰 뱅킹 앱 로그인 시 패스워드 9126 이 필요합니다. 다만 공용 와이파이는 피하세요.","has_sensitive":true,"entities":[{"value":"9126","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":516,"content":"지문인증 등록 완료되었고 백업 PIN 코드 4785 을 보관하세요. 참고로 인식 실패 시 사용됩니다.","has_sensitive":true,"entities":[{"value":"4785","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":517,"content":"안면인식 인증 설정되었으며 긴급 코드는 6352 입니다. 그리고 마스크 착용 시 인식이 어려울 수 있습니다.","has_sensitive":true,"entities":[{"value":"6352","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":518,"content":"홍채인식 보안 활성화되었고 대체 PIN 번호 1849 이 발급되었습니다. 아울러 렌즈 착용 시에도 인식됩니다.","has_sensitive":true,"entities":[{"value":"1849","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":519,"content":"음성인증 서비스 등록 완료되었으며 확인번호 7463 을 저장하세요. 먼저 조용한 곳에서 등록하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7463","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":520,"content":"패턴 비밀번호 설정되었고 복구 코드는 3928 입니다. 또한 5회 오류 시 계정이 잠깁니다.","has_sensitive":true,"entities":[{"value":"3928","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":521,"content":"핀테크 서비스 연동 인증 PIN 번호 5617 이 필요합니다. 다만 개인정보 제공 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"5617","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":522,"content":"오픈뱅킹 API 연결 완료되었으며 토큰값은 8234 입니다. 참고로 여러 은행 계좌를 통합 관리할 수 있습니다.","has_sensitive":true,"entities":[{"value":"8234","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":523,"content":"금융 데이터 조회 동의 확인코드 2596 를 입력하세요. 그리고 마이데이터 서비스가 활성화됩니다.","has_sensitive":true,"entities":[{"value":"2596","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":524,"content":"자산관리 통합 서비스 가입되었고 PIN 코드 9741 을 사용하세요. 아울러 모든 금융상품을 한눈에 볼 수 있습니다.","has_sensitive":true,"entities":[{"value":"9741","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":525,"content":"신용점수 조회 인증번호는 4183 이며 무료로 확인 가능합니다. 먼저 본인인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"4183","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":526,"content":"대출 사전승인 신청 완료되었으며 확인 PIN 6859 이 발급되었습니다. 또한 정식 심사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"6859","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":527,"content":"모바일 대출 실행 시 서명용 코드 1427 을 준비하세요. 다만 소득 증빙서류가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"1427","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":528,"content":"중도상환 신청이 접수되었고 처리번호는 7365 입니다. 참고로 중도상환 수수료가 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"7365","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":529,"content":"대출금리 인하 요구 승인되었으며 변경 코드 3892 를 확인하세요. 그리고 다음 달부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"3892","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":530,"content":"신용대출 한도 조회 완료되었고 인증 PIN 5718 이 필요합니다. 아울러 최대 5천만원까지 가능합니다.","has_sensitive":true,"entities":[{"value":"5718","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":531,"content":"주택담보대출 신청되었으며 서류 제출용 번호는 9246 입니다. 먼저 감정평가가 진행됩니다.","has_sensitive":true,"entities":[{"value":"9246","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":532,"content":"전세자금대출 승인 확인 코드 2574 가 발송되었습니다. 또한 임대차계약서를 제출하셔야 합니다.","has_sensitive":true,"entities":[{"value":"2574","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":533,"content":"학자금대출 신청 완료되었고 학생 인증 PIN 6183 을 입력하세요. 다만 학적 상태가 재학이어야 합니다.","has_sensitive":true,"entities":[{"value":"6183","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":534,"content":"비상금대출 즉시 실행되었으며 출금 코드는 8419 입니다. 참고로 30일 이내 상환하셔야 합니다.","has_sensitive":true,"entities":[{"value":"8419","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":535,"content":"마이너스 한도대출 개설되었고 사용 PIN 번호 4762 이 필요합니다. 그리고 사용한 금액에 대해서만 이자가 부과됩니다.","has_sensitive":true,"entities":[{"value":"4762","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":536,"content":"카드론 신청 승인되었으며 현금인출 코드 1598 를 사용하세요. 아울러 ATM에서 즉시 출금 가능합니다.","has_sensitive":true,"entities":[{"value":"1598","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":537,"content":"할부 전환 신청 완료되었고 변경 확인번호는 7384 입니다. 먼저 할부 수수료를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7384","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":538,"content":"무이자 할부 적용되었으며 승인 코드 3926 을 보관하세요. 또한 카드사 프로모션이 적용되었습니다.","has_sensitive":true,"entities":[{"value":"3926","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":539,"content":"리볼빙 서비스 등록되었고 관리 PIN 번호 5841 이 설정되었습니다. 다만 높은 이자율에 유의하세요.","has_sensitive":true,"entities":[{"value":"5841","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":540,"content":"연회비 납부 완료되었으며 영수증 번호는 9157 입니다. 참고로 다음 연도분은 자동 청구됩니다.","has_sensitive":true,"entities":[{"value":"9157","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":541,"content":"카드 분실신고 접수되었고 긴급 정지 코드 2683 을 확인하세요. 그리고 재발급 신청이 진행됩니다.","has_sensitive":true,"entities":[{"value":"2683","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":542,"content":"부정사용 방지 서비스 활성화되었으며 알림 PIN 6419 이 필요합니다. 아울러 실시간 거래 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6419","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":543,"content":"해외 사용 등록 완료되었고 인증번호는 8724 입니다. 먼저 여행 기간과 국가를 등록하셨습니다.","has_sensitive":true,"entities":[{"value":"8724","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":544,"content":"일시불 결제 승인되었으며 거래번호 4135 을 저장하세요. 또한 포인트가 자동 적립됩니다.","has_sensitive":true,"entities":[{"value":"4135","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":545,"content":"가맹점 등록 신청이 승인되었고 판매자 PIN 7592 이 발급되었습니다. 다만 심사 기간은 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"7592","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":546,"content":"POS 단말기 설치 완료되었으며 활성화 코드는 3268 입니다. 참고로 수수료율을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3268","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":547,"content":"정산 계좌 등록되었고 확인 PIN 번호 9741 을 입력하세요. 그리고 매출은 D+2일에 입금됩니다.","has_sensitive":true,"entities":[{"value":"9741","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":548,"content":"매출 전표 조회 인증코드는 5386 이며 최근 6개월간 내역을 확인할 수 있습니다. 아울러 엑셀 다운로드도 가능합니다.","has_sensitive":true,"entities":[{"value":"5386","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":549,"content":"취소 거래 처리 완료되었고 환불 코드 1829 가 생성되었습니다. 먼저 고객 계좌로 입금됩니다.","has_sensitive":true,"entities":[{"value":"1829","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":550,"content":"부분 취소 승인되었으며 차액 정산 PIN 6453 을 사용하세요. 또한 영수증이 재발행됩니다.","has_sensitive":true,"entities":[{"value":"6453","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":551,"content":"매입 거래 확인번호는 8917 이며 카드사 승인이 완료되었습니다. 다만 일부 카드는 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"8917","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":552,"content":"현금영수증 발행 완료되었고 국세청 승인번호 2574 를 확인하세요. 참고로 연말정산 시 공제받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"2574","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":553,"content":"소득공제용 등록되었으며 조회 코드는 7138 입니다. 그리고 홈택스에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"7138","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":554,"content":"지출증빙 서류 발급 신청되었고 문서번호 4926 을 기록하세요. 아울러 이메일로도 발송됩니다.","has_sensitive":true,"entities":[{"value":"4926","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":555,"content":"법인카드 사용내역 다운로드 PIN 번호는 9365 입니다. 먼저 회계팀 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"9365","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":556,"content":"경비 처리 신청 완료되었으며 승인 코드 5712 을 저장하세요. 또한 영수증 첨부가 필수입니다.","has_sensitive":true,"entities":[{"value":"5712","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":557,"content":"출장비 정산 접수되었고 지급 확인 PIN 8234 이 발급되었습니다. 다만 검토 기간은 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"8234","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":558,"content":"교통비 환급 신청되었으며 처리번호는 1697 입니다. 참고로 다음 급여일에 지급됩니다.","has_sensitive":true,"entities":[{"value":"1697","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":559,"content":"복리후생비 청구 완료되었고 승인 코드 6483 를 확인하세요. 그리고 한도 내에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"6483","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":560,"content":"법인 통신비 자동이체 등록되었으며 인증 PIN 3825 이 필요합니다. 아울러 매월 25일에 출금됩니다.","has_sensitive":true,"entities":[{"value":"3825","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":561,"content":"사업자 계좌 개설 완료되었고 초기 비밀번호는 9174 입니다. 먼저 사업자등록증을 제출하셔야 합니다.","has_sensitive":true,"entities":[{"value":"9174","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":562,"content":"세금계산서 발행 시스템 로그인 코드 5247 을 사용하세요. 또한 공동인증서 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"5247","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":563,"content":"부가세 신고 전자파일 다운로드 PIN 번호 7863 이 발급되었습니다. 다만 신고 기한을 엄수하세요.","has_sensitive":true,"entities":[{"value":"7863","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":564,"content":"종합소득세 납부 인증코드는 2416 이며 가상계좌로 입금하시면 됩니다. 참고로 분할납부도 가능합니다.","has_sensitive":true,"entities":[{"value":"2416","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":565,"content":"재산세 자동납부 신청 완료되었고 등록 코드 6951 을 저장하세요. 그리고 납부 기한 전 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"6951","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":566,"content":"건강보험료 계좌이체 등록되었으며 확인 PIN 8327 이 필요합니다. 아울러 매월 10일에 납부됩니다.","has_sensitive":true,"entities":[{"value":"8327","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":567,"content":"국민연금 납부 완료되었고 영수증 번호는 4169 입니다. 먼저 납부 증명서를 출력하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4169","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":568,"content":"고용보험료 정산 접수되었으며 처리 코드 9582 를 확인하세요. 또한 정산 내역서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"9582","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":569,"content":"산재보험 가입 신청 완료되었고 사업장 코드 1734 이 부여되었습니다. 다만 보험료율은 업종별로 상이합니다.","has_sensitive":true,"entities":[{"value":"1734","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":570,"content":"4대보험 통합징수 자동이체 설정되었으며 PIN 5928 을 사용하세요. 참고로 매월 말일에 출금됩니다.","has_sensitive":true,"entities":[{"value":"5928","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":571,"content":"급여 이체 신청 승인되었고 직원 계좌 등록 코드 7316 이 필요합니다. 그리고 매월 25일에 지급됩니다.","has_sensitive":true,"entities":[{"value":"7316","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":572,"content":"상여금 지급 완료되었으며 지급명세서 번호는 3842 입니다. 아울러 소득세가 원천징수되었습니다.","has_sensitive":true,"entities":[{"value":"3842","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":573,"content":"퇴직금 정산 접수되었고 최종 확인 PIN 6594 을 입력하세요. 먼저 근속연수를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6594","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":574,"content":"연차수당 지급 신청되었으며 승인번호는 9217 입니다. 또한 다음 급여일에 함께 지급됩니다.","has_sensitive":true,"entities":[{"value":"9217","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":575,"content":"야간수당 청구 완료되었고 처리 코드 4785 를 보관하세요. 다만 근로시간 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"4785","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":576,"content":"인센티브 지급 확정되었으며 수령 PIN 번호 2163 이 발급되었습니다. 참고로 성과 달성률에 따라 차등 지급됩니다.","has_sensitive":true,"entities":[{"value":"2163","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":577,"content":"복지포인트 충전 완료되었고 사용 코드는 5839 입니다. 그리고 복지몰에서 자유롭게 사용하세요.","has_sensitive":true,"entities":[{"value":"5839","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":578,"content":"식대 지원금 입금되었으며 확인번호 7452 을 저장하세요. 아울러 가맹점에서만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"7452","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":579,"content":"교육비 지원 신청 승인되었고 지급 PIN 1628 이 필요합니다. 먼저 수료증을 제출하셔야 합니다.","has_sensitive":true,"entities":[{"value":"1628","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":580,"content":"자녀학자금 지원 완료되었으며 송금 코드는 9374 입니다. 또한 재학증명서 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"9374","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":581,"content":"경조사비 신청 접수되었고 처리번호 6185 을 확인하세요. 다만 경조사 증빙서류를 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"6185","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":582,"content":"건강검진 비용 환급 신청되었으며 PIN 번호 3947 이 생성되었습니다. 참고로 영수증 원본이 필요합니다.","has_sensitive":true,"entities":[{"value":"3947","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":583,"content":"의료비 지원금 지급 완료되었고 입금 코드 5726 를 저장하세요. 그리고 한도는 연 200만원입니다.","has_sensitive":true,"entities":[{"value":"5726","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":584,"content":"생일 축하 선물 쿠폰 발급되었으며 사용번호 8134 을 입력하세요. 아울러 이번 달 말까지 유효합니다.","has_sensitive":true,"entities":[{"value":"8134","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":585,"content":"장기근속 포상금 지급되었고 수령 확인 PIN 2596 이 필요합니다. 먼저 근속 기념품도 선택하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"2596","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":586,"content":"우수사원 시상금 입금 완료되었으며 번호는 7418 입니다. 또한 표창장도 수여됩니다.","has_sensitive":true,"entities":[{"value":"7418","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":587,"content":"프로젝트 성과급 정산되었고 지급 코드 4963 을 확인하세요. 다만 세금 공제 후 금액입니다.","has_sensitive":true,"entities":[{"value":"4963","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":588,"content":"판매 수당 지급 신청 승인되었으며 PIN 번호 9152 이 발급되었습니다. 참고로 실적 달성률을 확인하세요.","has_sensitive":true,"entities":[{"value":"9152","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":589,"content":"영업 인센티브 확정되었고 수령 인증번호는 6387 입니다. 그리고 목표 대비 120% 달성하셨습니다.","has_sensitive":true,"entities":[{"value":"6387","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":590,"content":"추천인 보너스 지급 완료되었으며 확인 코드 1824 를 저장하세요. 아울러 양측 모두 혜택을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"1824","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":591,"content":"ATM 출금 시 보안번호 5739 을 누르세요. 일일 한도는 300만원입니다.","has_sensitive":true,"entities":[{"value":"5739","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":592,"content":"카드 재발급 신청이 완료되었으며 새 PIN은 8261 입니다. 수령 후 즉시 활성화됩니다.","has_sensitive":true,"entities":[{"value":"8261","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":593,"content":"온라인 송금 승인을 위해 인증코드 4937 이 필요합니다. 거래 내역은 SMS로 발송됩니다.","has_sensitive":true,"entities":[{"value":"4937","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":594,"content":"예금 가입 완료되었고 출금용 비밀번호는 2648 로 설정됩니다. 만기는 12개월 후입니다.","has_sensitive":true,"entities":[{"value":"2648","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":595,"content":"적금 납입 인증번호 7154 를 입력해 주세요. 자동이체도 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"7154","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":596,"content":"펀드 환매 신청되었으며 처리 코드는 9526 입니다. 3영업일 후 입금 예정입니다.","has_sensitive":true,"entities":[{"value":"9526","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":597,"content":"계좌 비밀번호 변경이 승인되었고 새 PIN 번호 3481 을 사용하세요. 타인 노출에 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3481","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":598,"content":"이체 한도 상향 완료되었으며 확인번호는 6792 입니다. 일 최대 1000만원까지 가능합니다.","has_sensitive":true,"entities":[{"value":"6792","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":599,"content":"자동납부 등록을 위한 인증 PIN 코드 5183 이 발송되었습니다. 매월 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"5183","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":600,"content":"보안카드 번호 확인용 코드는 8429 이며 안전하게 보관하세요. 재발급은 영업점에서 가능합니다.","has_sensitive":true,"entities":[{"value":"8429","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":601,"content":"모바일 뱅킹 가입 완료되었고 초기 PIN은 1765 입니다. 지문인증 등록을 권장합니다.","has_sensitive":true,"entities":[{"value":"1765","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":602,"content":"대출 실행되었으며 전자서명 코드 4298 을 확인하세요. 상환 스케줄을 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4298","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":603,"content":"신용카드 결제 승인번호는 9673 이며 할부 개월수는 3개월입니다. 영수증을 보관하세요.","has_sensitive":true,"entities":[{"value":"9673","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":604,"content":"체크카드 발급 완료되었고 사용 PIN 번호 7352 이 설정되었습니다. ATM에서 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"7352","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":605,"content":"해외 송금 시 본인확인 번호 2916 을 준비하세요. 수수료는 건당 1만원입니다.","has_sensitive":true,"entities":[{"value":"2916","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":606,"content":"정기예금 만기 출금을 위해 비밀번호 6584 가 필요합니다. 신분증을 지참해 주세요.","has_sensitive":true,"entities":[{"value":"6584","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":607,"content":"증권계좌 개설되었으며 거래용 PIN 코드는 5127 입니다. 투자 성향 분석이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5127","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":608,"content":"외환 거래 인증번호 8945 를 입력하시면 됩니다. 환율 우대가 적용됩니다.","has_sensitive":true,"entities":[{"value":"8945","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":609,"content":"청약통장 납입 확인 코드는 3716 이며 청약 자격이 유지됩니다. 정기 납입을 권장합니다.","has_sensitive":true,"entities":[{"value":"3716","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":610,"content":"마이너스 통장 사용을 위한 PIN 번호 4892 을 입력하세요. 이자는 사용 금액에 대해서만 부과됩니다.","has_sensitive":true,"entities":[{"value":"4892","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":611,"content":"선불카드 등록 완료되었고 충전 코드는 9138 입니다. 최대 50만원까지 충전 가능합니다.","has_sensitive":true,"entities":[{"value":"9138","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":612,"content":"간편결제 서비스 등록되었으며 보안 PIN 2574 이 설정되었습니다. 생체인증도 병행 가능합니다.","has_sensitive":true,"entities":[{"value":"2574","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":613,"content":"포인트 적립 완료되었고 확인번호는 7361 입니다. 다음 구매 시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7361","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":614,"content":"멤버십 등급 상향되었으며 인증 코드 6489 을 확인하세요. 추가 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"6489","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":615,"content":"쿠폰 다운로드 완료되었고 사용번호 1825 를 입력하세요. 유효기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"1825","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":616,"content":"적립금 사용 신청되었으며 승인 PIN 5947 이 발급되었습니다. 전액 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"5947","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":617,"content":"배송지 등록 완료되었고 확인 코드는 8216 입니다. 기본 배송지로 설정되었습니다.","has_sensitive":true,"entities":[{"value":"8216","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":618,"content":"반품 신청이 승인되었으며 처리번호 3642 을 보관하세요. 수거 예정일은 내일입니다.","has_sensitive":true,"entities":[{"value":"3642","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":619,"content":"교환 접수 완료되었고 재배송 코드 7938 이 생성되었습니다. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"7938","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":620,"content":"환불 처리되었으며 입금 확인 PIN 번호 4521 을 확인하세요. 계좌로 입금 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4521","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":621,"content":"예약 취소 요청이 완료되었고 확인번호는 9274 입니다. 취소 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"9274","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":622,"content":"주문 수정 승인되었으며 변경 코드 6183 을 저장하세요. 최종 금액을 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6183","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":623,"content":"결제 취소 완료되었고 환불 PIN 번호 2857 이 필요합니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"2857","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":624,"content":"재결제 요청되었으며 승인 코드는 5496 입니다. 할인 쿠폰이 재적용되었습니다.","has_sensitive":true,"entities":[{"value":"5496","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":625,"content":"구독 서비스 결제 완료되었고 관리 PIN 8137 을 사용하세요. 다음 결제일은 30일 후입니다.","has_sensitive":true,"entities":[{"value":"8137","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":626,"content":"정기결제 등록되었으며 확인번호 3729 를 확인하세요. 해지는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"3729","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":627,"content":"무료체험 신청 승인되었고 인증 코드 9461 이 발급되었습니다. 14일간 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"9461","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":628,"content":"프리미엄 회원 전환 완료되었으며 PIN 번호 7285 을 입력하세요. 전용 혜택을 누리실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7285","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":629,"content":"이벤트 당첨되었고 경품 수령 코드는 4618 입니다. 본인 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"4618","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":630,"content":"설문 참여 완료되었으며 보상 지급 PIN 1953 이 생성되었습니다. 포인트로 적립됩니다.","has_sensitive":true,"entities":[{"value":"1953","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":631,"content":"리뷰 작성 감사드리며 적립금 코드 6742 을 확인하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"6742","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":632,"content":"추천인 등록 완료되었고 보너스 번호 8394 를 저장하세요. 양측 모두 혜택을 받습니다.","has_sensitive":true,"entities":[{"value":"8394","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":633,"content":"친구 초대 이벤트 참여되었으며 확인 PIN 5217 이 필요합니다. 쿠폰이 자동 지급됩니다.","has_sensitive":true,"entities":[{"value":"5217","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":634,"content":"출석체크 완료되었고 보상 코드는 9128 입니다. 연속 출석 시 추가 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"9128","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":635,"content":"미션 달성 축하드리며 보상 PIN 번호 2736 을 확인하세요. 다음 미션도 도전해 보세요.","has_sensitive":true,"entities":[{"value":"2736","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":636,"content":"레벨업 완료되었으며 특별 혜택 코드 6485 이 발급되었습니다. 전용 아이템을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6485","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":637,"content":"VIP 등급 달성되었고 전용 라운지 PIN 4179 을 사용하세요. 컨시어지 서비스가 제공됩니다.","has_sensitive":true,"entities":[{"value":"4179","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":638,"content":"플래티넘 회원 자격 획득하셨으며 인증번호 7953 을 보관하세요. 평생 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"7953","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":639,"content":"다이아 등급 승급 축하드리고 확인 코드 3561 이 생성되었습니다. 최상위 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"3561","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":640,"content":"프로 멤버십 업그레이드되었으며 관리 PIN 8246 을 입력하세요. 무제한 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"8246","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":641,"content":"비즈니스 계정 전환 완료되었고 확인번호 5923 를 확인하세요. 팀원 추가가 가능합니다.","has_sensitive":true,"entities":[{"value":"5923","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":642,"content":"엔터프라이즈 플랜 활성화되었으며 관리자 PIN 1684 이 필요합니다. 전담 매니저가 배정됩니다.","has_sensitive":true,"entities":[{"value":"1684","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":643,"content":"법인 회원 등록 승인되었고 대표 인증 코드 9437 을 사용하세요. 사업자등록증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"9437","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":644,"content":"기업 고객 전용 서비스 시작되었으며 접속 PIN 7152 이 발급되었습니다. 대량 구매 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"7152","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":645,"content":"파트너 프로그램 가입 완료되었고 ID 확인번호 4826 을 저장하세요. 수수료 정산은 매월 말일입니다.","has_sensitive":true,"entities":[{"value":"4826","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":646,"content":"협력사 등록 승인되었으며 거래 PIN 번호 6398 이 필요합니다. 계약서를 검토하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6398","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":647,"content":"공급업체 계정 활성화되었고 시스템 접속 코드 2741 을 확인하세요. 주문 관리가 가능합니다.","has_sensitive":true,"entities":[{"value":"2741","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":648,"content":"판매자 인증 완료되었으며 상품 등록 PIN 5879 이 발급되었습니다. 수수료는 판매가의 10%입니다.","has_sensitive":true,"entities":[{"value":"5879","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":649,"content":"크리에이터 등록 승인되었고 수익 정산 코드 9164 를 보관하세요. 월 최소 금액은 10만원입니다.","has_sensitive":true,"entities":[{"value":"9164","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":650,"content":"인플루언서 프로그램 가입 완료되었으며 확인 PIN 3527 을 입력하세요. 협찬 제품이 발송됩니다.","has_sensitive":true,"entities":[{"value":"3527","begin":35,"end":39,"label":"PAYMENT_PIN"}]}
+{"id":651,"content":"계좌이체 거래 승인번호는 7946 이며 즉시 입금됩니다. 수수료는 면제됩니다.","has_sensitive":true,"entities":[{"value":"7946","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":652,"content":"카드 발급 신청이 완료되었고 초기 PIN 번호 4213 을 확인하세요. 배송은 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"4213","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":653,"content":"ATM 기기 사용 시 보안코드 8659 이 필요합니다. 하루 출금 한도는 200만원입니다.","has_sensitive":true,"entities":[{"value":"8659","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":654,"content":"온라인 결제 인증을 위해 PIN 2471 을 입력하세요. 거래 완료 후 SMS가 발송됩니다.","has_sensitive":true,"entities":[{"value":"2471","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":655,"content":"송금 확인번호 6825 가 생성되었습니다. 수취인 정보를 다시 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6825","begin":9,"end":13,"label":"PAYMENT_PIN"}]}
+{"id":656,"content":"자동이체 등록 완료되었으며 인증 코드 5193 을 저장하세요. 매월 5일에 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"5193","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":657,"content":"통장 개설되었고 초기 비밀번호는 9347 입니다. 영업점이나 ATM에서 변경하세요.","has_sensitive":true,"entities":[{"value":"9347","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":658,"content":"해외 결제 승인을 위한 확인 번호 1582 이 발송되었습니다. 환율 우대가 적용됩니다.","has_sensitive":true,"entities":[{"value":"1582","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":659,"content":"비밀번호 재설정 완료되었고 새 PIN 7264 를 사용하세요. 안전하게 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7264","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":660,"content":"대출 승인되었으며 계약 서명용 코드는 4936 입니다. 약관을 꼼꼼히 확인하세요.","has_sensitive":true,"entities":[{"value":"4936","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":661,"content":"적금 가입 완료되었고 납입 인증번호 8127 을 확인하세요. 자동이체 등록을 권장합니다.","has_sensitive":true,"entities":[{"value":"8127","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":662,"content":"펀드 매수 신청되었으며 체결 PIN 번호 3695 이 필요합니다. 수익률은 변동될 수 있습니다.","has_sensitive":true,"entities":[{"value":"3695","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":663,"content":"증권계좌 거래 비밀번호 5842 로 등록되었습니다. 투자 전 위험을 충분히 이해하세요.","has_sensitive":true,"entities":[{"value":"5842","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":664,"content":"보험료 납부 완료되었고 영수증 번호는 9418 입니다. 계약 내용을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9418","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":665,"content":"외환 송금 시 본인인증 코드 2763 을 준비하세요. 송금 한도는 연 5만 달러입니다.","has_sensitive":true,"entities":[{"value":"2763","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":666,"content":"청약통장 출금을 위한 PIN 번호 6591 이 필요합니다. 청약 신청 시 사용됩니다.","has_sensitive":true,"entities":[{"value":"6591","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":667,"content":"마이너스 통장 개설 완료되었으며 사용 코드 1847 을 확인하세요. 이자는 일할 계산됩니다.","has_sensitive":true,"entities":[{"value":"1847","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":668,"content":"선불카드 충전 인증번호는 7394 이며 최대 100만원까지 가능합니다.","has_sensitive":true,"entities":[{"value":"7394","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":669,"content":"기프트카드 등록 시 보안 PIN 4625 을 입력하세요. 온오프라인 모두 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4625","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":670,"content":"간편결제 등록 완료되었고 확인 코드 9283 이 설정되었습니다. 지문인증도 병행하세요.","has_sensitive":true,"entities":[{"value":"9283","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":671,"content":"포인트 적립되었으며 사용 번호 5176 를 저장하세요. 다음 구매 시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"5176","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":672,"content":"멤버십 등급 업그레이드되었고 인증 PIN 8341 이 필요합니다. 추가 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"8341","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":673,"content":"쿠폰 발급 완료되었으며 사용 코드는 2946 입니다. 유효기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"2946","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":674,"content":"적립금 전환 신청되었고 승인번호 7582 을 확인하세요. 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"7582","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":675,"content":"배송 추적번호와 함께 확인 PIN 4169 이 발송되었습니다. 실시간 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"4169","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":676,"content":"반품 승인되었으며 수거 예약 코드 9635 를 보관하세요. 택배사 방문 시 알려주세요.","has_sensitive":true,"entities":[{"value":"9635","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":677,"content":"교환 신청 완료되었고 재발송 PIN 번호 3718 이 생성되었습니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"3718","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":678,"content":"환불 처리 완료되었으며 입금 확인 코드 6294 을 확인하세요. 계좌로 입금되었습니다.","has_sensitive":true,"entities":[{"value":"6294","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":679,"content":"예약 변경 요청이 승인되었고 새 예약번호 1857 을 저장하세요. 변경 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"1857","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":680,"content":"주문 취소되었으며 환불 진행 PIN 5429 이 필요합니다. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"5429","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":681,"content":"결제 재시도 완료되었고 승인 코드는 8763 입니다. 할인 쿠폰이 재적용되었습니다.","has_sensitive":true,"entities":[{"value":"8763","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":682,"content":"구독 갱신 완료되었으며 관리 PIN 번호 2594 을 사용하세요. 다음 결제일은 30일 후입니다.","has_sensitive":true,"entities":[{"value":"2594","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":683,"content":"정기결제 설정되었고 확인 코드 7138 를 확인하세요. 해지는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"7138","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":684,"content":"무료체험 시작되었으며 인증번호 4926 이 발급되었습니다. 7일간 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"4926","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":685,"content":"프리미엄 플랜 전환 완료되었고 PIN 6381 을 입력하세요. 모든 기능을 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6381","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":686,"content":"이벤트 참여 완료되었으며 경품 코드 9574 을 보관하세요. 추첨 결과는 익일 발표됩니다.","has_sensitive":true,"entities":[{"value":"9574","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":687,"content":"설문 응답 감사드리며 보상 PIN 번호 3162 이 생성되었습니다. 포인트로 적립됩니다.","has_sensitive":true,"entities":[{"value":"3162","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":688,"content":"리뷰 작성 완료되었고 적립금 지급 코드 5847 을 확인하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5847","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":689,"content":"추천 보너스 지급되었으며 수령 번호 8219 를 저장하세요. 친구와 함께 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"8219","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":690,"content":"친구 초대 성공하셨고 인센티브 코드 2736 이 필요합니다. 쿠폰이 자동 지급됩니다.","has_sensitive":true,"entities":[{"value":"2736","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":691,"content":"출석 이벤트 참여 완료되었으며 보상 PIN 6495 을 확인하세요. 연속 출석 시 추가 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"6495","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":692,"content":"미션 완료 축하드리고 보상 코드는 4178 입니다. 다음 미션도 도전해 보세요.","has_sensitive":true,"entities":[{"value":"4178","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":693,"content":"레벨 상승하셨으며 특별 혜택 PIN 번호 9362 이 발급되었습니다. 전용 아이템을 받으세요.","has_sensitive":true,"entities":[{"value":"9362","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":694,"content":"VIP 회원 승급되었고 라운지 이용 코드 7541 을 사용하세요. 컨시어지 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7541","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":695,"content":"플래티넘 등급 달성하셨으며 확인 PIN 1826 을 보관하세요. 평생 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"1826","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":696,"content":"다이아 회원 자격 획득하셨고 인증번호 5983 이 생성되었습니다. 최상위 서비스를 누리세요.","has_sensitive":true,"entities":[{"value":"5983","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":697,"content":"프로 계정 업그레이드 완료되었으며 관리 코드 8246 을 입력하세요. 무제한 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"8246","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":698,"content":"비즈니스 플랜 전환되었고 확인 PIN 번호 3719 이 필요합니다. 팀 관리 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"3719","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":699,"content":"엔터프라이즈 서비스 시작되었으며 접속 코드 6452 를 확인하세요. 전담 매니저가 배정됩니다.","has_sensitive":true,"entities":[{"value":"6452","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":700,"content":"법인 계정 등록 승인되었고 대표 PIN 2894 을 사용하세요. 사업자등록증 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"2894","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":701,"content":"은행 거래 인증을 위해 PIN 번호 5173 이 필요합니다. 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"5173","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":702,"content":"카드 사용 승인되었고 확인코드는 8624 입니다. 영수증 발급이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"8624","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":703,"content":"ATM 출금을 위한 보안번호 2917 을 입력하세요. 하루 한도는 300만원입니다.","has_sensitive":true,"entities":[{"value":"2917","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":704,"content":"계좌이체 완료되었으며 거래번호 7348 을 확인하세요. 수취인에게 즉시 입금되었습니다.","has_sensitive":true,"entities":[{"value":"7348","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":705,"content":"송금 신청이 승인되었고 인증 PIN 4195 이 발송되었습니다. SMS로도 전송되었습니다.","has_sensitive":true,"entities":[{"value":"4195","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":706,"content":"자동납부 등록 완료되었으며 확인번호 9561 을 저장하세요. 매월 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"9561","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":707,"content":"통장 신규 개설되었고 출금 비밀번호는 6387 입니다. 앱 다운로드를 권장합니다.","has_sensitive":true,"entities":[{"value":"6387","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":708,"content":"해외 송금 시 본인확인 코드 1742 을 준비하세요. 환율 우대가 적용됩니다.","has_sensitive":true,"entities":[{"value":"1742","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":709,"content":"비밀번호 초기화되었으며 임시 PIN 5829 를 사용하세요. 즉시 변경하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5829","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":710,"content":"대출 실행 완료되었고 계약 코드는 8463 입니다. 상환 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"8463","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":711,"content":"예금 가입되었으며 만기 출금용 PIN 번호 3716 이 필요합니다. 만기는 12개월 후입니다.","has_sensitive":true,"entities":[{"value":"3716","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":712,"content":"적금 납입 완료되었고 인증코드 2598 을 확인하세요. 자동이체가 등록되었습니다.","has_sensitive":true,"entities":[{"value":"2598","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":713,"content":"펀드 가입 신청되었으며 승인 PIN 7142 이 발급되었습니다. 위험 등급을 확인하세요.","has_sensitive":true,"entities":[{"value":"7142","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":714,"content":"증권 거래 비밀번호 4965 로 설정되었습니다. 투자 전 충분히 검토하세요.","has_sensitive":true,"entities":[{"value":"4965","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":715,"content":"보험 가입 완료되었고 증권번호 확인 코드 9378 을 저장하세요. 보험료는 자동 납부됩니다.","has_sensitive":true,"entities":[{"value":"9378","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":716,"content":"외환 거래 인증번호는 6214 이며 실시간 환율이 적용됩니다.","has_sensitive":true,"entities":[{"value":"6214","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":717,"content":"청약통장 개설되었으며 납입 PIN 1853 을 확인하세요. 청약 자격이 부여됩니다.","has_sensitive":true,"entities":[{"value":"1853","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":718,"content":"마이너스 대출 승인되었고 사용 코드는 5627 입니다. 사용 금액에만 이자가 부과됩니다.","has_sensitive":true,"entities":[{"value":"5627","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":719,"content":"선불 충전 완료되었으며 확인번호 8349 을 보관하세요. 최대 50만원까지 충전됩니다.","has_sensitive":true,"entities":[{"value":"8349","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":720,"content":"기프트 등록 시 보안 PIN 번호 2741 이 필요합니다. 온오프라인 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"2741","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":721,"content":"간편결제 활성화되었고 인증 코드 6958 이 설정되었습니다. 지문인증도 가능합니다.","has_sensitive":true,"entities":[{"value":"6958","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":722,"content":"포인트 충전되었으며 사용 PIN 4136 을 확인하세요. 다음 결제 시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4136","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":723,"content":"멤버십 가입 완료되었고 회원번호 9527 을 저장하세요. 다양한 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"9527","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":724,"content":"쿠폰 다운로드되었으며 사용번호는 7183 입니다. 유효기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"7183","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":725,"content":"적립금 지급 완료되었고 확인 코드 3845 을 입력하세요. 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"3845","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":726,"content":"배송 예약되었으며 추적번호와 PIN 5692 이 발송되었습니다. 실시간 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"5692","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":727,"content":"반품 접수 완료되었고 수거 코드는 8217 입니다. 택배 방문 시 알려주세요.","has_sensitive":true,"entities":[{"value":"8217","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":728,"content":"교환 승인되었으며 재발송 PIN 번호 4369 이 생성되었습니다. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"4369","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":729,"content":"환불 진행 중이며 입금 확인 코드 9741 을 확인하세요. 계좌로 입금 예정입니다.","has_sensitive":true,"entities":[{"value":"9741","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":730,"content":"예약 확정되었고 방문 시 제시할 번호는 2685 입니다. 신분증을 지참하세요.","has_sensitive":true,"entities":[{"value":"2685","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":731,"content":"주문 수정 완료되었으며 변경 PIN 6143 을 저장하세요. 최종 금액을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6143","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":732,"content":"결제 취소되었고 환불 처리 코드는 7958 입니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"7958","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":733,"content":"재주문 완료되었으며 할인 적용 번호 3524 을 확인하세요. 쿠폰이 재적용되었습니다.","has_sensitive":true,"entities":[{"value":"3524","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":734,"content":"구독 신청 승인되었고 관리 PIN 번호 8196 이 필요합니다. 다음 결제일은 30일 후입니다.","has_sensitive":true,"entities":[{"value":"8196","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":735,"content":"정기배송 등록되었으며 확인 코드 5372 를 보관하세요. 해지는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"5372","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":736,"content":"무료 이용 시작되었고 인증번호 9647 이 발급되었습니다. 14일간 체험 가능합니다.","has_sensitive":true,"entities":[{"value":"9647","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":737,"content":"유료 전환 완료되었으며 결제 PIN 2813 을 입력하세요. 모든 기능을 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"2813","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":738,"content":"이벤트 당첨 축하드리며 경품 수령 코드 6429 을 확인하세요. 본인 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"6429","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":739,"content":"설문 완료 감사드리고 보상 PIN 번호 4157 이 생성되었습니다. 포인트로 적립됩니다.","has_sensitive":true,"entities":[{"value":"4157","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":740,"content":"리뷰 등록 완료되었으며 적립금 코드 7983 을 저장하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"7983","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":741,"content":"추천 성공하셨고 보너스 지급 번호 3216 을 확인하세요. 친구와 함께 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"3216","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":742,"content":"초대 이벤트 참여되었으며 인센티브 PIN 5894 이 필요합니다. 쿠폰이 자동 지급됩니다.","has_sensitive":true,"entities":[{"value":"5894","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":743,"content":"출석 완료되었고 보상 수령 코드는 8746 입니다. 연속 출석 시 추가 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"8746","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":744,"content":"미션 성공 축하드리며 보상 PIN 2139 을 입력하세요. 다음 미션도 도전하세요.","has_sensitive":true,"entities":[{"value":"2139","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":745,"content":"등급 상승하셨으며 특별 아이템 코드 9365 이 발급되었습니다. 전용 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"9365","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":746,"content":"VIP 승급 완료되었고 라운지 PIN 번호 6741 을 사용하세요. 컨시어지 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"6741","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":747,"content":"플래티넘 획득하셨으며 확인 코드 4528 을 보관하세요. 평생 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"4528","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":748,"content":"다이아 등급 달성하셨고 인증 PIN 1973 이 생성되었습니다. 최상위 서비스를 받으세요.","has_sensitive":true,"entities":[{"value":"1973","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":749,"content":"프로 회원 전환 완료되었으며 관리번호 7854 을 확인하세요. 무제한 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"7854","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":750,"content":"비즈니스 등록 승인되었고 확인 PIN 3629 이 필요합니다. 팀 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"3629","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":751,"content":"카드 결제 시 보안 PIN 코드 5847 을 입력하세요. 승인 완료 후 SMS가 발송됩니다.","has_sensitive":true,"entities":[{"value":"5847","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":752,"content":"계좌 개설이 완료되었고 초기 비밀번호는 9236 입니다. 모바일 앱에서 변경하세요.","has_sensitive":true,"entities":[{"value":"9236","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":753,"content":"ATM 인출을 위한 인증번호 2714 이 필요합니다. 하루 한도는 200만원입니다.","has_sensitive":true,"entities":[{"value":"2714","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":754,"content":"이체 거래 승인되었으며 확인 코드는 6489 입니다. 수취인에게 즉시 입금됩니다.","has_sensitive":true,"entities":[{"value":"6489","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":755,"content":"송금 신청 완료되었고 본인인증 PIN 8152 을 확인하세요. SMS로도 전송되었습니다.","has_sensitive":true,"entities":[{"value":"8152","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":756,"content":"자동납부 설정되었으며 등록번호 4736 을 저장하세요. 매월 자동으로 출금됩니다.","has_sensitive":true,"entities":[{"value":"4736","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":757,"content":"통장 발급 완료되었고 출금용 PIN 번호 1928 이 설정되었습니다. 영업점 방문 시 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"1928","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":758,"content":"해외 결제 승인을 위해 확인 코드 7593 이 발송되었습니다. 환율 우대가 적용됩니다.","has_sensitive":true,"entities":[{"value":"7593","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":759,"content":"비밀번호 변경 완료되었으며 새 PIN 3265 을 사용하세요. 안전하게 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3265","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":760,"content":"대출 계약 체결되었고 서명 코드는 9847 입니다. 약관 내용을 확인하세요.","has_sensitive":true,"entities":[{"value":"9847","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":761,"content":"예금 만기되었으며 출금 시 PIN 번호 6124 이 필요합니다. 신분증을 지참하세요.","has_sensitive":true,"entities":[{"value":"6124","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":762,"content":"적금 만기 출금 완료되었고 인증코드 5379 을 확인하세요. 계좌로 입금되었습니다.","has_sensitive":true,"entities":[{"value":"5379","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":763,"content":"펀드 환매 신청되었으며 처리 PIN 2841 이 발급되었습니다. 3영업일 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"2841","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":764,"content":"증권 거래 완료되었고 체결번호는 7496 입니다. 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7496","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":765,"content":"보험 계약 체결되었으며 증권번호 4183 을 저장하세요. 보험료 자동 납부가 설정되었습니다.","has_sensitive":true,"entities":[{"value":"4183","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":766,"content":"외환 매매 승인되었고 거래 코드는 9625 입니다. 실시간 환율이 적용되었습니다.","has_sensitive":true,"entities":[{"value":"9625","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":767,"content":"청약 신청 완료되었으며 접수번호 6372 을 확인하세요. 당첨 여부는 익일 발표됩니다.","has_sensitive":true,"entities":[{"value":"6372","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":768,"content":"한도대출 실행되었고 출금 PIN 번호 1548 이 필요합니다. 사용 금액에만 이자가 부과됩니다.","has_sensitive":true,"entities":[{"value":"1548","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":769,"content":"선불 등록 완료되었으며 충전 코드 8293 을 보관하세요. 최대 100만원까지 충전 가능합니다.","has_sensitive":true,"entities":[{"value":"8293","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":770,"content":"기프트 활성화되었고 사용 PIN 5716 을 입력하세요. 온라인 오프라인 모두 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5716","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":771,"content":"간편 인증 등록되었으며 보안 코드 3942 이 설정되었습니다. 지문 인증도 가능합니다.","has_sensitive":true,"entities":[{"value":"3942","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":772,"content":"포인트 사용 완료되었고 잔액 확인 PIN 7685 을 확인하세요. 추가 적립도 가능합니다.","has_sensitive":true,"entities":[{"value":"7685","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":773,"content":"회원 가입 완료되었으며 회원번호 2419 을 저장하세요. 다양한 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"2419","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":774,"content":"쿠폰 사용 가능하며 인증번호는 9187 입니다. 유효기간 내에 사용하세요.","has_sensitive":true,"entities":[{"value":"9187","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":775,"content":"적립 완료되었고 사용 가능 코드 6543 을 입력하세요. 다음 결제 시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"6543","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":776,"content":"배송 시작되었으며 추적 PIN 번호 4271 이 발송되었습니다. 실시간 위치 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"4271","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":777,"content":"반품 수거 예정이며 확인 코드는 8936 입니다. 택배 기사에게 알려주세요.","has_sensitive":true,"entities":[{"value":"8936","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":778,"content":"교환 발송 완료되었고 새 송장번호 3617 을 확인하세요. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"3617","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":779,"content":"환불 입금 완료되었으며 처리 PIN 5894 을 저장하세요. 계좌로 입금이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5894","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":780,"content":"예약 성공하셨고 입장 시 제시할 코드 7162 을 준비하세요. 신분증을 지참하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7162","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":781,"content":"주문 변경 완료되었으며 새 주문번호 2985 을 확인하세요. 최종 금액을 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"2985","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":782,"content":"결제 철회되었고 환불 진행 코드 9341 이 생성되었습니다. 영업일 기준 7일 소요됩니다.","has_sensitive":true,"entities":[{"value":"9341","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":783,"content":"재구매 완료되었으며 할인 코드 6728 이 적용되었습니다. 쿠폰이 재사용되었습니다.","has_sensitive":true,"entities":[{"value":"6728","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":784,"content":"구독 갱신되었고 다음 결제 PIN 번호 4153 을 확인하세요. 30일 후 자동 결제됩니다.","has_sensitive":true,"entities":[{"value":"4153","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":785,"content":"정기 배송 설정되었으며 관리 코드 8572 를 저장하세요. 배송 주기 변경이 가능합니다.","has_sensitive":true,"entities":[{"value":"8572","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":786,"content":"체험 시작되었고 이용 인증번호 1396 이 발급되었습니다. 7일간 무료 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"1396","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":787,"content":"유료 가입 완료되었으며 확인 PIN 7824 을 입력하세요. 모든 프리미엄 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"7824","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":788,"content":"경품 당첨 축하드리며 수령 코드 3519 을 확인하세요. 본인 확인 후 배송됩니다.","has_sensitive":true,"entities":[{"value":"3519","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":789,"content":"응답 감사드리고 보상 지급 PIN 9267 이 생성되었습니다. 포인트로 적립 완료되었습니다.","has_sensitive":true,"entities":[{"value":"9267","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":790,"content":"후기 등록 완료되었으며 적립 코드 6415 을 저장하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"6415","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":791,"content":"추천 보상 지급되었고 수령 PIN 번호 2789 을 확인하세요. 친구도 혜택을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"2789","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":792,"content":"초대 성공하셨으며 인센티브 코드 5943 이 필요합니다. 쿠폰이 자동으로 지급됩니다.","has_sensitive":true,"entities":[{"value":"5943","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":793,"content":"출석 인증 완료되었고 보상 PIN 8176 을 입력하세요. 연속 출석 시 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"8176","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":794,"content":"과제 완료 축하드리며 보상 코드 4631 이 발급되었습니다. 다음 과제도 도전하세요.","has_sensitive":true,"entities":[{"value":"4631","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":795,"content":"단계 상승하셨으며 특별 혜택 PIN 9358 을 확인하세요. 전용 아이템을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"9358","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":796,"content":"골드 회원 승급되었고 라운지 코드 7214 을 사용하세요. 특별 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7214","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":797,"content":"프리미엄 획득하셨으며 인증 PIN 3982 을 보관하세요. 평생 혜택이 제공됩니다.","has_sensitive":true,"entities":[{"value":"3982","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":798,"content":"최고 등급 달성하셨고 확인 코드 6547 이 생성되었습니다. 최상위 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"6547","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":799,"content":"전문가 계정 전환되었으며 관리 PIN 1863 을 확인하세요. 무제한 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"1863","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":800,"content":"기업 등록 승인되었고 접속 코드 5729 이 필요합니다. 팀 관리 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"5729","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":801,"content":"카드 사용 시 보안 인증번호 8493 을 입력하세요. 거래 완료 후 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"8493","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":802,"content":"통장 비밀번호는 2756 로 설정되었습니다. 첫 거래 전 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"2756","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":803,"content":"출금 시 필요한 PIN 코드 9184 이 발급되었습니다. 타인에게 노출하지 마세요.","has_sensitive":true,"entities":[{"value":"9184","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":804,"content":"이체 승인번호는 6372 이며 수취인 계좌로 즉시 입금됩니다.","has_sensitive":true,"entities":[{"value":"6372","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":805,"content":"송금 확인을 위해 인증 코드 4815 을 준비하세요. SMS로도 전송됩니다.","has_sensitive":true,"entities":[{"value":"4815","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":806,"content":"자동 출금 등록되었으며 확인번호 7529 을 저장하세요. 매월 정해진 날짜에 출금됩니다.","has_sensitive":true,"entities":[{"value":"7529","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":807,"content":"신규 계좌 개설 완료되었고 PIN 1643 을 확인하세요. 모바일 뱅킹도 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"1643","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":808,"content":"해외 사용 등록되었으며 인증번호 5928 이 필요합니다. 환율 우대가 적용됩니다.","has_sensitive":true,"entities":[{"value":"5928","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":809,"content":"패스워드 재설정되었고 새 코드는 8371 입니다. 즉시 변경하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"8371","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":810,"content":"대출 신청 완료되었으며 계약 PIN 3246 이 발급되었습니다. 서류를 준비하세요.","has_sensitive":true,"entities":[{"value":"3246","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":811,"content":"예금 만기 시 출금 코드 9657 이 필요합니다. 신분증과 통장을 지참하세요.","has_sensitive":true,"entities":[{"value":"9657","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":812,"content":"적금 해지 신청되었고 확인 PIN 6184 을 입력하세요. 이자가 함께 지급됩니다.","has_sensitive":true,"entities":[{"value":"6184","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":813,"content":"펀드 매도 완료되었으며 정산 코드 4752 을 확인하세요. 3영업일 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"4752","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":814,"content":"주식 거래 체결되었고 확인번호는 2918 입니다. 거래 내역서를 확인하세요.","has_sensitive":true,"entities":[{"value":"2918","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":815,"content":"보험 가입 완료되었으며 증권 PIN 7365 이 발급되었습니다. 보험료 납부 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"7365","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":816,"content":"환전 신청 승인되었고 거래번호 5129 을 저장하세요. 실시간 환율이 적용되었습니다.","has_sensitive":true,"entities":[{"value":"5129","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":817,"content":"청약 접수 완료되었으며 신청번호 8746 을 확인하세요. 당첨 발표는 내일입니다.","has_sensitive":true,"entities":[{"value":"8746","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":818,"content":"신용 한도 승인되었고 이용 PIN 1493 이 필요합니다. 이자는 사용액에만 부과됩니다.","has_sensitive":true,"entities":[{"value":"1493","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":819,"content":"충전 완료되었으며 사용 코드 6827 을 보관하세요. 최대 한도까지 충전되었습니다.","has_sensitive":true,"entities":[{"value":"6827","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":820,"content":"선물 등록 완료되었고 활성화 PIN 3951 을 입력하세요. 전국 가맹점에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"3951","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":821,"content":"간편 결제 등록되었으며 보안 코드 9284 이 설정되었습니다. 지문 인증도 설정하세요.","has_sensitive":true,"entities":[{"value":"9284","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":822,"content":"적립 완료되었고 조회 PIN 번호 5617 을 확인하세요. 잔액은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"5617","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":823,"content":"가입 축하드리며 회원 코드 7382 을 저장하세요. 다양한 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7382","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":824,"content":"쿠폰 발급되었으며 사용번호 2549 을 입력하세요. 유효기간은 1개월입니다.","has_sensitive":true,"entities":[{"value":"2549","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":825,"content":"사용 가능 적립금 확인 코드 8136 이 필요합니다. 결제 시 자동 차감 가능합니다.","has_sensitive":true,"entities":[{"value":"8136","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":826,"content":"발송 시작되었고 추적번호와 PIN 4729 을 확인하세요. 실시간 배송 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"4729","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":827,"content":"수거 예약되었으며 확인 코드는 9361 입니다. 택배 기사님께 알려주세요.","has_sensitive":true,"entities":[{"value":"9361","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":828,"content":"재배송 완료되었고 새 운송장번호 6185 을 저장하세요. 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"6185","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":829,"content":"입금 확인되었으며 처리 PIN 3847 을 확인하세요. 계좌로 환불이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3847","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":830,"content":"예약 확인되었고 방문 시 코드 5692 을 제시하세요. 신분증을 함께 지참하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5692","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":831,"content":"수정 완료되었으며 새 확인번호 8214 을 저장하세요. 변경 내역을 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"8214","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":832,"content":"취소 처리되었고 환불 코드 1976 이 생성되었습니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"1976","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":833,"content":"재주문 완료되었으며 할인번호 7453 이 적용되었습니다. 쿠폰이 재사용되었습니다.","has_sensitive":true,"entities":[{"value":"7453","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":834,"content":"갱신 완료되었고 다음 결제 PIN 4928 을 확인하세요. 자동 결제가 설정되었습니다.","has_sensitive":true,"entities":[{"value":"4928","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":835,"content":"배송 주기 변경되었으며 관리 코드 6371 을 저장하세요. 다음 배송일을 확인하세요.","has_sensitive":true,"entities":[{"value":"6371","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":836,"content":"체험 등록 완료되었고 인증번호 2815 이 발급되었습니다. 무료 기간은 14일입니다.","has_sensitive":true,"entities":[{"value":"2815","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":837,"content":"유료 전환 완료되었으며 결제 PIN 9546 을 확인하세요. 프리미엄 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"9546","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":838,"content":"당첨 축하드리며 수령 코드 5183 을 확인하세요. 본인 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"5183","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":839,"content":"참여 감사드리고 보상 PIN 7824 이 생성되었습니다. 포인트가 적립되었습니다.","has_sensitive":true,"entities":[{"value":"7824","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":840,"content":"작성 완료되었으며 적립 코드 3469 을 저장하세요. 다음 결제 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"3469","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":841,"content":"보상 지급되었고 확인 PIN 6295 을 입력하세요. 친구도 혜택을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"6295","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":842,"content":"초대 성공하셨으며 코드 1847 이 필요합니다. 쿠폰이 자동 지급되었습니다.","has_sensitive":true,"entities":[{"value":"1847","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":843,"content":"인증 완료되었고 보상 PIN 9532 을 확인하세요. 연속 참여 시 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"9532","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":844,"content":"달성 축하드리며 보상 코드 4716 이 발급되었습니다. 다음 목표도 설정하세요.","has_sensitive":true,"entities":[{"value":"4716","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":845,"content":"승급하셨으며 특별 PIN 7258 을 확인하세요. 전용 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"7258","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":846,"content":"등급 상승 완료되었고 라운지 코드 3941 을 사용하세요. 특별 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"3941","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":847,"content":"자격 획득하셨으며 인증 PIN 8625 을 보관하세요. 평생 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"8625","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":848,"content":"최상위 달성하셨고 확인 코드 5174 이 생성되었습니다. 모든 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"5174","begin":20,"end":24,"label":"PAYMENT_PIN"}]}
+{"id":849,"content":"전환 완료되었으며 관리 PIN 2936 을 확인하세요. 무제한 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"2936","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":850,"content":"승인되었고 접속 코드 6482 이 필요합니다. 팀 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"6482","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":851,"content":"결제 인증번호 9173 을 입력하시면 거래가 완료됩니다. SMS 알림도 발송됩니다.","has_sensitive":true,"entities":[{"value":"9173","begin":8,"end":12,"label":"PAYMENT_PIN"}]}
+{"id":852,"content":"신규 PIN 번호 4826 로 설정하셨습니다. 안전하게 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4826","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":853,"content":"출금 가능하며 보안코드 7591 이 필요합니다. 일일 한도를 확인하세요.","has_sensitive":true,"entities":[{"value":"7591","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":854,"content":"송금 완료되었고 승인번호 3285 을 저장하세요. 수취인에게 입금되었습니다.","has_sensitive":true,"entities":[{"value":"3285","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":855,"content":"이체 신청되었으며 확인 PIN 8649 이 발급되었습니다. 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"8649","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":856,"content":"납부 등록되었고 인증코드 2714 을 확인하세요. 자동 출금이 설정되었습니다.","has_sensitive":true,"entities":[{"value":"2714","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":857,"content":"개설 완료되었으며 초기 PIN 5938 을 사용하세요. 변경은 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"5938","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":858,"content":"승인되었고 해외 사용 코드 9146 이 필요합니다. 환율이 우대 적용됩니다.","has_sensitive":true,"entities":[{"value":"9146","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":859,"content":"재설정 완료되었으며 새 PIN 6372 을 확인하세요. 즉시 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"6372","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":860,"content":"실행되었고 서명용 코드 4185 이 발급되었습니다. 계약서를 확인하세요.","has_sensitive":true,"entities":[{"value":"4185","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":861,"content":"만기되었으며 출금 PIN 7953 이 필요합니다. 신분증을 지참하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7953","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":862,"content":"해지되었고 정산 코드 1628 을 입력하세요. 이자가 함께 지급됩니다.","has_sensitive":true,"entities":[{"value":"1628","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":863,"content":"매도 완료되었으며 처리 PIN 3847 을 확인하세요. 영업일 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"3847","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":864,"content":"체결되었고 거래번호 9264 을 저장하세요. 내역서를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9264","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":865,"content":"계약 완료되었으며 증권 PIN 5719 이 발급되었습니다. 납부 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"5719","begin":19,"end":23,"label":"PAYMENT_PIN"}]}
+{"id":866,"content":"환전 승인되었고 거래 코드 8341 을 저장하세요. 실시간 환율이 적용되었습니다.","has_sensitive":true,"entities":[{"value":"8341","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":867,"content":"접수 완료되었으며 신청번호 2596 을 확인하세요. 발표는 내일입니다.","has_sensitive":true,"entities":[{"value":"2596","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":868,"content":"한도 승인되었고 사용 PIN 6483 이 필요합니다. 이자는 사용액만 부과됩니다.","has_sensitive":true,"entities":[{"value":"6483","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":869,"content":"충전되었으며 확인 코드 4729 을 보관하세요. 한도까지 충전 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4729","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":870,"content":"활성화되었고 사용 PIN 9185 을 입력하세요. 가맹점에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"9185","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":871,"content":"설정되었으며 보안 코드 7362 이 등록되었습니다. 지문 인증도 가능합니다.","has_sensitive":true,"entities":[{"value":"7362","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":872,"content":"적립되었고 조회 PIN 5148 을 확인하세요. 앱에서 잔액 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"5148","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":873,"content":"가입 완료되었으며 회원번호 3927 을 저장하세요. 다양한 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"3927","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":874,"content":"발급되었고 사용 코드 8514 을 입력하세요. 유효기간은 1개월입니다.","has_sensitive":true,"entities":[{"value":"8514","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":875,"content":"확인 가능하며 조회 PIN 2679 이 필요합니다. 결제 시 차감 가능합니다.","has_sensitive":true,"entities":[{"value":"2679","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":876,"content":"발송되었고 추적 코드 6835 을 확인하세요. 실시간 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"6835","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":877,"content":"예약되었으며 수거 PIN 4192 을 기사님께 알려주세요.","has_sensitive":true,"entities":[{"value":"4192","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":878,"content":"재발송되었고 운송장 코드 9758 을 저장하세요. 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"9758","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":879,"content":"확인되었으며 입금 PIN 5371 을 확인하세요. 환불이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5371","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":880,"content":"확정되었고 방문 코드 8246 을 제시하세요. 신분증을 지참하세요.","has_sensitive":true,"entities":[{"value":"8246","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":881,"content":"수정되었으며 새 번호 1693 을 저장하세요. 변경 내역을 확인하세요.","has_sensitive":true,"entities":[{"value":"1693","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":882,"content":"처리되었고 환불 PIN 7429 이 생성되었습니다. 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"7429","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":883,"content":"재주문되었으며 할인 코드 3856 이 적용되었습니다.","has_sensitive":true,"entities":[{"value":"3856","begin":16,"end":20,"label":"PAYMENT_PIN"}]}
+{"id":884,"content":"갱신되었고 결제 PIN 9241 을 확인하세요. 자동 결제됩니다.","has_sensitive":true,"entities":[{"value":"9241","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":885,"content":"변경되었으며 관리 코드 6587 을 저장하세요. 배송일을 확인하세요.","has_sensitive":true,"entities":[{"value":"6587","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":886,"content":"등록되었고 인증번호 4123 이 발급되었습니다. 14일간 무료입니다.","has_sensitive":true,"entities":[{"value":"4123","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":887,"content":"전환되었으며 결제 PIN 8795 을 확인하세요. 프리미엄 기능 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"8795","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":888,"content":"당첨되었고 수령 코드 2547 을 확인하세요. 본인 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"2547","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":889,"content":"참여 완료되었으며 보상 PIN 5918 이 생성되었습니다. 적립 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5918","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":890,"content":"작성되었고 적립 코드 7364 을 저장하세요. 다음 결제 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"7364","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":891,"content":"지급되었으며 확인 PIN 3189 을 입력하세요. 친구도 혜택을 받았습니다.","has_sensitive":true,"entities":[{"value":"3189","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":892,"content":"성공하셨고 코드 9426 이 필요합니다. 쿠폰이 지급되었습니다.","has_sensitive":true,"entities":[{"value":"9426","begin":10,"end":14,"label":"PAYMENT_PIN"}]}
+{"id":893,"content":"완료되었으며 보상 PIN 6751 을 확인하세요. 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"6751","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":894,"content":"축하드리며 보상 코드 4283 이 발급되었습니다. 목표도 설정하세요.","has_sensitive":true,"entities":[{"value":"4283","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":895,"content":"승급되었고 특별 PIN 8169 을 확인하세요. 혜택을 받으세요.","has_sensitive":true,"entities":[{"value":"8169","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":896,"content":"상승되었으며 라운지 코드 5927 을 사용하세요. 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"5927","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":897,"content":"획득하셨고 인증 PIN 2714 을 보관하세요. 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"2714","begin":12,"end":16,"label":"PAYMENT_PIN"}]}
+{"id":898,"content":"달성하셨으며 확인 코드 9385 이 생성되었습니다. 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"9385","begin":15,"end":19,"label":"PAYMENT_PIN"}]}
+{"id":899,"content":"완료되었고 관리 PIN 6542 을 확인하세요. 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"6542","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":900,"content":"승인되었으며 접속 코드 3871 이 필요합니다. 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"3871","begin":14,"end":18,"label":"PAYMENT_PIN"}]}
+{"id":901,"content":"거래 승인을 위한 PIN 번호 7549 을 입력하세요. 안전한 거래가 보장됩니다.","has_sensitive":true,"entities":[{"value":"7549","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":902,"content":"카드 발급이 완료되었고 보안번호는 2836 입니다. 첫 사용 시 변경하세요.","has_sensitive":true,"entities":[{"value":"2836","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":903,"content":"현금 인출 시 필요한 코드 9174 를 준비하시기 바랍니다. 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"9174","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":904,"content":"계좌 이체 신청이 승인되었으며 확인번호 5428 을 저장하세요. 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"5428","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":905,"content":"송금 거래 완료되었고 인증 PIN 8361 이 발급되었습니다. SMS로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"8361","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":906,"content":"자동이체 설정 완료되었으며 관리 코드 1697 을 확인하세요. 매월 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"1697","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":907,"content":"통장 비밀번호 6243 로 등록되었습니다. 영업점에서 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"6243","begin":9,"end":13,"label":"PAYMENT_PIN"}]}
+{"id":908,"content":"해외 결제 승인 코드 4795 이 생성되었습니다. 환율이 우대 적용됩니다.","has_sensitive":true,"entities":[{"value":"4795","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":909,"content":"비밀번호 초기화 완료되었고 임시 PIN 3926 을 사용하세요. 즉시 변경하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"3926","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":910,"content":"대출 계약이 체결되었으며 서명 코드 9518 을 확인하세요. 약관을 검토하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9518","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":911,"content":"예금 만기 출금을 위해 PIN 5374 이 필요합니다. 신분증과 통장을 준비하세요.","has_sensitive":true,"entities":[{"value":"5374","begin":18,"end":22,"label":"PAYMENT_PIN"}]}
+{"id":912,"content":"적금 해지 신청이 접수되었고 확인번호 7182 을 보관하세요. 이자가 지급됩니다.","has_sensitive":true,"entities":[{"value":"7182","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":913,"content":"펀드 매도 완료되었으며 정산 PIN 2649 을 입력하세요. 영업일 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"2649","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":914,"content":"주식 체결 확인번호는 8435 입니다. 거래 내역서를 다운로드하세요.","has_sensitive":true,"entities":[{"value":"8435","begin":13,"end":17,"label":"PAYMENT_PIN"}]}
+{"id":915,"content":"보험 가입 승인되었고 증권번호 4761 을 저장하세요. 보험료 납부 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"4761","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":916,"content":"환전 신청 완료되었으며 거래 코드 9236 이 필요합니다. 실시간 환율이 적용됩니다.","has_sensitive":true,"entities":[{"value":"9236","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":917,"content":"청약 접수 완료되었고 신청 PIN 6157 을 확인하세요. 당첨 발표는 내일입니다.","has_sensitive":true,"entities":[{"value":"6157","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":918,"content":"신용 한도 승인되었으며 이용 코드 3894 이 발급되었습니다. 이자는 사용액에만 부과됩니다.","has_sensitive":true,"entities":[{"value":"3894","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":919,"content":"충전 완료되었고 사용 PIN 5728 을 확인하세요. 최대 한도까지 충전되었습니다.","has_sensitive":true,"entities":[{"value":"5728","begin":17,"end":21,"label":"PAYMENT_PIN"}]}
+{"id":920,"content":"기프트 활성화되었으며 등록 코드 8142 을 입력하세요. 전국 가맹점에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"8142","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":921,"content":"간편결제 등록 완료되었고 보안 PIN 2596 이 설정되었습니다. 지문인증도 등록하세요.","has_sensitive":true,"entities":[{"value":"2596","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":922,"content":"포인트 적립 완료되었으며 조회번호 9371 을 확인하세요. 앱에서 잔액 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"9371","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":923,"content":"회원 가입 축하드리며 회원 코드 4825 을 저장하세요. 다양한 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"4825","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":924,"content":"쿠폰 발급 완료되었고 사용 PIN 7193 을 입력하세요. 유효기간은 30일입니다.","has_sensitive":true,"entities":[{"value":"7193","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":925,"content":"적립금 사용 가능하며 확인 코드 6348 이 필요합니다. 결제 시 자동 차감됩니다.","has_sensitive":true,"entities":[{"value":"6348","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":926,"content":"배송 시작되었고 추적번호와 PIN 1972 을 확인하세요. 실시간 배송 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"1972","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":927,"content":"반품 수거 예약되었으며 수거 코드 5684 을 기사님께 알려주세요.","has_sensitive":true,"entities":[{"value":"5684","begin":23,"end":27,"label":"PAYMENT_PIN"}]}
+{"id":928,"content":"교환 재발송 완료되었고 새 운송장번호 8429 을 저장하세요. 내일 도착 예정입니다.","has_sensitive":true,"entities":[{"value":"8429","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":929,"content":"환불 입금 완료되었으며 처리 PIN 3716 을 확인하세요. 계좌로 환불되었습니다.","has_sensitive":true,"entities":[{"value":"3716","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":930,"content":"예약 확정되었고 방문 시 제시할 코드 9253 을 준비하세요. 신분증을 지참하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9253","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":931,"content":"주문 수정 완료되었으며 새 주문번호 6847 을 확인하세요. 최종 금액을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6847","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":932,"content":"결제 취소 처리되었고 환불 코드 4195 이 생성되었습니다. 영업일 기준 5일 소요됩니다.","has_sensitive":true,"entities":[{"value":"4195","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":933,"content":"재주문 완료되었으며 할인 적용 PIN 7562 을 확인하세요. 쿠폰이 재적용되었습니다.","has_sensitive":true,"entities":[{"value":"7562","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":934,"content":"구독 갱신 완료되었고 다음 결제 코드 2831 을 저장하세요. 자동 결제가 설정되었습니다.","has_sensitive":true,"entities":[{"value":"2831","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":935,"content":"정기배송 주기 변경되었으며 관리 PIN 5948 을 확인하세요. 다음 배송일을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5948","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":936,"content":"무료체험 등록 완료되었고 인증번호 8374 이 발급되었습니다. 7일간 무료로 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"8374","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":937,"content":"유료 플랜 전환 완료되었으며 결제 PIN 1629 을 확인하세요. 모든 프리미엄 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"1629","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":938,"content":"이벤트 당첨 축하드리며 경품 수령 코드 9786 을 확인하세요. 본인 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"9786","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":939,"content":"설문 참여 감사드리고 보상 지급 PIN 4521 이 생성되었습니다. 포인트로 적립 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4521","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":940,"content":"리뷰 작성 완료되었으며 적립금 지급 코드 6193 을 저장하세요. 다음 구매 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"6193","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":941,"content":"추천인 보상 지급되었고 수령 PIN 3857 을 확인하세요. 친구도 함께 혜택을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"3857","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":942,"content":"친구 초대 성공하셨으며 인센티브 코드 7294 이 필요합니다. 쿠폰이 자동으로 지급되었습니다.","has_sensitive":true,"entities":[{"value":"7294","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":943,"content":"출석 인증 완료되었고 보상 수령 PIN 5146 을 입력하세요. 연속 출석 시 추가 보너스가 있습니다.","has_sensitive":true,"entities":[{"value":"5146","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":944,"content":"미션 완료 축하드리며 보상 지급 코드 9628 이 발급되었습니다. 다음 미션도 도전해 보세요.","has_sensitive":true,"entities":[{"value":"9628","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":945,"content":"레벨 업그레이드되었으며 특별 혜택 PIN 2739 을 확인하세요. 전용 아이템을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"2739","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":946,"content":"VIP 등급 승급 축하드리고 라운지 이용 코드 8451 을 사용하세요. 컨시어지 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"8451","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":947,"content":"플래티넘 회원 자격 획득하셨으며 확인 PIN 6174 을 보관하세요. 평생 혜택이 유지됩니다.","has_sensitive":true,"entities":[{"value":"6174","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":948,"content":"다이아 등급 달성 축하드리며 인증번호 3925 이 생성되었습니다. 최상위 혜택을 누리세요.","has_sensitive":true,"entities":[{"value":"3925","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":949,"content":"프로 계정 전환 완료되었고 관리 코드 7286 을 확인하세요. 무제한 기능을 이용하세요.","has_sensitive":true,"entities":[{"value":"7286","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":950,"content":"비즈니스 플랜 등록 승인되었으며 접속 PIN 5417 이 필요합니다. 팀 관리 기능이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"5417","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":951,"content":"엔터프라이즈 서비스 시작되었고 관리자 코드 9138 을 확인하세요. 전담 매니저가 배정됩니다.","has_sensitive":true,"entities":[{"value":"9138","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":952,"content":"법인 계정 등록 완료되었으며 대표 인증 PIN 2865 이 발급되었습니다. 사업자등록증을 제출하세요.","has_sensitive":true,"entities":[{"value":"2865","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":953,"content":"기업 고객 서비스 활성화되었고 확인 코드 6743 을 저장하세요. 대량 구매 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"6743","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":954,"content":"파트너 프로그램 가입 승인되었으며 ID 확인 PIN 4192 을 사용하세요. 수수료 정산은 매월 말일입니다.","has_sensitive":true,"entities":[{"value":"4192","begin":36,"end":40,"label":"PAYMENT_PIN"}]}
+{"id":955,"content":"협력사 등록 완료되었고 거래 인증번호 8527 을 확인하세요. 계약서를 검토하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"8527","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":956,"content":"공급업체 계정 활성화되었으며 시스템 PIN 3649 이 필요합니다. 주문 관리가 가능합니다.","has_sensitive":true,"entities":[{"value":"3649","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":957,"content":"판매자 인증 승인되었고 상품 등록 코드 7951 을 입력하세요. 수수료는 판매가의 10%입니다.","has_sensitive":true,"entities":[{"value":"7951","begin":28,"end":32,"label":"PAYMENT_PIN"}]}
+{"id":958,"content":"크리에이터 등록 완료되었으며 수익 정산 PIN 5284 이 발급되었습니다. 월 최소 금액은 10만원입니다.","has_sensitive":true,"entities":[{"value":"5284","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":959,"content":"인플루언서 프로그램 승인되었고 확인번호 9376 을 보관하세요. 협찬 제품이 곧 발송됩니다.","has_sensitive":true,"entities":[{"value":"9376","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":960,"content":"제휴 마케팅 신청 완료되었으며 제휴 코드 2648 을 확인하세요. 승인까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"2648","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":961,"content":"광고주 등록 승인되었고 캠페인 관리 PIN 6159 이 필요합니다. 예산 설정을 먼저 진행하세요.","has_sensitive":true,"entities":[{"value":"6159","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":962,"content":"API 접근 권한 부여되었으며 인증 키 연동 코드 4837 을 사용하세요. 개발 문서를 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4837","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":963,"content":"개발자 계정 활성화되었고 토큰 발급번호 7523 을 확인하세요. 일일 호출 한도는 10만건입니다.","has_sensitive":true,"entities":[{"value":"7523","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":964,"content":"테스트 환경 접속 완료되었으며 샌드박스 PIN 1894 이 필요합니다. 실제 결제는 되지 않습니다.","has_sensitive":true,"entities":[{"value":"1894","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":965,"content":"베타 테스터 선정되셨고 접속 인증번호 9265 을 입력하세요. 피드백을 부탁드립니다.","has_sensitive":true,"entities":[{"value":"9265","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":966,"content":"얼리액세스 신청 승인되었으며 사전 체험 PIN 5718 이 발급되었습니다. 정식 출시 전 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"5718","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":967,"content":"프리미엄 베타 참여 확정되었고 특별 접속 코드 8342 을 사용하세요. 버그 리포트를 제출해 주세요.","has_sensitive":true,"entities":[{"value":"8342","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":968,"content":"클로즈드 알파 테스트 초대되었으며 인증 PIN 3196 이 필요합니다. 보안 유지 서약서에 동의하세요.","has_sensitive":true,"entities":[{"value":"3196","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":969,"content":"신규 기능 미리보기 권한 부여되었고 활성화 코드 6874 을 확인하세요. 의견을 적극 반영하겠습니다.","has_sensitive":true,"entities":[{"value":"6874","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":970,"content":"고객센터 문의 접수 완료되었으며 상담 예약번호 2539 을 저장하세요. 담당자가 곧 연락드립니다.","has_sensitive":true,"entities":[{"value":"2539","begin":33,"end":37,"label":"PAYMENT_PIN"}]}
+{"id":971,"content":"1:1 문의 답변 등록되었고 확인 PIN 9471 을 참조하세요. 추가 문의는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"9471","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":972,"content":"전화 상담 예약 완료되었으며 예약 확인 코드 7156 을 확인하세요. 시간 10분 전 대기해 주세요.","has_sensitive":true,"entities":[{"value":"7156","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":973,"content":"채팅 상담 연결 대기 중이고 대기번호 4823 을 보관하세요. 현재 3명이 앞에 있습니다.","has_sensitive":true,"entities":[{"value":"4823","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":974,"content":"이메일 문의 회신 완료되었으며 티켓번호 6295 를 확인하세요. 만족도 조사에 참여해 주세요.","has_sensitive":true,"entities":[{"value":"6295","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":975,"content":"불만 접수 등록 완료되었고 처리 코드 1738 을 저장하세요. 보상 방안을 검토하여 연락드립니다.","has_sensitive":true,"entities":[{"value":"1738","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":976,"content":"클레임 처리 완료되었으며 보상 지급 PIN 5942 이 발급되었습니다. 계좌로 입금 예정입니다.","has_sensitive":true,"entities":[{"value":"5942","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":977,"content":"환불 요청 승인되었고 환불 승인번호 8367 을 확인하세요. 영업일 기준 7일 이내 처리됩니다.","has_sensitive":true,"entities":[{"value":"8367","begin":25,"end":29,"label":"PAYMENT_PIN"}]}
+{"id":978,"content":"보상 쿠폰 발급 완료되었으며 사용 코드 3529 을 입력하세요. 유효기간은 30일이며 중복 사용 불가합니다.","has_sensitive":true,"entities":[{"value":"3529","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":979,"content":"서비스 복구 완료되었고 재접속 PIN 9184 을 사용하세요. 불편을 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"9184","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":980,"content":"계정 복구 신청 접수되었으며 본인확인 코드 6751 이 발송되었습니다. 이메일과 SMS로 전송됩니다.","has_sensitive":true,"entities":[{"value":"6751","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":981,"content":"비밀번호 재설정 링크 전송되었고 인증번호 2496 을 입력하세요. 10분 내에 완료해야 합니다.","has_sensitive":true,"entities":[{"value":"2496","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":982,"content":"이메일 인증 완료되었으며 계정 활성화 PIN 7843 이 필요합니다. 로그인이 가능합니다.","has_sensitive":true,"entities":[{"value":"7843","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":983,"content":"휴대폰 번호 변경 승인되었고 확인 코드 4125 을 저장하세요. 새 번호로 SMS가 발송됩니다.","has_sensitive":true,"entities":[{"value":"4125","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":984,"content":"개인정보 수정 요청 완료되었으며 변경 승인 PIN 9638 을 확인하세요. 변경 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9638","begin":34,"end":38,"label":"PAYMENT_PIN"}]}
+{"id":985,"content":"프로필 사진 업로드 완료되었고 승인 코드 5274 이 생성되었습니다. 검토 후 공개됩니다.","has_sensitive":true,"entities":[{"value":"5274","begin":30,"end":34,"label":"PAYMENT_PIN"}]}
+{"id":986,"content":"닉네임 변경 승인되었으며 확인번호 8192 을 입력하세요. 변경은 월 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"8192","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":987,"content":"주소록 동기화 완료되었고 연동 PIN 3746 을 사용하세요. 연락처가 안전하게 저장되었습니다.","has_sensitive":true,"entities":[{"value":"3746","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":988,"content":"알림 설정 변경되었으며 확인 코드 6591 을 확인하세요. 푸시 알림이 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"6591","begin":22,"end":26,"label":"PAYMENT_PIN"}]}
+{"id":989,"content":"보안 설정 강화 완료되었고 2단계 인증 PIN 1927 이 설정되었습니다. 로그인 시 추가 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"1927","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":990,"content":"생체인증 등록 완료되었으며 백업 코드 4583 을 보관하세요. 기기 변경 시 필요합니다.","has_sensitive":true,"entities":[{"value":"4583","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":991,"content":"지문인증 활성화되었고 긴급 PIN 9265 을 저장하세요. 인식 실패 시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"9265","begin":21,"end":25,"label":"PAYMENT_PIN"}]}
+{"id":992,"content":"얼굴인식 등록 완료되었으며 대체 인증 코드 7348 을 확인하세요. 어두운 환경에서 사용하세요.","has_sensitive":true,"entities":[{"value":"7348","begin":29,"end":33,"label":"PAYMENT_PIN"}]}
+{"id":993,"content":"홍채인식 보안 활성화되었고 복구 PIN 5126 이 발급되었습니다. 렌즈 착용 시에도 인식됩니다.","has_sensitive":true,"entities":[{"value":"5126","begin":26,"end":30,"label":"PAYMENT_PIN"}]}
+{"id":994,"content":"음성인증 서비스 등록 완료되었으며 확인번호 8794 을 저장하세요. 조용한 곳에서 등록하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"8794","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":995,"content":"패턴 비밀번호 설정되었고 복구 코드 2461 을 입력하세요. 5회 오류 시 계정이 잠깁니다.","has_sensitive":true,"entities":[{"value":"2461","begin":24,"end":28,"label":"PAYMENT_PIN"}]}
+{"id":996,"content":"핀테크 서비스 연동 완료되었으며 인증 PIN 6937 이 필요합니다. 개인정보 제공 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"6937","begin":31,"end":35,"label":"PAYMENT_PIN"}]}
+{"id":997,"content":"오픈뱅킹 API 연결 완료되었고 토큰값 3158 을 확인하세요. 여러 은행 계좌를 통합 관리할 수 있습니다.","has_sensitive":true,"entities":[{"value":"3158","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":998,"content":"금융 데이터 조회 동의 완료되었으며 확인코드 9524 를 입력하세요. 마이데이터 서비스가 활성화됩니다.","has_sensitive":true,"entities":[{"value":"9524","begin":32,"end":36,"label":"PAYMENT_PIN"}]}
+{"id":999,"content":"자산관리 통합 서비스 가입되었고 PIN 7289 을 사용하세요. 모든 금융상품을 한눈에 볼 수 있습니다.","has_sensitive":true,"entities":[{"value":"7289","begin":27,"end":31,"label":"PAYMENT_PIN"}]}
+{"id":1000,"content":"신용점수 조회 완료되었으며 인증번호 4651 을 확인하세요. 무료로 확인 가능하며 본인인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4651","begin":24,"end":28,"label":"PAYMENT_PIN"}]}

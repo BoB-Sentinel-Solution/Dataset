@@ -1,0 +1,1000 @@
+{"id":1,"content":"모바일 결제를 위한 PIN 번호 147258이 설정되었습니다. 안전한 거래를 위해 타인에게 노출하지 마세요.","has_sensitive":true,"entities":[{"value":"147258","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":2,"content":"고객님의 간편결제 인증번호는 852963입니다. 또한 본 번호는 3분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":3,"content":"결제 승인을 위해 456789를 입력해주시기 바랍니다. 참고로 이 코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"456789","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":4,"content":"새로운 페이 PIN이 321654로 변경되었습니다. 아울러 변경 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"321654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":5,"content":"먼저 본인 확인을 위해 234567을 입력하세요. 그리고 다음 단계로 진행하시면 됩니다.","has_sensitive":true,"entities":[{"value":"234567","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":6,"content":"거래 인증번호 987321이 발송되었습니다. 다만 5분 이내 미입력 시 자동 만료됩니다.","has_sensitive":true,"entities":[{"value":"987321","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":7,"content":"안전결제를 위한 핀번호는 765432입니다. 또한 이 번호는 타인과 공유하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":8,"content":"결제 확인 코드 159357을 앱에 입력해주세요. 참고로 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"159357","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":9,"content":"고객님께서 요청하신 모바일 결제 PIN 753951이 생성되었습니다. 그리고 보안을 위해 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"753951","begin":26,"end":32,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":10,"content":"본인인증을 완료하려면 258963을 입력하시기 바랍니다. 아울러 3회 오입력 시 계정이 잠깁니다.","has_sensitive":true,"entities":[{"value":"258963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":11,"content":"귀하의 간편결제 PIN은 369258입니다. 먼저 이 번호로 본인 확인을 진행해주세요.","has_sensitive":true,"entities":[{"value":"369258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":12,"content":"모바일 페이 승인번호 741852를 화면에 입력하세요. 또한 타인에게 절대 알려주지 마십시오.","has_sensitive":true,"entities":[{"value":"741852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":13,"content":"결제를 진행하시려면 963852를 입력해주세요. 다만 이 코드는 1회만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"963852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":14,"content":"인증번호 147963이 귀하의 휴대폰으로 전송되었습니다. 그리고 본인 확인 후 결제가 완료됩니다.","has_sensitive":true,"entities":[{"value":"147963","begin":5,"end":11,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":15,"content":"간편결제 설정을 위해 357159를 등록해주시기 바랍니다. 참고로 숫자 6자리만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":16,"content":"새로운 보안 PIN 951753이 발급되었습니다. 아울러 이전 PIN은 즉시 무효화됩니다.","has_sensitive":true,"entities":[{"value":"951753","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":17,"content":"결제 진행을 위한 일회용 코드는 852741입니다. 또한 해당 코드는 오늘 자정까지 유효합니다.","has_sensitive":true,"entities":[{"value":"852741","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":18,"content":"고객님의 페이 PIN 번호 654987이 정상적으로 변경되었습니다. 먼저 새 PIN으로 로그인해주세요.","has_sensitive":true,"entities":[{"value":"654987","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":19,"content":"모바일 결제 인증을 위해 123789를 입력하세요. 그리고 입력 완료 후 확인 버튼을 누르세요.","has_sensitive":true,"entities":[{"value":"123789","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":20,"content":"본인확인 PIN 456123은 안전하게 보관하시기 바랍니다. 다만 분실 시 즉시 재발급 받으셔야 합니다.","has_sensitive":true,"entities":[{"value":"456123","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":21,"content":"거래승인을 위한 보안번호 789456이 생성되었습니다. 참고로 이 번호는 매 거래마다 변경됩니다.","has_sensitive":true,"entities":[{"value":"789456","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":22,"content":"결제 확인을 위해 321789를 앱에 입력해주세요. 아울러 입력 제한 시간은 5분입니다.","has_sensitive":true,"entities":[{"value":"321789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":23,"content":"귀하의 모바일 간편결제 PIN은 654321입니다. 또한 타인 공유 시 발생하는 손해는 본인 책임입니다.","has_sensitive":true,"entities":[{"value":"654321","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":24,"content":"먼저 본인인증 번호 987654를 입력하세요. 그리고 추가 인증 절차를 진행하시면 됩니다.","has_sensitive":true,"entities":[{"value":"987654","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":25,"content":"간편결제 핀번호 258147이 설정되었습니다. 다만 보안을 위해 3개월마다 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"258147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":26,"content":"결제를 완료하시려면 963147을 입력하시기 바랍니다. 참고로 잘못 입력 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":27,"content":"새로운 인증번호 741963이 발급되었습니다. 아울러 이전 번호는 더 이상 사용할 수 없습니다.","has_sensitive":true,"entities":[{"value":"741963","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":28,"content":"고객님의 결제 PIN 357852가 정상 등록되었습니다. 또한 첫 거래 시 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":29,"content":"모바일 페이 보안코드는 159753입니다. 먼저 이 코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"159753","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":30,"content":"본인확인을 위한 임시 PIN 951357이 생성되었습니다. 그리고 확인 후 정식 PIN을 설정하세요.","has_sensitive":true,"entities":[{"value":"951357","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":31,"content":"간편결제 승인을 위해 753258을 입력해주세요. 다만 코드 입력은 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"753258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":32,"content":"귀하의 페이 인증번호는 852369입니다. 참고로 이 번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"852369","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":33,"content":"결제 인증 코드 147852를 화면에 입력하세요. 아울러 화면이 종료되면 재발급 받아야 합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":34,"content":"모바일 결제를 위한 PIN 456852가 설정되었습니다. 또한 설정 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"456852","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":35,"content":"먼저 보안 인증번호 753159를 입력하시기 바랍니다. 그리고 본인 확인 후 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"753159","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":36,"content":"새로운 간편결제 코드 951258이 등록되었습니다. 다만 기존 코드는 자동으로 해지됩니다.","has_sensitive":true,"entities":[{"value":"951258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":37,"content":"결제 승인번호 369147을 입력해주세요. 참고로 번호 확인 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"369147","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":38,"content":"고객님의 모바일 PIN은 258741입니다. 아울러 이 번호는 본인만 알고 계셔야 합니다.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":39,"content":"간편결제를 시작하려면 654789를 등록하세요. 또한 등록 완료까지 약 1분이 소요됩니다.","has_sensitive":true,"entities":[{"value":"654789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":40,"content":"본인인증 코드 147258이 전송되었습니다. 먼저 코드를 입력하고 다음 단계로 진행하세요.","has_sensitive":true,"entities":[{"value":"147258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":41,"content":"모바일 페이 PIN 번호는 963258입니다. 그리고 이 번호로 모든 결제가 승인됩니다.","has_sensitive":true,"entities":[{"value":"963258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":42,"content":"거래 확인을 위한 핀번호 852147을 입력하세요. 다만 오입력 3회 시 계정이 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":43,"content":"새로 발급된 결제 PIN은 741258입니다. 참고로 이 PIN은 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"741258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":44,"content":"귀하의 간편결제 인증번호 357963이 등록되었습니다. 아울러 안전한 관리를 부탁드립니다.","has_sensitive":true,"entities":[{"value":"357963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":45,"content":"결제 진행을 위해 159852를 입력해주시기 바랍니다. 또한 입력 후 확인 버튼을 눌러주세요.","has_sensitive":true,"entities":[{"value":"159852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":46,"content":"먼저 모바일 인증코드 951753을 확인하세요. 그리고 해당 코드를 입력창에 넣으시면 됩니다.","has_sensitive":true,"entities":[{"value":"951753","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":47,"content":"고객님께서 설정하신 PIN 753951은 즉시 적용됩니다. 다만 보안상 타인에게 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"753951","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":48,"content":"간편결제 보안번호 258963이 생성되었습니다. 참고로 생성일로부터 90일간 유효합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":49,"content":"본인확인 절차를 위해 369852를 입력하세요. 아울러 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"369852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":50,"content":"모바일 결제 PIN 741369가 설정 완료되었습니다. 또한 변경 내역이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"741369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":51,"content":"결제 승인코드는 852963입니다. 먼저 이 코드를 결제 화면에 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"852963","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":52,"content":"새로운 페이 인증번호 456789가 발급되었습니다. 그리고 이 번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":53,"content":"고객님의 결제 확인 PIN은 321654입니다. 다만 이 번호는 절대 타인과 공유하지 마세요.","has_sensitive":true,"entities":[{"value":"321654","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":54,"content":"간편결제를 위한 핀번호 234567이 등록되었습니다. 참고로 등록 완료 메일을 확인하세요.","has_sensitive":true,"entities":[{"value":"234567","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":55,"content":"본인인증을 진행하시려면 987321을 입력하세요. 아울러 인증 후 서비스 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"987321","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":56,"content":"모바일 페이 보안 PIN 765432가 생성되었습니다. 또한 이 PIN으로 모든 거래를 승인합니다.","has_sensitive":true,"entities":[{"value":"765432","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":57,"content":"먼저 거래 인증번호 159357을 확인하시기 바랍니다. 그리고 입력 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"159357","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":58,"content":"귀하의 간편결제 코드는 753951입니다. 다만 코드 분실 시 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":59,"content":"결제를 완료하려면 258963을 입력해주세요. 참고로 입력 시간은 10분으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":60,"content":"새로운 보안 코드 369258이 발급되었습니다. 아울러 발급 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"369258","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":61,"content":"고객님의 페이 PIN 741852는 안전하게 암호화되었습니다. 또한 주기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"741852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":62,"content":"간편결제 인증을 위해 963852를 입력하세요. 먼저 번호 확인 후 제출 버튼을 눌러주세요.","has_sensitive":true,"entities":[{"value":"963852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":63,"content":"본인확인 PIN 번호 147963이 설정되었습니다. 그리고 설정 내역은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"147963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":64,"content":"모바일 결제를 위한 코드 357159가 등록되었습니다. 다만 등록 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":65,"content":"거래 승인 PIN은 951753입니다. 참고로 이 PIN은 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":66,"content":"귀하께서 요청하신 결제 PIN 852741이 생성되었습니다. 아울러 생성 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852741","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":67,"content":"새로운 간편결제 번호는 654987입니다. 또한 이 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"654987","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":68,"content":"먼저 인증코드 123789를 입력하시기 바랍니다. 그리고 코드 확인 후 다음으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"123789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":69,"content":"고객님의 모바일 페이 PIN 456123이 정상 등록되었습니다. 다만 보안 유지에 주의하세요.","has_sensitive":true,"entities":[{"value":"456123","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":70,"content":"결제 확인번호 789456을 앱에 입력해주세요. 참고로 앱 버전이 최신이어야 합니다.","has_sensitive":true,"entities":[{"value":"789456","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":71,"content":"간편결제를 시작하려면 321789를 등록하세요. 아울러 등록 후 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"321789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":72,"content":"본인인증용 보안번호는 654321입니다. 또한 번호는 본인만 알고 계셔야 합니다.","has_sensitive":true,"entities":[{"value":"654321","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":73,"content":"모바일 결제 PIN 987654가 발급되었습니다. 먼저 이 PIN을 안전한 곳에 보관하세요.","has_sensitive":true,"entities":[{"value":"987654","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":74,"content":"새로운 페이 코드 258147을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"258147","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":75,"content":"귀하의 결제 인증번호 963147이 생성되었습니다. 다만 3회 오입력 시 잠금 처리됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":76,"content":"간편결제 핀번호는 741963입니다. 참고로 핀번호 변경은 설정에서 가능합니다.","has_sensitive":true,"entities":[{"value":"741963","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":77,"content":"결제를 진행하시려면 357852를 입력하세요. 아울러 입력 후 자동으로 승인됩니다.","has_sensitive":true,"entities":[{"value":"357852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":78,"content":"고객님의 모바일 간편결제 코드 159753이 등록되었습니다. 또한 등록 확인 문자가 발송됩니다.","has_sensitive":true,"entities":[{"value":"159753","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":79,"content":"먼저 본인확인 PIN 951357을 입력하시기 바랍니다. 그리고 입력 완료 후 서비스를 이용하세요.","has_sensitive":true,"entities":[{"value":"951357","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":80,"content":"모바일 페이 승인번호는 753258입니다. 다만 승인번호는 타인에게 알려주면 안 됩니다.","has_sensitive":true,"entities":[{"value":"753258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":81,"content":"새로운 결제 PIN 852369가 설정되었습니다. 참고로 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"852369","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":82,"content":"거래 인증을 위한 코드 147852를 입력해주세요. 아울러 코드는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":83,"content":"귀하의 간편결제 PIN은 456852입니다. 또한 PIN 변경은 언제든지 가능합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":84,"content":"본인인증 번호 753159를 확인하세요. 먼저 번호를 입력하고 인증 버튼을 눌러주세요.","has_sensitive":true,"entities":[{"value":"753159","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":85,"content":"간편결제를 위한 보안코드 951258이 발급되었습니다. 그리고 발급일로부터 1년간 유효합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":86,"content":"모바일 결제 확인 PIN 369147을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"369147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":87,"content":"고객님께서 설정하신 페이 코드는 258741입니다. 참고로 코드는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"258741","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":88,"content":"새로운 간편결제 인증번호 654789가 생성되었습니다. 아울러 생성 완료 메일을 확인하세요.","has_sensitive":true,"entities":[{"value":"654789","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":89,"content":"결제 승인을 위해 147258을 입력해주세요. 또한 입력 후 즉시 거래가 완료됩니다.","has_sensitive":true,"entities":[{"value":"147258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":90,"content":"먼저 모바일 인증 PIN 963258을 확인하시기 바랍니다. 그리고 확인 후 다음 단계로 진행하세요.","has_sensitive":true,"entities":[{"value":"963258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":91,"content":"귀하의 결제 보안번호는 852147입니다. 다만 보안번호는 주기적으로 변경하는 것이 좋습니다.","has_sensitive":true,"entities":[{"value":"852147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":92,"content":"간편결제 코드 741258이 정상 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"741258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":93,"content":"본인확인을 위한 PIN 357963을 입력하세요. 아울러 입력 완료 후 자동 인증됩니다.","has_sensitive":true,"entities":[{"value":"357963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":94,"content":"모바일 페이 결제번호 159852가 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"159852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":95,"content":"새로운 보안 PIN 번호는 951753입니다. 먼저 이 번호를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":96,"content":"고객님의 간편결제 승인코드 753951이 설정되었습니다. 그리고 설정 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"753951","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":97,"content":"거래를 완료하려면 258963을 입력하시기 바랍니다. 다만 거래 금액 확인 후 입력하세요.","has_sensitive":true,"entities":[{"value":"258963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":98,"content":"간편결제를 시작하시려면 369852를 등록하세요. 참고로 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":99,"content":"본인인증용 결제 코드 741369가 생성되었습니다. 아울러 생성일시가 기록되었습니다.","has_sensitive":true,"entities":[{"value":"741369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":100,"content":"모바일 결제 PIN은 852963입니다. 또한 PIN을 잊어버리면 재설정이 필요합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":101,"content":"먼저 인증번호 456789를 확인하시기 바랍니다. 그리고 확인 후 결제 화면으로 이동하세요.","has_sensitive":true,"entities":[{"value":"456789","begin":8,"end":14,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":102,"content":"귀하께서 요청하신 간편결제 PIN 321654가 등록되었습니다. 다만 등록 취소 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":103,"content":"결제 확인 코드는 234567입니다. 참고로 코드 입력은 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":104,"content":"새로운 페이 인증 PIN 987321이 발급되었습니다. 아울러 발급 즉시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"987321","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":105,"content":"고객님의 모바일 결제 보안번호는 765432입니다. 또한 보안번호는 타인과 절대 공유 금지입니다.","has_sensitive":true,"entities":[{"value":"765432","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":106,"content":"간편결제 인증을 위해 159357을 입력해주세요. 먼저 번호 확인 후 제출하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"159357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":107,"content":"본인확인 절차를 위한 PIN 753951을 입력하세요. 그리고 입력 후 본인확인이 완료됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":108,"content":"모바일 페이 코드 258963이 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":109,"content":"거래 승인번호는 369258입니다. 참고로 승인번호는 매 거래마다 다를 수 있습니다.","has_sensitive":true,"entities":[{"value":"369258","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":110,"content":"귀하의 간편결제 핀번호 741852가 생성되었습니다. 아울러 생성 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"741852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":111,"content":"새로운 결제 인증코드 963852를 확인하시기 바랍니다. 또한 확인 후 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"963852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":112,"content":"먼저 본인인증 번호 147963을 입력하세요. 그리고 인증 완료 후 서비스를 이용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"147963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":113,"content":"고객님의 페이 보안 PIN은 357159입니다. 다만 보안을 위해 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":114,"content":"간편결제를 위한 승인번호 951753이 등록되었습니다. 참고로 등록 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":115,"content":"결제를 진행하시려면 852741을 입력하시기 바랍니다. 아울러 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"852741","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":116,"content":"본인확인용 모바일 코드는 654987입니다. 또한 코드는 일회성으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"654987","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":117,"content":"모바일 결제 PIN 번호 123789가 발급되었습니다. 먼저 PIN을 안전한 곳에 기록하세요.","has_sensitive":true,"entities":[{"value":"123789","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":118,"content":"새로운 간편결제 코드는 456123입니다. 그리고 코드 등록 후 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"456123","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":119,"content":"귀하의 결제 확인번호 789456을 입력해주세요. 다만 입력 전 금액을 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":120,"content":"간편결제 보안 PIN 321789가 설정되었습니다. 참고로 설정 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"321789","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":121,"content":"거래 인증을 위해 654321을 입력하시기 바랍니다. 아울러 인증 후 거래가 승인됩니다.","has_sensitive":true,"entities":[{"value":"654321","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":122,"content":"고객님의 모바일 페이 번호는 987654입니다. 또한 번호는 본인만 알아야 합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":123,"content":"먼저 결제 승인코드 258147을 확인하세요. 그리고 확인 후 결제를 완료하시면 됩니다.","has_sensitive":true,"entities":[{"value":"258147","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":124,"content":"본인인증 PIN 번호는 963147입니다. 다만 PIN 분실 시 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"963147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":125,"content":"간편결제를 시작하려면 741963을 등록하시기 바랍니다. 참고로 등록은 무료입니다.","has_sensitive":true,"entities":[{"value":"741963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":126,"content":"모바일 결제 인증번호 357852가 생성되었습니다. 아울러 생성 완료 문자가 발송되었습니다.","has_sensitive":true,"entities":[{"value":"357852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":127,"content":"새로운 페이 PIN 159753이 등록되었습니다. 또한 등록 내역은 마이페이지에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"159753","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":128,"content":"귀하께서 요청하신 결제 코드 951357이 발급되었습니다. 먼저 코드를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"951357","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":129,"content":"고객님의 간편결제 인증 PIN은 753258입니다. 그리고 PIN은 언제든지 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"753258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":130,"content":"결제 확인을 위한 번호 852369를 입력해주세요. 다만 번호 입력은 신중하게 하셔야 합니다.","has_sensitive":true,"entities":[{"value":"852369","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":131,"content":"간편결제 핀번호 147852가 정상 설정되었습니다. 참고로 설정 변경은 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":132,"content":"본인확인을 위해 456852를 입력하시기 바랍니다. 아울러 입력 후 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":133,"content":"모바일 페이 코드는 753159입니다. 또한 코드는 외부에 절대 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"753159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":134,"content":"먼저 거래 인증 PIN 951258을 확인하세요. 그리고 확인 후 거래를 진행하시면 됩니다.","has_sensitive":true,"entities":[{"value":"951258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":135,"content":"귀하의 결제 보안번호 369147이 생성되었습니다. 다만 생성일로부터 6개월간 유효합니다.","has_sensitive":true,"entities":[{"value":"369147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":136,"content":"새로운 간편결제 번호 258741을 확인하시기 바랍니다. 참고로 번호 확인은 필수입니다.","has_sensitive":true,"entities":[{"value":"258741","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":137,"content":"고객님께서 설정하신 페이 PIN 654789가 등록되었습니다. 아울러 등록 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"654789","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":138,"content":"간편결제를 위한 인증코드 147258이 발급되었습니다. 또한 발급일시가 기록되었습니다.","has_sensitive":true,"entities":[{"value":"147258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":139,"content":"결제 승인을 위해 963258을 입력해주세요. 먼저 금액을 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":140,"content":"본인인증 번호는 852147입니다. 그리고 번호 입력 후 자동으로 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":141,"content":"모바일 결제 PIN 741258이 설정 완료되었습니다. 다만 설정 취소는 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"741258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":142,"content":"귀하의 간편결제 코드는 357963입니다. 참고로 코드는 암호화되어 안전하게 보관됩니다.","has_sensitive":true,"entities":[{"value":"357963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":143,"content":"새로운 페이 인증번호 159852를 확인하시기 바랍니다. 아울러 확인 후 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"159852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":144,"content":"간편결제 보안 코드 951753이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"951753","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":145,"content":"먼저 결제 확인번호 753951을 입력하세요. 그리고 입력 완료 후 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":146,"content":"고객님의 모바일 인증 PIN 258963이 등록되었습니다. 다만 등록 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":147,"content":"본인확인을 위한 코드 369852를 입력하시기 바랍니다. 참고로 코드는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":148,"content":"모바일 페이 승인 PIN은 741369입니다. 아울러 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"741369","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":149,"content":"거래를 완료하시려면 852963을 입력해주세요. 또한 입력 후 거래 내역이 저장됩니다.","has_sensitive":true,"entities":[{"value":"852963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":150,"content":"새로운 간편결제 PIN 456789가 발급되었습니다. 먼저 PIN을 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"456789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":151,"content":"귀하의 결제 인증번호는 321654입니다. 그리고 인증번호는 타인 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":152,"content":"간편결제를 시작하려면 234567을 등록하세요. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":153,"content":"고객님께서 요청하신 페이 코드 987321이 생성되었습니다. 참고로 생성 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"987321","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":154,"content":"본인인증 절차를 위해 765432를 입력하시기 바랍니다. 아울러 입력 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":155,"content":"모바일 결제 코드 159357이 정상 등록되었습니다. 또한 등록 확인 문자가 발송되었습니다.","has_sensitive":true,"entities":[{"value":"159357","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":156,"content":"먼저 거래 승인번호 753951을 확인하세요. 그리고 확인 후 승인 버튼을 눌러주세요.","has_sensitive":true,"entities":[{"value":"753951","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":157,"content":"귀하의 간편결제 보안 PIN은 258963입니다. 다만 보안 유지를 위해 주의하세요.","has_sensitive":true,"entities":[{"value":"258963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":158,"content":"새로운 페이 번호 369258이 발급되었습니다. 참고로 발급 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"369258","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":159,"content":"간편결제 인증을 위해 741852를 입력해주세요. 아울러 입력 시간은 10분으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"741852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":160,"content":"결제 확인 PIN 번호는 963852입니다. 또한 번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"963852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":161,"content":"고객님의 모바일 페이 코드 147963이 설정되었습니다. 먼저 코드로 로그인해주세요.","has_sensitive":true,"entities":[{"value":"147963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":162,"content":"본인확인용 인증번호 357159를 입력하세요. 그리고 입력 완료 후 서비스를 이용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"357159","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":163,"content":"모바일 결제를 위한 PIN 951753이 등록되었습니다. 다만 등록 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":164,"content":"귀하의 결제 승인코드는 852741입니다. 참고로 승인코드는 일회성입니다.","has_sensitive":true,"entities":[{"value":"852741","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":165,"content":"간편결제 핀번호 654987이 생성되었습니다. 아울러 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"654987","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":166,"content":"새로운 페이 인증 코드는 123789입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"123789","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":167,"content":"먼저 결제 인증번호 456123을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"456123","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":168,"content":"고객님께서 설정하신 간편결제 코드 789456이 적용되었습니다. 다만 적용 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"789456","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":169,"content":"본인인증 PIN은 321789입니다. 참고로 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"321789","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":170,"content":"모바일 페이 보안번호 654321이 발급되었습니다. 아울러 발급 즉시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"654321","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":171,"content":"거래 승인을 위해 987654를 입력하시기 바랍니다. 또한 입력 후 즉시 승인됩니다.","has_sensitive":true,"entities":[{"value":"987654","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":172,"content":"귀하의 간편결제 인증 코드는 258147입니다. 먼저 코드를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"258147","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":173,"content":"새로운 결제 PIN 번호 963147이 생성되었습니다. 그리고 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":174,"content":"간편결제를 위한 보안코드는 741963입니다. 다만 보안코드는 타인에게 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"741963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":175,"content":"고객님의 모바일 결제 인증번호 357852가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":176,"content":"결제 확인을 위한 코드 159753을 입력해주세요. 아울러 코드는 3분간 유효합니다.","has_sensitive":true,"entities":[{"value":"159753","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":177,"content":"본인인증 번호 951357이 발송되었습니다. 또한 번호 확인 후 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"951357","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":178,"content":"모바일 페이 코드는 753258입니다. 먼저 코드를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"753258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":179,"content":"귀하께서 요청하신 결제 승인번호 852369가 생성되었습니다. 그리고 생성 확인 문자가 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":180,"content":"간편결제 PIN 147852가 정상 설정되었습니다. 다만 설정 변경 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":181,"content":"새로운 페이 보안 PIN은 456852입니다. 참고로 PIN은 6개월마다 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":182,"content":"고객님의 결제 인증코드 753159가 발급되었습니다. 아울러 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"753159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":183,"content":"거래를 완료하려면 951258을 입력하세요. 또한 입력 후 거래 내역이 기록됩니다.","has_sensitive":true,"entities":[{"value":"951258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":184,"content":"먼저 본인확인 코드 369147을 확인하시기 바랍니다. 그리고 확인 후 다음 단계로 진행하세요.","has_sensitive":true,"entities":[{"value":"369147","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":185,"content":"본인인증을 위한 PIN 번호 258741이 설정되었습니다. 다만 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":186,"content":"모바일 간편결제 코드는 654789입니다. 참고로 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"654789","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":187,"content":"귀하의 페이 인증번호 147258이 생성되었습니다. 아울러 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"147258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":188,"content":"간편결제 승인을 위해 963258을 입력해주세요. 또한 입력 제한 시간은 5분입니다.","has_sensitive":true,"entities":[{"value":"963258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":189,"content":"새로운 결제 보안번호는 852147입니다. 먼저 보안번호를 안전하게 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"852147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":190,"content":"고객님께서 설정하신 페이 PIN 741258이 등록되었습니다. 그리고 등록 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"741258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":191,"content":"결제 인증을 위한 코드 357963을 입력하시기 바랍니다. 다만 코드 입력은 신중하게 하세요.","has_sensitive":true,"entities":[{"value":"357963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":192,"content":"본인확인 PIN 159852가 발급되었습니다. 참고로 발급 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"159852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":193,"content":"모바일 페이 승인번호는 951753입니다. 아울러 승인번호는 매 거래마다 필요합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":194,"content":"귀하의 간편결제 코드 753951이 정상 등록되었습니다. 또한 등록 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"753951","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":195,"content":"간편결제를 시작하시려면 258963을 등록하세요. 먼저 등록 절차를 진행하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"258963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":196,"content":"새로운 페이 인증 PIN 369852가 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":197,"content":"고객님의 모바일 결제 코드는 741369입니다. 다만 코드는 타인과 절대 공유 금지입니다.","has_sensitive":true,"entities":[{"value":"741369","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":198,"content":"거래 확인번호 852963을 입력해주세요. 참고로 입력 후 자동으로 거래가 완료됩니다.","has_sensitive":true,"entities":[{"value":"852963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":199,"content":"결제를 진행하려면 456789를 입력하시기 바랍니다. 아울러 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"456789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":200,"content":"본인인증 번호는 321654입니다. 또한 번호 확인 후 본인 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"321654","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":201,"content":"모바일 간편결제 PIN 234567이 설정되었습니다. 먼저 PIN으로 결제를 시도해보세요.","has_sensitive":true,"entities":[{"value":"234567","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":202,"content":"귀하께서 요청하신 페이 코드는 987321입니다. 그리고 코드는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"987321","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":203,"content":"간편결제 보안 코드 765432가 등록되었습니다. 다만 등록 변경 시 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"765432","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":204,"content":"새로운 결제 인증번호는 159357입니다. 참고로 인증번호는 일회용입니다.","has_sensitive":true,"entities":[{"value":"159357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":205,"content":"고객님의 페이 승인 PIN은 753951입니다. 아울러 PIN은 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":206,"content":"거래를 완료하시려면 258963을 입력하세요. 또한 입력 완료 후 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":207,"content":"먼저 모바일 인증코드 369258을 확인하시기 바랍니다. 그리고 확인 후 입력창에 넣으세요.","has_sensitive":true,"entities":[{"value":"369258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":208,"content":"본인확인을 위한 코드는 741852입니다. 다만 코드는 5분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"741852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":209,"content":"간편결제 PIN 번호 963852가 발급되었습니다. 참고로 발급 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"963852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":210,"content":"모바일 페이 코드 147963이 생성되었습니다. 아울러 생성 완료 문자가 전송되었습니다.","has_sensitive":true,"entities":[{"value":"147963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":211,"content":"귀하의 결제 확인 PIN은 357159입니다. 또한 PIN은 본인만 알고 계셔야 합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":212,"content":"새로운 간편결제 인증번호 951753이 등록되었습니다. 먼저 인증번호로 로그인해주세요.","has_sensitive":true,"entities":[{"value":"951753","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":213,"content":"고객님께서 설정하신 결제 코드 852741이 적용되었습니다. 그리고 적용 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"852741","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":214,"content":"결제 승인을 위해 654987을 입력하시기 바랍니다. 다만 오입력 시 재발급 받아야 합니다.","has_sensitive":true,"entities":[{"value":"654987","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":215,"content":"본인인증 코드 123789가 전송되었습니다. 참고로 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"123789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":216,"content":"간편결제를 위한 보안 PIN은 456123입니다. 아울러 PIN은 정기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"456123","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":217,"content":"모바일 결제 인증번호는 789456입니다. 또한 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"789456","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":218,"content":"귀하의 페이 보안코드 321789가 설정되었습니다. 먼저 보안코드를 메모해두세요.","has_sensitive":true,"entities":[{"value":"321789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":219,"content":"새로운 결제 PIN은 654321입니다. 그리고 PIN 변경은 언제든지 가능합니다.","has_sensitive":true,"entities":[{"value":"654321","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":220,"content":"고객님의 간편결제 승인번호 987654가 생성되었습니다. 다만 생성일로부터 1년간 유효합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":221,"content":"거래 인증을 위한 PIN 258147을 입력해주세요. 참고로 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"258147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":222,"content":"간편결제 코드는 963147입니다. 아울러 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"963147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":223,"content":"본인확인을 진행하시려면 741963을 입력하세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"741963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":224,"content":"모바일 페이 인증 코드 357852가 발급되었습니다. 먼저 코드를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"357852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":225,"content":"귀하께서 요청하신 간편결제 PIN 159753이 등록되었습니다. 그리고 등록 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"159753","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":226,"content":"새로운 페이 승인번호는 951357입니다. 다만 승인번호는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"951357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":227,"content":"결제 확인을 위해 753258을 입력하시기 바랍니다. 참고로 입력 시간은 제한됩니다.","has_sensitive":true,"entities":[{"value":"753258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":228,"content":"고객님의 모바일 결제 보안번호 852369가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"852369","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":229,"content":"간편결제 인증을 위한 PIN 147852를 입력해주세요. 또한 PIN 확인 후 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"147852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":230,"content":"본인인증 번호는 456852입니다. 먼저 번호를 입력하고 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"456852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":231,"content":"모바일 간편결제 코드 753159가 생성되었습니다. 그리고 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"753159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":232,"content":"귀하의 결제 인증 PIN 951258이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":233,"content":"새로운 페이 코드는 369147입니다. 참고로 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"369147","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":234,"content":"간편결제를 시작하려면 258741을 등록하시기 바랍니다. 아울러 등록은 무료입니다.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":235,"content":"고객님께서 설정하신 모바일 PIN 654789가 적용되었습니다. 또한 적용 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"654789","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":236,"content":"거래 승인번호 147258을 입력해주세요. 먼저 금액을 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"147258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":237,"content":"본인확인을 위한 인증코드 963258이 전송되었습니다. 그리고 코드 확인 후 입력하세요.","has_sensitive":true,"entities":[{"value":"963258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":238,"content":"모바일 페이 보안 PIN은 852147입니다. 다만 PIN은 타인에게 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":239,"content":"귀하의 간편결제 번호는 741258입니다. 참고로 번호는 암호화되어 보관됩니다.","has_sensitive":true,"entities":[{"value":"741258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":240,"content":"새로운 결제 확인 코드 357963이 생성되었습니다. 아울러 생성 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"357963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":241,"content":"간편결제 PIN 번호는 159852입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"159852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":242,"content":"고객님의 모바일 인증번호 951753이 등록되었습니다. 먼저 인증번호로 본인 확인을 진행하세요.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":243,"content":"결제를 진행하시려면 753951을 입력하세요. 그리고 입력 후 확인 버튼을 눌러주세요.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":244,"content":"본인인증 PIN 258963이 발송되었습니다. 다만 발송된 PIN은 3분간만 유효합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":245,"content":"모바일 결제 승인코드는 369852입니다. 참고로 승인코드는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":246,"content":"귀하의 페이 인증 PIN 741369가 설정되었습니다. 아울러 설정 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"741369","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":247,"content":"간편결제를 위한 코드 852963을 확인하시기 바랍니다. 또한 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"852963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":248,"content":"새로운 페이 보안번호 456789가 생성되었습니다. 먼저 보안번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"456789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":249,"content":"고객님께서 요청하신 결제 PIN 321654가 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"321654","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":250,"content":"거래 인증번호는 234567입니다. 다만 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":251,"content":"본인확인을 위해 987321을 입력하시기 바랍니다. 참고로 입력 후 자동 인증됩니다.","has_sensitive":true,"entities":[{"value":"987321","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":252,"content":"모바일 간편결제 PIN은 765432입니다. 아울러 PIN은 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"765432","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":253,"content":"귀하의 결제 보안 코드 159357이 등록되었습니다. 또한 등록 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"159357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":254,"content":"간편결제 승인을 위해 753951을 입력해주세요. 먼저 번호 확인 후 제출하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":255,"content":"새로운 결제 인증 PIN 258963이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":256,"content":"고객님의 모바일 페이 코드는 369258입니다. 다만 코드는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"369258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":257,"content":"결제 확인 PIN 번호 741852를 입력하시기 바랍니다. 참고로 번호는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"741852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":258,"content":"본인인증 코드는 963852입니다. 아울러 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"963852","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":259,"content":"모바일 결제를 위한 보안번호 147963이 설정되었습니다. 또한 설정 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"147963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":260,"content":"귀하께서 설정하신 간편결제 코드는 357159입니다. 먼저 코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"357159","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":261,"content":"간편결제 인증번호 951753을 확인하세요. 그리고 확인 후 결제 화면으로 이동하시면 됩니다.","has_sensitive":true,"entities":[{"value":"951753","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":262,"content":"새로운 페이 PIN 852741이 발급되었습니다. 다만 발급된 PIN은 변경 불가능합니다.","has_sensitive":true,"entities":[{"value":"852741","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":263,"content":"고객님의 결제 승인번호는 654987입니다. 참고로 승인번호는 일회용입니다.","has_sensitive":true,"entities":[{"value":"654987","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":264,"content":"거래를 완료하려면 123789를 입력해주세요. 아울러 입력 완료 후 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":265,"content":"본인확인을 위한 번호 456123을 입력하세요. 또한 번호 확인 후 서비스를 이용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"456123","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":266,"content":"모바일 페이 인증코드는 789456입니다. 먼저 인증코드를 입력하고 다음으로 진행하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":267,"content":"귀하의 간편결제 보안 PIN 321789가 생성되었습니다. 그리고 생성 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"321789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":268,"content":"간편결제를 시작하시려면 654321을 등록하세요. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"654321","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":269,"content":"새로운 결제 코드 987654가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":270,"content":"고객님께서 요청하신 페이 인증번호 258147이 적용되었습니다. 아울러 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"258147","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":271,"content":"결제 인증을 위해 963147을 입력하시기 바랍니다. 또한 입력 시간은 10분으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":272,"content":"본인인증 PIN 번호는 741963입니다. 먼저 PIN을 입력하고 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"741963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":273,"content":"모바일 간편결제 코드는 357852입니다. 그리고 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":274,"content":"귀하의 페이 보안번호 159753이 설정되었습니다. 다만 보안번호는 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"159753","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":275,"content":"간편결제 승인 PIN은 951357입니다. 참고로 PIN은 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"951357","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":276,"content":"새로운 페이 코드 753258이 발급되었습니다. 아울러 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"753258","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":277,"content":"고객님의 모바일 결제 인증 PIN 852369가 등록되었습니다. 또한 등록 확인 메일이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":278,"content":"거래 승인을 위해 147852를 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"147852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":279,"content":"본인확인 절차를 위한 코드 456852가 전송되었습니다. 그리고 코드 확인 후 입력하세요.","has_sensitive":true,"entities":[{"value":"456852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":280,"content":"간편결제를 위한 PIN 753159가 생성되었습니다. 다만 생성일로부터 90일간 유효합니다.","has_sensitive":true,"entities":[{"value":"753159","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":281,"content":"모바일 페이 승인코드 951258을 확인하시기 바랍니다. 참고로 승인코드는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":282,"content":"귀하께서 설정하신 결제 보안번호는 369147입니다. 아울러 보안번호는 본인만 알아야 합니다.","has_sensitive":true,"entities":[{"value":"369147","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":283,"content":"새로운 간편결제 인증 PIN 258741이 적용되었습니다. 또한 적용 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":284,"content":"결제 확인번호는 654789입니다. 먼저 확인번호를 입력하고 결제를 완료하세요.","has_sensitive":true,"entities":[{"value":"654789","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":285,"content":"고객님의 모바일 인증코드 147258이 발급되었습니다. 그리고 발급 알림이 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"147258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":286,"content":"본인인증을 위해 963258을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"963258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":287,"content":"간편결제 PIN 번호 852147이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"852147","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":288,"content":"모바일 페이 코드는 741258입니다. 아울러 코드는 타인에게 알려주면 안 됩니다.","has_sensitive":true,"entities":[{"value":"741258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":289,"content":"귀하의 결제 인증번호 357963이 생성되었습니다. 또한 생성 완료 문자가 전송되었습니다.","has_sensitive":true,"entities":[{"value":"357963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":290,"content":"새로운 페이 승인 PIN 159852가 등록되었습니다. 먼저 PIN으로 결제를 시도해보세요.","has_sensitive":true,"entities":[{"value":"159852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":291,"content":"간편결제를 시작하려면 951753을 등록하시기 바랍니다. 그리고 등록 절차는 간단합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":292,"content":"고객님께서 요청하신 모바일 코드 753951이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":293,"content":"거래를 진행하시려면 258963을 입력해주세요. 참고로 입력 후 자동으로 승인됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":294,"content":"본인확인 코드 369852가 발송되었습니다. 아울러 코드는 3분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":295,"content":"모바일 결제 PIN은 741369입니다. 또한 PIN을 잊어버리면 재설정이 필요합니다.","has_sensitive":true,"entities":[{"value":"741369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":296,"content":"귀하의 간편결제 보안코드는 852963입니다. 먼저 보안코드를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"852963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":297,"content":"새로운 결제 인증번호 456789를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"456789","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":298,"content":"간편결제 코드 321654가 정상 등록되었습니다. 다만 등록 변경 시 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":299,"content":"고객님의 페이 인증 PIN은 234567입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"234567","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":300,"content":"결제 승인번호 987321을 입력하시기 바랍니다. 아울러 승인 후 거래가 완료됩니다.","has_sensitive":true,"entities":[{"value":"987321","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":301,"content":"본인인증을 위한 모바일 코드는 765432입니다. 또한 코드는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":302,"content":"모바일 페이 보안 PIN 159357이 설정되었습니다. 먼저 PIN으로 본인 확인을 진행하세요.","has_sensitive":true,"entities":[{"value":"159357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":303,"content":"귀하께서 설정하신 간편결제 번호 753951이 적용되었습니다. 그리고 적용 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"753951","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":304,"content":"간편결제를 위한 인증코드 258963을 확인하세요. 다만 인증코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"258963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":305,"content":"새로운 페이 코드는 369258입니다. 참고로 코드 변경은 설정에서 가능합니다.","has_sensitive":true,"entities":[{"value":"369258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":306,"content":"고객님의 모바일 결제 승인 PIN 741852가 생성되었습니다. 아울러 생성 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"741852","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":307,"content":"거래 인증번호 963852를 입력해주세요. 또한 입력 완료 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"963852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":308,"content":"본인확인을 진행하려면 147963을 입력하세요. 먼저 번호를 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"147963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":309,"content":"간편결제 PIN은 357159입니다. 그리고 PIN은 언제든지 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":310,"content":"모바일 페이 인증번호는 951753입니다. 다만 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":311,"content":"귀하의 결제 보안 PIN 852741이 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"852741","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":312,"content":"새로운 간편결제 코드 654987을 확인하시기 바랍니다. 아울러 확인 후 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"654987","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":313,"content":"결제를 완료하려면 123789를 입력하시기 바랍니다. 또한 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":314,"content":"고객님께서 요청하신 페이 PIN 456123이 발급되었습니다. 먼저 PIN을 메모해두세요.","has_sensitive":true,"entities":[{"value":"456123","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":315,"content":"본인인증 번호는 789456입니다. 그리고 번호 확인 후 본인 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":316,"content":"간편결제를 시작하시려면 321789를 등록하세요. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"321789","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":317,"content":"모바일 결제 코드 654321이 설정되었습니다. 참고로 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"654321","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":318,"content":"귀하의 페이 승인번호는 987654입니다. 아울러 승인번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":319,"content":"새로운 결제 인증 PIN 258147이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"258147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":320,"content":"간편결제 보안코드 963147을 입력해주세요. 먼저 보안코드를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963147","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":321,"content":"고객님의 모바일 인증 코드는 741963입니다. 그리고 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"741963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":322,"content":"거래 확인을 위해 357852를 입력하시기 바랍니다. 다만 입력 전 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"357852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":323,"content":"본인확인 PIN 번호 159753이 전송되었습니다. 참고로 번호는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"159753","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":324,"content":"모바일 페이 코드는 951357입니다. 아울러 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"951357","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":325,"content":"귀하께서 설정하신 간편결제 PIN은 753258입니다. 또한 PIN은 정기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"753258","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":326,"content":"새로운 페이 인증번호 852369가 등록되었습니다. 먼저 인증번호로 로그인해주세요.","has_sensitive":true,"entities":[{"value":"852369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":327,"content":"간편결제를 위한 승인 PIN 147852를 확인하세요. 그리고 확인 후 결제를 진행하시면 됩니다.","has_sensitive":true,"entities":[{"value":"147852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":328,"content":"결제 인증번호는 456852입니다. 다만 인증번호는 타인에게 알려주면 안 됩니다.","has_sensitive":true,"entities":[{"value":"456852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":329,"content":"고객님의 모바일 페이 보안번호 753159가 설정되었습니다. 참고로 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"753159","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":330,"content":"본인인증을 위해 951258을 입력하시기 바랍니다. 아울러 입력 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"951258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":331,"content":"모바일 결제 PIN 번호는 369147입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"369147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":332,"content":"귀하의 간편결제 승인코드 258741이 생성되었습니다. 먼저 승인코드를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"258741","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":333,"content":"새로운 페이 코드 654789가 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"654789","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":334,"content":"간편결제 인증을 위해 147258을 입력해주세요. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"147258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":335,"content":"고객님께서 요청하신 결제 코드는 963258입니다. 참고로 코드는 암호화되어 보관됩니다.","has_sensitive":true,"entities":[{"value":"963258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":336,"content":"거래 승인을 위해 852147을 입력하시기 바랍니다. 아울러 승인 후 거래가 완료됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":337,"content":"본인확인 코드는 741258입니다. 또한 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"741258","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":338,"content":"모바일 페이 인증 PIN 357963이 등록되었습니다. 먼저 PIN으로 본인 확인을 진행하세요.","has_sensitive":true,"entities":[{"value":"357963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":339,"content":"귀하의 결제 보안번호는 159852입니다. 그리고 보안번호는 본인만 알아야 합니다.","has_sensitive":true,"entities":[{"value":"159852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":340,"content":"간편결제를 시작하려면 951753을 등록하세요. 다만 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":341,"content":"새로운 결제 확인 코드는 753951입니다. 참고로 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":342,"content":"고객님의 모바일 인증번호 258963이 발급되었습니다. 아울러 발급 알림이 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":343,"content":"결제를 진행하시려면 369852를 입력해주세요. 또한 입력 후 거래 내역이 저장됩니다.","has_sensitive":true,"entities":[{"value":"369852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":344,"content":"본인인증 절차를 위해 741369를 입력하세요. 먼저 번호를 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"741369","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":345,"content":"간편결제 PIN 번호는 852963입니다. 그리고 번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"852963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":346,"content":"모바일 페이 보안코드 456789가 설정되었습니다. 다만 보안코드는 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"456789","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":347,"content":"귀하께서 설정하신 페이 인증번호는 321654입니다. 참고로 인증번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":348,"content":"새로운 간편결제 승인 PIN 234567이 생성되었습니다. 아울러 생성 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"234567","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":349,"content":"거래 인증을 위한 코드 987321을 확인하시기 바랍니다. 또한 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"987321","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":350,"content":"고객님의 결제 PIN은 765432입니다. 먼저 PIN을 안전한 곳에 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"765432","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":351,"content":"본인확인을 위한 인증번호 159357이 발송되었습니다. 그리고 인증번호 확인 후 입력하세요.","has_sensitive":true,"entities":[{"value":"159357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":352,"content":"간편결제 코드 753951이 정상 등록되었습니다. 다만 등록 취소는 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":353,"content":"모바일 결제를 위한 보안 PIN은 258963입니다. 참고로 PIN은 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":354,"content":"귀하의 페이 인증 코드 369258이 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"369258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":355,"content":"새로운 결제 승인번호는 741852입니다. 또한 승인번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"741852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":356,"content":"간편결제를 시작하시려면 963852를 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"963852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":357,"content":"고객님께서 요청하신 모바일 PIN 147963이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"147963","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":358,"content":"결제 확인을 위해 357159를 입력해주세요. 다만 입력 시간은 10분으로 제한됩니다.","has_sensitive":true,"entities":[{"value":"357159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":359,"content":"본인인증 PIN은 951753입니다. 참고로 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":360,"content":"모바일 페이 코드 852741이 발급되었습니다. 아울러 발급 즉시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"852741","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":361,"content":"귀하의 간편결제 보안번호는 654987입니다. 또한 보안번호는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"654987","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":362,"content":"간편결제 인증번호 123789를 확인하세요. 먼저 인증번호를 입력하고 다음으로 진행하세요.","has_sensitive":true,"entities":[{"value":"123789","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":363,"content":"새로운 페이 PIN 번호 456123이 생성되었습니다. 그리고 생성 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"456123","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":364,"content":"고객님의 모바일 결제 코드는 789456입니다. 다만 코드는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"789456","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":365,"content":"거래 승인번호 321789를 입력하시기 바랍니다. 참고로 승인 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"321789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":366,"content":"본인확인을 진행하려면 654321을 입력하세요. 아울러 입력 완료 후 서비스를 이용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"654321","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":367,"content":"간편결제를 위한 코드는 987654입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":368,"content":"모바일 페이 인증 PIN 258147이 설정되었습니다. 먼저 PIN으로 결제를 시도해보세요.","has_sensitive":true,"entities":[{"value":"258147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":369,"content":"귀하께서 설정하신 결제 보안코드 963147이 등록되었습니다. 그리고 등록 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"963147","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":370,"content":"새로운 간편결제 번호 741963을 확인하시기 바랍니다. 다만 번호 확인은 필수입니다.","has_sensitive":true,"entities":[{"value":"741963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":371,"content":"결제 인증을 위해 357852를 입력해주세요. 참고로 입력 후 자동으로 승인됩니다.","has_sensitive":true,"entities":[{"value":"357852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":372,"content":"고객님의 페이 승인 PIN은 159753입니다. 아울러 PIN은 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"159753","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":373,"content":"본인인증 번호 951357이 전송되었습니다. 또한 번호 확인 후 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"951357","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":374,"content":"간편결제 PIN은 753258입니다. 먼저 PIN을 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"753258","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":375,"content":"모바일 결제를 위한 인증코드 852369가 생성되었습니다. 그리고 생성 확인 문자가 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":376,"content":"귀하의 간편결제 코드 147852가 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":377,"content":"새로운 페이 보안번호는 456852입니다. 참고로 보안번호는 6개월마다 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":378,"content":"간편결제를 시작하려면 753159를 등록하시기 바랍니다. 아울러 등록은 무료입니다.","has_sensitive":true,"entities":[{"value":"753159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":379,"content":"고객님께서 요청하신 페이 코드 951258이 적용되었습니다. 또한 적용 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":380,"content":"거래를 완료하려면 369147을 입력하세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"369147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":381,"content":"본인확인 코드 258741이 발송되었습니다. 그리고 코드는 3분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"258741","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":382,"content":"모바일 페이 PIN은 654789입니다. 다만 PIN을 잊어버리면 재설정이 필요합니다.","has_sensitive":true,"entities":[{"value":"654789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":383,"content":"귀하의 결제 인증번호는 147258입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"147258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":384,"content":"간편결제 승인을 위해 963258을 입력하시기 바랍니다. 아울러 입력 제한 시간은 5분입니다.","has_sensitive":true,"entities":[{"value":"963258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":385,"content":"새로운 결제 보안 PIN 852147이 등록되었습니다. 또한 등록 확인 메일이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":386,"content":"고객님의 모바일 인증 코드는 741258입니다. 먼저 코드를 안전하게 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"741258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":387,"content":"결제 확인번호 357963을 입력해주세요. 그리고 입력 완료 후 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"357963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":388,"content":"본인인증을 위해 159852를 입력하세요. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"159852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":389,"content":"간편결제 코드는 951753입니다. 참고로 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":390,"content":"모바일 페이 보안번호 753951이 생성되었습니다. 아울러 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":391,"content":"귀하께서 설정하신 간편결제 PIN은 258963입니다. 또한 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"258963","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":392,"content":"새로운 페이 인증번호 369852가 발급되었습니다. 먼저 인증번호를 메모해두세요.","has_sensitive":true,"entities":[{"value":"369852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":393,"content":"거래 승인을 위해 741369를 입력하시기 바랍니다. 그리고 승인 후 거래가 완료됩니다.","has_sensitive":true,"entities":[{"value":"741369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":394,"content":"고객님의 결제 PIN 번호는 852963입니다. 다만 번호는 타인에게 알려주면 안 됩니다.","has_sensitive":true,"entities":[{"value":"852963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":395,"content":"본인확인 절차를 위한 코드 456789를 확인하세요. 참고로 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":396,"content":"간편결제를 위한 보안 PIN은 321654입니다. 아울러 PIN은 정기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"321654","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":397,"content":"모바일 결제 인증번호는 234567입니다. 또한 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":398,"content":"귀하의 페이 코드 987321이 설정되었습니다. 먼저 코드로 로그인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"987321","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":399,"content":"새로운 간편결제 승인번호는 765432입니다. 그리고 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"765432","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":400,"content":"결제를 진행하시려면 159357을 입력해주세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"159357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":401,"content":"고객님께서 요청하신 모바일 코드 753951이 생성되었습니다. 참고로 생성 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":402,"content":"본인인증 PIN 번호는 258963입니다. 아울러 번호는 본인만 알고 계셔야 합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":403,"content":"간편결제 인증코드 369258을 입력하세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"369258","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":404,"content":"모바일 페이 코드는 741852입니다. 먼저 코드를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"741852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":405,"content":"귀하의 결제 확인 PIN 963852가 등록되었습니다. 그리고 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"963852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":406,"content":"새로운 페이 보안코드 147963이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"147963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":407,"content":"간편결제를 시작하려면 357159를 등록하시기 바랍니다. 참고로 등록 절차는 간단합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":408,"content":"고객님의 모바일 결제 인증 PIN 951753이 적용되었습니다. 아울러 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"951753","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":409,"content":"거래 인증번호 852741을 확인하시기 바랍니다. 또한 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"852741","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":410,"content":"본인확인을 위한 코드는 654987입니다. 먼저 코드를 입력하고 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"654987","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":411,"content":"간편결제 PIN 번호 123789가 설정되었습니다. 그리고 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"123789","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":412,"content":"모바일 페이 승인번호는 456123입니다. 다만 승인번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"456123","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":413,"content":"귀하께서 설정하신 결제 코드는 789456입니다. 참고로 코드는 암호화되어 보관됩니다.","has_sensitive":true,"entities":[{"value":"789456","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":414,"content":"새로운 간편결제 인증번호 321789가 생성되었습니다. 아울러 생성 완료 메일을 확인하세요.","has_sensitive":true,"entities":[{"value":"321789","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":415,"content":"결제 승인을 위해 654321을 입력하시기 바랍니다. 또한 입력 후 즉시 승인됩니다.","has_sensitive":true,"entities":[{"value":"654321","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":416,"content":"고객님의 페이 인증 코드 987654가 발급되었습니다. 먼저 코드를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"987654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":417,"content":"본인인증 번호는 258147입니다. 그리고 번호 확인 후 본인 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"258147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":418,"content":"간편결제를 위한 보안번호 963147이 등록되었습니다. 다만 등록 변경 시 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"963147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":419,"content":"모바일 결제 PIN은 741963입니다. 참고로 PIN 변경은 설정에서 가능합니다.","has_sensitive":true,"entities":[{"value":"741963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":420,"content":"귀하의 간편결제 승인 PIN 357852가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"357852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":421,"content":"새로운 페이 코드는 159753입니다. 또한 코드는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"159753","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":422,"content":"간편결제 인증을 위해 951357을 입력해주세요. 먼저 번호 확인 후 제출하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"951357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":423,"content":"고객님께서 요청하신 페이 PIN 753258이 생성되었습니다. 그리고 생성 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"753258","begin":18,"end":24,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":424,"content":"거래를 완료하시려면 852369를 입력하세요. 다만 거래 금액 확인 후 입력하세요.","has_sensitive":true,"entities":[{"value":"852369","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":425,"content":"본인확인 코드 147852가 전송되었습니다. 참고로 코드는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":426,"content":"모바일 페이 인증번호는 456852입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":427,"content":"귀하의 결제 보안 PIN은 753159입니다. 또한 PIN은 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"753159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":428,"content":"간편결제를 시작하시려면 951258을 등록하세요. 먼저 등록 절차를 진행하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"951258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":429,"content":"새로운 결제 확인 코드 369147이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"369147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":430,"content":"고객님의 모바일 인증 코드는 258741입니다. 다만 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"258741","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":431,"content":"결제 인증번호 654789를 입력하시기 바랍니다. 참고로 입력 후 자동으로 승인됩니다.","has_sensitive":true,"entities":[{"value":"654789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":432,"content":"본인인증을 진행하려면 147258을 입력하세요. 아울러 입력 완료 후 서비스를 이용하시면 됩니다.","has_sensitive":true,"entities":[{"value":"147258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":433,"content":"간편결제 코드는 963258입니다. 또한 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"963258","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":434,"content":"모바일 페이 보안번호 852147이 등록되었습니다. 먼저 보안번호를 메모해두세요.","has_sensitive":true,"entities":[{"value":"852147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":435,"content":"귀하께서 설정하신 간편결제 코드 741258이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"741258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":436,"content":"새로운 페이 인증 PIN 357963이 생성되었습니다. 다만 생성일로부터 1년간 유효합니다.","has_sensitive":true,"entities":[{"value":"357963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":437,"content":"간편결제를 위한 승인번호 159852를 확인하시기 바랍니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"159852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":438,"content":"고객님의 결제 PIN 번호는 951753입니다. 아울러 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"951753","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":439,"content":"거래 승인을 위해 753951을 입력해주세요. 또한 입력 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":440,"content":"본인확인 절차를 위한 PIN 258963을 입력하세요. 먼저 번호를 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"258963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":441,"content":"간편결제 PIN은 369852입니다. 그리고 PIN은 언제든지 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":442,"content":"모바일 페이 인증코드는 741369입니다. 다만 인증코드는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"741369","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":443,"content":"귀하의 간편결제 보안 PIN 852963이 발급되었습니다. 참고로 발급 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":444,"content":"새로운 결제 코드 456789가 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"456789","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":445,"content":"간편결제를 시작하려면 321654를 등록하시기 바랍니다. 또한 등록은 무료입니다.","has_sensitive":true,"entities":[{"value":"321654","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":446,"content":"고객님께서 요청하신 모바일 인증번호 234567이 생성되었습니다. 먼저 인증번호를 확인하세요.","has_sensitive":true,"entities":[{"value":"234567","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":447,"content":"결제 확인을 위해 987321을 입력하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"987321","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":448,"content":"본인인증 PIN 번호는 765432입니다. 다만 PIN 분실 시 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"765432","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":449,"content":"간편결제 인증번호 159357을 확인하세요. 참고로 확인 후 입력창에 넣으시면 됩니다.","has_sensitive":true,"entities":[{"value":"159357","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":450,"content":"모바일 결제를 위한 보안코드는 753951입니다. 아울러 보안코드는 본인만 알아야 합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":451,"content":"귀하의 페이 승인번호 258963이 등록되었습니다. 또한 등록 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":452,"content":"새로운 간편결제 PIN 369258이 발급되었습니다. 먼저 PIN을 안전한 곳에 보관하세요.","has_sensitive":true,"entities":[{"value":"369258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":453,"content":"간편결제를 위한 코드 741852를 입력해주세요. 그리고 입력 완료 후 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"741852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":454,"content":"고객님의 모바일 결제 인증코드는 963852입니다. 다만 인증코드는 외부에 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"963852","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":455,"content":"거래 인증을 위한 번호 147963을 확인하시기 바랍니다. 참고로 번호는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"147963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":456,"content":"본인확인을 위해 357159를 입력하세요. 아울러 입력 후 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":457,"content":"간편결제 코드 951753이 정상 설정되었습니다. 또한 설정 변경은 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":458,"content":"모바일 페이 PIN 번호는 852741입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"852741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":459,"content":"귀하께서 설정하신 결제 보안번호 654987이 적용되었습니다. 그리고 적용 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"654987","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":460,"content":"새로운 페이 코드는 123789입니다. 다만 코드는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"123789","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":461,"content":"결제 승인번호 456123을 입력하시기 바랍니다. 참고로 승인 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"456123","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":462,"content":"고객님의 간편결제 인증 PIN은 789456입니다. 아울러 PIN은 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"789456","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":463,"content":"본인인증 번호 321789가 발송되었습니다. 또한 번호 확인 후 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"321789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":464,"content":"간편결제를 시작하시려면 654321을 등록하세요. 먼저 등록 절차를 진행하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"654321","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":465,"content":"모바일 결제 인증번호 987654가 생성되었습니다. 그리고 생성 완료 문자가 전송되었습니다.","has_sensitive":true,"entities":[{"value":"987654","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":466,"content":"귀하의 페이 보안코드 258147이 설정되었습니다. 다만 보안코드는 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"258147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":467,"content":"새로운 간편결제 승인번호 963147을 확인하시기 바랍니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"963147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":468,"content":"간편결제 PIN 번호는 741963입니다. 아울러 번호는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"741963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":469,"content":"고객님께서 요청하신 페이 인증번호는 357852입니다. 또한 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":470,"content":"거래를 진행하시려면 159753을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"159753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":471,"content":"본인확인 코드는 951357입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"951357","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":472,"content":"간편결제를 위한 인증코드는 753258입니다. 다만 인증코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"753258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":473,"content":"모바일 페이 보안 PIN 852369가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"852369","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":474,"content":"귀하의 결제 확인번호는 147852입니다. 아울러 확인번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"147852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":475,"content":"새로운 페이 인증 코드 456852가 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"456852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":476,"content":"간편결제 승인을 위해 753159를 입력하시기 바랍니다. 먼저 번호 확인 후 제출하세요.","has_sensitive":true,"entities":[{"value":"753159","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":477,"content":"고객님의 모바일 인증 PIN 951258이 생성되었습니다. 그리고 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"951258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":478,"content":"결제를 완료하려면 369147을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"369147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":479,"content":"본인인증을 진행하려면 258741을 입력하시기 바랍니다. 참고로 입력 후 자동 인증됩니다.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":480,"content":"간편결제 코드 654789가 설정되었습니다. 아울러 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"654789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":481,"content":"모바일 페이 승인코드는 147258입니다. 또한 승인코드는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"147258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":482,"content":"귀하께서 설정하신 간편결제 번호는 963258입니다. 먼저 번호를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963258","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":483,"content":"새로운 결제 PIN 852147이 등록되었습니다. 그리고 등록 확인 메일이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"852147","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":484,"content":"간편결제를 시작하려면 741258을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"741258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":485,"content":"고객님의 페이 인증번호 357963이 발급되었습니다. 참고로 발급 즉시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"357963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":486,"content":"거래 승인번호 159852를 입력해주세요. 아울러 입력 완료 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"159852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":487,"content":"본인확인 절차를 위한 코드는 951753입니다. 또한 코드는 3분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":488,"content":"간편결제 인증번호는 753951입니다. 먼저 인증번호를 입력하고 다음으로 진행하세요.","has_sensitive":true,"entities":[{"value":"753951","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":489,"content":"모바일 결제 코드 258963이 생성되었습니다. 그리고 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"258963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":490,"content":"귀하의 간편결제 보안번호는 369852입니다. 다만 보안번호는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":491,"content":"새로운 페이 코드 741369가 설정되었습니다. 참고로 설정 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"741369","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":492,"content":"간편결제를 위한 PIN 852963을 확인하시기 바랍니다. 아울러 확인 후 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"852963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":493,"content":"고객님께서 요청하신 모바일 코드는 456789입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":20,"end":26,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":494,"content":"결제 인증을 위해 321654를 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"321654","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":495,"content":"본인인증 PIN 234567이 전송되었습니다. 그리고 PIN 확인 후 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"234567","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":496,"content":"간편결제 코드는 987321입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"987321","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":497,"content":"모바일 페이 인증번호 765432가 등록되었습니다. 참고로 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":498,"content":"귀하의 결제 보안 PIN은 159357입니다. 아울러 PIN은 정기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"159357","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":499,"content":"새로운 간편결제 코드 753951을 입력해주세요. 또한 입력 후 거래가 진행됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":500,"content":"간편결제를 시작하시려면 258963을 등록하세요. 먼저 등록 절차를 진행하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"258963","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":501,"content":"고객님의 모바일 결제 승인번호는 369258입니다. 그리고 승인번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"369258","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":502,"content":"거래 확인을 위해 741852를 입력하시기 바랍니다. 다만 입력 전 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"741852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":503,"content":"본인확인 번호 963852가 발송되었습니다. 참고로 번호는 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"963852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":504,"content":"간편결제 인증을 위해 147963을 입력하세요. 아울러 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"147963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":505,"content":"모바일 페이 코드는 357159입니다. 또한 코드는 타인에게 알려주면 안 됩니다.","has_sensitive":true,"entities":[{"value":"357159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":506,"content":"귀하께서 설정하신 결제 PIN 951753이 적용되었습니다. 먼저 PIN으로 로그인해주세요.","has_sensitive":true,"entities":[{"value":"951753","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":507,"content":"새로운 페이 보안번호 852741이 생성되었습니다. 그리고 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"852741","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":508,"content":"간편결제를 위한 승인코드 654987을 확인하시기 바랍니다. 다만 승인코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"654987","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":509,"content":"고객님의 페이 인증 PIN 123789가 발급되었습니다. 참고로 발급 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"123789","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":510,"content":"결제 승인을 위해 456123을 입력해주세요. 아울러 입력 후 즉시 승인됩니다.","has_sensitive":true,"entities":[{"value":"456123","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":511,"content":"본인인증을 위한 코드 789456이 설정되었습니다. 또한 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":512,"content":"간편결제 PIN 번호는 321789입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"321789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":513,"content":"모바일 결제 인증번호 654321이 등록되었습니다. 그리고 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"654321","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":514,"content":"귀하의 간편결제 코드는 987654입니다. 다만 코드는 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":515,"content":"새로운 결제 확인 PIN 258147이 생성되었습니다. 참고로 생성 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"258147","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":516,"content":"간편결제를 시작하려면 963147을 등록하시기 바랍니다. 아울러 등록은 무료입니다.","has_sensitive":true,"entities":[{"value":"963147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":517,"content":"고객님께서 요청하신 페이 코드 741963이 발급되었습니다. 또한 발급 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"741963","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":518,"content":"거래를 진행하시려면 357852를 입력하세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"357852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":519,"content":"본인확인 코드는 159753입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"159753","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":520,"content":"간편결제 인증번호 951357이 전송되었습니다. 다만 전송된 번호는 3분간만 유효합니다.","has_sensitive":true,"entities":[{"value":"951357","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":521,"content":"모바일 페이 보안코드는 753258입니다. 참고로 보안코드는 본인만 알아야 합니다.","has_sensitive":true,"entities":[{"value":"753258","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":522,"content":"귀하의 결제 인증 PIN은 852369입니다. 아울러 PIN은 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"852369","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":523,"content":"새로운 간편결제 승인번호 147852가 등록되었습니다. 또한 등록 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"147852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":524,"content":"간편결제를 위한 코드 456852를 확인하세요. 먼저 코드를 입력하고 다음으로 진행하세요.","has_sensitive":true,"entities":[{"value":"456852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":525,"content":"고객님의 모바일 인증코드는 753159입니다. 그리고 인증코드는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"753159","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":526,"content":"결제 확인번호 951258을 입력하시기 바랍니다. 다만 확인번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":527,"content":"본인인증을 진행하려면 369147을 입력해주세요. 참고로 입력 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"369147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":528,"content":"간편결제 코드 258741이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"258741","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":529,"content":"모바일 페이 PIN 번호는 654789입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"654789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":530,"content":"귀하께서 설정하신 간편결제 코드는 147258입니다. 먼저 코드를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"147258","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":531,"content":"새로운 페이 인증번호 963258이 생성되었습니다. 그리고 생성 완료 알림이 발송되었습니다.","has_sensitive":true,"entities":[{"value":"963258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":532,"content":"간편결제를 시작하시려면 852147을 등록하세요. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"852147","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":533,"content":"고객님의 결제 보안번호 741258이 발급되었습니다. 참고로 발급 즉시 사용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"741258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":534,"content":"거래 승인번호 357963을 입력하시기 바랍니다. 아울러 승인 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"357963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":535,"content":"본인확인 절차를 위한 PIN 159852를 확인하세요. 또한 확인 후 입력창에 넣으시면 됩니다.","has_sensitive":true,"entities":[{"value":"159852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":536,"content":"간편결제 인증을 위해 951753을 입력하시기 바랍니다. 먼저 번호 확인 후 제출하세요.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":537,"content":"모바일 결제를 위한 코드는 753951입니다. 그리고 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":538,"content":"귀하의 페이 승인 PIN 258963이 등록되었습니다. 다만 등록 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":539,"content":"새로운 간편결제 번호는 369852입니다. 참고로 번호 변경은 설정에서 가능합니다.","has_sensitive":true,"entities":[{"value":"369852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":540,"content":"간편결제를 위한 보안 PIN 741369가 생성되었습니다. 아울러 생성 내역이 저장되었습니다.","has_sensitive":true,"entities":[{"value":"741369","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":541,"content":"고객님께서 요청하신 모바일 인증번호는 852963입니다. 또한 인증번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":22,"end":28,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":542,"content":"결제 인증을 위해 456789를 입력해주세요. 먼저 금액을 확인하고 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"456789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":543,"content":"본인인증 PIN은 321654입니다. 그리고 PIN 변경은 언제든지 가능합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":544,"content":"간편결제 코드 234567이 정상 등록되었습니다. 다만 등록 취소는 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":545,"content":"모바일 페이 인증번호는 987321입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"987321","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":546,"content":"귀하의 간편결제 보안코드 765432가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":547,"content":"새로운 결제 PIN 번호 159357이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"159357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":548,"content":"간편결제를 시작하려면 753951을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"753951","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":549,"content":"고객님의 모바일 결제 코드 258963이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"258963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":550,"content":"거래를 완료하시려면 369258을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"369258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":551,"content":"본인확인 번호 741852가 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"741852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":552,"content":"간편결제 인증번호는 963852입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"963852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":553,"content":"모바일 페이 코드 147963이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"147963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":554,"content":"귀하께서 설정하신 결제 보안 PIN은 357159입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"357159","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":555,"content":"새로운 페이 승인번호 951753을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"951753","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":556,"content":"간편결제를 위한 인증코드 852741이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"852741","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":557,"content":"고객님의 페이 인증 PIN은 654987입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"654987","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":558,"content":"결제 확인을 위해 123789를 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":559,"content":"본인인증을 위한 코드 456123이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"456123","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":560,"content":"간편결제 PIN 번호는 789456입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":561,"content":"모바일 결제 인증번호 321789가 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"321789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":562,"content":"귀하의 간편결제 코드는 654321입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"654321","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":563,"content":"새로운 결제 보안번호 987654가 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"987654","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":564,"content":"간편결제를 시작하시려면 258147을 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"258147","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":565,"content":"고객님께서 요청하신 페이 코드는 963147입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"963147","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":566,"content":"거래 승인번호 741963을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"741963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":567,"content":"본인확인 코드는 357852입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"357852","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":568,"content":"간편결제 인증을 위해 159753을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"159753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":569,"content":"모바일 페이 보안 PIN 951357이 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"951357","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":570,"content":"귀하의 결제 인증번호는 753258입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"753258","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":571,"content":"새로운 간편결제 PIN 852369가 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":572,"content":"간편결제를 위한 승인코드는 147852입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"147852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":573,"content":"고객님의 모바일 인증 코드 456852가 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"456852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":574,"content":"결제를 진행하시려면 753159를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"753159","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":575,"content":"본인인증 절차를 위한 PIN 951258을 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"951258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":576,"content":"간편결제 코드 369147이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"369147","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":577,"content":"모바일 페이 PIN 번호는 258741입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"258741","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":578,"content":"귀하께서 설정하신 간편결제 번호는 654789입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"654789","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":579,"content":"새로운 페이 인증번호 147258이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"147258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":580,"content":"간편결제를 시작하려면 963258을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"963258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":581,"content":"고객님의 결제 보안번호 852147이 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"852147","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":582,"content":"거래 인증번호 741258을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"741258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":583,"content":"본인확인을 위해 357963을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"357963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":584,"content":"간편결제 인증번호 159852가 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"159852","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":585,"content":"모바일 결제를 위한 코드는 951753입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":586,"content":"귀하의 페이 승인 PIN 753951이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":587,"content":"새로운 간편결제 승인번호는 258963입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"258963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":588,"content":"간편결제를 위한 보안코드 369852가 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"369852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":589,"content":"고객님께서 요청하신 모바일 PIN 741369가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"741369","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":590,"content":"결제 확인을 위해 852963을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"852963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":591,"content":"본인인증 PIN은 456789입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":592,"content":"간편결제 코드 321654가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":593,"content":"모바일 페이 인증번호는 234567입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"234567","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":594,"content":"귀하의 간편결제 보안코드 987321이 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"987321","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":595,"content":"새로운 결제 PIN 번호 765432가 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"765432","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":596,"content":"간편결제를 시작하려면 159357을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"159357","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":597,"content":"고객님의 모바일 결제 코드 753951이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"753951","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":598,"content":"거래를 완료하시려면 258963을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"258963","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":599,"content":"본인확인 번호 369258이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"369258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":600,"content":"간편결제 인증번호는 741852입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"741852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":601,"content":"모바일 페이 코드 963852가 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"963852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":602,"content":"귀하께서 설정하신 결제 보안 PIN은 147963입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"147963","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":603,"content":"새로운 페이 승인번호 357159를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"357159","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":604,"content":"간편결제를 위한 인증코드 951753이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":605,"content":"고객님의 페이 인증 PIN은 852741입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"852741","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":606,"content":"결제 확인을 위해 654987을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"654987","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":607,"content":"본인인증을 위한 코드 123789가 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":608,"content":"간편결제 PIN 번호는 456123입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"456123","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":609,"content":"모바일 결제 인증번호 789456이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"789456","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":610,"content":"귀하의 간편결제 코드는 321789입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"321789","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":611,"content":"새로운 결제 보안번호 654321이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"654321","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":612,"content":"간편결제를 시작하시려면 987654를 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":613,"content":"고객님께서 요청하신 페이 코드는 258147입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"258147","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":614,"content":"거래 승인번호 963147을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963147","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":615,"content":"본인확인 코드는 741963입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"741963","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":616,"content":"간편결제 인증을 위해 357852를 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"357852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":617,"content":"모바일 페이 보안 PIN 159753이 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"159753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":618,"content":"귀하의 결제 인증번호는 951357입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"951357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":619,"content":"새로운 간편결제 PIN 753258이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"753258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":620,"content":"간편결제를 위한 승인코드는 852369입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"852369","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":621,"content":"고객님의 모바일 인증 코드 147852가 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"147852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":622,"content":"결제를 진행하시려면 456852를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"456852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":623,"content":"본인인증 절차를 위한 PIN 753159를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"753159","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":624,"content":"간편결제 코드 951258이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"951258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":625,"content":"모바일 페이 PIN 번호는 369147입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"369147","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":626,"content":"귀하께서 설정하신 간편결제 번호는 258741입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"258741","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":627,"content":"새로운 페이 인증번호 654789가 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"654789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":628,"content":"간편결제를 시작하려면 147258을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"147258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":629,"content":"고객님의 결제 보안번호 963258이 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"963258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":630,"content":"거래 인증번호 852147을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":631,"content":"본인확인을 위해 741258을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"741258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":632,"content":"간편결제 인증번호 357963이 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"357963","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":633,"content":"모바일 결제를 위한 코드는 159852입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"159852","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":634,"content":"귀하의 페이 승인 PIN 951753이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":635,"content":"새로운 간편결제 승인번호는 753951입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":636,"content":"간편결제를 위한 보안코드 258963이 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":637,"content":"고객님께서 요청하신 모바일 PIN 369852가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"369852","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":638,"content":"결제 확인을 위해 741369를 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"741369","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":639,"content":"본인인증 PIN은 852963입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":640,"content":"간편결제 코드 456789가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":641,"content":"모바일 페이 인증번호는 321654입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"321654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":642,"content":"귀하의 간편결제 보안코드 234567이 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"234567","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":643,"content":"새로운 결제 PIN 번호 987321이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"987321","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":644,"content":"간편결제를 시작하려면 765432를 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"765432","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":645,"content":"고객님의 모바일 결제 코드 159357이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"159357","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":646,"content":"거래를 완료하시려면 753951을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"753951","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":647,"content":"본인확인 번호 258963이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"258963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":648,"content":"간편결제 인증번호는 369258입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"369258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":649,"content":"모바일 페이 코드 741852가 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"741852","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":650,"content":"귀하께서 설정하신 결제 보안 PIN은 963852입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"963852","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":651,"content":"새로운 페이 승인번호 147963을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"147963","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":652,"content":"간편결제를 위한 인증코드 357159가 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"357159","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":653,"content":"고객님의 페이 인증 PIN은 951753입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"951753","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":654,"content":"결제 확인을 위해 852741을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"852741","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":655,"content":"본인인증을 위한 코드 654987이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"654987","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":656,"content":"간편결제 PIN 번호는 123789입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":657,"content":"모바일 결제 인증번호 456123이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"456123","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":658,"content":"귀하의 간편결제 코드는 789456입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"789456","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":659,"content":"새로운 결제 보안번호 321789가 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"321789","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":660,"content":"간편결제를 시작하시려면 654321을 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"654321","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":661,"content":"고객님께서 요청하신 페이 코드는 987654입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"987654","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":662,"content":"거래 승인번호 258147을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"258147","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":663,"content":"본인확인 코드는 963147입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":664,"content":"간편결제 인증을 위해 741963을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"741963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":665,"content":"모바일 페이 보안 PIN 357852가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":666,"content":"귀하의 결제 인증번호는 159753입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"159753","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":667,"content":"새로운 간편결제 PIN 951357이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"951357","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":668,"content":"간편결제를 위한 승인코드는 753258입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"753258","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":669,"content":"고객님의 모바일 인증 코드 852369가 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":670,"content":"결제를 진행하시려면 147852를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"147852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":671,"content":"본인인증 절차를 위한 PIN 456852를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"456852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":672,"content":"간편결제 코드 753159가 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"753159","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":673,"content":"모바일 페이 PIN 번호는 951258입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"951258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":674,"content":"귀하께서 설정하신 간편결제 번호는 369147입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"369147","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":675,"content":"새로운 페이 인증번호 258741이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"258741","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":676,"content":"간편결제를 시작하려면 654789를 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"654789","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":677,"content":"고객님의 결제 보안번호 147258이 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"147258","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":678,"content":"거래 인증번호 963258을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"963258","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":679,"content":"본인확인을 위해 852147을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"852147","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":680,"content":"간편결제 인증번호 741258이 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"741258","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":681,"content":"모바일 결제를 위한 코드는 357963입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"357963","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":682,"content":"귀하의 페이 승인 PIN 159852가 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"159852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":683,"content":"새로운 간편결제 승인번호는 951753입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"951753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":684,"content":"간편결제를 위한 보안코드 753951이 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"753951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":685,"content":"고객님께서 요청하신 모바일 PIN 258963이 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":686,"content":"결제 확인을 위해 369852를 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"369852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":687,"content":"본인인증 PIN은 741369입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"741369","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":688,"content":"간편결제 코드 852963이 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"852963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":689,"content":"모바일 페이 인증번호는 456789입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"456789","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":690,"content":"귀하의 간편결제 보안코드 321654가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"321654","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":691,"content":"새로운 결제 PIN 번호 234567이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"234567","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":692,"content":"간편결제를 시작하려면 987321을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"987321","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":693,"content":"고객님의 모바일 결제 코드 765432가 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"765432","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":694,"content":"거래를 완료하시려면 159357을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"159357","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":695,"content":"본인확인 번호 753951이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"753951","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":696,"content":"간편결제 인증번호는 258963입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"258963","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":697,"content":"모바일 페이 코드 369258이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"369258","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":698,"content":"귀하께서 설정하신 결제 보안 PIN은 741852입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"741852","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":699,"content":"새로운 페이 승인번호 963852를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"963852","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":700,"content":"간편결제를 위한 인증코드 147963이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"147963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":701,"content":"고객님의 페이 인증 PIN은 357159입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"357159","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":702,"content":"결제 확인을 위해 951753을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"951753","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":703,"content":"본인인증을 위한 코드 852741이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"852741","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":704,"content":"간편결제 PIN 번호는 654987입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"654987","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":705,"content":"모바일 결제 인증번호 123789가 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"123789","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":706,"content":"귀하의 간편결제 코드는 456123입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"456123","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":707,"content":"새로운 결제 보안번호 789456이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"789456","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":708,"content":"간편결제를 시작하시려면 321789를 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"321789","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":709,"content":"고객님께서 요청하신 페이 코드는 654321입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"654321","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":710,"content":"거래 승인번호 987654를 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"987654","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":711,"content":"본인확인 코드는 258147입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"258147","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":712,"content":"간편결제 인증을 위해 963147을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"963147","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":713,"content":"모바일 페이 보안 PIN 741963이 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"741963","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":714,"content":"귀하의 결제 인증번호는 357852입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"357852","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":715,"content":"새로운 간편결제 PIN 159753이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"159753","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":716,"content":"간편결제를 위한 승인코드는 951357입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"951357","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":717,"content":"고객님의 모바일 인증 코드 753258이 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"753258","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":718,"content":"결제를 진행하시려면 852369를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"852369","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":719,"content":"본인인증 절차를 위한 PIN 147852를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"147852","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":720,"content":"간편결제 코드 456852가 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"456852","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":721,"content":"모바일 페이 PIN 번호는 182736입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"182736","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":722,"content":"귀하께서 설정하신 간편결제 번호는 573142입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"573142","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":723,"content":"새로운 페이 인증번호 284951이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"284951","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":724,"content":"간편결제를 시작하려면 619247을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"619247","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":725,"content":"고객님의 결제 보안번호 475813이 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"475813","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":726,"content":"거래 인증번호 392864를 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"392864","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":727,"content":"본인확인을 위해 516729를 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"516729","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":728,"content":"간편결제 인증번호 684235가 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"684235","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":729,"content":"모바일 결제를 위한 코드는 927456입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"927456","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":730,"content":"귀하의 페이 승인 PIN 341287이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"341287","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":731,"content":"새로운 간편결제 승인번호는 758923입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"758923","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":732,"content":"간편결제를 위한 보안코드 215784가 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"215784","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":733,"content":"고객님께서 요청하신 모바일 PIN 836459가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"836459","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":734,"content":"결제 확인을 위해 462917을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"462917","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":735,"content":"본인인증 PIN은 594328입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"594328","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":736,"content":"간편결제 코드 178642가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"178642","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":737,"content":"모바일 페이 인증번호는 823571입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"823571","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":738,"content":"귀하의 간편결제 보안코드 249853이 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"249853","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":739,"content":"새로운 결제 PIN 번호 637192가 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"637192","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":740,"content":"간편결제를 시작하려면 415289를 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"415289","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":741,"content":"고객님의 모바일 결제 코드 798364가 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"798364","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":742,"content":"거래를 완료하시려면 526871을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"526871","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":743,"content":"본인확인 번호 381429가 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"381429","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":744,"content":"간편결제 인증번호는 942756입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"942756","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":745,"content":"모바일 페이 코드 217583이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"217583","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":746,"content":"귀하께서 설정하신 결제 보안 PIN은 865294입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"865294","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":747,"content":"새로운 페이 승인번호 439615를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"439615","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":748,"content":"간편결제를 위한 인증코드 571842가 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"571842","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":749,"content":"고객님의 페이 인증 PIN은 694327입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"694327","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":750,"content":"결제 확인을 위해 328756을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"328756","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":751,"content":"본인인증을 위한 코드 146928이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"146928","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":752,"content":"간편결제 PIN 번호는 873241입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"873241","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":753,"content":"모바일 결제 인증번호 425187이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"425187","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":754,"content":"귀하의 간편결제 코드는 739546입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"739546","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":755,"content":"새로운 결제 보안번호 281953이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"281953","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":756,"content":"간편결제를 시작하시려면 564718을 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"564718","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":757,"content":"고객님께서 요청하신 페이 코드는 918432입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"918432","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":758,"content":"거래 승인번호 342675를 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"342675","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":759,"content":"본인확인 코드는 876192입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"876192","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":760,"content":"간편결제 인증을 위해 419753을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"419753","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":761,"content":"모바일 페이 보안 PIN 657284가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"657284","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":762,"content":"귀하의 결제 인증번호는 231849입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"231849","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":763,"content":"새로운 간편결제 PIN 795316이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"795316","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":764,"content":"간편결제를 위한 승인코드는 384625입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"384625","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":765,"content":"고객님의 모바일 인증 코드 527948이 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"527948","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":766,"content":"결제를 진행하시려면 913256을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"913256","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":767,"content":"본인인증 절차를 위한 PIN 658471을 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"658471","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":768,"content":"간편결제 코드 241786이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"241786","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":769,"content":"모바일 페이 PIN 번호는 476932입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"476932","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":770,"content":"귀하께서 설정하신 간편결제 번호는 892315입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"892315","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":771,"content":"새로운 페이 인증번호 135847이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"135847","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":772,"content":"간편결제를 시작하려면 768254를 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"768254","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":773,"content":"고객님의 결제 보안번호 349128이 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"349128","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":774,"content":"거래 인증번호 521697을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"521697","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":775,"content":"본인확인을 위해 674832를 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"674832","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":776,"content":"간편결제 인증번호 218549가 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"218549","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":777,"content":"모바일 결제를 위한 코드는 935476입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"935476","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":778,"content":"귀하의 페이 승인 PIN 481253이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"481253","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":779,"content":"새로운 간편결제 승인번호는 726849입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"726849","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":780,"content":"간편결제를 위한 보안코드 364951이 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"364951","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":781,"content":"고객님께서 요청하신 모바일 PIN 819476이 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"819476","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":782,"content":"결제 확인을 위해 542381을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"542381","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":783,"content":"본인인증 PIN은 197425입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"197425","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":784,"content":"간편결제 코드 835162가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"835162","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":785,"content":"모바일 페이 인증번호는 463897입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"463897","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":786,"content":"귀하의 간편결제 보안코드 278514가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"278514","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":787,"content":"새로운 결제 PIN 번호 924736이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"924736","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":788,"content":"간편결제를 시작하려면 614925를 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"614925","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":789,"content":"고객님의 모바일 결제 코드 357281이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"357281","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":790,"content":"거래를 완료하시려면 781649를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"781649","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":791,"content":"본인확인 번호 429536이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"429536","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":792,"content":"간편결제 인증번호는 196842입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"196842","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":793,"content":"모바일 페이 코드 853714이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"853714","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":794,"content":"귀하께서 설정하신 결제 보안 PIN은 547293입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"547293","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":795,"content":"새로운 페이 승인번호 312685를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"312685","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":796,"content":"간편결제를 위한 인증코드 698427이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"698427","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":797,"content":"고객님의 페이 인증 PIN은 426153입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"426153","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":798,"content":"결제 확인을 위해 759318을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"759318","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":799,"content":"본인인증을 위한 코드 183746이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"183746","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":800,"content":"간편결제 PIN 번호는 946521입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"946521","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":801,"content":"모바일 결제 인증번호 271948이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"271948","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":802,"content":"귀하의 간편결제 코드는 634852입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"634852","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":803,"content":"새로운 결제 보안번호 489376이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"489376","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":804,"content":"간편결제를 시작하시려면 815629를 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"815629","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":805,"content":"고객님께서 요청하신 페이 코드는 352147입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"352147","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":806,"content":"거래 승인번호 728963을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"728963","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":807,"content":"본인확인 코드는 591437입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"591437","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":808,"content":"간편결제 인증을 위해 247815를 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"247815","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":809,"content":"모바일 페이 보안 PIN 968342가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"968342","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":810,"content":"귀하의 결제 인증번호는 413928입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"413928","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":811,"content":"새로운 간편결제 PIN 876541이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"876541","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":812,"content":"간편결제를 위한 승인코드는 524896입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"524896","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":813,"content":"고객님의 모바일 인증 코드 391752가 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"391752","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":814,"content":"결제를 진행하시려면 657284를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"657284","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":815,"content":"본인인증 절차를 위한 PIN 218639를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"218639","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":816,"content":"간편결제 코드 742195가 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"742195","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":817,"content":"모바일 페이 PIN 번호는 385716입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"385716","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":818,"content":"귀하께서 설정하신 간편결제 번호는 916428입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"916428","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":819,"content":"새로운 페이 인증번호 463857이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"463857","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":820,"content":"간편결제를 시작하려면 829374를 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"829374","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":821,"content":"고객님의 결제 보안번호 147695가 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"147695","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":822,"content":"거래 인증번호 573921을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"573921","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":823,"content":"본인확인을 위해 692548을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"692548","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":824,"content":"간편결제 인증번호 318476이 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"318476","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":825,"content":"모바일 결제를 위한 코드는 845132입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"845132","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":826,"content":"귀하의 페이 승인 PIN 726584가 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"726584","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":827,"content":"새로운 간편결제 승인번호는 491367입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"491367","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":828,"content":"간편결제를 위한 보안코드 257819가 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"257819","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":829,"content":"고객님께서 요청하신 모바일 PIN 834925가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"834925","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":830,"content":"결제 확인을 위해 619438을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"619438","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":831,"content":"본인인증 PIN은 372514입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"372514","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":832,"content":"간편결제 코드 948627이 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"948627","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":833,"content":"모바일 페이 인증번호는 516743입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"516743","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":834,"content":"귀하의 간편결제 보안코드 283956이 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"283956","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":835,"content":"새로운 결제 PIN 번호 697281이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"697281","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":836,"content":"간편결제를 시작하려면 421853을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"421853","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":837,"content":"고객님의 모바일 결제 코드 854639가 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"854639","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":838,"content":"거래를 완료하시려면 139574를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"139574","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":839,"content":"본인확인 번호 762148이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"762148","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":840,"content":"간편결제 인증번호는 438925입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"438925","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":841,"content":"모바일 페이 코드 597361이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"597361","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":842,"content":"귀하께서 설정하신 결제 보안 PIN은 214786입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"214786","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":843,"content":"새로운 페이 승인번호 876294를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"876294","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":844,"content":"간편결제를 위한 인증코드 342615가 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"342615","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":845,"content":"고객님의 페이 인증 PIN은 918547입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"918547","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":846,"content":"결제 확인을 위해 675432를 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"675432","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":847,"content":"본인인증을 위한 코드 453189가 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"453189","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":848,"content":"간편결제 PIN 번호는 729864입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"729864","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":849,"content":"모바일 결제 인증번호 384927이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"384927","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":850,"content":"귀하의 간편결제 코드는 561743입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"561743","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":851,"content":"새로운 결제 보안번호 827319이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"827319","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":852,"content":"간편결제를 시작하시려면 195648을 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"195648","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":853,"content":"고객님께서 요청하신 페이 코드는 746235입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"746235","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":854,"content":"거래 승인번호 428591을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"428591","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":855,"content":"본인확인 코드는 936872입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"936872","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":856,"content":"간편결제 인증을 위해 581246을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"581246","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":857,"content":"모바일 페이 보안 PIN 214859가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"214859","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":858,"content":"귀하의 결제 인증번호는 679324입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"679324","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":859,"content":"새로운 간편결제 PIN 342817이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"342817","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":860,"content":"간편결제를 위한 승인코드는 895126입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"895126","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":861,"content":"고객님의 모바일 인증 코드 426937이 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"426937","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":862,"content":"결제를 진행하시려면 758413을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"758413","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":863,"content":"본인인증 절차를 위한 PIN 193576을 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"193576","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":864,"content":"간편결제 코드 641928이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"641928","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":865,"content":"모바일 페이 PIN 번호는 527849입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"527849","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":866,"content":"귀하께서 설정하신 간편결제 번호는 368714입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"368714","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":867,"content":"새로운 페이 인증번호 914572가 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"914572","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":868,"content":"간편결제를 시작하려면 482635를 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"482635","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":869,"content":"고객님의 결제 보안번호 735194가 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"735194","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":870,"content":"거래 인증번호 261847을 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"261847","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":871,"content":"본인확인을 위해 849526을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"849526","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":872,"content":"간편결제 인증번호 513869가 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"513869","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":873,"content":"모바일 결제를 위한 코드는 697214입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"697214","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":874,"content":"귀하의 페이 승인 PIN 324758이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"324758","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":875,"content":"새로운 간편결제 승인번호는 871936입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"871936","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":876,"content":"간편결제를 위한 보안코드 458172가 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"458172","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":877,"content":"고객님께서 요청하신 모바일 PIN 692543이 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"692543","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":878,"content":"결제 확인을 위해 236918을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"236918","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":879,"content":"본인인증 PIN은 814672입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"814672","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":880,"content":"간편결제 코드 579241이 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"579241","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":881,"content":"모바일 페이 인증번호는 142896입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"142896","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":882,"content":"귀하의 간편결제 보안코드 768325가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"768325","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":883,"content":"새로운 결제 PIN 번호 395417이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"395417","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":884,"content":"간편결제를 시작하려면 621738을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"621738","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":885,"content":"고객님의 모바일 결제 코드 487659가 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"487659","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":886,"content":"거래를 완료하시려면 953816을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"953816","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":887,"content":"본인확인 번호 214897이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"214897","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":888,"content":"간편결제 인증번호는 736524입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"736524","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":889,"content":"모바일 페이 코드 892135이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"892135","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":890,"content":"귀하께서 설정하신 결제 보안 PIN은 465791입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"465791","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":891,"content":"새로운 페이 승인번호 127483을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"127483","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":892,"content":"간편결제를 위한 인증코드 684927이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"684927","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":893,"content":"고객님의 페이 인증 PIN은 351628입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"351628","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":894,"content":"결제 확인을 위해 923574를 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"923574","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":895,"content":"본인인증을 위한 코드 548216이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"548216","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":896,"content":"간편결제 PIN 번호는 716983입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"716983","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":897,"content":"모바일 결제 인증번호 284735가 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"284735","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":898,"content":"귀하의 간편결제 코드는 639148입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"639148","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":899,"content":"새로운 결제 보안번호 415892가 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"415892","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":900,"content":"간편결제를 시작하시려면 872634를 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"872634","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":901,"content":"고객님께서 요청하신 페이 코드는 591426입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"591426","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":902,"content":"거래 승인번호 234917을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"234917","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":903,"content":"본인확인 코드는 768351입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"768351","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":904,"content":"간편결제 인증을 위해 427695를 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"427695","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":905,"content":"모바일 페이 보안 PIN 153284가 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"153284","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":906,"content":"귀하의 결제 인증번호는 896471입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"896471","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":907,"content":"새로운 간편결제 PIN 621738이 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"621738","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":908,"content":"간편결제를 위한 승인코드는 374926입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"374926","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":909,"content":"고객님의 모바일 인증 코드 948517이 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"948517","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":910,"content":"결제를 진행하시려면 216859를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"216859","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":911,"content":"본인인증 절차를 위한 PIN 583142를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"583142","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":912,"content":"간편결제 코드 729463이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"729463","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":913,"content":"모바일 페이 PIN 번호는 391625입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"391625","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":914,"content":"귀하께서 설정하신 간편결제 번호는 857294입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"857294","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":915,"content":"새로운 페이 인증번호 614837이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"614837","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":916,"content":"간편결제를 시작하려면 472918을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"472918","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":917,"content":"고객님의 결제 보안번호 238564가 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"238564","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":918,"content":"거래 인증번호 796142를 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"796142","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":919,"content":"본인확인을 위해 324876을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"324876","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":920,"content":"간편결제 인증번호 981453이 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"981453","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":921,"content":"모바일 결제를 위한 코드는 567281입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"567281","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":922,"content":"귀하의 페이 승인 PIN 145926이 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"145926","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":923,"content":"새로운 간편결제 승인번호는 823749입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"823749","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":924,"content":"간편결제를 위한 보안코드 691537이 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"691537","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":925,"content":"고객님께서 요청하신 모바일 PIN 418629가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"418629","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":926,"content":"결제 확인을 위해 756294를 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"756294","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":927,"content":"본인인증 PIN은 392817입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"392817","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":928,"content":"간편결제 코드 627459가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"627459","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":929,"content":"모바일 페이 인증번호는 174936입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"174936","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":930,"content":"귀하의 간편결제 보안코드 519274가 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"519274","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":931,"content":"새로운 결제 PIN 번호 863521이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"863521","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":932,"content":"간편결제를 시작하려면 241683을 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"241683","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":933,"content":"고객님의 모바일 결제 코드 795836이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"795836","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":934,"content":"거래를 완료하시려면 438219를 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"438219","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":935,"content":"본인확인 번호 684975가 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"684975","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":936,"content":"간편결제 인증번호는 926418입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"926418","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":937,"content":"모바일 페이 코드 351679가 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"351679","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":938,"content":"귀하께서 설정하신 결제 보안 PIN은 817426입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"817426","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":939,"content":"새로운 페이 승인번호 569837을 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"569837","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":940,"content":"간편결제를 위한 인증코드 213847이 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"213847","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":941,"content":"고객님의 페이 인증 PIN은 746295입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"746295","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":942,"content":"결제 확인을 위해 482953을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"482953","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":943,"content":"본인인증을 위한 코드 937164가 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"937164","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":944,"content":"간편결제 PIN 번호는 614872입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"614872","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":945,"content":"모바일 결제 인증번호 329581이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"329581","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":946,"content":"귀하의 간편결제 코드는 871642입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"871642","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":947,"content":"새로운 결제 보안번호 546128이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"546128","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":948,"content":"간편결제를 시작하시려면 192735를 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"192735","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":949,"content":"고객님께서 요청하신 페이 코드는 728964입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"728964","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":950,"content":"거래 승인번호 465391을 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"465391","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":951,"content":"본인확인 코드는 839427입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"839427","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":952,"content":"간편결제 인증을 위해 271584를 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"271584","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":953,"content":"모바일 페이 보안 PIN 653817이 등록되었습니다. 참고로 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"653817","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":954,"content":"귀하의 결제 인증번호는 418926입니다. 아울러 인증번호는 매 거래 시 필요합니다.","has_sensitive":true,"entities":[{"value":"418926","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":955,"content":"새로운 간편결제 PIN 926754가 생성되었습니다. 또한 생성 완료 알림이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"926754","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":956,"content":"간편결제를 위한 승인코드는 384561입니다. 먼저 승인코드를 메모해두시기 바랍니다.","has_sensitive":true,"entities":[{"value":"384561","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":957,"content":"고객님의 모바일 인증 코드 741283이 발급되었습니다. 그리고 발급 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"741283","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":958,"content":"결제를 진행하시려면 592647을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"592647","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":959,"content":"본인인증 절차를 위한 PIN 167394를 확인하시기 바랍니다. 참고로 PIN은 5분간 유효합니다.","has_sensitive":true,"entities":[{"value":"167394","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":960,"content":"간편결제 코드 835926이 설정되었습니다. 아울러 설정 내역은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"835926","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":961,"content":"모바일 페이 PIN 번호는 219473입니다. 또한 번호는 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"219473","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":962,"content":"귀하께서 설정하신 간편결제 번호는 476851입니다. 먼저 번호를 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"476851","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":963,"content":"새로운 페이 인증번호 652798이 생성되었습니다. 그리고 생성 즉시 효력이 발생합니다.","has_sensitive":true,"entities":[{"value":"652798","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":964,"content":"간편결제를 시작하려면 938416을 등록하시기 바랍니다. 다만 등록 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"938416","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":965,"content":"고객님의 결제 보안번호 314682가 적용되었습니다. 참고로 적용 내역이 기록되었습니다.","has_sensitive":true,"entities":[{"value":"314682","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":966,"content":"거래 인증번호 827549를 입력하시기 바랍니다. 아울러 인증 후 즉시 거래가 처리됩니다.","has_sensitive":true,"entities":[{"value":"827549","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":967,"content":"본인확인을 위해 591237을 입력해주세요. 또한 입력 완료 후 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"591237","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":968,"content":"간편결제 인증번호 746391이 전송되었습니다. 먼저 인증번호를 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"746391","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":969,"content":"모바일 결제를 위한 코드는 283946입니다. 그리고 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"283946","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":970,"content":"귀하의 페이 승인 PIN 416782가 발급되었습니다. 다만 발급 취소는 불가능합니다.","has_sensitive":true,"entities":[{"value":"416782","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":971,"content":"새로운 간편결제 승인번호는 973418입니다. 참고로 승인번호는 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"973418","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":972,"content":"간편결제를 위한 보안코드 627935가 등록되었습니다. 아울러 등록 알림이 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"627935","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":973,"content":"고객님께서 요청하신 모바일 PIN 185274가 생성되었습니다. 또한 생성 내역은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"185274","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":974,"content":"결제 확인을 위해 854126을 입력하시기 바랍니다. 먼저 금액을 확인하고 입력하세요.","has_sensitive":true,"entities":[{"value":"854126","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":975,"content":"본인인증 PIN은 492683입니다. 그리고 PIN 변경은 설정 메뉴에서 가능합니다.","has_sensitive":true,"entities":[{"value":"492683","begin":11,"end":17,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":976,"content":"간편결제 코드 736149가 정상 설정되었습니다. 다만 설정 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"736149","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":977,"content":"모바일 페이 인증번호는 361825입니다. 참고로 인증번호는 타인과 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"361825","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":978,"content":"귀하의 간편결제 보안코드 928547이 설정되었습니다. 아울러 설정 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"928547","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":979,"content":"새로운 결제 PIN 번호 514796이 발급되었습니다. 또한 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"514796","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":980,"content":"간편결제를 시작하려면 679234를 등록하시기 바랍니다. 먼저 등록 절차를 진행하세요.","has_sensitive":true,"entities":[{"value":"679234","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":981,"content":"고객님의 모바일 결제 코드 245817이 적용되었습니다. 그리고 적용 확인 메일이 전송되었습니다.","has_sensitive":true,"entities":[{"value":"245817","begin":16,"end":22,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":982,"content":"거래를 완료하시려면 831456을 입력하세요. 다만 입력 시간은 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"831456","begin":14,"end":20,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":983,"content":"본인확인 번호 427658이 발송되었습니다. 참고로 번호 확인 후 입력하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"427658","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":984,"content":"간편결제 인증번호는 598172입니다. 아울러 인증번호는 외부에 노출하면 안 됩니다.","has_sensitive":true,"entities":[{"value":"598172","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":985,"content":"모바일 페이 코드 164938이 생성되었습니다. 또한 생성 알림이 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"164938","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":986,"content":"귀하께서 설정하신 결제 보안 PIN은 783249입니다. 먼저 PIN을 안전하게 보관하세요.","has_sensitive":true,"entities":[{"value":"783249","begin":21,"end":27,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":987,"content":"새로운 페이 승인번호 912635를 확인하시기 바랍니다. 그리고 확인 후 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"912635","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":988,"content":"간편결제를 위한 인증코드 374519가 등록되었습니다. 다만 등록 즉시 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"374519","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":989,"content":"고객님의 페이 인증 PIN은 625841입니다. 참고로 PIN은 본인만 사용할 수 있습니다.","has_sensitive":true,"entities":[{"value":"625841","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":990,"content":"결제 확인을 위해 187463을 입력하시기 바랍니다. 아울러 입력 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"187463","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":991,"content":"본인인증을 위한 코드 849271이 전송되었습니다. 또한 코드는 10분간 유효합니다.","has_sensitive":true,"entities":[{"value":"849271","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":992,"content":"간편결제 PIN 번호는 436925입니다. 먼저 번호를 입력하고 결제를 진행하세요.","has_sensitive":true,"entities":[{"value":"436925","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":993,"content":"모바일 결제 인증번호 572348이 발급되었습니다. 그리고 발급 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"572348","begin":13,"end":19,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":994,"content":"귀하의 간편결제 코드는 951684입니다. 다만 코드는 외부에 절대 노출 금지입니다.","has_sensitive":true,"entities":[{"value":"951684","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":995,"content":"새로운 결제 보안번호 318756이 설정되었습니다. 참고로 설정 내역은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"318756","begin":12,"end":18,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":996,"content":"간편결제를 시작하시려면 794621을 등록하세요. 아울러 등록 절차는 매우 간단합니다.","has_sensitive":true,"entities":[{"value":"794621","begin":17,"end":23,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":997,"content":"고객님께서 요청하신 페이 코드는 264839입니다. 또한 코드는 본인만 알고 있어야 합니다.","has_sensitive":true,"entities":[{"value":"264839","begin":19,"end":25,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":998,"content":"거래 승인번호 685472를 입력해주세요. 먼저 거래 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"685472","begin":9,"end":15,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":999,"content":"본인확인 코드는 421957입니다. 그리고 코드 입력 후 즉시 인증이 완료됩니다.","has_sensitive":true,"entities":[{"value":"421957","begin":10,"end":16,"label":"MOBILE_PAYMENT_PIN"}]}
+{"id":1000,"content":"간편결제 인증을 위해 837146을 입력하시기 바랍니다. 다만 입력 기회는 5회로 제한됩니다.","has_sensitive":true,"entities":[{"value":"837146","begin":15,"end":21,"label":"MOBILE_PAYMENT_PIN"}]}

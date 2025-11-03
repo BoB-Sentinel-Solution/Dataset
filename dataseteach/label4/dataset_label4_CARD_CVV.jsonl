@@ -1,0 +1,1000 @@
+{"id":1,"content":"카드 결제 시 보안코드 127 을 입력해주시기 바랍니다. 참고로 이 정보는 외부에 공유하지 마세요.","has_sensitive":true,"entities":[{"value":"127","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":2,"content":"온라인 쇼핑몰에서 결제를 진행하려면 CVC 코드 849 를 입력하셔야 합니다. 안전한 거래를 위해 주의해주세요.","has_sensitive":true,"entities":[{"value":"849","begin":35,"end":38,"label":"CARD_CVV"}]}
+{"id":3,"content":"본인 확인을 위해 카드 뒷면의 보안코드 3자리를 확인합니다. 고객님의 코드는 562 입니다.","has_sensitive":true,"entities":[{"value":"562","begin":50,"end":53,"label":"CARD_CVV"}]}
+{"id":4,"content":"결제 인증 절차에서 CVV 번호 734 가 필요합니다. 또한 이 정보는 타인에게 절대 알려주시면 안됩니다.","has_sensitive":true,"entities":[{"value":"734","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":5,"content":"카드 비대면 거래를 위한 보안번호는 921 입니다. 그리고 이 코드는 본인만 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"921","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":6,"content":"고객센터에서 안내드린 CVC 코드 456 을 결제 화면에 입력하세요. 먼저 카드 번호를 확인해주셔야 합니다.","has_sensitive":true,"entities":[{"value":"456","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":7,"content":"본 거래의 보안 인증을 위해 378 번호를 사용합니다. 다만 이 정보는 일회성으로만 유효합니다.","has_sensitive":true,"entities":[{"value":"378","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":8,"content":"신용카드 뒷면에 있는 보안코드 215 를 확인하셨나요. 아울러 정확한 입력이 필요합니다.","has_sensitive":true,"entities":[{"value":"215","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":9,"content":"결제 프로세스 진행을 위해 CVV 693 입력이 필요합니다. 참고로 3회 이상 오류 시 결제가 취소됩니다.","has_sensitive":true,"entities":[{"value":"693","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":10,"content":"온라인 인증용 보안코드는 804 로 설정되었습니다. 그리고 24시간 이내에 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"804","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":11,"content":"카드사에서 발급한 CVC 번호 517 을 안전하게 보관하세요. 또한 문자메시지로도 전송되었습니다.","has_sensitive":true,"entities":[{"value":"517","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":12,"content":"해외 결제 시 필요한 보안코드 629 를 준비해주시기 바랍니다. 먼저 환율 정보를 확인하세요.","has_sensitive":true,"entities":[{"value":"629","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":13,"content":"고객님의 카드 보안번호 981 이 확인되었습니다. 다만 이 정보는 즉시 삭제될 예정입니다.","has_sensitive":true,"entities":[{"value":"981","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":14,"content":"결제 승인을 위해 CVC 코드 342 를 입력하는 절차가 남았습니다. 그리고 추가 본인 확인이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"342","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":15,"content":"비대면 거래 인증용 보안번호 756 을 사용하세요. 참고로 SMS로도 같은 코드가 발송됩니다.","has_sensitive":true,"entities":[{"value":"756","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":16,"content":"카드 결제 마지막 단계에서 CVV 번호 483 이 요구됩니다. 또한 유효기간도 함께 확인해주세요.","has_sensitive":true,"entities":[{"value":"483","begin":27,"end":30,"label":"CARD_CVV"}]}
+{"id":17,"content":"본인 인증을 위한 보안코드는 195 입니다. 아울러 이 코드는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"195","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":18,"content":"온라인 쇼핑 결제에 사용할 CVC 267 을 입력하셨나요. 먼저 주문 내역을 다시 확인해보세요.","has_sensitive":true,"entities":[{"value":"267","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":19,"content":"고객님께서 요청하신 보안번호 538 로 거래가 진행됩니다. 그리고 영수증은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"538","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":20,"content":"카드 뒷면의 CVV 코드 871 을 확인해주시기 바랍니다. 다만 앞면 번호와 혼동하지 마세요.","has_sensitive":true,"entities":[{"value":"871","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":21,"content":"결제 시스템에서 보안코드 604 를 요청하고 있습니다. 참고로 대소문자 구분은 없습니다.","has_sensitive":true,"entities":[{"value":"604","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":22,"content":"신용카드 인증용 CVC 번호 729 이 등록되었습니다. 또한 변경을 원하시면 고객센터로 연락하세요.","has_sensitive":true,"entities":[{"value":"729","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":23,"content":"비대면 결제를 위해 보안번호 416 입력이 필수입니다. 아울러 안전한 네트워크 사용을 권장합니다.","has_sensitive":true,"entities":[{"value":"416","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":24,"content":"온라인 거래 승인용 CVV 코드 953 을 준비해주세요. 먼저 결제 금액을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"953","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":25,"content":"카드 보안 인증을 위한 코드 287 이 발급되었습니다. 그리고 10분 이내에 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"287","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":26,"content":"고객님의 CVC 보안번호는 512 로 확인됩니다. 다만 이 정보는 통화 종료 후 파기됩니다.","has_sensitive":true,"entities":[{"value":"512","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":27,"content":"결제 완료를 위해 CVV 번호 648 을 입력하세요. 참고로 재시도는 2회까지 가능합니다.","has_sensitive":true,"entities":[{"value":"648","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":28,"content":"본 거래의 보안코드 375 가 시스템에 등록되었습니다. 또한 거래 내역은 실시간으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"375","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":29,"content":"카드 비대면 인증용 CVC 코드 891 을 사용하시기 바랍니다. 아울러 보안을 위해 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"891","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":30,"content":"온라인 결제 시 보안번호 523 이 필요합니다. 먼저 배송 주소를 입력해주세요.","has_sensitive":true,"entities":[{"value":"523","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":31,"content":"고객센터 상담원이 안내한 CVV 코드 736 으로 인증하세요. 그리고 추가 문의사항은 채팅으로 남겨주세요.","has_sensitive":true,"entities":[{"value":"736","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":32,"content":"신용카드 결제용 보안코드 149 를 확인하셨습니까. 다만 화면 캡처는 보안상 권장하지 않습니다.","has_sensitive":true,"entities":[{"value":"149","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":33,"content":"비대면 거래 승인을 위한 CVC 번호 862 이 요청되었습니다. 참고로 이 코드는 카드 뒷면에 있습니다.","has_sensitive":true,"entities":[{"value":"862","begin":26,"end":29,"label":"CARD_CVV"}]}
+{"id":34,"content":"카드 보안 인증 절차에서 코드 417 을 입력하시면 됩니다. 또한 결제 한도를 확인해주세요.","has_sensitive":true,"entities":[{"value":"417","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":35,"content":"온라인 쇼핑몰 결제를 위해 CVV 번호 695 를 준비하세요. 아울러 쿠폰 적용 여부도 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"695","begin":26,"end":29,"label":"CARD_CVV"}]}
+{"id":36,"content":"고객님의 보안코드 284 로 거래가 승인되었습니다. 먼저 알림톡으로 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"284","begin":11,"end":14,"label":"CARD_CVV"}]}
+{"id":37,"content":"결제 인증용 CVC 코드는 931 입니다. 그리고 이 정보는 타인과 절대 공유하지 마세요.","has_sensitive":true,"entities":[{"value":"931","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":38,"content":"카드사 발급 보안번호 578 을 사용하여 결제를 진행하세요. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"578","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":39,"content":"비대면 인증을 위한 CVV 번호 346 이 등록되었습니다. 참고로 변경은 카드사 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"346","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":40,"content":"온라인 거래 시 보안코드 802 를 입력해야 합니다. 또한 SSL 보안 연결을 확인하세요.","has_sensitive":true,"entities":[{"value":"802","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":41,"content":"고객님께서 입력하신 CVC 번호 619 로 결제가 처리됩니다. 아울러 영수증 발급을 원하시면 요청해주세요.","has_sensitive":true,"entities":[{"value":"619","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":42,"content":"카드 뒷면 보안코드 753 을 확인하시고 입력하세요. 먼저 카드 소지 여부를 확인합니다.","has_sensitive":true,"entities":[{"value":"753","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":43,"content":"결제 승인용 보안번호는 427 입니다. 그리고 분할 납부 옵션도 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"427","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":44,"content":"신용카드 인증 시 CVV 코드 986 이 필요합니다. 다만 오류 발생 시 새로고침 해주세요.","has_sensitive":true,"entities":[{"value":"986","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":45,"content":"비대면 결제를 위한 CVC 번호 531 을 입력하셨나요. 참고로 자동 저장은 보안상 비활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"531","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":46,"content":"온라인 쇼핑 보안 인증용 코드 674 로 결제를 진행합니다. 또한 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"674","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":47,"content":"고객님의 카드 CVV 번호 218 이 확인되었습니다. 아울러 해외 결제 차단 설정을 확인하세요.","has_sensitive":true,"entities":[{"value":"218","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":48,"content":"결제 시스템 보안코드 845 를 준비해주시기 바랍니다. 먼저 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"845","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":49,"content":"카드 인증용 CVC 코드는 392 입니다. 그리고 이 정보는 암호화되어 전송됩니다.","has_sensitive":true,"entities":[{"value":"392","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":50,"content":"비대면 거래 승인용 보안번호 567 을 사용하세요. 다만 공공 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"567","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":51,"content":"온라인 결제 시 CVV 번호 729 이 요구됩니다. 참고로 가상 카드 번호도 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"729","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":52,"content":"고객센터에서 발급한 보안코드 481 로 인증하시기 바랍니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"481","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":53,"content":"신용카드 결제용 CVC 번호 603 을 입력해주세요. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"603","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":54,"content":"카드 보안 인증 코드 156 이 시스템에 등록되었습니다. 먼저 결제 금액을 최종 확인하세요.","has_sensitive":true,"entities":[{"value":"156","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":55,"content":"비대면 인증용 보안번호는 924 입니다. 그리고 거래 승인까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"924","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":56,"content":"온라인 쇼핑몰 결제 시 CVV 코드 837 을 확인하세요. 다만 입력 시간 초과에 유의해주세요.","has_sensitive":true,"entities":[{"value":"837","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":57,"content":"고객님의 보안 인증 번호 472 로 거래를 진행합니다. 참고로 SMS로도 알림을 발송합니다.","has_sensitive":true,"entities":[{"value":"472","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":58,"content":"결제 완료를 위한 CVC 코드 685 이 필요합니다. 또한 배송비가 별도로 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"685","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":59,"content":"카드 뒷면의 보안번호 319 을 입력하시면 됩니다. 아울러 카드 유효기간도 함께 확인하세요.","has_sensitive":true,"entities":[{"value":"319","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":60,"content":"비대면 결제 인증용 CVV 번호 541 을 준비해주세요. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"541","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":61,"content":"온라인 거래 보안코드 796 가 등록되었습니다. 그리고 결제 실패 시 자동으로 재시도됩니다.","has_sensitive":true,"entities":[{"value":"796","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":62,"content":"고객님께서 요청하신 CVC 번호 238 로 인증을 진행합니다. 다만 보안을 위해 일정 시간 후 삭제됩니다.","has_sensitive":true,"entities":[{"value":"238","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":63,"content":"신용카드 보안 인증 코드는 864 입니다. 참고로 이 정보는 외부 유출을 절대 금지합니다.","has_sensitive":true,"entities":[{"value":"864","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":64,"content":"카드 결제 시스템에서 CVV 번호 417 이 요청됩니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"417","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":65,"content":"비대면 거래용 보안코드 593 을 사용하여 결제하세요. 아울러 영수증은 자동으로 발급됩니다.","has_sensitive":true,"entities":[{"value":"593","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":66,"content":"온라인 쇼핑 인증용 CVC 코드 726 을 입력하셨나요. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"726","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":67,"content":"고객님의 카드 보안번호는 381 로 설정되어 있습니다. 그리고 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"381","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":68,"content":"결제 승인용 보안 인증 코드 925 가 발급되었습니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"925","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":69,"content":"카드 비대면 인증을 위한 CVV 번호 648 을 확인하세요. 참고로 카드사 앱에서도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"648","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":70,"content":"온라인 결제 시 보안번호 512 이 필요합니다. 또한 간편결제 서비스도 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"512","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":71,"content":"비대면 거래 승인용 CVC 코드 879 로 결제를 진행합니다. 아울러 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"879","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":72,"content":"고객센터 상담 중 확인된 보안번호 234 을 사용하세요. 먼저 본인 확인 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"234","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":73,"content":"신용카드 인증용 CVV 코드는 761 입니다. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"761","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":74,"content":"카드 결제 보안코드 405 를 입력하시기 바랍니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"405","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":75,"content":"비대면 인증을 위해 CVC 번호 638 이 요구됩니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"638","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":76,"content":"온라인 쇼핑 결제용 보안코드 917 을 준비해주세요. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"917","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":77,"content":"고객님의 보안 인증 번호는 543 로 확인됩니다. 아울러 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"543","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":78,"content":"결제 시스템에서 CVV 코드 286 을 요청하고 있습니다. 먼저 결제 수단을 선택해주세요.","has_sensitive":true,"entities":[{"value":"286","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":79,"content":"카드 뒷면 보안번호 872 이 등록되었습니다. 그리고 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"872","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":80,"content":"비대면 결제를 위한 보안코드는 419 입니다. 다만 공용 PC에서는 사용을 자제해주세요.","has_sensitive":true,"entities":[{"value":"419","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":81,"content":"온라인 거래 인증용 CVC 번호 605 로 결제가 진행됩니다. 참고로 영수증은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"605","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":82,"content":"고객님께서 입력하신 보안번호 731 이 확인되었습니다. 또한 포인트 적립도 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"731","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":83,"content":"신용카드 결제 시 CVV 번호 948 을 입력해주세요. 아울러 무이자 할부 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"948","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":84,"content":"카드 보안 인증을 위해 코드 526 이 필요합니다. 먼저 카드 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"526","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":85,"content":"비대면 거래용 보안번호 314 를 사용하여 결제하세요. 그리고 거래 내역은 실시간으로 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"314","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":86,"content":"온라인 쇼핑몰에서 CVC 코드 782 이 요청되었습니다. 다만 입력 전 판매자 정보를 확인하세요.","has_sensitive":true,"entities":[{"value":"782","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":87,"content":"고객님의 카드 CVV 번호는 459 입니다. 참고로 이 정보는 통화 후 즉시 파기됩니다.","has_sensitive":true,"entities":[{"value":"459","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":88,"content":"결제 승인을 위한 보안코드 637 로 인증을 진행합니다. 또한 추가 본인 확인이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"637","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":89,"content":"카드 비대면 인증용 CVV 번호 891 을 준비하세요. 아울러 결제 전 상품 정보를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"891","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":90,"content":"온라인 결제 시 보안번호 523 가 필요합니다. 먼저 배송지 주소를 정확히 입력해주세요.","has_sensitive":true,"entities":[{"value":"523","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":91,"content":"비대면 거래 승인용 CVC 코드 176 이 발급되었습니다. 그리고 10분 이내에 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"176","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":92,"content":"고객센터에서 안내한 보안번호 849 를 입력하세요. 다만 오류 발생 시 다시 연락 부탁드립니다.","has_sensitive":true,"entities":[{"value":"849","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":93,"content":"신용카드 인증을 위한 CVV 코드는 304 입니다. 참고로 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"304","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":94,"content":"카드 결제용 보안번호 715 가 시스템에 등록되었습니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"715","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":95,"content":"비대면 인증용 보안코드 962 을 사용하시기 바랍니다. 아울러 보안을 위해 정기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"962","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":96,"content":"온라인 쇼핑 결제 시 CVC 번호 438 이 요구됩니다. 먼저 회원 등급별 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"438","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":97,"content":"고객님의 보안 인증 코드 587 로 거래를 진행합니다. 그리고 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"587","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":98,"content":"결제 완료를 위해 CVV 번호 921 을 입력해주세요. 다만 할부 개월 수는 나중에 변경할 수 없습니다.","has_sensitive":true,"entities":[{"value":"921","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":99,"content":"카드 뒷면의 보안코드는 253 입니다. 참고로 이 코드는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"253","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":100,"content":"비대면 결제 인증을 위한 CVC 코드 684 를 확인하세요. 또한 결제 금액을 다시 한 번 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"684","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":101,"content":"온라인 거래 보안번호 371 이 등록되었습니다. 아울러 SMS로 추가 인증번호가 발송됩니다.","has_sensitive":true,"entities":[{"value":"371","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":102,"content":"고객님께서 요청하신 CVV 번호는 826 로 설정되었습니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"826","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":103,"content":"신용카드 보안 인증 코드 495 를 준비해주시기 바랍니다. 그리고 결제 시간이 초과되지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"495","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":104,"content":"카드 결제 시스템에서 보안번호 738 을 요청하고 있습니다. 다만 네트워크 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"738","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":105,"content":"비대면 거래용 CVC 코드는 512 입니다. 참고로 결제 실패 시 고객센터로 연락 부탁드립니다.","has_sensitive":true,"entities":[{"value":"512","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":106,"content":"온라인 쇼핑 인증용 보안번호 649 로 결제가 진행됩니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"649","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":107,"content":"고객님의 카드 보안코드 283 이 확인되었습니다. 아울러 해외 결제 시 수수료가 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"283","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":108,"content":"결제 승인용 보안 인증 번호 917 가 발급되었습니다. 먼저 배송 옵션을 선택해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"917","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":109,"content":"카드 비대면 인증을 위해 CVV 번호 546 을 입력하세요. 그리고 결제 전 약관을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"546","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":110,"content":"온라인 결제 시 보안코드는 872 입니다. 다만 브라우저 보안 설정을 확인해주세요.","has_sensitive":true,"entities":[{"value":"872","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":111,"content":"비대면 거래 승인을 위한 CVC 코드 401 이 요청되었습니다. 참고로 카드 분실 시 즉시 신고하세요.","has_sensitive":true,"entities":[{"value":"401","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":112,"content":"고객센터 상담 중 확인된 보안번호는 635 로 등록되었습니다. 또한 거래 내역은 마이페이지에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"635","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":113,"content":"신용카드 인증용 CVV 코드 789 를 사용하여 결제하세요. 아울러 적립금 사용 여부를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"789","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":114,"content":"카드 결제 보안번호는 324 입니다. 먼저 주문 수량을 다시 확인해주세요.","has_sensitive":true,"entities":[{"value":"324","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":115,"content":"비대면 인증을 위한 보안코드 951 로 인증을 진행합니다. 그리고 결제 완료 후 알림톡이 발송됩니다.","has_sensitive":true,"entities":[{"value":"951","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":116,"content":"온라인 쇼핑 결제용 CVC 번호 468 이 필요합니다. 다만 쿠폰 중복 사용은 불가능합니다.","has_sensitive":true,"entities":[{"value":"468","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":117,"content":"고객님의 보안 인증 번호 713 를 준비해주세요. 참고로 이 정보는 일회용으로만 유효합니다.","has_sensitive":true,"entities":[{"value":"713","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":118,"content":"결제 시스템에서 보안코드 592 가 요청되고 있습니다. 또한 결제 수단을 미리 등록하면 편리합니다.","has_sensitive":true,"entities":[{"value":"592","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":119,"content":"카드 뒷면 CVV 번호 836 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"836","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":120,"content":"비대면 결제를 위해 보안번호 247 이 발급되었습니다. 먼저 결제 금액과 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"247","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":121,"content":"온라인 거래 인증용 CVV 코드는 605 입니다. 그리고 결제 전 판매자 평점을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"605","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":122,"content":"고객님께서 입력하신 보안번호 471 로 결제가 승인되었습니다. 다만 취소 가능 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"471","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":123,"content":"신용카드 결제 시 CVC 코드 928 이 요구됩니다. 참고로 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"928","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":124,"content":"카드 보안 인증을 위한 번호 534 를 사용하세요. 또한 결제 완료 후 배송 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"534","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":125,"content":"비대면 거래용 보안코드는 816 입니다. 아울러 이 코드는 외부 유출 시 즉시 변경하세요.","has_sensitive":true,"entities":[{"value":"816","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":126,"content":"온라인 쇼핑몰에서 CVV 번호 392 로 인증을 진행합니다. 먼저 장바구니에 담긴 상품을 확인하세요.","has_sensitive":true,"entities":[{"value":"392","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":127,"content":"고객님의 카드 보안번호는 675 로 설정되어 있습니다. 그리고 변경은 카드사 홈페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"675","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":128,"content":"결제 승인을 위해 보안 인증 코드 243 이 필요합니다. 다만 입력 시간이 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"243","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":129,"content":"카드 비대면 인증용 CVC 번호는 789 입니다. 참고로 3회 오류 시 거래가 자동 취소됩니다.","has_sensitive":true,"entities":[{"value":"789","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":130,"content":"온라인 결제 시 보안번호 516 을 준비해주세요. 또한 회원 가입 시 추가 할인 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"516","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":131,"content":"비대면 거래 승인용 보안코드 841 가 등록되었습니다. 아울러 SMS로 거래 내역을 확인하세요.","has_sensitive":true,"entities":[{"value":"841","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":132,"content":"고객센터에서 발급한 CVV 코드 627 을 입력하셨나요. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"627","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":133,"content":"신용카드 인증을 위한 보안번호는 358 입니다. 그리고 결제 후 영수증을 꼭 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"358","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":134,"content":"카드 결제용 CVC 코드 904 로 거래를 진행합니다. 다만 해외 결제는 별도 승인이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"904","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":135,"content":"비대면 인증용 보안번호 572 을 사용하여 결제하세요. 참고로 가상 계좌 입금도 가능합니다.","has_sensitive":true,"entities":[{"value":"572","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":136,"content":"온라인 쇼핑 결제 시 CVV 번호는 439 입니다. 또한 배송비 무료 조건을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"439","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":137,"content":"고객님의 보안 인증 코드는 786 로 확인됩니다. 아울러 이 정보는 통화 종료 후 자동 삭제됩니다.","has_sensitive":true,"entities":[{"value":"786","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":138,"content":"결제 완료를 위한 보안번호 215 가 발급되었습니다. 먼저 상품 상세 정보를 확인해주세요.","has_sensitive":true,"entities":[{"value":"215","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":139,"content":"카드 뒷면의 CVV 코드 963 을 입력하시기 바랍니다. 그리고 결제 완료 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"963","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":140,"content":"비대면 결제 인증을 위해 보안코드 428 이 요구됩니다. 다만 공용 컴퓨터에서는 사용을 자제하세요.","has_sensitive":true,"entities":[{"value":"428","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":141,"content":"온라인 거래 보안번호는 651 입니다. 참고로 결제 취소는 당일 23시 59분까지 가능합니다.","has_sensitive":true,"entities":[{"value":"651","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":142,"content":"고객님께서 요청하신 CVC 번호 837 로 인증을 진행합니다. 또한 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"837","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":143,"content":"신용카드 보안 인증 번호 294 를 준비해주시기 바랍니다. 아울러 할부 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"294","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":144,"content":"카드 결제 시스템에서 보안코드는 716 입니다. 먼저 결제 방법을 선택해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"716","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":145,"content":"비대면 거래용 CVV 번호 583 을 사용하여 결제하세요. 그리고 영수증은 이메일로 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"583","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":146,"content":"온라인 쇼핑 인증용 보안번호 940 이 등록되었습니다. 다만 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"940","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":147,"content":"고객님의 카드 CVC 코드 367 로 결제가 진행됩니다. 참고로 이 코드는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"367","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":148,"content":"결제 승인용 보안 인증 번호는 825 입니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"825","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":149,"content":"카드 비대면 인증을 위한 보안코드 492 를 확인하세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"492","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":150,"content":"온라인 결제 시 CVV 번호 638 이 필요합니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"638","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":151,"content":"비대면 거래 승인을 위해 보안번호는 751 입니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"751","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":152,"content":"고객센터 상담 중 확인된 CVC 코드 184 를 사용하세요. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"184","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":153,"content":"신용카드 인증용 보안번호 569 로 거래를 진행합니다. 참고로 SMS 인증도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"569","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":154,"content":"카드 결제 보안코드는 412 입니다. 또한 간편결제 서비스 등록을 권장합니다.","has_sensitive":true,"entities":[{"value":"412","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":155,"content":"비대면 인증을 위한 CVV 번호 897 이 발급되었습니다. 아울러 5분 이내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"897","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":156,"content":"온라인 쇼핑 결제용 보안코드 326 를 준비해주세요. 먼저 회원 로그인을 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"326","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":157,"content":"고객님의 보안 인증 번호는 674 로 설정되어 있습니다. 그리고 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"674","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":158,"content":"결제 시스템에서 보안번호 931 가 요청되고 있습니다. 다만 네트워크 연결 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"931","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":159,"content":"카드 뒷면 CVV 코드는 548 입니다. 참고로 카드 분실 시 즉시 정지 신청하세요.","has_sensitive":true,"entities":[{"value":"548","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":160,"content":"비대면 결제를 위해 CVC 번호 205 로 인증을 진행합니다. 또한 영수증 발급이 필요하면 요청하세요.","has_sensitive":true,"entities":[{"value":"205","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":161,"content":"온라인 거래 인증용 보안번호는 762 입니다. 아울러 결제 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"762","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":162,"content":"고객님께서 입력하신 보안코드 419 이 확인되었습니다. 먼저 배송 예정일을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"419","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":163,"content":"신용카드 결제 시 CVV 번호는 836 입니다. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"836","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":164,"content":"카드 보안 인증을 위한 코드 571 을 사용하세요. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"571","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":165,"content":"비대면 거래용 보안번호는 394 입니다. 참고로 해외 직구 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"394","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":166,"content":"온라인 쇼핑몰에서 CVC 코드 628 이 요청되었습니다. 또한 적립금 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"628","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":167,"content":"고객님의 카드 보안번호 745 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"745","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":168,"content":"결제 승인을 위해 보안 인증 코드는 283 입니다. 먼저 결제 금액과 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"283","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":169,"content":"카드 비대면 인증용 CVV 번호 916 를 준비해주시기 바랍니다. 그리고 결제 전 약관에 동의하세요.","has_sensitive":true,"entities":[{"value":"916","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":170,"content":"온라인 결제 시 보안번호는 452 입니다. 다만 입력 시간이 초과되면 처음부터 다시 시작해야 합니다.","has_sensitive":true,"entities":[{"value":"452","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":171,"content":"비대면 거래 승인용 보안코드 687 이 발급되었습니다. 참고로 이 코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"687","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":172,"content":"고객센터에서 안내한 CVC 번호 534 로 인증을 진행합니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"534","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":173,"content":"신용카드 인증을 위한 보안번호는 801 입니다. 아울러 결제 완료 후 취소 가능 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"801","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":174,"content":"카드 결제용 CVV 코드 279 가 시스템에 등록되었습니다. 먼저 상품 재고를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"279","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":175,"content":"비대면 인증용 보안번호 963 을 사용하여 결제하세요. 그리고 포인트 적립은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"963","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":176,"content":"온라인 쇼핑 결제 시 CVC 번호 418 이 필요합니다. 다만 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"418","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":177,"content":"고객님의 보안 인증 코드 756 를 준비해주세요. 참고로 결제 한도 내에서만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"756","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":178,"content":"결제 시스템에서 보안번호는 592 입니다. 또한 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"592","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":179,"content":"카드 뒷면의 CVV 코드 835 을 입력하셨나요. 아울러 카드 명의자와 주문자가 동일해야 합니다.","has_sensitive":true,"entities":[{"value":"835","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":180,"content":"비대면 결제 인증을 위해 보안코드는 241 입니다. 먼저 결제 수단을 등록해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"241","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":181,"content":"온라인 거래 보안번호 624 로 거래를 진행합니다. 그리고 배송비는 별도로 부과됩니다.","has_sensitive":true,"entities":[{"value":"624","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":182,"content":"고객님께서 요청하신 보안코드는 387 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"387","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":183,"content":"신용카드 보안 인증 번호 914 를 사용하시기 바랍니다. 참고로 SMS로도 같은 코드가 전송됩니다.","has_sensitive":true,"entities":[{"value":"914","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":184,"content":"카드 결제 시스템에서 CVC 코드는 563 입니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"563","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":185,"content":"비대면 거래용 보안번호 729 이 등록되었습니다. 아울러 거래 내역은 실시간으로 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"729","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":186,"content":"온라인 쇼핑 인증용 CVV 번호는 486 입니다. 먼저 장바구니에 담긴 상품을 최종 확인하세요.","has_sensitive":true,"entities":[{"value":"486","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":187,"content":"고객님의 카드 보안코드는 152 로 확인됩니다. 그리고 변경을 원하시면 고객센터로 연락하세요.","has_sensitive":true,"entities":[{"value":"152","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":188,"content":"결제 승인용 보안 인증 코드 698 가 발급되었습니다. 다만 10분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"698","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":189,"content":"카드 비대면 인증을 위한 CVC 번호 371 을 확인하세요. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"371","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":190,"content":"온라인 결제 시 보안번호 815 이 요구됩니다. 또한 결제 전 상품 정보를 다시 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"815","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":191,"content":"비대면 거래 승인을 위해 보안코드 426 로 인증을 진행합니다. 아울러 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"426","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":192,"content":"고객센터 상담 중 확인된 보안번호 793 을 사용하세요. 먼저 본인 인증이 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"793","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":193,"content":"신용카드 인증용 CVV 코드는 542 입니다. 그리고 결제 후 포인트가 자동으로 적립됩니다.","has_sensitive":true,"entities":[{"value":"542","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":194,"content":"카드 결제 보안번호 287 를 준비해주시기 바랍니다. 다만 해외 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"287","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":195,"content":"비대면 인증을 위한 보안코드는 964 입니다. 참고로 3회 오류 시 거래가 자동 취소됩니다.","has_sensitive":true,"entities":[{"value":"964","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":196,"content":"온라인 쇼핑 결제용 CVC 번호 635 로 결제가 진행됩니다. 또한 배송 추적은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"635","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":197,"content":"고객님의 보안 인증 번호는 418 로 등록되었습니다. 아울러 이 코드는 통화 종료 후 파기됩니다.","has_sensitive":true,"entities":[{"value":"418","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":198,"content":"결제 시스템에서 보안번호 751 이 요청되고 있습니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"751","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":199,"content":"카드 뒷면 CVV 코드는 329 입니다. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"329","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":200,"content":"비대면 결제를 위해 보안번호 586 을 사용하여 결제하세요. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"586","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":201,"content":"온라인 거래 인증용 보안코드는 842 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"842","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":202,"content":"고객님께서 입력하신 CVC 번호 197 이 확인되었습니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"197","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":203,"content":"신용카드 결제 시 보안번호는 674 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"674","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":204,"content":"카드 보안 인증을 위한 CVV 코드 523 을 입력하세요. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"523","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":205,"content":"비대면 거래용 보안번호는 936 입니다. 그리고 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"936","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":206,"content":"온라인 쇼핑몰에서 보안코드 481 로 인증을 진행합니다. 다만 판매자 정보를 먼저 확인하세요.","has_sensitive":true,"entities":[{"value":"481","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":207,"content":"고객님의 카드 CVV 번호는 759 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"759","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":208,"content":"결제 승인을 위해 보안 인증 코드는 314 입니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"314","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":209,"content":"카드 비대면 인증용 보안번호 628 를 준비해주시기 바랍니다. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"628","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":210,"content":"온라인 결제 시 CVC 번호는 495 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"495","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":211,"content":"비대면 거래 승인용 보안코드 712 이 발급되었습니다. 그리고 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"712","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":212,"content":"고객센터에서 발급한 보안번호는 867 로 등록되었습니다. 다만 5분 이내에 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"867","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":213,"content":"신용카드 인증을 위한 CVV 코드 341 을 사용하세요. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"341","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":214,"content":"카드 결제용 보안번호는 584 입니다. 또한 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"584","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":215,"content":"비대면 인증용 보안코드 927 로 거래를 진행합니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"927","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":216,"content":"온라인 쇼핑 결제 시 CVV 번호 456 이 요구됩니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"456","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":217,"content":"고객님의 보안 인증 코드 693 를 입력해주세요. 그리고 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"693","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":218,"content":"결제 시스템에서 보안번호는 241 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"241","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":219,"content":"카드 뒷면의 CVC 코드 856 을 확인하셨나요. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"856","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":220,"content":"비대면 결제 인증을 위해 보안번호는 379 입니다. 또한 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"379","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":221,"content":"온라인 거래 보안코드 514 가 시스템에 등록되었습니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"514","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":222,"content":"고객님께서 요청하신 보안코드 782 로 인증을 진행합니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"782","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":223,"content":"신용카드 보안 인증 번호는 145 입니다. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"145","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":224,"content":"카드 결제 시스템에서 CVV 코드 608 이 필요합니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"608","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":225,"content":"비대면 거래용 보안번호 972 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"972","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":226,"content":"온라인 쇼핑 인증용 보안코드는 537 입니다. 또한 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"537","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":227,"content":"고객님의 카드 보안번호 869 로 결제가 진행됩니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"869","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":228,"content":"결제 승인용 보안 인증 코드 293 가 발급되었습니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"293","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":229,"content":"카드 비대면 인증을 위한 CVC 번호는 746 입니다. 그리고 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"746","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":230,"content":"온라인 결제 시 보안번호 421 이 요구됩니다. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"421","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":231,"content":"비대면 거래 승인을 위해 보안코드는 658 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"658","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":232,"content":"고객센터 상담 중 확인된 CVV 코드는 385 로 설정되었습니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"385","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":233,"content":"신용카드 인증용 보안번호 917 을 준비해주시기 바랍니다. 아울러 할부 개월 수를 선택하세요.","has_sensitive":true,"entities":[{"value":"917","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":234,"content":"카드 결제 보안코드는 532 입니다. 먼저 결제 수단을 등록해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"532","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":235,"content":"비대면 인증을 위한 CVV 번호 684 로 인증을 진행합니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"684","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":236,"content":"온라인 쇼핑 결제용 보안번호는 259 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"259","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":237,"content":"고객님의 보안 인증 코드는 871 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"871","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":238,"content":"결제 시스템에서 보안번호 436 이 요청되고 있습니다. 또한 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"436","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":239,"content":"카드 뒷면 CVV 코드 703 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"703","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":240,"content":"비대면 결제를 위해 보안코드 829 가 등록되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"829","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":241,"content":"온라인 거래 인증용 CVC 번호는 564 입니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"564","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":242,"content":"고객님께서 입력하신 보안번호는 192 로 등록되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"192","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":243,"content":"신용카드 결제 시 CVV 코드 748 을 사용하세요. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"748","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":244,"content":"카드 보안 인증을 위한 번호는 615 입니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"615","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":245,"content":"비대면 거래용 보안번호 381 로 결제를 진행합니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"381","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":246,"content":"온라인 쇼핑몰에서 보안코드는 927 입니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"927","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":247,"content":"고객님의 카드 CVC 번호 456 이 확인되었습니다. 그리고 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"456","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":248,"content":"결제 승인을 위해 보안 인증 코드 739 를 입력해주세요. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"739","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":249,"content":"카드 비대면 인증용 보안번호는 582 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"582","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":250,"content":"온라인 결제 시 CVC 코드 214 로 인증을 진행합니다. 또한 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"214","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":251,"content":"비대면 거래 승인용 보안번호는 896 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"896","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":252,"content":"고객센터에서 안내한 보안코드 473 을 사용하시기 바랍니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"473","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":253,"content":"신용카드 인증을 위한 CVV 번호는 651 입니다. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"651","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":254,"content":"카드 결제용 보안번호 308 가 시스템에 등록되었습니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"308","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":255,"content":"비대면 인증용 보안코드는 745 입니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"745","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":256,"content":"온라인 쇼핑 결제 시 보안번호 619 을 준비해주세요. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"619","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":257,"content":"고객님의 보안 인증 번호는 287 로 설정되어 있습니다. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"287","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":258,"content":"결제 시스템에서 CVV 코드 932 이 요청되고 있습니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"932","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":259,"content":"카드 뒷면 보안번호는 576 입니다. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"576","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":260,"content":"비대면 결제를 위해 CVC 번호 841 로 거래를 진행합니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"841","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":261,"content":"온라인 거래 인증용 보안코드 394 이 발급되었습니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"394","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":262,"content":"고객님께서 요청하신 보안번호는 728 로 확인됩니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"728","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":263,"content":"신용카드 보안 인증 번호 465 를 입력해주시기 바랍니다. 아울러 할부 수수료를 미리 확인하세요.","has_sensitive":true,"entities":[{"value":"465","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":264,"content":"카드 결제 시스템에서 보안코드는 813 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"813","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":265,"content":"비대면 거래용 CVV 번호 529 을 사용하여 결제하세요. 그리고 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"529","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":266,"content":"온라인 쇼핑 인증용 보안번호는 672 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"672","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":267,"content":"고객님의 카드 보안코드 145 로 결제가 진행됩니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"145","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":268,"content":"결제 승인용 보안 인증 코드는 987 입니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"987","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":269,"content":"카드 비대면 인증을 위한 CVC 코드 436 을 확인하세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"436","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":270,"content":"온라인 결제 시 보안번호는 751 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"751","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":271,"content":"비대면 거래 승인을 위해 보안코드 628 이 등록되었습니다. 그리고 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"628","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":272,"content":"고객센터 상담 중 확인된 보안번호 394 를 사용하세요. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"394","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":273,"content":"신용카드 인증용 CVV 코드는 816 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"816","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":274,"content":"카드 결제 보안번호 572 로 인증을 진행합니다. 또한 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"572","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":275,"content":"비대면 인증용 보안코드는 209 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"209","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":276,"content":"온라인 쇼핑 결제 시 CVC 번호는 743 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"743","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":277,"content":"고객님의 보안 인증 코드 586 을 준비해주시기 바랍니다. 그리고 결제 금액을 최종 확인하세요.","has_sensitive":true,"entities":[{"value":"586","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":278,"content":"결제 시스템에서 보안번호는 931 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"931","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":279,"content":"카드 뒷면의 CVV 코드는 468 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"468","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":280,"content":"비대면 결제 인증을 위해 보안번호 725 로 거래를 진행합니다. 또한 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"725","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":281,"content":"온라인 거래 보안코드는 391 입니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"391","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":282,"content":"고객님께서 입력하신 보안코드는 857 로 확인되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"857","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":283,"content":"신용카드 결제 시 보안번호 634 를 사용하세요. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"634","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":284,"content":"카드 보안 인증을 위한 CVC 코드는 279 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"279","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":285,"content":"비대면 거래용 보안번호 518 이 발급되었습니다. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"518","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":286,"content":"온라인 쇼핑 인증용 보안코드 842 로 결제가 진행됩니다. 또한 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"842","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":287,"content":"고객님의 카드 CVV 번호는 705 로 등록되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"705","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":288,"content":"결제 승인을 위해 보안 인증 코드 961 가 필요합니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"961","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":289,"content":"카드 비대면 인증용 보안번호는 438 입니다. 그리고 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"438","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":290,"content":"온라인 결제 시 CVC 번호 672 을 입력해주세요. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"672","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":291,"content":"비대면 거래 승인용 보안코드는 526 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"526","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":292,"content":"고객센터에서 발급한 보안번호 183 을 사용하시기 바랍니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"183","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":293,"content":"신용카드 인증을 위한 CVV 코드 749 로 인증을 진행합니다. 아울러 할부 개월 수를 선택하세요.","has_sensitive":true,"entities":[{"value":"749","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":294,"content":"카드 결제용 보안번호는 365 입니다. 먼저 결제 수단을 등록해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"365","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":295,"content":"비대면 인증을 위한 보안코드 891 이 등록되었습니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"891","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":296,"content":"온라인 쇼핑 결제용 CVC 번호는 527 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"527","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":297,"content":"고객님의 보안 인증 코드 214 를 준비해주세요. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"214","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":298,"content":"결제 시스템에서 보안번호 682 가 요청되고 있습니다. 또한 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"682","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":299,"content":"카드 뒷면 CVV 코드는 437 입니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"437","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":300,"content":"비대면 결제를 위해 보안번호는 905 입니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"905","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":301,"content":"온라인 거래 인증용 보안코드 758 로 거래를 진행합니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"758","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":302,"content":"고객님께서 요청하신 CVC 번호는 321 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"321","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":303,"content":"신용카드 보안 인증 번호 594 를 사용하세요. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"594","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":304,"content":"카드 결제 시스템에서 보안코드 816 이 필요합니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"816","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":305,"content":"비대면 거래용 CVV 번호는 473 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"473","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":306,"content":"온라인 쇼핑몰에서 보안번호 652 로 인증을 진행합니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"652","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":307,"content":"고객님의 카드 보안코드는 289 로 확인됩니다. 그리고 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"289","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":308,"content":"결제 승인용 보안 인증 코드는 741 입니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"741","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":309,"content":"카드 비대면 인증을 위한 CVC 번호 536 을 입력하시기 바랍니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"536","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":310,"content":"온라인 결제 시 보안번호는 918 입니다. 또한 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"918","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":311,"content":"비대면 거래 승인을 위해 보안코드 304 가 발급되었습니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"304","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":312,"content":"고객센터 상담 중 확인된 보안번호는 627 로 등록되었습니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"627","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":313,"content":"신용카드 인증용 CVV 코드는 485 입니다. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"485","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":314,"content":"카드 결제 보안번호 753 로 거래를 진행합니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"753","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":315,"content":"비대면 인증용 보안코드는 169 입니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"169","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":316,"content":"온라인 쇼핑 결제 시 보안번호는 891 입니다. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"891","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":317,"content":"고객님의 보안 인증 번호 542 을 사용하여 결제하세요. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"542","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":318,"content":"결제 시스템에서 CVC 코드는 376 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"376","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":319,"content":"카드 뒷면 보안번호 928 이 요청되고 있습니다. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"928","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":320,"content":"비대면 결제를 위해 보안번호 614 로 인증을 진행합니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"614","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":321,"content":"온라인 거래 인증용 CVV 번호는 257 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"257","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":322,"content":"고객님께서 입력하신 보안코드 839 이 확인되었습니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"839","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":323,"content":"신용카드 결제 시 보안번호는 471 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"471","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":324,"content":"카드 보안 인증을 위한 CVC 코드 695 를 준비해주세요. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"695","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":325,"content":"비대면 거래용 보안번호는 382 입니다. 그리고 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"382","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":326,"content":"온라인 쇼핑 인증용 보안코드 517 로 결제가 진행됩니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"517","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":327,"content":"고객님의 카드 CVV 번호는 846 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"846","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":328,"content":"결제 승인을 위해 보안 인증 코드는 203 입니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"203","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":329,"content":"카드 비대면 인증용 보안번호 729 을 입력하세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"729","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":330,"content":"온라인 결제 시 CVC 번호는 564 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"564","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":331,"content":"비대면 거래 승인용 보안코드 918 이 등록되었습니다. 그리고 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"918","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":332,"content":"고객센터에서 안내한 보안번호는 435 로 확인됩니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"435","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":333,"content":"신용카드 인증을 위한 CVV 코드는 672 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"672","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":334,"content":"카드 결제용 보안번호 801 로 인증을 진행합니다. 또한 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"801","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":335,"content":"비대면 인증용 보안코드는 546 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"546","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":336,"content":"온라인 쇼핑 결제 시 보안번호는 293 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"293","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":337,"content":"고객님의 보안 인증 코드는 718 로 등록되었습니다. 그리고 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"718","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":338,"content":"결제 시스템에서 CVV 번호 459 가 요청되고 있습니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"459","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":339,"content":"카드 뒷면의 보안코드는 637 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"637","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":340,"content":"비대면 결제 인증을 위해 보안번호는 824 입니다. 또한 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"824","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":341,"content":"온라인 거래 보안코드 501 로 거래를 진행합니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"501","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":342,"content":"고객님께서 요청하신 보안코드는 963 로 설정되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":343,"content":"신용카드 보안 인증 번호는 217 입니다. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"217","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":344,"content":"카드 결제 시스템에서 보안번호 785 이 필요합니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"785","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":345,"content":"비대면 거래용 CVC 코드 342 를 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"342","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":346,"content":"온라인 쇼핑 인증용 보안번호는 698 입니다. 또한 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"698","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":347,"content":"고객님의 카드 보안코드 451 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"451","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":348,"content":"결제 승인용 보안 인증 코드는 836 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"836","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":349,"content":"카드 비대면 인증을 위한 CVV 번호 179 을 확인하시기 바랍니다. 그리고 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"179","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":350,"content":"온라인 결제 시 보안번호는 524 입니다. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"524","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":351,"content":"비대면 거래 승인을 위해 보안코드는 917 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"917","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":352,"content":"고객센터 상담 중 확인된 CVC 번호 263 을 사용하세요. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"263","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":353,"content":"신용카드 인증용 보안번호는 748 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"748","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":354,"content":"카드 결제 보안코드 506 로 인증을 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"506","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":355,"content":"비대면 인증을 위한 보안번호는 829 입니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"829","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":356,"content":"온라인 쇼핑 결제용 CVC 코드는 415 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"415","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":357,"content":"고객님의 보안 인증 번호 672 를 준비해주세요. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"672","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":358,"content":"결제 시스템에서 보안번호는 394 입니다. 또한 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"394","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":359,"content":"카드 뒷면 CVV 코드 851 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"851","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":360,"content":"비대면 결제를 위해 보안번호 536 이 발급되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"536","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":361,"content":"온라인 거래 인증용 보안코드는 729 입니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"729","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":362,"content":"고객님께서 입력하신 보안번호 481 로 결제가 진행됩니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"481","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":363,"content":"신용카드 결제 시 CVV 코드는 692 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"692","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":364,"content":"카드 보안 인증을 위한 번호는 318 입니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"318","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":365,"content":"비대면 거래용 보안번호는 754 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"754","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":366,"content":"온라인 쇼핑몰에서 보안코드 287 로 인증을 진행합니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"287","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":367,"content":"고객님의 카드 CVC 번호는 935 로 확인됩니다. 그리고 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"935","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":368,"content":"결제 승인을 위해 보안 인증 코드 612 가 등록되었습니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"612","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":369,"content":"카드 비대면 인증용 보안번호는 478 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"478","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":370,"content":"온라인 결제 시 CVC 번호 843 을 입력해주세요. 또한 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"843","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":371,"content":"비대면 거래 승인용 보안코드는 156 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"156","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":372,"content":"고객센터에서 발급한 보안번호는 791 로 설정되었습니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"791","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":373,"content":"신용카드 인증을 위한 CVV 코드 524 를 사용하세요. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"524","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":374,"content":"카드 결제용 보안번호는 368 입니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"368","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":375,"content":"비대면 인증용 보안코드 917 로 거래를 진행합니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"917","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":376,"content":"온라인 쇼핑 결제 시 보안번호는 245 입니다. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"245","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":377,"content":"고객님의 보안 인증 번호는 683 로 등록되었습니다. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"683","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":378,"content":"결제 시스템에서 CVC 코드 429 이 요청되고 있습니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"429","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":379,"content":"카드 뒷면 보안번호는 576 입니다. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"576","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":380,"content":"비대면 결제를 위해 보안번호는 802 입니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"802","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":381,"content":"온라인 거래 인증용 CVV 번호 941 로 인증을 진행합니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"941","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":382,"content":"고객님께서 요청하신 보안코드 357 이 확인되었습니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"357","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":383,"content":"신용카드 보안 인증 번호는 619 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"619","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":384,"content":"카드 결제 시스템에서 보안번호는 784 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"784","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":385,"content":"비대면 거래용 보안코드 251 을 사용하여 결제하세요. 그리고 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"251","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":386,"content":"온라인 쇼핑 인증용 CVC 번호는 936 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"936","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":387,"content":"고객님의 카드 보안번호는 473 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"473","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":388,"content":"결제 승인용 보안 인증 코드는 528 입니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"528","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":389,"content":"카드 비대면 인증을 위한 보안번호 814 를 준비해주세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"814","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":390,"content":"온라인 결제 시 보안번호는 697 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"697","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":391,"content":"비대면 거래 승인을 위해 CVC 코드 352 이 등록되었습니다. 그리고 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"352","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":392,"content":"고객센터 상담 중 확인된 보안번호는 718 로 확인됩니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"718","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":393,"content":"신용카드 인증용 보안번호 465 로 인증을 진행합니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"465","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":394,"content":"카드 결제 보안코드는 829 입니다. 또한 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"829","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":395,"content":"비대면 인증용 CVV 번호는 591 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"591","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":396,"content":"온라인 쇼핑 결제 시 보안번호 246 로 결제가 진행됩니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"246","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":397,"content":"고객님의 보안 인증 코드는 783 로 설정되었습니다. 그리고 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"783","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":398,"content":"결제 시스템에서 보안번호 941 가 필요합니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"941","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":399,"content":"카드 뒷면의 CVC 코드는 356 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"356","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":400,"content":"비대면 결제 인증을 위해 보안번호 627 로 거래를 진행합니다. 또한 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"627","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":401,"content":"온라인 거래 보안코드는 419 입니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"419","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":402,"content":"고객님께서 입력하신 보안번호는 582 로 등록되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"582","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":403,"content":"신용카드 결제 시 보안번호는 934 입니다. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"934","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":404,"content":"카드 보안 인증을 위한 CVV 코드 276 을 사용하세요. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"276","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":405,"content":"비대면 거래용 보안번호는 758 입니다. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"758","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":406,"content":"온라인 쇼핑 인증용 보안코드는 413 입니다. 또한 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"413","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":407,"content":"고객님의 카드 CVV 번호 869 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"869","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":408,"content":"결제 승인을 위해 보안 인증 코드는 521 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"521","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":409,"content":"카드 비대면 인증용 보안번호는 697 입니다. 그리고 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"697","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":410,"content":"온라인 결제 시 CVC 번호는 384 입니다. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"384","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":411,"content":"비대면 거래 승인용 보안코드 715 로 인증을 진행합니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"715","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":412,"content":"고객센터에서 안내한 보안번호 932 을 사용하시기 바랍니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"932","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":413,"content":"신용카드 인증을 위한 CVV 코드는 548 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"548","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":414,"content":"카드 결제용 보안번호 263 로 거래를 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"263","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":415,"content":"비대면 인증을 위한 보안코드는 879 입니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"879","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":416,"content":"온라인 쇼핑 결제용 보안번호는 426 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"426","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":417,"content":"고객님의 보안 인증 번호는 751 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"751","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":418,"content":"결제 시스템에서 CVC 코드는 592 입니다. 또한 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"592","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":419,"content":"카드 뒷면 보안번호 318 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"318","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":420,"content":"비대면 결제를 위해 보안번호는 645 입니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"645","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":421,"content":"온라인 거래 인증용 보안코드 827 로 결제가 진행됩니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"827","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":422,"content":"고객님께서 요청하신 보안번호는 194 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"194","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":423,"content":"신용카드 보안 인증 번호는 736 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"736","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":424,"content":"카드 결제 시스템에서 보안코드 485 이 요청되고 있습니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"485","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":425,"content":"비대면 거래용 CVV 번호는 621 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"621","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":426,"content":"온라인 쇼핑몰에서 보안번호는 379 입니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"379","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":427,"content":"고객님의 카드 보안코드는 952 로 등록되었습니다. 그리고 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"952","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":428,"content":"결제 승인용 보안 인증 코드 764 가 발급되었습니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"764","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":429,"content":"카드 비대면 인증을 위한 CVC 번호는 281 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"281","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":430,"content":"온라인 결제 시 보안번호 537 을 입력해주세요. 또한 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"537","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":431,"content":"비대면 거래 승인을 위해 보안코드는 893 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"893","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":432,"content":"고객센터 상담 중 확인된 보안번호 416 를 사용하세요. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"416","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":433,"content":"신용카드 인증용 CVV 코드는 729 입니다. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"729","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":434,"content":"카드 결제 보안번호는 564 입니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"564","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":435,"content":"비대면 인증용 보안코드 218 로 인증을 진행합니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"218","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":436,"content":"온라인 쇼핑 결제 시 보안번호는 945 입니다. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"945","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":437,"content":"고객님의 보안 인증 번호 682 를 준비해주시기 바랍니다. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"682","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":438,"content":"결제 시스템에서 보안번호는 371 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"371","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":439,"content":"카드 뒷면의 CVV 코드 826 을 확인하셨나요. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"826","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":440,"content":"비대면 결제를 위해 보안번호 539 로 거래를 진행합니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"539","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":441,"content":"온라인 거래 인증용 보안코드는 147 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"147","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":442,"content":"고객님께서 입력하신 CVC 번호는 694 로 확인되었습니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"694","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":443,"content":"신용카드 결제 시 보안번호 853 를 사용하세요. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"853","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":444,"content":"카드 보안 인증을 위한 번호는 417 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"417","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":445,"content":"비대면 거래용 보안번호 736 을 사용하여 결제하세요. 그리고 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"736","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":446,"content":"온라인 쇼핑 인증용 CVC 코드는 281 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"281","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":447,"content":"고객님의 카드 보안번호는 569 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"569","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":448,"content":"결제 승인을 위해 보안 인증 코드는 932 입니다. 또한 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"932","begin":23,"end":926,"label":"CARD_CVV"}]}
+{"id":449,"content":"카드 비대면 인증용 보안번호 475 를 입력하시기 바랍니다. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"475","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":450,"content":"온라인 결제 시 보안번호는 618 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"618","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":451,"content":"비대면 거래 승인용 보안코드는 824 입니다. 그리고 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"824","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":452,"content":"고객센터에서 발급한 보안번호 351 을 사용하시기 바랍니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"351","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":453,"content":"신용카드 인증을 위한 CVV 코드 796 로 인증을 진행합니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"796","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":454,"content":"카드 결제용 보안번호는 542 입니다. 또한 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"542","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":455,"content":"비대면 인증용 보안코드 189 로 거래를 진행합니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"189","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":456,"content":"온라인 쇼핑 결제 시 보안번호는 673 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"673","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":457,"content":"고객님의 보안 인증 코드 429 를 준비해주세요. 그리고 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"429","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":458,"content":"결제 시스템에서 CVC 번호는 815 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"815","begin":18,"end":821,"label":"CARD_CVV"}]}
+{"id":459,"content":"카드 뒷면 보안번호는 267 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"267","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":460,"content":"비대면 결제 인증을 위해 보안번호는 943 입니다. 또한 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"943","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":461,"content":"온라인 거래 보안코드 586 로 결제가 진행됩니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"586","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":462,"content":"고객님께서 요청하신 보안번호는 721 로 등록되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"721","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":463,"content":"신용카드 보안 인증 번호는 398 입니다. 그리고 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"398","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":464,"content":"카드 결제 시스템에서 보안코드는 654 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"654","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":465,"content":"비대면 거래용 CVV 번호 217 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"217","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":466,"content":"온라인 쇼핑 인증용 보안번호는 849 입니다. 또한 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"849","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":467,"content":"고객님의 카드 보안코드 736 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"736","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":468,"content":"결제 승인용 보안 인증 코드는 492 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"492","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":469,"content":"카드 비대면 인증을 위한 CVC 번호는 581 입니다. 그리고 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"581","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":470,"content":"온라인 결제 시 보안번호 925 를 입력해주세요. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"925","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":471,"content":"비대면 거래 승인을 위해 보안코드 367 이 발급되었습니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"367","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":472,"content":"고객센터 상담 중 확인된 보안번호는 814 로 설정되었습니다. 또한 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"814","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":473,"content":"신용카드 인증용 보안번호는 659 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"659","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":474,"content":"카드 결제 보안코드 421 로 거래를 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"421","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":475,"content":"비대면 인증을 위한 보안번호는 753 입니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"753","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":476,"content":"온라인 쇼핑 결제용 CVC 코드는 286 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"286","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":477,"content":"고객님의 보안 인증 번호는 938 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"938","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":478,"content":"결제 시스템에서 보안번호 574 가 요청되고 있습니다. 또한 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"574","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":479,"content":"카드 뒷면 CVV 코드는 162 입니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"162","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":480,"content":"비대면 결제를 위해 보안번호 819 이 등록되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"819","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":481,"content":"온라인 거래 인증용 보안코드는 435 입니다. 그리고 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"435","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":482,"content":"고객님께서 입력하신 보안코드는 672 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"672","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":483,"content":"신용카드 결제 시 CVV 번호는 591 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"591","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":484,"content":"카드 보안 인증을 위한 번호는 328 입니다. 또한 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"328","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":485,"content":"비대면 거래용 보안번호는 746 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"746","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":486,"content":"온라인 쇼핑몰에서 보안코드는 219 입니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"219","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":487,"content":"고객님의 카드 CVC 번호는 857 로 등록되었습니다. 그리고 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"857","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":488,"content":"결제 승인을 위해 보안 인증 코드 493 가 발급되었습니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"493","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":489,"content":"카드 비대면 인증용 보안번호는 634 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"634","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":490,"content":"온라인 결제 시 CVC 번호 278 을 입력하시기 바랍니다. 또한 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"278","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":491,"content":"비대면 거래 승인용 보안코드는 915 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"915","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":492,"content":"고객센터에서 안내한 보안번호는 546 로 확인됩니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"546","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":493,"content":"신용카드 인증을 위한 CVV 코드는 782 입니다. 그리고 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"782","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":494,"content":"카드 결제용 보안번호 319 로 인증을 진행합니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"319","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":495,"content":"비대면 인증용 보안코드는 461 입니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"461","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":496,"content":"온라인 쇼핑 결제 시 보안번호는 827 입니다. 또한 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"827","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":497,"content":"고객님의 보안 인증 번호 594 를 사용하여 결제하세요. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"594","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":498,"content":"결제 시스템에서 CVC 코드는 738 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"738","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":499,"content":"카드 뒷면의 보안번호는 152 입니다. 그리고 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"152","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":500,"content":"비대면 결제를 위해 보안번호는 683 입니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"683","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":501,"content":"결제 승인 시 보안코드 456 을 입력하셔야 합니다. 참고로 SMS로도 전송되었습니다.","has_sensitive":true,"entities":[{"value":"456","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":502,"content":"고객님의 CVV 번호 789 로 거래가 진행됩니다. 또한 결제 완료 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"789","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":503,"content":"온라인 인증에 필요한 보안번호는 234 입니다. 먼저 카드 소지 여부를 확인합니다.","has_sensitive":true,"entities":[{"value":"234","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":504,"content":"카드 결제를 위한 CVC 코드 567 이 요청되었습니다. 그리고 영수증 발급도 가능합니다.","has_sensitive":true,"entities":[{"value":"567","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":505,"content":"비대면 거래 시 보안번호는 891 입니다. 다만 유효기간을 반드시 확인하세요.","has_sensitive":true,"entities":[{"value":"891","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":506,"content":"신용카드 인증코드 312 를 준비해주시기 바랍니다. 참고로 3회 오류 시 결제가 취소됩니다.","has_sensitive":true,"entities":[{"value":"312","begin":11,"end":14,"label":"CARD_CVV"}]}
+{"id":507,"content":"온라인 쇼핑 보안 인증용 번호 645 로 결제를 진행합니다. 아울러 할부 선택도 가능합니다.","has_sensitive":true,"entities":[{"value":"645","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":508,"content":"고객센터 확인 결과 보안코드는 729 로 등록되어 있습니다. 또한 변경은 앱에서 가능합니다.","has_sensitive":true,"entities":[{"value":"729","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":509,"content":"결제 시스템에서 CVV 번호 483 이 필요합니다. 먼저 결제 금액을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"483","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":510,"content":"카드 뒷면의 보안코드 156 을 입력하세요. 그리고 거래 승인까지 잠시 기다려주세요.","has_sensitive":true,"entities":[{"value":"156","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":511,"content":"비대면 인증을 위해 CVC 번호 924 가 발급되었습니다. 다만 10분 이내에 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"924","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":512,"content":"온라인 거래용 보안번호는 837 입니다. 참고로 이 코드는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"837","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":513,"content":"고객님께서 입력하신 CVV 코드 472 로 인증이 완료되었습니다. 또한 포인트가 적립됩니다.","has_sensitive":true,"entities":[{"value":"472","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":514,"content":"신용카드 결제 보안번호 685 를 사용하시기 바랍니다. 아울러 분할 납부도 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"685","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":515,"content":"카드 인증 시 보안코드는 319 입니다. 먼저 본인 명의 카드인지 확인합니다.","has_sensitive":true,"entities":[{"value":"319","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":516,"content":"비대면 결제용 CVC 번호 541 을 입력해주세요. 그리고 결제 내역은 실시간으로 확인됩니다.","has_sensitive":true,"entities":[{"value":"541","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":517,"content":"온라인 쇼핑몰 결제 시 보안번호 796 이 요구됩니다. 다만 자동 저장은 비활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"796","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":518,"content":"고객님의 카드 보안 인증 코드 238 로 거래를 진행합니다. 참고로 SMS 인증도 필요합니다.","has_sensitive":true,"entities":[{"value":"238","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":519,"content":"결제 승인을 위한 보안번호는 864 입니다. 또한 영수증은 이메일로 자동 전송됩니다.","has_sensitive":true,"entities":[{"value":"864","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":520,"content":"카드 결제 시스템에서 CVV 코드 417 을 확인하고 있습니다. 아울러 거래 한도를 확인하세요.","has_sensitive":true,"entities":[{"value":"417","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":521,"content":"비대면 거래 인증용 보안번호 593 를 준비해주세요. 먼저 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"593","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":522,"content":"온라인 결제 보안코드는 726 입니다. 그리고 배송비는 별도로 부과됩니다.","has_sensitive":true,"entities":[{"value":"726","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":523,"content":"고객센터에서 안내한 CVC 번호는 381 로 설정되었습니다. 다만 보안을 위해 주기적으로 변경하세요.","has_sensitive":true,"entities":[{"value":"381","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":524,"content":"신용카드 인증 보안코드 925 로 결제가 승인됩니다. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"925","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":525,"content":"카드 뒷면 CVV 번호는 648 입니다. 또한 카드 분실 시 즉시 신고하세요.","has_sensitive":true,"entities":[{"value":"648","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":526,"content":"비대면 인증을 위한 보안번호 512 가 등록되었습니다. 아울러 5분 이내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"512","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":527,"content":"온라인 쇼핑 결제용 보안코드는 879 입니다. 먼저 장바구니를 최종 확인하세요.","has_sensitive":true,"entities":[{"value":"879","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":528,"content":"고객님의 보안 인증 번호는 234 로 확인됩니다. 그리고 쿠폰 적용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"234","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":529,"content":"결제 시스템에서 보안코드 761 이 요청되고 있습니다. 다만 입력 시간에 유의하세요.","has_sensitive":true,"entities":[{"value":"761","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":530,"content":"카드 인증용 CVC 코드는 405 입니다. 참고로 이 정보는 암호화되어 전송됩니다.","has_sensitive":true,"entities":[{"value":"405","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":531,"content":"비대면 결제를 위해 보안번호 638 로 인증을 진행합니다. 또한 거래 내역을 확인하세요.","has_sensitive":true,"entities":[{"value":"638","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":532,"content":"온라인 거래 승인용 보안코드는 917 입니다. 아울러 결제 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"917","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":533,"content":"고객님께서 요청하신 보안번호 543 이 발급되었습니다. 먼저 배송 주소를 입력해주세요.","has_sensitive":true,"entities":[{"value":"543","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":534,"content":"신용카드 결제 시 CVV 번호 286 을 사용하세요. 그리고 무이자 할부 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"286","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":535,"content":"카드 보안 인증 번호는 872 입니다. 다만 3회 오류 시 카드가 정지될 수 있습니다.","has_sensitive":true,"entities":[{"value":"872","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":536,"content":"비대면 거래용 보안코드 419 를 입력하시기 바랍니다. 참고로 공용 PC 사용은 자제하세요.","has_sensitive":true,"entities":[{"value":"419","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":537,"content":"온라인 쇼핑 인증용 CVC 번호는 605 입니다. 또한 적립금 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"605","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":538,"content":"고객님의 카드 보안번호 731 로 결제를 진행합니다. 아울러 영수증 발급을 원하시면 요청하세요.","has_sensitive":true,"entities":[{"value":"731","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":539,"content":"결제 승인용 보안 인증 코드는 948 입니다. 먼저 상품 재고를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"948","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":540,"content":"카드 비대면 인증을 위한 보안번호는 526 입니다. 그리고 결제 금액을 다시 확인하세요.","has_sensitive":true,"entities":[{"value":"526","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":541,"content":"온라인 결제 시 보안코드 314 가 필요합니다. 다만 네트워크 연결 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"314","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":542,"content":"비대면 거래 승인을 위해 CVV 번호 782 이 요구됩니다. 참고로 카드사 앱에서도 조회됩니다.","has_sensitive":true,"entities":[{"value":"782","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":543,"content":"고객센터 상담 중 확인된 보안코드 459 를 사용하세요. 또한 본인 확인 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"459","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":544,"content":"신용카드 인증용 보안번호는 637 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"637","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":545,"content":"카드 결제 보안코드 891 로 거래가 처리됩니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"891","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":546,"content":"비대면 인증용 CVC 코드는 523 입니다. 그리고 이 정보는 통화 종료 후 파기됩니다.","has_sensitive":true,"entities":[{"value":"523","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":547,"content":"온라인 쇼핑 결제 시 보안번호는 176 입니다. 다만 결제 한도 내에서만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"176","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":548,"content":"고객님의 보안 인증 코드 849 를 준비해주세요. 참고로 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"849","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":549,"content":"결제 시스템에서 CVV 번호는 304 입니다. 또한 배송 추적 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"304","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":550,"content":"카드 뒷면의 보안코드는 715 입니다. 아울러 카드 명의자 본인만 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"715","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":551,"content":"비대면 결제 인증을 위해 보안번호는 962 입니다. 먼저 회원 로그인을 완료하세요.","has_sensitive":true,"entities":[{"value":"962","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":552,"content":"온라인 거래 보안코드 438 로 결제를 진행합니다. 그리고 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"438","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":553,"content":"고객님께서 입력하신 보안번호는 587 로 설정되었습니다. 다만 이 코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"587","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":554,"content":"신용카드 보안 인증 번호는 921 입니다. 참고로 SMS로도 같은 코드가 발송됩니다.","has_sensitive":true,"entities":[{"value":"921","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":555,"content":"카드 결제 시스템에서 보안코드는 253 입니다. 또한 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"253","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":556,"content":"비대면 거래용 보안번호는 684 입니다. 아울러 결제 전 최종 금액을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"684","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":557,"content":"온라인 쇼핑 인증용 보안코드 371 로 인증이 완료됩니다. 먼저 배송 옵션을 선택하세요.","has_sensitive":true,"entities":[{"value":"371","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":558,"content":"고객님의 카드 CVV 번호는 826 로 확인됩니다. 그리고 유효기간도 함께 체크하세요.","has_sensitive":true,"entities":[{"value":"826","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":559,"content":"결제 승인을 위해 보안 인증 코드 495 가 필요합니다. 다만 입력 제한 시간이 있습니다.","has_sensitive":true,"entities":[{"value":"495","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":560,"content":"카드 비대면 인증용 CVC 번호 738 을 입력하세요. 참고로 카드 뒷면에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"738","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":561,"content":"온라인 결제 시 보안번호는 512 입니다. 또한 간편결제 등록도 권장합니다.","has_sensitive":true,"entities":[{"value":"512","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":562,"content":"비대면 거래 승인용 보안코드는 649 입니다. 아울러 영수증은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"649","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":563,"content":"고객센터에서 발급한 보안번호는 283 로 등록되었습니다. 먼저 본인 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"283","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":564,"content":"신용카드 인증을 위한 CVV 코드 917 를 사용하시기 바랍니다. 그리고 결제 후 알림을 확인하세요.","has_sensitive":true,"entities":[{"value":"917","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":565,"content":"카드 결제용 보안번호는 546 입니다. 다만 해외 결제 시 수수료가 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"546","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":566,"content":"비대면 인증을 위한 보안코드 872 로 거래를 진행합니다. 참고로 거래 내역은 실시간 조회됩니다.","has_sensitive":true,"entities":[{"value":"872","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":567,"content":"온라인 쇼핑 결제용 보안번호는 401 입니다. 또한 쿠폰 중복 사용은 불가합니다.","has_sensitive":true,"entities":[{"value":"401","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":568,"content":"고객님의 보안 인증 번호는 635 로 설정되어 있습니다. 아울러 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"635","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":569,"content":"결제 시스템에서 보안번호 789 가 요청되고 있습니다. 먼저 결제 방법을 확인하세요.","has_sensitive":true,"entities":[{"value":"789","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":570,"content":"카드 뒷면 보안코드는 324 입니다. 그리고 이 정보는 절대 타인과 공유하지 마세요.","has_sensitive":true,"entities":[{"value":"324","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":571,"content":"비대면 결제를 위해 CVC 번호 951 이 등록되었습니다. 다만 보안을 위해 주의하세요.","has_sensitive":true,"entities":[{"value":"951","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":572,"content":"온라인 거래 인증용 보안코드는 468 입니다. 참고로 결제 완료까지 약간 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"468","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":573,"content":"고객님께서 요청하신 보안번호 713 로 인증을 진행합니다. 또한 추가 본인 확인이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"713","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":574,"content":"신용카드 결제 시 보안번호는 592 입니다. 아울러 할부 수수료를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"592","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":575,"content":"카드 보안 인증을 위한 CVV 코드는 836 입니다. 먼저 카드 한도를 체크하세요.","has_sensitive":true,"entities":[{"value":"836","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":576,"content":"비대면 거래용 보안번호 247 을 사용하여 결제하세요. 그리고 배송비가 별도 부과됩니다.","has_sensitive":true,"entities":[{"value":"247","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":577,"content":"온라인 쇼핑 인증용 보안코드는 605 입니다. 다만 판매자 정보를 먼저 확인하세요.","has_sensitive":true,"entities":[{"value":"605","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":578,"content":"고객님의 카드 보안번호는 471 로 확인됩니다. 참고로 카드 분실 시 즉시 신고하세요.","has_sensitive":true,"entities":[{"value":"471","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":579,"content":"결제 승인용 보안 인증 코드는 928 입니다. 또한 영수증 자동 발급이 가능합니다.","has_sensitive":true,"entities":[{"value":"928","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":580,"content":"카드 비대면 인증을 위한 보안번호 534 를 입력하시기 바랍니다. 아울러 본인 명의 카드만 사용하세요.","has_sensitive":true,"entities":[{"value":"534","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":581,"content":"온라인 결제 시 CVC 번호는 816 입니다. 먼저 장바구니 상품을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"816","begin":17,"end":820,"label":"CARD_CVV"}]}
+{"id":582,"content":"비대면 거래 승인을 위해 보안코드 392 로 인증이 진행됩니다. 그리고 SMS 알림도 발송됩니다.","has_sensitive":true,"entities":[{"value":"392","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":583,"content":"고객센터 상담 중 확인된 보안번호는 675 로 설정되었습니다. 다만 5분 내 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"675","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":584,"content":"신용카드 인증용 보안번호 243 로 결제가 승인됩니다. 참고로 결제 전 약관을 확인하세요.","has_sensitive":true,"entities":[{"value":"243","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":585,"content":"카드 결제 보안코드는 789 입니다. 또한 간편결제로 등록하면 편리합니다.","has_sensitive":true,"entities":[{"value":"789","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":586,"content":"비대면 인증용 보안번호는 516 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"516","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":587,"content":"온라인 쇼핑 결제 시 보안번호 841 로 결제를 진행합니다. 먼저 회원 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"841","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":588,"content":"고객님의 보안 인증 코드는 627 로 등록되었습니다. 그리고 결제 금액을 재확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"627","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":589,"content":"결제 시스템에서 CVV 코드 358 이 필요합니다. 다만 입력 시간 제한이 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"358","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":590,"content":"카드 뒷면의 보안번호는 904 입니다. 참고로 이 코드는 외부 유출을 금지합니다.","has_sensitive":true,"entities":[{"value":"904","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":591,"content":"비대면 결제 인증을 위해 보안번호 572 로 거래가 처리됩니다. 또한 포인트 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"572","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":592,"content":"온라인 거래 보안코드는 439 입니다. 아울러 배송 추적은 마이페이지에서 확인하세요.","has_sensitive":true,"entities":[{"value":"439","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":593,"content":"고객님께서 입력하신 보안코드는 786 로 확인되었습니다. 먼저 배송지를 정확히 입력하세요.","has_sensitive":true,"entities":[{"value":"786","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":594,"content":"신용카드 보안 인증 번호는 215 입니다. 그리고 해외 결제 시 환율을 체크하세요.","has_sensitive":true,"entities":[{"value":"215","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":595,"content":"카드 결제 시스템에서 보안번호는 963 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"963","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":596,"content":"비대면 거래용 CVC 코드 428 을 사용하여 결제하세요. 참고로 공용 PC 사용은 자제하세요.","has_sensitive":true,"entities":[{"value":"428","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":597,"content":"온라인 쇼핑 인증용 보안번호는 651 입니다. 또한 적립금 자동 적립이 됩니다.","has_sensitive":true,"entities":[{"value":"651","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":598,"content":"고객님의 카드 보안코드 837 로 결제가 진행됩니다. 아울러 영수증은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"837","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":599,"content":"결제 승인을 위해 보안 인증 코드는 294 입니다. 먼저 상품 옵션을 선택하세요.","has_sensitive":true,"entities":[{"value":"294","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":600,"content":"카드 비대면 인증용 보안번호는 716 입니다. 그리고 결제 완료 후 확인 메일을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"716","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":601,"content":"비대면 거래 시 필요한 보안코드는 583 입니다. 먼저 결제 수단을 선택해주세요.","has_sensitive":true,"entities":[{"value":"583","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":602,"content":"온라인 쇼핑몰 결제용 CVV 번호 940 을 입력하시기 바랍니다. 또한 할부 옵션도 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"940","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":603,"content":"고객님의 카드 보안 인증 번호는 367 로 설정되어 있습니다. 다만 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"367","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":604,"content":"신용카드 결제 시 CVC 코드는 825 입니다. 참고로 카드사 앱에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"825","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":605,"content":"카드 인증용 보안번호 492 로 거래를 진행합니다. 그리고 SMS 인증도 필요합니다.","has_sensitive":true,"entities":[{"value":"492","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":606,"content":"비대면 결제를 위한 보안코드는 638 입니다. 아울러 결제 전 쿠폰을 적용하세요.","has_sensitive":true,"entities":[{"value":"638","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":607,"content":"온라인 거래 인증용 보안번호는 751 입니다. 먼저 회원 가입을 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"751","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":608,"content":"고객센터에서 안내한 CVV 코드는 184 로 확인됩니다. 또한 본인 확인 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"184","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":609,"content":"결제 시스템에서 보안번호는 569 입니다. 다만 네트워크 상태를 체크해주세요.","has_sensitive":true,"entities":[{"value":"569","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":610,"content":"카드 뒷면 보안코드 412 를 입력하세요. 참고로 이 정보는 통화 후 즉시 삭제됩니다.","has_sensitive":true,"entities":[{"value":"412","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":611,"content":"비대면 인증을 위해 CVC 번호는 897 입니다. 그리고 10분 내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"897","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":612,"content":"온라인 쇼핑 결제 시 보안번호는 326 입니다. 아울러 배송 예정일을 확인하세요.","has_sensitive":true,"entities":[{"value":"326","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":613,"content":"고객님의 보안 인증 코드 674 로 결제가 승인됩니다. 먼저 약관에 동의해주세요.","has_sensitive":true,"entities":[{"value":"674","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":614,"content":"신용카드 인증용 보안번호는 931 입니다. 또한 간편결제 등록을 권장합니다.","has_sensitive":true,"entities":[{"value":"931","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":615,"content":"카드 결제 보안코드는 548 입니다. 다만 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"548","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":616,"content":"비대면 거래용 보안번호 205 로 인증을 진행합니다. 참고로 영수증 발급이 필요하면 요청하세요.","has_sensitive":true,"entities":[{"value":"205","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":617,"content":"온라인 거래 승인용 CVV 코드는 762 입니다. 그리고 알림톡으로 결과를 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"762","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":618,"content":"고객님께서 요청하신 보안번호는 419 로 등록되었습니다. 아울러 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"419","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":619,"content":"결제 승인을 위해 보안 인증 코드 836 이 필요합니다. 먼저 결제 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"836","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":620,"content":"카드 비대면 인증을 위한 CVC 번호는 571 입니다. 또한 거래 내역은 실시간 조회됩니다.","has_sensitive":true,"entities":[{"value":"571","begin":25,"end":28,"label":"CARD_CVV"}]}
+{"id":621,"content":"온라인 결제 시 보안번호는 394 입니다. 다만 자동 저장 기능은 비활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"394","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":622,"content":"비대면 거래 승인용 보안코드는 628 입니다. 참고로 해외 직구도 가능합니다.","has_sensitive":true,"entities":[{"value":"628","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":623,"content":"고객센터 상담 중 확인된 보안번호 745 를 사용하세요. 그리고 포인트 적립도 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"745","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":624,"content":"신용카드 보안 인증 번호는 283 입니다. 아울러 무이자 할부 혜택을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"283","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":625,"content":"카드 결제 시스템에서 보안코드는 916 입니다. 먼저 상품 리뷰를 확인하세요.","has_sensitive":true,"entities":[{"value":"916","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":626,"content":"비대면 인증용 보안번호 452 로 거래가 처리됩니다. 또한 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"452","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":627,"content":"온라인 쇼핑 결제용 보안코드는 687 입니다. 다만 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"687","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":628,"content":"고객님의 카드 CVV 번호는 534 로 확인됩니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"534","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":629,"content":"결제 시스템에서 보안번호 801 이 요청되고 있습니다. 그리고 배송 옵션을 선택하세요.","has_sensitive":true,"entities":[{"value":"801","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":630,"content":"카드 뒷면의 보안코드는 279 입니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"279","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":631,"content":"비대면 결제 인증을 위해 CVC 번호 963 로 인증이 진행됩니다. 먼저 장바구니를 확인하세요.","has_sensitive":true,"entities":[{"value":"963","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":632,"content":"온라인 거래 보안번호는 418 입니다. 또한 적립금 사용 여부를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"418","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":633,"content":"고객님께서 입력하신 보안코드는 756 로 설정되었습니다. 다만 이 코드는 일회용입니다.","has_sensitive":true,"entities":[{"value":"756","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":634,"content":"신용카드 결제 시 보안번호는 592 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"592","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":635,"content":"카드 보안 인증을 위한 번호는 835 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"835","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":636,"content":"비대면 거래용 보안번호는 241 입니다. 아울러 영수증은 자동으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"241","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":637,"content":"온라인 쇼핑 인증용 CVC 코드는 624 입니다. 먼저 회원 로그인을 완료하세요.","has_sensitive":true,"entities":[{"value":"624","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":638,"content":"고객님의 보안 인증 번호는 387 로 등록되었습니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"387","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":639,"content":"결제 승인용 보안 인증 코드는 914 입니다. 다만 입력 시간이 제한되어 있습니다.","has_sensitive":true,"entities":[{"value":"914","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":640,"content":"카드 비대면 인증용 보안번호 563 를 입력하시기 바랍니다. 참고로 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"563","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":641,"content":"온라인 결제 시 보안코드는 729 입니다. 그리고 포인트 적립은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"729","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":642,"content":"비대면 거래 승인을 위해 CVV 번호는 486 입니다. 아울러 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"486","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":643,"content":"고객센터에서 발급한 보안번호는 152 로 확인됩니다. 먼저 본인 인증 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"152","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":644,"content":"신용카드 인증용 보안번호 698 로 결제가 승인됩니다. 또한 할부 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"698","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":645,"content":"카드 결제 보안코드는 371 입니다. 다만 카드 유효기간도 함께 확인하세요.","has_sensitive":true,"entities":[{"value":"371","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":646,"content":"비대면 인증을 위한 보안번호는 815 입니다. 참고로 이 코드는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"815","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":647,"content":"온라인 쇼핑 결제 시 CVC 번호는 426 입니다. 그리고 쿠폰 적용 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"426","begin":21,"end":424,"label":"CARD_CVV"}]}
+{"id":648,"content":"고객님의 카드 보안코드 793 로 거래를 진행합니다. 아울러 영수증 발급을 원하시면 요청하세요.","has_sensitive":true,"entities":[{"value":"793","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":649,"content":"결제 시스템에서 보안번호는 542 입니다. 먼저 상품 재고를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"542","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":650,"content":"카드 뒷면 CVV 코드는 287 입니다. 또한 해외 결제 시 환율을 체크하세요.","has_sensitive":true,"entities":[{"value":"287","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":651,"content":"비대면 결제를 위해 보안번호 964 로 인증을 진행합니다. 다만 공용 와이파이 사용은 자제하세요.","has_sensitive":true,"entities":[{"value":"964","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":652,"content":"온라인 거래 인증용 보안코드는 635 입니다. 참고로 결제 완료까지 약간 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"635","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":653,"content":"고객님께서 요청하신 보안번호는 418 로 설정되었습니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"418","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":654,"content":"신용카드 보안 인증 번호는 751 입니다. 아울러 간편결제 등록도 가능합니다.","has_sensitive":true,"entities":[{"value":"751","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":655,"content":"카드 결제 시스템에서 보안코드는 329 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"329","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":656,"content":"비대면 거래용 CVV 번호 586 을 사용하여 결제하세요. 또한 배송비가 별도로 부과됩니다.","has_sensitive":true,"entities":[{"value":"586","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":657,"content":"온라인 쇼핑 인증용 보안번호는 842 입니다. 다만 판매자 평점을 먼저 확인하세요.","has_sensitive":true,"entities":[{"value":"842","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":658,"content":"고객님의 보안 인증 코드는 197 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 연락하세요.","has_sensitive":true,"entities":[{"value":"197","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":659,"content":"결제 승인을 위해 보안 인증 코드는 674 입니다. 그리고 영수증은 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"674","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":660,"content":"카드 비대면 인증을 위한 CVC 번호 523 을 입력하세요. 아울러 본인 명의 카드만 사용하세요.","has_sensitive":true,"entities":[{"value":"523","begin":24,"end":527,"label":"CARD_CVV"}]}
+{"id":661,"content":"온라인 결제 시 보안번호는 936 입니다. 먼저 쿠폰 유효기간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"936","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":662,"content":"비대면 거래 승인용 보안코드는 481 입니다. 또한 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"481","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":663,"content":"고객센터 상담 중 확인된 보안번호는 759 로 등록되었습니다. 다만 5분 내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"759","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":664,"content":"신용카드 인증을 위한 보안번호는 314 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"314","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":665,"content":"카드 결제용 보안번호 628 로 거래를 진행합니다. 그리고 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"628","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":666,"content":"비대면 인증용 보안코드는 495 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"495","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":667,"content":"온라인 쇼핑 결제용 보안번호는 712 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"712","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":668,"content":"고객님의 카드 CVV 번호는 867 로 설정되어 있습니다. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"867","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":669,"content":"결제 시스템에서 보안번호 341 가 요청되고 있습니다. 다만 입력 시간 제한이 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"341","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":670,"content":"카드 뒷면의 보안코드는 584 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"584","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":671,"content":"비대면 결제 인증을 위해 보안번호는 927 입니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"927","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":672,"content":"온라인 거래 보안코드 456 로 결제가 진행됩니다. 아울러 적립금이 자동으로 적립됩니다.","has_sensitive":true,"entities":[{"value":"456","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":673,"content":"고객님께서 입력하신 보안코드는 693 로 확인되었습니다. 먼저 배송 주소를 정확히 입력하세요.","has_sensitive":true,"entities":[{"value":"693","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":674,"content":"신용카드 결제 시 보안번호는 241 입니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"241","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":675,"content":"카드 보안 인증을 위한 CVC 코드는 856 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"856","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":676,"content":"비대면 거래용 보안번호 379 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"379","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":677,"content":"온라인 쇼핑 인증용 보안코드는 514 입니다. 그리고 배송 예정일을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"514","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":678,"content":"고객님의 카드 보안번호 782 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"782","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":679,"content":"결제 승인용 보안 인증 코드는 145 입니다. 먼저 상품 상세 정보를 확인하세요.","has_sensitive":true,"entities":[{"value":"145","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":680,"content":"카드 비대면 인증용 보안번호는 608 입니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"608","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":681,"content":"온라인 결제 시 CVC 번호는 972 입니다. 다만 공용 PC에서는 사용을 자제하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"972","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":682,"content":"비대면 거래 승인을 위해 보안코드는 537 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"537","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":683,"content":"고객센터에서 안내한 보안번호는 869 로 설정되었습니다. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"869","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":684,"content":"신용카드 인증용 보안번호 293 로 인증을 진행합니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"293","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":685,"content":"카드 결제 보안코드는 746 입니다. 먼저 결제 수단을 미리 등록해주세요.","has_sensitive":true,"entities":[{"value":"746","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":686,"content":"비대면 인증을 위한 보안번호는 421 입니다. 또한 영수증은 이메일로 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"421","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":687,"content":"온라인 쇼핑 결제용 CVC 코드는 658 입니다. 다만 결제 한도를 반드시 확인하세요.","has_sensitive":true,"entities":[{"value":"658","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":688,"content":"고객님의 보안 인증 번호는 385 로 확인됩니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"385","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":689,"content":"결제 시스템에서 보안번호는 917 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"917","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":690,"content":"카드 뒷면 CVV 코드 532 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"532","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":691,"content":"비대면 결제를 위해 보안번호 684 이 등록되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"684","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":692,"content":"온라인 거래 인증용 보안코드는 259 입니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"259","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":693,"content":"고객님께서 요청하신 보안번호는 871 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"871","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":694,"content":"신용카드 보안 인증 번호는 436 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"436","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":695,"content":"카드 결제 시스템에서 보안코드는 703 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"703","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":696,"content":"비대면 거래용 보안번호는 829 입니다. 아울러 포인트 적립은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"829","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":697,"content":"온라인 쇼핑몰에서 보안코드는 564 입니다. 먼저 회원 로그인이 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"564","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":698,"content":"고객님의 카드 CVC 번호는 192 로 등록되었습니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"192","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":699,"content":"결제 승인을 위해 보안 인증 코드 748 가 발급되었습니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"748","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":700,"content":"카드 비대면 인증을 위한 보안번호는 615 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"615","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":701,"content":"고객님의 결제 보안코드 381 을 입력하셔야 거래가 승인됩니다. 또한 SMS로 추가 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"381","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":702,"content":"온라인 쇼핑 시 CVC 번호 927 이 요청됩니다. 먼저 카드 유효기간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"927","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":703,"content":"비대면 인증용 보안번호는 456 입니다. 그리고 이 코드는 외부에 공유하지 마세요.","has_sensitive":true,"entities":[{"value":"456","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":704,"content":"카드 결제 승인을 위한 보안코드 739 로 거래를 진행합니다. 다만 10분 이내에 입력하셔야 합니다.","has_sensitive":true,"entities":[{"value":"739","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":705,"content":"신용카드 인증 시 보안번호 582 를 사용하시기 바랍니다. 참고로 이 정보는 암호화되어 전송됩니다.","has_sensitive":true,"entities":[{"value":"582","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":706,"content":"온라인 결제를 위해 CVV 코드 214 이 필요합니다. 아울러 결제 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"214","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":707,"content":"비대면 거래 승인용 보안번호는 896 입니다. 먼저 배송지 정보를 입력해주세요.","has_sensitive":true,"entities":[{"value":"896","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":708,"content":"고객센터 상담 중 확인된 보안코드는 473 로 설정되었습니다. 또한 거래 내역은 마이페이지에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"473","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":709,"content":"카드 뒷면의 CVC 번호 651 을 입력하세요. 그리고 결제 시간 초과에 유의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"651","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":710,"content":"결제 시스템에서 보안번호 308 가 요청되고 있습니다. 다만 네트워크 상태를 먼저 확인해주세요.","has_sensitive":true,"entities":[{"value":"308","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":711,"content":"비대면 인증을 위한 보안코드는 745 입니다. 참고로 공용 와이파이 사용은 자제하세요.","has_sensitive":true,"entities":[{"value":"745","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":712,"content":"온라인 쇼핑 결제 시 보안번호는 619 입니다. 그리고 쿠폰 적용 여부를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"619","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":713,"content":"고객님의 카드 보안 인증 번호 287 로 거래가 진행됩니다. 아울러 포인트 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"287","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":714,"content":"신용카드 결제용 CVV 코드는 932 입니다. 먼저 약관에 동의해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"932","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":715,"content":"카드 인증 보안번호 576 로 결제를 승인합니다. 또한 영수증 발급을 원하시면 요청하세요.","has_sensitive":true,"entities":[{"value":"576","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":716,"content":"비대면 거래용 보안코드는 841 입니다. 다만 카드 분실 시 즉시 신고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"841","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":717,"content":"온라인 거래 인증용 CVC 번호는 394 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"394","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":718,"content":"고객님께서 입력하신 보안번호는 728 로 확인되었습니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"728","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":719,"content":"결제 승인을 위해 보안 인증 코드는 465 입니다. 아울러 할부 수수료를 미리 확인하세요.","has_sensitive":true,"entities":[{"value":"465","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":720,"content":"카드 결제 시스템에서 보안번호는 813 입니다. 먼저 결제 금액을 최종 확인해주세요.","has_sensitive":true,"entities":[{"value":"813","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":721,"content":"비대면 인증용 보안코드 529 로 인증을 진행합니다. 또한 배송 추적 서비스를 이용하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"529","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":722,"content":"온라인 쇼핑 결제용 보안번호는 672 입니다. 다만 판매자 평점을 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"672","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":723,"content":"고객님의 보안 인증 코드는 145 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"145","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":724,"content":"신용카드 인증을 위한 CVV 번호 987 을 사용하세요. 그리고 무이자 할부 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"987","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":725,"content":"카드 뒷면 보안코드는 436 입니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"436","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":726,"content":"비대면 결제 인증을 위해 보안번호는 751 입니다. 먼저 회원 가입을 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"751","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":727,"content":"온라인 거래 보안코드 628 로 결제가 진행됩니다. 또한 적립금이 자동으로 적립됩니다.","has_sensitive":true,"entities":[{"value":"628","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":728,"content":"고객센터에서 안내한 보안번호는 394 로 등록되었습니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"394","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":729,"content":"결제 시스템에서 CVC 코드는 816 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"816","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":730,"content":"카드 결제용 보안번호 572 로 거래를 진행합니다. 그리고 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"572","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":731,"content":"비대면 거래 승인을 위해 보안코드는 209 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"209","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":732,"content":"온라인 쇼핑 인증용 보안번호는 743 입니다. 먼저 장바구니 내역을 확인해주세요.","has_sensitive":true,"entities":[{"value":"743","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":733,"content":"고객님의 카드 CVV 번호는 586 로 확인됩니다. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"586","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":734,"content":"신용카드 보안 인증 번호는 931 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"931","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":735,"content":"카드 비대면 인증을 위한 보안번호는 468 입니다. 참고로 카드 뒷면에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"468","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":736,"content":"온라인 결제 시 보안코드 725 가 필요합니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"725","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":737,"content":"비대면 인증용 보안번호는 391 입니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"391","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":738,"content":"고객님께서 요청하신 보안코드는 857 로 설정되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"857","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":739,"content":"결제 승인용 보안 인증 코드 634 로 거래를 진행합니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"634","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":740,"content":"카드 결제 보안코드는 279 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"279","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":741,"content":"비대면 거래용 CVV 번호 518 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"518","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":742,"content":"온라인 쇼핑 결제 시 보안번호는 842 입니다. 그리고 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"842","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":743,"content":"고객님의 카드 보안번호 705 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"705","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":744,"content":"신용카드 인증용 보안번호는 961 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"961","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":745,"content":"카드 인증 시 CVC 코드 438 이 요구됩니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"438","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":746,"content":"비대면 결제를 위해 보안번호는 672 입니다. 다만 공용 컴퓨터에서는 사용을 자제하세요.","has_sensitive":true,"entities":[{"value":"672","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":747,"content":"온라인 거래 승인용 보안코드는 526 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"526","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":748,"content":"고객센터 상담 중 확인된 보안번호 183 을 사용하시기 바랍니다. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"183","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":749,"content":"결제 시스템에서 보안번호는 749 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"749","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":750,"content":"카드 결제용 보안코드 365 로 인증을 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"365","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":751,"content":"비대면 인증을 위한 보안번호는 891 입니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"891","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":752,"content":"온라인 쇼핑 결제용 보안번호는 527 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"527","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":753,"content":"고객님의 보안 인증 코드는 214 로 설정되어 있습니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"214","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":754,"content":"신용카드 결제 시 CVV 번호는 682 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"682","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":755,"content":"카드 뒷면의 보안코드는 437 입니다. 아울러 카드 명의자 본인만 사용하셔야 합니다.","has_sensitive":true,"entities":[{"value":"437","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":756,"content":"비대면 결제 인증을 위해 보안번호 905 로 거래가 처리됩니다. 먼저 장바구니를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"905","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":757,"content":"온라인 거래 보안코드는 758 입니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"758","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":758,"content":"고객님께서 입력하신 보안번호는 321 로 등록되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"321","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":759,"content":"결제 승인을 위해 보안 인증 코드는 594 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"594","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":760,"content":"카드 결제 시스템에서 보안코드는 816 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"816","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":761,"content":"비대면 거래용 보안번호는 473 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"473","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":762,"content":"온라인 쇼핑 인증용 CVC 코드는 652 입니다. 먼저 회원 로그인을 완료해주세요.","has_sensitive":true,"entities":[{"value":"652","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":763,"content":"고객님의 카드 보안번호는 289 로 확인됩니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"289","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":764,"content":"신용카드 인증을 위한 보안번호는 741 입니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"741","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":765,"content":"카드 비대면 인증용 보안번호 536 을 입력하시기 바랍니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"536","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":766,"content":"온라인 결제 시 보안코드는 918 입니다. 그리고 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"918","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":767,"content":"비대면 거래 승인을 위해 보안번호는 304 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"304","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":768,"content":"고객센터에서 발급한 보안번호는 627 로 설정되었습니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"627","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":769,"content":"결제 시스템에서 CVV 코드는 485 입니다. 또한 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"485","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":770,"content":"카드 결제 보안번호 753 로 거래를 진행합니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"753","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":771,"content":"비대면 인증용 보안코드는 169 입니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"169","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":772,"content":"온라인 쇼핑 결제 시 보안번호는 891 입니다. 그리고 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"891","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":773,"content":"고객님의 보안 인증 번호 542 를 사용하여 결제하세요. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"542","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":774,"content":"신용카드 결제용 보안코드는 376 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"376","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":775,"content":"카드 뒷면 보안번호 928 이 요청되고 있습니다. 또한 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"928","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":776,"content":"비대면 결제를 위해 보안번호는 614 입니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"614","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":777,"content":"온라인 거래 인증용 보안코드는 257 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"257","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":778,"content":"고객님께서 요청하신 보안번호 839 로 인증을 진행합니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"839","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":779,"content":"결제 승인용 보안 인증 코드는 471 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"471","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":780,"content":"카드 보안 인증을 위한 CVV 코드는 695 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"695","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":781,"content":"비대면 거래용 보안번호는 382 입니다. 또한 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"382","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":782,"content":"온라인 쇼핑 인증용 보안코드 517 로 결제가 진행됩니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"517","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":783,"content":"고객님의 카드 보안번호는 846 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"846","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":784,"content":"신용카드 인증용 보안번호는 203 입니다. 그리고 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"203","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":785,"content":"카드 비대면 인증을 위한 보안번호 729 을 입력하세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"729","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":786,"content":"온라인 결제 시 보안코드는 564 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"564","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":787,"content":"비대면 거래 승인용 보안번호는 918 입니다. 또한 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"918","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":788,"content":"고객센터 상담 중 확인된 보안번호는 435 로 등록되었습니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"435","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":789,"content":"결제 시스템에서 보안번호는 672 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"672","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":790,"content":"카드 결제용 보안코드 801 로 인증을 진행합니다. 그리고 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"801","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":791,"content":"비대면 인증용 보안번호는 546 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"546","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":792,"content":"온라인 쇼핑 결제 시 보안번호는 293 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"293","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":793,"content":"고객님의 보안 인증 코드는 718 로 확인됩니다. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"718","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":794,"content":"신용카드 결제 시 CVV 번호는 459 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"459","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":795,"content":"카드 뒷면의 보안코드는 637 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"637","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":796,"content":"비대면 결제 인증을 위해 보안번호는 824 입니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"824","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":797,"content":"온라인 거래 보안코드 501 로 거래를 진행합니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"501","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":798,"content":"고객님께서 입력하신 보안코드는 963 로 설정되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"963","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":799,"content":"결제 승인을 위해 보안 인증 코드는 217 입니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"217","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":800,"content":"카드 결제 시스템에서 보안번호는 785 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"785","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":801,"content":"비대면 거래용 보안코드 342 를 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"342","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":802,"content":"온라인 쇼핑 인증용 보안번호는 698 입니다. 그리고 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"698","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":803,"content":"고객님의 카드 보안번호 451 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"451","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":804,"content":"신용카드 인증용 보안번호는 836 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"836","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":805,"content":"카드 비대면 인증을 위한 보안코드 179 을 확인하시기 바랍니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"179","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":806,"content":"온라인 결제 시 보안번호는 524 입니다. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"524","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":807,"content":"비대면 거래 승인을 위해 보안코드는 917 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"917","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":808,"content":"고객센터에서 안내한 보안번호 263 을 사용하세요. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"263","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":809,"content":"결제 시스템에서 CVV 코드는 748 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"748","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":810,"content":"카드 결제 보안번호 506 로 인증을 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"506","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":811,"content":"비대면 인증을 위한 보안번호는 829 입니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"829","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":812,"content":"온라인 쇼핑 결제용 보안코드는 415 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"415","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":813,"content":"고객님의 보안 인증 번호 672 를 준비해주세요. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"672","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":814,"content":"신용카드 결제 시 보안번호는 394 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"394","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":815,"content":"카드 뒷면 보안코드 851 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"851","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":816,"content":"비대면 결제를 위해 보안번호 536 이 발급되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"536","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":817,"content":"온라인 거래 인증용 보안코드는 729 입니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"729","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":818,"content":"고객님께서 요청하신 보안번호는 481 로 등록되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"481","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":819,"content":"결제 승인용 보안 인증 코드는 692 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"692","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":820,"content":"카드 보안 인증을 위한 번호는 318 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"318","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":821,"content":"비대면 거래용 보안번호는 754 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"754","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":822,"content":"온라인 쇼핑몰에서 보안코드 287 로 인증을 진행합니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"287","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":823,"content":"고객님의 카드 CVV 번호는 935 로 확인됩니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"935","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":824,"content":"신용카드 인증을 위한 보안번호는 612 입니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"612","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":825,"content":"카드 비대면 인증용 보안번호는 478 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"478","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":826,"content":"온라인 결제 시 보안코드 843 을 입력해주세요. 그리고 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"843","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":827,"content":"비대면 거래 승인용 보안번호는 156 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"156","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":828,"content":"고객센터에서 발급한 보안번호는 791 로 설정되었습니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"791","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":829,"content":"결제 시스템에서 보안번호는 524 입니다. 또한 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"524","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":830,"content":"카드 결제용 보안번호는 368 입니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"368","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":831,"content":"비대면 인증용 보안코드 917 로 거래를 진행합니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"917","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":832,"content":"온라인 쇼핑 결제 시 보안번호는 245 입니다. 그리고 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"245","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":833,"content":"고객님의 보안 인증 번호는 683 로 등록되었습니다. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"683","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":834,"content":"신용카드 결제용 보안코드는 429 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"429","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":835,"content":"카드 뒷면 보안번호는 576 입니다. 또한 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"576","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":836,"content":"비대면 결제를 위해 보안번호는 802 입니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"802","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":837,"content":"온라인 거래 인증용 보안코드 941 로 인증을 진행합니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"941","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":838,"content":"고객님께서 입력하신 보안번호 357 이 확인되었습니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"357","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":839,"content":"결제 승인을 위해 보안 인증 코드는 619 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"619","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":840,"content":"카드 결제 시스템에서 보안번호는 784 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"784","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":841,"content":"비대면 거래용 보안코드 251 을 사용하여 결제하세요. 또한 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"251","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":842,"content":"온라인 쇼핑 인증용 보안번호는 936 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"936","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":843,"content":"고객님의 카드 보안번호는 473 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"473","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":844,"content":"신용카드 인증용 보안번호는 528 입니다. 그리고 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"528","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":845,"content":"카드 비대면 인증을 위한 보안번호 814 를 준비해주세요. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"814","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":846,"content":"온라인 결제 시 보안번호는 697 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"697","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":847,"content":"비대면 거래 승인을 위해 보안코드 352 이 등록되었습니다. 또한 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"352","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":848,"content":"고객센터 상담 중 확인된 보안번호는 718 로 확인됩니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"718","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":849,"content":"결제 시스템에서 보안번호는 465 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"465","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":850,"content":"카드 결제 보안코드는 829 입니다. 그리고 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"829","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":851,"content":"비대면 인증용 보안번호는 591 입니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"591","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":852,"content":"온라인 쇼핑 결제 시 보안번호 246 로 결제가 진행됩니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"246","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":853,"content":"고객님의 보안 인증 코드는 783 로 설정되었습니다. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"783","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":854,"content":"신용카드 결제 시 CVV 번호는 941 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"941","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":855,"content":"카드 뒷면의 보안코드는 356 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"356","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":856,"content":"비대면 결제 인증을 위해 보안번호 627 로 거래를 진행합니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"627","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":857,"content":"온라인 거래 보안코드는 419 입니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"419","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":858,"content":"고객님께서 요청하신 보안번호는 582 로 등록되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"582","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":859,"content":"결제 승인을 위해 보안 인증 코드는 934 입니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"934","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":860,"content":"카드 보안 인증을 위한 보안번호는 276 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"276","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":861,"content":"비대면 거래용 보안번호는 758 입니다. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"758","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":862,"content":"온라인 쇼핑 인증용 보안코드는 413 입니다. 그리고 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"413","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":863,"content":"고객님의 카드 보안번호 869 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"869","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":864,"content":"신용카드 인증용 보안번호는 521 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"521","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":865,"content":"카드 비대면 인증을 위한 보안번호는 697 입니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"697","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":866,"content":"온라인 결제 시 보안코드는 384 입니다. 다만 공용 PC에서는 사용을 자제하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"384","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":867,"content":"비대면 거래 승인을 위해 보안번호는 715 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"715","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":868,"content":"고객센터에서 안내한 보안번호 932 을 사용하시기 바랍니다. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"932","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":869,"content":"결제 시스템에서 보안번호는 548 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"548","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":870,"content":"카드 결제 보안코드 263 로 거래를 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"263","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":871,"content":"비대면 인증을 위한 보안번호는 879 입니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"879","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":872,"content":"온라인 쇼핑 결제용 보안번호는 426 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"426","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":873,"content":"고객님의 보안 인증 번호는 751 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"751","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":874,"content":"신용카드 결제 시 보안번호는 592 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"592","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":875,"content":"카드 뒷면 보안번호 318 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"318","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":876,"content":"비대면 결제를 위해 보안번호는 645 입니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"645","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":877,"content":"온라인 거래 인증용 보안코드 827 로 결제가 진행됩니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"827","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":878,"content":"고객님께서 입력하신 보안번호는 194 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"194","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":879,"content":"결제 승인용 보안 인증 코드는 736 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"736","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":880,"content":"카드 결제 시스템에서 보안코드는 485 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"485","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":881,"content":"비대면 거래용 보안번호는 621 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"621","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":882,"content":"온라인 쇼핑몰에서 보안코드는 379 입니다. 먼저 회원 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"379","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":883,"content":"고객님의 카드 보안번호는 952 로 등록되었습니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"952","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":884,"content":"신용카드 인증을 위한 보안번호는 764 입니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"764","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":885,"content":"카드 비대면 인증용 보안번호는 281 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"281","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":886,"content":"온라인 결제 시 보안코드 537 을 입력해주세요. 그리고 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"537","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":887,"content":"비대면 거래 승인용 보안번호는 893 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"893","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":888,"content":"고객센터 상담 중 확인된 보안번호 416 를 사용하세요. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"416","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":889,"content":"결제 시스템에서 보안번호는 729 입니다. 또한 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"729","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":890,"content":"카드 결제용 보안번호는 564 입니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"564","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":891,"content":"비대면 인증용 보안코드 218 로 인증을 진행합니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"218","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":892,"content":"온라인 쇼핑 결제 시 보안번호는 945 입니다. 그리고 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"945","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":893,"content":"고객님의 보안 인증 번호 682 를 준비해주시기 바랍니다. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"682","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":894,"content":"신용카드 결제용 보안코드는 371 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"371","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":895,"content":"카드 뒷면의 보안번호는 826 입니다. 또한 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"826","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":896,"content":"비대면 결제를 위해 보안번호 539 로 거래를 진행합니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"539","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":897,"content":"온라인 거래 인증용 보안코드는 147 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"147","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":898,"content":"고객님께서 요청하신 보안번호 694 로 인증을 진행합니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"694","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":899,"content":"결제 승인을 위해 보안 인증 코드는 853 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"853","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":900,"content":"카드 보안 인증을 위한 번호는 417 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"417","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":901,"content":"비대면 거래용 보안번호 736 을 사용하여 결제하세요. 또한 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"736","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":902,"content":"온라인 쇼핑 인증용 보안코드는 281 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"281","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":903,"content":"고객님의 카드 보안번호는 569 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"569","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":904,"content":"신용카드 인증용 보안번호는 932 입니다. 그리고 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"932","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":905,"content":"카드 비대면 인증을 위한 보안번호 475 를 입력하시기 바랍니다. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"475","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":906,"content":"온라인 결제 시 보안번호는 618 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"618","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":907,"content":"비대면 거래 승인용 보안번호는 824 입니다. 또한 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"824","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":908,"content":"고객센터에서 발급한 보안번호 351 을 사용하시기 바랍니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"351","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":909,"content":"결제 시스템에서 보안번호는 796 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"796","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":910,"content":"카드 결제 보안코드는 542 입니다. 그리고 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"542","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":911,"content":"비대면 인증용 보안코드 189 로 거래를 진행합니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"189","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":912,"content":"온라인 쇼핑 결제 시 보안번호는 673 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"673","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":913,"content":"고객님의 보안 인증 코드 429 를 준비해주세요. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"429","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":914,"content":"신용카드 결제 시 보안번호는 815 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"815","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":915,"content":"카드 뒷면 보안번호는 267 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"267","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":916,"content":"비대면 결제 인증을 위해 보안번호는 943 입니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"943","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":917,"content":"온라인 거래 보안코드 586 로 결제가 진행됩니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"586","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":918,"content":"고객님께서 입력하신 보안번호는 721 로 등록되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"721","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":919,"content":"결제 승인용 보안 인증 코드는 398 입니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"398","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":920,"content":"카드 결제 시스템에서 보안코드는 654 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"654","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":921,"content":"비대면 거래용 보안번호 217 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"217","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":922,"content":"온라인 쇼핑 인증용 보안번호는 849 입니다. 그리고 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"849","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":923,"content":"고객님의 카드 보안번호 736 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"736","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":924,"content":"신용카드 인증용 보안번호는 492 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"492","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":925,"content":"카드 비대면 인증을 위한 보안번호는 581 입니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"581","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":926,"content":"온라인 결제 시 보안코드 925 를 입력해주세요. 다만 공용 와이파이 사용 시 주의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"925","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":927,"content":"비대면 거래 승인을 위해 보안번호는 367 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"367","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":928,"content":"고객센터 상담 중 확인된 보안번호는 814 로 설정되었습니다. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"814","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":929,"content":"결제 시스템에서 보안번호는 659 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"659","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":930,"content":"카드 결제 보안코드 421 로 거래를 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"421","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":931,"content":"비대면 인증을 위한 보안번호는 753 입니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"753","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":932,"content":"온라인 쇼핑 결제용 보안코드는 286 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"286","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":933,"content":"고객님의 보안 인증 번호는 938 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"938","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":934,"content":"신용카드 결제 시 보안번호는 574 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"574","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":935,"content":"카드 뒷면 보안코드 162 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"162","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":936,"content":"비대면 결제를 위해 보안번호 819 이 등록되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"819","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":937,"content":"온라인 거래 인증용 보안코드는 435 입니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"435","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":938,"content":"고객님께서 요청하신 보안번호는 672 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"672","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":939,"content":"결제 승인을 위해 보안 인증 코드는 591 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"591","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":940,"content":"카드 보안 인증을 위한 번호는 328 입니다. 그리고 거래 승인까지 시간이 소요될 수 있습니다.","has_sensitive":true,"entities":[{"value":"328","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":941,"content":"비대면 거래용 보안번호는 746 입니다. 아울러 포인트 적립은 자동으로 됩니다.","has_sensitive":true,"entities":[{"value":"746","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":942,"content":"온라인 쇼핑몰에서 보안코드는 219 입니다. 먼저 회원 로그인을 완료해주세요.","has_sensitive":true,"entities":[{"value":"219","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":943,"content":"고객님의 카드 보안번호는 857 로 등록되었습니다. 또한 결제 완료 후 영수증을 출력할 수 있습니다.","has_sensitive":true,"entities":[{"value":"857","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":944,"content":"신용카드 인증을 위한 보안번호는 493 입니다. 다만 유효기간이 만료되지 않았는지 확인하세요.","has_sensitive":true,"entities":[{"value":"493","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":945,"content":"카드 비대면 인증용 보안번호는 634 입니다. 참고로 카드 뒷면에 인쇄되어 있습니다.","has_sensitive":true,"entities":[{"value":"634","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":946,"content":"온라인 결제 시 보안코드 278 을 입력하시기 바랍니다. 그리고 배송 추적은 실시간으로 가능합니다.","has_sensitive":true,"entities":[{"value":"278","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":947,"content":"비대면 거래 승인용 보안번호는 915 입니다. 아울러 결제 취소는 당일에만 가능합니다.","has_sensitive":true,"entities":[{"value":"915","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":948,"content":"고객센터에서 안내한 보안번호는 546 로 확인됩니다. 먼저 본인 인증 절차가 완료되어야 합니다.","has_sensitive":true,"entities":[{"value":"546","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":949,"content":"결제 시스템에서 보안번호는 782 입니다. 또한 해외 사이트 결제 시 환율을 확인하세요.","has_sensitive":true,"entities":[{"value":"782","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":950,"content":"카드 결제용 보안번호 319 로 인증을 진행합니다. 다만 3회 오류 시 카드가 일시 정지됩니다.","has_sensitive":true,"entities":[{"value":"319","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":951,"content":"비대면 인증용 보안코드는 461 입니다. 참고로 이 정보는 통화 중에만 유효합니다.","has_sensitive":true,"entities":[{"value":"461","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":952,"content":"온라인 쇼핑 결제 시 보안번호는 827 입니다. 그리고 쿠폰 사용 전 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"827","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":953,"content":"고객님의 보안 인증 번호 594 를 사용하여 결제하세요. 아울러 이 코드는 정기적으로 변경됩니다.","has_sensitive":true,"entities":[{"value":"594","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":954,"content":"신용카드 결제용 보안코드는 738 입니다. 먼저 결제 방법을 선택해주세요.","has_sensitive":true,"entities":[{"value":"738","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":955,"content":"카드 뒷면의 보안번호는 152 입니다. 또한 이 정보는 타인에게 절대 알려주지 마세요.","has_sensitive":true,"entities":[{"value":"152","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":956,"content":"비대면 결제를 위해 보안번호는 683 입니다. 다만 네트워크 보안 상태를 확인해주세요.","has_sensitive":true,"entities":[{"value":"683","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":957,"content":"온라인 거래 인증용 보안코드는 456 입니다. 참고로 결제 완료까지 약간의 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"456","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":958,"content":"고객님께서 입력하신 보안번호 789 로 인증을 진행합니다. 그리고 거래 승인 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"789","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":959,"content":"결제 승인을 위해 보안 인증 코드는 234 입니다. 아울러 할부 수수료를 미리 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"234","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":960,"content":"카드 보안 인증을 위한 보안번호는 567 입니다. 먼저 카드 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"567","begin":21,"end":24,"label":"CARD_CVV"}]}
+{"id":961,"content":"비대면 거래용 보안번호는 891 입니다. 또한 결제 한도를 초과하지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"891","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":962,"content":"온라인 쇼핑 인증용 보안코드는 312 입니다. 다만 판매자 정보를 먼저 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"312","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":963,"content":"고객님의 카드 보안번호는 645 로 설정되어 있습니다. 참고로 정기적인 변경을 권장합니다.","has_sensitive":true,"entities":[{"value":"645","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":964,"content":"신용카드 인증용 보안번호는 729 입니다. 그리고 영수증 발급은 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"729","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":965,"content":"카드 비대면 인증을 위한 보안번호 483 을 입력하시기 바랍니다. 아울러 본인 명의 카드만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"483","begin":22,"end":25,"label":"CARD_CVV"}]}
+{"id":966,"content":"온라인 결제 시 보안번호는 156 입니다. 먼저 쿠폰 적용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"156","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":967,"content":"비대면 거래 승인용 보안번호는 924 입니다. 또한 SMS로 거래 내역이 전송됩니다.","has_sensitive":true,"entities":[{"value":"924","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":968,"content":"고객센터에서 발급한 보안번호 837 을 사용하시기 바랍니다. 다만 5분 이내에 사용하셔야 유효합니다.","has_sensitive":true,"entities":[{"value":"837","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":969,"content":"결제 시스템에서 보안번호는 472 입니다. 참고로 결제 전 약관 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"472","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":970,"content":"카드 결제 보안코드는 685 입니다. 그리고 간편결제로 등록하면 다음부터 편리합니다.","has_sensitive":true,"entities":[{"value":"685","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":971,"content":"비대면 인증용 보안코드 319 로 거래를 진행합니다. 아울러 거래 완료 후 알림톡을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"319","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":972,"content":"온라인 쇼핑 결제 시 보안번호는 541 입니다. 먼저 회원 등급별 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"541","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":973,"content":"고객님의 보안 인증 코드 796 를 준비해주세요. 또한 결제 금액을 최종 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"796","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":974,"content":"신용카드 결제 시 보안번호는 238 입니다. 다만 입력 시간이 제한되어 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"238","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":975,"content":"카드 뒷면 보안번호는 864 입니다. 참고로 카드 분실 시 즉시 정지하세요.","has_sensitive":true,"entities":[{"value":"864","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":976,"content":"비대면 결제 인증을 위해 보안번호는 417 입니다. 그리고 결제 후 영수증을 보관하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"417","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":977,"content":"온라인 거래 보안코드 593 로 결제가 진행됩니다. 아울러 포인트 사용 여부를 선택하세요.","has_sensitive":true,"entities":[{"value":"593","begin":13,"end":16,"label":"CARD_CVV"}]}
+{"id":978,"content":"고객님께서 요청하신 보안번호는 726 로 등록되었습니다. 먼저 배송 주소를 확인해주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"726","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":979,"content":"결제 승인용 보안 인증 코드는 381 입니다. 또한 무이자 할부 가능 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"381","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":980,"content":"카드 결제 시스템에서 보안코드는 925 입니다. 다만 3회 오류 시 거래가 취소됩니다.","has_sensitive":true,"entities":[{"value":"925","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":981,"content":"비대면 거래용 보안번호 648 을 사용하여 결제하세요. 참고로 해외 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"648","begin":15,"end":18,"label":"CARD_CVV"}]}
+{"id":982,"content":"온라인 쇼핑 인증용 보안번호는 512 입니다. 그리고 적립금 사용 가능 여부를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"512","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":983,"content":"고객님의 카드 보안번호 879 로 결제가 승인되었습니다. 아울러 거래 내역은 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"879","begin":14,"end":17,"label":"CARD_CVV"}]}
+{"id":984,"content":"신용카드 인증용 보안번호는 234 입니다. 먼저 상품 상세 설명을 확인하세요.","has_sensitive":true,"entities":[{"value":"234","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":985,"content":"카드 비대면 인증을 위한 보안번호는 761 입니다. 또한 결제 완료 후 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"761","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":986,"content":"온라인 결제 시 보안코드 405 를 입력해주세요. 다만 공용 컴퓨터에서는 사용을 자제하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"405","begin":16,"end":19,"label":"CARD_CVV"}]}
+{"id":987,"content":"비대면 거래 승인을 위해 보안번호는 638 입니다. 참고로 이 코드는 일회용으로만 사용됩니다.","has_sensitive":true,"entities":[{"value":"638","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":988,"content":"고객센터 상담 중 확인된 보안번호는 917 로 설정되었습니다. 그리고 본인 확인을 위해 추가 정보가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"917","begin":24,"end":27,"label":"CARD_CVV"}]}
+{"id":989,"content":"결제 시스템에서 보안번호는 543 입니다. 아울러 할부 개월 수를 선택하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"543","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":990,"content":"카드 결제 보안코드 286 로 거래를 진행합니다. 먼저 결제 수단을 등록해주세요.","has_sensitive":true,"entities":[{"value":"286","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":991,"content":"비대면 인증을 위한 보안번호는 872 입니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"872","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":992,"content":"온라인 쇼핑 결제용 보안코드는 419 입니다. 다만 결제 한도를 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"419","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":993,"content":"고객님의 보안 인증 번호는 605 로 확인됩니다. 참고로 변경을 원하시면 고객센터로 문의하세요.","has_sensitive":true,"entities":[{"value":"605","begin":17,"end":20,"label":"CARD_CVV"}]}
+{"id":994,"content":"신용카드 결제 시 보안번호는 731 입니다. 그리고 배송비 무료 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"731","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":995,"content":"카드 뒷면 보안코드 948 을 입력하시기 바랍니다. 아울러 카드 명의자 본인만 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"948","begin":12,"end":15,"label":"CARD_CVV"}]}
+{"id":996,"content":"비대면 결제를 위해 보안번호 526 이 발급되었습니다. 먼저 장바구니 내역을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"526","begin":18,"end":21,"label":"CARD_CVV"}]}
+{"id":997,"content":"온라인 거래 인증용 보안코드는 314 입니다. 또한 결제 전 최종 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"314","begin":19,"end":22,"label":"CARD_CVV"}]}
+{"id":998,"content":"고객님께서 입력하신 보안번호는 782 로 설정되었습니다. 다만 이 정보는 외부 공유를 금지합니다.","has_sensitive":true,"entities":[{"value":"782","begin":20,"end":23,"label":"CARD_CVV"}]}
+{"id":999,"content":"결제 승인을 위해 보안 인증 코드는 459 입니다. 참고로 SMS 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"459","begin":23,"end":26,"label":"CARD_CVV"}]}
+{"id":1000,"content":"카드 보안 인증 번호 637 로 모든 거래가 완료되었습니다. 그리고 영수증은 이메일로 자동 전송됩니다.","has_sensitive":true,"entities":[{"value":"637","begin":13,"end":16,"label":"CARD_CVV"}]}

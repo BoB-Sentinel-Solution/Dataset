@@ -1,0 +1,1000 @@
+{"id":1,"content":"고객님의 입금 계좌번호는 110-123-456789 입니다. 송금 시 반드시 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"110-123-456789","begin":17,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":2,"content":"계좌이체는 1002-123-456789 로 부탁드립니다. 입금 후 확인 연락 주시면 감사하겠습니다.","has_sensitive":true,"entities":[{"value":"1002-123-456789","begin":8,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":3,"content":"환불 처리를 위해 302-1234-1234-11 계좌로 입금 예정입니다. 영업일 기준 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"302-1234-1234-11","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":4,"content":"급여 입금 계좌는 790-910123-12345 으로 등록되었습니다. 다음 달부터 해당 계좌로 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-910123-12345","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":5,"content":"결제 대금은 123456789012 계좌로 입금 부탁드립니다. 세금계산서는 별도 발송 예정입니다.","has_sensitive":true,"entities":[{"value":"123456789012","begin":8,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":6,"content":"보증금 환급을 위한 계좌번호 1234567890 확인 부탁드립니다. 다음 주 월요일까지 처리됩니다.","has_sensitive":true,"entities":[{"value":"1234567890","begin":18,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":7,"content":"후원금은 110-234-567890 으로 송금해 주시면 됩니다. 영수증은 이메일로 발급해 드리겠습니다.","has_sensitive":true,"entities":[{"value":"110-234-567890","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":8,"content":"신규 거래처 입금 계좌는 302-5678-9012-34 입니다. 또한 세금계산서 발행이 필요합니다.","has_sensitive":true,"entities":[{"value":"302-5678-9012-34","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":9,"content":"주문하신 상품의 환불 금액이 1002-987-654321 로 입금 완료되었습니다. 확인 부탁드립니다.","has_sensitive":true,"entities":[{"value":"1002-987-654321","begin":20,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":10,"content":"회비 납부는 790-123456-78901 계좌로 진행해 주세요. 입금자명은 본인 성함으로 기재 바랍니다.","has_sensitive":true,"entities":[{"value":"790-123456-78901","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":11,"content":"구매 대금 98765432101 로 입금 확인되었습니다. 상품은 내일 출고 예정입니다.","has_sensitive":true,"entities":[{"value":"98765432101","begin":7,"end":18,"label":"BANK_ACCOUNT"}]}
+{"id":12,"content":"계약금은 110-987-654321 으로 송금 부탁드립니다. 계약서는 우편으로 발송하겠습니다.","has_sensitive":true,"entities":[{"value":"110-987-654321","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":13,"content":"등록금 납부 계좌번호는 302-1111-2222-33 입니다. 분할 납부도 가능하니 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"302-1111-2222-33","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":14,"content":"월세 자동이체 계좌 1002-555-666777 로 설정 완료하였습니다. 매월 1일에 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"1002-555-666777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":15,"content":"상품권 환급 금액을 790-888888-99999 로 보내드렸습니다. 영업일 기준으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"790-888888-99999","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":16,"content":"회원 가입 축하금은 55566677788 계좌로 지급 예정입니다. 가입 완료 후 7일 이내 입금됩니다.","has_sensitive":true,"entities":[{"value":"55566677788","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":17,"content":"세미나 참가비 110-444-555666 으로 입금 부탁드립니다. 등록 마감은 이번 주 금요일입니다.","has_sensitive":true,"entities":[{"value":"110-444-555666","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":18,"content":"수강료 환불이 302-9999-8888-77 계좌로 완료되었습니다. 문의사항은 고객센터로 연락주세요.","has_sensitive":true,"entities":[{"value":"302-9999-8888-77","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":19,"content":"프로젝트 대금은 1002-777-888999 로 송금 예정입니다. 세부 내역은 첨부 파일 참조 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-777-888999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":20,"content":"보험금 지급 계좌번호 790-333333-44444 확인 부탁드립니다. 서류 검토 후 5일 내 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-44444","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":21,"content":"경조사비는 12341234567 로 입금해 주시면 감사하겠습니다. 참석 여부는 별도 연락 주세요.","has_sensitive":true,"entities":[{"value":"12341234567","begin":7,"end":18,"label":"BANK_ACCOUNT"}]}
+{"id":22,"content":"위약금 청구 금액을 110-222-333444 계좌로 납부 바랍니다. 납부 기한은 이번 달 말일까지입니다.","has_sensitive":true,"entities":[{"value":"110-222-333444","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":23,"content":"장학금은 302-7777-6666-55 로 지급 완료되었습니다. 수령 확인서는 학교 홈페이지에서 출력 가능합니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-55","begin":6,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":24,"content":"임대료 입금은 1002-111-222333 으로 매월 진행 부탁드립니다. 관리비는 별도 계좌입니다.","has_sensitive":true,"entities":[{"value":"1002-111-222333","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":25,"content":"적립금 환급 계좌 790-555555-66666 등록이 완료되었습니다. 다음 달부터 자동 적립됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":26,"content":"행사 후원금은 87654321098 으로 송금 부탁드립니다. 후원자 명단은 홈페이지에 게시됩니다.","has_sensitive":true,"entities":[{"value":"87654321098","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":27,"content":"계약 해지 환급금이 110-666-777888 로 입금 예정입니다. 처리 기간은 약 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"110-666-777888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":28,"content":"구독료 결제는 302-4444-3333-22 계좌로 자동이체 설정 바랍니다. 해지는 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"302-4444-3333-22","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":29,"content":"수출 대금 1002-999-888777 로 송금 완료하였습니다. 통관 서류는 이메일로 전달드렸습니다.","has_sensitive":true,"entities":[{"value":"1002-999-888777","begin":7,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":30,"content":"포인트 현금화는 790-121212-34343 계좌로 신청 가능합니다. 최소 금액은 1만원부터입니다.","has_sensitive":true,"entities":[{"value":"790-121212-34343","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":31,"content":"연회비 환불 금액 11223344556 입금 처리되었습니다. 영수증은 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"11223344556","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":32,"content":"납품 대금은 110-101-202303 으로 입금 예정입니다. 세금계산서는 익월 10일 발행됩니다.","has_sensitive":true,"entities":[{"value":"110-101-202303","begin":9,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":33,"content":"예치금 반환 계좌번호 302-8888-9999-00 확인 부탁드립니다. 반환 신청서는 팩스로 송부 바랍니다.","has_sensitive":true,"entities":[{"value":"302-8888-9999-00","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":34,"content":"기부금은 1002-333-444555 로 송금해 주시기 바랍니다. 기부 영수증은 연말에 일괄 발급됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-444555","begin":6,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":35,"content":"손해배상금 지급 계좌 790-999999-11111 로 이체 완료되었습니다. 합의서는 등기우편으로 발송합니다.","has_sensitive":true,"entities":[{"value":"790-999999-11111","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":36,"content":"판매 수익금 33344455566 계좌로 입금 확인했습니다. 정산 내역은 첨부 파일을 참고하세요.","has_sensitive":true,"entities":[{"value":"33344455566","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":37,"content":"보증금은 110-777-888999 으로 납부 부탁드립니다. 계약 체결 시 현금영수증 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"110-777-888999","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":38,"content":"연구비 지원금이 302-5555-4444-33 로 입금되었습니다. 사용 내역은 분기별로 보고 바랍니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-33","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":39,"content":"대출 상환은 1002-888-777666 계좌로 자동이체 됩니다. 상환 일정은 별도 안내문을 확인하세요.","has_sensitive":true,"entities":[{"value":"1002-888-777666","begin":9,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":40,"content":"환급 세액 790-444444-55555 로 지급 예정입니다. 국세청 심사 완료 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-55555","begin":7,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":41,"content":"수강료는 99988877766 으로 입금 부탁드립니다. 입금자명에 수강생 이름을 꼭 기재해 주세요.","has_sensitive":true,"entities":[{"value":"99988877766","begin":6,"end":17,"label":"BANK_ACCOUNT"}]}
+{"id":42,"content":"사업자 등록 후 110-555-666777 계좌로 개설 완료되었습니다. 통장 사본은 우편으로 수령하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"110-555-666777","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":43,"content":"정산 금액은 302-3333-2222-11 로 송금 완료했습니다. 정산서는 전자문서로 발송되었습니다.","has_sensitive":true,"entities":[{"value":"302-3333-2222-11","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":44,"content":"지원금 신청 계좌번호 1002-444-555666 입력 완료하였습니다. 심사 결과는 2주 후 통보됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-555666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":45,"content":"용역비는 790-777777-88888 로 지급 예정입니다. 원천세 공제 후 입금되니 참고 바랍니다.","has_sensitive":true,"entities":[{"value":"790-777777-88888","begin":6,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":46,"content":"주문 취소로 인한 환불액 66677788899 입금 처리되었습니다. 카드 취소는 3일 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"66677788899","begin":17,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":47,"content":"멤버십 갱신비는 110-888-999000 으로 납부해 주세요. 갱신 완료 시 혜택이 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"110-888-999000","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":48,"content":"입찰 보증금 302-6666-7777-88 계좌로 입금 바랍니다. 낙찰 시 계약금으로 전환됩니다.","has_sensitive":true,"entities":[{"value":"302-6666-7777-88","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":49,"content":"출장비 정산은 1002-222-333444 로 신청 완료되었습니다. 증빙 서류는 스캔하여 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-222-333444","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":50,"content":"배당금 지급 계좌 790-666666-77777 등록하셨습니다. 지급일은 주주총회 이후 안내됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":51,"content":"강좌 수강료 22233344455 으로 결제 부탁드립니다. 결제 완료 후 수강증이 발급됩니다.","has_sensitive":true,"entities":[{"value":"22233344455","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":52,"content":"위로금은 110-999-000111 계좌로 입금 완료되었습니다. 수령 확인 후 회신 부탁드립니다.","has_sensitive":true,"entities":[{"value":"110-999-000111","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":53,"content":"공과금 자동납부 302-1111-9999-88 로 설정 완료했습니다. 매월 25일에 자동 출금됩니다.","has_sensitive":true,"entities":[{"value":"302-1111-9999-88","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":54,"content":"컨설팅 비용은 1002-666-777888 으로 송금 예정입니다. 계약서는 양측 서명 후 교부됩니다.","has_sensitive":true,"entities":[{"value":"1002-666-777888","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":55,"content":"상여금 지급 계좌번호 790-222222-33333 확인 바랍니다. 성과 평가 완료 후 일괄 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-33333","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":56,"content":"이벤트 당첨금 44455566677 입금 완료되었습니다. 당첨 소식은 문자로도 발송되었습니다.","has_sensitive":true,"entities":[{"value":"44455566677","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":57,"content":"협찬금은 110-111-222333 으로 입금 부탁드립니다. 협찬 내역은 행사장에 게시됩니다.","has_sensitive":true,"entities":[{"value":"110-111-222333","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":58,"content":"수수료 환불이 302-9999-0000-11 계좌로 처리되었습니다. 영수증은 앱에서 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"302-9999-0000-11","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":59,"content":"지급 계좌는 1002-555-888999 입니다. 또한 계좌 변경 시 즉시 통보 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-555-888999","begin":8,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":60,"content":"퇴직금 입금 계좌 790-888888-00000 로 신청되었습니다. 퇴사 처리 완료 후 7일 이내 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-00000","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":61,"content":"프리랜서 대금 77788899900 으로 송금 완료했습니다. 세금 신고는 각자 진행 부탁드립니다.","has_sensitive":true,"entities":[{"value":"77788899900","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":62,"content":"등록비는 110-333-444555 계좌로 납부 바랍니다. 등록 마감은 선착순으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-333-444555","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":63,"content":"설계비 지급은 302-7777-8888-99 로 예정되어 있습니다. 최종 검토 완료 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"302-7777-8888-99","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":64,"content":"교육비 환급 계좌번호 1002-777-666555 입력 완료했습니다. 수료증 제출 후 환급 처리됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-666555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":65,"content":"수당 지급은 790-111111-22222 계좌로 진행됩니다. 근태 확인 후 매월 말일 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-22222","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":66,"content":"샘플 구매 대금 88899900011 입금 확인했습니다. 제품은 택배로 발송 완료되었습니다.","has_sensitive":true,"entities":[{"value":"88899900011","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":67,"content":"임차 보증금은 110-222-555888 으로 송금 부탁드립니다. 계약서 작성은 내일 진행 예정입니다.","has_sensitive":true,"entities":[{"value":"110-222-555888","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":68,"content":"공연 티켓 환불액이 302-4444-5555-66 로 입금되었습니다. 공연 취소 안내문은 이메일로 발송되었습니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":69,"content":"월급 이체 계좌 1002-888-999000 등록 완료되었습니다. 급여 명세서는 매월 문자로 전송됩니다.","has_sensitive":true,"entities":[{"value":"1002-888-999000","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":70,"content":"수리비 청구 금액을 790-333333-44444 로 입금 바랍니다. 수리 완료 후 7일 이내 납부 바랍니다.","has_sensitive":true,"entities":[{"value":"790-333333-44444","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":71,"content":"투자 수익금 10101010101 계좌로 지급 예정입니다. 수익률 보고서는 분기별로 제공됩니다.","has_sensitive":true,"entities":[{"value":"10101010101","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":72,"content":"참가비는 110-444-777000 으로 납부해 주시기 바랍니다. 참가 확정은 입금 순서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-444-777000","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":73,"content":"수출 정산금이 302-8888-7777-66 계좌로 송금되었습니다. 환율은 송금일 기준으로 적용되었습니다.","has_sensitive":true,"entities":[{"value":"302-8888-7777-66","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":74,"content":"마케팅 비용은 1002-999-111222 로 지급 완료했습니다. 집행 내역은 월말에 보고 예정입니다.","has_sensitive":true,"entities":[{"value":"1002-999-111222","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":75,"content":"인센티브 지급 계좌 790-555555-66666 확인 부탁드립니다. 목표 달성 시 익월 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-66666","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":76,"content":"예약금 환불 32132132132 입금 처리되었습니다. 취소 수수료는 공제되지 않았습니다.","has_sensitive":true,"entities":[{"value":"32132132132","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":77,"content":"광고비는 110-666-888111 계좌로 입금 예정입니다. 광고 집행은 다음 주부터 시작됩니다.","has_sensitive":true,"entities":[{"value":"110-666-888111","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":78,"content":"심사 수수료 302-2222-3333-44 로 결제 부탁드립니다. 심사 결과는 한 달 후 통보됩니다.","has_sensitive":true,"entities":[{"value":"302-2222-3333-44","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":79,"content":"외주 제작비는 1002-123-987654 으로 송금 완료되었습니다. 최종 결과물은 이메일로 전달 받았습니다.","has_sensitive":true,"entities":[{"value":"1002-123-987654","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":80,"content":"장려금 지급은 790-777777-88888 계좌로 진행됩니다. 신청서 접수 완료 후 처리됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-88888","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":81,"content":"고객님 환불 계좌 54354354354 로 입금 완료했습니다. 처리 내역은 문자로도 발송되었습니다.","has_sensitive":true,"entities":[{"value":"54354354354","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":82,"content":"가입비는 110-777-999222 으로 입금 부탁드립니다. 가입 승인은 입금 확인 후 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"110-777-999222","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":83,"content":"위탁 판매 대금이 302-5555-6666-77 로 정산되었습니다. 정산 명세서는 우편으로 발송합니다.","has_sensitive":true,"entities":[{"value":"302-5555-6666-77","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":84,"content":"훈련 지원금 계좌번호 1002-333-555777 입력해 주세요. 출석률 80% 이상 시 전액 지급됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-555777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":85,"content":"성과급은 790-999999-00000 로 지급 예정입니다. 평가 결과에 따라 차등 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-00000","begin":6,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":86,"content":"물품 대금 76576576576 입금 확인되었습니다. 납품은 계약서에 명시된 일정대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"76576576576","begin":7,"end":18,"label":"BANK_ACCOUNT"}]}
+{"id":87,"content":"자문료는 110-888-111333 계좌로 송금 부탁드립니다. 자문 보고서는 별도로 제출 예정입니다.","has_sensitive":true,"entities":[{"value":"110-888-111333","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":88,"content":"취소 수수료 환급액이 302-9999-1111-22 로 입금되었습니다. 환급 사유는 첨부 서류를 참고하세요.","has_sensitive":true,"entities":[{"value":"302-9999-1111-22","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":89,"content":"연구 보조금은 1002-444-888222 로 지급됩니다. 사용 계획서는 사전 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-444-888222","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":90,"content":"장학 기금 계좌 790-111111-99999 등록 완료되었습니다. 기부 영수증은 자동 발급됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-99999","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":91,"content":"온라인 결제 대금 98798798798 으로 송금 완료했습니다. 거래 내역은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"98798798798","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":92,"content":"수선비는 110-555-777999 으로 청구됩니다. 수선 완료 후 일주일 이내 납부 바랍니다.","has_sensitive":true,"entities":[{"value":"110-555-777999","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":93,"content":"견적 보증금 302-3333-4444-55 계좌로 입금 바랍니다. 견적서는 입금 확인 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-3333-4444-55","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":94,"content":"지원 사업비는 1002-777-999333 으로 배정되었습니다. 집행 지침은 별도 공문으로 안내됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-999333","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":95,"content":"수수료 지급 계좌번호 790-444444-55555 확인 부탁드립니다. 거래 건수에 따라 차등 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-55555","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":96,"content":"중도금 12012012012 입금 완료되었습니다. 잔금은 완공 후 최종 검사 시 지급됩니다.","has_sensitive":true,"entities":[{"value":"12012012012","begin":4,"end":15,"label":"BANK_ACCOUNT"}]}
+{"id":97,"content":"투자금은 110-999-333666 으로 입금 부탁드립니다. 투자 계약서는 공증을 완료했습니다.","has_sensitive":true,"entities":[{"value":"110-999-333666","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":98,"content":"행사비 정산이 302-6666-8888-99 로 완료되었습니다. 정산 내역은 회의록에 첨부되어 있습니다.","has_sensitive":true,"entities":[{"value":"302-6666-8888-99","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":99,"content":"교통비 지급은 1002-555-444333 계좌로 신청하시면 됩니다. 영수증 제출은 필수입니다.","has_sensitive":true,"entities":[{"value":"1002-555-444333","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":100,"content":"위약 배상금 790-888888-77777 로 청구됩니다. 납부 기한 내 입금되지 않으면 법적 조치가 취해집니다.","has_sensitive":true,"entities":[{"value":"790-888888-77777","begin":8,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":101,"content":"쇼핑몰 정산 금액 34534534534 입금되었습니다. 판매 수수료는 차감된 금액입니다.","has_sensitive":true,"entities":[{"value":"34534534534","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":102,"content":"수업료는 110-444-666888 계좌로 납부 바랍니다. 분할 납부 시 할부 수수료가 추가됩니다.","has_sensitive":true,"entities":[{"value":"110-444-666888","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":103,"content":"보상금 지급이 302-7777-9999-00 로 처리되었습니다. 보상 내역서는 우편으로 수령하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-00","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":104,"content":"렌탈료 자동이체 1002-666-222444 로 설정 완료했습니다. 해지 시 한 달 전 통보 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-666-222444","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":105,"content":"판매 대금은 790-222222-11111 계좌로 입금 예정입니다. 매출 보고서는 매주 금요일 발송됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-11111","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":106,"content":"이벤트 경품 대금 56756756756 으로 송금 완료했습니다. 경품 발송은 별도 안내 예정입니다.","has_sensitive":true,"entities":[{"value":"56756756756","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":107,"content":"전시회 참가비는 110-333-888555 으로 입금 부탁드립니다. 부스 배정은 입금 순서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-333-888555","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":108,"content":"중개 수수료가 302-5555-7777-88 로 입금되었습니다. 계약 체결 축하드리며 추가 문의는 언제든 연락 주세요.","has_sensitive":true,"entities":[{"value":"302-5555-7777-88","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":109,"content":"강의료 지급 계좌번호 1002-888-666444 입력 완료했습니다. 강의 종료 후 일주일 내 지급됩니다.","has_sensitive":true,"entities":[{"value":"1002-888-666444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":110,"content":"환급금은 790-666666-88888 로 송금 예정입니다. 신청서 검토 완료 후 처리됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-88888","begin":6,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":111,"content":"개발 용역비 78978978978 입금 확인했습니다. 소스 코드는 저장소에 업로드 완료되었습니다.","has_sensitive":true,"entities":[{"value":"78978978978","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":112,"content":"가맹비는 110-222-444777 으로 납부해 주시기 바랍니다. 가맹 계약서는 법무 검토 중입니다.","has_sensitive":true,"entities":[{"value":"110-222-444777","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":113,"content":"수입 관세가 302-8888-6666-55 계좌로 청구되었습니다. 통관 절차 완료 후 물품 인도됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-55","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":114,"content":"프로젝트 선급금은 1002-999-777555 로 지급 완료했습니다. 착수 보고서는 이번 주 내 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-999-777555","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":115,"content":"업무 대행비 계좌 790-333333-22222 등록되었습니다. 월별 업무 보고서 제출 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":116,"content":"환전 수수료 환급 23123123123 입금 처리되었습니다. 환율 변동으로 인한 차액은 반영되지 않았습니다.","has_sensitive":true,"entities":[{"value":"23123123123","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":117,"content":"시설 이용료는 110-666-222999 계좌로 입금 바랍니다. 예약 변경은 이용 2일 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"110-666-222999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":118,"content":"재료비 정산이 302-4444-8888-77 로 완료되었습니다. 세부 내역은 정산서를 확인해 주세요.","has_sensitive":true,"entities":[{"value":"302-4444-8888-77","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":119,"content":"통신비 환급은 1002-111-999888 으로 신청 가능합니다. 해지 증명서 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"1002-111-999888","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":120,"content":"위탁 수수료 790-555555-44444 로 지급 예정입니다. 판매 실적에 따라 추가 지급될 수 있습니다.","has_sensitive":true,"entities":[{"value":"790-555555-44444","begin":8,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":121,"content":"펀딩 후원금 90190190190 계좌로 입금 완료되었습니다. 리워드는 프로젝트 종료 후 발송됩니다.","has_sensitive":true,"entities":[{"value":"90190190190","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":122,"content":"탐방비는 110-777-666333 으로 입금 부탁드립니다. 일정 확정은 최소 인원 모집 후 공지됩니다.","has_sensitive":true,"entities":[{"value":"110-777-666333","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":123,"content":"수수료 차감 후 302-9999-3333-44 로 정산되었습니다. 명세서는 이메일로 전송되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-3333-44","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":124,"content":"콘텐츠 제작비는 1002-222-555888 로 송금 완료했습니다. 최종 결과물은 검수 후 인도 받겠습니다.","has_sensitive":true,"entities":[{"value":"1002-222-555888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":125,"content":"분양 계약금 계좌번호 790-777777-99999 확인 바랍니다. 잔금은 등기 완료 후 납부됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":126,"content":"문화상품권 구매 대금 45645645645 입금되었습니다. 상품권은 이메일로 발송 완료되었습니다.","has_sensitive":true,"entities":[{"value":"45645645645","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":127,"content":"연수비는 110-888-444222 계좌로 납부해 주세요. 연수 이수증은 과정 종료 시 발급됩니다.","has_sensitive":true,"entities":[{"value":"110-888-444222","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":128,"content":"세미나 참석비가 302-6666-5555-44 로 환불되었습니다. 행사 연기로 인한 조치임을 양해 바랍니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-44","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":129,"content":"기술 이전료는 1002-333-222111 으로 지급됩니다. 기술 문서는 별도 전달 예정입니다.","has_sensitive":true,"entities":[{"value":"1002-333-222111","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":130,"content":"임대 수익금 790-999999-88888 계좌로 입금 예정입니다. 매월 정산 내역은 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-88888","begin":8,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":131,"content":"시상금은 67867867867 으로 송금 완료했습니다. 시상식은 다음 주 목요일 오후 2시입니다.","has_sensitive":true,"entities":[{"value":"67867867867","begin":6,"end":17,"label":"BANK_ACCOUNT"}]}
+{"id":132,"content":"교재비는 110-555-888222 으로 입금 바랍니다. 교재는 개강일에 일괄 배부됩니다.","has_sensitive":true,"entities":[{"value":"110-555-888222","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":133,"content":"디자인 용역비가 302-7777-4444-33 계좌로 입금되었습니다. 최종 시안은 승인 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-4444-33","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":134,"content":"출자금 반환은 1002-444-666888 로 처리 예정입니다. 청산 절차는 2주 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-666888","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":135,"content":"지원금 수령 계좌 790-111111-33333 등록 완료했습니다. 지급 시기는 별도 공지됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-33333","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":136,"content":"매출 정산 금액 89089089089 입금 확인되었습니다. 다음 정산은 월말에 진행됩니다.","has_sensitive":true,"entities":[{"value":"89089089089","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":137,"content":"시공비는 110-999-777444 계좌로 송금 부탁드립니다. 공사 일정은 계약서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-999-777444","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":138,"content":"특허 출원비가 302-8888-2222-11 로 청구되었습니다. 출원 서류는 검토 완료 후 제출됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-2222-11","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":139,"content":"번역 대금은 1002-555-333222 으로 지급 완료했습니다. 번역문은 검수가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-555-333222","begin":9,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":140,"content":"보험료 환급금 790-444444-66666 로 입금 예정입니다. 해지 증서는 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-66666","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":141,"content":"구독 서비스 결제 12312312312 으로 자동이체 설정되었습니다. 해지는 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"12312312312","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":142,"content":"기부금은 110-444-999666 으로 입금 부탁드립니다. 기부자 명단은 홈페이지에 공개됩니다.","has_sensitive":true,"entities":[{"value":"110-444-999666","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":143,"content":"감리비 정산이 302-5555-9999-88 로 완료되었습니다. 감리 보고서는 제출 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-88","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":144,"content":"스폰서십 후원금은 1002-666-444777 으로 송금 예정입니다. 후원 현판은 행사장에 게시됩니다.","has_sensitive":true,"entities":[{"value":"1002-666-444777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":145,"content":"공사 잔금 계좌번호 790-888888-11111 확인 바랍니다. 준공 검사 합격 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-11111","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":146,"content":"예약 취소 환불액 23423423423 입금 처리되었습니다. 취소 수수료는 약관에 따라 공제되었습니다.","has_sensitive":true,"entities":[{"value":"23423423423","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":147,"content":"임금은 110-333-666999 계좌로 매월 25일 지급됩니다. 급여 명세서는 이메일로 전송됩니다.","has_sensitive":true,"entities":[{"value":"110-333-666999","begin":5,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":148,"content":"수입 대행 수수료가 302-9999-7777-66 로 입금되었습니다. 통관 완료 확인증은 첨부하였습니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":149,"content":"컨설팅 수수료는 1002-777-222333 로 지급됩니다. 최종 보고서는 프로젝트 종료 시 제출됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-222333","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":150,"content":"수당 지급 계좌 790-222222-55555 등록 완료되었습니다. 근무 실적 확인 후 매월 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-55555","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":151,"content":"쿠폰 환급 금액 45645645645 으로 송금 완료했습니다. 사용 내역은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"45645645645","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":152,"content":"입장료는 110-666-333888 으로 입금 바랍니다. 입금 확인 후 예매 확정 문자 발송됩니다.","has_sensitive":true,"entities":[{"value":"110-666-333888","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":153,"content":"수출 운송비가 302-4444-6666-99 계좌로 청구되었습니다. 선적 완료 후 B/L 사본 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-99","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":154,"content":"직원 복지비는 1002-888-333555 로 배정되었습니다. 사용 내역은 분기별 보고 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-888-333555","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":155,"content":"부동산 중개료 790-666666-99999 로 입금 예정입니다. 등기 이전 완료 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-99999","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":156,"content":"시설 보수비 67867867867 입금 확인했습니다. 공사는 다음 주 월요일부터 시작됩니다.","has_sensitive":true,"entities":[{"value":"67867867867","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":157,"content":"멤버십 연회비는 110-222-888444 계좌로 납부 바랍니다. 갱신 시 할인 혜택이 적용됩니다.","has_sensitive":true,"entities":[{"value":"110-222-888444","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":158,"content":"광고 제작비가 302-7777-1111-00 로 정산되었습니다. 최종 영상은 검수 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-1111-00","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":159,"content":"행사 용역비는 1002-999-888444 으로 송금 완료했습니다. 진행 스태프는 사전 교육 받았습니다.","has_sensitive":true,"entities":[{"value":"1002-999-888444","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":160,"content":"수리 보증금 계좌 790-333333-77777 등록되었습니다. 하자 발생 시 해당 금액으로 수리됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":161,"content":"포인트 전환 금액 89189189189 입금 처리되었습니다. 전환 비율은 1:1로 적용되었습니다.","has_sensitive":true,"entities":[{"value":"89189189189","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":162,"content":"원고료는 110-777-222555 으로 지급 예정입니다. 원고 검토 완료 후 일주일 내 입금됩니다.","has_sensitive":true,"entities":[{"value":"110-777-222555","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":163,"content":"특허 유지비가 302-6666-4444-88 로 청구됩니다. 납부 기한은 등록일 기준 1년 단위입니다.","has_sensitive":true,"entities":[{"value":"302-6666-4444-88","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":164,"content":"인테리어 잔금은 1002-111-777999 으로 입금 부탁드립니다. 공사 완료 확인 후 납부 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-111-777999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":165,"content":"실적 보너스 790-555555-88888 계좌로 지급 완료되었습니다. 축하드리며 계속 좋은 성과 기대합니다.","has_sensitive":true,"entities":[{"value":"790-555555-88888","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":166,"content":"교환 상품 차액 12512512512 으로 환불 완료했습니다. 새 상품은 내일 배송 예정입니다.","has_sensitive":true,"entities":[{"value":"12512512512","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":167,"content":"협회비는 110-444-777333 계좌로 매년 납부 바랍니다. 회원 혜택은 홈페이지를 참고하세요.","has_sensitive":true,"entities":[{"value":"110-444-777333","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":168,"content":"연구개발비가 302-8888-5555-77 로 배정되었습니다. 연구 계획서는 승인 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-77","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":169,"content":"보험 해약 환급금은 1002-333-888666 으로 입금됩니다. 처리 기간은 약 10일 소요됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-888666","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":170,"content":"수탁 판매 대금 790-777777-44444 로 정산 예정입니다. 판매 명세서는 메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-44444","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":171,"content":"온라인 강의 수익 34534534534 입금되었습니다. 수강생 피드백은 전반적으로 긍정적이었습니다.","has_sensitive":true,"entities":[{"value":"34534534534","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":172,"content":"법률 자문료는 110-555-999777 으로 송금 부탁드립니다. 자문 의견서는 별도 발송됩니다.","has_sensitive":true,"entities":[{"value":"110-555-999777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":173,"content":"공급 대금이 302-9999-8888-66 계좌로 입금 완료되었습니다. 납품 일정은 협의한 대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"302-9999-8888-66","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":174,"content":"신기술 이전료는 1002-222-666999 로 지급됩니다. 기술 이전 계약서는 공증 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-222-666999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":175,"content":"프랜차이즈 로열티 790-999999-22222 계좌로 청구됩니다. 매출 보고는 매월 5일까지 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"790-999999-22222","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":176,"content":"고객 보상금 56756756756 으로 송금 완료했습니다. 불편을 드려 죄송하며 서비스 개선하겠습니다.","has_sensitive":true,"entities":[{"value":"56756756756","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":177,"content":"시설 사용료는 110-888-333999 계좌로 입금 바랍니다. 사용 신청서는 일주일 전까지 제출하세요.","has_sensitive":true,"entities":[{"value":"110-888-333999","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":178,"content":"IT 시스템 구축비가 302-4444-7777-55 로 청구되었습니다. 최종 인수 테스트는 다음 주 예정입니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":179,"content":"전문가 고문료는 1002-444-999222 으로 지급 예정입니다. 월별 활동 보고서 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-444-999222","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":180,"content":"계절 보너스 계좌 790-111111-88888 등록 완료했습니다. 지급일은 명절 1주일 전입니다.","has_sensitive":true,"entities":[{"value":"790-111111-88888","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":181,"content":"예술 작품 판매 대금 78178178178 입금 확인되었습니다. 작품 소유권 이전은 완료되었습니다.","has_sensitive":true,"entities":[{"value":"78178178178","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":182,"content":"출판 인세는 110-666-777222 으로 지급됩니다. 판매 부수에 따라 분기별 정산됩니다.","has_sensitive":true,"entities":[{"value":"110-666-777222","begin":9,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":183,"content":"컨퍼런스 등록비가 302-7777-3333-99 로 환불되었습니다. 행사 취소로 인한 전액 환불입니다.","has_sensitive":true,"entities":[{"value":"302-7777-3333-99","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":184,"content":"유지보수 계약금은 1002-555-222777 으로 입금 부탁드립니다. 계약 기간은 1년 단위입니다.","has_sensitive":true,"entities":[{"value":"1002-555-222777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":185,"content":"소송 비용 790-444444-99999 계좌로 청구됩니다. 승소 시 상대방에게 구상권 행사 예정입니다.","has_sensitive":true,"entities":[{"value":"790-444444-99999","begin":7,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":186,"content":"상담 수수료 90290290290 으로 송금 완료했습니다. 상담 만족도 조사에 협조 부탁드립니다.","has_sensitive":true,"entities":[{"value":"90290290290","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":187,"content":"자격증 응시료는 110-333-555999 으로 납부 바랍니다. 접수 마감은 시험 2주 전입니다.","has_sensitive":true,"entities":[{"value":"110-333-555999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":188,"content":"부가세 환급액이 302-6666-9999-44 로 입금되었습니다. 세무 신고는 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-6666-9999-44","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":189,"content":"라이센스 비용은 1002-777-444888 으로 결제 예정입니다. 사용 기간은 구매일부터 1년입니다.","has_sensitive":true,"entities":[{"value":"1002-777-444888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":190,"content":"배송비 환급 계좌 790-888888-33333 등록되었습니다. 배송 오류 확인 후 환급 처리됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-33333","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":191,"content":"문화재 복원비 23423423423 입금 처리되었습니다. 복원 작업은 전문가 감수 하에 진행됩니다.","has_sensitive":true,"entities":[{"value":"23423423423","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":192,"content":"신제품 개발비는 110-777-888333 계좌로 배정됩니다. 개발 진행 상황은 월례 보고됩니다.","has_sensitive":true,"entities":[{"value":"110-777-888333","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":193,"content":"관세 환급금이 302-5555-8888-22 로 입금 완료되었습니다. 환급 신청서는 승인되었습니다.","has_sensitive":true,"entities":[{"value":"302-5555-8888-22","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":194,"content":"설비 투자비는 1002-888-555333 으로 지급 예정입니다. 설비 도입은 다음 분기 계획입니다.","has_sensitive":true,"entities":[{"value":"1002-888-555333","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":195,"content":"창업 지원금 790-222222-99999 계좌로 배정 완료되었습니다. 사업 계획서는 승인되었습니다.","has_sensitive":true,"entities":[{"value":"790-222222-99999","begin":9,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":196,"content":"교육 훈련비 45745745745 으로 송금 완료했습니다. 교육 일정은 별도 공지 예정입니다.","has_sensitive":true,"entities":[{"value":"45745745745","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":197,"content":"대관료는 110-999-666111 으로 입금 바랍니다. 대관 시간 변경은 3일 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"110-999-666111","begin":6,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":198,"content":"설계 변경 추가비가 302-8888-4444-11 로 청구되었습니다. 변경 사항은 도면에 반영 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-8888-4444-11","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":199,"content":"연금 수령 계좌번호 1002-333-777444 입력 완료했습니다. 매월 지급일은 25일입니다.","has_sensitive":true,"entities":[{"value":"1002-333-777444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":200,"content":"파손 배상금 790-666666-11111 로 입금 예정입니다. 수리 견적서는 첨부 파일 참조 바랍니다.","has_sensitive":true,"entities":[{"value":"790-666666-11111","begin":8,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":201,"content":"디지털 콘텐츠 판매 수익 67967967967 입금되었습니다. 판매 통계는 대시보드에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"67967967967","begin":17,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":202,"content":"회원 탈퇴 환급금은 110-555-444888 계좌로 송금됩니다. 환급액은 사용 내역 차감 후 금액입니다.","has_sensitive":true,"entities":[{"value":"110-555-444888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":203,"content":"행사장 임대료가 302-9999-6666-55 로 입금 완료되었습니다. 임대 계약서는 서명 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-6666-55","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":204,"content":"인건비 정산은 1002-111-333777 으로 신청 바랍니다. 근무 확인서는 담당자 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"1002-111-333777","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":205,"content":"사업비 집행 계좌 790-777777-11111 등록되었습니다. 집행 내역은 월별 보고서로 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"790-777777-11111","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":206,"content":"세차 서비스 이용료 89389389389 으로 결제 부탁드립니다. 멤버십 가입 시 할인 적용됩니다.","has_sensitive":true,"entities":[{"value":"89389389389","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":207,"content":"재해 의연금은 110-222-999555 으로 입금 부탁드립니다. 모금액은 투명하게 공개됩니다.","has_sensitive":true,"entities":[{"value":"110-222-999555","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":208,"content":"음원 저작권료가 302-4444-2222-99 로 정산되었습니다. 분기별 사용 내역서는 발송되었습니다.","has_sensitive":true,"entities":[{"value":"302-4444-2222-99","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":209,"content":"경비 청구는 1002-666-888111 으로 제출 바랍니다. 증빙 서류 첨부는 필수입니다.","has_sensitive":true,"entities":[{"value":"1002-666-888111","begin":9,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":210,"content":"실업급여 수령 계좌 790-333333-88888 등록 완료했습니다. 지급 승인 후 2일 내 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-88888","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":211,"content":"공모전 상금 12612612612 입금 처리되었습니다. 시상식 참석 여부 회신 부탁드립니다.","has_sensitive":true,"entities":[{"value":"12612612612","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":212,"content":"임상시험 참가비는 110-888-777555 으로 지급됩니다. 참가 동의서는 서명 완료되었습니다.","has_sensitive":true,"entities":[{"value":"110-888-777555","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":213,"content":"지적재산권 수수료가 302-7777-5555-88 계좌로 청구되었습니다. 등록 완료 확인증은 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-7777-5555-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":214,"content":"노무비 지급은 1002-999-444666 로 예정되어 있습니다. 작업 완료 확인 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-444666","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":215,"content":"마일리지 적립금 790-555555-22222 계좌로 전환 완료되었습니다. 전환 비율은 공지된 대로 적용되었습니다.","has_sensitive":true,"entities":[{"value":"790-555555-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":216,"content":"공예품 판매 수익 34734734734 으로 송금 완료했습니다. 작품 전시는 성공적이었습니다.","has_sensitive":true,"entities":[{"value":"34734734734","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":217,"content":"스터디룸 이용료는 110-444-222888 계좌로 납부 바랍니다. 예약은 홈페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"110-444-222888","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":218,"content":"품질 보증 위약금이 302-6666-3333-77 로 청구됩니다. 품질 기준 미달로 인한 조치입니다.","has_sensitive":true,"entities":[{"value":"302-6666-3333-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":219,"content":"주차장 월 정기권은 1002-222-888555 으로 결제 가능합니다. 차량 번호 등록은 필수입니다.","has_sensitive":true,"entities":[{"value":"1002-222-888555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":220,"content":"건강검진 환급 계좌 790-999999-66666 등록되었습니다. 검진 결과 제출 후 환급됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-66666","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":221,"content":"앱 개발 수수료 56856856856 입금 확인했습니다. 최종 앱 배포는 다음 주 예정입니다.","has_sensitive":true,"entities":[{"value":"56856856856","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":222,"content":"정비 서비스 요금은 110-777-555888 으로 입금 바랍니다. 정비 완료 후 차량 인도됩니다.","has_sensitive":true,"entities":[{"value":"110-777-555888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":223,"content":"원료 공급 대금이 302-8888-9999-33 로 입금되었습니다. 납품 일정은 주문서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-9999-33","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":224,"content":"교육 지원 사업비는 1002-555-777222 으로 배정됩니다. 사업 계획서는 검토 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-555-777222","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":225,"content":"급여 소득세 환급금 790-111111-77777 로 지급 예정입니다. 연말정산 결과에 따른 환급입니다.","has_sensitive":true,"entities":[{"value":"790-111111-77777","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":226,"content":"체험 프로그램 참가비 78978978978 으로 결제 부탁드립니다. 정원 마감 시 조기 종료됩니다.","has_sensitive":true,"entities":[{"value":"78978978978","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":227,"content":"기술 자문료는 110-333-999222 계좌로 송금 예정입니다. 자문 일정은 협의 완료되었습니다.","has_sensitive":true,"entities":[{"value":"110-333-999222","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":228,"content":"소프트웨어 라이센스비가 302-5555-4444-66 로 청구되었습니다. 갱신 기한은 구매일로부터 1년입니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-66","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":229,"content":"유류비 정산은 1002-777-333999 으로 신청 바랍니다. 주행 일지 제출은 필수입니다.","has_sensitive":true,"entities":[{"value":"1002-777-333999","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":230,"content":"분실물 보상금 계좌 790-444444-88888 등록 완료했습니다. 물품 가액 산정 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-88888","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":231,"content":"자원봉사 활동비 90490490490 입금 처리되었습니다. 봉사 확인서는 발급 완료되었습니다.","has_sensitive":true,"entities":[{"value":"90490490490","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":232,"content":"전시 부스 임대료는 110-666-888444 으로 납부 바랍니다. 부스 위치는 추첨으로 결정됩니다.","has_sensitive":true,"entities":[{"value":"110-666-888444","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":233,"content":"물류 배송비가 302-9999-2222-77 계좌로 정산되었습니다. 배송 완료 확인증은 첨부되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-2222-77","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":234,"content":"연구 장비 구입비는 1002-888-111555 로 지급됩니다. 장비 도입 계획서는 승인되었습니다.","has_sensitive":true,"entities":[{"value":"1002-888-111555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":235,"content":"주택청약 환급금 790-777777-22222 계좌로 입금 예정입니다. 당첨 취소로 인한 전액 환급입니다.","has_sensitive":true,"entities":[{"value":"790-777777-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":236,"content":"음식 배달 대금 23523523523 으로 송금 완료했습니다. 맛있게 드시고 리뷰 부탁드립니다.","has_sensitive":true,"entities":[{"value":"23523523523","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":237,"content":"의료비 지원금은 110-555-222777 으로 입금 예정입니다. 진료 영수증 제출 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"110-555-222777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":238,"content":"단체 할인 환급액이 302-4444-9999-88 로 입금되었습니다. 할인 혜택 적용 감사드립니다.","has_sensitive":true,"entities":[{"value":"302-4444-9999-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":239,"content":"디자인 등록비는 1002-333-666111 으로 결제 바랍니다. 등록 절차는 3주 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-666111","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":240,"content":"예비군 훈련 수당 790-888888-55555 계좌로 지급됩니다. 훈련 참석 확인 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-55555","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":241,"content":"가구 제작비 45845845845 입금 확인했습니다. 제작 기간은 약 4주 소요됩니다.","has_sensitive":true,"entities":[{"value":"45845845845","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":242,"content":"클리닉 진료비는 110-999-777888 계좌로 납부 바랍니다. 예약 변경은 1일 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"110-999-777888","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":243,"content":"전기차 보조금이 302-7777-6666-44 로 입금 완료되었습니다. 차량 등록증은 제출 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-44","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":244,"content":"학술대회 참가비는 1002-111-888333 으로 송금 부탁드립니다. 논문 발표 일정은 별도 안내됩니다.","has_sensitive":true,"entities":[{"value":"1002-111-888333","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":245,"content":"에너지 절감 인센티브 790-222222-44444 로 지급 예정입니다. 절감율 달성 축하드립니다.","has_sensitive":true,"entities":[{"value":"790-222222-44444","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":246,"content":"캠페인 후원금 67167167167 으로 입금 부탁드립니다. 후원 내역은 홈페이지에 공개됩니다.","has_sensitive":true,"entities":[{"value":"67167167167","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":247,"content":"제휴 수수료는 110-444-555999 으로 정산됩니다. 정산 주기는 월 단위로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-444-555999","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":248,"content":"제품 하자 보상금이 302-6666-7777-22 계좌로 입금되었습니다. 불편을 끼쳐 드려 죄송합니다.","has_sensitive":true,"entities":[{"value":"302-6666-7777-22","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":249,"content":"네트워크 구축비는 1002-999-222888 로 지급 완료했습니다. 시스템 점검은 주말에 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-222888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":250,"content":"장애인 지원금 계좌 790-666666-33333 등록되었습니다. 복지카드 사본 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"790-666666-33333","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":251,"content":"이사 서비스 비용 89589589589 입금 처리되었습니다. 이사 날짜는 협의된 대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"89589589589","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":252,"content":"아르바이트 급여는 110-777-444999 으로 지급됩니다. 근무 시간 확인 후 매주 입금됩니다.","has_sensitive":true,"entities":[{"value":"110-777-444999","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":253,"content":"광고 송출료가 302-5555-3333-88 로 청구되었습니다. 송출 기간은 계약서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-3333-88","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":254,"content":"방역 서비스 대금은 1002-444-777111 으로 결제 바랍니다. 정기 방역은 월 1회 실시됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-777111","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":255,"content":"우수 직원 포상금 790-111111-55555 계좌로 지급 완료되었습니다. 앞으로도 좋은 성과 기대합니다.","has_sensitive":true,"entities":[{"value":"790-111111-55555","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":256,"content":"반려동물 치료비 12712712712 으로 송금 완료했습니다. 빠른 쾌유를 기원합니다.","has_sensitive":true,"entities":[{"value":"12712712712","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":257,"content":"회원제 골프장 입회비는 110-888-222666 계좌로 납부 바랍니다. 회원권 발급은 1개월 소요됩니다.","has_sensitive":true,"entities":[{"value":"110-888-222666","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":258,"content":"번역 프로젝트 대금이 302-9999-4444-55 로 입금되었습니다. 번역 품질에 만족하셨다니 감사합니다.","has_sensitive":true,"entities":[{"value":"302-9999-4444-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":259,"content":"케이터링 서비스는 1002-777-555222 으로 결제 가능합니다. 행사 3일 전까지 주문 확정 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-777-555222","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":260,"content":"연구 성과금 계좌 790-444444-77777 등록 완료했습니다. 논문 게재 확인 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":261,"content":"부대시설 사용료 34834834834 입금 확인되었습니다. 시설 이용 시간은 규정을 준수해 주세요.","has_sensitive":true,"entities":[{"value":"34834834834","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":262,"content":"콘서트 티켓 환불액은 110-555-777111 으로 송금됩니다. 공연 연기로 인한 환불 처리입니다.","has_sensitive":true,"entities":[{"value":"110-555-777111","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":263,"content":"기부 물품 매각 수익이 302-8888-1111-99 계좌로 입금되었습니다. 수익금은 전액 기부됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-1111-99","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":264,"content":"자동차 할부금은 1002-666-999444 로 자동이체 설정 바랍니다. 연체 시 불이익이 있습니다.","has_sensitive":true,"entities":[{"value":"1002-666-999444","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":265,"content":"청소년 활동 지원비 790-777777-88888 로 지급 예정입니다. 활동 보고서 제출 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-88888","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":266,"content":"수입 인증 대행료 56956956956 으로 결제 부탁드립니다. 인증 완료까지 2개월 소요됩니다.","has_sensitive":true,"entities":[{"value":"56956956956","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":267,"content":"배당락 조정금은 110-333-444999 계좌로 입금됩니다. 조정 내역은 주주 통지서를 확인하세요.","has_sensitive":true,"entities":[{"value":"110-333-444999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":268,"content":"견본품 제작비가 302-4444-8888-66 로 청구되었습니다. 제작 샘플은 택배로 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-8888-66","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":269,"content":"법인 설립 수수료는 1002-555-888777 으로 송금 바랍니다. 등기 신청은 서류 접수 후 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-555-888777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":270,"content":"아파트 관리비 790-999999-44444 계좌로 자동이체 됩니다. 관리비 내역은 월초에 고지됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-44444","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":271,"content":"영화 제작 투자금 78178178178 입금 처리되었습니다. 개봉 시 초대권을 보내드리겠습니다.","has_sensitive":true,"entities":[{"value":"78178178178","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":272,"content":"피트니스 회원권은 110-666-555333 으로 결제 가능합니다. 센터 이용 시간은 홈페이지를 참고하세요.","has_sensitive":true,"entities":[{"value":"110-666-555333","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":273,"content":"화재 복구 지원금이 302-7777-2222-44 로 입금 완료되었습니다. 피해 복구에 도움이 되길 바랍니다.","has_sensitive":true,"entities":[{"value":"302-7777-2222-44","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":274,"content":"웹사이트 유지보수는 1002-888-222999 로 정기 결제됩니다. 서비스 장애 시 즉시 대응됩니다.","has_sensitive":true,"entities":[{"value":"1002-888-222999","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":275,"content":"다자녀 혜택 지원금 790-222222-77777 계좌로 배정되었습니다. 가족관계증명서 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"790-222222-77777","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":276,"content":"가전제품 수리비 90690690690 으로 청구됩니다. 보증 기간 내 무상 수리는 불가합니다.","has_sensitive":true,"entities":[{"value":"90690690690","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":277,"content":"워크숍 참가비는 110-999-888555 으로 입금 바랍니다. 숙박 시설은 별도 예약 필요합니다.","has_sensitive":true,"entities":[{"value":"110-999-888555","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":278,"content":"상표권 갱신료가 302-6666-9999-77 로 청구되었습니다. 갱신 기한은 등록일 기준입니다.","has_sensitive":true,"entities":[{"value":"302-6666-9999-77","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":279,"content":"퇴직연금 수령은 1002-333-555999 계좌로 신청 바랍니다. 수령 방식은 상담 후 결정됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-555999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":280,"content":"강사료 지급 계좌 790-555555-99999 등록 완료했습니다. 출강 확인서 제출 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-99999","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":281,"content":"애완용품 구매 대금 23723723723 입금되었습니다. 배송은 내일 오전 중 완료 예정입니다.","has_sensitive":true,"entities":[{"value":"23723723723","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":282,"content":"산재 보상금은 110-777-666222 으로 송금 예정입니다. 요양 기간 확인 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"110-777-666222","begin":9,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":283,"content":"제조 위탁 대금이 302-5555-7777-11 계좌로 입금 완료되었습니다. 제품 검수는 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-11","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":284,"content":"수출입 통관료는 1002-111-666333 으로 결제 바랍니다. 통관 지연 시 추가 비용 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"1002-111-666333","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":285,"content":"모델 출연료 계좌 790-888888-22222 등록되었습니다. 촬영 완료 후 일주일 내 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":286,"content":"건물 임대 보증금 45045045045 입금 확인했습니다. 계약 기간은 2년이며 갱신 가능합니다.","has_sensitive":true,"entities":[{"value":"45045045045","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":287,"content":"협찬 물품 대금은 110-444-888777 계좌로 송금됩니다. 행사 종료 후 2주 이내 지급됩니다.","has_sensitive":true,"entities":[{"value":"110-444-888777","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":288,"content":"교정 치료비가 302-9999-5555-33 로 청구되었습니다. 치료 기간은 약 2년 예상됩니다.","has_sensitive":true,"entities":[{"value":"302-9999-5555-33","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":289,"content":"창고 보관료는 1002-777-888111 으로 매월 청구됩니다. 보관 물품은 보험 가입되어 있습니다.","has_sensitive":true,"entities":[{"value":"1002-777-888111","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":290,"content":"학자금 대출 상환 790-333333-99999 계좌로 자동이체 설정 바랍니다. 거치 기간은 종료되었습니다.","has_sensitive":true,"entities":[{"value":"790-333333-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":291,"content":"영업 실적 보너스 67367367367 으로 송금 완료했습니다. 훌륭한 성과에 감사드립니다.","has_sensitive":true,"entities":[{"value":"67367367367","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":292,"content":"특허 심사료는 110-555-999888 으로 납부 바랍니다. 심사 결과는 6개월 후 통보됩니다.","has_sensitive":true,"entities":[{"value":"110-555-999888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":293,"content":"임원 상여금이 302-8888-3333-22 계좌로 지급되었습니다. 주주총회 결의에 따른 지급입니다.","has_sensitive":true,"entities":[{"value":"302-8888-3333-22","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":294,"content":"소셜 마케팅 대행비는 1002-222-777444 로 정산됩니다. 월간 보고서는 매월 초 제출됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-777444","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":295,"content":"국민연금 환급금 790-666666-55555 로 입금 예정입니다. 자격 상실 신고 완료되었습니다.","has_sensitive":true,"entities":[{"value":"790-666666-55555","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":296,"content":"귀금속 제작비 89789789789 입금 처리되었습니다. 제작 기간은 약 3주 소요됩니다.","has_sensitive":true,"entities":[{"value":"89789789789","begin":9,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":297,"content":"공동 구매 차액은 110-888-444666 으로 환불됩니다. 최종 가격 확정으로 인한 차액입니다.","has_sensitive":true,"entities":[{"value":"110-888-444666","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":298,"content":"수출 대금 추심이 302-4444-6666-11 로 완료되었습니다. 환율 변동은 반영되지 않았습니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-11","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":299,"content":"청약 환불금은 1002-555-999222 계좌로 송금됩니다. 청약 취소 신청 접수 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-555-999222","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":300,"content":"세차권 구매는 790-999999-77777 으로 결제 가능합니다. 유효 기간은 구매일로부터 1년입니다.","has_sensitive":true,"entities":[{"value":"790-999999-77777","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":301,"content":"고객 리워드 포인트 12812812812 으로 전환 완료했습니다. 사용 가능한 가맹점은 앱에서 확인하세요.","has_sensitive":true,"entities":[{"value":"12812812812","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":302,"content":"악기 수리비는 110-222-777666 계좌로 납부 바랍니다. 수리 완료 후 연락드리겠습니다.","has_sensitive":true,"entities":[{"value":"110-222-777666","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":303,"content":"수입 부가세 환급이 302-7777-8888-55 로 입금되었습니다. 세관 신고 완료 확인되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-8888-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":304,"content":"전시회 작품 판매 수익은 1002-888-444222 로 송금됩니다. 수수료 차감 후 금액입니다.","has_sensitive":true,"entities":[{"value":"1002-888-444222","begin":17,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":305,"content":"출산 축하금 계좌 790-111111-66666 등록 완료했습니다. 출생 신고서 제출 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":306,"content":"배송 대행 수수료 34934934934 입금 확인되었습니다. 국제 배송은 2주 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"34934934934","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":307,"content":"동창회비는 110-666-222555 으로 입금 부탁드립니다. 회비는 행사 운영에 사용됩니다.","has_sensitive":true,"entities":[{"value":"110-666-222555","begin":7,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":308,"content":"특수 제작비가 302-5555-9999-44 로 청구되었습니다. 맞춤 제작으로 환불 불가합니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-44","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":309,"content":"해외 송금 수수료는 1002-999-666888 으로 결제 바랍니다. 송금 완료까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-666888","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":310,"content":"수영장 이용권 790-444444-33333 계좌로 결제 가능합니다. 락커 이용은 별도 요금입니다.","has_sensitive":true,"entities":[{"value":"790-444444-33333","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":311,"content":"기념품 제작 대금 56156156156 으로 송금 완료했습니다. 납품은 행사 일주일 전 완료됩니다.","has_sensitive":true,"entities":[{"value":"56156156156","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":312,"content":"주식 배당금은 110-777-333888 으로 지급됩니다. 배당 기준일은 결산일 기준입니다.","has_sensitive":true,"entities":[{"value":"110-777-333888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":313,"content":"수리 부품비가 302-9999-1111-66 계좌로 청구되었습니다. 순정 부품으로 교체 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-1111-66","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":314,"content":"상담 프로그램 이용료는 1002-111-555888 로 결제됩니다. 상담 예약은 홈페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-111-555888","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":315,"content":"실험 재료비 계좌 790-777777-66666 등록되었습니다. 연구비 집행 내역 보고 바랍니다.","has_sensitive":true,"entities":[{"value":"790-777777-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":316,"content":"반품 처리 환불액 78278278278 입금 처리되었습니다. 반품 물품은 수령 완료되었습니다.","has_sensitive":true,"entities":[{"value":"78278278278","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":317,"content":"테스트 참여 사례비는 110-444-666555 계좌로 지급됩니다. 설문 응답 감사드립니다.","has_sensitive":true,"entities":[{"value":"110-444-666555","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":318,"content":"환경 개선 부담금이 302-6666-4444-77 로 청구됩니다. 납부 기한은 고지서를 확인하세요.","has_sensitive":true,"entities":[{"value":"302-6666-4444-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":319,"content":"플랫폼 이용료는 1002-333-888444 으로 매월 자동 결제됩니다. 해지 시 환불 불가합니다.","has_sensitive":true,"entities":[{"value":"1002-333-888444","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":320,"content":"의류 제작 대금 790-888888-99999 로 입금 예정입니다. 샘플 확인 후 대량 생산 진행됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-99999","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":321,"content":"보안 시스템 유지비 90790790790 으로 결제 부탁드립니다. 점검은 분기별로 진행됩니다.","has_sensitive":true,"entities":[{"value":"90790790790","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":322,"content":"연회장 대관료는 110-555-888999 으로 입금 바랍니다. 시설 이용 규칙을 준수해 주세요.","has_sensitive":true,"entities":[{"value":"110-555-888999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":323,"content":"원단 구매 대금이 302-8888-7777-33 계좌로 입금되었습니다. 배송은 해외 발송으로 시간 소요됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-7777-33","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":324,"content":"프로모션 경품은 1002-777-222666 로 교환 신청 가능합니다. 당첨자 발표는 홈페이지를 확인하세요.","has_sensitive":true,"entities":[{"value":"1002-777-222666","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":325,"content":"통역 대행료 계좌 790-222222-88888 등록 완료했습니다. 통역 시간 확인 후 정산됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-88888","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":326,"content":"헬스케어 서비스 23023023023 입금 확인되었습니다. 건강 검진 예약은 전화로 가능합니다.","has_sensitive":true,"entities":[{"value":"23023023023","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":327,"content":"수상 부상금은 110-999-555777 으로 송금됩니다. 수상 소감문은 홈페이지에 게재됩니다.","has_sensitive":true,"entities":[{"value":"110-999-555777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":328,"content":"청소 용역비가 302-4444-5555-99 로 정산되었습니다. 용역 만족도 평가에 협조 부탁드립니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-99","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":329,"content":"모니터링 수수료는 1002-666-333888 으로 지급 예정입니다. 모니터링 보고서 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-666-333888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":330,"content":"승진 축하금 계좌 790-555555-11111 등록되었습니다. 인사 발령 후 일주일 내 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-11111","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":331,"content":"웨딩 스냅 촬영비 45245245245 으로 송금 완료했습니다. 앨범 제작은 한 달 후 완성됩니다.","has_sensitive":true,"entities":[{"value":"45245245245","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":332,"content":"공증 수수료는 110-333-222777 계좌로 납부 바랍니다. 공증 서류는 당일 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"110-333-222777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":333,"content":"지역 화폐 환급이 302-7777-9999-88 로 입금 완료되었습니다. 사용 기한 만료로 인한 환급입니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-88","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":334,"content":"전기료 환불은 1002-555-444999 으로 신청 가능합니다. 과납 확인 후 처리됩니다.","has_sensitive":true,"entities":[{"value":"1002-555-444999","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":335,"content":"부동산 중개 수수료 790-999999-55555 계좌로 청구됩니다. 매매 계약 체결 시 지급 바랍니다.","has_sensitive":true,"entities":[{"value":"790-999999-55555","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":336,"content":"쿠킹 클래스 참가비 67567567567 입금 처리되었습니다. 준비물은 문자로 안내드렸습니다.","has_sensitive":true,"entities":[{"value":"67567567567","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":337,"content":"비자 발급 대행료는 110-666-777999 으로 결제 바랍니다. 서류 검토 완료 후 신청됩니다.","has_sensitive":true,"entities":[{"value":"110-666-777999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":338,"content":"기업 교육 프로그램비가 302-5555-6666-22 로 청구되었습니다. 교육 일정은 협의 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-5555-6666-22","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":339,"content":"작곡 저작권료는 1002-222-999555 으로 지급됩니다. 음원 사용 계약서는 체결 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-222-999555","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":340,"content":"조경 공사 계약금 790-444444-22222 로 입금 예정입니다. 착공일은 다음 주 월요일입니다.","has_sensitive":true,"entities":[{"value":"790-444444-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":341,"content":"커피 원두 구매 대금 89989989989 으로 송금 완료했습니다. 로스팅은 주문 당일 진행됩니다.","has_sensitive":true,"entities":[{"value":"89989989989","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":342,"content":"공연 관람료는 110-888-555222 계좌로 입금 바랍니다. 좌석 배정은 입금 순서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-888-555222","begin":9,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":343,"content":"기계 설비 점검비가 302-9999-3333-11 로 정산되었습니다. 점검 결과는 보고서로 제출되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-3333-11","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":344,"content":"장비 렌탈료는 1002-888-777333 으로 매월 청구됩니다. 렌탈 기간은 최소 6개월입니다.","has_sensitive":true,"entities":[{"value":"1002-888-777333","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":345,"content":"세무 대리 수수료 790-666666-88888 계좌로 청구됩니다. 신고 완료 후 안내 드리겠습니다.","has_sensitive":true,"entities":[{"value":"790-666666-88888","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":346,"content":"식자재 납품 대금 12112112112 입금 확인되었습니다. 신선 제품으로 당일 배송 완료되었습니다.","has_sensitive":true,"entities":[{"value":"12112112112","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":347,"content":"자동차 정기 검사비는 110-777-888666 으로 납부 바랍니다. 검사 예약은 전화로 가능합니다.","has_sensitive":true,"entities":[{"value":"110-777-888666","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":348,"content":"리모델링 착수금이 302-6666-8888-44 로 입금 완료되었습니다. 공사 시작일은 협의 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-6666-8888-44","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":349,"content":"창업 교육 참가비는 1002-111-222666 으로 송금 부탁드립니다. 교육 자료는 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"1002-111-222666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":350,"content":"특허 침해 배상금 790-111111-44444 로 지급 예정입니다. 합의서는 작성 완료되었습니다.","has_sensitive":true,"entities":[{"value":"790-111111-44444","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":351,"content":"물품 대여료 34134134134 으로 결제 부탁드립니다. 대여 기간은 계약서를 확인하세요.","has_sensitive":true,"entities":[{"value":"34134134134","begin":8,"end":19,"label":"BANK_ACCOUNT"}]}
+{"id":352,"content":"미용실 시술비는 110-555-333777 계좌로 납부 바랍니다. 재방문 시 할인 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"110-555-333777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":353,"content":"환경 조사 용역비가 302-4444-7777-22 로 입금되었습니다. 조사 보고서는 제출 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-22","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":354,"content":"이사 정산금은 1002-999-555888 으로 송금 예정입니다. 손상 물품은 보상 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-999-555888","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":355,"content":"교통 위반 과태료 790-777777-33333 계좌로 납부 바랍니다. 납부 기한 경과 시 가산금 부과됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-33333","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":356,"content":"드론 촬영 대금 56356356356 입금 처리되었습니다. 촬영 영상은 편집 후 전달됩니다.","has_sensitive":true,"entities":[{"value":"56356356356","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":357,"content":"단체 보험료는 110-999-222888 으로 납부해 주세요. 보장 내용은 약관을 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"110-999-222888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":358,"content":"수의료 진료비가 302-8888-5555-99 로 청구되었습니다. 처방약은 약국에서 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-99","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":359,"content":"공간 대여료는 1002-333-999777 으로 결제됩니다. 대여 시설은 원상 복구 후 반납 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-333-999777","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":360,"content":"직업 훈련 수당 790-444444-11111 계좌로 지급 완료되었습니다. 출석 확인 후 입금되었습니다.","has_sensitive":true,"entities":[{"value":"790-444444-11111","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":361,"content":"축제 부스 운영비 78478478478 으로 송금 완료했습니다. 부스 설치는 전날 완료 바랍니다.","has_sensitive":true,"entities":[{"value":"78478478478","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":362,"content":"부가 서비스 요금은 110-444-888222 으로 입금 바랍니다. 서비스 신청은 고객센터로 연락 주세요.","has_sensitive":true,"entities":[{"value":"110-444-888222","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":363,"content":"산업재해 보상금이 302-7777-4444-66 로 입금 예정입니다. 요양 종결 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"302-7777-4444-66","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":364,"content":"데이터 분석 용역비는 1002-555-333444 로 지급됩니다. 분석 결과는 프레젠테이션으로 보고됩니다.","has_sensitive":true,"entities":[{"value":"1002-555-333444","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":365,"content":"가입 환급금 계좌 790-888888-66666 등록되었습니다. 해지 신청서 접수 완료되었습니다.","has_sensitive":true,"entities":[{"value":"790-888888-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":366,"content":"아트 상품 판매 수익 90190190190 입금 확인되었습니다. 전시회 성공을 축하드립니다.","has_sensitive":true,"entities":[{"value":"90190190190","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":367,"content":"가맹점 정산금은 110-222-666888 계좌로 매주 입금됩니다. 정산 내역은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"110-222-666888","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":368,"content":"대출 중도 상환금이 302-5555-8888-11 로 청구됩니다. 수수료는 약정서를 확인하세요.","has_sensitive":true,"entities":[{"value":"302-5555-8888-11","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":369,"content":"재능 기부 활동비는 1002-777-666222 으로 지급 예정입니다. 봉사 시간 확인 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-666222","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":370,"content":"차량 리스료 계좌 790-222222-33333 등록 완료했습니다. 매월 자동 출금되니 참고 바랍니다.","has_sensitive":true,"entities":[{"value":"790-222222-33333","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":371,"content":"퍼포먼스 공연료 23223223223 으로 송금 완료했습니다. 공연 영상은 SNS에 업로드 가능합니다.","has_sensitive":true,"entities":[{"value":"23223223223","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":372,"content":"전시 작품 대여료는 110-888-999444 으로 납부 바랍니다. 대여 기간 연장은 협의 가능합니다.","has_sensitive":true,"entities":[{"value":"110-888-999444","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":373,"content":"공사 안전 관리비가 302-9999-7777-55 로 입금되었습니다. 안전 교육은 매월 실시됩니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":374,"content":"콘텐츠 제휴 수익은 1002-111-444777 로 정산됩니다. 수익 배분은 계약서대로 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-111-444777","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":375,"content":"안전 검사 수수료 790-666666-99999 계좌로 청구됩니다. 검사 일정은 사전 통보됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":376,"content":"식품 납품 대금 45545545545 입금 처리되었습니다. 품질 검사는 합격 판정 받았습니다.","has_sensitive":true,"entities":[{"value":"45545545545","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":377,"content":"자격 갱신료는 110-777-555999 으로 입금 부탁드립니다. 갱신 완료 시 자격증이 재발급됩니다.","has_sensitive":true,"entities":[{"value":"110-777-555999","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":378,"content":"자동 결제 환불액이 302-4444-3333-88 로 입금 완료되었습니다. 오류로 인한 환불 조치입니다.","has_sensitive":true,"entities":[{"value":"302-4444-3333-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":379,"content":"행사 대관 보증금은 1002-666-777222 으로 납부 바랍니다. 행사 종료 후 환불됩니다.","has_sensitive":true,"entities":[{"value":"1002-666-777222","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":380,"content":"운동 시설 이용료 790-333333-55555 계좌로 결제 가능합니다. 회원권 구매 시 할인됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-55555","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":381,"content":"농산물 구매 대금 67667667667 으로 송금 완료했습니다. 산지 직송으로 신선도가 보장됩니다.","has_sensitive":true,"entities":[{"value":"67667667667","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":382,"content":"교통비 보조금은 110-555-666222 계좌로 지급됩니다. 출퇴근 거리 확인 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"110-555-666222","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":383,"content":"불량품 배상금이 302-8888-9999-77 로 입금 예정입니다. 재발 방지 대책은 수립 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-8888-9999-77","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":384,"content":"카페 창업 비용은 1002-222-333888 으로 지급 예정입니다. 인테리어 공사는 다음 달 시작됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-333888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":385,"content":"회의실 대여료 계좌 790-999999-22222 등록되었습니다. 사용 시간은 엄수 부탁드립니다.","has_sensitive":true,"entities":[{"value":"790-999999-22222","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":386,"content":"독서실 이용권 89689689689 입금 확인했습니다. 좌석은 선착순으로 배정됩니다.","has_sensitive":true,"entities":[{"value":"89689689689","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":387,"content":"영업 지원금은 110-333-777444 으로 송금됩니다. 실적 달성률에 따라 차등 지급됩니다.","has_sensitive":true,"entities":[{"value":"110-333-777444","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":388,"content":"장애물 철거 비용이 302-6666-5555-11 로 청구되었습니다. 작업 완료 후 사진 전송됩니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-11","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":389,"content":"사무실 임대료는 1002-444-555999 으로 매월 납부 바랍니다. 관리비는 별도 청구됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-555999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":390,"content":"방송 출연료 계좌 790-555555-77777 등록 완료했습니다. 방송 일정은 별도 안내됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":391,"content":"커피 머신 렌탈료 12312312312 으로 결제 부탁드립니다. 정기 점검은 분기별로 진행됩니다.","has_sensitive":true,"entities":[{"value":"12312312312","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":392,"content":"연구실 운영비는 110-666-888777 계좌로 배정됩니다. 집행 내역은 분기별 보고 바랍니다.","has_sensitive":true,"entities":[{"value":"110-666-888777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":393,"content":"출연 계약금이 302-7777-3333-66 로 입금 완료되었습니다. 촬영 일정은 협의 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-3333-66","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":394,"content":"서버 호스팅 비용은 1002-888-999666 으로 연간 결제됩니다. 백업 서비스는 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"1002-888-999666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":395,"content":"택시 운송 수익 790-111111-99999 계좌로 정산 예정입니다. 운행 기록은 시스템에 저장됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-99999","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":396,"content":"도서 인세 수익 34334334334 입금 처리되었습니다. 판매 부수는 계속 증가하고 있습니다.","has_sensitive":true,"entities":[{"value":"34334334334","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":397,"content":"대형 폐기물 처리비는 110-999-444555 으로 납부 바랍니다. 수거 일정은 전화로 예약하세요.","has_sensitive":true,"entities":[{"value":"110-999-444555","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":398,"content":"영상 편집 용역비가 302-5555-2222-99 로 정산되었습니다. 최종 편집본은 승인 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-5555-2222-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":399,"content":"공공 임대 보증금은 1002-333-777888 으로 입금 부탁드립니다. 입주 날짜는 계약서를 확인하세요.","has_sensitive":true,"entities":[{"value":"1002-333-777888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":400,"content":"전문가 자문료 790-444444-55555 계좌로 지급 예정입니다. 자문 내용은 보고서로 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"790-444444-55555","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":401,"content":"프린팅 서비스 대금 56756756756 으로 송금 완료했습니다. 출력물은 내일 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"56756756756","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":402,"content":"연극 티켓 환불액은 110-222-555999 으로 입금됩니다. 공연 취소로 인한 전액 환불입니다.","has_sensitive":true,"entities":[{"value":"110-222-555999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":403,"content":"냉난방 유지비가 302-9999-6666-88 로 청구되었습니다. 에너지 절감 노력 부탁드립니다.","has_sensitive":true,"entities":[{"value":"302-9999-6666-88","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":404,"content":"음원 스트리밍 수익은 1002-111-222999 로 정산됩니다. 재생 횟수에 따라 분배됩니다.","has_sensitive":true,"entities":[{"value":"1002-111-222999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":405,"content":"피부 관리 시술비 790-777777-55555 계좌로 결제 가능합니다. 예약 변경은 하루 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"790-777777-55555","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":406,"content":"패키지 여행 대금 78878878878 입금 확인했습니다. 출발 일정은 문자로 안내드렸습니다.","has_sensitive":true,"entities":[{"value":"78878878878","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":407,"content":"친환경 제품 보조금은 110-444-777888 으로 지급됩니다. 인증서 제출 후 입금됩니다.","has_sensitive":true,"entities":[{"value":"110-444-777888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":408,"content":"모바일 앱 개발비가 302-8888-4444-55 로 입금 예정입니다. 베타 테스트는 다음 주 시작됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-4444-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":409,"content":"사진 인화 비용은 1002-999-888777 으로 결제 바랍니다. 작품 전시는 다음 달 예정입니다.","has_sensitive":true,"entities":[{"value":"1002-999-888777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":410,"content":"신용 조회 수수료 790-222222-66666 계좌로 청구됩니다. 조회 결과는 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-66666","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":411,"content":"수족관 입장료 90290290290 으로 결제 부탁드립니다. 가족 패키지는 할인 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"90290290290","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":412,"content":"외국어 번역료는 110-555-222999 계좌로 송금 예정입니다. 번역 마감일은 엄수 바랍니다.","has_sensitive":true,"entities":[{"value":"110-555-222999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":413,"content":"의료 기기 임대료가 302-4444-9999-77 로 입금되었습니다. 사용 설명서는 첨부되어 있습니다.","has_sensitive":true,"entities":[{"value":"302-4444-9999-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":414,"content":"가상화폐 거래 수수료는 1002-777-444999 으로 청구됩니다. 거래 내역은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-777-444999","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":415,"content":"육아 지원금 계좌 790-666666-44444 등록 완료했습니다. 출생 증명서 제출 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-44444","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":416,"content":"공예 작품 판매 수익 23323323323 입금 처리되었습니다. 작품 포장은 정성껏 완료되었습니다.","has_sensitive":true,"entities":[{"value":"23323323323","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":417,"content":"온라인 쇼핑몰 정산금은 110-888-666333 으로 송금됩니다. 판매 수수료는 차감된 금액입니다.","has_sensitive":true,"entities":[{"value":"110-888-666333","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":418,"content":"드라이클리닝 비용이 302-7777-5555-22 로 청구되었습니다. 의류 수선도 가능하니 문의하세요.","has_sensitive":true,"entities":[{"value":"302-7777-5555-22","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":419,"content":"주차 정기권 구매는 1002-555-777888 으로 결제 가능합니다. 정기권은 1개월 단위입니다.","has_sensitive":true,"entities":[{"value":"1002-555-777888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":420,"content":"도배 장판 공사비 790-333333-11111 계좌로 입금 예정입니다. 시공 일정은 협의 완료되었습니다.","has_sensitive":true,"entities":[{"value":"790-333333-11111","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":421,"content":"외식 배달 판매 수익 45645645645 으로 송금 완료했습니다. 맛있는 음식 감사합니다.","has_sensitive":true,"entities":[{"value":"45645645645","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":422,"content":"가전 렌탈 월 이용료는 110-999-333555 계좌로 납부 바랍니다. 고장 시 무상 수리됩니다.","has_sensitive":true,"entities":[{"value":"110-999-333555","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":423,"content":"화훼 납품 대금이 302-6666-7777-99 로 입금 완료되었습니다. 신선한 꽃 배송 감사합니다.","has_sensitive":true,"entities":[{"value":"302-6666-7777-99","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":424,"content":"IT 장비 구매비는 1002-222-666444 으로 지급 예정입니다. 납품 완료 후 검수 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-666444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":425,"content":"에어컨 설치비 계좌 790-888888-77777 등록되었습니다. 설치 날짜는 전화로 예약 바랍니다.","has_sensitive":true,"entities":[{"value":"790-888888-77777","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":426,"content":"손해 사정 수수료 67767767767 입금 확인했습니다. 사정 보고서는 보험사에 제출되었습니다.","has_sensitive":true,"entities":[{"value":"67767767767","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":427,"content":"블로그 광고 수익은 110-333-888666 으로 정산됩니다. 방문자 수가 꾸준히 증가하고 있습니다.","has_sensitive":true,"entities":[{"value":"110-333-888666","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":428,"content":"세탁 서비스 월 이용료가 302-5555-4444-77 로 청구되었습니다. 픽업 배송 서비스 포함입니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-77","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":429,"content":"승마 레슨 비용은 1002-888-555777 으로 결제 바랍니다. 장비 대여는 레슨료에 포함됩니다.","has_sensitive":true,"entities":[{"value":"1002-888-555777","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":430,"content":"법률 상담료 계좌 790-111111-22222 등록 완료했습니다. 상담 예약은 홈페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"790-111111-22222","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":431,"content":"캠핑 용품 대여료 89889889889 으로 송금 완료했습니다. 반납 시 세척 후 반납 바랍니다.","has_sensitive":true,"entities":[{"value":"89889889889","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":432,"content":"자동차 보험료는 110-666-999111 계좌로 납부해 주세요. 갱신 시기는 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"110-666-999111","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":433,"content":"여권 발급 대행료가 302-9999-8888-44 로 입금되었습니다. 여권은 1주일 후 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"302-9999-8888-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":434,"content":"학원 수강료는 1002-444-888333 으로 납부 바랍니다. 결석 시 보강 수업이 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-888333","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":435,"content":"골프 레슨 비용 790-555555-33333 계좌로 결제 가능합니다. 레슨 일정은 강사와 협의하세요.","has_sensitive":true,"entities":[{"value":"790-555555-33333","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":436,"content":"전자책 출판 수익 12412412412 입금 처리되었습니다. 독자 리뷰가 좋아 판매가 증가하고 있습니다.","has_sensitive":true,"entities":[{"value":"12412412412","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":437,"content":"자동차 튜닝 비용은 110-777-444333 으로 입금 부탁드립니다. 작업 기간은 1주일 소요됩니다.","has_sensitive":true,"entities":[{"value":"110-777-444333","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":438,"content":"건강 검진 환급금이 302-4444-2222-66 로 입금 완료되었습니다. 검진 결과는 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-2222-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":439,"content":"요가 수업료는 1002-999-777444 으로 결제됩니다. 수업은 매주 화요일과 목요일입니다.","has_sensitive":true,"entities":[{"value":"1002-999-777444","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":440,"content":"노트북 수리비 계좌 790-222222-99999 등록되었습니다. 수리 완료 시 문자로 안내드립니다.","has_sensitive":true,"entities":[{"value":"790-222222-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":441,"content":"바이올린 레슨 대금 34534534534 으로 송금 완료했습니다. 연주회 참가 신청은 별도 안내됩니다.","has_sensitive":true,"entities":[{"value":"34534534534","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":442,"content":"의상 대여료는 110-555-777888 계좌로 납부 바랍니다. 대여 기간 연장은 추가 요금이 발생합니다.","has_sensitive":true,"entities":[{"value":"110-555-777888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":443,"content":"주택 수리 보조금이 302-8888-6666-33 로 지급 예정입니다. 신청 서류는 승인 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-33","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":444,"content":"온천 이용권 구매는 1002-333-555444 으로 결제 가능합니다. 이용 시간은 제한이 없습니다.","has_sensitive":true,"entities":[{"value":"1002-333-555444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":445,"content":"스포츠 용품 환불 790-999999-88888 계좌로 입금됩니다. 반품 확인 후 3일 내 처리됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-88888","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":446,"content":"기타 수리비 56956956956 입금 확인했습니다. 수리 완료 후 음질 테스트도 진행되었습니다.","has_sensitive":true,"entities":[{"value":"56956956956","begin":9,"end":20,"label":"BANK_ACCOUNT"}]}
+{"id":447,"content":"미술 작품 위탁 판매 수익은 110-888-222999 으로 송금됩니다. 작품 전시는 성공적이었습니다.","has_sensitive":true,"entities":[{"value":"110-888-222999","begin":19,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":448,"content":"애완견 미용 비용이 302-7777-4444-88 로 청구되었습니다. 미용 후 사진은 SNS에 공유 가능합니다.","has_sensitive":true,"entities":[{"value":"302-7777-4444-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":449,"content":"중고차 판매 대금은 1002-666-999222 로 입금 예정입니다. 차량 명의 이전은 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-666-999222","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":450,"content":"발레 수업 등록비 790-444444-66666 계좌로 결제 바랍니다. 공연 참가는 강사 추천으로 가능합니다.","has_sensitive":true,"entities":[{"value":"790-444444-66666","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":451,"content":"가구 배송 추가비 78178178178 으로 송금 완료했습니다. 계단 운반으로 추가 비용이 발생했습니다.","has_sensitive":true,"entities":[{"value":"78178178178","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":452,"content":"등산 장비 렌탈료는 110-222-555777 으로 납부해 주세요. 대여 기간은 최대 3일입니다.","has_sensitive":true,"entities":[{"value":"110-222-555777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":453,"content":"면허 갱신 수수료가 302-5555-9999-11 로 입금되었습니다. 갱신 증명서는 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-11","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":454,"content":"강아지 훈련 비용은 1002-888-444555 로 결제됩니다. 훈련 프로그램은 8주 과정입니다.","has_sensitive":true,"entities":[{"value":"1002-888-444555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":455,"content":"피아노 조율비 계좌 790-666666-22222 등록 완료했습니다. 정기 조율은 6개월마다 권장됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-22222","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":456,"content":"공연장 음향 대여료 90390390390 입금 처리되었습니다. 장비 설치는 공연 당일 오전에 완료됩니다.","has_sensitive":true,"entities":[{"value":"90390390390","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":457,"content":"사진 촬영 비용은 110-999-888333 계좌로 송금 부탁드립니다. 원본 파일은 USB로 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-999-888333","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":458,"content":"수영 강습비가 302-9999-5555-77 로 청구되었습니다. 강습은 개인별 수준에 맞춰 진행됩니다.","has_sensitive":true,"entities":[{"value":"302-9999-5555-77","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":459,"content":"오토바이 정비료는 1002-111-888999 으로 결제 가능합니다. 소모품 교체 내역은 명세서를 확인하세요.","has_sensitive":true,"entities":[{"value":"1002-111-888999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":460,"content":"헬스장 PT 비용 790-333333-44444 계좌로 납부 바랍니다. 개인 맞춤 운동 프로그램이 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-44444","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":461,"content":"악세사리 제작비 23523523523 으로 송금 완료했습니다. 맞춤 제작으로 배송까지 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"23523523523","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":462,"content":"자전거 수리비는 110-444-333666 으로 입금 부탁드립니다. 점검 서비스는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-444-333666","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":463,"content":"무용 공연 출연료가 302-6666-8888-22 로 입금 예정입니다. 공연 리허설은 다음 주 시작됩니다.","has_sensitive":true,"entities":[{"value":"302-6666-8888-22","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":464,"content":"애완동물 호텔 이용료는 1002-555-222333 로 결제됩니다. 픽업 서비스는 별도 요금입니다.","has_sensitive":true,"entities":[{"value":"1002-555-222333","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":465,"content":"항공권 환불액 계좌 790-777777-99999 등록되었습니다. 취소 수수료 차감 후 환불됩니다.","has_sensitive":true,"entities":[{"value":"790-777777-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":466,"content":"낚시 용품 대금 45745745745 입금 확인했습니다. 배송은 주문 당일 출고 완료되었습니다.","has_sensitive":true,"entities":[{"value":"45745745745","begin":10,"end":21,"label":"BANK_ACCOUNT"}]}
+{"id":467,"content":"태권도 도장 등록비는 110-777-666444 계좌로 납부 바랍니다. 도복은 등록 시 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-777-666444","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":468,"content":"맛집 투어 참가비가 302-4444-7777-99 로 청구되었습니다. 투어 코스는 5곳이며 시식 포함입니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-99","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":469,"content":"명함 인쇄 비용은 1002-999-333777 으로 결제 바랍니다. 디자인 시안은 승인 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1002-999-333777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":470,"content":"스키 리프트권 790-888888-44444 계좌로 구매 가능합니다. 시즌권 구매 시 할인 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"790-888888-44444","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":471,"content":"장례 서비스 비용 67867867867 으로 송금 완료했습니다. 삼가 고인의 명복을 빕니다.","has_sensitive":true,"entities":[{"value":"67867867867","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":472,"content":"꽃집 정기 배송료는 110-555-999333 으로 납부해 주세요. 매주 금요일 오전 배송됩니다.","has_sensitive":true,"entities":[{"value":"110-555-999333","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":473,"content":"드럼 레슨 월 수강료가 302-8888-3333-55 로 입금되었습니다. 연습실은 무료로 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"302-8888-3333-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":474,"content":"요리 클래스 재료비는 1002-222-777888 로 지급 예정입니다. 레시피는 수업 후 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-777888","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":475,"content":"보일러 점검비 계좌 790-999999-11111 등록 완료했습니다. 동절기 전 점검을 권장합니다.","has_sensitive":true,"entities":[{"value":"790-999999-11111","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":476,"content":"목공 DIY 클래스 89589589589 입금 처리되었습니다. 필요한 공구는 모두 제공됩니다.","has_sensitive":true,"entities":[{"value":"89589589589","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":477,"content":"와인 시음회 참가비는 110-888-444777 계좌로 송금 바랍니다. 소믈리에의 해설이 포함됩니다.","has_sensitive":true,"entities":[{"value":"110-888-444777","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":478,"content":"애완견 사료 정기 배송이 302-7777-6666-11 로 청구됩니다. 배송 주기는 한 달 단위입니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-11","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":479,"content":"자동차 세차 멤버십은 1002-444-222999 으로 결제 가능합니다. 월 무제한 세차 서비스입니다.","has_sensitive":true,"entities":[{"value":"1002-444-222999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":480,"content":"펜션 숙박비 계좌 790-222222-55555 등록되었습니다. 취소 시 환불 규정을 확인하세요.","has_sensitive":true,"entities":[{"value":"790-222222-55555","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":481,"content":"베이킹 클래스 대금 12512512512 으로 송금 완료했습니다. 만든 빵은 모두 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"12512512512","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":482,"content":"필라테스 그룹 수업료는 110-333-777999 으로 입금 바랍니다. 요가 매트는 개인 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"110-333-777999","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":483,"content":"자동차 보관료가 302-5555-4444-88 로 매월 청구됩니다. 보관 시설은 CCTV로 관리됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-88","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":484,"content":"호텔 예약 취소 환불은 1002-777-555666 로 처리됩니다. 취소 수수료는 정책을 확인하세요.","has_sensitive":true,"entities":[{"value":"1002-777-555666","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":485,"content":"유아 체육 교실 790-666666-77777 계좌로 결제 가능합니다. 수업은 주 2회 진행됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":486,"content":"카페 프랜차이즈 가맹비 34634634634 입금 확인했습니다. 오픈 준비 교육은 다음 달 시작됩니다.","has_sensitive":true,"entities":[{"value":"34634634634","begin":16,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":487,"content":"테니스 레슨비는 110-666-555222 계좌로 납부 바랍니다. 라켓 대여는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-666-555222","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":488,"content":"하키 용품 구매 대금이 302-9999-2222-44 로 입금 완료되었습니다. 맞춤 제작 장비입니다.","has_sensitive":true,"entities":[{"value":"302-9999-2222-44","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":489,"content":"승무원 교육 과정비는 1002-888-666999 으로 지급 예정입니다. 교육 기간은 6개월입니다.","has_sensitive":true,"entities":[{"value":"1002-888-666999","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":490,"content":"스쿠버 강습비 계좌 790-444444-99999 등록 완료했습니다. 자격증 취득까지 지도해 드립니다.","has_sensitive":true,"entities":[{"value":"790-444444-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":491,"content":"공연 무대 장치 대여료 56156156156 으로 송금 완료했습니다. 설치 및 철거 서비스 포함입니다.","has_sensitive":true,"entities":[{"value":"56156156156","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":492,"content":"서핑 강습비는 110-999-888777 으로 결제 바랍니다. 서핑보드와 웻슈트는 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-999-888777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":493,"content":"유리 공예 체험비가 302-4444-8888-33 로 청구되었습니다. 제작한 작품은 당일 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"302-4444-8888-33","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":494,"content":"운전 면허 학원비는 1002-555-999444 으로 납부 바랍니다. 학과와 기능 교육 모두 포함입니다.","has_sensitive":true,"entities":[{"value":"1002-555-999444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":495,"content":"암벽 등반 장비 대여 790-111111-55555 계좌로 결제 가능합니다. 안전 교육은 필수입니다.","has_sensitive":true,"entities":[{"value":"790-111111-55555","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":496,"content":"바리스타 자격증 과정 78278278278 입금 처리되었습니다. 실습은 전문 카페에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"78278278278","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":497,"content":"퍼스널 스타일링 비용은 110-222-666777 계좌로 송금 부탁드립니다. 의상 쇼핑 동행 서비스입니다.","has_sensitive":true,"entities":[{"value":"110-222-666777","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":498,"content":"승마장 회원권이 302-8888-7777-66 로 입금되었습니다. 말 관리 교육도 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"302-8888-7777-66","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":499,"content":"산악자전거 수리비는 1002-333-444888 로 결제됩니다. 부품 교체 내역은 상세히 안내됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-444888","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":500,"content":"방송 댄스 학원 790-555555-88888 계좌로 납부 바랍니다. 공연 기회도 정기적으로 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-88888","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":501,"content":"제빵 자격증 과정비 90490490490 으로 송금 완료했습니다. 자격증 시험 접수도 대행해 드립니다.","has_sensitive":true,"entities":[{"value":"90490490490","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":502,"content":"골프 회원권 양도대금은 110-777-333555 으로 입금 예정입니다. 명의 이전 절차는 진행 중입니다.","has_sensitive":true,"entities":[{"value":"110-777-333555","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":503,"content":"가죽 공예 원데이 클래스가 302-6666-5555-99 로 청구되었습니다. 재료비는 모두 포함된 가격입니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-99","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":504,"content":"스노보드 강습료는 1002-111-777666 으로 결제 가능합니다. 장비 렌탈비는 별도입니다.","has_sensitive":true,"entities":[{"value":"1002-111-777666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":505,"content":"도자기 체험 수업 790-999999-33333 계좌로 납부 바랍니다. 가마 소성 후 한 달 뒤 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"790-999999-33333","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":506,"content":"동물병원 수술비 23623623623 입금 확인했습니다. 수술 후 입원 관리도 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"23623623623","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":507,"content":"수상 스키 체험비는 110-444-999888 계좌로 송금 바랍니다. 구명조끼와 안전 장비가 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-444-999888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":508,"content":"캘리그라피 클래스가 302-5555-3333-77 로 입금 완료되었습니다. 붓과 먹은 수업료에 포함됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-3333-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":509,"content":"클라이밍 센터 이용권은 1002-999-888555 로 결제됩니다. 안전 교육 이수 후 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-999-888555","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":510,"content":"보컬 트레이닝 비용 790-222222-88888 계좌로 결제 바랍니다. 녹음실 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"790-222222-88888","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":511,"content":"레프팅 투어 참가비 45845845845 으로 송금 완료했습니다. 안전 요원이 동행하며 사진 촬영도 제공됩니다.","has_sensitive":true,"entities":[{"value":"45845845845","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":512,"content":"플라워 클래스 재료비는 110-555-444666 으로 납부해 주세요. 꽃은 당일 신선한 것으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"110-555-444666","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":513,"content":"수중 촬영 서비스가 302-9999-4444-22 로 청구되었습니다. 편집 영상은 USB로 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-9999-4444-22","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":514,"content":"축구 동호회 회비는 1002-666-555777 로 지급 예정입니다. 유니폼과 운동화는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-666-555777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":515,"content":"수제 맥주 양조 클래스 790-888888-99999 계좌로 납부 바랍니다. 완성된 맥주는 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"790-888888-99999","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":516,"content":"드론 촬영 교육비 67767767767 입금 처리되었습니다. 드론 조종 자격증 취득까지 지도합니다.","has_sensitive":true,"entities":[{"value":"67767767767","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":517,"content":"패러글라이딩 체험료는 110-888-777444 계좌로 송금 부탁드립니다. 날씨에 따라 일정 변경될 수 있습니다.","has_sensitive":true,"entities":[{"value":"110-888-777444","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":518,"content":"홈 베이킹 레슨이 302-4444-6666-55 로 입금되었습니다. 레시피북은 수업 후 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":519,"content":"볼링장 회원권은 1002-222-999666 으로 결제 가능합니다. 신발 대여는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-999666","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":520,"content":"메이크업 레슨비 790-444444-77777 계좌로 결제 바랍니다. 개인 화장품은 지참 부탁드립니다.","has_sensitive":true,"entities":[{"value":"790-444444-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":521,"content":"고양이 호텔 예약금 89689689689 으로 송금 완료했습니다. 픽업 드랍 서비스도 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"89689689689","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":522,"content":"사진 보정 서비스는 110-222-888999 으로 납부 바랍니다. 작업 기간은 3일 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"110-222-888999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":523,"content":"바이올린 수리비가 302-7777-8888-11 로 청구되었습니다. 명장의 손길로 복원 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-7777-8888-11","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":524,"content":"발레 발표회 의상비는 1002-555-444777 로 지급 예정입니다. 맞춤 제작으로 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"1002-555-444777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":525,"content":"트램펄린 센터 790-666666-55555 계좌로 이용권 구매 가능합니다. 양말 착용은 필수입니다.","has_sensitive":true,"entities":[{"value":"790-666666-55555","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":526,"content":"자수 클래스 재료비 12712712712 입금 확인했습니다. 바늘과 실은 모두 제공됩니다.","has_sensitive":true,"entities":[{"value":"12712712712","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":527,"content":"애견 수영장 이용료는 110-999-555888 계좌로 납부해 주세요. 안전 요원이 상시 대기합니다.","has_sensitive":true,"entities":[{"value":"110-999-555888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":528,"content":"승마 체험 패키지가 302-8888-5555-44 로 입금 완료되었습니다. 사진 촬영 서비스도 포함입니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":529,"content":"복싱 짐 등록비는 1002-777-888666 으로 결제됩니다. 글러브와 보호대는 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-777-888666","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":530,"content":"애견 미용 정기권 790-333333-66666 계좌로 구매 바랍니다. 월 1회 무료 목욕 서비스 포함입니다.","has_sensitive":true,"entities":[{"value":"790-333333-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":531,"content":"염색 체험 클래스 34934934934 으로 송금 완료했습니다. 천연 염료를 사용한 친환경 체험입니다.","has_sensitive":true,"entities":[{"value":"34934934934","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":532,"content":"요트 투어 참가비는 110-444-666999 으로 입금 부탁드립니다. 식사와 음료가 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-444-666999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":533,"content":"헬기 유람 비용이 302-6666-4444-33 로 청구되었습니다. 기상 조건에 따라 운항 여부가 결정됩니다.","has_sensitive":true,"entities":[{"value":"302-6666-4444-33","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":534,"content":"칵테일 클래스는 1002-888-555999 로 결제 가능합니다. 음료 재료는 모두 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"1002-888-555999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":535,"content":"스케이트 강습비 계좌 790-111111-44444 등록되었습니다. 스케이트 대여는 무료입니다.","has_sensitive":true,"entities":[{"value":"790-111111-44444","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":536,"content":"목공예 체험 비용 56256256256 입금 처리되었습니다. 완성품은 당일 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"56256256256","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":537,"content":"승무원 면접 컨설팅은 110-666-333999 계좌로 송금 바랍니다. 모의 면접도 3회 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-666-333999","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":538,"content":"댄스 스포츠 레슨이 302-5555-7777-22 로 입금되었습니다. 파트너 매칭도 도와드립니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-22","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":539,"content":"바둑 교실 수강료는 1002-999-444888 으로 납부 바랍니다. 온라인 복기 서비스도 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-444888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":540,"content":"유리 세공 작품 판매 수익 790-555555-22222 로 정산 예정입니다. 전시회 성공을 축하드립니다.","has_sensitive":true,"entities":[{"value":"790-555555-22222","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":541,"content":"애견 유치원 월 이용료 78478478478 으로 송금 완료했습니다. 일일 활동 사진은 SNS로 공유됩니다.","has_sensitive":true,"entities":[{"value":"78478478478","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":542,"content":"바리스타 대회 참가비는 110-777-222444 으로 결제 바랍니다. 우승 시 해외 연수 기회가 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-777-222444","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":543,"content":"서예 작품 경매 낙찰가가 302-9999-6666-77 로 입금 완료되었습니다. 작품 인도는 내일 가능합니다.","has_sensitive":true,"entities":[{"value":"302-9999-6666-77","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":544,"content":"마술 강습 프로그램은 1002-333-222555 로 지급 예정입니다. 마술 도구는 별도 구매 바랍니다.","has_sensitive":true,"entities":[{"value":"1002-333-222555","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":545,"content":"승마 치료 프로그램 790-888888-33333 계좌로 납부 바랍니다. 전문 치료사가 동행합니다.","has_sensitive":true,"entities":[{"value":"790-888888-33333","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":546,"content":"수제 초콜릿 클래스 90690690690 입금 확인했습니다. 만든 초콜릿은 선물 포장해 드립니다.","has_sensitive":true,"entities":[{"value":"90690690690","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":547,"content":"펜싱 교실 등록비는 110-555-777666 계좌로 송금 부탁드립니다. 보호 장비는 모두 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-555-777666","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":548,"content":"도예 작품 전시 참가비가 302-4444-5555-88 로 청구되었습니다. 전시 기간은 한 달입니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-88","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":549,"content":"암벽 등반 강사 자격증 과정은 1002-666-888777 로 결제됩니다. 실기 시험 응시료 포함입니다.","has_sensitive":true,"entities":[{"value":"1002-666-888777","begin":20,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":550,"content":"애견 훈련 프로그램 790-222222-99999 계좌로 결제 바랍니다. 주 3회 방문 훈련입니다.","has_sensitive":true,"entities":[{"value":"790-222222-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":551,"content":"원예 치료 세션 비용 23823823823 으로 송금 완료했습니다. 식물은 세션 후 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"23823823823","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":552,"content":"행글라이딩 체험비는 110-888-444999 으로 납부해 주세요. 안전 교육은 필수로 이수해야 합니다.","has_sensitive":true,"entities":[{"value":"110-888-444999","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":553,"content":"바이올린 제작 클래스가 302-8888-2222-99 로 입금되었습니다. 제작 기간은 6개월 소요됩니다.","has_sensitive":true,"entities":[{"value":"302-8888-2222-99","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":554,"content":"체조 교실 월 수강료는 1002-111-555999 로 지급 예정입니다. 발표회는 연 2회 개최됩니다.","has_sensitive":true,"entities":[{"value":"1002-111-555999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":555,"content":"와인 제조 체험 790-999999-55555 계좌로 납부 바랍니다. 숙성 후 6개월 뒤 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"790-999999-55555","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":556,"content":"목각 조각 클래스 45145145145 입금 처리되었습니다. 조각 도구는 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"45145145145","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":557,"content":"스쿼시 레슨비는 110-333-999777 계좌로 송금 바랍니다. 라켓과 공은 무료 대여됩니다.","has_sensitive":true,"entities":[{"value":"110-333-999777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":558,"content":"캔들 만들기 클래스가 302-7777-9999-55 로 청구되었습니다. 다양한 향을 선택할 수 있습니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":559,"content":"태극권 수업료는 1002-555-777999 으로 결제 가능합니다. 아침 수업과 저녁 수업 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-555-777999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":560,"content":"애견 행동 교정 790-444444-88888 계좌로 결제 바랍니다. 가정 방문 상담도 포함됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-88888","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":561,"content":"비누 만들기 체험 67867867867 으로 송금 완료했습니다. 천연 재료만 사용합니다.","has_sensitive":true,"entities":[{"value":"67867867867","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":562,"content":"배드민턴 클럽 회비는 110-666-444888 으로 입금 부탁드립니다. 체육관 사용료 포함입니다.","has_sensitive":true,"entities":[{"value":"110-666-444888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":563,"content":"금속 공예 워크숍이 302-5555-8888-66 로 입금 완료되었습니다. 안전 장비 착용은 필수입니다.","has_sensitive":true,"entities":[{"value":"302-5555-8888-66","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":564,"content":"사물놀이 수업비는 1002-999-333666 로 납부 바랍니다. 악기는 교실에서 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-333666","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":565,"content":"요가 지도자 과정 790-666666-99999 계좌로 지급 예정입니다. 자격증 취득까지 3개월 소요됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-99999","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":566,"content":"천연 염색 클래스 89789789789 입금 확인했습니다. 염색할 천은 개인 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"89789789789","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":567,"content":"아이스하키 장비 대여료는 110-999-666555 계좌로 송금 부탁드립니다. 보호 장비 필수 착용입니다.","has_sensitive":true,"entities":[{"value":"110-999-666555","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":568,"content":"도예 전문가 과정이 302-9999-7777-88 로 청구되었습니다. 개인 가마 사용도 가능합니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-88","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":569,"content":"탁구 동호회 회비는 1002-222-888444 로 결제됩니다. 용품 구매 시 회원 할인 적용됩니다.","has_sensitive":true,"entities":[{"value":"1002-222-888444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":570,"content":"반려견 수제간식 클래스 790-333333-77777 계좌로 납부 바랍니다. 레시피는 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-77777","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":571,"content":"향수 만들기 체험 12812812812 으로 송금 완료했습니다. 개인 맞춤 향을 조합합니다.","has_sensitive":true,"entities":[{"value":"12812812812","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":572,"content":"컬링 체험 프로그램은 110-444-777555 으로 결제 바랍니다. 전문 강사가 지도합니다.","has_sensitive":true,"entities":[{"value":"110-444-777555","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":573,"content":"서양화 개인 레슨이 302-6666-3333-44 로 입금되었습니다. 화구는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"302-6666-3333-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":574,"content":"검도 교실 수강료는 1002-777-666555 로 지급 예정입니다. 호구와 죽도는 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-777-666555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":575,"content":"애견 호텔 프리미엄 790-888888-55555 계좌로 결제 가능합니다. 24시간 CCTV 모니터링됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-55555","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":576,"content":"화장품 DIY 클래스 34034034034 입금 처리되었습니다. 만든 제품은 모두 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"34034034034","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":577,"content":"아쿠아로빅 강습비는 110-777-555444 계좌로 송금 바랍니다. 수영복과 수모는 개인 준비입니다.","has_sensitive":true,"entities":[{"value":"110-777-555444","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":578,"content":"펠트 공예 원데이 클래스가 302-4444-9999-22 로 청구되었습니다. 바늘과 실은 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-9999-22","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":579,"content":"유도 도장 등록비는 1002-888-555888 으로 납부 바랍니다. 도복은 등록 시 지급됩니다.","has_sensitive":true,"entities":[{"value":"1002-888-555888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":580,"content":"반려동물 사진 촬영 790-111111-77777 계좌로 결제 바랍니다. 야외 촬영도 가능합니다.","has_sensitive":true,"entities":[{"value":"790-111111-77777","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":581,"content":"수제 치즈 만들기 56356356356 으로 송금 완료했습니다. 숙성 과정도 체험할 수 있습니다.","has_sensitive":true,"entities":[{"value":"56356356356","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":582,"content":"사격 체험 프로그램은 110-555-888444 으로 입금 부탁드립니다. 안전 교육 필수입니다.","has_sensitive":true,"entities":[{"value":"110-555-888444","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":583,"content":"한지 공예 클래스가 302-8888-4444-77 로 입금 완료되었습니다. 한지는 다양한 색상 준비되어 있습니다.","has_sensitive":true,"entities":[{"value":"302-8888-4444-77","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":584,"content":"합기도 수련비는 1002-333-999888 로 결제됩니다. 승급 심사는 분기별로 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-999888","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":586,"content":"방문 애견 미용 서비스 78578578578 입금 확인했습니다. 방문 날짜는 전화로 예약 바랍니다.","has_sensitive":true,"entities":[{"value":"78578578578","begin":16,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":587,"content":"풋살장 대관료는 110-333-777888 계좌로 송금 부탁드립니다. 조명 사용료는 별도입니다.","has_sensitive":true,"entities":[{"value":"110-333-777888","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":588,"content":"수제 마카롱 클래스가 302-7777-5555-99 로 청구되었습니다. 포장 상자도 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-7777-5555-99","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":589,"content":"기계 체조 선수반은 1002-666-777999 로 납부 바랍니다. 대회 출전 기회가 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-666-777999","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":590,"content":"애견 호텔 VIP 룸 790-555555-99999 계좌로 예약 가능합니다. 개별 놀이터가 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-99999","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":591,"content":"도예 공방 회원권 90890890890 으로 송금 완료했습니다. 가마 사용료는 별도 정산입니다.","has_sensitive":true,"entities":[{"value":"90890890890","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":592,"content":"볼링 레슨 그룹반은 110-888-555666 으로 결제 바랍니다. 공과 신발은 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"110-888-555666","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":593,"content":"스테인드 글라스 클래스가 302-5555-6666-88 로 입금되었습니다. 작품 제작에 4주 소요됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-6666-88","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":594,"content":"씨름 교실 등록비는 1002-999-444777 로 지급 예정입니다. 씨름복은 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-444777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":595,"content":"애견 수영장 월 이용권 790-222222-44444 계좌로 납부 바랍니다. 수건은 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-222222-44444","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":596,"content":"홈브루잉 장비 대금 23923923923 입금 처리되었습니다. 레시피북도 함께 발송됩니다.","has_sensitive":true,"entities":[{"value":"23923923923","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":597,"content":"당구장 회원권은 110-666-999444 계좌로 송금 부탁드립니다. 큐 보관함이 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-666-999444","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":598,"content":"비즈 공예 재료비가 302-9999-8888-55 로 청구되었습니다. 다양한 비즈를 선택할 수 있습니다.","has_sensitive":true,"entities":[{"value":"302-9999-8888-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":599,"content":"가라테 도장 회비는 1002-444-666777 로 결제됩니다. 띠 승급 심사는 정기적으로 실시됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-666777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":600,"content":"애견 행동 분석 790-999999-77777 계좌로 상담료 결제 바랍니다. 개별 솔루션을 제공합니다.","has_sensitive":true,"entities":[{"value":"790-999999-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":601,"content":"빈티지 가구 복원비 45345345345 으로 송금 완료했습니다. 복원 기간은 약 한 달 소요됩니다.","has_sensitive":true,"entities":[{"value":"45345345345","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":602,"content":"실내 골프 연습장은 110-777-888222 으로 납부해 주세요. 클럽 대여는 무료입니다.","has_sensitive":true,"entities":[{"value":"110-777-888222","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":603,"content":"스크랩북 만들기 클래스가 302-4444-3333-66 로 입금 완료되었습니다. 꾸미기 재료는 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-3333-66","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":604,"content":"주짓수 도장 수강료는 1002-777-555444 로 지급 예정입니다. 도복 구매는 선택 사항입니다.","has_sensitive":true,"entities":[{"value":"1002-777-555444","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":605,"content":"반려묘 호텔 예약 790-444444-99999 계좌로 결제 가능합니다. 개별 놀이 공간이 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-444444-99999","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":606,"content":"수제 잼 만들기 67967967967 입금 확인했습니다. 과일은 유기농으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"67967967967","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":607,"content":"다이빙 자격증 과정비는 110-555-666444 계좌로 송금 바랍니다. 교재비는 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"110-555-666444","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":608,"content":"퀼트 공예 워크숍이 302-8888-6666-77 로 청구되었습니다. 바느질 도구는 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-77","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":609,"content":"킥복싱 짐 등록비는 1002-222-444999 으로 납부 바랍니다. 샤워 시설이 완비되어 있습니다.","has_sensitive":true,"entities":[{"value":"1002-222-444999","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":610,"content":"애견 산책 대행 서비스 790-666666-11111 계좌로 결제 바랍니다. 주 3회 이상 이용 시 할인됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-11111","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":611,"content":"천연 비누 제작 클래스 89089089089 으로 송금 완료했습니다. 포장 재료도 함께 제공됩니다.","has_sensitive":true,"entities":[{"value":"89089089089","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":612,"content":"스피닝 수업료는 110-999-777333 으로 입금 부탁드립니다. 실내 자전거는 준비되어 있습니다.","has_sensitive":true,"entities":[{"value":"110-999-777333","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":613,"content":"가죽 세공 전문가 과정이 302-6666-5555-44 로 입금되었습니다. 공구 세트는 개인 구매 바랍니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-44","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":614,"content":"에어로빅 강습비는 1002-555-888999 로 결제됩니다. 운동복은 편한 복장으로 준비하세요.","has_sensitive":true,"entities":[{"value":"1002-555-888999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":615,"content":"반려견 장례 서비스 790-333333-88888 계좌로 납부 바랍니다. 추모 공간도 마련되어 있습니다.","has_sensitive":true,"entities":[{"value":"790-333333-88888","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":616,"content":"수제 파스타 클래스 12012012012 입금 처리되었습니다. 만든 파스타는 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"12012012012","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":617,"content":"탁구 레슨 개인반은 110-444-555777 계좌로 송금 부탁드립니다. 라켓은 개인 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"110-444-555777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":618,"content":"마크라메 공예 클래스가 302-5555-7777-33 로 청구되었습니다. 완성품은 인테리어 소품으로 활용 가능합니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-33","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":619,"content":"복싱 개인 레슨은 1002-888-222666 로 지급 예정입니다. 맞춤형 트레이닝 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-888-222666","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":620,"content":"애견 유치원 체험 프로그램 790-777777-44444 계좌로 결제 가능합니다. 하루 체험 후 등록 결정하세요.","has_sensitive":true,"entities":[{"value":"790-777777-44444","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":621,"content":"도자기 물레 체험 34134134134 으로 송금 완료했습니다. 물레 사용법을 친절히 지도합니다.","has_sensitive":true,"entities":[{"value":"34134134134","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":622,"content":"배구 교실 등록비는 110-222-888555 으로 납부해 주세요. 배구화는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"110-222-888555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":623,"content":"양초 공예 DIY 키트가 302-9999-4444-88 로 입금 완료되었습니다. 택배로 발송 완료되었습니다.","has_sensitive":true,"entities":[{"value":"302-9999-4444-88","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":624,"content":"크로스핏 회원권은 1002-333-777555 로 결제됩니다. 개인 사물함이 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-777555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":625,"content":"애견 패션쇼 참가비 790-888888-22222 계좌로 납부 바랍니다. 의상은 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"790-888888-22222","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":626,"content":"수제 소시지 만들기 56456456456 입금 확인했습니다. 훈제 과정도 체험할 수 있습니다.","has_sensitive":true,"entities":[{"value":"56456456456","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":627,"content":"라켓볼 강습비는 110-666-777444 계좌로 송금 바랍니다. 보호 안경은 필수 착용입니다.","has_sensitive":true,"entities":[{"value":"110-666-777444","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":628,"content":"목공 가구 제작 과정이 302-4444-6666-22 로 청구되었습니다. 작업장 사용료는 포함입니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-22","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":629,"content":"스쿼시 클럽 회비는 1002-111-555333 로 납부 바랍니다. 샤워 시설 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-111-555333","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":630,"content":"반려견 사회화 교육 790-222222-77777 계좌로 결제 바랍니다. 다른 강아지들과 함께 수업합니다.","has_sensitive":true,"entities":[{"value":"790-222222-77777","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":631,"content":"수채화 개인 지도 78778778778 으로 송금 완료했습니다. 화구는 개인 준비 부탁드립니다.","has_sensitive":true,"entities":[{"value":"78778778778","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":632,"content":"야구 레슨 그룹반은 110-888-333777 으로 입금 부탁드립니다. 글러브는 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"110-888-333777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":633,"content":"염색 공예 전문가 과정이 302-7777-8888-99 로 입금되었습니다. 염료와 천은 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-7777-8888-99","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":634,"content":"짐볼 운동 수업료는 1002-999-666888 로 지급 예정입니다. 짐볼은 센터에서 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-666888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":635,"content":"애견 카페 이용권 790-555555-66666 계좌로 구매 가능합니다. 음료 1잔이 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"790-555555-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":636,"content":"전통주 빚기 클래스 90190190190 입금 처리되었습니다. 발효 과정 설명도 포함됩니다.","has_sensitive":true,"entities":[{"value":"90190190190","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":637,"content":"농구 교실 수강료는 110-555-999666 계좌로 송금 부탁드립니다. 농구화는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"110-555-999666","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":638,"content":"도예 전시회 출품비가 302-6666-4444-55 로 청구되었습니다. 작품 운송은 직접 진행 바랍니다.","has_sensitive":true,"entities":[{"value":"302-6666-4444-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":639,"content":"필라테스 개인 레슨은 1002-444-999777 로 결제됩니다. 1:1 맞춤 지도로 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-999777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":640,"content":"애견 미용 자격증 과정 790-999999-88888 계좌로 납부 바랍니다. 이론과 실기 모두 포함입니다.","has_sensitive":true,"entities":[{"value":"790-999999-88888","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":641,"content":"아로마 테라피 클래스 23323323323 으로 송금 완료했습니다. 에센셜 오일은 제공됩니다.","has_sensitive":true,"entities":[{"value":"23323323323","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":642,"content":"핸드볼 교실 등록비는 110-777-666888 으로 납부해 주세요. 실내 체육관에서 수업합니다.","has_sensitive":true,"entities":[{"value":"110-777-666888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":643,"content":"압화 공예 워크숍이 302-5555-9999-66 로 입금 완료되었습니다. 꽃은 미리 건조되어 있습니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-66","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":644,"content":"요가 수련회 참가비는 1002-888-444999 로 지급 예정입니다. 2박 3일 일정입니다.","has_sensitive":true,"entities":[{"value":"1002-888-444999","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":645,"content":"반려동물 장묘 서비스 790-333333-99999 계좌로 결제 가능합니다. 추모비도 제작해 드립니다.","has_sensitive":true,"entities":[{"value":"790-333333-99999","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":646,"content":"허브 재배 클래스 45545545545 입금 확인했습니다. 화분과 흙은 제공됩니다.","has_sensitive":true,"entities":[{"value":"45545545545","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":647,"content":"배드민턴 대회 참가비는 110-333-555888 계좌로 송금 바랍니다. 참가 기념품이 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-333-555888","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":648,"content":"자수 전문가 과정이 302-9999-3333-77 로 청구되었습니다. 자수틀과 실은 개인 구매 바랍니다.","has_sensitive":true,"entities":[{"value":"302-9999-3333-77","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":649,"content":"스트레칭 수업료는 1002-222-777444 로 납부 바랍니다. 매트는 개인 지참 부탁드립니다.","has_sensitive":true,"entities":[{"value":"1002-222-777444","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":650,"content":"애견 놀이터 회원권 790-666666-55555 계좌로 구매 가능합니다. 월 무제한 이용입니다.","has_sensitive":true,"entities":[{"value":"790-666666-55555","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":651,"content":"천연 화장품 만들기 67167167167 으로 송금 완료했습니다. 용기는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"67167167167","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":652,"content":"골프 퍼팅 레슨은 110-999-888666 으로 입금 부탁드립니다. 퍼터는 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"110-999-888666","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":653,"content":"비누 카빙 클래스가 302-4444-7777-88 로 입금되었습니다. 조각 도구는 제공됩니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-88","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":654,"content":"태보 에어로빅 수강료는 1002-666-333555 로 결제됩니다. 실내 운동화 착용 필수입니다.","has_sensitive":true,"entities":[{"value":"1002-666-333555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":655,"content":"애견 유치원 졸업식 790-111111-88888 계좌로 앨범 제작비 납부 바랍니다. 사진은 전문가가 촬영합니다.","has_sensitive":true,"entities":[{"value":"790-111111-88888","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":656,"content":"수제 김치 담그기 89289289289 입금 처리되었습니다. 담근 김치는 모두 가져가실 수 있습니다.","has_sensitive":true,"entities":[{"value":"89289289289","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":657,"content":"아이스하키 레슨비는 110-444-222777 계좌로 송금 부탁드립니다. 스케이트는 개인 준비입니다.","has_sensitive":true,"entities":[{"value":"110-444-222777","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":658,"content":"텃밭 분양 관리비가 302-8888-5555-22 로 청구되었습니다. 농기구는 공동 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-22","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":659,"content":"줌바 댄스 수업료는 1002-555-666999 로 지급 예정입니다. 신나는 음악과 함께 운동합니다.","has_sensitive":true,"entities":[{"value":"1002-555-666999","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":660,"content":"반려견 치과 치료 790-555555-44444 계좌로 결제 바랍니다. 스케일링 후 치석 제거됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-44444","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":661,"content":"한복 만들기 체험 12212212212 으로 송금 완료했습니다. 원단은 다양한 색상 준비되어 있습니다.","has_sensitive":true,"entities":[{"value":"12212212212","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":662,"content":"탁구 대회 참가비는 110-666-444999 으로 납부해 주세요. 단식과 복식 종목이 있습니다.","has_sensitive":true,"entities":[{"value":"110-666-444999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":663,"content":"규방 공예 클래스가 302-7777-6666-99 로 입금 완료되었습니다. 바느질 기본기부터 배웁니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-99","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":664,"content":"크로스핏 개인 PT는 1002-999-555777 로 납부 바랍니다. 식단 관리도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-555777","begin":14,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":665,"content":"애견 놀이방 시간제 790-444444-33333 계좌로 결제 가능합니다. 소형견 전용 공간입니다.","has_sensitive":true,"entities":[{"value":"790-444444-33333","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":666,"content":"천연 염료 추출 클래스 34234234234 입금 확인했습니다. 식물성 재료를 사용합니다.","has_sensitive":true,"entities":[{"value":"34234234234","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":667,"content":"테니스 동호회 회비는 110-555-777222 계좌로 송금 바랍니다. 코트 사용료는 포함입니다.","has_sensitive":true,"entities":[{"value":"110-555-777222","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":668,"content":"전통 매듭 공예가 302-6666-9999-11 로 청구되었습니다. 노리개 만들기를 배웁니다.","has_sensitive":true,"entities":[{"value":"302-6666-9999-11","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":669,"content":"바디 펌프 수업료는 1002-333-888777 로 결제됩니다. 바벨과 중량판은 제공됩니다.","has_sensitive":true,"entities":[{"value":"1002-333-888777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":670,"content":"반려견 수제 간식 클래스 790-888888-66666 계좌로 납부 바랍니다. 레시피북이 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-888888-66666","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":671,"content":"수제 된장 담그기 56656656656 으로 송금 완료했습니다. 숙성 항아리는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"56656656656","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":672,"content":"축구 심판 자격증 과정은 110-888-999777 으로 입금 부탁드립니다. 실습 기회가 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-888-999777","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":673,"content":"리본 자수 클래스가 302-5555-4444-99 로 입금되었습니다. 리본은 다양한 폭으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-99","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":674,"content":"요가 수련 리트릿은 1002-777-222888 로 지급 예정입니다. 숙박과 식사가 포함됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-222888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":675,"content":"애견 노즈워크 교육 790-222222-55555 계좌로 결제 가능합니다. 후각 자극 훈련입니다.","has_sensitive":true,"entities":[{"value":"790-222222-55555","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":676,"content":"천연 립밤 만들기 78978978978 입금 처리되었습니다. 밀랍과 오일은 제공됩니다.","has_sensitive":true,"entities":[{"value":"78978978978","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":677,"content":"야구 교실 등록비는 110-222-666555 계좌로 송금 부탁드립니다. 방망이는 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"110-222-666555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":678,"content":"북아트 워크숍이 302-9999-5555-88 로 청구되었습니다. 제본 도구는 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"302-9999-5555-88","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":679,"content":"수중 에어로빅 수강료는 1002-111-999555 로 납부 바랍니다. 수영장 입장료 포함입니다.","has_sensitive":true,"entities":[{"value":"1002-111-999555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":680,"content":"애견 장례식 화환 790-999999-44444 계좌로 결제 바랍니다. 추모 카드도 작성해 드립니다.","has_sensitive":true,"entities":[{"value":"790-999999-44444","begin":12,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":681,"content":"프리저브드 플라워 90390390390 으로 송금 완료했습니다. 작품은 오래 보관 가능합니다.","has_sensitive":true,"entities":[{"value":"90390390390","begin":16,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":682,"content":"농구 대회 참가비는 110-777-555999 으로 입금 부탁드립니다. 팀 유니폼이 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-777-555999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":683,"content":"타로 카드 리딩 클래스가 302-4444-8888-55 로 입금 완료되었습니다. 타로 덱은 개인 구매 바랍니다.","has_sensitive":true,"entities":[{"value":"302-4444-8888-55","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":684,"content":"TRX 서스펜션 트레이닝은 1002-888-777666 로 결제됩니다. 장비 사용법을 배웁니다.","has_sensitive":true,"entities":[{"value":"1002-888-777666","begin":19,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":685,"content":"반려견 심폐소생술 교육 790-444444-77777 계좌로 납부 바랍니다. 응급 상황 대처법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-444444-77777","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":686,"content":"수제 두부 만들기 23423423423 입금 확인했습니다. 콩은 국산 유기농으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"23423423423","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":687,"content":"배구 레슨 그룹반은 110-555-888777 계좌로 송금 바랍니다. 무릎 보호대 착용 권장합니다.","has_sensitive":true,"entities":[{"value":"110-555-888777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":688,"content":"염주 만들기 체험이 302-8888-3333-44 로 청구되었습니다. 다양한 보석을 선택할 수 있습니다.","has_sensitive":true,"entities":[{"value":"302-8888-3333-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":689,"content":"바레 워크아웃 수업료는 1002-222-555999 로 지급 예정입니다. 발레 기본 동작을 배웁니다.","has_sensitive":true,"entities":[{"value":"1002-222-555999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":690,"content":"애견 마사지 테라피 790-666666-88888 계좌로 결제 가능합니다. 반려견 건강 관리법입니다.","has_sensitive":true,"entities":[{"value":"790-666666-88888","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":691,"content":"천연 발효액 만들기 45645645645 으로 송금 완료했습니다. 유리병은 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"45645645645","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":692,"content":"핸드볼 대회 출전비는 110-999-777888 으로 납부해 주세요. 참가 기념 메달이 수여됩니다.","has_sensitive":true,"entities":[{"value":"110-999-777888","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":693,"content":"캘리그라피 작품 전시가 302-6666-5555-77 로 입금되었습니다. 전시 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-77","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":694,"content":"다이어트 PT 프로그램은 1002-444-888999 로 결제됩니다. 식단과 운동을 병행합니다.","has_sensitive":true,"entities":[{"value":"1002-444-888999","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":695,"content":"반려묘 털갈이 관리 790-111111-99999 계좌로 납부 바랍니다. 브러시와 빗은 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-111111-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":696,"content":"한과 만들기 클래스 67267267267 입금 처리되었습니다. 전통 한과 레시피를 배웁니다.","has_sensitive":true,"entities":[{"value":"67267267267","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":697,"content":"럭비 교실 수강료는 110-444-333999 계좌로 송금 부탁드립니다. 보호 장비는 모두 제공됩니다.","has_sensitive":true,"entities":[{"value":"110-444-333999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":698,"content":"천연 샴푸바 만들기가 302-5555-7777-66 로 청구되었습니다. 에센셜 오일을 첨가합니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-66","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":699,"content":"근력 운동 프로그램은 1002-777-444555 로 납부 바랍니다. 개인별 맞춤 운동 계획입니다.","has_sensitive":true,"entities":[{"value":"1002-777-444555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":700,"content":"애견 아로마 테라피 790-555555-77777 계좌로 결제 가능합니다. 스트레스 완화에 도움됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-77777","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":701,"content":"약선 요리 클래스 89489489489 으로 송금 완료했습니다. 한약재 손질법도 배웁니다.","has_sensitive":true,"entities":[{"value":"89489489489","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":702,"content":"족구 교실 등록비는 110-333-888999 으로 입금 부탁드립니다. 실내 체육관에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-333-888999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":703,"content":"수묵화 개인 지도가 302-9999-4444-33 로 입금 완료되었습니다. 붓과 먹은 개인 지참입니다.","has_sensitive":true,"entities":[{"value":"302-9999-4444-33","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":704,"content":"순환 운동 수업료는 1002-666-222777 로 지급 예정입니다. 유산소와 근력을 병행합니다.","has_sensitive":true,"entities":[{"value":"1002-666-222777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":705,"content":"반려견 발톱 관리 교육 790-888888-33333 계좌로 납부 바랍니다. 전동 그라인더 사용법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-888888-33333","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":706,"content":"천연 치약 만들기 12312312312 입금 확인했습니다. 천연 재료로 안전하게 만듭니다.","has_sensitive":true,"entities":[{"value":"12312312312","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":707,"content":"피구 대회 참가비는 110-666-777555 계좌로 송금 바랍니다. 초등부와 중등부로 나뉩니다.","has_sensitive":true,"entities":[{"value":"110-666-777555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":708,"content":"민화 그리기 클래스가 302-4444-6666-88 로 청구되었습니다. 전통 안료를 사용합니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":709,"content":"케틀벨 트레이닝은 1002-555-999888 로 결제됩니다. 다양한 중량의 케틀벨이 준비되어 있습니다.","has_sensitive":true,"entities":[{"value":"1002-555-999888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":710,"content":"애견 치아 관리 용품 790-222222-66666 계좌로 구매 가능합니다. 치약과 칫솔 세트입니다.","has_sensitive":true,"entities":[{"value":"790-222222-66666","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":711,"content":"전통주 소믈리에 과정 34534534534 으로 송금 완료했습니다. 시음회도 정기적으로 개최됩니다.","has_sensitive":true,"entities":[{"value":"34534534534","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":712,"content":"피구 교실 수강료는 110-888-555333 으로 납부해 주세요. 팀워크 향상에 도움됩니다.","has_sensitive":true,"entities":[{"value":"110-888-555333","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":713,"content":"자개 공예 워크숍이 302-7777-8888-22 로 입금되었습니다. 전통 기법을 전수받습니다.","has_sensitive":true,"entities":[{"value":"302-7777-8888-22","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":714,"content":"코어 강화 운동은 1002-999-666444 로 지급 예정입니다. 복부 근육을 집중 강화합니다.","has_sensitive":true,"entities":[{"value":"1002-999-666444","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":715,"content":"반려견 산책 매너 교육 790-444444-55555 계좌로 결제 바랍니다. 리드줄 사용법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-444444-55555","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":716,"content":"천연 모기 퇴치제 만들기 56756756756 입금 처리되었습니다. 허브 에센스를 사용합니다.","has_sensitive":true,"entities":[{"value":"56756756756","begin":18,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":717,"content":"야구 심판 자격증은 110-555-444777 계좌로 송금 부탁드립니다. 이론과 실기 시험이 있습니다.","has_sensitive":true,"entities":[{"value":"110-555-444777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":718,"content":"전각 조각 클래스가 302-6666-3333-99 로 청구되었습니다. 조각도는 대여해 드립니다.","has_sensitive":true,"entities":[{"value":"302-6666-3333-99","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":719,"content":"댄스 스포츠 경연 대회는 1002-333-777888 로 납부 바랍니다. 참가 부문별로 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"1002-333-777888","begin":17,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":720,"content":"애견 응급처치 키트 790-999999-22222 계좌로 구매 가능합니다. 매뉴얼이 함께 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-999999-22222","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":721,"content":"전통 장 담그기 78378378378 으로 송금 완료했습니다. 메주는 직접 쑤어서 사용합니다.","has_sensitive":true,"entities":[{"value":"78378378378","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":722,"content":"하키 교실 등록비는 110-777-999555 으로 입금 부탁드립니다. 스틱과 보호대는 대여됩니다.","has_sensitive":true,"entities":[{"value":"110-777-999555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":723,"content":"문인화 전문가 과정이 302-5555-9999-77 로 입금 완료되었습니다. 사군자부터 배웁니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-77","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":724,"content":"전신 스트레칭 클래스는 1002-111-444888 로 결제됩니다. 유연성 향상에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1002-111-444888","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":725,"content":"반려묘 놀이 교육 790-666666-77777 계좌로 납부 바랍니다. 장난감 만들기도 포함됩니다.","has_sensitive":true,"entities":[{"value":"790-666666-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":726,"content":"수제 효소 만들기 90490490490 입금 확인했습니다. 발효 용기는 개인 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"90490490490","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":727,"content":"소프트볼 레슨비는 110-222-888666 계좌로 송금 바랍니다. 글러브는 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"110-222-888666","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":728,"content":"한지 인형 만들기가 302-9999-7777-55 로 청구되었습니다. 전통 의상을 입힙니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":729,"content":"밸런스 운동 수업료는 1002-888-222555 로 지급 예정입니다. 균형감 향상 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-888-222555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":730,"content":"애견 수영 레슨 790-333333-88888 계좌로 결제 가능합니다. 구명조끼가 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-333333-88888","begin":10,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":731,"content":"천연 세제 만들기 23523523523 으로 송금 완료했습니다. 베이킹소다와 식초를 활용합니다.","has_sensitive":true,"entities":[{"value":"23523523523","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":732,"content":"럭비 대회 출전비는 110-999-444777 으로 납부해 주세요. 의무 보험 가입이 필요합니다.","has_sensitive":true,"entities":[{"value":"110-999-444777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":733,"content":"매듭 공예 전문가 과정이 302-4444-5555-66 로 입금되었습니다. 전통 매듭 기법을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-66","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":734,"content":"실버 체조 프로그램은 1002-666-888555 로 결제됩니다. 어르신 맞춤 운동입니다.","has_sensitive":true,"entities":[{"value":"1002-666-888555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":735,"content":"반려견 사회성 훈련 790-888888-99999 계좌로 납부 바랍니다. 다견 가정에 적합합니다.","has_sensitive":true,"entities":[{"value":"790-888888-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":736,"content":"장아찌 담그기 클래스 45645645645 입금 처리되었습니다. 제철 채소를 사용합니다.","has_sensitive":true,"entities":[{"value":"45645645645","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":737,"content":"아이스하키 심판 과정은 110-444-777999 계좌로 송금 부탁드립니다. 빙상 규칙을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-444-777999","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":738,"content":"전통 악기 제작 클래스가 302-8888-6666-44 로 청구되었습니다. 장구 만들기를 체험합니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-44","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":739,"content":"산전 요가 수업료는 1002-555-333888 로 납부 바랍니다. 임산부 전용 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-555-333888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":740,"content":"애견 노령견 케어 790-111111-66666 계좌로 결제 가능합니다. 건강 관리법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-111111-66666","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":741,"content":"수제 고추장 담그기 67467467467 으로 송금 완료했습니다. 전통 방식으로 숙성시킵니다.","has_sensitive":true,"entities":[{"value":"67467467467","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":742,"content":"컬링 체험 프로그램은 110-666-555999 으로 입금 부탁드립니다. 빙상화는 대여됩니다.","has_sensitive":true,"entities":[{"value":"110-666-555999","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":743,"content":"옻칠 공예 워크숍이 302-7777-4444-22 로 입금 완료되었습니다. 안전 장비 착용 필수입니다.","has_sensitive":true,"entities":[{"value":"302-7777-4444-22","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":744,"content":"수중 아쿠아 요가는 1002-999-777333 로 지급 예정입니다. 수영장에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"1002-999-777333","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":745,"content":"반려묘 발톱 관리 790-555555-33333 계좌로 납부 바랍니다. 스크래처도 제작합니다.","has_sensitive":true,"entities":[{"value":"790-555555-33333","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":746,"content":"천연 탈취제 만들기 89589589589 입금 확인했습니다. 에센셜 오일을 블렌딩합니다.","has_sensitive":true,"entities":[{"value":"89589589589","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":747,"content":"세팍타크로 교실은 110-333-999888 계좌로 송금 바랍니다. 동남아 전통 스포츠입니다.","has_sensitive":true,"entities":[{"value":"110-333-999888","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":748,"content":"전통 자수 전문가 과정이 302-6666-7777-55 로 청구되었습니다. 궁중 자수를 배웁니다.","has_sensitive":true,"entities":[{"value":"302-6666-7777-55","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":749,"content":"재활 운동 프로그램은 1002-222-666888 로 결제됩니다. 물리치료사가 지도합니다.","has_sensitive":true,"entities":[{"value":"1002-222-666888","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":750,"content":"애견 비만 관리 프로그램 790-777777-55555 계좌로 납부 바랍니다. 식단과 운동을 병행합니다.","has_sensitive":true,"entities":[{"value":"790-777777-55555","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":751,"content":"전통 떡 만들기 12412412412 으로 송금 완료했습니다. 시루와 찜기는 제공됩니다.","has_sensitive":true,"entities":[{"value":"12412412412","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":752,"content":"플로어볼 교실 등록비는 110-888-777666 으로 납부해 주세요. 실내 하키와 비슷합니다.","has_sensitive":true,"entities":[{"value":"110-888-777666","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":753,"content":"나전칠기 제작 클래스가 302-5555-8888-99 로 입금되었습니다. 전통 공예 기법입니다.","has_sensitive":true,"entities":[{"value":"302-5555-8888-99","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":754,"content":"임산부 필라테스는 1002-777-555999 로 지급 예정입니다. 출산 후 회복에 도움됩니다.","has_sensitive":true,"entities":[{"value":"1002-777-555999","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":755,"content":"반려견 구강 관리 교육 790-444444-66666 계좌로 결제 가능합니다. 치석 예방법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-444444-66666","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":756,"content":"효소 발효액 만들기 34634634634 입금 처리되었습니다. 설탕 비율이 중요합니다.","has_sensitive":true,"entities":[{"value":"34634634634","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":757,"content":"피클볼 레슨비는 110-555-888333 계좌로 송금 부탁드립니다. 라켓은 가볍고 다루기 쉽습니다.","has_sensitive":true,"entities":[{"value":"110-555-888333","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":758,"content":"전통 목가구 제작이 302-9999-6666-33 로 청구되었습니다. 짜맞춤 기법을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-9999-6666-33","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":759,"content":"실버 수중 운동은 1002-444-999666 로 납부 바랍니다. 관절에 부담이 적습니다.","has_sensitive":true,"entities":[{"value":"1002-444-999666","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":760,"content":"애견 민첩성 훈련 790-999999-77777 계좌로 결제 바랍니다. 장애물 코스를 활용합니다.","has_sensitive":true,"entities":[{"value":"790-999999-77777","begin":11,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":761,"content":"천연 치즈 숙성 클래스 56856856856 으로 송금 완료했습니다. 숙성 기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"56856856856","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":762,"content":"카바디 교실 수강료는 110-777-666999 으로 입금 부탁드립니다. 인도 전통 스포츠입니다.","has_sensitive":true,"entities":[{"value":"110-777-666999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":763,"content":"단청 그리기 클래스가 302-4444-7777-11 로 입금 완료되었습니다. 전통 문양을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-11","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":764,"content":"산후 회복 운동은 1002-888-333444 로 결제됩니다. 골반저근 강화에 집중합니다.","has_sensitive":true,"entities":[{"value":"1002-888-333444","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":765,"content":"반려묘 스트레스 관리 790-222222-99999 계좌로 납부 바랍니다. 환경 개선 방법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-222222-99999","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":766,"content":"전통 식혜 만들기 78578578578 입금 확인했습니다. 엿기름은 제공됩니다.","has_sensitive":true,"entities":[{"value":"78578578578","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":767,"content":"풋살 대회 참가비는 110-999-555777 계좌로 송금 바랍니다. 실내 축구 토너먼트입니다.","has_sensitive":true,"entities":[{"value":"110-999-555777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":768,"content":"전통 탈 제작 워크숍이 302-8888-5555-88 로 청구되었습니다. 하회탈을 만들어 봅니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-88","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":769,"content":"실버 체력 단련은 1002-666-444777 로 지급 예정입니다. 낙상 예방 운동 포함입니다.","has_sensitive":true,"entities":[{"value":"1002-666-444777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":770,"content":"애견 하이드로 테라피 790-666666-44444 계좌로 결제 가능합니다. 수중 재활 치료입니다.","has_sensitive":true,"entities":[{"value":"790-666666-44444","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":771,"content":"수제 누룩 만들기 90590590590 으로 송금 완료했습니다. 전통주 제조의 기본입니다.","has_sensitive":true,"entities":[{"value":"90590590590","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":772,"content":"배구 심판 자격증은 110-444-888555 으로 납부해 주세요. 공인 심판 자격증입니다.","has_sensitive":true,"entities":[{"value":"110-444-888555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":773,"content":"전통 띠 짜기 클래스가 302-7777-9999-66 로 입금되었습니다. 베틀 사용법을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-66","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":774,"content":"기능성 운동 프로그램은 1002-555-777888 로 납부 바랍니다. 일상 동작 개선에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1002-555-777888","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":775,"content":"반려견 귀 청소 관리 790-333333-77777 계좌로 결제 바랍니다. 귀 질환 예방법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-333333-77777","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":776,"content":"천연 모기향 만들기 23623623623 입금 처리되었습니다. 허브를 건조하여 만듭니다.","has_sensitive":true,"entities":[{"value":"23623623623","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":777,"content":"농구 심판 교육은 110-666-999777 계좌로 송금 부탁드립니다. 규칙 해석을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-666-999777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":778,"content":"전통 부채 만들기가 302-6666-8888-77 로 청구되었습니다. 한지를 바르는 기법입니다.","has_sensitive":true,"entities":[{"value":"302-6666-8888-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":779,"content":"노인 운동 처방은 1002-999-222555 로 결제됩니다. 개인별 건강 상태를 고려합니다.","has_sensitive":true,"entities":[{"value":"1002-999-222555","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":780,"content":"애견 복지 교육 프로그램 790-888888-11111 계좌로 납부 바랍니다. 반려견 권리를 배웁니다.","has_sensitive":true,"entities":[{"value":"790-888888-11111","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":781,"content":"전통 엿 만들기 45745745745 으로 송금 완료했습니다. 물엿과 조청을 만듭니다.","has_sensitive":true,"entities":[{"value":"45745745745","begin":11,"end":22,"label":"BANK_ACCOUNT"}]}
+{"id":782,"content":"터치럭비 교실 등록비는 110-555-777999 으로 입금 부탁드립니다. 태클이 없는 럭비입니다.","has_sensitive":true,"entities":[{"value":"110-555-777999","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":783,"content":"전통 갓 만들기 클래스가 302-5555-4444-22 로 입금 완료되었습니다. 죽사를 엮는 기법입니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-22","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":784,"content":"의자 요가 수업료는 1002-333-888666 로 지급 예정입니다. 거동이 불편한 분께 적합합니다.","has_sensitive":true,"entities":[{"value":"1002-333-888666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":785,"content":"반려묘 다이어트 프로그램 790-111111-55555 계좌로 결제 가능합니다. 체중 감량 식단입니다.","has_sensitive":true,"entities":[{"value":"790-111111-55555","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":786,"content":"수제 간장 담그기 67567567567 입금 확인했습니다. 메주콩은 국산으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"67567567567","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":787,"content":"족구 대회 출전비는 110-888-444999 계좌로 송금 바랍니다. 발리볼과 축구의 결합입니다.","has_sensitive":true,"entities":[{"value":"110-888-444999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":788,"content":"전통 노리개 만들기가 302-9999-7777-44 로 청구되었습니다. 매듭과 장식을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-44","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":789,"content":"맨손 체조 프로그램은 1002-777-999444 로 납부 바랍니다. 별도 장비가 필요 없습니다.","has_sensitive":true,"entities":[{"value":"1002-777-999444","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":790,"content":"애견 장례 화장 서비스 790-555555-88888 계좌로 결제 바랍니다. 유골함도 제공됩니다.","has_sensitive":true,"entities":[{"value":"790-555555-88888","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":791,"content":"천연 방향제 만들기 89689689689 으로 송금 완료했습니다. 디퓨저 용기는 제공됩니다.","has_sensitive":true,"entities":[{"value":"89689689689","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":792,"content":"핸드볼 심판 과정은 110-222-777555 으로 입금 부탁드립니다. 규칙 숙지가 필수입니다.","has_sensitive":true,"entities":[{"value":"110-222-777555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":793,"content":"전통 주머니 만들기가 302-4444-6666-99 로 입금되었습니다. 바느질 기본기를 배웁니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-99","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":794,"content":"밴드 운동 수업료는 1002-888-666333 로 결제됩니다. 저항 밴드를 활용합니다.","has_sensitive":true,"entities":[{"value":"1002-888-666333","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":795,"content":"반려견 눈 관리 교육 790-777777-99999 계좌로 납부 바랍니다. 안과 질환 예방법입니다.","has_sensitive":true,"entities":[{"value":"790-777777-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":796,"content":"전통 청국장 만들기 12512512512 입금 처리되었습니다. 발효 과정을 체험합니다.","has_sensitive":true,"entities":[{"value":"12512512512","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":797,"content":"비치발리볼 레슨비는 110-999-888444 계좌로 송금 부탁드립니다. 모래 코트에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"110-999-888444","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":798,"content":"전통 짚신 만들기가 302-8888-3333-55 로 청구되었습니다. 전통 신발 제작 기법입니다.","has_sensitive":true,"entities":[{"value":"302-8888-3333-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":799,"content":"관절 가동 운동은 1002-222-555777 로 지급 예정입니다. 관절염 예방에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1002-222-555777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":800,"content":"애견 피부병 관리 교육 790-444444-22222 계좌로 결제 가능합니다. 알레르기 대처법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-444444-22222","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":801,"content":"수제 된장찌개 클래스 34734734734 으로 송금 완료했습니다. 전통 레시피로 조리합니다.","has_sensitive":true,"entities":[{"value":"34734734734","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":802,"content":"얼티밋 프리스비 교실은 110-777-555888 으로 납부해 주세요. 원반 던지기 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-555888","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":803,"content":"전통 삿갓 만들기가 302-7777-6666-88 로 입금 완료되었습니다. 대나무를 엮습니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":804,"content":"균형감 향상 운동은 1002-666-999333 로 납부 바랍니다. 낙상 방지에 도움됩니다.","has_sensitive":true,"entities":[{"value":"1002-666-999333","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":805,"content":"반려묘 화장실 교육 790-999999-66666 계좌로 결제 바랍니다. 배변 훈련 프로그램입니다.","has_sensitive":true,"entities":[{"value":"790-999999-66666","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":806,"content":"전통 고추장 숙성법 56956956956 입금 확인했습니다. 항아리 보관법을 배웁니다.","has_sensitive":true,"entities":[{"value":"56956956956","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":807,"content":"킨볼 교실 수강료는 110-555-999444 계좌로 송금 부탁드립니다. 대형 공을 사용합니다.","has_sensitive":true,"entities":[{"value":"110-555-999444","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":808,"content":"전통 망건 만들기가 302-6666-5555-22 로 청구되었습니다. 머리띠 제작 기법입니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-22","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":809,"content":"자세 교정 운동은 1002-444-777999 로 결제됩니다. 척추 건강에 도움됩니다.","has_sensitive":true,"entities":[{"value":"1002-444-777999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":810,"content":"애견 슬개골 관리 운동 790-222222-88888 계좌로 납부 바랍니다. 소형견에게 중요합니다.","has_sensitive":true,"entities":[{"value":"790-222222-88888","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":811,"content":"천연 굴 소스 만들기 78678678678 으로 송금 완료했습니다. 굴 엑기스를 추출합니다.","has_sensitive":true,"entities":[{"value":"78678678678","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":812,"content":"테니스 심판 자격증은 110-888-777333 으로 입금 부탁드립니다. 라인 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-777333","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":813,"content":"전통 꽃신 만들기가 302-5555-9999-55 로 입금되었습니다. 자수 장식을 놓습니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":814,"content":"호흡 운동 프로그램은 1002-111-888777 로 지급 예정입니다. 심폐 기능 향상에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1002-111-888777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":815,"content":"반려견 백내장 예방 790-666666-99999 계좌로 결제 가능합니다. 영양제 급여법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-666666-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":816,"content":"수제 막걸리 빚기 90690690690 입금 처리되었습니다. 발효 온도 관리가 중요합니다.","has_sensitive":true,"entities":[{"value":"90690690690","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":817,"content":"세팍타크로 대회는 110-333-666777 계좌로 송금 바랍니다. 발로 차는 배구입니다.","has_sensitive":true,"entities":[{"value":"110-333-666777","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":818,"content":"전통 갓끈 만들기가 302-9999-8888-66 로 청구되었습니다. 매듭 기법을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-9999-8888-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":819,"content":"체력 증진 운동은 1002-555-444888 로 납부 바랍니다. 전반적인 체력 향상 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-555-444888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":820,"content":"애견 관절염 운동 치료 790-333333-55555 계좌로 결제 바랍니다. 통증 완화 운동입니다.","has_sensitive":true,"entities":[{"value":"790-333333-55555","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":821,"content":"전통 약과 만들기 23723723723 으로 송금 완료했습니다. 꿀과 참기름을 사용합니다.","has_sensitive":true,"entities":[{"value":"23723723723","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":822,"content":"배구 코치 자격증은 110-666-888555 으로 입금 부탁드립니다. 지도자 과정입니다.","has_sensitive":true,"entities":[{"value":"110-666-888555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":823,"content":"전통 조바위 만들기가 302-4444-7777-66 로 입금 완료되었습니다. 겨울 방한모입니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-66","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":824,"content":"순환 훈련 프로그램은 1002-999-555888 로 결제됩니다. 유산소와 무산소를 번갈아 합니다.","has_sensitive":true,"entities":[{"value":"1002-999-555888","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":825,"content":"반려묘 중성화 수술 후 관리 790-888888-77777 계좌로 납부 바랍니다. 회복 기간 케어법입니다.","has_sensitive":true,"entities":[{"value":"790-888888-77777","begin":20,"end":36,"label":"BANK_ACCOUNT"}]}
+{"id":826,"content":"천연 고추냉이 재배 45845845845 입금 확인했습니다. 와사비 키우기를 배웁니다.","has_sensitive":true,"entities":[{"value":"45845845845","begin":14,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":827,"content":"스피드볼 교실 등록비는 110-999-444888 계좌로 송금 부탁드립니다. 반응 속도가 향상됩니다.","has_sensitive":true,"entities":[{"value":"110-999-444888","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":828,"content":"전통 댕기 만들기가 302-8888-6666-55 로 청구되었습니다. 머리 장식 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-55","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":829,"content":"근지구력 운동은 1002-777-222999 로 지급 예정입니다. 오래 버티는 힘을 키웁니다.","has_sensitive":true,"entities":[{"value":"1002-777-222999","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":830,"content":"애견 심장사상충 예방 교육 790-111111-44444 계좌로 결제 가능합니다. 정기 예방이 중요합니다.","has_sensitive":true,"entities":[{"value":"790-111111-44444","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":831,"content":"수제 순대 만들기 67767767767 으로 송금 완료했습니다. 내장 손질법을 배웁니다.","has_sensitive":true,"entities":[{"value":"67767767767","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":832,"content":"야구 코치 자격증은 110-444-777888 으로 납부해 주세요. 타격 지도법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-444-777888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":833,"content":"전통 행전 만들기가 302-7777-5555-99 로 입금되었습니다. 각반 제작 기법입니다.","has_sensitive":true,"entities":[{"value":"302-7777-5555-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":834,"content":"순발력 훈련 프로그램은 1002-333-999555 로 납부 바랍니다. 빠른 반응을 연습합니다.","has_sensitive":true,"entities":[{"value":"1002-333-999555","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":835,"content":"반려견 백신 접종 스케줄 교육 790-555555-66666 계좌로 결제 바랍니다. 예방 접종 일정 관리입니다.","has_sensitive":true,"entities":[{"value":"790-555555-66666","begin":20,"end":36,"label":"BANK_ACCOUNT"}]}
+{"id":836,"content":"전통 수정과 만들기 89789789789 입금 처리되었습니다. 곶감과 생강을 사용합니다.","has_sensitive":true,"entities":[{"value":"89789789789","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":837,"content":"축구 심판 자격증은 110-555-666888 계좌로 송금 부탁드립니다. 오프사이드 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-555-666888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":838,"content":"전통 버선 만들기가 302-6666-9999-44 로 청구되었습니다. 재봉 기법을 배웁니다.","has_sensitive":true,"entities":[{"value":"302-6666-9999-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":839,"content":"민첩성 운동 프로그램은 1002-888-777555 로 결제됩니다. 스피드 트레이닝입니다.","has_sensitive":true,"entities":[{"value":"1002-888-777555","begin":16,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":840,"content":"애견 광견병 예방 접종 790-999999-33333 계좌로 납부 바랍니다. 법적 의무 사항입니다.","has_sensitive":true,"entities":[{"value":"790-999999-33333","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":841,"content":"천연 유자청 만들기 12612612612 으로 송금 완료했습니다. 유자는 유기농으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"12612612612","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":842,"content":"농구 지도자 과정은 110-888-555999 으로 입금 부탁드립니다. 전술 이론을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-555999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":843,"content":"전통 주리 만들기가 302-5555-8888-77 로 입금 완료되었습니다. 치마 주름 잡는 법입니다.","has_sensitive":true,"entities":[{"value":"302-5555-8888-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":844,"content":"협응력 향상 운동은 1002-222-666555 로 지급 예정입니다. 눈과 손의 협응을 훈련합니다.","has_sensitive":true,"entities":[{"value":"1002-222-666555","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":845,"content":"반려묘 중성화 시기 상담 790-444444-99999 계좌로 결제 가능합니다. 전문 수의사가 상담합니다.","has_sensitive":true,"entities":[{"value":"790-444444-99999","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":846,"content":"수제 깍두기 담그기 34834834834 입금 확인했습니다. 무는 국산으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"34834834834","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":847,"content":"핸드볼 지도자 자격증은 110-777-888999 계좌로 송금 바랍니다. 훈련법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-888999","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":848,"content":"전통 대님 만들기가 302-9999-4444-88 로 청구되었습니다. 바지 여밈 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-9999-4444-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":849,"content":"심폐지구력 훈련은 1002-666-444999 로 납부 바랍니다. 장시간 운동 능력을 키웁니다.","has_sensitive":true,"entities":[{"value":"1002-666-444999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":850,"content":"애견 내부 기생충 예방 교육 790-777777-88888 계좌로 결제 바랍니다. 구충제 투여법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-777777-88888","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":851,"content":"전통 식혜 발효법 56156156156 으로 송금 완료했습니다. 온도 조절이 핵심입니다.","has_sensitive":true,"entities":[{"value":"56156156156","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":852,"content":"테니스 코치 자격증은 110-333-777666 으로 입금 부탁드립니다. 서브 지도법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-333-777666","begin":14,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":853,"content":"전통 족두리 만들기가 302-4444-6666-77 로 입금되었습니다. 혼례 때 쓰는 관입니다.","has_sensitive":true,"entities":[{"value":"302-4444-6666-77","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":854,"content":"유연성 증진 운동은 1002-111-777888 로 결제됩니다. 스트레칭을 집중적으로 합니다.","has_sensitive":true,"entities":[{"value":"1002-111-777888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":855,"content":"반려견 외부 기생충 관리 790-222222-77777 계좌로 납부 바랍니다. 진드기 제거법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-222222-77777","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":856,"content":"천연 오미자청 만들기 78878878878 입금 처리되었습니다. 오미자는 건조한 것을 사용합니다.","has_sensitive":true,"entities":[{"value":"78878878878","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":857,"content":"배드민턴 심판 자격증은 110-999-666888 계좌로 송금 부탁드립니다. 라인 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-999-666888","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":858,"content":"전통 허리띠 만들기가 302-8888-5555-66 로 청구되었습니다. 자수 장식을 놓습니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-66","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":859,"content":"근력 강화 운동은 1002-555-888444 로 지급 예정입니다. 웨이트 트레이닝 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-555-888444","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":860,"content":"애견 건강검진 패키지 790-666666-55555 계좌로 결제 가능합니다. 연 1회 종합 검진입니다.","has_sensitive":true,"entities":[{"value":"790-666666-55555","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":861,"content":"수제 동치미 담그기 90790790790 으로 송금 완료했습니다. 무는 깨끗이 씻어 사용합니다.","has_sensitive":true,"entities":[{"value":"90790790790","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":862,"content":"탁구 코치 자격증은 110-666-555888 으로 납부해 주세요. 기술 지도법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-666-555888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":863,"content":"전통 고름 만들기가 302-7777-9999-55 로 입금 완료되었습니다. 한복 끈 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":864,"content":"운동 능력 평가는 1002-999-333777 로 납부 바랍니다. 개인별 운동 처방을 위한 검사입니다.","has_sensitive":true,"entities":[{"value":"1002-999-333777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":865,"content":"반려묘 요로결석 예방 식단 790-333333-66666 계좌로 결제 바랍니다. 수분 섭취가 중요합니다.","has_sensitive":true,"entities":[{"value":"790-333333-66666","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":866,"content":"전통 감주 만들기 23823823823 입금 확인했습니다. 단맛이 나는 음료입니다.","has_sensitive":true,"entities":[{"value":"23823823823","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":867,"content":"배구 지도자 자격증은 110-444-999777 계좌로 송금 부탁드립니다. 전문 지도자 과정입니다.","has_sensitive":true,"entities":[{"value":"110-444-999777","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":868,"content":"전통 색동옷 만들기가 302-6666-4444-99 로 청구되었습니다. 오색 천을 이어 붙입니다.","has_sensitive":true,"entities":[{"value":"302-6666-4444-99","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":869,"content":"기초 체력 훈련은 1002-777-666444 로 결제됩니다. 전반적인 운동 능력을 향상시킵니다.","has_sensitive":true,"entities":[{"value":"1002-777-666444","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":870,"content":"애견 구강 스케일링 790-888888-44444 계좌로 납부 바랍니다. 치석 제거 전문 치료입니다.","has_sensitive":true,"entities":[{"value":"790-888888-44444","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":871,"content":"천연 모과차 만들기 45945945945 으로 송금 완료했습니다. 모과는 씨를 제거합니다.","has_sensitive":true,"entities":[{"value":"45945945945","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":872,"content":"농구 심판 교육은 110-555-777444 으로 입금 부탁드립니다. 파울 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-555-777444","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":873,"content":"전통 배자 만들기가 302-5555-7777-88 로 입금되었습니다. 조끼 형태의 옷입니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-88","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":874,"content":"전신 근력 운동은 1002-333-555888 로 지급 예정입니다. 복합 운동을 실시합니다.","has_sensitive":true,"entities":[{"value":"1002-333-555888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":875,"content":"반려견 슬개골 탈구 예방 운동 790-111111-77777 계좌로 결제 가능합니다. 근력 강화 운동입니다.","has_sensitive":true,"entities":[{"value":"790-111111-77777","begin":20,"end":36,"label":"BANK_ACCOUNT"}]}
+{"id":876,"content":"수제 백김치 담그기 67067067067 입금 처리되었습니다. 국물이 시원한 김치입니다.","has_sensitive":true,"entities":[{"value":"67067067067","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":877,"content":"축구 코치 자격증은 110-888-666777 계좌로 송금 바랍니다. 전술 지도법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-666777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":878,"content":"전통 적삼 만들기가 302-9999-5555-77 로 청구되었습니다. 여름 한복 속옷입니다.","has_sensitive":true,"entities":[{"value":"302-9999-5555-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":879,"content":"체성분 분석 검사는 1002-888-999666 로 납부 바랍니다. 근육량과 체지방을 측정합니다.","has_sensitive":true,"entities":[{"value":"1002-888-999666","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":880,"content":"애견 심장 건강 검진 790-555555-99999 계좌로 결제 바랍니다. 초음파 검사를 진행합니다.","has_sensitive":true,"entities":[{"value":"790-555555-99999","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":881,"content":"전통 배추김치 담그기 89189189189 으로 송금 완료했습니다. 배추 절이는 시간이 중요합니다.","has_sensitive":true,"entities":[{"value":"89189189189","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":882,"content":"야구 지도자 과정은 110-222-888777 으로 입금 부탁드립니다. 실전 지도 능력을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-222-888777","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":883,"content":"전통 두루마기 만들기가 302-4444-8888-66 로 입금 완료되었습니다. 남자 한복 겉옷입니다.","has_sensitive":true,"entities":[{"value":"302-4444-8888-66","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":884,"content":"고강도 인터벌 훈련은 1002-666-777888 로 결제됩니다. 단시간 고효율 운동입니다.","has_sensitive":true,"entities":[{"value":"1002-666-777888","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":885,"content":"반려묘 신부전 예방 식단 790-999999-88888 계좌로 납부 바랍니다. 저단백 식이 관리입니다.","has_sensitive":true,"entities":[{"value":"790-999999-88888","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":886,"content":"천연 매실청 만들기 12712712712 입금 확인했습니다. 매실은 씨를 빼고 사용합니다.","has_sensitive":true,"entities":[{"value":"12712712712","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":887,"content":"탁구 심판 자격증은 110-999-777555 계좌로 송금 부탁드립니다. 규칙 적용을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-999-777555","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":888,"content":"전통 당의 만들기가 302-8888-3333-99 로 청구되었습니다. 어린이 한복 겉옷입니다.","has_sensitive":true,"entities":[{"value":"302-8888-3333-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":889,"content":"저강도 유산소 운동은 1002-444-555999 로 지급 예정입니다. 지방 연소에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1002-444-555999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":890,"content":"애견 백내장 수술 후 케어 790-222222-55555 계좌로 결제 가능합니다. 회복 관리가 중요합니다.","has_sensitive":true,"entities":[{"value":"790-222222-55555","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":891,"content":"수제 총각김치 담그기 34034034034 으로 송금 완료했습니다. 알타리무를 사용합니다.","has_sensitive":true,"entities":[{"value":"34034034034","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":892,"content":"핸드볼 심판 자격증은 110-777-555888 으로 납부해 주세요. 골 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-555888","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":893,"content":"전통 마고자 만들기가 302-7777-6666-55 로 입금되었습니다. 짧은 겉옷 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-7777-6666-55","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":894,"content":"운동 처방 프로그램은 1002-555-999777 로 납부 바랍니다. 개인 맞춤형 운동 계획입니다.","has_sensitive":true,"entities":[{"value":"1002-555-999777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":895,"content":"반려견 슬개골 수술 후 재활 790-777777-66666 계좌로 결제 바랍니다. 물리치료를 병행합니다.","has_sensitive":true,"entities":[{"value":"790-777777-66666","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":896,"content":"전통 인삼주 담그기 56256256256 입금 처리되었습니다. 숙성 기간은 6개월 이상입니다.","has_sensitive":true,"entities":[{"value":"56256256256","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":897,"content":"배드민턴 코치 자격증은 110-555-888666 계좌로 송금 부탁드립니다. 스매싱 지도법을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-555-888666","begin":16,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":898,"content":"전통 쾌자 만들기가 302-6666-5555-88 로 청구되었습니다. 남자 아이 한복입니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":899,"content":"전신 밸런스 운동은 1002-999-888777 로 결제됩니다. 균형감과 조정력을 향상시킵니다.","has_sensitive":true,"entities":[{"value":"1002-999-888777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":900,"content":"애견 고관절 이형성증 관리 790-444444-77777 계좌로 납부 바랍니다. 대형견에게 흔한 질환입니다.","has_sensitive":true,"entities":[{"value":"790-444444-77777","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":901,"content":"천연 산수유차 만들기 78978978978 으로 송금 완료했습니다. 산수유는 씨를 빼고 말립니다.","has_sensitive":true,"entities":[{"value":"78978978978","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":902,"content":"농구 교실 심화반은 110-333-777999 으로 입금 부탁드립니다. 고급 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-333-777999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":903,"content":"전통 저고리 만들기가 302-5555-9999-66 로 입금 완료되었습니다. 한복 상의 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-5555-9999-66","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":904,"content":"체형 교정 운동은 1002-111-666999 로 지급 예정입니다. 자세 불균형을 바로잡습니다.","has_sensitive":true,"entities":[{"value":"1002-111-666999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":905,"content":"반려묘 당뇨병 관리 식단 790-666666-88888 계좌로 결제 가능합니다. 혈당 조절이 중요합니다.","has_sensitive":true,"entities":[{"value":"790-666666-88888","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":906,"content":"수제 파김치 담그기 90890890890 입금 확인했습니다. 파는 토막 내어 사용합니다.","has_sensitive":true,"entities":[{"value":"90890890890","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":907,"content":"배구 심판 교육은 110-888-444777 계좌로 송금 바랍니다. 터치 판정을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-444777","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":908,"content":"전통 치마 만들기가 302-9999-7777-44 로 청구되었습니다. 한복 하의 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-44","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":909,"content":"근육 회복 스트레칭은 1002-777-555777 로 납부 바랍니다. 운동 후 통증을 완화합니다.","has_sensitive":true,"entities":[{"value":"1002-777-555777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":910,"content":"애견 비만 측정 및 관리 790-333333-99999 계좌로 결제 바랍니다. 정기적인 체중 체크가 필요합니다.","has_sensitive":true,"entities":[{"value":"790-333333-99999","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":911,"content":"전통 보리차 볶기 23023023023 으로 송금 완료했습니다. 볶는 온도가 맛을 좌우합니다.","has_sensitive":true,"entities":[{"value":"23023023023","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":912,"content":"테니스 교실 심화반은 110-666-888999 으로 입금 부탁드립니다. 발리 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-666-888999","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":913,"content":"전통 바지 만들기가 302-4444-5555-77 로 입금되었습니다. 남자 한복 하의입니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-77","begin":13,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":914,"content":"관절 강화 운동은 1002-888-222777 로 결제됩니다. 관절 주변 근육을 강화합니다.","has_sensitive":true,"entities":[{"value":"1002-888-222777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":915,"content":"반려견 피부 알레르기 검사 790-888888-55555 계좌로 납부 바랍니다. 알레르기 원인을 파악합니다.","has_sensitive":true,"entities":[{"value":"790-888888-55555","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":916,"content":"천연 국화차 만들기 45145145145 입금 처리되었습니다. 국화는 완전히 건조시킵니다.","has_sensitive":true,"entities":[{"value":"45145145145","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":917,"content":"축구 교실 심화반은 110-555-999888 계좌로 송금 부탁드립니다. 전술 훈련을 진행합니다.","has_sensitive":true,"entities":[{"value":"110-555-999888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":918,"content":"전통 도포 만들기가 302-8888-6666-99 로 청구되었습니다. 선비 겉옷 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-8888-6666-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":919,"content":"체지방 감소 운동은 1002-222-444777 로 지급 예정입니다. 유산소와 근력을 병행합니다.","has_sensitive":true,"entities":[{"value":"1002-222-444777","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":920,"content":"애견 외이염 치료 및 예방 790-111111-66666 계좌로 결제 가능합니다. 귀 세정 방법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-111111-66666","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":921,"content":"수제 물김치 담그기 67167167167 으로 송금 완료했습니다. 국물이 시원합니다.","has_sensitive":true,"entities":[{"value":"67167167167","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":922,"content":"야구 교실 심화반은 110-999-555888 으로 납부해 주세요. 변화구 던지기를 배웁니다.","has_sensitive":true,"entities":[{"value":"110-999-555888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":923,"content":"전통 조끼 만들기가 302-7777-5555-66 로 입금 완료되었습니다. 실용적인 한복 소품입니다.","has_sensitive":true,"entities":[{"value":"302-7777-5555-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":924,"content":"코어 안정화 운동은 1002-666-888999 로 납부 바랍니다. 중심부 근육을 강화합니다.","has_sensitive":true,"entities":[{"value":"1002-666-888999","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":925,"content":"반려묘 구내염 치료 관리 790-555555-77777 계좌로 결제 바랍니다. 구강 위생이 중요합니다.","has_sensitive":true,"entities":[{"value":"790-555555-77777","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":926,"content":"전통 쌍화차 만들기 89289289289 입금 확인했습니다. 한약재를 달여서 만듭니다.","has_sensitive":true,"entities":[{"value":"89289289289","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":927,"content":"탁구 교실 심화반은 110-444-666999 계좌로 송금 부탁드립니다. 스핀 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-444-666999","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":928,"content":"전통 두건 만들기가 302-6666-9999-55 로 청구되었습니다. 머리에 쓰는 천입니다.","has_sensitive":true,"entities":[{"value":"302-6666-9999-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":929,"content":"전신 컨디셔닝은 1002-555-777666 로 결제됩니다. 종합 체력을 관리합니다.","has_sensitive":true,"entities":[{"value":"1002-555-777666","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":930,"content":"애견 심장사상충 치료 후 관리 790-999999-44444 계좌로 납부 바랍니다. 회복 기간이 중요합니다.","has_sensitive":true,"entities":[{"value":"790-999999-44444","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":931,"content":"천연 대추차 만들기 12812812812 으로 송금 완료했습니다. 대추는 씨를 제거합니다.","has_sensitive":true,"entities":[{"value":"12812812812","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":932,"content":"핸드볼 교실 심화반은 110-777-888555 으로 입금 부탁드립니다. 슈팅 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-888555","begin":15,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":933,"content":"전통 단령 만들기가 302-5555-4444-88 로 입금되었습니다. 관복 형태의 옷입니다.","has_sensitive":true,"entities":[{"value":"302-5555-4444-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":934,"content":"재활 트레이닝은 1002-999-666777 로 지급 예정입니다. 부상 회복 운동 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-999-666777","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":935,"content":"반려견 치주염 예방 교육 790-222222-99999 계좌로 결제 가능합니다. 치아 관리가 필수입니다.","has_sensitive":true,"entities":[{"value":"790-222222-99999","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":936,"content":"수제 갓김치 담그기 34134134134 입금 처리되었습니다. 갓은 소금에 절입니다.","has_sensitive":true,"entities":[{"value":"34134134134","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":937,"content":"농구 심판 심화반은 110-666-777888 계좌로 송금 바랍니다. 실전 판정을 연습합니다.","has_sensitive":true,"entities":[{"value":"110-666-777888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":938,"content":"전통 도리 만들기가 302-9999-8888-77 로 청구되었습니다. 한옥 기둥 장식입니다.","has_sensitive":true,"entities":[{"value":"302-9999-8888-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":939,"content":"운동 부하 검사는 1002-333-999888 로 납부 바랍니다. 심폐 기능을 정밀 평가합니다.","has_sensitive":true,"entities":[{"value":"1002-333-999888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":940,"content":"애견 슬개골 탈구 수술 790-777777-77777 계좌로 결제 바랍니다. 전문 정형외과 수술입니다.","has_sensitive":true,"entities":[{"value":"790-777777-77777","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":941,"content":"전통 결명자차 볶기 56356356356 으로 송금 완료했습니다. 눈 건강에 좋은 차입니다.","has_sensitive":true,"entities":[{"value":"56356356356","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":942,"content":"배드민턴 심화반은 110-555-444999 으로 입금 부탁드립니다. 복식 전술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-555-444999","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":943,"content":"전통 관대 만들기가 302-4444-7777-55 로 입금 완료되었습니다. 관복용 허리띠입니다.","has_sensitive":true,"entities":[{"value":"302-4444-7777-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":944,"content":"체형 분석 프로그램은 1002-888-555999 로 결제됩니다. 3D 스캔으로 분석합니다.","has_sensitive":true,"entities":[{"value":"1002-888-555999","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":945,"content":"반려묘 방광염 치료 관리 790-444444-88888 계좌로 납부 바랍니다. 수분 섭취를 늘려야 합니다.","has_sensitive":true,"entities":[{"value":"790-444444-88888","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":946,"content":"천연 둥굴레차 만들기 78478478478 입금 확인했습니다. 둥굴레는 깨끗이 씻어 말립니다.","has_sensitive":true,"entities":[{"value":"78478478478","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":947,"content":"배구 교실 심화반은 110-888-333888 계좌로 송금 부탁드립니다. 속공 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-333888","begin":13,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":948,"content":"전통 복건 만들기가 302-8888-5555-44 로 청구되었습니다. 승려가 쓰는 모자입니다.","has_sensitive":true,"entities":[{"value":"302-8888-5555-44","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":949,"content":"기능성 훈련은 1002-222-777999 로 지급 예정입니다. 일상 동작을 개선합니다.","has_sensitive":true,"entities":[{"value":"1002-222-777999","begin":10,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":950,"content":"애견 유선종양 수술 후 케어 790-666666-77777 계좌로 결제 가능합니다. 재발 방지가 중요합니다.","has_sensitive":true,"entities":[{"value":"790-666666-77777","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":951,"content":"수제 나박김치 담그기 90990990990 으로 송금 완료했습니다. 무와 배추를 납작하게 썹니다.","has_sensitive":true,"entities":[{"value":"90990990990","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":952,"content":"테니스 심화반은 110-333-999555 으로 납부해 주세요. 서브 앤 발리를 배웁니다.","has_sensitive":true,"entities":[{"value":"110-333-999555","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":953,"content":"전통 사모 만들기가 302-7777-9999-33 로 입금되었습니다. 관리의 모자입니다.","has_sensitive":true,"entities":[{"value":"302-7777-9999-33","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":954,"content":"스포츠 마사지는 1002-666-555888 로 납부 바랍니다. 근육 피로를 풀어줍니다.","has_sensitive":true,"entities":[{"value":"1002-666-555888","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":955,"content":"반려견 신부전 말기 관리 790-333333-88888 계좌로 결제 바랍니다. 완화 치료를 진행합니다.","has_sensitive":true,"entities":[{"value":"790-333333-88888","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":956,"content":"전통 옥수수수염차 만들기 23223223223 입금 처리되었습니다. 부종 제거에 좋습니다.","has_sensitive":true,"entities":[{"value":"23223223223","begin":18,"end":29,"label":"BANK_ACCOUNT"}]}
+{"id":957,"content":"축구 심화반은 110-999-888777 계좌로 송금 부탁드립니다. 세트피스를 연습합니다.","has_sensitive":true,"entities":[{"value":"110-999-888777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":958,"content":"전통 괴불 만들기가 302-6666-4444-66 로 청구되었습니다. 장신구 제작법입니다.","has_sensitive":true,"entities":[{"value":"302-6666-4444-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":959,"content":"체력 측정 검사는 1002-444-888777 로 결제됩니다. 근력과 지구력을 평가합니다.","has_sensitive":true,"entities":[{"value":"1002-444-888777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":960,"content":"애견 간질환 식이 관리 790-888888-99999 계좌로 납부 바랍니다. 저지방 식단이 필요합니다.","has_sensitive":true,"entities":[{"value":"790-888888-99999","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":961,"content":"천연 감잎차 만들기 45245245245 으로 송금 완료했습니다. 감잎은 어린 잎을 사용합니다.","has_sensitive":true,"entities":[{"value":"45245245245","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":962,"content":"야구 심화반은 110-777-666888 으로 입금 부탁드립니다. 도루 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-666888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":963,"content":"전통 흉배 만들기가 302-5555-7777-99 로 입금 완료되었습니다. 관복 가슴 장식입니다.","has_sensitive":true,"entities":[{"value":"302-5555-7777-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":964,"content":"운동 능력 향상은 1002-111-999777 로 지급 예정입니다. 종합적인 퍼포먼스를 개선합니다.","has_sensitive":true,"entities":[{"value":"1002-111-999777","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":965,"content":"반려묘 갑상선 기능 검사 790-111111-88888 계좌로 결제 가능합니다. 노령묘에게 흔한 질환입니다.","has_sensitive":true,"entities":[{"value":"790-111111-88888","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":966,"content":"수제 열무김치 담그기 67267267267 입금 확인했습니다. 열무는 연한 것으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"67267267267","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":967,"content":"탁구 심화반은 110-555-777888 계좌로 송금 바랍니다. 커트 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-555-777888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":968,"content":"전통 후수 만들기가 302-9999-6666-88 로 청구되었습니다. 허리띠 장식품입니다.","has_sensitive":true,"entities":[{"value":"302-9999-6666-88","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":969,"content":"경기력 향상 훈련은 1002-888-444888 로 납부 바랍니다. 전문 선수를 위한 프로그램입니다.","has_sensitive":true,"entities":[{"value":"1002-888-444888","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":970,"content":"애견 당뇨병 인슐린 관리 교육 790-555555-99999 계좌로 결제 바랍니다. 주사 방법을 배웁니다.","has_sensitive":true,"entities":[{"value":"790-555555-99999","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":971,"content":"전통 황기차 만들기 89389389389 으로 송금 완료했습니다. 면역력 향상에 좋습니다.","has_sensitive":true,"entities":[{"value":"89389389389","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":972,"content":"핸드볼 심화반은 110-222-666999 으로 입금 부탁드립니다. 7미터 스로를 연습합니다.","has_sensitive":true,"entities":[{"value":"110-222-666999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":973,"content":"전통 답호 만들기가 302-4444-5555-99 로 입금되었습니다. 무사가 입던 옷입니다.","has_sensitive":true,"entities":[{"value":"302-4444-5555-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":974,"content":"체형 개선 프로그램은 1002-666-999777 로 결제됩니다. 자세와 체형을 교정합니다.","has_sensitive":true,"entities":[{"value":"1002-666-999777","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":975,"content":"반려견 쿠싱증후군 관리 790-999999-55555 계좌로 납부 바랍니다. 호르몬 치료가 필요합니다.","has_sensitive":true,"entities":[{"value":"790-999999-55555","begin":15,"end":31,"label":"BANK_ACCOUNT"}]}
+{"id":976,"content":"천연 솔잎차 만들기 12912912912 입금 처리되었습니다. 솔잎은 어린 순으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"12912912912","begin":13,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":977,"content":"농구 심화반은 110-888-777999 계좌로 송금 부탁드립니다. 픽앤롤 전술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-888-777999","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":978,"content":"전통 난간 만들기가 302-8888-9999-55 로 청구되었습니다. 허리띠 고리입니다.","has_sensitive":true,"entities":[{"value":"302-8888-9999-55","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":979,"content":"재활 물리치료는 1002-555-666888 로 지급 예정입니다. 전문 치료사가 진행합니다.","has_sensitive":true,"entities":[{"value":"1002-555-666888","begin":11,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":980,"content":"애견 신장 질환 조기 검진 790-222222-77777 계좌로 결제 가능합니다. 혈액 검사를 진행합니다.","has_sensitive":true,"entities":[{"value":"790-222222-77777","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":981,"content":"수제 부추김치 담그기 34334334334 으로 송금 완료했습니다. 부추는 신선한 것으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"34334334334","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":982,"content":"배구 심화반은 110-666-555888 으로 납부해 주세요. 리베로 훈련을 진행합니다.","has_sensitive":true,"entities":[{"value":"110-666-555888","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":983,"content":"전통 복두 만들기가 302-7777-4444-99 로 입금 완료되었습니다. 관리의 겹 모자입니다.","has_sensitive":true,"entities":[{"value":"302-7777-4444-99","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":984,"content":"근골격 강화 운동은 1002-999-888444 로 납부 바랍니다. 뼈와 관절을 튼튼하게 합니다.","has_sensitive":true,"entities":[{"value":"1002-999-888444","begin":13,"end":28,"label":"BANK_ACCOUNT"}]}
+{"id":985,"content":"반려묘 비뇨기 질환 예방 식단 790-777777-66666 계좌로 결제 바랍니다. 수분 함량이 높은 사료입니다.","has_sensitive":true,"entities":[{"value":"790-777777-66666","begin":19,"end":35,"label":"BANK_ACCOUNT"}]}
+{"id":986,"content":"전통 쑥차 만들기 56456456456 입금 확인했습니다. 쑥은 5월에 채취한 것이 좋습니다.","has_sensitive":true,"entities":[{"value":"56456456456","begin":12,"end":23,"label":"BANK_ACCOUNT"}]}
+{"id":987,"content":"테니스 심화반은 110-444-888999 계좌로 송금 부탁드립니다. 탑스핀 기술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-444-888999","begin":11,"end":25,"label":"BANK_ACCOUNT"}]}
+{"id":988,"content":"전통 각대 만들기가 302-6666-5555-77 로 청구되었습니다. 허리띠의 일종입니다.","has_sensitive":true,"entities":[{"value":"302-6666-5555-77","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":989,"content":"운동 손상 예방은 1002-333-777999 로 결제됩니다. 올바른 자세를 배웁니다.","has_sensitive":true,"entities":[{"value":"1002-333-777999","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":990,"content":"애견 췌장염 회복 식이 요법 790-444444-99999 계좌로 납부 바랍니다. 저지방 식단이 중요합니다.","has_sensitive":true,"entities":[{"value":"790-444444-99999","begin":18,"end":34,"label":"BANK_ACCOUNT"}]}
+{"id":991,"content":"천연 민들레차 만들기 78578578578 으로 송금 완료했습니다. 뿌리를 깨끗이 씻어 말립니다.","has_sensitive":true,"entities":[{"value":"78578578578","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":992,"content":"배드민턴 심화반은 110-777-555999 으로 입금 부탁드립니다. 혼합 복식 전술을 배웁니다.","has_sensitive":true,"entities":[{"value":"110-777-555999","begin":12,"end":26,"label":"BANK_ACCOUNT"}]}
+{"id":993,"content":"전통 철릭 만들기가 302-5555-8888-44 로 입금되었습니다. 무사가 입던 옷입니다.","has_sensitive":true,"entities":[{"value":"302-5555-8888-44","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":994,"content":"자세 분석 프로그램은 1002-888-666555 로 지급 예정입니다. 보행 패턴을 분석합니다.","has_sensitive":true,"entities":[{"value":"1002-888-666555","begin":15,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":995,"content":"반려견 자가면역질환 관리 790-666666-88888 계좌로 결제 가능합니다. 면역억제제 투여가 필요합니다.","has_sensitive":true,"entities":[{"value":"790-666666-88888","begin":16,"end":32,"label":"BANK_ACCOUNT"}]}
+{"id":996,"content":"수제 오이소박이 담그기 90190190190 입금 처리되었습니다. 오이는 통통한 것으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"90190190190","begin":16,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":997,"content":"축구 심화반은 110-555-666777 계좌로 송금 바랍니다. 프리킥 연습을 진행합니다.","has_sensitive":true,"entities":[{"value":"110-555-666777","begin":10,"end":24,"label":"BANK_ACCOUNT"}]}
+{"id":998,"content":"전통 패옥 만들기가 302-9999-7777-66 로 청구되었습니다. 허리에 차는 장신구입니다.","has_sensitive":true,"entities":[{"value":"302-9999-7777-66","begin":14,"end":30,"label":"BANK_ACCOUNT"}]}
+{"id":999,"content":"통증 완화 운동은 1002-222-555888 로 납부 바랍니다. 만성 통증을 관리합니다.","has_sensitive":true,"entities":[{"value":"1002-222-555888","begin":12,"end":27,"label":"BANK_ACCOUNT"}]}
+{"id":1000,"content":"애견 안락사 상담 및 지원 790-333333-77777 계좌로 결제 바랍니다. 임종 케어를 도와드립니다.","has_sensitive":true,"entities":[{"value":"790-333333-77777","begin":17,"end":33,"label":"BANK_ACCOUNT"}]}
+{"id":1001,"content":"전통 녹차 덖음 클래스 23423423423 으로 송금 완료했습니다. 찻잎은 유기농으로 준비됩니다.","has_sensitive":true,"entities":[{"value":"23423423423","begin":15,"end":26,"label":"BANK_ACCOUNT"}]}

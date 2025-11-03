@@ -1,0 +1,1000 @@
+{"id":1,"content":"카드 유효기간은 03/27 입니다. 결제 시 참고하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":2,"content":"고객님의 신용카드 만료일은 11/29 이며, 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":3,"content":"결제 정보 확인 결과 유효기간이 08/25 로 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":4,"content":"먼저 카드 만료일 12/30 을 확인해 주세요. 또한 CVV 번호도 준비하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"12/30","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":5,"content":"07/28 은 모의 결제 건의 카드 유효기간입니다. 또한 보고서에는 일부만 표시하세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":0,"end":5,"label":"CARD_EXPIRY"}]}
+{"id":6,"content":"정기결제를 위해 등록하신 카드의 만료일은 05/26 입니다. 만료 전 갱신 부탁드립니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":26,"end":31,"label":"CARD_EXPIRY"}]}
+{"id":7,"content":"현재 사용 중인 카드 유효기간은 09/28 이므로 아직 유효합니다.","has_sensitive":true,"entities":[{"value":"09/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":8,"content":"결제 수단으로 등록된 카드는 02/27 까지 사용 가능합니다. 참고로 자동 갱신 설정이 되어 있습니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":9,"content":"다음 달부터 새 카드를 사용하셔야 하며 현재 카드는 01/25 만료 예정입니다.","has_sensitive":true,"entities":[{"value":"01/25","begin":35,"end":40,"label":"CARD_EXPIRY"}]}
+{"id":10,"content":"카드 갱신 안내드립니다. 만료일 06/29 이후 사용이 불가하오니 조치 부탁드립니다.","has_sensitive":true,"entities":[{"value":"06/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":11,"content":"고객님께서 등록하신 카드 정보의 유효기간은 04/28 입니다. 자동 결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":12,"content":"정산 시스템에 저장된 만료일은 10/27 로 확인됩니다. 그리고 다음 주에 재확인 예정입니다.","has_sensitive":true,"entities":[{"value":"10/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":13,"content":"회원님의 결제카드는 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":14,"content":"신용카드 유효기간 03/29 확인 완료했습니다. 또한 청구서는 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":15,"content":"등록된 결제 수단의 만료 예정일은 11/25 이며 자동 연장 설정이 가능합니다.","has_sensitive":true,"entities":[{"value":"11/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":16,"content":"현재 유효기간은 08/30 으로 설정되어 있으며 변경이 필요한 경우 연락 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"08/30","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":17,"content":"먼저 만료일 07/26 을 기록해 주세요. 다만 보안을 위해 일부 정보만 노출됩니다.","has_sensitive":true,"entities":[{"value":"07/26","begin":7,"end":12,"label":"CARD_EXPIRY"}]}
+{"id":18,"content":"자동결제에 사용되는 카드의 유효기간은 05/27 입니다. 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":19,"content":"결제 진행을 위해 카드 만료일 09/26 정보를 확인했습니다. 아울러 승인 처리되었습니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":20,"content":"고객센터에서 확인한 카드 유효기간은 02/28 이며 곧 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":21,"content":"정기구독 결제에 등록된 카드는 01/30 만료되므로 새 카드 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":22,"content":"회원님의 카드는 06/28 까지 사용 가능합니다. 참고로 만료 1개월 전 알림을 보내드립니�다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":23,"content":"시스템에 등록된 유효기간 04/26 을 확인하시고 필요시 업데이트 부탁드립니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":24,"content":"카드 정보 조회 결과 만료일은 10/29 입니다. 그리고 새 카드가 발급 중입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":25,"content":"현재 등록된 결제 카드의 유효기간은 12/25 이며 변경 없이 사용 중입니다.","has_sensitive":true,"entities":[{"value":"12/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":26,"content":"먼저 03/28 을 유효기간으로 입력하세요. 또한 카드 소유자 이름도 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":27,"content":"귀하의 신용카드 만료 예정일은 11/30 이오니 갱신 절차를 진행해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":28,"content":"결제 시스템에 저장된 카드 만료일 08/27 확인했습니다. 다만 보안상 전체 정보는 표시되지 않습니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":29,"content":"카드 유효기간이 07/25 로 설정되어 있으므로 결제가 정상 처리됩니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":30,"content":"고객님 계정에 등록된 카드는 05/29 까지 유효합니다. 아울러 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":31,"content":"정산 처리를 위한 카드 정보 중 만료일은 09/25 입니다. 참고로 청구는 매월 1일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":25,"end":30,"label":"CARD_EXPIRY"}]}
+{"id":32,"content":"회원 등록 시 입력하신 유효기간 02/26 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":33,"content":"결제 수단으로 사용 중인 카드의 만료일은 01/27 이며 교체가 필요합니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":27,"end":32,"label":"CARD_EXPIRY"}]}
+{"id":34,"content":"현재 시스템에 등록된 만료일 06/26 을 업데이트하시려면 고객센터로 연락 주세요.","has_sensitive":true,"entities":[{"value":"06/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":35,"content":"자동 갱신이 설정된 카드는 04/27 까지 사용 가능합니다. 그리고 만료 전 새 카드가 발송됩니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":36,"content":"먼저 유효기간 10/28 정보를 확인하셨나요? 또한 카드 뒷면의 서명도 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":9,"end":14,"label":"CARD_EXPIRY"}]}
+{"id":37,"content":"등록하신 결제카드의 만료 예정일은 12/27 입니다. 만료 후에는 서비스 이용이 제한됩니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":38,"content":"카드 정보 확인 결과 03/26 이 유효기간으로 등록되어 있습니다. 다만 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":39,"content":"현재 사용 중인 카드는 11/28 만료 예정이므로 새로운 카드 발급을 권장합니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":40,"content":"결제 진행을 위해 만료일 08/26 을 시스템에 입력했습니다. 참고로 승인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":41,"content":"고객님의 카드 유효기간은 07/27 이며 자동결제가 계속 진행됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":42,"content":"정기 구독료 청구에 사용되는 카드의 만료일은 05/28 입니다. 아울러 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":27,"end":32,"label":"CARD_EXPIRY"}]}
+{"id":43,"content":"회원 정보에 등록된 유효기간 09/27 을 확인했으며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":44,"content":"먼저 02/25 가 만료일인지 확인해 주세요. 그리고 카드 번호 마지막 4자리도 맞는지 봐주세요.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":45,"content":"시스템 점검 결과 카드 만료일이 01/28 로 설정되어 있습니다. 또한 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":46,"content":"귀하의 결제 수단은 06/27 까지 유효하며 이후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":47,"content":"등록된 카드의 유효기간은 04/29 이며 변경 사항이 있으면 즉시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"04/29","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":48,"content":"현재 10/26 이 만료일로 등록되어 있습니다. 참고로 만료 전 알림을 설정하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":49,"content":"카드 갱신 절차가 필요하며 현재 만료일은 12/28 입니다. 다만 온라인으로도 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"12/28","begin":25,"end":30,"label":"CARD_EXPIRY"}]}
+{"id":50,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 03/25 입니다. 그리고 자동결제도 활성화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":51,"content":"고객센터 확인 결과 만료일 11/27 정보가 정확합니다. 아울러 추가 인증은 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":52,"content":"먼저 카드 유효기간 08/29 를 메모해 두세요. 또한 분실 시 즉시 신고해야 합니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":53,"content":"회원님께서 입력하신 만료일은 07/30 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":54,"content":"정산 시스템에서 조회한 카드 만료일은 05/26 입니다. 참고로 월별 명세서는 온라인에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":55,"content":"자동결제 등록을 위해 유효기간 09/29 을 입력해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":56,"content":"현재 사용 중인 결제 수단의 만료일은 02/27 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":57,"content":"결제 카드 정보 중 유효기간 01/26 을 다시 확인해 주세요. 그리고 CVV도 정확히 입력하세요.","has_sensitive":true,"entities":[{"value":"01/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":58,"content":"먼저 06/25 를 만료일로 저장했습니다. 다만 변경이 필요하면 관리 페이지에서 수정 가능합니다.","has_sensitive":true,"entities":[{"value":"06/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":59,"content":"등록하신 카드는 04/30 까지 유효하며 이후 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":60,"content":"고객님의 결제 정보에서 유효기간 10/25 가 확인되었습니다. 아울러 결제 내역도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":61,"content":"시스템 데이터베이스에 저장된 만료일은 12/29 입니다. 참고로 백업도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":62,"content":"카드 유효기간 03/30 확인 후 결제를 진행하겠습니다. 또한 영수증을 이메일로 보내드립니다.","has_sensitive":true,"entities":[{"value":"03/30","begin":9,"end":14,"label":"CARD_EXPIRY"}]}
+{"id":63,"content":"회원 계정에 등록된 만료일 11/26 을 업데이트하시려면 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":64,"content":"현재 08/28 이 카드 만료일로 설정되어 있습니다. 그리고 만료 시 자동으로 새 카드가 발급됩니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":65,"content":"먼저 결제 정보를 확인하니 유효기간이 07/29 입니다. 다만 변경 시 재인증이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":25,"end":30,"label":"CARD_EXPIRY"}]}
+{"id":66,"content":"정기결제에 사용되는 카드의 만료일은 05/25 이며 자동 갱신 설정이 되어 있습니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":67,"content":"고객님께서 등록하신 카드 만료일 09/28 정보를 확인했습니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"09/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":68,"content":"결제 시스템에 입력된 유효기간은 02/29 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":69,"content":"현재 카드는 01/29 만료 예정이므로 사전에 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":8,"end":13,"label":"CARD_EXPIRY"}]}
+{"id":70,"content":"먼저 06/30 을 유효기간으로 확인했습니다. 참고로 이 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":71,"content":"회원님의 카드 정보 중 만료일은 04/28 입니다. 그리고 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":72,"content":"등록된 결제 수단의 유효기간이 10/30 로 확인됩니다. 또한 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":73,"content":"자동결제 카드의 만료일은 12/26 이며 갱신이 필요한 경우 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":74,"content":"결제 진행을 위한 카드 유효기간 03/27 확인 완료했습니다. 다만 추가 인증이 요청될 수 있습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":75,"content":"먼저 시스템에 등록된 만료일 11/29 을 확인하세요. 아울러 카드 소지자 이름도 일치하는지 봐주세요.","has_sensitive":true,"entities":[{"value":"11/29","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":76,"content":"고객센터에서 조회한 결과 유효기간은 08/25 입니다. 참고로 문의 사항은 언제든 연락 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":77,"content":"현재 등록된 카드의 만료일 07/28 을 업데이트하려면 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"07/28","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":78,"content":"회원 정보 확인 결과 카드 유효기간이 05/27 로 설정되어 있습니다. 그리고 변경 이력도 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":79,"content":"결제 수단으로 등록하신 카드는 09/26 까지 사용 가능합니다. 또한 만료 전 안내를 드립니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":80,"content":"먼저 02/28 이 만료일로 저장되었는지 확인하세요. 다만 오류 발생 시 다시 입력해야 합니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":81,"content":"정산 처리를 위한 유효기간 01/30 정보가 확인되었습니다. 아울러 정산 내역도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":82,"content":"카드 등록 시 입력하신 만료일은 06/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"06/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":83,"content":"현재 시스템에 저장된 유효기간은 04/26 입니다. 참고로 보안을 위해 일부 정보는 마스킹됩니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":84,"content":"고객님의 결제카드 만료 예정일은 10/29 이오니 사전에 준비해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":85,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 그리고 결제 승인도 정상적으로 완료되었습니다.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":86,"content":"등록된 결제 정보에서 만료일 03/28 을 확인하시고 필요시 변경해 주세요.","has_sensitive":true,"entities":[{"value":"03/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":87,"content":"회원님의 카드는 11/30 까지 유효하며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":88,"content":"결제 진행을 위해 유효기간 08/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":89,"content":"현재 07/25 가 만료일로 등록되어 있습니다. 또한 카드 정보는 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":90,"content":"먼저 카드 만료일 05/29 정보를 시스템에 저장했습니다. 다만 수정은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":91,"content":"고객님께서 등록하신 유효기간은 09/25 이며 정상적으로 결제가 처리됩니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":92,"content":"정기구독료 청구에 사용되는 카드의 만료일은 02/26 입니다. 참고로 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":27,"end":32,"label":"CARD_EXPIRY"}]}
+{"id":93,"content":"시스템 점검 결과 카드 유효기간이 01/27 로 확인됩니다. 아울러 모든 데이터가 정상입니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":94,"content":"현재 등록된 만료일은 06/26 이며 변경 사항이 있으면 즉시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"06/26","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":95,"content":"먼저 04/27 을 유효기간으로 설정하세요. 그리고 저장 버튼을 클릭하여 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":96,"content":"회원 계정의 결제 수단 만료일은 10/28 입니다. 또한 자동 갱신 옵션을 선택하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":97,"content":"결제 정보 확인 결과 유효기간은 12/27 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":98,"content":"고객센터에서 조회한 카드 만료일 03/26 정보가 정확합니다. 다만 변경 시 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":99,"content":"현재 사용 중인 카드의 유효기간은 11/28 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":100,"content":"먼저 08/26 을 만료일로 입력했습니다. 참고로 결제는 매월 자동으로 처리됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":101,"content":"등록하신 결제카드의 만료 예정일은 07/27 입니다. 그리고 갱신 시 별도 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":102,"content":"회원님의 카드 정보 중 유효기간 05/28 을 확인했으며 정상 처리되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":103,"content":"결제 시스템에 저장된 만료일은 09/27 이며 변경이 필요하면 연락 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":104,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 또한 보안 설정도 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":105,"content":"먼저 자동결제 설정을 위해 만료일 01/28 을 입력해 주세요. 아울러 약관 동의도 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":106,"content":"고객님의 결제 수단 유효기간은 06/27 이며 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":107,"content":"정산 데이터에서 조회한 카드 만료일은 04/29 입니다. 참고로 내역은 3개월간 보관됩니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":108,"content":"시스템에 등록된 유효기간 10/26 을 다시 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":109,"content":"현재 카드는 12/28 만료 예정이므로 새 카드 발급을 신청해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":8,"end":13,"label":"CARD_EXPIRY"}]}
+{"id":110,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 그리고 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":111,"content":"회원 정보에 등록된 만료일 11/27 을 업데이트하시려면 인증 코드가 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":112,"content":"결제 진행을 위한 유효기간은 08/29 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":113,"content":"고객님께서 입력하신 카드 만료일은 07/30 입니다. 또한 결제 내역은 앱에서 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":114,"content":"현재 등록된 결제 카드의 유효기간은 05/26 이며 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":115,"content":"먼저 09/29 을 만료일로 확인하세요. 다만 잘못 입력된 경우 다시 수정해야 합니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":116,"content":"정기결제에 사용되는 카드의 만료일은 02/27 이며 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":117,"content":"시스템 점검 결과 유효기간이 01/26 로 설정되어 있습니다. 참고로 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":118,"content":"회원님의 카드는 06/25 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/25","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":119,"content":"결제 정보 업데이트가 완료되었으며 만료일은 04/30 입니다. 아울러 영수증도 발급되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":120,"content":"현재 10/25 가 유효기간으로 등록되어 있습니다. 그리고 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":121,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 또한 보안을 위해 추가 인증을 권장합니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":122,"content":"고객센터에서 조회한 결과 만료일은 03/30 입니다. 다만 정보 변경은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"03/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":123,"content":"등록하신 결제 수단의 유효기간이 11/26 로 확인됩니다. 참고로 만료 전 안내를 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":124,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":125,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 그리고 정보가 맞으면 승인을 눌러주세요.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":126,"content":"회원 계정에 등록된 유효기간은 05/25 입니다. 아울러 카드 정보는 암호화 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":127,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":128,"content":"고객님의 카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":129,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":130,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":131,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 참고로 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":132,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":133,"content":"회원님의 결제카드는 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":134,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 그리고 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":135,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 다만 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":136,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 아울러 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":137,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":138,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":139,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":140,"content":"먼저 02/28 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":141,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 또한 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":142,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 그리고 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":143,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":144,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":145,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 다만 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":146,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 참고로 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":147,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 아울러 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":148,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 그리고 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":149,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 또한 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":150,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 다만 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":151,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 참고로 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":152,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":153,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 아울러 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":154,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":155,"content":"먼저 04/27 을 만료일로 확인했습니다. 그리고 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":156,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 또한 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":157,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":158,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 다만 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":159,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":160,"content":"먼저 08/26 를 유효기간으로 설정하세요. 참고로 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":161,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 그리고 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":162,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":163,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":164,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 또한 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":165,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 다만 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":166,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 참고로 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":167,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 그리고 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":168,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":169,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":170,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 아울러 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":171,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":172,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 또한 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":173,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":174,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":175,"content":"먼저 09/29 을 만료일로 입력하세요. 참고로 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":176,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 그리고 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":177,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 다만 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":178,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":179,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 아울러 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":180,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 또한 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":181,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 그리고 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":182,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":183,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 참고로 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":184,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":185,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 다만 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":186,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 아울러 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":187,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":188,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":189,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":190,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 그리고 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":191,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 또한 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":192,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":193,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":194,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 참고로 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":195,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 아울러 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":196,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 그리고 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":197,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":198,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":199,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":200,"content":"먼저 02/28 을 만료일로 저장했습니다. 다만 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":201,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 또한 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":202,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 참고로 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":203,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":204,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":205,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 아울러 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":206,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":207,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 다만 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":208,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 또한 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":209,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 참고로 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":210,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 아울러 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":211,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 그리고 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":212,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":213,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 또한 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":214,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":215,"content":"먼저 04/27 을 만료일로 확인했습니다. 다만 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":216,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 참고로 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":217,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":218,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 아울러 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":219,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":220,"content":"먼저 08/26 를 유효기간으로 설정하세요. 그리고 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":221,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 또한 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":222,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 다만 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":223,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":224,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 참고로 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":225,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 아울러 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":226,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 그리고 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":227,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 또한 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":228,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":229,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":230,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 다만 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":231,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":232,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 참고로 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":233,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":234,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":235,"content":"먼저 09/29 을 만료일로 입력하세요. 아울러 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":236,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 그리고 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":237,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 또한 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":238,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":239,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 다만 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":240,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 참고로 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":241,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 아울러 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":242,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":243,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 그리고 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":244,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":245,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 또한 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":246,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 다만 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":247,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":248,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":249,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":250,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 참고로 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":251,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 아울러 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":252,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":253,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":254,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 그리고 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":255,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 또한 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":256,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 다만 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":257,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":258,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":259,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":260,"content":"먼저 02/28 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":261,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 아울러 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":262,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 그리고 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":263,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":264,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":265,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 또한 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":266,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 다만 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":267,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 참고로 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":268,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 아울러 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":269,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 그리고 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":270,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 또한 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":271,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 다만 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":272,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":273,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 참고로 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":274,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":275,"content":"먼저 04/27 을 만료일로 확인했습니다. 아울러 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":276,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 그리고 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":277,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":278,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 또한 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":279,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":280,"content":"먼저 08/26 를 유효기간으로 설정하세요. 다만 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":281,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 참고로 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":282,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":283,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":284,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 그리고 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":285,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 또한 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":286,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 다만 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":287,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 참고로 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":288,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":289,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":290,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 아울러 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":291,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":292,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 그리고 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":293,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":294,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":295,"content":"먼저 09/29 을 만료일로 입력하세요. 또한 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":296,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 다만 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":297,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 참고로 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":298,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":299,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 아울러 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":300,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 그리고 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":301,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 또한 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":302,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":303,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 다만 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":304,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":305,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 참고로 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":306,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 아울러 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":307,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":308,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":309,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":310,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 그리고 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":311,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 또한 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":312,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":313,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":314,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 다만 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":315,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 참고로 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":316,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 아울러 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":317,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":318,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":319,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":320,"content":"먼저 02/28 을 만료일로 저장했습니다. 아울러 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":321,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 그리고 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":322,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 또한 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":323,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":324,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":325,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 다만 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":326,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 참고로 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":327,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 아울러 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":328,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 그리고 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":329,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 또한 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":330,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 다만 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":331,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 참고로 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":332,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":333,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 아울러 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":334,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":335,"content":"먼저 04/27 을 만료일로 확인했습니다. 그리고 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":336,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 또한 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":337,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":338,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 다만 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":339,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":340,"content":"먼저 08/26 를 유효기간으로 설정하세요. 참고로 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":341,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 아울러 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":342,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 그리고 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":343,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":344,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 또한 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":345,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 다만 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":346,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 참고로 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":347,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 아울러 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":348,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":349,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":350,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 그리고 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":351,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":352,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 또한 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":353,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":354,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":355,"content":"먼저 09/29 을 만료일로 입력하세요. 다만 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":356,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 참고로 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":357,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 아울러 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":358,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":359,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 그리고 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":360,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 또한 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":361,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 다만 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":362,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":363,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 참고로 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":364,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":365,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 아울러 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":366,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 그리고 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":367,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":368,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":369,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":370,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":371,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 다만 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":372,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":373,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":374,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 참고로 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":375,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 아울러 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":376,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 그리고 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":377,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":378,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":379,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":380,"content":"먼저 02/28 을 만료일로 저장했습니다. 또한 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":381,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 다만 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":382,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 참고로 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":383,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":384,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":385,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 아울러 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":386,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":387,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 또한 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":388,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 다만 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":389,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 참고로 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":390,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 아울러 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":391,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 그리고 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":392,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":393,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 또한 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":394,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":395,"content":"먼저 04/27 을 만료일로 확인했습니다. 다만 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":396,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 참고로 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":397,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":398,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 아울러 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":399,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":400,"content":"먼저 08/26 를 유효기간으로 설정하세요. 그리고 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":401,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 또한 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":402,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 다만 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":403,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":404,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 참고로 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":405,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 아울러 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":406,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 그리고 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":407,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 또한 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":408,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":409,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":410,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 다만 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":411,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":412,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 참고로 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":413,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":414,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":415,"content":"먼저 09/29 을 만료일로 입력하세요. 아울러 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":416,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 그리고 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":417,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 다만 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":418,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":419,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 또한 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":420,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 참고로 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":421,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 아울러 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":422,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":423,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 그리고 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":424,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":425,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 또한 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":426,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 다만 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":427,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":428,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":429,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":430,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 참고로 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":431,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 아울러 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":432,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":433,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":434,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 그리고 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":435,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 또한 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":436,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 다만 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":437,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":438,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":439,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":440,"content":"먼저 02/28 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":441,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 아울러 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":442,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 그리고 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":443,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":444,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":445,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 또한 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":446,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 다만 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":447,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 참고로 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":448,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 아울러 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":449,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 그리고 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":450,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 또한 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":451,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 다만 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":452,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":453,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 참고로 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":454,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":455,"content":"먼저 04/27 을 만료일로 확인했습니다. 아울러 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":456,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 그리고 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":457,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":458,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 또한 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":459,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":460,"content":"먼저 08/26 를 유효기간으로 설정하세요. 다만 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":461,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 참고로 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":462,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":463,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":464,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 그리고 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":465,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 또한 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":466,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 다만 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":467,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 참고로 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":468,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":469,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":470,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 아울러 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":471,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":472,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 그리고 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":473,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":474,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":475,"content":"먼저 09/29 을 만료일로 입력하세요. 또한 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":476,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 다만 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":477,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 참고로 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":478,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":479,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 아울러 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":480,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 그리고 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":481,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 또한 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":482,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":483,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 다만 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":484,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":485,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 참고로 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":486,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 아울러 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":487,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":488,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":489,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":490,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 그리고 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":491,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 또한 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":492,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":493,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":494,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 다만 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":495,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 참고로 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":496,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 아울러 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":497,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":498,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":499,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":500,"content":"먼저 02/28 을 만료일로 저장했습니다. 아울러 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":501,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 그리고 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":502,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 또한 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":503,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":504,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":505,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 다만 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":506,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 참고로 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":507,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 아울러 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":508,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 그리고 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":509,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 또한 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":510,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 다만 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":511,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 참고로 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":512,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":513,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 아울러 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":514,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":515,"content":"먼저 04/27 을 만료일로 확인했습니다. 그리고 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":516,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 또한 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":517,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":518,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 다만 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":519,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":520,"content":"먼저 08/26 를 유효기간으로 설정하세요. 참고로 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":521,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 아울러 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":522,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 그리고 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":523,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":524,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 또한 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":525,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 다만 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":526,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 참고로 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":527,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 아울러 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":528,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":529,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":530,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 그리고 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":531,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":532,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 또한 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":533,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":534,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":535,"content":"먼저 09/29 을 만료일로 입력하세요. 다만 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":536,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 참고로 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":537,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 아울러 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":538,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":539,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 그리고 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":540,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 또한 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":541,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 다만 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":542,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":543,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 참고로 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":544,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":545,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 아울러 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":546,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 그리고 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":547,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":548,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":549,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":550,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":551,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 다만 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":552,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":553,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":554,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 참고로 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":555,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 아울러 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":556,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 그리고 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":557,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":558,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":559,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":560,"content":"먼저 02/28 을 만료일로 저장했습니다. 그리고 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":561,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 또한 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":562,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 다만 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":563,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":564,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":565,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 참고로 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":566,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 아울러 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":567,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 그리고 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":568,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 또한 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":569,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 다만 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":570,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 참고로 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":571,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 아울러 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":572,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":573,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 그리고 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":574,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":575,"content":"먼저 04/27 을 만료일로 확인했습니다. 또한 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":576,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 다만 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":577,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":578,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 참고로 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":579,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":580,"content":"먼저 08/26 를 유효기간으로 설정하세요. 아울러 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":581,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 그리고 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":582,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 또한 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":583,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":584,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 다만 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":585,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 참고로 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":586,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 아울러 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":587,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 그리고 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":588,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":589,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":590,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 또한 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":591,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":592,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 다만 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":593,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":594,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":595,"content":"먼저 09/29 을 만료일로 입력하세요. 참고로 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":596,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 아울러 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":597,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 그리고 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":598,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":599,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 또한 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":600,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 다만 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":601,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 참고로 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":602,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":603,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 아울러 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":604,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":605,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 그리고 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":606,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 또한 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":607,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":608,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":609,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":610,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 다만 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":611,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 참고로 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":612,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":613,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":614,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 아울러 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":615,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 그리고 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":616,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 또한 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":617,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":618,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":619,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":620,"content":"먼저 02/28 을 만료일로 저장했습니다. 또한 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":621,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 다만 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":622,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 참고로 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":623,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":624,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":625,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 아울러 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":626,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":627,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 또한 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":628,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 다만 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":629,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 참고로 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":630,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 아울러 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":631,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 그리고 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":632,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":633,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 또한 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":634,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":635,"content":"먼저 04/27 을 만료일로 확인했습니다. 다만 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":636,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 참고로 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":637,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":638,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 아울러 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":639,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":640,"content":"먼저 08/26 를 유효기간으로 설정하세요. 그리고 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":641,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 또한 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":642,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 다만 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":643,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":644,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 참고로 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":645,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 아울러 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":646,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 그리고 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":647,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 또한 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":648,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":649,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":650,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 다만 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":651,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":652,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 참고로 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":653,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":654,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":655,"content":"먼저 09/29 을 만료일로 입력하세요. 아울러 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":656,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 그리고 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":657,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 또한 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":658,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":659,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 다만 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":660,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 참고로 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":661,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 아울러 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":662,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":663,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 그리고 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":664,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":665,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 또한 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":666,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 다만 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":667,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":668,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":669,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":670,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 참고로 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":671,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 아울러 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":672,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":673,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":674,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 그리고 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":675,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 또한 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":676,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 다만 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":677,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":678,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":679,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":680,"content":"먼저 02/28 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":681,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 아울러 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":682,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 그리고 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":683,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":684,"content":"현재 등록된 결제 카드의 만료일은 10/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":685,"content":"먼저 12/25 를 카드 유효기간으로 입력했습니다. 또한 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":686,"content":"정기구독료 청구에 사용되는 카드는 03/28 까지 유효합니다. 다만 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":687,"content":"시스템 점검 결과 만료일 11/30 정보가 정확합니다. 참고로 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":688,"content":"회원님의 카드 정보 중 유효기간은 08/27 입니다. 아울러 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":689,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/25 입니다. 그리고 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":690,"content":"현재 05/29 가 유효기간으로 등록되어 있습니다. 또한 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":691,"content":"먼저 카드 만료일 09/25 를 메모해 두세요. 다만 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":692,"content":"고객님께서 입력하신 유효기간은 02/26 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":693,"content":"등록하신 결제 수단의 만료일은 01/27 입니다. 참고로 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":694,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":695,"content":"먼저 04/27 을 만료일로 확인했습니다. 아울러 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":696,"content":"회원 계정에 등록된 카드 만료일은 10/28 입니다. 그리고 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":697,"content":"결제 시스템에 저장된 유효기간은 12/27 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":698,"content":"고객센터에서 조회한 카드 만료일 03/26 정보를 확인했습니다. 또한 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":699,"content":"현재 등록된 만료일은 11/28 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":700,"content":"먼저 08/26 를 유효기간으로 설정하세요. 다만 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":701,"content":"정산 데이터에서 조회한 만료일은 07/27 입니다. 참고로 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":702,"content":"회원님의 결제카드 유효기간이 05/28 로 확인됩니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":703,"content":"결제 진행을 위한 카드 만료일은 09/27 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":704,"content":"현재 02/25 가 카드 유효기간으로 설정되어 있습니다. 그리고 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":705,"content":"먼저 자동결제 카드의 만료일 01/28 을 확인하세요. 또한 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":706,"content":"고객님의 결제 정보에서 유효기간 06/27 이 확인되었습니다. 다만 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":707,"content":"시스템에 등록된 카드 만료일은 04/29 입니다. 참고로 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":708,"content":"등록하신 결제 수단의 유효기간은 10/26 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":709,"content":"현재 사용 중인 카드는 12/28 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":710,"content":"먼저 03/25 를 카드 만료일로 저장했습니다. 아울러 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":711,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":712,"content":"결제 수단으로 등록된 카드의 만료일은 08/29 입니다. 그리고 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":713,"content":"고객센터에서 확인한 결과 유효기간은 07/30 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":714,"content":"현재 등록된 결제 카드의 만료일은 05/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":715,"content":"먼저 09/29 을 만료일로 입력하세요. 또한 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":716,"content":"정기결제에 사용되는 카드의 유효기간은 02/27 입니다. 다만 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":717,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 참고로 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":718,"content":"회원님의 카드는 06/28 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":719,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/30 입니다. 아울러 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":720,"content":"현재 10/25 가 만료일로 등록되어 있습니다. 다만 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":721,"content":"먼저 카드 유효기간 12/29 를 확인했습니다. 그리고 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":722,"content":"고객님께서 등록하신 만료일은 03/30 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/30","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":723,"content":"등록된 결제 정보에서 유효기간이 11/26 로 설정되어 있습니다. 참고로 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":724,"content":"현재 사용 중인 카드의 만료일은 08/28 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":725,"content":"먼저 07/29 이 카드 만료일로 저장되었는지 확인하세요. 아울러 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":726,"content":"회원 계정에 등록된 카드 유효기간은 05/25 입니다. 그리고 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":727,"content":"결제 시스템에 입력된 만료일 09/28 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":728,"content":"고객님의 결제카드 정보 중 유효기간은 02/29 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":729,"content":"현재 등록된 만료일은 01/29 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":730,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":731,"content":"정산 처리를 위한 카드 만료일은 04/28 입니다. 다만 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":732,"content":"시스템에 저장된 유효기간 10/30 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":733,"content":"회원님의 결제 수단은 12/26 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":734,"content":"결제 진행을 위해 만료일 03/27 정보를 확인했습니다. 참고로 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":735,"content":"현재 11/29 가 카드 유효기간으로 등록되어 있습니다. 아울러 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":736,"content":"먼저 자동결제 등록을 위해 유효기간 08/25 를 입력하세요. 그리고 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":737,"content":"고객님께서 등록하신 카드 만료일은 07/28 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":738,"content":"등록된 결제 정보에서 유효기간 05/27 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":739,"content":"현재 사용 중인 카드는 09/26 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":740,"content":"먼저 02/28 을 만료일로 저장했습니다. 또한 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":741,"content":"회원 정보 확인 결과 카드 유효기간이 01/31 로 설정되어 있습니다. 다만 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/31","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":742,"content":"결제 수단으로 등록된 카드의 만료일은 06/29 입니다. 참고로 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/29","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":743,"content":"고객센터에서 조회한 유효기간은 04/25 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/25","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":744,"content":"현재 등록된 결제 카드의 만료일은 10/27 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":745,"content":"먼저 12/30 를 카드 유효기간으로 입력했습니다. 아울러 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":746,"content":"정기구독료 청구에 사용되는 카드는 03/29 까지 유효합니다. 그리고 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":747,"content":"시스템 점검 결과 만료일 11/25 정보가 정확합니다. 또한 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/25","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":748,"content":"회원님의 카드 정보 중 유효기간은 08/30 입니다. 다만 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":749,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/26 입니다. 참고로 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/26","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":750,"content":"현재 05/30 가 유효기간으로 등록되어 있습니다. 아울러 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":751,"content":"먼저 카드 만료일 09/30 를 메모해 두세요. 그리고 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/30","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":752,"content":"고객님께서 입력하신 유효기간은 02/30 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":753,"content":"등록하신 결제 수단의 만료일은 01/25 입니다. 또한 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/25","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":754,"content":"현재 사용 중인 카드의 유효기간은 06/25 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":755,"content":"먼저 04/30 을 만료일로 확인했습니다. 다만 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":756,"content":"회원 계정에 등록된 카드 만료일은 10/26 입니다. 참고로 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":757,"content":"결제 시스템에 저장된 유효기간은 12/31 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/31","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":758,"content":"고객센터에서 조회한 카드 만료일 03/31 정보를 확인했습니다. 아울러 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/31","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":759,"content":"현재 등록된 만료일은 11/30 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":760,"content":"먼저 08/31 를 유효기간으로 설정하세요. 그리고 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":761,"content":"정산 데이터에서 조회한 만료일은 07/31 입니다. 또한 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/31","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":762,"content":"회원님의 결제카드 유효기간이 05/31 로 확인됩니다. 다만 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/31","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":763,"content":"결제 진행을 위한 카드 만료일은 09/30 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":764,"content":"현재 02/27 가 카드 유효기간으로 설정되어 있습니다. 참고로 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":765,"content":"먼저 자동결제 카드의 만료일 01/26 을 확인하세요. 아울러 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":766,"content":"고객님의 결제 정보에서 유효기간 06/30 이 확인되었습니다. 그리고 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":767,"content":"시스템에 등록된 카드 만료일은 04/31 입니다. 또한 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/31","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":768,"content":"등록하신 결제 수단의 유효기간은 10/31 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/31","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":769,"content":"현재 사용 중인 카드는 12/27 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/27","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":770,"content":"먼저 03/26 를 카드 만료일로 저장했습니다. 다만 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":771,"content":"회원 정보에 등록된 유효기간 11/31 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/31","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":772,"content":"결제 수단으로 등록된 카드의 만료일은 08/27 입니다. 참고로 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":773,"content":"고객센터에서 확인한 결과 유효기간은 07/29 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":774,"content":"현재 등록된 결제 카드의 만료일은 05/29 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":775,"content":"먼저 09/31 을 만료일로 입력하세요. 아울러 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":776,"content":"정기결제에 사용되는 카드의 유효기간은 02/31 입니다. 그리고 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/31","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":777,"content":"시스템 점검 결과 카드 만료일이 01/28 로 확인됩니다. 또한 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":778,"content":"회원님의 카드는 06/31 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/31","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":779,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/29 입니다. 다만 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":780,"content":"현재 10/30 가 만료일로 등록되어 있습니다. 참고로 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":781,"content":"먼저 카드 유효기간 12/28 를 확인했습니다. 아울러 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/28","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":782,"content":"고객님께서 등록하신 만료일은 03/29 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/29","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":783,"content":"등록된 결제 정보에서 유효기간이 11/25 로 설정되어 있습니다. 그리고 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":784,"content":"현재 사용 중인 카드의 만료일은 08/29 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":785,"content":"먼저 07/30 이 카드 만료일로 저장되었는지 확인하세요. 또한 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":786,"content":"회원 계정에 등록된 카드 유효기간은 05/30 입니다. 다만 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":787,"content":"결제 시스템에 입력된 만료일 09/29 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":788,"content":"고객님의 결제카드 정보 중 유효기간은 02/26 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":789,"content":"현재 등록된 만료일은 01/31 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/31","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":790,"content":"먼저 06/29 를 유효기간으로 설정했습니다. 참고로 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":791,"content":"정산 처리를 위한 카드 만료일은 04/27 입니다. 아울러 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":792,"content":"시스템에 저장된 유효기간 10/29 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":793,"content":"회원님의 결제 수단은 12/30 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/30","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":794,"content":"결제 진행을 위해 만료일 03/28 정보를 확인했습니다. 그리고 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/28","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":795,"content":"현재 11/27 가 카드 유효기간으로 등록되어 있습니다. 또한 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":796,"content":"먼저 자동결제 등록을 위해 유효기간 08/30 를 입력하세요. 다만 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/30","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":797,"content":"고객님께서 등록하신 카드 만료일은 07/27 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":798,"content":"등록된 결제 정보에서 유효기간 05/26 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":799,"content":"현재 사용 중인 카드는 09/27 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":800,"content":"먼저 02/25 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":801,"content":"회원 정보 확인 결과 카드 유효기간이 01/29 로 설정되어 있습니다. 아울러 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/29","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":802,"content":"결제 수단으로 등록된 카드의 만료일은 06/27 입니다. 그리고 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":803,"content":"고객센터에서 조회한 유효기간은 04/26 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":804,"content":"현재 등록된 결제 카드의 만료일은 10/28 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":805,"content":"먼저 12/29 를 카드 유효기간으로 입력했습니다. 또한 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":806,"content":"정기구독료 청구에 사용되는 카드는 03/30 까지 유효합니다. 다만 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":807,"content":"시스템 점검 결과 만료일 11/26 정보가 정확합니다. 참고로 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":808,"content":"회원님의 카드 정보 중 유효기간은 08/26 입니다. 아울러 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":809,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/30 입니다. 그리고 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/30","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":810,"content":"현재 05/25 가 유효기간으로 등록되어 있습니다. 또한 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":811,"content":"먼저 카드 만료일 09/28 를 메모해 두세요. 다만 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/28","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":812,"content":"고객님께서 입력하신 유효기간은 02/27 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":813,"content":"등록하신 결제 수단의 만료일은 01/30 입니다. 참고로 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":814,"content":"현재 사용 중인 카드의 유효기간은 06/30 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":815,"content":"먼저 04/25 을 만료일로 확인했습니다. 아울러 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":816,"content":"회원 계정에 등록된 카드 만료일은 10/27 입니다. 그리고 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":817,"content":"결제 시스템에 저장된 유효기간은 12/25 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":818,"content":"고객센터에서 조회한 카드 만료일 03/27 정보를 확인했습니다. 또한 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":819,"content":"현재 등록된 만료일은 11/29 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":820,"content":"먼저 08/28 를 유효기간으로 설정하세요. 다만 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":821,"content":"정산 데이터에서 조회한 만료일은 07/26 입니다. 참고로 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":822,"content":"회원님의 결제카드 유효기간이 05/27 로 확인됩니다. 아울러 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":823,"content":"결제 진행을 위한 카드 만료일은 09/25 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":824,"content":"현재 02/30 가 카드 유효기간으로 설정되어 있습니다. 그리고 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":825,"content":"먼저 자동결제 카드의 만료일 01/27 을 확인하세요. 또한 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":826,"content":"고객님의 결제 정보에서 유효기간 06/26 이 확인되었습니다. 다만 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":827,"content":"시스템에 등록된 카드 만료일은 04/30 입니다. 참고로 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":828,"content":"등록하신 결제 수단의 유효기간은 10/25 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":829,"content":"현재 사용 중인 카드는 12/31 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/31","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":830,"content":"먼저 03/31 를 카드 만료일로 저장했습니다. 아울러 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":831,"content":"회원 정보에 등록된 유효기간 11/28 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":832,"content":"결제 수단으로 등록된 카드의 만료일은 08/25 입니다. 그리고 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/25","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":833,"content":"고객센터에서 확인한 결과 유효기간은 07/28 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":834,"content":"현재 등록된 결제 카드의 만료일은 05/28 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":835,"content":"먼저 09/26 을 만료일로 입력하세요. 또한 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":836,"content":"정기결제에 사용되는 카드의 유효기간은 02/29 입니다. 다만 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":837,"content":"시스템 점검 결과 카드 만료일이 01/25 로 확인됩니다. 참고로 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":838,"content":"회원님의 카드는 06/25 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/25","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":839,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/26 입니다. 아울러 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":840,"content":"현재 10/31 가 만료일로 등록되어 있습니다. 그리고 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":841,"content":"먼저 카드 유효기간 12/26 를 확인했습니다. 또한 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/26","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":842,"content":"고객님께서 등록하신 만료일은 03/25 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/25","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":843,"content":"등록된 결제 정보에서 유효기간이 11/30 로 설정되어 있습니다. 다만 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":844,"content":"현재 사용 중인 카드의 만료일은 08/31 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/31","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":845,"content":"먼저 07/31 이 카드 만료일로 저장되었는지 확인하세요. 참고로 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":846,"content":"회원 계정에 등록된 카드 유효기간은 05/31 입니다. 아울러 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/31","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":847,"content":"결제 시스템에 입력된 만료일 09/27 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":848,"content":"고객님의 결제카드 정보 중 유효기간은 02/28 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":849,"content":"현재 등록된 만료일은 01/27 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/27","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":850,"content":"먼저 06/31 를 유효기간으로 설정했습니다. 그리고 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":851,"content":"정산 처리를 위한 카드 만료일은 04/31 입니다. 또한 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/31","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":852,"content":"시스템에 저장된 유효기간 10/28 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":853,"content":"회원님의 결제 수단은 12/27 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":854,"content":"결제 진행을 위해 만료일 03/26 정보를 확인했습니다. 다만 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/26","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":855,"content":"현재 11/31 가 카드 유효기간으로 등록되어 있습니다. 참고로 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":856,"content":"먼저 자동결제 등록을 위해 유효기간 08/26 를 입력하세요. 아울러 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/26","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":857,"content":"고객님께서 등록하신 카드 만료일은 07/25 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":858,"content":"등록된 결제 정보에서 유효기간 05/29 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":859,"content":"현재 사용 중인 카드는 09/28 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/28","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":860,"content":"먼저 02/31 을 만료일로 저장했습니다. 또한 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":861,"content":"회원 정보 확인 결과 카드 유효기간이 01/26 로 설정되어 있습니다. 그리고 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/26","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":862,"content":"결제 수단으로 등록된 카드의 만료일은 06/26 입니다. 또한 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":863,"content":"고객센터에서 조회한 유효기간은 04/27 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":864,"content":"현재 등록된 결제 카드의 만료일은 10/26 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":865,"content":"먼저 12/28 를 카드 유효기간으로 입력했습니다. 다만 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":866,"content":"정기구독료 청구에 사용되는 카드는 03/31 까지 유효합니다. 참고로 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/31","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":867,"content":"시스템 점검 결과 만료일 11/29 정보가 정확합니다. 아울러 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":868,"content":"회원님의 카드 정보 중 유효기간은 08/29 입니다. 그리고 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":869,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/27 입니다. 또한 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":870,"content":"현재 05/26 가 유효기간으로 등록되어 있습니다. 다만 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":871,"content":"먼저 카드 만료일 09/29 를 메모해 두세요. 참고로 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":872,"content":"고객님께서 입력하신 유효기간은 02/25 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":873,"content":"등록하신 결제 수단의 만료일은 01/28 입니다. 아울러 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":874,"content":"현재 사용 중인 카드의 유효기간은 06/27 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":875,"content":"먼저 04/26 을 만료일로 확인했습니다. 그리고 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":876,"content":"회원 계정에 등록된 카드 만료일은 10/29 입니다. 다만 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":877,"content":"결제 시스템에 저장된 유효기간은 12/30 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":878,"content":"고객센터에서 조회한 카드 만료일 03/30 정보를 확인했습니다. 참고로 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":879,"content":"현재 등록된 만료일은 11/27 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":880,"content":"먼저 08/27 를 유효기간으로 설정하세요. 아울러 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":881,"content":"정산 데이터에서 조회한 만료일은 07/28 입니다. 그리고 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":882,"content":"회원님의 결제카드 유효기간이 05/30 로 확인됩니다. 또한 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":883,"content":"결제 진행을 위한 카드 만료일은 09/31 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/31","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":884,"content":"현재 02/26 가 카드 유효기간으로 설정되어 있습니다. 다만 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":885,"content":"먼저 자동결제 카드의 만료일 01/29 을 확인하세요. 참고로 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":886,"content":"고객님의 결제 정보에서 유효기간 06/28 이 확인되었습니다. 아울러 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":887,"content":"시스템에 등록된 카드 만료일은 04/28 입니다. 그리고 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":888,"content":"등록하신 결제 수단의 유효기간은 10/30 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":889,"content":"현재 사용 중인 카드는 12/29 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/29","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":890,"content":"먼저 03/27 를 카드 만료일로 저장했습니다. 또한 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":891,"content":"회원 정보에 등록된 유효기간 11/26 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":892,"content":"결제 수단으로 등록된 카드의 만료일은 08/28 입니다. 다만 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":893,"content":"고객센터에서 확인한 결과 유효기간은 07/29 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":894,"content":"현재 등록된 결제 카드의 만료일은 05/25 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":895,"content":"먼저 09/30 을 만료일로 입력하세요. 참고로 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":896,"content":"정기결제에 사용되는 카드의 유효기간은 02/28 입니다. 아울러 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/28","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":897,"content":"시스템 점검 결과 카드 만료일이 01/30 로 확인됩니다. 그리고 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":898,"content":"회원님의 카드는 06/29 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/29","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":899,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/27 입니다. 또한 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":900,"content":"현재 10/27 가 만료일로 등록되어 있습니다. 다만 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":901,"content":"먼저 카드 유효기간 12/31 를 확인했습니다. 참고로 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/31","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":902,"content":"고객님께서 등록하신 만료일은 03/28 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/28","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":903,"content":"등록된 결제 정보에서 유효기간이 11/29 로 설정되어 있습니다. 아울러 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":904,"content":"현재 사용 중인 카드의 만료일은 08/30 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":905,"content":"먼저 07/26 이 카드 만료일로 저장되었는지 확인하세요. 그리고 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":906,"content":"회원 계정에 등록된 카드 유효기간은 05/26 입니다. 또한 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/26","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":907,"content":"결제 시스템에 입력된 만료일 09/25 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/25","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":908,"content":"고객님의 결제카드 정보 중 유효기간은 02/27 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":909,"content":"현재 등록된 만료일은 01/31 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/31","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":910,"content":"먼저 06/30 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":911,"content":"정산 처리를 위한 카드 만료일은 04/29 입니다. 다만 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":912,"content":"시스템에 저장된 유효기간 10/31 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/31","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":913,"content":"회원님의 결제 수단은 12/25 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/25","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":914,"content":"결제 진행을 위해 만료일 03/29 정보를 확인했습니다. 참고로 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/29","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":915,"content":"현재 11/25 가 카드 유효기간으로 등록되어 있습니다. 아울러 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":916,"content":"먼저 자동결제 등록을 위해 유효기간 08/27 를 입력하세요. 그리고 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/27","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":917,"content":"고객님께서 등록하신 카드 만료일은 07/30 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":918,"content":"등록된 결제 정보에서 유효기간 05/28 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":919,"content":"현재 사용 중인 카드는 09/29 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/29","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":920,"content":"먼저 02/29 을 만료일로 저장했습니다. 아울러 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":921,"content":"회원 정보 확인 결과 카드 유효기간이 01/27 로 설정되어 있습니다. 그리고 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/27","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":922,"content":"결제 수단으로 등록된 카드의 만료일은 06/25 입니다. 또한 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/25","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":923,"content":"고객센터에서 조회한 유효기간은 04/30 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/30","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":924,"content":"현재 등록된 결제 카드의 만료일은 10/25 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/25","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":925,"content":"먼저 12/26 를 카드 유효기간으로 입력했습니다. 다만 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":926,"content":"정기구독료 청구에 사용되는 카드는 03/27 까지 유효합니다. 참고로 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":927,"content":"시스템 점검 결과 만료일 11/28 정보가 정확합니다. 아울러 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/28","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":928,"content":"회원님의 카드 정보 중 유효기간은 08/25 입니다. 그리고 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":929,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/31 입니다. 또한 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/31","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":930,"content":"현재 05/27 가 유효기간으로 등록되어 있습니다. 다만 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":931,"content":"먼저 카드 만료일 09/26 를 메모해 두세요. 참고로 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/26","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":932,"content":"고객님께서 입력하신 유효기간은 02/30 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/30","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":933,"content":"등록하신 결제 수단의 만료일은 01/26 입니다. 아울러 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":934,"content":"현재 사용 중인 카드의 유효기간은 06/26 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":935,"content":"먼저 04/28 을 만료일로 확인했습니다. 그리고 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":936,"content":"회원 계정에 등록된 카드 만료일은 10/30 입니다. 또한 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":937,"content":"결제 시스템에 저장된 유효기간은 12/29 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":938,"content":"고객센터에서 조회한 카드 만료일 03/25 정보를 확인했습니다. 다만 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/25","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":939,"content":"현재 등록된 만료일은 11/26 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/26","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":940,"content":"먼저 08/29 를 유효기간으로 설정하세요. 참고로 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/29","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":941,"content":"정산 데이터에서 조회한 만료일은 07/25 입니다. 아울러 내역은 월별로 관리됩니다.","has_sensitive":true,"entities":[{"value":"07/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":942,"content":"회원님의 결제카드 유효기간이 05/29 로 확인됩니다. 그리고 보안 설정도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"05/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":943,"content":"결제 진행을 위한 카드 만료일은 09/28 이며 모든 정보가 확인되었습니다.","has_sensitive":true,"entities":[{"value":"09/28","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":944,"content":"현재 02/31 가 카드 유효기간으로 설정되어 있습니다. 또한 자동 갱신도 가능합니다.","has_sensitive":true,"entities":[{"value":"02/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":945,"content":"먼저 자동결제 카드의 만료일 01/25 을 확인하세요. 다만 만료 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"01/25","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":946,"content":"고객님의 결제 정보에서 유효기간 06/29 이 확인되었습니다. 참고로 변경은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"06/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":947,"content":"시스템에 등록된 카드 만료일은 04/25 입니다. 아울러 만료 전 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"04/25","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":948,"content":"등록하신 결제 수단의 유효기간은 10/29 이며 자동결제가 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":949,"content":"현재 사용 중인 카드는 12/27 만료 예정이므로 새 카드를 준비해 주세요.","has_sensitive":true,"entities":[{"value":"12/27","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":950,"content":"먼저 03/30 를 카드 만료일로 저장했습니다. 그리고 백업 시스템에도 동기화되었습니다.","has_sensitive":true,"entities":[{"value":"03/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":951,"content":"회원 정보에 등록된 유효기간 11/27 을 업데이트하시려면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"11/27","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":952,"content":"결제 수단으로 등록된 카드의 만료일은 08/31 입니다. 또한 영수증은 자동 발송됩니다.","has_sensitive":true,"entities":[{"value":"08/31","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":953,"content":"고객센터에서 확인한 결과 유효기간은 07/27 이며 정상적으로 처리되고 있습니다.","has_sensitive":true,"entities":[{"value":"07/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":954,"content":"현재 등록된 결제 카드의 만료일은 05/31 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"05/31","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":955,"content":"먼저 09/27 을 만료일로 입력하세요. 다만 결제는 매월 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"09/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":956,"content":"정기결제에 사용되는 카드의 유효기간은 02/26 입니다. 참고로 갱신 안내를 드릴 예정입니다.","has_sensitive":true,"entities":[{"value":"02/26","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":957,"content":"시스템 점검 결과 카드 만료일이 01/29 로 확인됩니다. 아울러 이상 없이 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":958,"content":"회원님의 카드는 06/27 까지 사용 가능하며 만료 후 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"06/27","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":959,"content":"결제 정보 업데이트가 완료되었으며 유효기간은 04/31 입니다. 그리고 보안도 강화되었습니다.","has_sensitive":true,"entities":[{"value":"04/31","begin":29,"end":34,"label":"CARD_EXPIRY"}]}
+{"id":960,"content":"현재 10/26 가 만료일로 등록되어 있습니다. 또한 변경은 마이페이지에서 가능합니다.","has_sensitive":true,"entities":[{"value":"10/26","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":961,"content":"먼저 카드 유효기간 12/27 를 확인했습니다. 다만 모든 정보가 정확하게 입력되었습니다.","has_sensitive":true,"entities":[{"value":"12/27","begin":11,"end":16,"label":"CARD_EXPIRY"}]}
+{"id":962,"content":"고객님께서 등록하신 만료일은 03/26 이며 변경이 필요하면 연락 주세요.","has_sensitive":true,"entities":[{"value":"03/26","begin":17,"end":22,"label":"CARD_EXPIRY"}]}
+{"id":963,"content":"등록된 결제 정보에서 유효기간이 11/30 로 설정되어 있습니다. 참고로 만료 전 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/30","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":964,"content":"현재 사용 중인 카드의 만료일은 08/26 이며 갱신 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"08/26","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":965,"content":"먼저 07/28 이 카드 만료일로 저장되었는지 확인하세요. 아울러 수정은 본인만 가능합니다.","has_sensitive":true,"entities":[{"value":"07/28","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":966,"content":"회원 계정에 등록된 카드 유효기간은 05/27 입니다. 그리고 카드 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"05/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":967,"content":"결제 시스템에 입력된 만료일 09/26 을 확인하시고 필요시 업데이트해 주세요.","has_sensitive":true,"entities":[{"value":"09/26","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":968,"content":"고객님의 결제카드 정보 중 유효기간은 02/25 이며 정상적으로 결제가 진행됩니다.","has_sensitive":true,"entities":[{"value":"02/25","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":969,"content":"현재 등록된 만료일은 01/28 이며 변경 사항이 있으면 즉시 알려주세요.","has_sensitive":true,"entities":[{"value":"01/28","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":970,"content":"먼저 06/31 를 유효기간으로 설정했습니다. 또한 자동 갱신도 신청하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":971,"content":"정산 처리를 위한 카드 만료일은 04/26 입니다. 다만 청구는 매월 말일에 이루어집니다.","has_sensitive":true,"entities":[{"value":"04/26","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":972,"content":"시스템에 저장된 유효기간 10/28 을 다시 한번 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"10/28","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":973,"content":"회원님의 결제 수단은 12/28 까지 유효하며 이후 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"12/28","begin":13,"end":18,"label":"CARD_EXPIRY"}]}
+{"id":974,"content":"결제 진행을 위해 만료일 03/31 정보를 확인했습니다. 아울러 승인도 완료되었습니다.","has_sensitive":true,"entities":[{"value":"03/31","begin":16,"end":21,"label":"CARD_EXPIRY"}]}
+{"id":975,"content":"현재 11/25 가 카드 유효기간으로 등록되어 있습니다. 그리고 수정은 언제든 가능합니다.","has_sensitive":true,"entities":[{"value":"11/25","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":976,"content":"먼저 자동결제 등록을 위해 유효기간 08/28 를 입력하세요. 또한 이용약관도 확인해 주세요.","has_sensitive":true,"entities":[{"value":"08/28","begin":23,"end":28,"label":"CARD_EXPIRY"}]}
+{"id":977,"content":"고객님께서 등록하신 카드 만료일은 07/31 이며 변경이 필요하면 알려주세요.","has_sensitive":true,"entities":[{"value":"07/31","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":978,"content":"등록된 결제 정보에서 유효기간 05/25 을 확인했으며 모든 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"05/25","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":979,"content":"현재 사용 중인 카드는 09/31 만료 예정이므로 사전 준비가 필요합니다.","has_sensitive":true,"entities":[{"value":"09/31","begin":14,"end":19,"label":"CARD_EXPIRY"}]}
+{"id":980,"content":"먼저 02/27 을 만료일로 저장했습니다. 참고로 변경 이력은 자동 기록됩니다.","has_sensitive":true,"entities":[{"value":"02/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":981,"content":"회원 정보 확인 결과 카드 유효기간이 01/30 로 설정되어 있습니다. 또한 정상 작동 중입니다.","has_sensitive":true,"entities":[{"value":"01/30","begin":24,"end":29,"label":"CARD_EXPIRY"}]}
+{"id":982,"content":"결제 수단으로 등록된 카드의 만료일은 06/28 입니다. 다만 자동결제가 활성화되어 있습니다.","has_sensitive":true,"entities":[{"value":"06/28","begin":22,"end":27,"label":"CARD_EXPIRY"}]}
+{"id":983,"content":"고객센터에서 조회한 유효기간은 04/29 이며 추가 인증 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"04/29","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":984,"content":"현재 등록된 결제 카드의 만료일은 10/27 이며 교체 예정입니다.","has_sensitive":true,"entities":[{"value":"10/27","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":985,"content":"먼저 12/30 를 카드 유효기간으로 입력했습니다. 참고로 오류 시 다시 시도해 주세요.","has_sensitive":true,"entities":[{"value":"12/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":986,"content":"정기구독료 청구에 사용되는 카드는 03/29 까지 유효합니다. 아울러 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"03/29","begin":21,"end":26,"label":"CARD_EXPIRY"}]}
+{"id":987,"content":"시스템 점검 결과 만료일 11/31 정보가 정확합니다. 그리고 모든 데이터가 안전하게 보관되고 있습니다.","has_sensitive":true,"entities":[{"value":"11/31","begin":15,"end":20,"label":"CARD_EXPIRY"}]}
+{"id":988,"content":"회원님의 카드 정보 중 유효기간은 08/30 입니다. 또한 변경 시 재인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"08/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":989,"content":"결제 정보 업데이트가 완료되었으며 만료일은 07/29 입니다. 다만 자동결제도 설정되었습니다.","has_sensitive":true,"entities":[{"value":"07/29","begin":28,"end":33,"label":"CARD_EXPIRY"}]}
+{"id":990,"content":"현재 05/30 가 유효기간으로 등록되어 있습니다. 참고로 변경은 고객센터를 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"05/30","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":991,"content":"먼저 카드 만료일 09/30 를 메모해 두세요. 아울러 만료 시 서비스가 중단될 수 있습니다.","has_sensitive":true,"entities":[{"value":"09/30","begin":10,"end":15,"label":"CARD_EXPIRY"}]}
+{"id":992,"content":"고객님께서 입력하신 유효기간은 02/29 이며 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"02/29","begin":19,"end":24,"label":"CARD_EXPIRY"}]}
+{"id":993,"content":"등록하신 결제 수단의 만료일은 01/31 입니다. 그리고 결제 한도도 설정되어 있습니다.","has_sensitive":true,"entities":[{"value":"01/31","begin":18,"end":23,"label":"CARD_EXPIRY"}]}
+{"id":994,"content":"현재 사용 중인 카드의 유효기간은 06/30 이며 만료 전 알림을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"06/30","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":995,"content":"먼저 04/27 을 만료일로 확인했습니다. 또한 결제는 정상적으로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"04/27","begin":3,"end":8,"label":"CARD_EXPIRY"}]}
+{"id":996,"content":"회원 계정에 등록된 카드 만료일은 10/29 입니다. 다만 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"10/29","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":997,"content":"결제 시스템에 저장된 유효기간은 12/31 이며 정상적으로 처리 중입니다.","has_sensitive":true,"entities":[{"value":"12/31","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":998,"content":"고객센터에서 조회한 카드 만료일 03/27 정보를 확인했습니다. 참고로 변경 시 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"03/27","begin":20,"end":25,"label":"CARD_EXPIRY"}]}
+{"id":999,"content":"현재 등록된 만료일은 11/29 이며 갱신이 필요한 경우 알림을 드립니다.","has_sensitive":true,"entities":[{"value":"11/29","begin":12,"end":17,"label":"CARD_EXPIRY"}]}
+{"id":1000,"content":"먼저 08/31 를 유효기간으로 설정하세요. 아울러 저장 후 확인 메시지가 표시됩니다.","has_sensitive":true,"entities":[{"value":"08/31","begin":3,"end":8,"label":"CARD_EXPIRY"}]}

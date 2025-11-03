@@ -1,6 +1,6 @@
 # build_dataset_jsonl.py  (robust merge, no validation)
 # -*- coding: utf-8 -*-
-import json, csv, argparse
+import json, csv, argparse, sys
 from typing import Any, Dict, Iterable, Union, Optional
 
 SYSTEM_TEXT = (
@@ -49,12 +49,51 @@ def read_csv_rows(path: str) -> Iterable[Dict[str, Any]]:
         for row in csv.DictReader(f):
             yield row
 
-def read_jsonl_rows(path: str) -> Iterable[Dict[str, Any]]:
-    with open(path, encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line:
-                yield json.loads(line)
+def read_jsonl_rows(path: str):
+    with open(path, encoding="utf-8-sig") as f:
+        for lineno, line in enumerate(f, 1):
+            # \r\n 모두 제거
+            s = line.rstrip("\r\n")
+            if not s:
+                continue
+            try:
+                yield json.loads(s)
+            except json.JSONDecodeError as e:
+                # 위치 정보(라인/열/오프셋) 확보
+                pos    = getattr(e, "pos", None)
+                lno    = getattr(e, "lineno", lineno)  # 보통 1
+                col    = getattr(e, "colno", None)
+
+                # 주변 문맥 120자
+                if pos is not None:
+                    start = max(0, pos - 60)
+                    end   = min(len(s), pos + 60)
+                    snippet = s[start:end]
+                    pointer = " " * (pos - start) + "^"
+                else:
+                    snippet = s[:120]
+                    pointer = ""
+
+                # stderr로 즉시 출력 (버퍼링 방지)
+                sys.stderr.write(
+                    f"\n[JSON ERROR] {path}:{lineno} "
+                    f"(lineno={lno}, colno={col}, pos={pos})\n"
+                    f"error: {e}\n"
+                    f"context: {snippet}\n"
+                    f"         {pointer}\n"
+                )
+                sys.stderr.flush()
+                # 더 이상 진행하지 않고 즉시 종료 (상위에서 메시지 누락 방지)
+                raise SystemExit(1)
+            except Exception as e:
+                # 다른 예외도 위치와 함께 노출
+                sys.stderr.write(
+                    f"\n[READ ERROR] {path}:{lineno}\n{type(e).__name__}: {e}\n"
+                    f"line(raw): {s[:120]}\n"
+                )
+                sys.stderr.flush()
+                raise SystemExit(1)
+
 
 def parse_json_maybe(x: Union[str, Dict[str, Any]]) -> Dict[str, Any]:
     if isinstance(x, dict): return x
@@ -112,17 +151,38 @@ def build_record(rec_id: int, user_text: str, assist_obj: Dict[str, Any], assist
 
 def build_from_rows(rows: Iterable[Dict[str, Any]], start_id: int, force_start: bool, assistant_as_string: bool) -> Iterable[Dict[str, Any]]:
     cur_id = start_id
-    for row in rows:
-        norm = normalize_row(row)
+    for idx, row in enumerate(rows, 1):  # ← 라인 인덱스 추적
+        try:
+            norm = normalize_row(row)
+        except Exception as e:
+            # 문제 라인 디버그 정보 최대한 노출
+            import sys, json
+            sys.stderr.write("\n[SCHEMA ERROR] at input row #{idx}\n".format(idx=idx))
+            try:
+                sys.stderr.write("keys: {keys}\n".format(keys=list(row.keys())))
+            except Exception:
+                pass
+            try:
+                sys.stderr.write("row-json: {j}\n".format(j=json.dumps(row, ensure_ascii=False)))
+            except Exception:
+                sys.stderr.write("row-str: {s}\n".format(s=str(row)))
+            sys.stderr.write("error: {e}\n\n".format(e=e))
+            sys.stderr.flush()
+            raise  # 그대로 중단
+
         if force_start:
-            if cur_id is None: raise RuntimeError("--force-start requires --start-id")
+            if cur_id is None:
+                raise RuntimeError("--force-start requires --start-id")
             rec_id, cur_id = cur_id, cur_id + 1
         else:
             rec_id = norm["id"]
             if rec_id is None:
-                if cur_id is None: raise RuntimeError("Provide --start-id or include 'id' in input rows")
+                if cur_id is None:
+                    raise RuntimeError("Provide --start-id or include 'id' in input rows")
                 rec_id, cur_id = cur_id, cur_id + 1
+
         yield build_record(rec_id, norm["user"], norm["assistant_json"], assistant_as_string)
+
 
 def write_jsonl(records: Iterable[Dict[str, Any]], out_path: str):
     with open(out_path, "w", encoding="utf-8") as f:

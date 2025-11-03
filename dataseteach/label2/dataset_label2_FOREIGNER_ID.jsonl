@@ -1,0 +1,1000 @@
+{"id":1,"content":"외국인등록 확인을 위해 번호 820101-5123456 를 일시 수집합니다. 또한 검증 후 즉시 파기됩니다.","has_sensitive":true,"entities":[{"value":"820101-5123456","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":2,"content":"고객님의 외국인등록번호 930215-6789012 로 조회되었습니다. 추가 문의사항은 고객센터로 연락 부탁드립니다.","has_sensitive":true,"entities":[{"value":"930215-6789012","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":3,"content":"배송지 확인 과정에서 등록번호 850707-5234567 이 필요합니다. 본인 확인 후 처리 가능합니다.","has_sensitive":true,"entities":[{"value":"850707-5234567","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":4,"content":"신청서 작성 시 외국인등록번호 920318-7456123 을 입력해 주시기 바랍니다. 참고로 개인정보는 암호화 처리됩니다.","has_sensitive":true,"entities":[{"value":"920318-7456123","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":5,"content":"회원가입을 환영합니다. 먼저 등록번호 880525-6123456 확인이 필요하며, 그 후 서비스 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"880525-6123456","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":6,"content":"본인인증을 위해 외국인등록번호 970823-5987654 를 제출해 주세요. 처리 시간은 약 2-3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"970823-5987654","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":7,"content":"계약서에 기재된 번호 910604-7234561 이 확인되었습니다. 아울러 서명란도 작성 부탁드립니다.","has_sensitive":true,"entities":[{"value":"910604-7234561","begin":13,"end":27,"label":"FOREIGNER_ID"}]}
+{"id":8,"content":"외국인 근로자 등록 절차 안내드립니다. 등록번호 860912-5456789 로 신청서를 제출하시면 됩니다.","has_sensitive":true,"entities":[{"value":"860912-5456789","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":9,"content":"증명서 발급 시 필요한 외국인등록번호는 940228-6345678 입니다. 다만 수수료가 별도로 부과됩니다.","has_sensitive":true,"entities":[{"value":"940228-6345678","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":10,"content":"입국 심사 과정에서 등록번호 890115-7654321 을 확인했습니다. 그리고 추가 서류는 필요하지 않습니다.","has_sensitive":true,"entities":[{"value":"890115-7654321","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":11,"content":"고객 정보 조회 결과 외국인등록번호 950407-5876543 이 검색되었습니다. 또한 주소지도 함께 확인되었습니다.","has_sensitive":true,"entities":[{"value":"950407-5876543","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":12,"content":"비자 연장 신청을 위해 번호 870619-6543210 제출이 필요합니다. 참고로 유효기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"870619-6543210","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":13,"content":"외국인등록증 재발급 신청서에 920503-7123456 을 기재하셨습니다. 발급까지 5영업일 소요됩니다.","has_sensitive":true,"entities":[{"value":"920503-7123456","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":14,"content":"은행 계좌 개설 시 외국인등록번호 930825-5234567 확인이 완료되었습니다. 카드는 1주일 내 배송됩니다.","has_sensitive":true,"entities":[{"value":"930825-5234567","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":15,"content":"임대차 계약서 작성을 위해 등록번호 880214-6789012 이 필요합니다. 먼저 신분증 사본도 준비해 주세요.","has_sensitive":true,"entities":[{"value":"880214-6789012","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":16,"content":"세무 신고 관련하여 외국인등록번호 960708-7456789 로 접수되었습니다. 결과는 이메일로 안내드립니다.","has_sensitive":true,"entities":[{"value":"960708-7456789","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":17,"content":"의료보험 가입 신청서에 기재된 번호 910922-5678901 이 확인되었습니다. 다만 추가 서류 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"910922-5678901","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":18,"content":"출입국 기록 조회 결과 등록번호 850318-6234567 로 검색됩니다. 그리고 최근 입국일은 2023년 3월입니다.","has_sensitive":true,"entities":[{"value":"850318-6234567","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":19,"content":"운전면허 발급 신청 시 외국인등록번호 940501-7890123 을 제출하셨습니다. 시험 일정은 추후 공지됩니다.","has_sensitive":true,"entities":[{"value":"940501-7890123","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":20,"content":"휴대폰 개통을 위해 번호 870814-5345678 확인이 필요합니다. 또한 신분증 원본을 지참해 주세요.","has_sensitive":true,"entities":[{"value":"870814-5345678","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":21,"content":"체류지 변경 신고 시 외국인등록번호 920126-6456789 을 기재해 주시기 바랍니다. 참고로 신고 기한은 14일입니다.","has_sensitive":true,"entities":[{"value":"920126-6456789","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":22,"content":"학교 입학 원서에 등록번호 990603-7567890 이 작성되어 있습니다. 아울러 건강검진 결과도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"990603-7567890","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":23,"content":"보험 청구 건으로 외국인등록번호 860429-5678902 로 접수했습니다. 심사 후 지급까지 약 7일 소요됩니다.","has_sensitive":true,"entities":[{"value":"860429-5678902","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":24,"content":"취업 비자 신청을 위해 등록번호 930715-6789013 제출이 완료되었습니다. 결과는 한 달 내 통보됩니다.","has_sensitive":true,"entities":[{"value":"930715-6789013","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":25,"content":"도서관 회원증 발급 시 외국인등록번호 880927-7890124 이 필요합니다. 먼저 신청서를 작성해 주세요.","has_sensitive":true,"entities":[{"value":"880927-7890124","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":26,"content":"부동산 등기 절차에서 번호 950212-5901234 확인되었습니다. 그리고 인감증명서도 함께 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"950212-5901234","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":27,"content":"신용카드 발급 신청서에 외국인등록번호 910808-6012345 을 기재하셨습니다. 다만 심사에 2주 정도 소요됩니다.","has_sensitive":true,"entities":[{"value":"910808-6012345","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":28,"content":"예방접종 기록 확인을 위해 등록번호 871104-7123457 이 필요합니다. 또한 모자보건수첩도 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"871104-7123457","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":29,"content":"세금 환급 신청 시 외국인등록번호 960320-5234568 로 처리됩니다. 참고로 입금까지 한 달 걸립니다.","has_sensitive":true,"entities":[{"value":"960320-5234568","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":30,"content":"통신사 명의 변경을 위해 번호 840617-6345679 확인이 완료되었습니다. 변경 완료까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"840617-6345679","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":31,"content":"아파트 입주 신청서에 외국인등록번호 920904-7456780 이 기재되어 있습니다. 먼저 계약금 입금 부탁드립니다.","has_sensitive":true,"entities":[{"value":"920904-7456780","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":32,"content":"공공 도서관 이용 등록 시 등록번호 890228-5567891 을 제출하셨습니다. 그리고 사진 1매도 필요합니다.","has_sensitive":true,"entities":[{"value":"890228-5567891","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":33,"content":"병원 진료 예약 확인을 위해 외국인등록번호 950514-6678902 이 필요합니다. 다만 당일 신분증 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"950514-6678902","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":34,"content":"자동차 등록 신청서에 번호 870702-7789013 을 작성하셨습니다. 또한 자동차세 납부 확인서도 필요합니다.","has_sensitive":true,"entities":[{"value":"870702-7789013","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":35,"content":"국민건강보험 자격 조회 결과 외국인등록번호 930918-5890124 로 등록되어 있습니다. 보험료는 월납입니다.","has_sensitive":true,"entities":[{"value":"930918-5890124","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":36,"content":"인터넷 가입 신청을 위해 등록번호 860405-6901235 확인이 필요합니다. 참고로 설치는 3일 이내 완료됩니다.","has_sensitive":true,"entities":[{"value":"860405-6901235","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":37,"content":"체육관 회원 등록 시 외국인등록번호 941121-7012346 을 제출해 주세요. 회원권은 당일 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"941121-7012346","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":38,"content":"법무부 출입국 관리 시스템에서 번호 880806-5123458 이 조회되었습니다. 먼저 비자 연장 신청해 주세요.","has_sensitive":true,"entities":[{"value":"880806-5123458","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":39,"content":"전세 계약 체결을 위해 외국인등록번호 920513-6234569 확인이 완료되었습니다. 그리고 계약서 2부 작성 바랍니다.","has_sensitive":true,"entities":[{"value":"920513-6234569","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":40,"content":"여권 재발급 신청서에 등록번호 851029-7345670 이 기재되어 있습니다. 다만 사진 규격을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"851029-7345670","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":41,"content":"학원 등록 절차에서 외국인등록번호 970324-5456781 을 제출하셨습니다. 또한 수강료는 월초에 납부 바랍니다.","has_sensitive":true,"entities":[{"value":"970324-5456781","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":42,"content":"주민센터 방문 예약 시 번호 890611-6567892 확인이 필요합니다. 참고로 대기 시간은 약 30분입니다.","has_sensitive":true,"entities":[{"value":"890611-6567892","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":43,"content":"렌터카 예약 신청을 위해 외국인등록번호 930107-7678903 이 필요합니다. 먼저 국제면허증도 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"930107-7678903","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":44,"content":"쇼핑몰 회원가입 시 등록번호 870923-5789014 을 입력하셨습니다. 그리고 이메일 인증도 완료해 주세요.","has_sensitive":true,"entities":[{"value":"870923-5789014","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":45,"content":"병원 입원 수속 과정에서 외국인등록번호 950218-6890125 확인되었습니다. 다만 보호자 연락처도 남겨 주세요.","has_sensitive":true,"entities":[{"value":"950218-6890125","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":46,"content":"국제운전면허증 신청서에 번호 860504-7901236 이 작성되어 있습니다. 또한 증명사진 2매가 필요합니다.","has_sensitive":true,"entities":[{"value":"860504-7901236","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":47,"content":"취업허가서 발급을 위해 외국인등록번호 921220-5012347 을 제출해 주시기 바랍니다. 처리 기간은 10일입니다.","has_sensitive":true,"entities":[{"value":"921220-5012347","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":48,"content":"아파트 관리비 조회 시 등록번호 880917-6123459 로 검색됩니다. 참고로 미납금은 없습니다.","has_sensitive":true,"entities":[{"value":"880917-6123459","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":49,"content":"온라인 쇼핑 배송 확인을 위해 외국인등록번호 940403-7234560 이 필요합니다. 먼저 주소를 다시 확인해 주세요.","has_sensitive":true,"entities":[{"value":"940403-7234560","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":50,"content":"공항 출입국 심사에서 번호 871119-5345671 확인이 완료되었습니다. 그리고 수하물 검사로 이동 바랍니다.","has_sensitive":true,"entities":[{"value":"871119-5345671","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":51,"content":"부동산 계약 체결 시 외국인등록번호 950705-6456782 을 기재하셨습니다. 다만 중개수수료는 별도입니다.","has_sensitive":true,"entities":[{"value":"950705-6456782","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":52,"content":"세무 조정 신청서에 등록번호 830222-7567893 이 작성되어 있습니다. 또한 소득증명서도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"830222-7567893","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":53,"content":"휴대폰 명의 이전을 위해 외국인등록번호 920810-5678904 확인이 필요합니다. 참고로 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"920810-5678904","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":54,"content":"대학 입학 전형 과정에서 번호 881026-6789015 로 조회되었습니다. 먼저 합격 통지서를 받으실 겁니다.","has_sensitive":true,"entities":[{"value":"881026-6789015","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":55,"content":"보험 가입 신청서에 외국인등록번호 960312-7890126 이 기재되어 있습니다. 그리고 건강검진 결과도 필요합니다.","has_sensitive":true,"entities":[{"value":"960312-7890126","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":56,"content":"은행 대출 심사를 위해 등록번호 840628-5901237 을 제출하셨습니다. 다만 소득 증빙 서류도 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"840628-5901237","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":57,"content":"체류 연장 허가 신청 시 외국인등록번호 930914-6012348 확인이 완료되었습니다. 또한 재직증명서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"930914-6012348","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":58,"content":"헬스클럽 회원 등록 과정에서 번호 870401-7123459 이 필요합니다. 참고로 첫 달 회비는 할인됩니다.","has_sensitive":true,"entities":[{"value":"870401-7123459","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":59,"content":"모바일 뱅킹 가입을 위해 외국인등록번호 951117-5234560 을 입력해 주세요. 먼저 보안카드 발급이 필요합니다.","has_sensitive":true,"entities":[{"value":"951117-5234560","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":60,"content":"주택 청약 신청서에 등록번호 860703-6345671 이 작성되어 있습니다. 그리고 통장 사본도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"860703-6345671","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":61,"content":"국제 택배 발송 시 외국인등록번호 920529-7456782 확인이 필요합니다. 다만 통관 절차가 추가됩니다.","has_sensitive":true,"entities":[{"value":"920529-7456782","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":62,"content":"학교 기숙사 입실 신청을 위해 번호 881215-5567893 을 제출하셨습니다. 또한 입실일을 미리 알려 주세요.","has_sensitive":true,"entities":[{"value":"881215-5567893","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":63,"content":"자동차 보험 가입 시 외국인등록번호 940501-6678904 이 기재되어 있습니다. 참고로 보험료는 연납 가능합니다.","has_sensitive":true,"entities":[{"value":"940501-6678904","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":64,"content":"병원 예약 조회 결과 등록번호 870918-7789015 로 검색됩니다. 먼저 진료과를 선택해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"870918-7789015","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":65,"content":"신용 조회 신청서에 외국인등록번호 930204-5890126 을 기재하셨습니다. 그리고 동의서에 서명도 필요합니다.","has_sensitive":true,"entities":[{"value":"930204-5890126","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":66,"content":"출입국 사실 증명서 발급을 위해 번호 860520-6901237 확인이 완료되었습니다. 다만 발급 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"860520-6901237","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":67,"content":"요가 센터 등록 시 외국인등록번호 921106-7012348 이 필요합니다. 또한 수강 시간표를 확인해 주세요.","has_sensitive":true,"entities":[{"value":"921106-7012348","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":68,"content":"인터넷 쇼핑몰 주문 확인을 위해 등록번호 880323-5123459 을 제출하셨습니다. 참고로 배송은 내일 출발합니다.","has_sensitive":true,"entities":[{"value":"880323-5123459","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":69,"content":"전월세 신고 절차에서 외국인등록번호 950809-6234570 확인되었습니다. 먼저 계약서 사본을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"950809-6234570","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":70,"content":"공공기관 서류 신청 시 번호 831225-7345681 이 작성되어 있습니다. 그리고 신분증 사본도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"831225-7345681","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":71,"content":"통신사 요금제 변경을 위해 외국인등록번호 920611-5456792 을 입력해 주세요. 다만 위약금이 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"920611-5456792","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":72,"content":"문화센터 강좌 신청서에 등록번호 871027-6567803 이 기재되어 있습니다. 또한 교재비는 별도입니다.","has_sensitive":true,"entities":[{"value":"871027-6567803","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":73,"content":"주차장 정기권 발급 시 외국인등록번호 940413-7678914 확인이 필요합니다. 참고로 월 이용료는 10만원입니다.","has_sensitive":true,"entities":[{"value":"940413-7678914","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":74,"content":"항공권 예약 과정에서 번호 860929-5789025 로 조회되었습니다. 먼저 여권 유효기간을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"860929-5789025","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":75,"content":"건강검진 예약 신청을 위해 외국인등록번호 930215-6890136 이 필요합니다. 그리고 검진 전날 금식이 필요합니다.","has_sensitive":true,"entities":[{"value":"930215-6890136","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":76,"content":"중고차 매매 계약서에 등록번호 880702-7901247 을 기재하셨습니다. 다만 명의 이전 수수료가 추가됩니다.","has_sensitive":true,"entities":[{"value":"880702-7901247","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":77,"content":"교육청 민원 처리 시 외국인등록번호 951218-5012358 확인이 완료되었습니다. 또한 처리 기간은 5일입니다.","has_sensitive":true,"entities":[{"value":"951218-5012358","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":78,"content":"호텔 예약 확인을 위해 번호 840105-6123469 이 필요합니다. 참고로 체크인 시간은 오후 3시입니다.","has_sensitive":true,"entities":[{"value":"840105-6123469","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":79,"content":"배달 서비스 이용 등록 시 외국인등록번호 920821-7234570 을 제출해 주세요. 먼저 앱 다운로드가 필요합니다.","has_sensitive":true,"entities":[{"value":"920821-7234570","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":80,"content":"취업 비자 연장 신청서에 등록번호 871107-5345681 이 작성되어 있습니다. 그리고 재직증명서도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"871107-5345681","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":81,"content":"약국 처방전 조회를 위해 외국인등록번호 940324-6456792 확인이 필요합니다. 다만 보험 적용 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"940324-6456792","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":82,"content":"공인중개사 계약 체결 시 번호 860610-7567803 로 조회되었습니다. 또한 계약금은 현금으로 준비 바랍니다.","has_sensitive":true,"entities":[{"value":"860610-7567803","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":83,"content":"스포츠센터 회원 가입 시 외국인등록번호 930926-5678914 이 기재되어 있습니다. 참고로 락커 배정은 다음 주입니다.","has_sensitive":true,"entities":[{"value":"930926-5678914","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":84,"content":"세탁 서비스 등록 과정에서 등록번호 881212-6789025 을 제출하셨습니다. 먼저 회원 할인 혜택을 확인하세요.","has_sensitive":true,"entities":[{"value":"881212-6789025","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":85,"content":"자동차 정비소 예약을 위해 외국인등록번호 950428-7890136 확인이 완료되었습니다. 그리고 견적은 당일 안내됩니다.","has_sensitive":true,"entities":[{"value":"950428-7890136","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":86,"content":"온라인 뱅킹 이체 승인 시 번호 831014-5901247 이 필요합니다. 다만 공인인증서 등록도 필요합니다.","has_sensitive":true,"entities":[{"value":"831014-5901247","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":87,"content":"법률 상담 예약 신청서에 외국인등록번호 920630-6012358 을 기재하셨습니다. 또한 상담료는 1시간당 10만원입니다.","has_sensitive":true,"entities":[{"value":"920630-6012358","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":88,"content":"학원 수강 신청을 위해 등록번호 870416-7123469 이 작성되어 있습니다. 참고로 환불 규정을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"870416-7123469","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":89,"content":"도서 대여 회원 등록 시 외국인등록번호 941102-5234570 확인이 필요합니다. 먼저 회원증 사진을 촬영합니다.","has_sensitive":true,"entities":[{"value":"941102-5234570","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":90,"content":"전기 요금 조회 결과 번호 860818-6345681 로 검색됩니다. 그리고 자동 이체 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"860818-6345681","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":91,"content":"병원 진료 기록 확인을 위해 외국인등록번호 930304-7456792 이 필요합니다. 다만 본인 확인 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"930304-7456792","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":92,"content":"렌터카 반납 처리 시 등록번호 880920-5567803 을 제출하셨습니다. 또한 주유 영수증도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"880920-5567803","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":93,"content":"부동산 중개 계약서에 외국인등록번호 951106-6678914 이 기재되어 있습니다. 참고로 중개료는 협의 가능합니다.","has_sensitive":true,"entities":[{"value":"951106-6678914","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":94,"content":"휴대폰 분실 신고 과정에서 번호 821222-7789025 확인되었습니다. 먼저 일시정지 조치가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"821222-7789025","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":95,"content":"요금 할인 신청을 위해 외국인등록번호 920708-5890136 을 입력해 주세요. 그리고 증빙 서류도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"920708-5890136","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":96,"content":"은행 통장 재발급 신청서에 등록번호 871024-6901247 이 작성되어 있습니다. 다만 재발급 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"871024-6901247","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":97,"content":"보험 만기 환급금 조회 시 외국인등록번호 940410-7012358 확인이 필요합니다. 또한 계좌 정보를 알려 주세요.","has_sensitive":true,"entities":[{"value":"940410-7012358","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":98,"content":"학교 졸업 증명서 발급을 위해 번호 860926-5123469 이 필요합니다. 참고로 발급까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"860926-5123469","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":99,"content":"체류지 등록 신청서에 외국인등록번호 930312-6234580 을 기재하셨습니다. 먼저 임대차 계약서 사본도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"930312-6234580","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":100,"content":"헬스 트레이닝 등록 시 등록번호 880628-7345691 이 작성되어 있습니다. 그리고 체력 측정 일정을 잡겠습니다.","has_sensitive":true,"entities":[{"value":"880628-7345691","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":101,"content":"비자 발급 신청 과정에서 외국인등록번호 951214-5456702 확인되었습니다. 다만 심사 기간이 한 달 소요됩니다.","has_sensitive":true,"entities":[{"value":"951214-5456702","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":102,"content":"공항 라운지 이용 등록을 위해 번호 831130-6567813 을 제출해 주세요. 또한 탑승권도 함께 제시 바랍니다.","has_sensitive":true,"entities":[{"value":"831130-6567813","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":103,"content":"인터넷 서비스 변경 신청 시 외국인등록번호 920816-7678924 이 기재되어 있습니다. 참고로 변경 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"920816-7678924","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":104,"content":"주택 구입 계약서에 등록번호 870502-5789035 이 작성되어 있습니다. 먼저 잔금 납부 일정을 협의하겠습니다.","has_sensitive":true,"entities":[{"value":"870502-5789035","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":105,"content":"의료 기록 열람 신청을 위해 외국인등록번호 941118-6890146 확인이 필요합니다. 그리고 신분증 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"941118-6890146","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":106,"content":"신용카드 분실 신고 시 번호 860204-7901257 로 조회되었습니다. 다만 재발급까지 일주일 소요됩니다.","has_sensitive":true,"entities":[{"value":"860204-7901257","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":107,"content":"온라인 강의 수강 등록 시 외국인등록번호 930820-5012368 을 입력하셨습니다. 또한 수강 기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"930820-5012368","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":108,"content":"보험 계약 체결 과정에서 등록번호 881106-6123479 이 필요합니다. 참고로 보장 내용을 꼼꼼히 확인하세요.","has_sensitive":true,"entities":[{"value":"881106-6123479","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":109,"content":"세금 감면 신청서에 외국인등록번호 950522-7234580 이 기재되어 있습니다. 먼저 소득증명서를 제출해 주세요.","has_sensitive":true,"entities":[{"value":"950522-7234580","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":110,"content":"학원 환불 신청을 위해 번호 821007-5345691 확인이 완료되었습니다. 그리고 환불 금액은 일주일 내 입금됩니다.","has_sensitive":true,"entities":[{"value":"821007-5345691","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":111,"content":"전화 요금 조회 결과 외국인등록번호 930323-6456702 로 등록되어 있습니다. 다만 미납 요금이 있습니다.","has_sensitive":true,"entities":[{"value":"930323-6456702","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":112,"content":"자동차세 납부 확인을 위해 등록번호 870709-7567813 을 제출하셨습니다. 또한 영수증은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"870709-7567813","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":113,"content":"호텔 멤버십 가입 시 외국인등록번호 941125-5678924 확인이 필요합니다. 참고로 포인트 적립이 시작됩니다.","has_sensitive":true,"entities":[{"value":"941125-5678924","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":114,"content":"주차 위반 과태료 조회 시 번호 860411-6789035 이 검색됩니다. 먼저 납부 기한을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"860411-6789035","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":115,"content":"병원 입원 준비 과정에서 외국인등록번호 920927-7890146 을 기재하셨습니다. 그리고 입원 동의서도 작성 바랍니다.","has_sensitive":true,"entities":[{"value":"920927-7890146","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":116,"content":"취업 허가 연장 신청서에 등록번호 881213-5901257 이 작성되어 있습니다. 다만 고용주 확인서도 필요합니다.","has_sensitive":true,"entities":[{"value":"881213-5901257","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":117,"content":"유치원 입학 원서 제출을 위해 외국인등록번호 950429-6012368 확인이 완료되었습니다. 또한 예방접종 기록도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"950429-6012368","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":118,"content":"은행 계좌 해지 신청 시 번호 831115-7123479 이 필요합니다. 참고로 잔액은 현금으로 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"831115-7123479","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":119,"content":"택배 수령 확인을 위해 외국인등록번호 920701-5234580 을 입력해 주세요. 먼저 신분증을 준비해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"920701-5234580","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":120,"content":"휴대폰 개통 신청서에 등록번호 871017-6345691 이 기재되어 있습니다. 그리고 개통까지 2시간 소요됩니다.","has_sensitive":true,"entities":[{"value":"871017-6345691","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":121,"content":"복지 혜택 신청 과정에서 외국인등록번호 940303-7456702 확인되었습니다. 다만 소득 증명이 필요합니다.","has_sensitive":true,"entities":[{"value":"940303-7456702","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":122,"content":"체육관 등록 절차에서 번호 860619-5567813 로 조회됩니다. 또한 운동복은 별도로 구매하셔야 합니다.","has_sensitive":true,"entities":[{"value":"860619-5567813","begin":14,"end":28,"label":"FOREIGNER_ID"}]}
+{"id":123,"content":"보험금 청구 신청을 위해 외국인등록번호 931205-6678924 이 필요합니다. 참고로 진단서도 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"931205-6678924","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":124,"content":"통신 요금 할인 신청서에 등록번호 880521-7789035 을 작성하셨습니다. 먼저 할인 대상 여부를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"880521-7789035","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":125,"content":"렌터카 보험 가입 시 외국인등록번호 951107-5890146 이 기재되어 있습니다. 그리고 보험료는 일일 계산됩니다.","has_sensitive":true,"entities":[{"value":"951107-5890146","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":126,"content":"주택 청약 당첨 확인을 위해 번호 821223-6901257 확인이 완료되었습니다. 다만 계약금 납부는 다음 주입니다.","has_sensitive":true,"entities":[{"value":"821223-6901257","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":127,"content":"학원 수강증 발급 신청 시 외국인등록번호 920909-7012368 을 제출해 주세요. 또한 사진 1매가 필요합니다.","has_sensitive":true,"entities":[{"value":"920909-7012368","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":128,"content":"공공시설 이용 등록 과정에서 등록번호 870425-5123479 이 작성되어 있습니다. 참고로 이용 시간은 오전 9시부터입니다.","has_sensitive":true,"entities":[{"value":"870425-5123479","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":129,"content":"병원 진료비 환급 신청을 위해 외국인등록번호 941211-6234590 확인이 필요합니다. 먼저 영수증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":130,"content":"도서관 연체료 조회 결과 번호 860527-7345601 로 검색됩니다. 그리고 연체료는 총 5천원입니다.","has_sensitive":true,"entities":[{"value":"860527-7345601","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":131,"content":"인터넷 설치 예약 신청서에 외국인등록번호 930113-5456712 이 기재되어 있습니다. 다만 설치비는 무료입니다.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":132,"content":"세무서 민원 처리 시 등록번호 880829-6567823 을 제출하셨습니다. 또한 처리 결과는 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":133,"content":"항공권 환불 신청을 위해 외국인등록번호 950415-7678934 확인이 완료되었습니다. 참고로 수수료가 공제됩니다.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":134,"content":"모바일 게임 가입 과정에서 번호 821001-5789045 이 필요합니다. 먼저 성인 인증 절차를 진행하겠습니다.","has_sensitive":true,"entities":[{"value":"821001-5789045","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":135,"content":"온라인 쇼핑 회원 가입 시 외국인등록번호 920717-6890156 을 입력하셨습니다. 그리고 가입 축하 쿠폰을 드립니다.","has_sensitive":true,"entities":[{"value":"920717-6890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":136,"content":"건강보험 자격 확인서 발급을 위해 등록번호 871103-7901267 이 작성되어 있습니다. 다만 발급 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"871103-7901267","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":137,"content":"자동차 명의 이전 신청서에 외국인등록번호 941219-5012378 확인이 필요합니다. 또한 인감증명서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"941219-5012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":138,"content":"전기 공사 신청 과정에서 번호 860605-6123489 로 조회되었습니다. 참고로 공사 일정은 다음 주입니다.","has_sensitive":true,"entities":[{"value":"860605-6123489","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":139,"content":"요가 강좌 등록을 위해 외국인등록번호 931121-7234590 을 제출해 주세요. 먼저 수강료를 입금해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"931121-7234590","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":140,"content":"주민등록 등본 발급 신청 시 등록번호 880507-5345601 이 기재되어 있습니다. 그리고 발급은 즉시 가능합니다.","has_sensitive":true,"entities":[{"value":"880507-5345601","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":141,"content":"보험 계약 변경 과정에서 외국인등록번호 950923-6456712 확인되었습니다. 다만 변경 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"950923-6456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":142,"content":"학교 성적 증명서 발급을 위해 번호 821109-7567823 이 필요합니다. 또한 발급 신청서를 작성해 주세요.","has_sensitive":true,"entities":[{"value":"821109-7567823","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":143,"content":"휴대폰 요금제 가입 신청서에 외국인등록번호 920625-5678934 을 입력하셨습니다. 참고로 첫 달 요금은 할인됩니다.","has_sensitive":true,"entities":[{"value":"920625-5678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":144,"content":"부동산 매매 계약 체결 시 등록번호 871011-6789045 이 작성되어 있습니다. 먼저 잔금은 한 달 내 납부 바랍니다.","has_sensitive":true,"entities":[{"value":"871011-6789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":145,"content":"세탁소 회원 등록 과정에서 외국인등록번호 940527-7890156 확인이 완료되었습니다. 그리고 할인 쿠폰을 드립니다.","has_sensitive":true,"entities":[{"value":"940527-7890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":146,"content":"공항 체크인 절차에서 번호 860113-5901267 로 검색됩니다. 다만 좌석 배정은 탑승구에서 진행됩니다.","has_sensitive":true,"entities":[{"value":"860113-5901267","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":147,"content":"온라인 예약 확인을 위해 외국인등록번호 930829-6012378 이 필요합니다. 또한 예약 확인증을 출력해 주세요.","has_sensitive":true,"entities":[{"value":"930829-6012378","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":148,"content":"대출 심사 신청서에 등록번호 881115-7123489 을 기재하셨습니다. 참고로 금리는 연 4.5%입니다.","has_sensitive":true,"entities":[{"value":"881115-7123489","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":149,"content":"병원 수술 동의서 작성 시 외국인등록번호 950501-5234590 이 작성되어 있습니다. 먼저 보호자 서명도 필요합니다.","has_sensitive":true,"entities":[{"value":"950501-5234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":150,"content":"학원 출결 확인 과정에서 번호 821217-6345601 확인되었습니다. 그리고 출석률은 95%입니다.","has_sensitive":true,"entities":[{"value":"821217-6345601","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":151,"content":"자동차 렌트 계약 체결을 위해 외국인등록번호 920803-7456712 을 제출해 주세요. 다만 보증금이 필요합니다.","has_sensitive":true,"entities":[{"value":"920803-7456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":152,"content":"문화센터 수강 신청서에 등록번호 870519-5567823 이 기재되어 있습니다. 또한 재료비는 별도입니다.","has_sensitive":true,"entities":[{"value":"870519-5567823","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":153,"content":"택시 앱 가입 과정에서 외국인등록번호 941105-6678934 확인이 필요합니다. 참고로 첫 이용 할인이 있습니다.","has_sensitive":true,"entities":[{"value":"941105-6678934","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":154,"content":"전기요금 자동이체 신청 시 번호 860321-7789045 로 조회되었습니다. 먼저 계좌번호를 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"860321-7789045","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":155,"content":"건강검진센터 예약 신청을 위해 외국인등록번호 930907-5890156 이 필요합니다. 그리고 검진 항목을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"930907-5890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":156,"content":"보험 만기 안내 과정에서 등록번호 880423-6901267 을 확인했습니다. 다만 재가입 시 할인 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"880423-6901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":157,"content":"대학원 입학 원서 제출 시 외국인등록번호 951109-7012378 이 작성되어 있습니다. 또한 추천서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"951109-7012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":158,"content":"주차 정기권 구매 신청서에 번호 821025-5123489 을 기재하셨습니다. 참고로 사용 기간은 1년입니다.","has_sensitive":true,"entities":[{"value":"821025-5123489","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":159,"content":"온라인 게임 계정 등록을 위해 외국인등록번호 920611-6234590 확인이 완료되었습니다. 먼저 이메일 인증을 진행하세요.","has_sensitive":true,"entities":[{"value":"920611-6234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":160,"content":"병원 외래 진료 예약 시 등록번호 870927-7345601 이 필요합니다. 그리고 진료 시간은 오후 2시입니다.","has_sensitive":true,"entities":[{"value":"870927-7345601","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":161,"content":"휴대폰 할부 구매 신청 과정에서 외국인등록번호 940313-5456712 이 기재되어 있습니다. 다만 신용 조회가 필요합니다.","has_sensitive":true,"entities":[{"value":"940313-5456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":162,"content":"은행 예금 가입 신청서에 번호 860629-6567823 확인되었습니다. 또한 이자율은 연 3.2%입니다.","has_sensitive":true,"entities":[{"value":"860629-6567823","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":163,"content":"학교 장학금 신청을 위해 외국인등록번호 931215-7678934 을 제출해 주세요. 참고로 성적 증명서도 필요합니다.","has_sensitive":true,"entities":[{"value":"931215-7678934","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":164,"content":"렌터카 사고 처리 과정에서 등록번호 880601-5789045 로 조회됩니다. 먼저 사고 경위서를 작성해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"880601-5789045","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":165,"content":"부동산 등기부등본 발급 시 외국인등록번호 950917-6890156 이 필요합니다. 그리고 발급 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"950917-6890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":166,"content":"세무 조정 신청서 작성 시 번호 821203-7901267 을 기재하셨습니다. 다만 증빙 서류를 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"821203-7901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":167,"content":"공공시설 예약 확인을 위해 외국인등록번호 920819-5012378 이 작성되어 있습니다. 또한 이용료는 현장 납부입니다.","has_sensitive":true,"entities":[{"value":"920819-5012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":168,"content":"통신사 명의 변경 신청서에 등록번호 871105-6123489 확인이 완료되었습니다. 참고로 변경 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"871105-6123489","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":169,"content":"병원 진단서 발급 과정에서 외국인등록번호 940521-7234590 을 제출하셨습니다. 먼저 진료비 결제가 필요합니다.","has_sensitive":true,"entities":[{"value":"940521-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":170,"content":"도서관 회원증 재발급 신청 시 번호 860107-5345601 이 필요합니다. 그리고 재발급 수수료는 2천원입니다.","has_sensitive":true,"entities":[{"value":"860107-5345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":171,"content":"인터넷 결제 승인을 위해 외국인등록번호 930623-6456712 이 기재되어 있습니다. 다만 공인인증서가 필요합니다.","has_sensitive":true,"entities":[{"value":"930623-6456712","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":172,"content":"학원 상담 예약 신청서에 등록번호 881019-7567823 확인되었습니다. 또한 상담 시간은 오전 10시입니다.","has_sensitive":true,"entities":[{"value":"881019-7567823","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":173,"content":"자동차 검사 예약 과정에서 외국인등록번호 950405-5678934 을 제출해 주세요. 참고로 검사 수수료는 4만원입니다.","has_sensitive":true,"entities":[{"value":"950405-5678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":174,"content":"보험금 지급 신청을 위해 번호 821121-6789045 로 조회됩니다. 먼저 청구 서류를 제출해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"821121-6789045","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":175,"content":"헬스장 이용 등록 시 외국인등록번호 920707-7890156 이 작성되어 있습니다. 그리고 운동복은 대여 가능합니다.","has_sensitive":true,"entities":[{"value":"920707-7890156","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":176,"content":"항공 마일리지 등록 신청서에 등록번호 870223-5901267 을 기재하셨습니다. 다만 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"870223-5901267","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":177,"content":"주택 임대차 신고 과정에서 외국인등록번호 941009-6012378 확인이 완료되었습니다. 또한 계약서 사본을 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"941009-6012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":178,"content":"전화 개통 신청을 위해 번호 860515-7123489 이 필요합니다. 참고로 개통까지 1시간 소요됩니다.","has_sensitive":true,"entities":[{"value":"860515-7123489","begin":15,"end":29,"label":"FOREIGNER_ID"}]}
+{"id":179,"content":"온라인 쇼핑 포인트 조회 시 외국인등록번호 931101-5234590 이 기재되어 있습니다. 먼저 비밀번호를 입력해 주세요.","has_sensitive":true,"entities":[{"value":"931101-5234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":180,"content":"학교 재학 증명서 발급 신청서에 등록번호 880517-6345601 확인되었습니다. 그리고 발급까지 2일 소요됩니다.","has_sensitive":true,"entities":[{"value":"880517-6345601","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":181,"content":"은행 대출 상환 계획 확인을 위해 외국인등록번호 950903-7456712 을 제출해 주세요. 다만 연체 시 불이익이 있습니다.","has_sensitive":true,"entities":[{"value":"950903-7456712","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":182,"content":"택배 배송 추적 과정에서 번호 821119-5567823 로 검색됩니다. 또한 예상 도착일은 내일입니다.","has_sensitive":true,"entities":[{"value":"821119-5567823","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":183,"content":"병원 입원 보증금 납부 시 외국인등록번호 920705-6678934 이 필요합니다. 참고로 퇴원 시 정산됩니다.","has_sensitive":true,"entities":[{"value":"920705-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":184,"content":"휴대폰 기기 변경 신청서에 등록번호 871021-7789045 을 기재하셨습니다. 먼저 요금제를 선택해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"871021-7789045","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":185,"content":"부동산 감정평가 의뢰 시 외국인등록번호 940307-5890156 이 작성되어 있습니다. 그리고 평가 비용은 30만원입니다.","has_sensitive":true,"entities":[{"value":"940307-5890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":186,"content":"세무 상담 예약 확인을 위해 번호 860623-6901267 확인되었습니다. 다만 상담료는 1시간당 5만원입니다.","has_sensitive":true,"entities":[{"value":"860623-6901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":187,"content":"학원 레벨테스트 신청 과정에서 외국인등록번호 931209-7012378 을 제출해 주세요. 또한 시험 일정은 추후 공지됩니다.","has_sensitive":true,"entities":[{"value":"931209-7012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":188,"content":"자동차 보험 갱신 신청서에 등록번호 880905-5123489 이 필요합니다. 참고로 보험료는 작년과 동일합니다.","has_sensitive":true,"entities":[{"value":"880905-5123489","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":189,"content":"인터넷 회선 속도 업그레이드를 위해 외국인등록번호 950421-6234590 이 기재되어 있습니다. 먼저 공사 일정을 협의하겠습니다.","has_sensitive":true,"entities":[{"value":"950421-6234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":190,"content":"도서 예약 신청 과정에서 번호 821107-7345601 확인되었습니다. 그리고 대출 가능일은 다음 주입니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":191,"content":"병원 외래 처방전 발급 시 외국인등록번호 920723-5456712 을 제출하셨습니다. 다만 약 수령은 1층 약국입니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":192,"content":"은행 외환 송금 신청서에 등록번호 871109-6567823 이 작성되어 있습니다. 또한 수수료는 건당 1만원입니다.","has_sensitive":true,"entities":[{"value":"871109-6567823","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":193,"content":"주차장 월 정기권 구매를 위해 외국인등록번호 941125-7678934 확인이 완료되었습니다. 참고로 차량번호도 등록 바랍니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":194,"content":"렌터카 반납 연장 신청 시 번호 860311-5789045 로 조회됩니다. 먼저 연장 수수료를 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"860311-5789045","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":195,"content":"온라인 뱅킹 등록 과정에서 외국인등록번호 930827-6890156 이 필요합니다. 그리고 보안카드도 발급받으세요.","has_sensitive":true,"entities":[{"value":"930827-6890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":196,"content":"학교 수업료 납부 확인을 위해 등록번호 880413-7901267 을 기재하셨습니다. 다만 분할 납부도 가능합니다.","has_sensitive":true,"entities":[{"value":"880413-7901267","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":197,"content":"휴대폰 요금 조회 신청서에 외국인등록번호 950929-5012378 이 작성되어 있습니다. 또한 미납 요금은 없습니다.","has_sensitive":true,"entities":[{"value":"950929-5012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":198,"content":"보험 계약 해지 과정에서 번호 821215-6123489 확인되었습니다. 참고로 환급금은 2주 내 지급됩니다.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":199,"content":"아파트 입주민 등록을 위해 외국인등록번호 920801-7234590 을 제출해 주세요. 먼저 관리비 자동이체를 신청하세요.","has_sensitive":true,"entities":[{"value":"920801-7234590","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":200,"content":"체육관 이용 시간 변경 신청서에 등록번호 870517-5345601 이 필요합니다. 그리고 변경은 즉시 가능합니다.","has_sensitive":true,"entities":[{"value":"870517-5345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":201,"content":"세금 환급 계좌 등록 시 외국인등록번호 941103-6456712 이 기재되어 있습니다. 다만 실명 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"941103-6456712","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":202,"content":"온라인 강의 수강증 발급을 위해 번호 860719-7567823 확인되었습니다. 또한 수료까지 한 달 남았습니다.","has_sensitive":true,"entities":[{"value":"860719-7567823","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":203,"content":"병원 검사 결과 조회 과정에서 외국인등록번호 930305-5678934 을 제출하셨습니다. 참고로 결과는 3일 후 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"930305-5678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":204,"content":"은행 신용대출 신청서에 등록번호 881021-6789045 이 작성되어 있습니다. 먼저 소득 증명서를 제출해 주세요.","has_sensitive":true,"entities":[{"value":"881021-6789045","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":205,"content":"통신 요금 연체 안내 확인을 위해 외국인등록번호 950607-7890156 이 필요합니다. 그리고 납부 기한은 이번 주입니다.","has_sensitive":true,"entities":[{"value":"950607-7890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":206,"content":"학원 수료증 발급 신청 시 번호 821123-5901267 확인되었습니다. 다만 수강 시간을 채워야 합니다.","has_sensitive":true,"entities":[{"value":"821123-5901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":207,"content":"자동차 등록 사업소 방문 예약을 위해 외국인등록번호 920809-6012378 을 기재하셨습니다. 또한 신분증 지참 바랍니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":208,"content":"부동산 중개 수수료 납부 과정에서 등록번호 871025-7123489 이 작성되어 있습니다. 참고로 수수료율은 0.4%입니다.","has_sensitive":true,"entities":[{"value":"871025-7123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":209,"content":"인터넷 쇼핑 반품 신청을 위해 외국인등록번호 940511-5234590 확인이 완료되었습니다. 먼저 택배사를 선택해 주세요.","has_sensitive":true,"entities":[{"value":"940511-5234590","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":210,"content":"도서관 좌석 예약 시 번호 860627-6345601 로 조회됩니다. 그리고 예약 시간은 2시간입니다.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":14,"end":28,"label":"FOREIGNER_ID"}]}
+{"id":211,"content":"병원 물리치료 예약 신청서에 외국인등록번호 931213-7456712 이 필요합니다. 다만 치료 횟수는 10회입니다.","has_sensitive":true,"entities":[{"value":"931213-7456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":212,"content":"휴대폰 소액 결제 한도 조정을 위해 등록번호 880729-5567823 을 제출하셨습니다. 또한 한도는 월 30만원입니다.","has_sensitive":true,"entities":[{"value":"880729-5567823","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":213,"content":"세무 신고 대리 의뢰 과정에서 외국인등록번호 950415-6678934 이 기재되어 있습니다. 참고로 수수료는 20만원입니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":214,"content":"온라인 게임 아이템 구매 시 번호 821101-7789045 확인되었습니다. 먼저 결제 비밀번호를 입력하세요.","has_sensitive":true,"entities":[{"value":"821101-7789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":215,"content":"학교 동아리 가입 신청서에 외국인등록번호 920617-5890156 을 작성하셨습니다. 그리고 회비는 학기당 5만원입니다.","has_sensitive":true,"entities":[{"value":"920617-5890156","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":216,"content":"렌터카 보험 처리 확인을 위해 등록번호 871203-6901267 이 필요합니다. 다만 보험료가 인상될 수 있습니다.","has_sensitive":true,"entities":[{"value":"871203-6901267","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":217,"content":"은행 적금 만기 해지 신청 시 외국인등록번호 940919-7012378 이 작성되어 있습니다. 또한 이자는 세전 금액입니다.","has_sensitive":true,"entities":[{"value":"940919-7012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":218,"content":"주차 위반 과태료 이의신청을 위해 번호 860405-5123489 확인되었습니다. 참고로 심사 기간은 한 달입니다.","has_sensitive":true,"entities":[{"value":"860405-5123489","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":219,"content":"병원 응급실 내원 기록 조회 시 외국인등록번호 930921-6234590 을 제출해 주세요. 먼저 수납 창구로 이동 바랍니다.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":220,"content":"통신사 멤버십 등급 조회 과정에서 등록번호 881107-7345601 로 검색됩니다. 그리고 현재 등급은 VIP입니다.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":221,"content":"자동차 할부 상환 계획 확인을 위해 외국인등록번호 950523-5456712 이 필요합니다. 다만 조기 상환 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"950523-5456712","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":222,"content":"학원 강사 채용 서류 제출 시 번호 821209-6567823 을 기재하셨습니다. 또한 경력 증명서도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":223,"content":"온라인 예매 취소 환불을 위해 외국인등록번호 920725-7678934 이 작성되어 있습니다. 참고로 수수료는 10%입니다.","has_sensitive":true,"entities":[{"value":"920725-7678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":224,"content":"부동산 임대료 조정 협의 과정에서 등록번호 870511-5789045 확인되었습니다. 먼저 계약서를 검토하겠습니다.","has_sensitive":true,"entities":[{"value":"870511-5789045","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":225,"content":"병원 외래 진료비 분할 납부 신청 시 외국인등록번호 941127-6890156 이 필요합니다. 그리고 분할 횟수는 3회입니다.","has_sensitive":true,"entities":[{"value":"941127-6890156","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":226,"content":"휴대폰 로밍 서비스 신청서에 번호 860713-7901267 을 입력하셨습니다. 다만 사용료는 별도 청구됩니다.","has_sensitive":true,"entities":[{"value":"860713-7901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":227,"content":"세무 조사 협조 요청 확인을 위해 외국인등록번호 931029-5012378 이 기재되어 있습니다. 또한 자료는 일주일 내 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"931029-5012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":228,"content":"학교 기숙사 퇴실 신청 과정에서 등록번호 880615-6123489 확인되었습니다. 참고로 보증금은 일주일 내 환불됩니다.","has_sensitive":true,"entities":[{"value":"880615-6123489","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":229,"content":"은행 카드 한도 증액 신청을 위해 외국인등록번호 951001-7234590 을 제출해 주세요. 먼저 소득 증빙이 필요합니다.","has_sensitive":true,"entities":[{"value":"951001-7234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":230,"content":"렌터카 차량 교체 요청 시 번호 821217-5345601 로 조회됩니다. 그리고 교체 가능 차량을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821217-5345601","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":231,"content":"인터넷 속도 측정 결과 확인을 위해 외국인등록번호 920903-6456712 이 필요합니다. 다만 속도는 계약과 동일합니다.","has_sensitive":true,"entities":[{"value":"920903-6456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":232,"content":"도서 연체료 감면 신청서에 등록번호 871119-7567823 을 기재하셨습니다. 또한 감면율은 50%입니다.","has_sensitive":true,"entities":[{"value":"871119-7567823","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":233,"content":"병원 수술 예약 변경 과정에서 외국인등록번호 940605-5678934 이 작성되어 있습니다. 참고로 변경은 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"940605-5678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":234,"content":"휴대폰 번호 이동 신청을 위해 번호 860321-6789045 확인되었습니다. 먼저 기존 번호 해지가 필요합니다.","has_sensitive":true,"entities":[{"value":"860321-6789045","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":235,"content":"세무서 사업자 등록 신청 시 외국인등록번호 930907-7890156 을 제출하셨습니다. 그리고 심사 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"930907-7890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":236,"content":"학원 특별 수업 신청서에 등록번호 880423-5901267 이 필요합니다. 다만 수업료는 기존 수강료에 추가됩니다.","has_sensitive":true,"entities":[{"value":"880423-5901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":237,"content":"자동차 사고 합의서 작성 과정에서 외국인등록번호 951109-6012378 이 기재되어 있습니다. 또한 보험사 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"951109-6012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":238,"content":"은행 환전 신청 확인을 위해 번호 821025-7123489 확인되었습니다. 참고로 환율은 당일 기준입니다.","has_sensitive":true,"entities":[{"value":"821025-7123489","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":239,"content":"온라인 정기구독 해지 신청 시 외국인등록번호 920711-5234590 을 입력해 주세요. 먼저 잔여 기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"920711-5234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":240,"content":"부동산 월세 인상 통보 과정에서 등록번호 870927-6345601 로 검색됩니다. 그리고 인상률은 5%입니다.","has_sensitive":true,"entities":[{"value":"870927-6345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":241,"content":"병원 건강검진 예약 변경을 위해 외국인등록번호 941213-7456712 이 필요합니다. 다만 변경 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"941213-7456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":242,"content":"통신사 결합상품 가입 신청서에 번호 860529-5567823 을 기재하셨습니다. 또한 할인율은 20%입니다.","has_sensitive":true,"entities":[{"value":"860529-5567823","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":243,"content":"학교 성적 이의신청 과정에서 외국인등록번호 930115-6678934 이 작성되어 있습니다. 참고로 재심 기간은 1주일입니다.","has_sensitive":true,"entities":[{"value":"930115-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":244,"content":"렌터카 사고 보험 청구를 위해 등록번호 880801-7789045 확인되었습니다. 먼저 사고 경위서를 작성해 주세요.","has_sensitive":true,"entities":[{"value":"880801-7789045","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":245,"content":"은행 대출 조기 상환 신청 시 외국인등록번호 950617-5890156 을 제출하셨습니다. 그리고 상환 수수료는 1%입니다.","has_sensitive":true,"entities":[{"value":"950617-5890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":246,"content":"휴대폰 명의 도용 신고 과정에서 번호 821203-6901267 로 조회됩니다. 다만 경찰 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"821203-6901267","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":247,"content":"인터넷 TV 채널 변경 신청을 위해 외국인등록번호 920819-7012378 이 필요합니다. 또한 변경은 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"920819-7012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":248,"content":"도서관 자료실 이용 등록 시 등록번호 871105-5123489 을 기재하셨습니다. 참고로 이용 시간은 평일 9시부터입니다.","has_sensitive":true,"entities":[{"value":"871105-5123489","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":249,"content":"병원 외래 진료 예약 취소 과정에서 외국인등록번호 940521-6234590 이 작성되어 있습니다. 먼저 취소 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"940521-6234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":250,"content":"세무 환급 계좌 변경 신청을 위해 번호 860107-7345601 확인되었습니다. 그리고 변경은 2일 내 처리됩니다.","has_sensitive":true,"entities":[{"value":"860107-7345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":251,"content":"학원 수업 시간 조정 신청서에 외국인등록번호 930623-5456712 을 입력하셨습니다. 다만 조정은 월 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"930623-5456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":252,"content":"자동차 번호판 재발급 과정에서 등록번호 881109-6567823 이 필요합니다. 또한 재발급 비용은 2만원입니다.","has_sensitive":true,"entities":[{"value":"881109-6567823","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":253,"content":"은행 통장 사본 발급 신청 시 외국인등록번호 950405-7678934 이 기재되어 있습니다. 참고로 발급 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"950405-7678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":254,"content":"렌터카 연료비 정산 확인을 위해 번호 821121-5789045 확인되었습니다. 먼저 주유 영수증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"821121-5789045","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":255,"content":"온라인 쇼핑 적립금 사용 신청 시 외국인등록번호 920707-6890156 을 제출하셨습니다. 그리고 사용 가능 금액은 5만원입니다.","has_sensitive":true,"entities":[{"value":"920707-6890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":256,"content":"부동산 권리금 조정 협의 과정에서 등록번호 870423-7901267 로 검색됩니다. 다만 법무사 상담이 필요합니다.","has_sensitive":true,"entities":[{"value":"870423-7901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":257,"content":"병원 입원실 변경 요청을 위해 외국인등록번호 941109-5012378 이 필요합니다. 또한 변경 비용은 차액만 부담합니다.","has_sensitive":true,"entities":[{"value":"941109-5012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":258,"content":"휴대폰 요금 자동이체 계좌 변경 시 번호 860625-6123489 을 기재하셨습니다. 참고로 변경은 다음 달부터 적용됩니다.","has_sensitive":true,"entities":[{"value":"860625-6123489","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":259,"content":"세무 신고 정정 신청 과정에서 외국인등록번호 931211-7234590 이 작성되어 있습니다. 먼저 수정 내역을 명시해 주세요.","has_sensitive":true,"entities":[{"value":"931211-7234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":260,"content":"학교 장학금 수혜 확인을 위해 등록번호 880727-5345601 확인되었습니다. 그리고 지급일은 다음 주입니다.","has_sensitive":true,"entities":[{"value":"880727-5345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":261,"content":"은행 신용등급 조회 신청 시 외국인등록번호 950313-6456712 을 입력해 주세요. 다만 조회 시 등급에 영향이 있습니다.","has_sensitive":true,"entities":[{"value":"950313-6456712","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":262,"content":"렌터카 보험 가입 확인서 발급을 위해 번호 821029-7567823 이 필요합니다. 또한 발급 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"821029-7567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":263,"content":"인터넷 모뎀 교체 신청서에 외국인등록번호 920915-5678934 을 기재하셨습니다. 참고로 교체는 3일 내 완료됩니다.","has_sensitive":true,"entities":[{"value":"920915-5678934","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":264,"content":"도서 분실 배상금 납부 과정에서 등록번호 871101-6789045 이 작성되어 있습니다. 먼저 도서 가격을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":265,"content":"병원 외래 주치의 변경 신청을 위해 외국인등록번호 940617-7890156 확인되었습니다. 그리고 변경은 즉시 가능합니다.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":266,"content":"통신사 멤버십 포인트 사용 신청 시 번호 860303-5901267 을 제출하셨습니다. 다만 최소 사용 포인트는 천점입니다.","has_sensitive":true,"entities":[{"value":"860303-5901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":267,"content":"학원 방학 특강 등록 과정에서 외국인등록번호 930819-6012378 이 필요합니다. 또한 조기 등록 할인이 있습니다.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":268,"content":"자동차 정기검사 예약 변경을 위해 등록번호 881005-7123489 을 기재하셨습니다. 참고로 변경은 2회까지 가능합니다.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":269,"content":"은행 계좌 정지 해제 신청 시 외국인등록번호 950521-5234590 이 작성되어 있습니다. 먼저 본인 확인 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":270,"content":"렌터카 계약 연장 신청 과정에서 번호 821107-6345601 확인되었습니다. 그리고 연장 비용은 일할 계산됩니다.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":271,"content":"온라인 강의 교재 배송 확인을 위해 외국인등록번호 920723-7456712 을 입력해 주세요. 다만 배송비는 착불입니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":272,"content":"부동산 재계약 협의 신청서에 등록번호 870509-5567823 이 필요합니다. 또한 계약 조건을 협의하겠습니다.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":273,"content":"병원 진료 기록 복사 신청 시 외국인등록번호 941125-6678934 을 기재하셨습니다. 참고로 복사 수수료는 페이지당 백원입니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":274,"content":"휴대폰 분실폰 위치 추적 요청 과정에서 번호 860711-7789045 이 작성되어 있습니다. 먼저 경찰 신고 접수증이 필요합니다.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":275,"content":"세무 증빙 자료 제출 확인을 위해 외국인등록번호 930327-5890156 확인되었습니다. 그리고 추가 자료는 없습니다.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":276,"content":"학교 휴학 신청서 제출 시 등록번호 880913-6901267 을 입력하셨습니다. 다만 휴학 기간은 최대 2년입니다.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":277,"content":"은행 주택담보대출 신청 과정에서 외국인등록번호 950629-7012378 이 필요합니다. 또한 소득 증빙 서류를 제출하세요.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":278,"content":"렌터카 마일리지 적립 확인을 위해 번호 821215-5123489 을 기재하셨습니다. 참고로 적립 포인트는 5천점입니다.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":279,"content":"인터넷 보안 서비스 가입 신청서에 외국인등록번호 920901-6234590 이 작성되어 있습니다. 먼저 서비스 이용 약관을 확인하세요.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":280,"content":"도서관 열람실 연장 신청 과정에서 등록번호 871017-7345601 확인되었습니다. 그리고 연장은 1회 2시간입니다.","has_sensitive":true,"entities":[{"value":"871017-7345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":281,"content":"병원 처방약 배달 서비스 신청을 위해 외국인등록번호 940603-5456712 을 제출해 주세요. 다만 배달비가 부과됩니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":282,"content":"통신사 단말기 할부 승인 신청 시 번호 860219-6567823 이 필요합니다. 또한 신용 조회가 진행됩니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":283,"content":"학원 교재 주문 신청서에 외국인등록번호 930905-7678934 을 기재하셨습니다. 참고로 교재비는 수강료와 별도입니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":284,"content":"자동차 사고 과실 비율 협의 과정에서 등록번호 881121-5789045 이 작성되어 있습니다. 먼저 보험사 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":285,"content":"은행 외화 예금 가입 신청을 위해 외국인등록번호 950707-6890156 확인되었습니다. 그리고 최소 가입 금액은 천불입니다.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":286,"content":"렌터카 차량 인수 확인서 발급 시 번호 821023-7901267 을 입력하셨습니다. 다만 차량 상태를 꼼꼼히 확인하세요.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":287,"content":"온라인 쇼핑 회원 등급 조회 과정에서 외국인등록번호 920809-5012378 이 필요합니다. 또한 현재 등급은 골드입니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":288,"content":"부동산 전세금 반환 확인을 위해 등록번호 870525-6123489 을 기재하셨습니다. 참고로 반환 예정일은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":289,"content":"병원 입원 보증인 등록 신청서에 외국인등록번호 941211-7234590 이 작성되어 있습니다. 먼저 보증인 신분증도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":290,"content":"휴대폰 착신전환 서비스 신청 시 번호 860627-5345601 확인되었습니다. 그리고 서비스 이용료는 무료입니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":291,"content":"세무 원천징수 영수증 발급을 위해 외국인등록번호 930113-6456712 을 제출해 주세요. 다만 발급까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":292,"content":"학교 졸업 예정 증명서 신청 과정에서 등록번호 880829-7567823 이 필요합니다. 또한 발급 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":293,"content":"은행 해외 송금 수수료 조회 신청 시 외국인등록번호 950415-5678934 을 입력하셨습니다. 참고로 수수료율은 0.1%입니다.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":294,"content":"렌터카 탁송 서비스 신청서에 번호 821109-6789045 이 기재되어 있습니다. 먼저 탁송비를 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":295,"content":"인터넷 해킹 피해 신고 과정에서 외국인등록번호 920725-7890156 확인되었습니다. 그리고 경찰 신고도 함께 진행하세요.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":296,"content":"도서 기증 처리 확인을 위해 등록번호 871011-5901267 을 제출하셨습니다. 다만 기증 도서는 반환되지 않습니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":297,"content":"병원 재진 예약 변경 신청 시 외국인등록번호 940527-6012378 이 필요합니다. 또한 변경은 1일 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":298,"content":"통신사 국제전화 서비스 가입을 위해 번호 860313-7123489 을 기재하셨습니다. 참고로 통화료는 분당 백원입니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":299,"content":"학원 수강 증명서 발급 과정에서 외국인등록번호 930921-5234590 이 작성되어 있습니다. 먼저 증명서 용도를 선택하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":300,"content":"자동차 보험료 할인 신청을 위해 등록번호 881107-6345601 확인되었습니다. 그리고 무사고 할인율은 20%입니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":301,"content":"은행 마이너스 통장 개설 신청 시 외국인등록번호 950623-7456712 을 입력해 주세요. 다만 신용도 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":302,"content":"렌터카 주유 영수증 정산 과정에서 번호 821209-5567823 이 필요합니다. 또한 영수증 원본을 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":303,"content":"온라인 쿠폰 등록 신청서에 외국인등록번호 920815-6678934 을 기재하셨습니다. 참고로 쿠폰 유효기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":304,"content":"부동산 매매가 조정 협의 과정에서 등록번호 871101-7789045 이 작성되어 있습니다. 먼저 감정 평가가 필요합니다.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":305,"content":"병원 간병인 신청 확인을 위해 외국인등록번호 940617-5890156 확인되었습니다. 그리고 간병비는 일당 10만원입니다.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":306,"content":"휴대폰 데이터 추가 구매 신청 시 번호 860203-6901267 을 제출하셨습니다. 다만 추가 데이터 비용이 부과됩니다.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":307,"content":"세무 사업 소득 신고 과정에서 외국인등록번호 930819-7012378 이 필요합니다. 또한 장부 작성이 필요합니다.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":308,"content":"학교 전과 신청서 작성 시 등록번호 881005-5123489 을 입력하셨습니다. 참고로 전과 심사에 한 달 소요됩니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":309,"content":"은행 체크카드 재발급 신청을 위해 외국인등록번호 950521-6234590 을 기재하셨습니다. 먼저 분실 신고 접수가 필요합니다.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":310,"content":"렌터카 추가 운전자 등록 과정에서 번호 821107-7345601 이 작성되어 있습니다. 그리고 추가 비용은 일당 5천원입니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":311,"content":"인터넷 공유기 설정 변경 신청 시 외국인등록번호 920723-5456712 확인되었습니다. 다만 원격 지원이 가능합니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":312,"content":"도서관 논문 복사 신청을 위해 등록번호 870509-6567823 을 제출해 주세요. 또한 복사 비용은 페이지당 50원입니다.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":313,"content":"병원 입원비 분할 납부 신청서에 외국인등록번호 941125-7678934 이 필요합니다. 참고로 분할 이자는 없습니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":314,"content":"통신사 가족 결합 할인 신청 과정에서 번호 860711-5789045 을 입력하셨습니다. 먼저 가족 관계 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":315,"content":"학원 방학 프로그램 등록 확인을 위해 외국인등록번호 930327-6890156 이 기재되어 있습니다. 그리고 정원은 20명입니다.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":316,"content":"자동차 튜닝 허가 신청 시 등록번호 880913-7901267 을 기재하셨습니다. 다만 안전 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":317,"content":"은행 자동 출금 서비스 신청을 위해 외국인등록번호 950629-5012378 이 작성되어 있습니다. 또한 계좌 잔액을 확인하세요.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":318,"content":"렌터카 차량 정비 이력 조회 과정에서 번호 821215-6123489 확인되었습니다. 참고로 최근 정비일은 지난 달입니다.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":319,"content":"온라인 게임 계정 복구 신청 시 외국인등록번호 920901-7234590 을 제출해 주세요. 먼저 본인 확인 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":320,"content":"부동산 감정 평가서 발급을 위해 등록번호 871117-5345601 이 필요합니다. 그리고 평가 비용은 20만원입니다.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":321,"content":"병원 외래 진료비 환급 신청서에 외국인등록번호 940603-6456712 을 입력하셨습니다. 다만 환급까지 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":322,"content":"휴대폰 통화 내역 조회 신청 과정에서 번호 860219-7567823 이 기재되어 있습니다. 또한 조회 기간은 최근 6개월입니다.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":323,"content":"세무 부가세 신고 확인을 위해 외국인등록번호 930905-5678934 확인되었습니다. 참고로 신고 기한은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":324,"content":"학교 수강 정정 신청서 작성 시 등록번호 881121-6789045 을 제출하셨습니다. 먼저 정정 기간을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":325,"content":"은행 보이스피싱 피해 신고 과정에서 외국인등록번호 950707-7890156 이 필요합니다. 그리고 즉시 계좌 정지됩니다.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":326,"content":"렌터카 할인 쿠폰 사용 신청을 위해 번호 821023-5901267 을 기재하셨습니다. 다만 중복 할인은 불가능합니다.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":327,"content":"인터넷 스트리밍 서비스 가입 시 외국인등록번호 920809-6012378 이 작성되어 있습니다. 또한 월 이용료는 만원입니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":328,"content":"도서관 희망 도서 신청 과정에서 등록번호 870525-7123489 확인되었습니다. 참고로 구매까지 한 달 소요됩니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":329,"content":"병원 의료 영상 복사 신청을 위해 외국인등록번호 941211-5234590 을 입력해 주세요. 먼저 복사 매체를 선택하세요.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":330,"content":"통신사 시니어 요금제 가입 신청서에 번호 860627-6345601 이 필요합니다. 그리고 연령 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":331,"content":"학원 자습실 이용 등록 시 외국인등록번호 930113-7456712 을 제출하셨습니다. 다만 이용 시간은 밤 11시까지입니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":332,"content":"자동차 압류 해제 신청 과정에서 등록번호 880829-5567823 이 기재되어 있습니다. 또한 미납 세금 납부가 필요합니다.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":333,"content":"은행 외화 통장 개설 확인을 위해 외국인등록번호 950415-6678934 확인되었습니다. 참고로 환전 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":334,"content":"렌터카 주행 거리 확인서 발급 시 번호 821109-7789045 을 기재하셨습니다. 먼저 차량 계기판을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":335,"content":"온라인 전시회 등록 신청을 위해 외국인등록번호 920725-5890156 이 필요합니다. 그리고 입장료는 무료입니다.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":336,"content":"부동산 전입 신고 과정에서 등록번호 871011-6901267 을 제출하셨습니다. 다만 신고는 전입 후 14일 이내입니다.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":337,"content":"병원 장례식장 이용 신청서에 외국인등록번호 940527-7012378 이 작성되어 있습니다. 또한 이용 비용은 별도 문의 바랍니다.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":338,"content":"휴대폰 자급제폰 개통 신청 시 번호 860313-5123489 확인되었습니다. 참고로 개통 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":339,"content":"세무 경정 청구 과정에서 외국인등록번호 930921-6234590 을 입력해 주세요. 먼저 청구 사유를 기재하세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":340,"content":"학교 편입 시험 접수 확인을 위해 등록번호 881107-7345601 이 필요합니다. 그리고 시험일은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":341,"content":"은행 기업 계좌 개설 신청 시 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 사업자 등록증도 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":342,"content":"렌터카 보험 사고 처리 과정에서 번호 821209-6567823 이 작성되어 있습니다. 또한 사고 접수 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":343,"content":"인터넷 홈페이지 제작 의뢰를 위해 외국인등록번호 920815-7678934 확인되었습니다. 참고로 제작 비용은 백만원부터입니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":344,"content":"도서 기한 연장 신청 시 등록번호 871101-5789045 을 제출하셨습니다. 먼저 연장은 2회까지 가능합니다.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":345,"content":"병원 장기 입원 신청서에 외국인등록번호 940617-6890156 이 필요합니다. 그리고 입원 보증금이 추가됩니다.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":346,"content":"통신사 효도 요금제 변경 신청 과정에서 번호 860203-7901267 을 입력하셨습니다. 다만 나이 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":347,"content":"학원 온라인 수업 신청 확인을 위해 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 교재는 택배로 발송됩니다.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":348,"content":"자동차 세금 감면 신청 시 등록번호 881005-6123489 확인되었습니다. 참고로 장애인 증명서가 필요합니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":349,"content":"은행 보험 상품 가입 과정에서 외국인등록번호 950521-7234590 을 제출해 주세요. 먼저 상품 설명서를 확인하세요.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":350,"content":"렌터카 청소년 할인 신청을 위해 번호 821107-5345601 이 작성되어 있습니다. 그리고 학생증 지참이 필요합니다.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":351,"content":"온라인 설문조사 참여 등록 시 외국인등록번호 920723-6456712 이 필요합니다. 다만 개인정보는 보호됩니다.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":352,"content":"부동산 경매 참가 신청서에 등록번호 870509-7567823 을 기재하셨습니다. 또한 보증금 입금이 필요합니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":353,"content":"병원 통원 치료 확인서 발급을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 발급 수수료는 3천원입니다.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":354,"content":"휴대폰 유심 변경 신청 과정에서 번호 860711-6789045 을 입력하셨습니다. 먼저 신분증을 지참해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":355,"content":"세무 종합소득세 신고 시 외국인등록번호 930327-7890156 이 필요합니다. 그리고 신고 기한을 준수하세요.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":356,"content":"학교 학점 이수 확인서 신청을 위해 등록번호 880913-5901267 을 제출하셨습니다. 다만 발급까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":357,"content":"은행 금융 상품 해지 신청서에 외국인등록번호 950629-6012378 이 기재되어 있습니다. 또한 위약금이 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":358,"content":"렌터카 장거리 할인 신청 과정에서 번호 821215-7123489 확인되었습니다. 참고로 할인율은 거리에 따라 다릅니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":359,"content":"인터넷 클라우드 서비스 가입을 위해 외국인등록번호 920901-5234590 을 입력해 주세요. 먼저 저장 용량을 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":360,"content":"도서관 세미나실 예약 신청 시 등록번호 871117-6345601 이 필요합니다. 그리고 사용 시간은 최대 4시간입니다.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":361,"content":"병원 예방접종 증명서 발급 과정에서 외국인등록번호 940603-7456712 을 기재하셨습니다. 다만 최근 접종 내역만 포함됩니다.","has_sensitive":true,"entities":[{"value":"940603-7456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":362,"content":"통신사 5G 요금제 변경 신청을 위해 번호 860219-5567823 이 작성되어 있습니다. 또한 단말기 교체가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"860219-5567823","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":363,"content":"학원 모의고사 응시 신청서에 외국인등록번호 930905-6678934 확인되었습니다. 참고로 시험 시간은 3시간입니다.","has_sensitive":true,"entities":[{"value":"930905-6678934","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":364,"content":"자동차 리콜 대상 확인 과정에서 등록번호 881121-7789045 을 제출하셨습니다. 먼저 정비소 예약이 필요합니다.","has_sensitive":true,"entities":[{"value":"881121-7789045","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":365,"content":"은행 청약 통장 가입 신청 시 외국인등록번호 950707-5890156 이 필요합니다. 그리고 매월 자동 이체됩니다.","has_sensitive":true,"entities":[{"value":"950707-5890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":366,"content":"렌터카 반려동물 동반 신청을 위해 번호 821023-6901267 을 입력하셨습니다. 다만 추가 비용이 부과됩니다.","has_sensitive":true,"entities":[{"value":"821023-6901267","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":367,"content":"온라인 경매 참여 등록 과정에서 외국인등록번호 920809-7012378 이 기재되어 있습니다. 또한 입찰 보증금이 필요합니다.","has_sensitive":true,"entities":[{"value":"920809-7012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":368,"content":"부동산 재건축 조합원 신청 시 등록번호 870525-5123489 확인되었습니다. 참고로 조합비 납부가 필요합니다.","has_sensitive":true,"entities":[{"value":"870525-5123489","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":369,"content":"병원 심야 진료 예약 확인을 위해 외국인등록번호 941211-6234590 을 제출해 주세요. 먼저 진료 시간을 확인하세요.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":370,"content":"휴대폰 보안 서비스 가입 신청서에 번호 860627-7345601 이 필요합니다. 그리고 서비스는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"860627-7345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":371,"content":"세무 양도소득세 신고 과정에서 외국인등록번호 930113-5456712 을 기재하셨습니다. 다만 취득 증빙 서류가 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":372,"content":"학교 어학연수 신청 확인을 위해 등록번호 880829-6567823 이 작성되어 있습니다. 또한 여권 사본을 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":373,"content":"은행 주식 거래 계좌 개설 시 외국인등록번호 950415-7678934 확인되었습니다. 참고로 거래 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":374,"content":"렌터카 GPS 네비게이션 대여 신청을 위해 번호 821109-5789045 을 입력하셨습니다. 먼저 대여료를 확인해 주세요.","has_sensitive":true,"entities":[{"value":"821109-5789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":375,"content":"인터넷 보안 프로그램 설치 과정에서 외국인등록번호 920725-6890156 이 필요합니다. 그리고 설치는 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"920725-6890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":376,"content":"도서관 원문 복사 신청서에 등록번호 871011-7901267 을 제출하셨습니다. 다만 저작권법을 준수해야 합니다.","has_sensitive":true,"entities":[{"value":"871011-7901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":377,"content":"병원 건강검진 연기 신청 시 외국인등록번호 940527-5012378 이 기재되어 있습니다. 또한 연기는 1회만 가능합니다.","has_sensitive":true,"entities":[{"value":"940527-5012378","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":378,"content":"통신사 청소년 요금제 확인을 위해 번호 860313-6123489 확인되었습니다. 참고로 부모 동의서가 필요합니다.","has_sensitive":true,"entities":[{"value":"860313-6123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":379,"content":"학원 여름 캠프 등록 과정에서 외국인등록번호 930921-7234590 을 기재하셨습니다. 먼저 캠프 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":380,"content":"자동차 배출가스 검사 예약 신청을 위해 등록번호 881107-5345601 이 필요합니다. 그리고 검사 비용은 2만원입니다.","has_sensitive":true,"entities":[{"value":"881107-5345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":381,"content":"은행 펀드 상품 가입 신청서에 외국인등록번호 950623-6456712 을 입력하셨습니다. 다만 투자 위험도를 확인하세요.","has_sensitive":true,"entities":[{"value":"950623-6456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":382,"content":"렌터카 겨울 타이어 교체 신청 과정에서 번호 821209-7567823 이 작성되어 있습니다. 또한 교체 비용은 무료입니다.","has_sensitive":true,"entities":[{"value":"821209-7567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":383,"content":"온라인 수강 신청 확인을 위해 외국인등록번호 920815-5678934 확인되었습니다. 참고로 수강 정원은 30명입니다.","has_sensitive":true,"entities":[{"value":"920815-5678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":384,"content":"부동산 분양권 전매 신고 시 등록번호 871101-6789045 을 제출해 주세요. 먼저 양도 계약서를 작성하세요.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":385,"content":"병원 수면 검사 예약 신청서에 외국인등록번호 940617-7890156 이 필요합니다. 그리고 검사는 1박 2일 소요됩니다.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":386,"content":"휴대폰 신규 가입 할인 신청 과정에서 번호 860203-5901267 을 입력하셨습니다. 다만 약정 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"860203-5901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":387,"content":"세무 사업장 폐업 신고 확인을 위해 외국인등록번호 930819-6012378 이 기재되어 있습니다. 또한 폐업일은 신고 후 결정됩니다.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":388,"content":"학교 특별 전형 지원 과정에서 등록번호 881005-7123489 확인되었습니다. 참고로 제출 서류를 확인하세요.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":389,"content":"은행 외화 대출 신청을 위해 외국인등록번호 950521-5234590 을 제출하셨습니다. 먼저 환율 변동 위험을 확인하세요.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":390,"content":"렌터카 공항 픽업 서비스 신청 시 번호 821107-6345601 이 필요합니다. 그리고 항공편 정보를 알려 주세요.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":391,"content":"인터넷 도메인 등록 신청서에 외국인등록번호 920723-7456712 을 기재하셨습니다. 다만 연간 유지비가 부과됩니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":392,"content":"도서관 스터디룸 예약 과정에서 등록번호 870509-5567823 이 작성되어 있습니다. 또한 이용 시간은 3시간입니다.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":393,"content":"병원 영양 상담 예약 신청을 위해 외국인등록번호 941125-6678934 확인되었습니다. 참고로 상담료는 5만원입니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":394,"content":"통신사 무제한 데이터 요금제 가입 시 번호 860711-7789045 을 입력하셨습니다. 먼저 속도 제한 정책을 확인하세요.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":395,"content":"학원 개인 과외 신청 과정에서 외국인등록번호 930327-5890156 이 필요합니다. 그리고 과외 시간은 협의 가능합니다.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":396,"content":"자동차 긴급 출동 서비스 신청을 위해 등록번호 880913-6901267 을 제출하셨습니다. 다만 서비스 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":397,"content":"은행 ISA 계좌 개설 신청서에 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 세제 혜택을 받을 수 있습니다.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":398,"content":"렌터카 고속도로 통행료 정산 과정에서 번호 821215-5123489 확인되었습니다. 참고로 영수증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":399,"content":"온라인 멘토링 프로그램 신청을 위해 외국인등록번호 920901-6234590 을 입력해 주세요. 먼저 관심 분야를 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":400,"content":"부동산 재개발 조합원 등록 시 등록번호 871117-7345601 이 필요합니다. 그리고 조합비는 분기별 납부입니다.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":401,"content":"병원 물리치료 연장 신청 과정에서 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 추가 비용이 발생합니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":402,"content":"휴대폰 국제 데이터 로밍 신청을 위해 번호 860219-6567823 이 작성되어 있습니다. 또한 사용료는 일일 단위입니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":403,"content":"세무 상속세 신고 확인 과정에서 외국인등록번호 930905-7678934 확인되었습니다. 참고로 신고 기한은 6개월입니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":404,"content":"학교 복수 전공 신청서 제출 시 등록번호 881121-5789045 을 입력하셨습니다. 먼저 학점 요건을 확인해 주세요.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":405,"content":"은행 금 적립 통장 가입 신청을 위해 외국인등록번호 950707-6890156 이 필요합니다. 그리고 금 시세는 변동됩니다.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":406,"content":"렌터카 차량 교환 신청서에 번호 821023-7901267 을 제출하셨습니다. 다만 차량 등급이 동일해야 합니다.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":407,"content":"인터넷 웹호스팅 서비스 가입 과정에서 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 트래픽에 따라 비용이 다릅니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":408,"content":"도서관 도서 구입 신청 확인을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 심사 후 구입 여부가 결정됩니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":409,"content":"병원 정신건강의학과 예약 신청 시 외국인등록번호 941211-7234590 을 입력해 주세요. 먼저 초진 문진표를 작성하세요.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":410,"content":"통신사 집전화 서비스 신청서에 번호 860627-5345601 이 필요합니다. 그리고 설치는 3일 내 완료됩니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":411,"content":"학원 학습 상담 예약 과정에서 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 상담 시간은 30분입니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":412,"content":"자동차 중고차 매매 계약 체결을 위해 등록번호 880829-7567823 이 작성되어 있습니다. 또한 명의 이전이 필요합니다.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":413,"content":"은행 연금 저축 가입 신청 시 외국인등록번호 950415-5678934 확인되었습니다. 참고로 세액 공제 혜택이 있습니다.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":414,"content":"렌터카 전기차 대여 신청을 위해 번호 821109-6789045 을 입력하셨습니다. 먼저 충전 방법을 안내해 드리겠습니다.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":415,"content":"온라인 강연회 참가 등록 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 참가비는 무료입니다.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":416,"content":"부동산 주택 임대차 보호 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 계약서 공증이 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":417,"content":"병원 재활 치료 프로그램 신청 시 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 치료 기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":418,"content":"휴대폰 청구서 우편 신청 과정에서 번호 860313-7123489 확인되었습니다. 참고로 우편 발송은 무료입니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":419,"content":"세무 지방세 감면 신청 확인을 위해 외국인등록번호 930921-5234590 을 입력해 주세요. 먼저 감면 대상을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":420,"content":"학교 교환학생 선발 신청서에 등록번호 881107-6345601 이 필요합니다. 그리고 어학 성적을 제출해야 합니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":421,"content":"은행 기업 신용대출 심사 과정에서 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 재무제표가 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":422,"content":"렌터카 면책 보험 가입 신청을 위해 번호 821209-5567823 이 작성되어 있습니다. 또한 보험료는 일당 1만원입니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":423,"content":"인터넷 가상서버 호스팅 신청 시 외국인등록번호 920815-6678934 확인되었습니다. 참고로 관리자 계정이 발급됩니다.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":424,"content":"도서관 자료 기증 감사장 발급을 위해 등록번호 871101-7789045 을 제출하셨습니다. 먼저 기증 목록을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":425,"content":"병원 장애인 편의시설 이용 신청 과정에서 외국인등록번호 940617-5890156 이 필요합니다. 그리고 장애인 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":426,"content":"통신사 결합 할인 신청서에 번호 860203-6901267 을 입력하셨습니다. 다만 최소 결합 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":427,"content":"학원 방학 특강 환불 신청 시 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 환불 수수료가 공제됩니다.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":428,"content":"자동차 탁송 서비스 예약 과정에서 등록번호 881005-5123489 확인되었습니다. 참고로 탁송비는 거리에 따라 다릅니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":429,"content":"은행 신탁 계좌 개설 신청을 위해 외국인등록번호 950521-6234590 을 제출해 주세요. 먼저 수익자를 지정하세요.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":430,"content":"렌터카 운전자 추가 등록 신청서에 번호 821107-7345601 이 필요합니다. 그리고 면허증 사본을 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":431,"content":"온라인 클래스 수강 등록 과정에서 외국인등록번호 920723-5456712 을 입력하셨습니다. 다만 수강료는 선납입니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":432,"content":"부동산 상가 임대 계약 체결 시 등록번호 870509-6567823 이 기재되어 있습니다. 또한 권리금 협의가 필요합니다.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":433,"content":"병원 장기 기증 등록 신청 확인을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 가족 동의서가 필요합니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":434,"content":"휴대폰 기기 보험 가입 신청을 위해 번호 860711-5789045 을 제출하셨습니다. 먼저 보험료를 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":435,"content":"세무 취득세 감면 신청 과정에서 외국인등록번호 930327-6890156 이 필요합니다. 그리고 취득 증빙을 제출하세요.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":436,"content":"학교 조기 졸업 신청서 작성 시 등록번호 880913-7901267 을 기재하셨습니다. 다만 학점 충족 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":437,"content":"은행 보안카드 재발급 신청 과정에서 외국인등록번호 950629-5012378 이 작성되어 있습니다. 또한 재발급은 즉시 가능합니다.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":438,"content":"렌터카 차량 손상 보상 신청을 위해 번호 821215-6123489 확인되었습니다. 참고로 손상 정도를 사진으로 제출하세요.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":439,"content":"인터넷 메일 호스팅 가입 신청 시 외국인등록번호 920901-7234590 을 입력해 주세요. 먼저 도메인을 등록하세요.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":440,"content":"도서관 졸업 논문 등록 과정에서 등록번호 871117-5345601 이 필요합니다. 그리고 논문 파일을 업로드하세요.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":441,"content":"병원 응급 환자 보호자 등록 신청서에 외국인등록번호 940603-6456712 을 기재하셨습니다. 다만 관계 증명이 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":442,"content":"통신사 선불 유심 충전 신청 시 번호 860219-7567823 이 작성되어 있습니다. 또한 충전 금액을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":443,"content":"학원 진도 상담 예약 과정에서 외국인등록번호 930905-5678934 확인되었습니다. 참고로 상담은 학부모 대상입니다.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":444,"content":"자동차 견인 서비스 요청 확인을 위해 등록번호 881121-6789045 을 제출하셨습니다. 먼저 현재 위치를 알려 주세요.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":445,"content":"은행 예금 자동 이체 신청 과정에서 외국인등록번호 950707-7890156 이 필요합니다. 그리고 이체일을 지정하세요.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":446,"content":"렌터카 계절 할인 신청서에 번호 821023-5901267 을 입력하셨습니다. 다만 비수기에만 적용됩니다.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":16,"end":30,"label":"FOREIGNER_ID"}]}
+{"id":447,"content":"온라인 세미나 참가 등록 시 외국인등록번호 920809-6012378 이 기재되어 있습니다. 또한 자료집은 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":448,"content":"부동산 재산세 납부 확인을 위해 등록번호 870525-7123489 확인되었습니다. 참고로 분할 납부가 가능합니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":449,"content":"병원 응급실 입원 보증금 납부 과정에서 외국인등록번호 941211-5234590 을 제출해 주세요. 먼저 입원 동의서를 작성하세요.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":450,"content":"휴대폰 번호 변경 신청 확인을 위해 번호 860627-6345601 이 필요합니다. 그리고 변경 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":451,"content":"세무 증여세 신고 신청서 작성 시 외국인등록번호 930113-7456712 을 기재하셨습니다. 다만 증여 계약서가 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":452,"content":"학교 성적 우수 장학금 신청 과정에서 등록번호 880829-5567823 이 작성되어 있습니다. 또한 성적 증명서를 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":453,"content":"은행 체크카드 한도 조정 신청을 위해 외국인등록번호 950415-6678934 확인되었습니다. 참고로 한도는 신용도에 따라 다릅니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":454,"content":"렌터카 하이패스 카드 대여 신청 시 번호 821109-7789045 을 입력하셨습니다. 먼저 보증금을 납부해 주세요.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":455,"content":"인터넷 백업 서비스 신청 과정에서 외국인등록번호 920725-5890156 이 필요합니다. 그리고 백업 주기를 선택하세요.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":456,"content":"도서관 전자책 대출 신청서에 등록번호 871011-6901267 을 제출하셨습니다. 다만 동시 대출은 3권까지입니다.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":457,"content":"병원 외래 주차 할인 신청 시 외국인등록번호 940527-7012378 이 기재되어 있습니다. 또한 진료 영수증을 제시하세요.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":458,"content":"통신사 WiFi 에그 대여 신청을 위해 번호 860313-5123489 확인되었습니다. 참고로 대여료는 일당 5천원입니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":459,"content":"학원 입학 설명회 참석 신청 과정에서 외국인등록번호 930921-6234590 을 입력해 주세요. 먼저 설명회 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":460,"content":"자동차 블랙박스 설치 예약 신청서에 등록번호 881107-7345601 이 필요합니다. 그리고 설치 비용은 10만원입니다.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":461,"content":"은행 비대면 계좌 개설 확인을 위해 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 영상 통화 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":462,"content":"렌터카 자녀 카시트 대여 신청 시 번호 821209-6567823 이 작성되어 있습니다. 또한 카시트는 무료 제공됩니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":463,"content":"온라인 공연 티켓 예매 과정에서 외국인등록번호 920815-7678934 확인되었습니다. 참고로 좌석은 선착순입니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":464,"content":"부동산 월세 자동이체 신청을 위해 등록번호 871101-5789045 을 제출하셨습니다. 먼저 임대인 계좌를 확인하세요.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":465,"content":"병원 외래 투약 상담 예약 신청서에 외국인등록번호 940617-6890156 이 필요합니다. 그리고 복용 중인 약을 알려 주세요.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":466,"content":"휴대폰 배터리 교체 신청 과정에서 번호 860203-7901267 을 입력하셨습니다. 다만 교체 비용이 부과됩니다.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":467,"content":"세무 개인 사업자 전환 신고 시 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 사업 계획서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":468,"content":"학교 기숙사 보증금 환불 신청을 위해 등록번호 881005-6123489 확인되었습니다. 참고로 환불까지 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":469,"content":"은행 카드론 한도 상향 신청 과정에서 외국인등록번호 950521-7234590 을 제출해 주세요. 먼저 소득 증빙이 필요합니다.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":470,"content":"렌터카 차량 반납 연장 신청서에 번호 821107-5345601 이 필요합니다. 그리고 연장료는 일할 계산됩니다.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":471,"content":"인터넷 보안 취약점 점검 신청 시 외국인등록번호 920723-6456712 을 기재하셨습니다. 다만 점검 비용이 발생합니다.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":472,"content":"도서관 자료 제본 신청 과정에서 등록번호 870509-7567823 이 작성되어 있습니다. 또한 제본 비용은 페이지당 백원입니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":473,"content":"병원 외래 예약 변경 확인을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 변경은 1일 전까지입니다.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":474,"content":"통신사 유선 전화 번호 변경 신청을 위해 번호 860711-6789045 을 입력하셨습니다. 먼저 변경 사유를 선택하세요.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":475,"content":"학원 모의 면접 신청서 제출 시 외국인등록번호 930327-7890156 이 필요합니다. 그리고 면접 일정은 추후 공지됩니다.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":476,"content":"자동차 에어컨 점검 예약 과정에서 등록번호 880913-5901267 을 제출하셨습니다. 다만 점검 비용은 2만원입니다.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":477,"content":"은행 인터넷 뱅킹 비밀번호 재설정 신청 시 외국인등록번호 950629-6012378 이 기재되어 있습니다. 또한 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":478,"content":"렌터카 주말 할인 적용 신청을 위해 번호 821215-7123489 확인되었습니다. 참고로 할인율은 30%입니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":479,"content":"온라인 전시 관람 신청 과정에서 외국인등록번호 920901-5234590 을 입력해 주세요. 먼저 관람 일시를 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":480,"content":"부동산 종합부동산세 조회 신청서에 등록번호 871117-6345601 이 필요합니다. 그리고 납부 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":481,"content":"병원 외래 진료 대기 시간 조회 시 외국인등록번호 940603-7456712 을 기재하셨습니다. 다만 대기 시간은 변동될 수 있습니다.","has_sensitive":true,"entities":[{"value":"940603-7456712","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":482,"content":"휴대폰 액정 수리 신청 과정에서 번호 860219-5567823 이 작성되어 있습니다. 또한 수리 비용은 견적 후 안내됩니다.","has_sensitive":true,"entities":[{"value":"860219-5567823","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":483,"content":"세무 고용보험 신고 확인을 위해 외국인등록번호 930905-6678934 확인되었습니다. 참고로 신고는 매월 진행됩니다.","has_sensitive":true,"entities":[{"value":"930905-6678934","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":484,"content":"학교 재입학 신청서 작성 시 등록번호 881121-7789045 을 제출하셨습니다. 먼저 제적 사유를 확인해 주세요.","has_sensitive":true,"entities":[{"value":"881121-7789045","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":485,"content":"은행 통합 계좌 서비스 신청을 위해 외국인등록번호 950707-5890156 이 필요합니다. 그리고 연계 계좌를 등록하세요.","has_sensitive":true,"entities":[{"value":"950707-5890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":486,"content":"렌터카 장기 렌트 신청서에 번호 821023-6901267 을 입력하셨습니다. 다만 최소 계약 기간은 1년입니다.","has_sensitive":true,"entities":[{"value":"821023-6901267","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":487,"content":"인터넷 DDos 방어 서비스 가입 과정에서 외국인등록번호 920809-7012378 이 기재되어 있습니다. 또한 서비스는 연중무휴입니다.","has_sensitive":true,"entities":[{"value":"920809-7012378","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":488,"content":"도서관 학위 논문 열람 신청 확인을 위해 등록번호 870525-5123489 확인되었습니다. 참고로 열람은 관내에서만 가능합니다.","has_sensitive":true,"entities":[{"value":"870525-5123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":489,"content":"병원 외래 처치실 예약 신청을 위해 외국인등록번호 941211-6234590 을 제출해 주세요. 먼저 처방전을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":490,"content":"통신사 번호 보호 서비스 가입 신청서에 번호 860627-7345601 이 필요합니다. 그리고 월 이용료는 무료입니다.","has_sensitive":true,"entities":[{"value":"860627-7345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":491,"content":"학원 학습 진단 평가 신청 과정에서 외국인등록번호 930113-5456712 을 기재하셨습니다. 다만 평가 시간은 2시간입니다.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":492,"content":"자동차 타이어 교체 예약 신청 시 등록번호 880829-6567823 이 작성되어 있습니다. 또한 교체 비용은 타이어 종류에 따라 다릅니다.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":493,"content":"은행 외화 송금 한도 증액 신청을 위해 외국인등록번호 950415-7678934 확인되었습니다. 참고로 증빙 서류를 제출하세요.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":494,"content":"렌터카 차량 인도 장소 변경 신청 과정에서 번호 821109-5789045 을 입력하셨습니다. 먼저 변경 가능 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"821109-5789045","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":495,"content":"온라인 교육 수료증 신청서 제출 시 외국인등록번호 920725-6890156 이 필요합니다. 그리고 수료 조건을 충족하셔야 합니다.","has_sensitive":true,"entities":[{"value":"920725-6890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":496,"content":"부동산 주택 임대 소득 신고 과정에서 등록번호 871011-7901267 을 제출하셨습니다. 다만 세율을 확인해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"871011-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":497,"content":"병원 외래 영상 검사 예약 신청 확인을 위해 외국인등록번호 940527-5012378 이 기재되어 있습니다. 또한 검사 전 주의사항을 확인하세요.","has_sensitive":true,"entities":[{"value":"940527-5012378","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":498,"content":"휴대폰 개통 취소 신청 과정에서 번호 860313-6123489 확인되었습니다. 참고로 취소 수수료가 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"860313-6123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":499,"content":"세무 사업 소득 원천징수 신고 시 외국인등록번호 930921-7234590 을 입력해 주세요. 먼저 원천징수 영수증을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-7234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":500,"content":"학교 계절학기 수강 신청서에 등록번호 881107-5345601 이 필요합니다. 그리고 수강료는 별도 납부입니다.","has_sensitive":true,"entities":[{"value":"881107-5345601","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":501,"content":"은행 모바일 OTP 발급 신청을 위해 외국인등록번호 950623-6456712 을 기재하셨습니다. 다만 스마트폰에 앱을 설치하세요.","has_sensitive":true,"entities":[{"value":"950623-6456712","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":502,"content":"렌터카 여행자 보험 가입 과정에서 번호 821209-7567823 이 작성되어 있습니다. 또한 보험 기간을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"821209-7567823","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":503,"content":"인터넷 망 속도 측정 서비스 신청 시 외국인등록번호 920815-5678934 확인되었습니다. 참고로 측정은 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"920815-5678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":504,"content":"도서관 DVD 대여 신청 확인을 위해 등록번호 871101-6789045 을 제출하셨습니다. 먼저 대여 기간은 3일입니다.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":505,"content":"병원 외래 심리 상담 예약 신청서에 외국인등록번호 940617-7890156 이 필요합니다. 그리고 상담 시간은 50분입니다.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":506,"content":"통신사 발신번호 표시 제한 해제 신청을 위해 번호 860203-5901267 을 입력하셨습니다. 다만 해제까지 1일 소요됩니다.","has_sensitive":true,"entities":[{"value":"860203-5901267","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":507,"content":"학원 여름방학 집중 과정 신청 과정에서 외국인등록번호 930819-6012378 이 기재되어 있습니다. 또한 교재비는 포함되어 있습니다.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":508,"content":"자동차 엔진오일 교환 예약 확인을 위해 등록번호 881005-7123489 확인되었습니다. 참고로 교환 비용은 5만원입니다.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":509,"content":"은행 자동 적립식 예금 가입 신청 시 외국인등록번호 950521-5234590 을 제출해 주세요. 먼저 적립액을 설정하세요.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":510,"content":"렌터카 조기 반납 신청서에 번호 821107-6345601 이 필요합니다. 그리고 차액은 환불되지 않습니다.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":511,"content":"온라인 회의 참가 등록 과정에서 외국인등록번호 920723-7456712 을 기재하셨습니다. 다만 회의 링크는 이메일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":512,"content":"부동산 전세 자금 대출 신청 확인을 위해 등록번호 870509-5567823 이 작성되어 있습니다. 또한 담보 평가가 필요합니다.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":513,"content":"병원 외래 예약 알림 서비스 신청 시 외국인등록번호 941125-6678934 확인되었습니다. 참고로 알림은 문자로 발송됩니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":514,"content":"휴대폰 통신사 변경 신청을 위해 번호 860711-7789045 을 입력하셨습니다. 먼저 번호 이동 절차를 확인하세요.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":515,"content":"세무 법인세 중간 예납 신고 과정에서 외국인등록번호 930327-5890156 이 필요합니다. 그리고 예납액을 계산하세요.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":516,"content":"학교 복학 신청서 제출 확인을 위해 등록번호 880913-6901267 을 제출하셨습니다. 다만 복학 학기를 선택해 주세요.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":517,"content":"은행 예적금 담보 대출 신청 과정에서 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 담보율은 90%입니다.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":518,"content":"렌터카 사고 면책금 안내 확인을 위해 번호 821215-5123489 확인되었습니다. 참고로 면책금은 차량별로 상이합니다.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":519,"content":"인터넷 홈CCTV 서비스 가입 신청 시 외국인등록번호 920901-6234590 을 입력해 주세요. 먼저 설치 장소를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":520,"content":"도서관 단체 대출 신청서에 등록번호 871117-7345601 이 필요합니다. 그리고 대출 권수는 최대 50권입니다.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":17,"end":31,"label":"FOREIGNER_ID"}]}
+{"id":521,"content":"병원 외래 검사 결과 우편 발송 신청을 위해 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 발송 비용이 부과됩니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":522,"content":"통신사 청소년 유해 차단 서비스 가입 과정에서 번호 860219-6567823 이 작성되어 있습니다. 또한 서비스는 무료입니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":523,"content":"학원 보충 수업 신청 확인을 위해 외국인등록번호 930905-7678934 확인되었습니다. 참고로 수업 시간은 협의 가능합니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":524,"content":"자동차 방문 정비 서비스 예약 신청서에 등록번호 881121-5789045 을 제출하셨습니다. 먼저 방문 가능 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":525,"content":"은행 가계 대출 한도 조회 신청을 위해 외국인등록번호 950707-6890156 이 필요합니다. 그리고 소득 증빙이 필요합니다.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":526,"content":"렌터카 차량 선택 변경 신청 과정에서 번호 821023-7901267 을 입력하셨습니다. 다만 차량 등급은 동일해야 합니다.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":527,"content":"온라인 자격증 시험 접수 신청서에 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 응시료는 5만원입니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":528,"content":"부동산 중개 수수료 할인 신청 확인을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 최대 할인율은 30%입니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":529,"content":"병원 외래 당일 수술 동의서 작성 시 외국인등록번호 941211-7234590 을 제출해 주세요. 먼저 금식 안내를 확인하세요.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":530,"content":"휴대폰 화상 통화 서비스 신청을 위해 번호 860627-5345601 이 필요합니다. 그리고 추가 요금은 없습니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":531,"content":"세무 근로소득세 연말정산 신청 과정에서 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 공제 서류를 준비하세요.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":532,"content":"학교 학사 경고 해제 신청서 제출 시 등록번호 880829-7567823 이 작성되어 있습니다. 또한 학업 계획서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":533,"content":"은행 주거래 은행 변경 신청 확인을 위해 외국인등록번호 950415-5678934 확인되었습니다. 참고로 거래 실적이 필요합니다.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":534,"content":"렌터카 24시간 긴급 출동 서비스 신청을 위해 번호 821109-6789045 을 입력하셨습니다. 먼저 서비스 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":535,"content":"인터넷 악성코드 검사 서비스 가입 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 정기 검사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":536,"content":"도서관 멀티미디어 자료실 이용 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 이용 시간은 2시간입니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":537,"content":"병원 외래 영양제 처방 신청 시 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 혈액 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":538,"content":"통신사 스팸 문자 차단 서비스 신청을 위해 번호 860313-7123489 확인되었습니다. 참고로 서비스는 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":539,"content":"학원 겨울방학 특강 등록 과정에서 외국인등록번호 930921-5234590 을 입력해 주세요. 먼저 수강 인원을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":540,"content":"자동차 전기차 충전기 설치 신청서에 등록번호 881107-6345601 이 필요합니다. 그리고 설치 비용은 보조금이 지원됩니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":541,"content":"은행 모바일 간편 송금 서비스 가입 신청을 위해 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 일일 한도가 있습니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":542,"content":"렌터카 차량 흡연 위약금 안내 확인 과정에서 번호 821209-5567823 이 작성되어 있습니다. 또한 위약금은 30만원입니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":543,"content":"온라인 피부과 상담 예약 신청 시 외국인등록번호 920815-6678934 확인되었습니다. 참고로 상담료는 2만원입니다.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":544,"content":"부동산 재건축 동의서 제출 확인을 위해 등록번호 871101-7789045 을 제출하셨습니다. 먼저 조합 가입비를 납부하세요.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":545,"content":"병원 외래 통증 치료 예약 신청서에 외국인등록번호 940617-5890156 이 필요합니다. 그리고 치료 횟수는 10회입니다.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":546,"content":"휴대폰 벨소리 다운로드 서비스 가입 과정에서 번호 860203-6901267 을 입력하셨습니다. 다만 월 이용료는 3천원입니다.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":547,"content":"세무 퇴직소득세 신고 신청 시 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 재직 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":548,"content":"학교 학생증 재발급 신청 과정에서 등록번호 881005-5123489 확인되었습니다. 참고로 재발급 수수료는 5천원입니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":549,"content":"은행 개인 신용 등급 조회 서비스 신청을 위해 외국인등록번호 950521-6234590 을 제출해 주세요. 먼저 동의서를 작성하세요.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":550,"content":"렌터카 외국인 전용 할인 신청서에 번호 821107-7345601 이 필요합니다. 그리고 여권 사본을 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":551,"content":"인터넷 실시간 교통 정보 서비스 가입 시 외국인등록번호 920723-5456712 을 기재하셨습니다. 다만 서비스는 무료입니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":552,"content":"도서관 독서 프로그램 참가 신청 과정에서 등록번호 870509-6567823 이 작성되어 있습니다. 또한 참가비는 무료입니다.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":553,"content":"병원 외래 만성질환 관리 프로그램 신청 확인을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 프로그램 기간은 6개월입니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":554,"content":"통신사 자녀 안심 서비스 가입 신청을 위해 번호 860711-5789045 을 입력하셨습니다. 먼저 자녀 정보를 등록하세요.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":555,"content":"학원 진학 설명회 참석 예약 신청서에 외국인등록번호 930327-6890156 이 필요합니다. 그리고 설명회는 매월 진행됩니다.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":556,"content":"자동차 세차 서비스 예약 확인 과정에서 등록번호 880913-7901267 을 제출하셨습니다. 다만 세차 비용은 2만원입니다.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":557,"content":"은행 상속 재산 계좌 정리 신청 시 외국인등록번호 950629-5012378 이 기재되어 있습니다. 또한 상속 증명서가 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":558,"content":"렌터카 무인 키박스 이용 신청을 위해 번호 821215-6123489 확인되었습니다. 참고로 키박스 위치를 안내해 드립니다.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":559,"content":"온라인 심리 상담 서비스 예약 과정에서 외국인등록번호 920901-7234590 을 입력해 주세요. 먼저 상담 분야를 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":560,"content":"부동산 토지 거래 허가 신청서 제출 시 등록번호 871117-5345601 이 필요합니다. 그리고 토지 이용 계획서를 작성하세요.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":561,"content":"병원 외래 금연 클리닉 등록 신청 확인을 위해 외국인등록번호 940603-6456712 을 기재하셨습니다. 다만 프로그램 기간은 12주입니다.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":562,"content":"휴대폰 음성사서함 서비스 신청 과정에서 번호 860219-7567823 이 작성되어 있습니다. 또한 서비스는 월 천원입니다.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":563,"content":"세무 부가가치세 환급 신청 확인을 위해 외국인등록번호 930905-5678934 확인되었습니다. 참고로 환급까지 한 달 소요됩니다.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":564,"content":"학교 대학원 진학 추천서 신청서에 등록번호 881121-6789045 을 제출하셨습니다. 먼저 교수님께 추천을 요청하세요.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":565,"content":"은행 비상금 대출 신청 과정에서 외국인등록번호 950707-7890156 이 필요합니다. 그리고 한도는 300만원입니다.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":566,"content":"렌터카 차량 옵션 추가 신청서에 번호 821023-5901267 을 입력하셨습니다. 다만 추가 옵션 비용이 부과됩니다.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":567,"content":"인터넷 홈페이지 유지보수 서비스 가입 시 외국인등록번호 920809-6012378 이 기재되어 있습니다. 또한 월 관리비가 발생합니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":568,"content":"도서관 전자 저널 이용 신청 과정에서 등록번호 870525-7123489 확인되었습니다. 참고로 접속은 교내에서만 가능합니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":569,"content":"병원 외래 예방접종 스케줄 상담 신청을 위해 외국인등록번호 941211-5234590 을 제출해 주세요. 먼저 나이를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":570,"content":"통신사 통화 품질 개선 신청서에 번호 860627-6345601 이 필요합니다. 그리고 측정 결과를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":571,"content":"학원 입시 설명회 사전 등록 과정에서 외국인등록번호 930113-7456712 을 기재하셨습니다. 다만 좌석이 한정되어 있습니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":572,"content":"자동차 유리 파손 보험 청구 신청 시 등록번호 880829-5567823 이 작성되어 있습니다. 또한 사고 사진을 제출하세요.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":573,"content":"은행 퇴직 연금 계좌 개설 신청을 위해 외국인등록번호 950415-6678934 확인되었습니다. 참고로 세제 혜택을 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":574,"content":"렌터카 페리 선박 탑승 예약 확인 과정에서 번호 821109-7789045 을 입력하셨습니다. 먼저 선박 운항 시간을 확인하세요.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":575,"content":"온라인 영상 편집 클래스 수강 신청서에 외국인등록번호 920725-5890156 이 필요합니다. 그리고 소프트웨어 설치가 필요합니다.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":576,"content":"부동산 임대차 분쟁 조정 신청 시 등록번호 871011-6901267 을 제출하셨습니다. 다만 조정 신청서를 작성하세요.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":577,"content":"병원 외래 식이요법 상담 예약 과정에서 외국인등록번호 940527-7012378 이 기재되어 있습니다. 또한 혈액 검사 결과를 지참하세요.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":578,"content":"휴대폰 소액 결제 차단 서비스 신청 확인을 위해 번호 860313-5123489 확인되었습니다. 참고로 차단은 즉시 적용됩니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":579,"content":"세무 지방 소득세 신고 과정에서 외국인등록번호 930921-6234590 을 입력해 주세요. 먼저 소득 금액을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":580,"content":"학교 해외 교환학생 지원 신청서에 등록번호 881107-7345601 이 필요합니다. 그리고 어학 점수 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":581,"content":"은행 디지털 자산 관리 서비스 가입 신청을 위해 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 보안 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":582,"content":"렌터카 항공권 결제 대행 서비스 신청 과정에서 번호 821209-6567823 이 작성되어 있습니다. 또한 수수료는 3%입니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":583,"content":"인터넷 SSL 인증서 발급 신청 시 외국인등록번호 920815-7678934 확인되었습니다. 참고로 인증서 유효기간은 1년입니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":584,"content":"도서관 학술 자료 검색 서비스 신청을 위해 등록번호 871101-5789045 을 제출하셨습니다. 먼저 검색 범위를 설정하세요.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":585,"content":"병원 외래 운동 처방 프로그램 신청서에 외국인등록번호 940617-6890156 이 필요합니다. 그리고 체력 측정을 먼저 진행합니다.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":586,"content":"통신사 해외 여행자 로밍 패키지 가입 과정에서 번호 860203-7901267 을 입력하셨습니다. 다만 패키지 요금을 확인하세요.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":587,"content":"학원 온라인 모의고사 신청 확인을 위해 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 시험 시간은 4교시입니다.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":588,"content":"자동차 썬팅 시공 예약 신청서에 등록번호 881005-6123489 확인되었습니다. 참고로 시공 시간은 3시간입니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":589,"content":"은행 가상 계좌 발급 신청을 위해 외국인등록번호 950521-7234590 을 제출해 주세요. 먼저 사용 목적을 선택하세요.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":590,"content":"렌터카 장거리 여행 보험 가입 과정에서 번호 821107-5345601 이 필요합니다. 그리고 여행 일정을 알려 주세요.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":591,"content":"온라인 요리 클래스 등록 신청서에 외국인등록번호 920723-6456712 을 입력하셨습니다. 다만 재료비는 별도입니다.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":592,"content":"부동산 공실 관리 대행 서비스 신청 시 등록번호 870509-7567823 이 기재되어 있습니다. 또한 수수료는 월세의 5%입니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":593,"content":"병원 외래 수면 장애 클리닉 예약 확인을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 초진 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":594,"content":"휴대폰 보조 배터리 대여 서비스 신청 과정에서 번호 860711-6789045 을 제출하셨습니다. 먼저 보증금을 납부해 주세요.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":595,"content":"세무 재산세 이의 신청 확인을 위해 외국인등록번호 930327-7890156 이 필요합니다. 그리고 재산 평가서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":596,"content":"학교 학점 교류 인정 신청서에 등록번호 880913-5901267 을 기재하셨습니다. 다만 성적 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":597,"content":"은행 통합 자산 관리 서비스 신청 과정에서 외국인등록번호 950629-6012378 이 작성되어 있습니다. 또한 투자 성향 분석이 진행됩니다.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":598,"content":"렌터카 차량 내비게이션 업데이트 신청을 위해 번호 821215-7123489 확인되었습니다. 참고로 업데이트는 무료입니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":599,"content":"인터넷 데이터 복구 서비스 신청 시 외국인등록번호 920901-5234590 을 입력해 주세요. 먼저 데이터 용량을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":600,"content":"도서관 도서 기증 인증서 발급 신청을 위해 등록번호 871117-6345601 이 필요합니다. 그리고 기증 목록을 작성해 주세요.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":601,"content":"병원 외래 한방 진료 예약 신청서에 외국인등록번호 940603-7456712 을 기재하셨습니다. 다만 초진 문진표를 작성하세요.","has_sensitive":true,"entities":[{"value":"940603-7456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":602,"content":"통신사 가족 공유 데이터 서비스 가입 과정에서 번호 860219-5567823 이 작성되어 있습니다. 또한 가족 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"860219-5567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":603,"content":"학원 컨설팅 프로그램 신청 확인을 위해 외국인등록번호 930905-6678934 확인되었습니다. 참고로 상담 시간은 1시간입니다.","has_sensitive":true,"entities":[{"value":"930905-6678934","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":604,"content":"자동차 도색 작업 예약 신청서에 등록번호 881121-7789045 을 제출하셨습니다. 먼저 색상 샘플을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"881121-7789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":605,"content":"은행 CMA 통장 개설 신청을 위해 외국인등록번호 950707-5890156 이 필요합니다. 그리고 최소 가입액은 백만원입니다.","has_sensitive":true,"entities":[{"value":"950707-5890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":606,"content":"렌터카 공항 셔틀 서비스 예약 과정에서 번호 821023-6901267 을 입력하셨습니다. 다만 픽업 시간을 정확히 알려 주세요.","has_sensitive":true,"entities":[{"value":"821023-6901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":607,"content":"온라인 음악 스트리밍 가입 신청서에 외국인등록번호 920809-7012378 이 기재되어 있습니다. 또한 무료 체험 기간은 1개월입니다.","has_sensitive":true,"entities":[{"value":"920809-7012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":608,"content":"부동산 건물 관리비 조회 확인을 위해 등록번호 870525-5123489 확인되었습니다. 참고로 관리비는 매월 15일 청구됩니다.","has_sensitive":true,"entities":[{"value":"870525-5123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":609,"content":"병원 외래 응급 처치 교육 신청을 위해 외국인등록번호 941211-6234590 을 제출해 주세요. 먼저 교육 일정을 확인하세요.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":610,"content":"휴대폰 긴급 충전 서비스 신청 과정에서 번호 860627-7345601 이 필요합니다. 그리고 충전소 위치를 안내해 드립니다.","has_sensitive":true,"entities":[{"value":"860627-7345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":611,"content":"세무 기업 소득세 예정 신고 신청서에 외국인등록번호 930113-5456712 을 기재하셨습니다. 다만 재무제표를 첨부하세요.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":612,"content":"학교 학생 활동 확인서 발급 과정에서 등록번호 880829-6567823 이 작성되어 있습니다. 또한 활동 내역을 기재하세요.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":613,"content":"은행 안심 계좌 전환 신청 확인을 위해 외국인등록번호 950415-7678934 확인되었습니다. 참고로 전환은 즉시 처리됩니다.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":614,"content":"렌터카 스키 캐리어 대여 신청을 위해 번호 821109-5789045 을 입력해 주세요. 먼저 대여 기간을 선택하세요.","has_sensitive":true,"entities":[{"value":"821109-5789045","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":615,"content":"인터넷 방화벽 설정 서비스 가입 신청서에 외국인등록번호 920725-6890156 이 필요합니다. 그리고 네트워크 정보를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"920725-6890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":616,"content":"도서관 개인 열람실 예약 과정에서 등록번호 871011-7901267 을 제출하셨습니다. 다만 예약은 2주 전부터 가능합니다.","has_sensitive":true,"entities":[{"value":"871011-7901267","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":617,"content":"병원 외래 청력 검사 예약 신청 시 외국인등록번호 940527-5012378 이 기재되어 있습니다. 또한 검사 시간은 30분입니다.","has_sensitive":true,"entities":[{"value":"940527-5012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":618,"content":"통신사 부가 서비스 일괄 해지 신청을 위해 번호 860313-6123489 확인되었습니다. 참고로 해지는 익일 적용됩니다.","has_sensitive":true,"entities":[{"value":"860313-6123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":619,"content":"학원 입학 테스트 일정 조회 과정에서 외국인등록번호 930921-7234590 을 입력하셨습니다. 먼저 과목을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"930921-7234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":620,"content":"자동차 하이브리드 배터리 점검 예약 신청서에 등록번호 881107-5345601 이 필요합니다. 그리고 점검 비용은 무료입니다.","has_sensitive":true,"entities":[{"value":"881107-5345601","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":621,"content":"은행 소액 투자 상품 가입 신청을 위해 외국인등록번호 950623-6456712 을 기재하셨습니다. 다만 최소 가입액은 만원입니다.","has_sensitive":true,"entities":[{"value":"950623-6456712","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":622,"content":"렌터카 주차 대행 서비스 신청 과정에서 번호 821209-7567823 이 작성되어 있습니다. 또한 대행 비용은 시간당 5천원입니다.","has_sensitive":true,"entities":[{"value":"821209-7567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":623,"content":"온라인 원격 의료 상담 예약 확인을 위해 외국인등록번호 920815-5678934 확인되었습니다. 참고로 상담은 화상으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"920815-5678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":624,"content":"부동산 상가 권리금 평가 의뢰 신청서에 등록번호 871101-6789045 을 제출해 주세요. 먼저 상가 면적을 알려 주세요.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":625,"content":"병원 외래 알레르기 검사 예약 과정에서 외국인등록번호 940617-7890156 이 필요합니다. 그리고 검사 항목은 50종입니다.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":626,"content":"휴대폰 위치 기반 서비스 동의 신청을 위해 번호 860203-5901267 을 입력하셨습니다. 다만 위치 정보가 수집됩니다.","has_sensitive":true,"entities":[{"value":"860203-5901267","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":627,"content":"세무 세금 납부 증명서 발급 신청서에 외국인등록번호 930819-6012378 이 기재되어 있습니다. 또한 발급은 당일 가능합니다.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":628,"content":"학교 학위 기록 정정 신청 확인을 위해 등록번호 881005-7123489 확인되었습니다. 참고로 정정 사유서를 제출하세요.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":629,"content":"은행 개인종합자산관리계좌 개설 과정에서 외국인등록번호 950521-5234590 을 제출하셨습니다. 먼저 투자 목적을 선택하세요.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":630,"content":"렌터카 차량 견인 서비스 요청 신청을 위해 번호 821107-6345601 이 필요합니다. 그리고 현재 위치를 알려 주세요.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":631,"content":"인터넷 프리미엄 속도 업그레이드 신청서에 외국인등록번호 920723-7456712 을 기재하셨습니다. 다만 월 요금이 인상됩니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":632,"content":"도서관 디지털 아카이브 이용 신청 과정에서 등록번호 870509-5567823 이 작성되어 있습니다. 또한 접속 권한이 부여됩니다.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":633,"content":"병원 외래 당뇨 관리 프로그램 등록 확인을 위해 외국인등록번호 941125-6678934 확인되었습니다. 참고로 프로그램은 3개월 과정입니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":634,"content":"통신사 장애인 요금 감면 신청을 위해 번호 860711-7789045 을 입력해 주세요. 먼저 장애인 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":635,"content":"학원 단기 집중 과정 등록 과정에서 외국인등록번호 930327-5890156 이 필요합니다. 그리고 과정 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":636,"content":"자동차 차체 수리 견적 신청서에 등록번호 880913-6901267 을 제출하셨습니다. 다만 현장 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":637,"content":"은행 주택 청약 종합 저축 가입 신청 시 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 매월 납입액을 설정하세요.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":638,"content":"렌터카 장기 렌탈 할인 상담 예약을 위해 번호 821215-5123489 확인되었습니다. 참고로 계약 기간은 최소 2년입니다.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":639,"content":"온라인 쇼핑 정기 배송 서비스 신청 과정에서 외국인등록번호 920901-6234590 을 입력하셨습니다. 먼저 배송 주기를 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":640,"content":"부동산 경매 물건 조사 보고서 신청서에 등록번호 871117-7345601 이 필요합니다. 그리고 조사 비용은 20만원입니다.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":641,"content":"병원 외래 금연 보조제 처방 신청을 위해 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 진료 상담이 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":642,"content":"휴대폰 해외 직구 대행 서비스 가입 과정에서 번호 860219-6567823 이 작성되어 있습니다. 또한 통관 절차가 진행됩니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":643,"content":"세무 종합 부동산세 납부 확인을 위해 외국인등록번호 930905-7678934 확인되었습니다. 참고로 납부 기한은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":644,"content":"학교 평생 교육원 수강 신청서에 등록번호 881121-5789045 을 제출해 주세요. 먼저 강좌 목록을 확인하세요.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":645,"content":"은행 해외 주식 거래 계좌 개설 신청을 위해 외국인등록번호 950707-6890156 이 필요합니다. 그리고 거래 수수료를 확인하세요.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":646,"content":"렌터카 프리미엄 차량 예약 과정에서 번호 821023-7901267 을 입력하셨습니다. 다만 추가 요금이 부과됩니다.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":647,"content":"인터넷 웹 보안 서비스 연장 신청서에 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 자동 갱신됩니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":648,"content":"도서관 특별 컬렉션 열람 신청 확인을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 사전 예약이 필수입니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":649,"content":"병원 외래 피부과 레이저 시술 예약을 위해 외국인등록번호 941211-7234590 을 제출하셨습니다. 먼저 상담 일정을 잡겠습니다.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":650,"content":"통신사 데이터 무제한 요금제 문의 과정에서 번호 860627-5345601 이 필요합니다. 그리고 요금표를 안내해 드리겠습니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":651,"content":"학원 토익 집중 반 등록 신청서에 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 레벨 테스트가 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":652,"content":"자동차 하이패스 단말기 장착 예약 과정에서 등록번호 880829-7567823 이 작성되어 있습니다. 또한 장착 비용은 5만원입니다.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":653,"content":"은행 외화 입출금 통장 개설 신청 확인을 위해 외국인등록번호 950415-5678934 확인되었습니다. 참고로 외화 종류를 선택하세요.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":654,"content":"렌터카 비대면 차량 인수 서비스 신청을 위해 번호 821109-6789045 을 입력해 주세요. 먼저 앱을 다운로드하세요.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":655,"content":"온라인 웹툰 유료 구독 신청 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 결제 방법을 선택하세요.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":656,"content":"부동산 오피스텔 분양 상담 예약 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 모델하우스 방문이 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":657,"content":"병원 외래 척추 교정 치료 예약 신청 시 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 X-ray 촬영이 필요합니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":658,"content":"휴대폰 스마트워치 연동 서비스 신청을 위해 번호 860313-7123489 확인되었습니다. 참고로 블루투스 페어링이 필요합니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":659,"content":"세무 개인 사업자 부가세 환급 과정에서 외국인등록번호 930921-5234590 을 입력하셨습니다. 먼저 세금계산서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":660,"content":"학교 온라인 수업 수강 신청 확인을 위해 등록번호 881107-6345601 이 필요합니다. 그리고 접속 방법을 안내해 드립니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":661,"content":"은행 자동 환전 서비스 가입 신청서에 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 우대 환율이 적용됩니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":662,"content":"렌터카 눈길 운전 안전 교육 신청 과정에서 번호 821209-5567823 이 작성되어 있습니다. 또한 교육 시간은 2시간입니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":663,"content":"인터넷 화상 회의 솔루션 도입 신청 확인을 위해 외국인등록번호 920815-6678934 확인되었습니다. 참고로 무료 시범 기간이 있습니다.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":664,"content":"도서관 귀중본 열람 허가 신청을 위해 등록번호 871101-7789045 을 제출해 주세요. 먼저 연구 목적을 명시하세요.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":665,"content":"병원 외래 정형외과 도수 치료 예약 과정에서 외국인등록번호 940617-5890156 이 필요합니다. 그리고 치료 계획을 수립하겠습니다.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":666,"content":"통신사 알뜰폰 가입 신청서에 번호 860203-6901267 을 입력하셨습니다. 다만 기존 번호 이동이 가능합니다.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":18,"end":32,"label":"FOREIGNER_ID"}]}
+{"id":667,"content":"학원 영재 교육 프로그램 신청 확인을 위해 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 적성 검사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":668,"content":"자동차 실내 크리닝 서비스 예약 신청서에 등록번호 881005-5123489 확인되었습니다. 참고로 작업 시간은 3시간입니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":669,"content":"은행 비과세 종합저축 가입 과정에서 외국인등록번호 950521-6234590 을 제출하셨습니다. 먼저 가입 자격을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":670,"content":"렌터카 차량 교환권 사용 신청을 위해 번호 821107-7345601 이 필요합니다. 그리고 교환 가능 차종을 안내해 드립니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":671,"content":"온라인 펫 용품 정기 배송 서비스 신청서에 외국인등록번호 920723-5456712 을 기재하셨습니다. 다만 첫 구매 시 할인됩니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":672,"content":"부동산 다가구 주택 매매 계약 과정에서 등록번호 870509-6567823 이 작성되어 있습니다. 또한 등기 이전이 필요합니다.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":673,"content":"병원 외래 산후 조리 상담 예약 확인을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 상담료는 무료입니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":674,"content":"휴대폰 와이파이 통화 서비스 신청을 위해 번호 860711-5789045 을 입력해 주세요. 먼저 와이파이에 연결하세요.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":675,"content":"세무 가산세 감면 신청 과정에서 외국인등록번호 930327-6890156 이 필요합니다. 그리고 사유서를 작성해 주세요.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":676,"content":"학교 산학 협력 프로그램 지원 신청서에 등록번호 880913-7901267 을 제출하셨습니다. 다만 기업 추천서가 필요합니다.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":677,"content":"은행 모바일 뱅킹 이체 한도 상향 신청 시 외국인등록번호 950629-5012378 이 기재되어 있습니다. 또한 보안 강화가 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":678,"content":"렌터카 국제 면허증 인증 서비스 신청을 위해 번호 821215-6123489 확인되었습니다. 참고로 여권 사본도 필요합니다.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":679,"content":"인터넷 블로그 호스팅 서비스 가입 과정에서 외국인등록번호 920901-7234590 을 입력하셨습니다. 먼저 블로그 주제를 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":680,"content":"도서관 평생 회원 등록 신청 확인을 위해 등록번호 871117-5345601 이 필요합니다. 그리고 회원 혜택을 안내해 드립니다.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":681,"content":"병원 외래 건강 검진 패키지 예약 신청서에 외국인등록번호 940603-6456712 을 기재하셨습니다. 다만 공복 상태로 내원하세요.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":682,"content":"통신사 IoT 기기 연결 서비스 가입 과정에서 번호 860219-7567823 이 작성되어 있습니다. 또한 기기 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":683,"content":"학원 예체능 특기 강좌 신청 확인을 위해 외국인등록번호 930905-5678934 확인되었습니다. 참고로 개인 레슨도 가능합니다.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":684,"content":"자동차 부품 교체 이력 조회 신청을 위해 등록번호 881121-6789045 을 제출해 주세요. 먼저 차대번호를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":685,"content":"은행 장기 저축성 보험 가입 신청서에 외국인등록번호 950707-7890156 이 필요합니다. 그리고 납입 기간을 선택하세요.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":686,"content":"렌터카 멀티 드라이버 등록 과정에서 번호 821023-5901267 을 입력하셨습니다. 다만 각 운전자의 면허증이 필요합니다.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":687,"content":"온라인 외국어 과외 매칭 서비스 신청 시 외국인등록번호 920809-6012378 이 기재되어 있습니다. 또한 희망 시간대를 알려 주세요.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":688,"content":"부동산 주거 환경 개선 융자 신청 확인을 위해 등록번호 870525-7123489 확인되었습니다. 참고로 주택 소유 증명이 필요합니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":689,"content":"병원 외래 만성 통증 클리닉 등록 신청을 위해 외국인등록번호 941211-5234590 을 제출하셨습니다. 먼저 통증 부위를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":690,"content":"휴대폰 망 사용료 청구 이의 신청 과정에서 번호 860627-6345601 이 필요합니다. 그리고 사용 내역을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":691,"content":"세무 기장 대행 서비스 의뢰 신청서에 외국인등록번호 930113-7456712 을 기재하셨습니다. 다만 월 기장료가 발생합니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":692,"content":"학교 학점 인정 심사 신청 확인을 위해 등록번호 880829-5567823 이 작성되어 있습니다. 또한 성적 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":693,"content":"은행 가족 신탁 계좌 개설 과정에서 외국인등록번호 950415-6678934 확인되었습니다. 참고로 수익자를 지정해야 합니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":694,"content":"렌터카 차량 사고 이력 조회 신청을 위해 번호 821109-7789045 을 입력해 주세요. 먼저 차량번호를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":695,"content":"인터넷 사이버 보안 진단 서비스 신청서에 외국인등록번호 920725-5890156 이 필요합니다. 그리고 진단 일정을 협의하겠습니다.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":696,"content":"도서관 논문 검색 서비스 이용 신청 과정에서 등록번호 871011-6901267 을 제출하셨습니다. 다만 학술 목적만 가능합니다.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":697,"content":"병원 외래 비만 관리 프로그램 예약 확인을 위해 외국인등록번호 940527-7012378 이 기재되어 있습니다. 또한 식단 관리가 포함됩니다.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":698,"content":"통신사 데이터 선물 서비스 신청을 위해 번호 860313-5123489 확인되었습니다. 참고로 가족 간에만 가능합니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":699,"content":"학원 학부모 상담 예약 과정에서 외국인등록번호 930921-6234590 을 입력하셨습니다. 먼저 상담 내용을 간단히 알려 주세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":700,"content":"자동차 친환경 차량 보조금 신청서에 등록번호 881107-7345601 이 필요합니다. 그리고 차량 등록증을 첨부하세요.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":701,"content":"은행 청년 우대형 적금 가입 신청 확인을 위해 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 연령 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":702,"content":"렌터카 VIP 회원 등급 승급 신청 과정에서 번호 821209-6567823 이 작성되어 있습니다. 또한 이용 실적을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":703,"content":"온라인 명상 클래스 수강 등록 신청서에 외국인등록번호 920815-7678934 확인되었습니다. 참고로 실시간 방송으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":704,"content":"부동산 상속 재산 분할 협의 신청을 위해 등록번호 871101-5789045 을 제출해 주세요. 먼저 상속인 관계를 확인하세요.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":705,"content":"병원 외래 신경과 검진 예약 과정에서 외국인등록번호 940617-6890156 이 필요합니다. 그리고 MRI 촬영이 포함됩니다.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":706,"content":"휴대폰 분실폰 원격 잠금 서비스 신청 시 번호 860203-7901267 을 입력하셨습니다. 다만 즉시 잠금 처리됩니다.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":707,"content":"세무 간이 과세자 전환 신청서에 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 사업장 현황을 작성하세요.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":708,"content":"학교 도서관 희귀본 대출 신청 확인을 위해 등록번호 881005-6123489 확인되었습니다. 참고로 학내 열람만 가능합니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":709,"content":"은행 퇴직 급여 일시금 지급 신청 과정에서 외국인등록번호 950521-7234590 을 제출하셨습니다. 먼저 퇴직 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":710,"content":"렌터카 차량 내부 옵션 변경 신청을 위해 번호 821107-5345601 이 필요합니다. 그리고 변경 가능 항목을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":711,"content":"인터넷 랜섬웨어 보안 솔루션 가입 신청서에 외국인등록번호 920723-6456712 을 기재하셨습니다. 다만 정기 업데이트가 필요합니다.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":712,"content":"도서관 원문 복사 배송 서비스 신청 과정에서 등록번호 870509-7567823 이 작성되어 있습니다. 또한 배송비가 추가됩니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":713,"content":"병원 외래 소아과 예방접종 예약 확인을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 접종 증명서를 지참하세요.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":714,"content":"통신사 부가 통화 서비스 해지 신청을 위해 번호 860711-6789045 을 입력해 주세요. 먼저 해지 사유를 선택하세요.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":715,"content":"학원 과목별 담임 배정 신청 과정에서 외국인등록번호 930327-7890156 이 필요합니다. 그리고 희망 과목을 선택하세요.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":716,"content":"자동차 하이브리드 정비 교육 신청서에 등록번호 880913-5901267 을 제출하셨습니다. 다만 자격 요건을 확인하세요.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":717,"content":"은행 주거래 우대 금리 신청 확인을 위해 외국인등록번호 950629-6012378 이 기재되어 있습니다. 또한 거래 실적 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":718,"content":"렌터카 휴가철 사전 예약 할인 신청 과정에서 번호 821215-7123489 확인되었습니다. 참고로 선착순 마감입니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":719,"content":"온라인 재테크 강좌 수강 신청을 위해 외국인등록번호 920901-5234590 을 입력하셨습니다. 먼저 수준별 반을 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":720,"content":"부동산 주택 연금 가입 상담 예약 신청서에 등록번호 871117-6345601 이 필요합니다. 그리고 주택 가격을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":721,"content":"병원 외래 재활 운동 치료 등록 과정에서 외국인등록번호 940603-7456712 을 기재하셨습니다. 다만 운동 능력 평가가 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-7456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":722,"content":"휴대폰 전자 지갑 서비스 등록 신청 시 번호 860219-5567823 이 작성되어 있습니다. 또한 카드 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"860219-5567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":723,"content":"세무 수출입 신고 대행 의뢰 확인을 위해 외국인등록번호 930905-6678934 확인되었습니다. 참고로 통관 서류가 필요합니다.","has_sensitive":true,"entities":[{"value":"930905-6678934","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":724,"content":"학교 학술 대회 발표자 등록 신청을 위해 등록번호 881121-7789045 을 제출해 주세요. 먼저 발표 주제를 제출하세요.","has_sensitive":true,"entities":[{"value":"881121-7789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":725,"content":"은행 신용 회복 지원 프로그램 신청 과정에서 외국인등록번호 950707-5890156 이 필요합니다. 그리고 채무 현황을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"950707-5890156","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":726,"content":"렌터카 차량 스마트키 분실 신고 신청서에 번호 821023-6901267 을 입력하셨습니다. 다만 재발급 비용이 발생합니다.","has_sensitive":true,"entities":[{"value":"821023-6901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":727,"content":"인터넷 서버 증설 서비스 신청 확인을 위해 외국인등록번호 920809-7012378 이 기재되어 있습니다. 또한 트래픽 분석이 필요합니다.","has_sensitive":true,"entities":[{"value":"920809-7012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":728,"content":"도서관 장서 구입 희망 도서 신청 과정에서 등록번호 870525-5123489 확인되었습니다. 참고로 심사 후 구입됩니다.","has_sensitive":true,"entities":[{"value":"870525-5123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":729,"content":"병원 외래 호흡기 내과 진료 예약을 위해 외국인등록번호 941211-6234590 을 제출하셨습니다. 먼저 증상을 자세히 알려 주세요.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":730,"content":"통신사 장기 고객 감사 이벤트 참여 신청서에 번호 860627-7345601 이 필요합니다. 그리고 자동 응모됩니다.","has_sensitive":true,"entities":[{"value":"860627-7345601","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":731,"content":"학원 수능 대비 모의고사 응시 신청 과정에서 외국인등록번호 930113-5456712 을 기재하셨습니다. 다만 응시료가 별도입니다.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":732,"content":"자동차 긴급 견인 보험 가입 확인을 위해 등록번호 880829-6567823 이 작성되어 있습니다. 또한 연회비가 발생합니다.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":733,"content":"은행 중도 해지 위약금 면제 신청 과정에서 외국인등록번호 950415-7678934 확인되었습니다. 참고로 특별 사유가 필요합니다.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":734,"content":"렌터카 차량 외장 손상 점검 신청을 위해 번호 821109-5789045 을 입력해 주세요. 먼저 손상 부위를 사진으로 보내주세요.","has_sensitive":true,"entities":[{"value":"821109-5789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":735,"content":"온라인 디자인 툴 구독 서비스 신청서에 외국인등록번호 920725-6890156 이 필요합니다. 그리고 사용 플랜을 선택하세요.","has_sensitive":true,"entities":[{"value":"920725-6890156","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":736,"content":"부동산 빌라 전세 계약 갱신 신청 확인을 위해 등록번호 871011-7901267 을 제출하셨습니다. 다만 임대료 협의가 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-7901267","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":737,"content":"병원 외래 당일 입원 수속 과정에서 외국인등록번호 940527-5012378 이 기재되어 있습니다. 또한 보호자 동행이 필요합니다.","has_sensitive":true,"entities":[{"value":"940527-5012378","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":738,"content":"휴대폰 가족 공유 플랜 가입 신청을 위해 번호 860313-6123489 확인되었습니다. 참고로 최대 5명까지 가능합니다.","has_sensitive":true,"entities":[{"value":"860313-6123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":739,"content":"세무 감면 혜택 사전 신청 과정에서 외국인등록번호 930921-7234590 을 입력하셨습니다. 먼저 감면 대상 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-7234590","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":740,"content":"학교 실험실 안전 교육 수강 신청서에 등록번호 881107-5345601 이 필요합니다. 그리고 이수증이 발급됩니다.","has_sensitive":true,"entities":[{"value":"881107-5345601","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":741,"content":"은행 골드 등급 회원 혜택 신청 확인을 위해 외국인등록번호 950623-6456712 을 기재하셨습니다. 다만 등급 조건을 충족해야 합니다.","has_sensitive":true,"entities":[{"value":"950623-6456712","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":742,"content":"렌터카 차량 배터리 방전 출동 요청 과정에서 번호 821209-7567823 이 작성되어 있습니다. 또한 위치를 정확히 알려 주세요.","has_sensitive":true,"entities":[{"value":"821209-7567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":743,"content":"인터넷 광고 차단 프로그램 설치 신청 시 외국인등록번호 920815-5678934 확인되었습니다. 참고로 설치는 무료입니다.","has_sensitive":true,"entities":[{"value":"920815-5678934","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":744,"content":"도서관 학위 논문 제출 승인 신청을 위해 등록번호 871101-6789045 을 제출해 주세요. 먼저 표절 검사를 완료하세요.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":745,"content":"병원 외래 비뇨기과 검진 예약 과정에서 외국인등록번호 940617-7890156 이 필요합니다. 그리고 검사 전 주의사항을 확인하세요.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":746,"content":"통신사 요금 할인 쿠폰 등록 신청서에 번호 860203-5901267 을 입력하셨습니다. 다만 유효 기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"860203-5901267","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":747,"content":"학원 내신 대비 반편성 테스트 신청 확인을 위해 외국인등록번호 930819-6012378 이 기재되어 있습니다. 또한 테스트는 무료입니다.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":748,"content":"자동차 전기차 충전 카드 발급 과정에서 등록번호 881005-7123489 확인되었습니다. 참고로 발급 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":749,"content":"은행 변동 금리 전환 신청을 위해 외국인등록번호 950521-5234590 을 제출하셨습니다. 먼저 금리 변동 추이를 확인하세요.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":750,"content":"렌터카 차량 예약 취소 환불 신청서에 번호 821107-6345601 이 필요합니다. 그리고 취소 수수료가 공제됩니다.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":751,"content":"온라인 구독 서비스 자동 갱신 해제 과정에서 외국인등록번호 920723-7456712 을 기재하셨습니다. 다만 해제 전 확인 메시지가 발송됩니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":752,"content":"부동산 공동 명의 등기 신청 확인을 위해 등록번호 870509-5567823 이 작성되어 있습니다. 또한 지분율을 명시하세요.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":753,"content":"병원 외래 안과 시력 교정 상담 예약을 위해 외국인등록번호 941125-6678934 확인되었습니다. 참고로 정밀 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":754,"content":"휴대폰 5G 요금제 전환 신청 과정에서 번호 860711-7789045 을 입력해 주세요. 먼저 5G 지원 기기를 확인하세요.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":755,"content":"세무 폐업 신고 완료 확인서 발급 신청서에 외국인등록번호 930327-5890156 이 필요합니다. 그리고 사업자 등록증을 반납하세요.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":756,"content":"학교 교환 학점 인정 심사 신청 확인을 위해 등록번호 880913-6901267 을 제출하셨습니다. 다만 성적표를 번역해 주세요.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":757,"content":"은행 온라인 전용 계좌 개설 과정에서 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 비대면 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":758,"content":"렌터카 차량 인도 시간 변경 신청을 위해 번호 821215-5123489 확인되었습니다. 참고로 변경은 2회까지 가능합니다.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":759,"content":"인터넷 웹사이트 성능 최적화 서비스 신청 시 외국인등록번호 920901-6234590 을 입력하셨습니다. 먼저 현재 속도를 측정하겠습니다.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":760,"content":"도서관 상호 대차 서비스 신청 과정에서 등록번호 871117-7345601 이 필요합니다. 그리고 대출 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":761,"content":"병원 외래 한방 침 치료 예약 신청서에 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 치료 횟수는 10회 권장됩니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":762,"content":"통신사 해외 장기 체류자 요금제 가입 확인을 위해 번호 860219-6567823 이 작성되어 있습니다. 또한 여권 사본이 필요합니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":763,"content":"학원 입시 컨설팅 프로그램 등록 과정에서 외국인등록번호 930905-7678934 확인되었습니다. 참고로 1:1 맞춤 상담입니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":764,"content":"자동차 무상 점검 서비스 예약 신청을 위해 등록번호 881121-5789045 을 제출해 주세요. 먼저 보증 기간을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":765,"content":"은행 금융 상담 예약 신청서에 외국인등록번호 950707-6890156 이 필요합니다. 그리고 상담 분야를 선택해 주세요.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":19,"end":33,"label":"FOREIGNER_ID"}]}
+{"id":766,"content":"렌터카 운전자 추가 보험 가입 과정에서 번호 821023-7901267 을 입력하셨습니다. 다만 추가 보험료가 발생합니다.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":767,"content":"온라인 클라우드 저장 공간 확장 신청 시 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 월 이용료가 인상됩니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":768,"content":"부동산 재건축 추진 위원회 참여 신청을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 조합원 자격이 필요합니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":769,"content":"병원 외래 영양 주사 처방 예약 과정에서 외국인등록번호 941211-7234590 을 제출하셨습니다. 먼저 혈액 검사 결과를 확인하세요.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":770,"content":"휴대폰 통화 녹음 서비스 신청 확인을 위해 번호 860627-5345601 이 필요합니다. 그리고 저장 기간은 3개월입니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":771,"content":"세무 연구 개발비 세액 공제 신청서에 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 연구 실적 증명이 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":772,"content":"학교 외국인 유학생 지원 프로그램 신청 과정에서 등록번호 880829-7567823 이 작성되어 있습니다. 또한 어학 능력을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":773,"content":"은행 자산 관리 포트폴리오 구성 신청 확인을 위해 외국인등록번호 950415-5678934 확인되었습니다. 참고로 투자 성향 분석이 진행됩니다.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":774,"content":"렌터카 장애인 편의 차량 예약 신청을 위해 번호 821109-6789045 을 입력해 주세요. 먼저 장애인 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":775,"content":"인터넷 DDoS 공격 방어 시스템 가입 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 보안 등급을 선택하세요.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":776,"content":"도서관 귀중 자료 디지털화 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 승인 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":777,"content":"병원 외래 산부인과 정기 검진 예약 확인을 위해 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 초음파 검사가 포함됩니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":778,"content":"통신사 키즈폰 안심 서비스 가입 신청 과정에서 번호 860313-7123489 확인되었습니다. 참고로 위치 추적이 가능합니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":779,"content":"학원 대학별 입시 전략 설명회 참가 신청을 위해 외국인등록번호 930921-5234590 을 입력하셨습니다. 먼저 희망 대학을 선택하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":780,"content":"자동차 차량 용품 할부 구매 신청서에 등록번호 881107-6345601 이 필요합니다. 그리고 신용도 확인이 진행됩니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":781,"content":"은행 사잇돌 대출 신청 과정에서 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 소득 증빙이 필수입니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":782,"content":"렌터카 차량 픽업 장소 변경 요청 확인을 위해 번호 821209-5567823 이 작성되어 있습니다. 또한 변경 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":783,"content":"온라인 코딩 교육 플랫폼 가입 신청 시 외국인등록번호 920815-6678934 확인되었습니다. 참고로 무료 강의가 제공됩니다.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":784,"content":"부동산 토지 분할 신청서 제출 과정에서 등록번호 871101-7789045 을 입력해 주세요. 먼저 측량 도면이 필요합니다.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":785,"content":"병원 외래 암 검진 센터 예약 신청을 위해 외국인등록번호 940617-5890156 이 필요합니다. 그리고 가족력을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":786,"content":"휴대폰 음성 통화 품질 개선 요청 신청서에 번호 860203-6901267 을 제출하셨습니다. 다만 측정 기간이 필요합니다.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":787,"content":"세무 기부금 영수증 발급 신청 확인을 위해 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 기부 내역을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":788,"content":"학교 교직원 주차 스티커 발급 과정에서 등록번호 881005-5123489 확인되었습니다. 참고로 차량 등록증이 필요합니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":789,"content":"은행 정기 예금 만기 자동 재예치 신청을 위해 외국인등록번호 950521-6234590 을 입력하셨습니다. 먼저 금리를 확인하세요.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":790,"content":"렌터카 차량 반납 지연 사전 통보 신청서에 번호 821107-7345601 이 필요합니다. 그리고 연장 비용이 발생합니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":791,"content":"인터넷 웹메일 용량 증설 서비스 가입 과정에서 외국인등록번호 920723-5456712 을 기재하셨습니다. 다만 월 이용료가 추가됩니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":792,"content":"도서관 국외 학술지 열람 권한 신청 확인을 위해 등록번호 870509-6567823 이 작성되어 있습니다. 또한 연구 목적을 명시하세요.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":793,"content":"병원 외래 내분비내과 호르몬 검사 예약을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 공복 상태가 필요합니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":794,"content":"통신사 무선 인터넷 공유 서비스 신청 과정에서 번호 860711-5789045 을 제출해 주세요. 먼저 공유 기기를 등록하세요.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":795,"content":"학원 예비 고3 겨울 특강 등록 신청서에 외국인등록번호 930327-6890156 이 필요합니다. 그리고 선착순 마감입니다.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":796,"content":"자동차 차량 이력 조회 서비스 신청 확인을 위해 등록번호 880913-7901267 을 입력하셨습니다. 다만 조회 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":797,"content":"은행 소상공인 특례 보증 신청 과정에서 외국인등록번호 950629-5012378 이 기재되어 있습니다. 또한 사업자 등록증을 제출하세요.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":798,"content":"렌터카 VIP 라운지 이용 신청을 위해 번호 821215-6123489 확인되었습니다. 참고로 등급 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":799,"content":"온라인 운동 트레이닝 프로그램 신청 시 외국인등록번호 920901-7234590 을 입력해 주세요. 먼저 체력 수준을 선택하세요.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":800,"content":"부동산 주거 급여 신청서 제출 과정에서 등록번호 871117-5345601 이 필요합니다. 그리고 소득 증빙을 첨부하세요.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":801,"content":"병원 외래 치과 임플란트 상담 예약 신청서에 외국인등록번호 940603-6456712 을 기재하셨습니다. 다만 파노라마 촬영이 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":802,"content":"휴대폰 번호 이동 신청 확인을 위해 번호 860219-7567823 이 작성되어 있습니다. 또한 기존 통신사 해지가 진행됩니다.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":803,"content":"세무 교육비 세액 공제 신청 과정에서 외국인등록번호 930905-5678934 확인되었습니다. 참고로 영수증을 제출해 주세요.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":804,"content":"학교 도서관 노트북 대여 신청을 위해 등록번호 881121-6789045 을 제출하셨습니다. 먼저 학생증을 지참해 주세요.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":805,"content":"은행 주택 담보 대환 대출 신청서에 외국인등록번호 950707-7890156 이 필요합니다. 그리고 기존 대출 잔액을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":806,"content":"렌터카 차량 보험 증권 발급 요청 과정에서 번호 821023-5901267 을 입력하셨습니다. 다만 발급까지 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":807,"content":"인터넷 네트워크 보안 솔루션 업그레이드 신청 시 외국인등록번호 920809-6012378 이 기재되어 있습니다. 또한 시스템 점검이 필요합니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":808,"content":"도서관 장애인 편의 서비스 신청 확인을 위해 등록번호 870525-7123489 확인되었습니다. 참고로 보조 기기가 제공됩니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":809,"content":"병원 외래 가정의학과 건강 상담 예약을 위해 외국인등록번호 941211-5234590 을 제출해 주세요. 먼저 건강 설문지를 작성하세요.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":810,"content":"통신사 학생 할인 요금제 신청 과정에서 번호 860627-6345601 이 필요합니다. 그리고 재학 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":811,"content":"학원 학습 클리닉 프로그램 신청서에 외국인등록번호 930113-7456712 을 기재하셨습니다. 다만 학습 진단 평가가 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":23,"end":37,"label":"FOREIGNER_ID"}]}
+{"id":812,"content":"자동차 중고차 성능 점검 신청 확인을 위해 등록번호 880829-5567823 이 작성되어 있습니다. 또한 점검 비용은 10만원입니다.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":813,"content":"은행 외화 예금 이자 우대 신청 과정에서 외국인등록번호 950415-6678934 확인되었습니다. 참고로 예치 금액에 따라 다릅니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":814,"content":"렌터카 여행 패키지 예약 신청을 위해 번호 821109-7789045 을 입력해 주세요. 먼저 여행 일정을 알려 주세요.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":815,"content":"온라인 가상 회의실 대여 서비스 신청서에 외국인등록번호 920725-5890156 이 필요합니다. 그리고 시간 단위로 과금됩니다.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":816,"content":"부동산 임대 사업자 등록 신청 과정에서 등록번호 871011-6901267 을 제출하셨습니다. 다만 세무 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":817,"content":"병원 외래 건강 보조 식품 상담 예약 확인을 위해 외국인등록번호 940527-7012378 이 기재되어 있습니다. 또한 혈액 검사를 권장합니다.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":818,"content":"휴대폰 자녀 안심 위치 서비스 가입 신청 과정에서 번호 860313-5123489 확인되었습니다. 참고로 위치는 실시간 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":819,"content":"세무 사업 손실 이월 공제 신청을 위해 외국인등록번호 930921-6234590 을 입력하셨습니다. 먼저 손실 증빙을 제출하세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":820,"content":"학교 우수 논문상 지원 신청서에 등록번호 881107-7345601 이 필요합니다. 그리고 논문 초록을 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":20,"end":34,"label":"FOREIGNER_ID"}]}
+{"id":821,"content":"은행 재난 지원금 신청 과정에서 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 피해 증빙 서류가 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":22,"end":36,"label":"FOREIGNER_ID"}]}
+{"id":822,"content":"렌터카 주행 거리 무제한 옵션 신청 확인을 위해 번호 821209-6567823 이 작성되어 있습니다. 또한 추가 요금이 발생합니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":823,"content":"인터넷 개인 정보 보호 서비스 가입 시 외국인등록번호 920815-7678934 확인되었습니다. 참고로 암호화 기술이 적용됩니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":824,"content":"도서관 특별 전시 관람 예약 신청을 위해 등록번호 871101-5789045 을 제출해 주세요. 먼저 관람 희망일을 선택하세요.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":825,"content":"병원 외래 치매 예방 프로그램 등록 과정에서 외국인등록번호 940617-6890156 이 필요합니다. 그리고 인지 검사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":826,"content":"통신사 긴급 속도 복구 서비스 신청서에 번호 860203-7901267 을 입력하셨습니다. 다만 서비스 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":827,"content":"학원 학습 플래너 작성 상담 예약 확인을 위해 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 현재 성적표를 지참하세요.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":828,"content":"자동차 주행 습관 분석 서비스 가입 과정에서 등록번호 881005-6123489 확인되었습니다. 참고로 운전 패턴이 기록됩니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":829,"content":"은행 마이데이터 서비스 연동 신청을 위해 외국인등록번호 950521-7234590 을 제출하셨습니다. 먼저 동의서에 서명하세요.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":830,"content":"렌터카 차량 업그레이드 이벤트 참여 신청서에 번호 821107-5345601 이 필요합니다. 그리고 자동 추첨됩니다.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":831,"content":"온라인 전자책 무제한 구독 신청 과정에서 외국인등록번호 920723-6456712 을 기재하셨습니다. 다만 월 구독료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":832,"content":"부동산 분양 대행 계약 체결 확인을 위해 등록번호 870509-7567823 이 작성되어 있습니다. 또한 계약 수수료가 발생합니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":833,"content":"병원 외래 수술 전 검사 예약 신청을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 검사 항목을 확인하세요.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":834,"content":"휴대폰 영상 통화 데이터 무제한 서비스 신청 시 번호 860711-6789045 을 입력해 주세요. 먼저 요금제를 확인하세요.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":835,"content":"세무 재해 손실 세액 감면 신청 과정에서 외국인등록번호 930327-7890156 이 필요합니다. 그리고 피해 확인서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":836,"content":"학교 연구실 안전 관리 교육 이수 신청서에 등록번호 880913-5901267 을 기재하셨습니다. 다만 필수 교육 과정입니다.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":837,"content":"은행 신용 카드 포인트 통합 관리 신청 확인을 위해 외국인등록번호 950629-6012378 이 작성되어 있습니다. 또한 자동 적립됩니다.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":838,"content":"렌터카 운전 경력 할인 신청을 위해 번호 821215-7123489 확인되었습니다. 참고로 면허증 발급일을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":839,"content":"인터넷 웹사이트 유지 보수 계약 갱신 과정에서 외국인등록번호 920901-5234590 을 제출하셨습니다. 먼저 계약 조건을 확인하세요.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":840,"content":"도서관 멀티미디어 편집실 이용 신청서에 등록번호 871117-6345601 이 필요합니다. 그리고 사용 목적을 명시하세요.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":841,"content":"병원 외래 만성 질환자 복약 상담 예약 확인을 위해 외국인등록번호 940603-7456712 을 입력하셨습니다. 다만 처방전을 지참하세요.","has_sensitive":true,"entities":[{"value":"940603-7456712","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":842,"content":"통신사 통신비 자동 납부 할인 신청 과정에서 번호 860219-5567823 이 기재되어 있습니다. 또한 계좌를 등록해 주세요.","has_sensitive":true,"entities":[{"value":"860219-5567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":843,"content":"학원 재수생 전용 반 편성 신청 확인을 위해 외국인등록번호 930905-6678934 확인되었습니다. 참고로 수능 성적표가 필요합니다.","has_sensitive":true,"entities":[{"value":"930905-6678934","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":844,"content":"자동차 폐차 보상금 신청서 제출 과정에서 등록번호 881121-7789045 을 제출해 주세요. 먼저 차량 등록증을 준비하세요.","has_sensitive":true,"entities":[{"value":"881121-7789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":845,"content":"은행 비대면 계좌 인증 서비스 신청을 위해 외국인등록번호 950707-5890156 이 필요합니다. 그리고 영상 통화가 필요합니다.","has_sensitive":true,"entities":[{"value":"950707-5890156","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":846,"content":"렌터카 차량 정기 점검 이력 조회 신청서에 번호 821023-6901267 을 입력하셨습니다. 다만 차량 번호를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821023-6901267","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":847,"content":"온라인 심리 상담 플랫폼 가입 과정에서 외국인등록번호 920809-7012378 이 기재되어 있습니다. 또한 상담사를 매칭해 드립니다.","has_sensitive":true,"entities":[{"value":"920809-7012378","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":848,"content":"부동산 아파트 하자 보수 신청 확인을 위해 등록번호 870525-5123489 확인되었습니다. 참고로 사진 자료를 제출하세요.","has_sensitive":true,"entities":[{"value":"870525-5123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":849,"content":"병원 외래 노인 건강 검진 패키지 예약을 위해 외국인등록번호 941211-6234590 을 제출하셨습니다. 먼저 기초 문진표를 작성하세요.","has_sensitive":true,"entities":[{"value":"941211-6234590","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":850,"content":"휴대폰 메시지 백업 서비스 신청 확인을 위해 번호 860627-7345601 이 필요합니다. 그리고 클라우드 계정이 필요합니다.","has_sensitive":true,"entities":[{"value":"860627-7345601","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":851,"content":"세무 법인 합병 신고 과정에서 외국인등록번호 930113-5456712 을 기재하셨습니다. 다만 합병 계약서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"930113-5456712","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":852,"content":"학교 창업 동아리 지원 사업 신청서에 등록번호 880829-6567823 이 작성되어 있습니다. 또한 사업 계획서를 제출하세요.","has_sensitive":true,"entities":[{"value":"880829-6567823","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":853,"content":"은행 디지털 자산 거래 계좌 개설 신청 확인을 위해 외국인등록번호 950415-7678934 확인되었습니다. 참고로 본인 인증이 필수입니다.","has_sensitive":true,"entities":[{"value":"950415-7678934","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":854,"content":"렌터카 차량 배송 서비스 신청을 위해 번호 821109-5789045 을 입력해 주세요. 먼저 배송 주소를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821109-5789045","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":855,"content":"인터넷 웹 접근성 개선 컨설팅 신청 과정에서 외국인등록번호 920725-6890156 이 필요합니다. 그리고 현재 사이트를 진단하겠습니다.","has_sensitive":true,"entities":[{"value":"920725-6890156","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":856,"content":"도서관 학술 세미나 참가 등록 신청서에 등록번호 871011-7901267 을 제출하셨습니다. 다만 등록비는 현장 납부입니다.","has_sensitive":true,"entities":[{"value":"871011-7901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":857,"content":"병원 외래 예방 접종 증명서 영문 발급 확인을 위해 외국인등록번호 940527-5012378 이 기재되어 있습니다. 또한 발급 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"940527-5012378","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":858,"content":"통신사 기기 변경 프로그램 신청 과정에서 번호 860313-6123489 확인되었습니다. 참고로 기존 기기는 반납하셔야 합니다.","has_sensitive":true,"entities":[{"value":"860313-6123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":859,"content":"학원 상위권 학생 특별 관리 프로그램 신청을 위해 외국인등록번호 930921-7234590 을 입력하셨습니다. 먼저 성적 기준을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-7234590","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":860,"content":"자동차 스마트 주차 시스템 이용 신청서에 등록번호 881107-5345601 이 필요합니다. 그리고 앱 설치가 필요합니다.","has_sensitive":true,"entities":[{"value":"881107-5345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":861,"content":"은행 가상 화폐 지갑 서비스 가입 신청 확인을 위해 외국인등록번호 950623-6456712 을 기재하셨습니다. 다만 보안 설정을 완료하세요.","has_sensitive":true,"entities":[{"value":"950623-6456712","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":862,"content":"렌터카 반려동물 동반 전용 차량 예약 과정에서 번호 821209-7567823 이 작성되어 있습니다. 또한 애완동물 정보를 등록하세요.","has_sensitive":true,"entities":[{"value":"821209-7567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":863,"content":"온라인 요가 명상 클래스 정기 구독 신청 시 외국인등록번호 920815-5678934 확인되었습니다. 참고로 첫 달은 무료 체험입니다.","has_sensitive":true,"entities":[{"value":"920815-5678934","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":864,"content":"부동산 상가 임대차 보호법 적용 신청을 위해 등록번호 871101-6789045 을 제출해 주세요. 먼저 계약서를 검토하겠습니다.","has_sensitive":true,"entities":[{"value":"871101-6789045","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":865,"content":"병원 외래 재활 치료 연장 신청 과정에서 외국인등록번호 940617-7890156 이 필요합니다. 그리고 주치의 소견서가 필요합니다.","has_sensitive":true,"entities":[{"value":"940617-7890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":866,"content":"휴대폰 국제 전화 무료 서비스 가입 신청서에 번호 860203-5901267 을 입력하셨습니다. 다만 일부 국가는 제외됩니다.","has_sensitive":true,"entities":[{"value":"860203-5901267","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":867,"content":"세무 외국인 근로자 원천징수 신고 확인을 위해 외국인등록번호 930819-6012378 이 기재되어 있습니다. 또한 근로 계약서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930819-6012378","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":868,"content":"학교 학생 멘토링 프로그램 멘토 신청 과정에서 등록번호 881005-7123489 확인되었습니다. 참고로 면접 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"881005-7123489","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":869,"content":"은행 해외 송금 수취 계좌 등록 신청을 위해 외국인등록번호 950521-5234590 을 제출하셨습니다. 먼저 SWIFT 코드를 확인하세요.","has_sensitive":true,"entities":[{"value":"950521-5234590","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":870,"content":"렌터카 장기 렌탈 조기 반납 신청서에 번호 821107-6345601 이 필요합니다. 그리고 위약금이 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"821107-6345601","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":871,"content":"인터넷 AI 챗봇 서비스 도입 컨설팅 과정에서 외국인등록번호 920723-7456712 을 기재하셨습니다. 다만 도입 비용을 견적 내겠습니다.","has_sensitive":true,"entities":[{"value":"920723-7456712","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":872,"content":"도서관 연구 지원 서비스 신청 확인을 위해 등록번호 870509-5567823 이 작성되어 있습니다. 또한 연구 계획서를 제출하세요.","has_sensitive":true,"entities":[{"value":"870509-5567823","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":873,"content":"병원 외래 영양제 맞춤 처방 상담 예약을 위해 외국인등록번호 941125-6678934 확인되었습니다. 참고로 혈액 검사가 선행됩니다.","has_sensitive":true,"entities":[{"value":"941125-6678934","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":874,"content":"통신사 멤버십 등급별 혜택 안내 신청 과정에서 번호 860711-7789045 을 입력해 주세요. 먼저 현재 등급을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"860711-7789045","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":875,"content":"학원 진학 성공 사례 공유회 참석 신청서에 외국인등록번호 930327-5890156 이 필요합니다. 그리고 사전 등록이 필수입니다.","has_sensitive":true,"entities":[{"value":"930327-5890156","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":876,"content":"자동차 긴급 배터리 충전 서비스 요청 확인을 위해 등록번호 880913-6901267 을 제출하셨습니다. 다만 출동 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"880913-6901267","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":877,"content":"은행 가계 부채 조정 프로그램 신청 과정에서 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 재무 상담이 진행됩니다.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":878,"content":"렌터카 명절 연휴 특가 예약 신청을 위해 번호 821215-5123489 확인되었습니다. 참고로 조기 마감될 수 있습니다.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":879,"content":"온라인 전자 서명 인증 서비스 가입 신청서에 외국인등록번호 920901-6234590 을 입력하셨습니다. 먼저 본인 인증을 완료하세요.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":880,"content":"부동산 단독 주택 매매 중개 의뢰 과정에서 등록번호 871117-7345601 이 필요합니다. 그리고 물건 사진을 제공해 주세요.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":881,"content":"병원 외래 건강 증진 센터 프로그램 등록 확인을 위해 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 정기 검진이 포함됩니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":882,"content":"휴대폰 가족 간 데이터 공유 신청 과정에서 번호 860219-6567823 이 작성되어 있습니다. 또한 최대 5명까지 공유됩니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":883,"content":"세무 종교인 소득 신고 지원 신청서에 외국인등록번호 930905-7678934 확인되었습니다. 참고로 소득 증빙이 필요합니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":884,"content":"학교 글로벌 인턴십 프로그램 지원 신청을 위해 등록번호 881121-5789045 을 제출해 주세요. 먼저 영문 이력서를 준비하세요.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":885,"content":"은행 통장 정리 서비스 신청 확인을 위해 외국인등록번호 950707-6890156 이 필요합니다. 그리고 미사용 계좌를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":886,"content":"렌터카 신혼 여행 패키지 예약 과정에서 번호 821023-7901267 을 입력하셨습니다. 다만 웨딩 사진 제출 시 할인됩니다.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":26,"end":40,"label":"FOREIGNER_ID"}]}
+{"id":887,"content":"인터넷 빅데이터 분석 솔루션 도입 신청서에 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 맞춤 제안서를 작성하겠습니다.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":888,"content":"도서관 고문헌 디지털 열람 신청 확인을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 학술 목적만 허용됩니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":889,"content":"병원 외래 통증 클리닉 장기 치료 등록 과정에서 외국인등록번호 941211-7234590 을 제출하셨습니다. 먼저 치료 계획을 수립하겠습니다.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":890,"content":"통신사 블랙박스 영상 저장 서비스 가입 신청을 위해 번호 860627-5345601 이 필요합니다. 그리고 저장 용량을 선택하세요.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":891,"content":"학원 예체능 입시 전문 반 등록 신청서에 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 실기 테스트가 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":892,"content":"자동차 사고 차량 견인 보험 처리 과정에서 등록번호 880829-7567823 이 작성되어 있습니다. 또한 사고 경위서를 제출하세요.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":893,"content":"은행 개인 맞춤형 자산 포트폴리오 구성 신청 확인을 위해 외국인등록번호 950415-5678934 확인되었습니다. 참고로 투자 기간을 설정하세요.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":40,"end":54,"label":"FOREIGNER_ID"}]}
+{"id":894,"content":"렌터카 차량 외관 보호 필름 시공 신청을 위해 번호 821109-6789045 을 입력해 주세요. 먼저 시공 비용을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":895,"content":"온라인 금융 투자 교육 과정 수강 신청 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 입문 과정부터 시작합니다.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":896,"content":"부동산 소형 아파트 청약 대행 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 청약 통장이 필요합니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":897,"content":"병원 외래 가족 주치의 등록 프로그램 신청 확인을 위해 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 가족 모두 등록 가능합니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":38,"end":52,"label":"FOREIGNER_ID"}]}
+{"id":898,"content":"휴대폰 요금 납부 자동 이체 신청 과정에서 번호 860313-7123489 확인되었습니다. 참고로 납부일을 선택할 수 있습니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":899,"content":"세무 창업 세액 감면 신청 확인을 위해 외국인등록번호 930921-5234590 을 입력하셨습니다. 먼저 사업자 등록일을 확인하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":900,"content":"학교 학생 복지 지원금 신청서에 등록번호 881107-6345601 이 필요합니다. 그리고 소득 증명서를 첨부해 주세요.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":21,"end":35,"label":"FOREIGNER_ID"}]}
+{"id":901,"content":"은행 모바일 대출 한도 조회 신청 과정에서 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 신용 정보 조회 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":902,"content":"렌터카 차량 반납 시간 연장 신청 확인을 위해 번호 821209-5567823 이 작성되어 있습니다. 또한 연장료는 시간당 계산됩니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":903,"content":"인터넷 홈페이지 보안 인증서 갱신 신청서에 외국인등록번호 920815-6678934 확인되었습니다. 참고로 유효 기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":904,"content":"도서관 도서 기증자 명예의 전당 등재 신청을 위해 등록번호 871101-7789045 을 제출해 주세요. 먼저 기증 도서 목록을 작성하세요.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":905,"content":"병원 외래 예방 의학 상담 예약 과정에서 외국인등록번호 940617-5890156 이 필요합니다. 그리고 건강 설문지를 사전 작성하세요.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":906,"content":"통신사 사물 인터넷 요금제 가입 신청 확인을 위해 번호 860203-6901267 을 입력하셨습니다. 다만 연결 기기를 등록하세요.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":907,"content":"학원 학습 동기 부여 특강 신청서에 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 학부모도 함께 참석 가능합니다.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":908,"content":"자동차 차량 번호판 분실 재발급 신청 과정에서 등록번호 881005-5123489 확인되었습니다. 참고로 경찰 신고 접수증이 필요합니다.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":909,"content":"은행 금융 사기 피해 구제 신청을 위해 외국인등록번호 950521-6234590 을 제출하셨습니다. 먼저 피해 경위서를 작성하세요.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":910,"content":"렌터카 차량 내비게이션 실시간 교통 정보 서비스 신청서에 번호 821107-7345601 이 필요합니다. 그리고 서비스는 무료 제공됩니다.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":40,"end":54,"label":"FOREIGNER_ID"}]}
+{"id":911,"content":"온라인 개인 홈페이지 제작 서비스 신청 과정에서 외국인등록번호 920723-5456712 을 기재하셨습니다. 다만 템플릿을 선택해 주세요.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":912,"content":"부동산 주택 임대 보증 보험 가입 확인을 위해 등록번호 870509-6567823 이 작성되어 있습니다. 또한 보증 기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":913,"content":"병원 외래 금연 성공 인증 프로그램 등록 신청을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 3개월 과정입니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":914,"content":"휴대폰 데이터 절약 모드 설정 신청 과정에서 번호 860711-5789045 을 입력해 주세요. 먼저 월 사용량을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":915,"content":"세무 개인 사업자 전자 세금 계산서 발급 신청서에 외국인등록번호 930327-6890156 이 필요합니다. 그리고 공인인증서가 필요합니다.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":916,"content":"학교 장애 학생 학습 지원 서비스 신청 확인을 위해 등록번호 880913-5901267 을 제출하셨습니다. 다만 장애 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":917,"content":"은행 비대면 주택 담보 대출 신청 과정에서 외국인등록번호 950629-7012378 이 기재되어 있습니다. 또한 감정 평가가 필요합니다.","has_sensitive":true,"entities":[{"value":"950629-7012378","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":918,"content":"렌터카 차량 블랙박스 영상 제공 신청을 위해 번호 821215-5123489 확인되었습니다. 참고로 사고 일시를 명시하세요.","has_sensitive":true,"entities":[{"value":"821215-5123489","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":919,"content":"인터넷 전자 상거래 플랫폼 입점 신청서에 외국인등록번호 920901-6234590 을 입력하셨습니다. 먼저 사업자 정보를 등록하세요.","has_sensitive":true,"entities":[{"value":"920901-6234590","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":920,"content":"도서관 논문 작성 지원 프로그램 신청 과정에서 등록번호 871117-7345601 이 필요합니다. 그리고 연구 주제를 제출하세요.","has_sensitive":true,"entities":[{"value":"871117-7345601","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":921,"content":"병원 외래 장기 이식 대기자 등록 신청 확인을 위해 외국인등록번호 940603-5456712 을 기재하셨습니다. 다만 정밀 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-5456712","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":922,"content":"통신사 단말기 분실 보험 가입 신청 과정에서 번호 860219-6567823 이 작성되어 있습니다. 또한 월 보험료는 3천원입니다.","has_sensitive":true,"entities":[{"value":"860219-6567823","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":923,"content":"학원 학습 부진 학생 특별 지도 프로그램 신청서에 외국인등록번호 930905-7678934 확인되었습니다. 참고로 1:1 맞춤 지도입니다.","has_sensitive":true,"entities":[{"value":"930905-7678934","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":924,"content":"자동차 친환경 차량 취득세 감면 신청을 위해 등록번호 881121-5789045 을 제출해 주세요. 먼저 차량 구매 계약서를 준비하세요.","has_sensitive":true,"entities":[{"value":"881121-5789045","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":925,"content":"은행 주거래 은행 우대 이율 신청 확인을 위해 외국인등록번호 950707-6890156 이 필요합니다. 그리고 거래 실적을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"950707-6890156","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":926,"content":"렌터카 장애인 운전자 보조 장치 차량 예약 과정에서 번호 821023-7901267 을 입력하셨습니다. 다만 보조 장치 종류를 선택하세요.","has_sensitive":true,"entities":[{"value":"821023-7901267","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":927,"content":"온라인 외국어 번역 서비스 정기 구독 신청서에 외국인등록번호 920809-5012378 이 기재되어 있습니다. 또한 번역 언어를 선택하세요.","has_sensitive":true,"entities":[{"value":"920809-5012378","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":928,"content":"부동산 전세 사기 피해 지원 신청 확인을 위해 등록번호 870525-6123489 확인되었습니다. 참고로 피해 사실 확인서가 필요합니다.","has_sensitive":true,"entities":[{"value":"870525-6123489","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":929,"content":"병원 외래 맞춤형 건강 관리 서비스 등록 과정에서 외국인등록번호 941211-7234590 을 제출하셨습니다. 먼저 건강 목표를 설정하세요.","has_sensitive":true,"entities":[{"value":"941211-7234590","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":930,"content":"휴대폰 청소년 유해 매체 차단 서비스 신청을 위해 번호 860627-5345601 이 필요합니다. 그리고 법정 대리인 동의가 필요합니다.","has_sensitive":true,"entities":[{"value":"860627-5345601","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":931,"content":"세무 전자 신고 납부 시스템 등록 신청서에 외국인등록번호 930113-6456712 을 기재하셨습니다. 다만 공동인증서 발급이 필요합니다.","has_sensitive":true,"entities":[{"value":"930113-6456712","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":932,"content":"학교 우수 졸업생 초청 강연 신청 과정에서 등록번호 880829-7567823 이 작성되어 있습니다. 또한 강연 주제를 제안해 주세요.","has_sensitive":true,"entities":[{"value":"880829-7567823","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":933,"content":"은행 자동 환율 알림 서비스 가입 신청 확인을 위해 외국인등록번호 950415-5678934 확인되었습니다. 참고로 희망 환율을 설정하세요.","has_sensitive":true,"entities":[{"value":"950415-5678934","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":934,"content":"렌터카 차량 반납 후 상세 점검 보고서 신청을 위해 번호 821109-6789045 을 입력해 주세요. 먼저 반납 확인증을 받으세요.","has_sensitive":true,"entities":[{"value":"821109-6789045","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":935,"content":"인터넷 웹사이트 트래픽 분석 서비스 신청 과정에서 외국인등록번호 920725-7890156 이 필요합니다. 그리고 사이트 URL을 등록하세요.","has_sensitive":true,"entities":[{"value":"920725-7890156","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":936,"content":"도서관 전자 자료 구독 연장 신청서에 등록번호 871011-5901267 을 제출하셨습니다. 다만 연장 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"871011-5901267","begin":25,"end":39,"label":"FOREIGNER_ID"}]}
+{"id":937,"content":"병원 외래 당뇨 합병증 예방 교육 프로그램 신청 확인을 위해 외국인등록번호 940527-6012378 이 기재되어 있습니다. 또한 교육은 월 1회 진행됩니다.","has_sensitive":true,"entities":[{"value":"940527-6012378","begin":40,"end":54,"label":"FOREIGNER_ID"}]}
+{"id":938,"content":"통신사 가족 결합 할인 추가 등록 신청 과정에서 번호 860313-7123489 확인되었습니다. 참고로 가족 관계 증명서가 필요합니다.","has_sensitive":true,"entities":[{"value":"860313-7123489","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":939,"content":"학원 대입 수시 전형 서류 컨설팅 신청을 위해 외국인등록번호 930921-5234590 을 입력하셨습니다. 먼저 생활기록부를 준비하세요.","has_sensitive":true,"entities":[{"value":"930921-5234590","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":940,"content":"자동차 전기차 충전소 회원 등록 신청서에 등록번호 881107-6345601 이 필요합니다. 그리고 충전 카드가 발급됩니다.","has_sensitive":true,"entities":[{"value":"881107-6345601","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":941,"content":"은행 중개형 ISA 계좌 전환 신청 과정에서 외국인등록번호 950623-7456712 을 기재하셨습니다. 다만 기존 계좌 해지가 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-7456712","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":942,"content":"렌터카 운전 습관 분석 서비스 가입 확인을 위해 번호 821209-5567823 이 작성되어 있습니다. 또한 주행 데이터가 수집됩니다.","has_sensitive":true,"entities":[{"value":"821209-5567823","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":943,"content":"온라인 재능 기부 플랫폼 회원 가입 신청서에 외국인등록번호 920815-6678934 확인되었습니다. 참고로 재능 분야를 선택하세요.","has_sensitive":true,"entities":[{"value":"920815-6678934","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":944,"content":"부동산 공인 중개사 자격 확인 신청을 위해 등록번호 871101-7789045 을 제출해 주세요. 먼저 자격증 사본을 제출하세요.","has_sensitive":true,"entities":[{"value":"871101-7789045","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":945,"content":"병원 외래 아토피 피부염 집중 치료 예약 과정에서 외국인등록번호 940617-5890156 이 필요합니다. 그리고 알레르기 검사를 선행합니다.","has_sensitive":true,"entities":[{"value":"940617-5890156","begin":36,"end":50,"label":"FOREIGNER_ID"}]}
+{"id":946,"content":"휴대폰 해외 사용 설정 지원 서비스 신청 확인을 위해 번호 860203-6901267 을 입력하셨습니다. 다만 로밍 요금을 확인하세요.","has_sensitive":true,"entities":[{"value":"860203-6901267","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":947,"content":"세무 청년 창업 세제 지원 신청 과정에서 외국인등록번호 930819-7012378 이 기재되어 있습니다. 또한 사업 계획서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"930819-7012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":948,"content":"학교 평생 교육 바우처 사용 신청서에 등록번호 881005-5123489 확인되었습니다. 참고로 사용 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"881005-5123489","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":949,"content":"은행 금융 취약 계층 특례 대출 신청을 위해 외국인등록번호 950521-6234590 을 제출하셨습니다. 먼저 소득 증빙을 제출하세요.","has_sensitive":true,"entities":[{"value":"950521-6234590","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":950,"content":"렌터카 차량 긴급 수리 출동 서비스 신청서에 번호 821107-7345601 이 필요합니다. 그리고 현재 위치를 정확히 알려 주세요.","has_sensitive":true,"entities":[{"value":"821107-7345601","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":951,"content":"인터넷 블로그 수익 창출 프로그램 가입 과정에서 외국인등록번호 920723-5456712 을 기재하셨습니다. 다만 광고 심사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"920723-5456712","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":952,"content":"도서관 독서 문화 진흥 프로그램 참여 신청 확인을 위해 등록번호 870509-6567823 이 작성되어 있습니다. 또한 독후감 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"870509-6567823","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":953,"content":"병원 외래 심장 건강 검진 패키지 예약 신청을 위해 외국인등록번호 941125-7678934 확인되었습니다. 참고로 심전도 검사가 포함됩니다.","has_sensitive":true,"entities":[{"value":"941125-7678934","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":954,"content":"통신사 스마트 홈 연동 서비스 가입 신청 과정에서 번호 860711-5789045 을 입력해 주세요. 먼저 연동 기기를 등록하세요.","has_sensitive":true,"entities":[{"value":"860711-5789045","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":955,"content":"학원 최상위권 학생 특별 관리 반 신청서에 외국인등록번호 930327-6890156 이 필요합니다. 그리고 모의고사 성적표를 제출하세요.","has_sensitive":true,"entities":[{"value":"930327-6890156","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":956,"content":"자동차 차량 코팅 시공 예약 신청 확인을 위해 등록번호 880913-7901267 을 제출하셨습니다. 다만 시공 기간은 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"880913-7901267","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":957,"content":"은행 퇴직 연금 수령 방법 변경 신청 과정에서 외국인등록번호 950629-5012378 이 기재되어 있습니다. 또한 수령 주기를 선택하세요.","has_sensitive":true,"entities":[{"value":"950629-5012378","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":958,"content":"렌터카 여행지 맞춤형 차량 추천 서비스 신청을 위해 번호 821215-6123489 확인되었습니다. 참고로 여행 인원을 알려 주세요.","has_sensitive":true,"entities":[{"value":"821215-6123489","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":959,"content":"온라인 영양사 상담 서비스 정기 구독 신청서에 외국인등록번호 920901-7234590 을 입력하셨습니다. 먼저 식습관 정보를 입력하세요.","has_sensitive":true,"entities":[{"value":"920901-7234590","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":960,"content":"부동산 등기부 등본 온라인 발급 신청 과정에서 등록번호 871117-5345601 이 필요합니다. 그리고 발급 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"871117-5345601","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":961,"content":"병원 외래 갱년기 호르몬 치료 상담 예약 확인을 위해 외국인등록번호 940603-6456712 을 기재하셨습니다. 다만 혈액 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"940603-6456712","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":962,"content":"휴대폰 5G 네트워크 속도 테스트 신청 과정에서 번호 860219-7567823 이 작성되어 있습니다. 또한 테스트 결과를 발송해 드립니다.","has_sensitive":true,"entities":[{"value":"860219-7567823","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":963,"content":"세무 비과세 소득 신고 확인 신청을 위해 외국인등록번호 930905-5678934 확인되었습니다. 참고로 증빙 서류를 제출하세요.","has_sensitive":true,"entities":[{"value":"930905-5678934","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":964,"content":"학교 학생 심리 상담 서비스 예약 신청서에 등록번호 881121-6789045 을 제출해 주세요. 먼저 상담 희망 시간을 선택하세요.","has_sensitive":true,"entities":[{"value":"881121-6789045","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":965,"content":"은행 개인 신용 회복 컨설팅 신청 과정에서 외국인등록번호 950707-7890156 이 필요합니다. 그리고 채무 내역을 제출하세요.","has_sensitive":true,"entities":[{"value":"950707-7890156","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":966,"content":"렌터카 차량 타이어 펑크 긴급 출동 신청 확인을 위해 번호 821023-5901267 을 입력하셨습니다. 다만 출동 지역을 확인하세요.","has_sensitive":true,"entities":[{"value":"821023-5901267","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":967,"content":"인터넷 개인 정보 유출 모니터링 서비스 가입서에 외국인등록번호 920809-6012378 이 기재되어 있습니다. 또한 실시간 알림이 제공됩니다.","has_sensitive":true,"entities":[{"value":"920809-6012378","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":968,"content":"도서관 고문서 번역 지원 서비스 신청 과정에서 등록번호 870525-7123489 확인되었습니다. 참고로 번역 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"870525-7123489","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":969,"content":"병원 외래 소아 청소년 성장 클리닉 등록 신청을 위해 외국인등록번호 941211-5234590 을 제출하셨습니다. 먼저 성장 기록을 지참하세요.","has_sensitive":true,"entities":[{"value":"941211-5234590","begin":38,"end":52,"label":"FOREIGNER_ID"}]}
+{"id":970,"content":"통신사 해외 여행 중 긴급 로밍 지원 신청 확인을 위해 번호 860627-6345601 이 필요합니다. 그리고 여행 국가를 알려 주세요.","has_sensitive":true,"entities":[{"value":"860627-6345601","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":971,"content":"학원 학습 부진 원인 진단 검사 신청서에 외국인등록번호 930113-7456712 을 기재하셨습니다. 다만 검사 시간은 2시간입니다.","has_sensitive":true,"entities":[{"value":"930113-7456712","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":972,"content":"자동차 자율 주행 보조 시스템 체험 신청 과정에서 등록번호 880829-5567823 이 작성되어 있습니다. 또한 안전 교육이 필수입니다.","has_sensitive":true,"entities":[{"value":"880829-5567823","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":973,"content":"은행 가상 자산 투자 교육 과정 수강 신청 확인을 위해 외국인등록번호 950415-6678934 확인되었습니다. 참고로 초보자 대상 과정입니다.","has_sensitive":true,"entities":[{"value":"950415-6678934","begin":38,"end":52,"label":"FOREIGNER_ID"}]}
+{"id":974,"content":"렌터카 차량 사고 이력 조회 서비스 신청을 위해 번호 821109-7789045 을 입력해 주세요. 먼저 차대 번호를 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"821109-7789045","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":975,"content":"온라인 법률 상담 플랫폼 회원 등록 신청서에 외국인등록번호 920725-5890156 이 필요합니다. 그리고 상담 분야를 선택하세요.","has_sensitive":true,"entities":[{"value":"920725-5890156","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":976,"content":"부동산 전월세 전환율 계산 서비스 신청 과정에서 등록번호 871011-6901267 을 제출하셨습니다. 다만 계약서 내용을 입력하세요.","has_sensitive":true,"entities":[{"value":"871011-6901267","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":977,"content":"병원 외래 치매 조기 진단 프로그램 예약 확인을 위해 외국인등록번호 940527-7012378 이 기재되어 있습니다. 또한 인지 기능 검사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"940527-7012378","begin":38,"end":52,"label":"FOREIGNER_ID"}]}
+{"id":978,"content":"휴대폰 가족 위치 공유 서비스 신청 과정에서 번호 860313-5123489 확인되었습니다. 참고로 동의서 작성이 필요합니다.","has_sensitive":true,"entities":[{"value":"860313-5123489","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":979,"content":"세무 중소기업 세액 감면 신청을 위해 외국인등록번호 930921-6234590 을 입력하셨습니다. 먼저 중소기업 확인서를 제출하세요.","has_sensitive":true,"entities":[{"value":"930921-6234590","begin":27,"end":41,"label":"FOREIGNER_ID"}]}
+{"id":980,"content":"학교 해외 대학 교류 프로그램 지원 신청서에 등록번호 881107-7345601 이 필요합니다. 그리고 어학 능력 증명서를 제출하세요.","has_sensitive":true,"entities":[{"value":"881107-7345601","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":981,"content":"은행 퇴직 소득 세금 우대 신청 과정에서 외국인등록번호 950623-5456712 을 기재하셨습니다. 다만 퇴직 증명서가 필요합니다.","has_sensitive":true,"entities":[{"value":"950623-5456712","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":982,"content":"렌터카 프리미엄 멤버십 자동 갱신 신청 확인을 위해 번호 821209-6567823 이 작성되어 있습니다. 또한 갱신 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"821209-6567823","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":983,"content":"인터넷 서버 보안 강화 패키지 도입 신청서에 외국인등록번호 920815-7678934 확인되었습니다. 참고로 보안 점검이 선행됩니다.","has_sensitive":true,"entities":[{"value":"920815-7678934","begin":30,"end":44,"label":"FOREIGNER_ID"}]}
+{"id":984,"content":"도서관 희귀본 복원 프로젝트 참여 신청을 위해 등록번호 871101-5789045 을 제출해 주세요. 먼저 전문 자격을 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"871101-5789045","begin":32,"end":46,"label":"FOREIGNER_ID"}]}
+{"id":985,"content":"병원 외래 암 생존자 통합 관리 프로그램 등록 과정에서 외국인등록번호 940617-6890156 이 필요합니다. 그리고 정기 검진이 포함됩니다.","has_sensitive":true,"entities":[{"value":"940617-6890156","begin":40,"end":54,"label":"FOREIGNER_ID"}]}
+{"id":986,"content":"통신사 IoT 기기 통합 관리 서비스 가입 신청 확인을 위해 번호 860203-7901267 을 입력하셨습니다. 다만 관리 앱을 설치하세요.","has_sensitive":true,"entities":[{"value":"860203-7901267","begin":39,"end":53,"label":"FOREIGNER_ID"}]}
+{"id":987,"content":"학원 학업 스트레스 관리 프로그램 신청서에 외국인등록번호 930819-5012378 이 기재되어 있습니다. 또한 심리 상담이 병행됩니다.","has_sensitive":true,"entities":[{"value":"930819-5012378","begin":28,"end":42,"label":"FOREIGNER_ID"}]}
+{"id":988,"content":"자동차 차량 공유 서비스 호스트 등록 신청 과정에서 등록번호 881005-6123489 확인되었습니다. 참고로 차량 상태 점검이 필요합니다.","has_sensitive":true,"entities":[{"value":"881005-6123489","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":989,"content":"은행 금융 소비자 보호 프로그램 신청을 위해 외국인등록번호 950521-7234590 을 제출하셨습니다. 먼저 피해 내용을 기재하세요.","has_sensitive":true,"entities":[{"value":"950521-7234590","begin":31,"end":45,"label":"FOREIGNER_ID"}]}
+{"id":990,"content":"렌터카 차량 실내 공기 질 관리 서비스 신청서에 번호 821107-5345601 이 필요합니다. 그리고 정기 점검이 제공됩니다.","has_sensitive":true,"entities":[{"value":"821107-5345601","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":991,"content":"온라인 개인 트레이닝 매칭 플랫폼 가입 과정에서 외국인등록번호 920723-6456712 을 기재하셨습니다. 다만 건강 상태를 입력하세요.","has_sensitive":true,"entities":[{"value":"920723-6456712","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":992,"content":"부동산 재건축 안전 진단 신청 확인을 위해 등록번호 870509-7567823 이 작성되어 있습니다. 또한 진단 비용은 조합에서 부담합니다.","has_sensitive":true,"entities":[{"value":"870509-7567823","begin":29,"end":43,"label":"FOREIGNER_ID"}]}
+{"id":993,"content":"병원 외래 스트레스 검사 및 상담 예약 신청을 위해 외국인등록번호 941125-5678934 확인되었습니다. 참고로 검사 시간은 1시간입니다.","has_sensitive":true,"entities":[{"value":"941125-5678934","begin":37,"end":51,"label":"FOREIGNER_ID"}]}
+{"id":994,"content":"휴대폰 배터리 소모 최적화 서비스 신청 과정에서 번호 860711-6789045 을 입력해 주세요. 먼저 사용 패턴을 분석하겠습니다.","has_sensitive":true,"entities":[{"value":"860711-6789045","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":995,"content":"세무 장애인 고용 장려금 신청서에 외국인등록번호 930327-7890156 이 필요합니다. 그리고 고용 계약서를 첨부하세요.","has_sensitive":true,"entities":[{"value":"930327-7890156","begin":24,"end":38,"label":"FOREIGNER_ID"}]}
+{"id":996,"content":"학교 연구실 안전 사고 보험 가입 신청 확인을 위해 등록번호 880913-5901267 을 제출하셨습니다. 다만 연구 활동 증명이 필요합니다.","has_sensitive":true,"entities":[{"value":"880913-5901267","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":997,"content":"은행 외화 예금 만기 자동 연장 신청 과정에서 외국인등록번호 950629-6012378 이 기재되어 있습니다. 또한 연장 금리를 확인하세요.","has_sensitive":true,"entities":[{"value":"950629-6012378","begin":33,"end":47,"label":"FOREIGNER_ID"}]}
+{"id":998,"content":"렌터카 겨울철 스노우 타이어 교체 서비스 신청을 위해 번호 821215-7123489 확인되었습니다. 참고로 교체 비용은 무료입니다.","has_sensitive":true,"entities":[{"value":"821215-7123489","begin":35,"end":49,"label":"FOREIGNER_ID"}]}
+{"id":999,"content":"인터넷 데이터 센터 이전 컨설팅 서비스 신청서에 외국인등록번호 920901-5234590 을 입력하셨습니다. 먼저 현재 인프라를 분석하겠습니다.","has_sensitive":true,"entities":[{"value":"920901-5234590","begin":34,"end":48,"label":"FOREIGNER_ID"}]}
+{"id":1000,"content":"도서관 장서 검색 시스템 개선 제안서 제출 과정에서 등록번호 871117-6345601 이 필요합니다. 그리고 제안 내용을 상세히 작성해 주세요.","has_sensitive":true,"entities":[{"value":"871117-6345601","begin":36,"end":50,"label":"FOREIGNER_ID"}]}

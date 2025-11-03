@@ -1,0 +1,1000 @@
+{"id":1,"content":"운전면허 재발급 안내드립니다. 또한 방문 시 운전면허번호 12-34-567890-12 를 제시해 주세요.","has_sensitive":true,"entities":[{"value":"12-34-567890-12","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":2,"content":"본인 확인을 위해 면허번호 21-45-678901-23 을 입력해 주시기 바랍니다.","has_sensitive":true,"entities":[{"value":"21-45-678901-23","begin":16,"end":31,"label":"DRIVER_LICENSE"}]}
+{"id":3,"content":"김민수 고객님의 운전면허번호는 11-22-334455-66 입니다. 갱신 기한을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"11-22-334455-66","begin":20,"end":35,"label":"DRIVER_LICENSE"}]}
+{"id":4,"content":"면허 정보 조회 결과 33-44-556677-88 로 등록되어 있습니다. 참고로 유효기간은 2025년까지입니다.","has_sensitive":true,"entities":[{"value":"33-44-556677-88","begin":15,"end":30,"label":"DRIVER_LICENSE"}]}
+{"id":5,"content":"교통 범칙금 납부 안내입니다. 운전면허번호 55-66-778899-00 확인 후 처리 바랍니다.","has_sensitive":true,"entities":[{"value":"55-66-778899-00","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":6,"content":"렌터카 예약이 완료되었습니다. 먼저 운전면허번호 77-88-990011-22 를 등록해 주셔야 합니다.","has_sensitive":true,"entities":[{"value":"77-88-990011-22","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":7,"content":"신규 회원가입을 환영합니다. 또한 면허번호 99-00-112233-44 로 본인 인증이 필요합니다.","has_sensitive":true,"entities":[{"value":"99-00-112233-44","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":8,"content":"이박사님의 면허증 갱신이 완료되었습니다. 다만 새로운 번호 12-11-223344-55 를 확인하세요.","has_sensitive":true,"entities":[{"value":"12-11-223344-55","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":9,"content":"주차 위반 알림입니다. 그리고 해당 차량의 면허번호 34-56-789012-34 를 기록하였습니다.","has_sensitive":true,"entities":[{"value":"34-56-789012-34","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":10,"content":"보험 가입을 위해 운전면허번호 56-78-901234-56 제출이 필요합니다. 빠른 처리 부탁드립니다.","has_sensitive":true,"entities":[{"value":"56-78-901234-56","begin":18,"end":33,"label":"DRIVER_LICENSE"}]}
+{"id":11,"content":"면허증 분실 신고가 접수되었습니다. 아울러 기존 번호 78-90-123456-78 은 무효 처리됩니다.","has_sensitive":true,"entities":[{"value":"78-90-123456-78","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":12,"content":"정기 적성검사 대상자입니다. 참고로 면허번호 90-12-345678-90 으로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"90-12-345678-90","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":13,"content":"국제면허증 발급 신청이 완료되었습니다. 또한 국내 면허번호 13-24-567890-13 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":14,"content":"벌점 조회 결과를 안내드립니다. 먼저 면허번호 24-35-678901-24 로 누적 10점입니다.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":15,"content":"차량 등록증 발급을 위해 운전면허번호 35-46-789012-35 와 신분증을 지참해 주세요.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":23,"end":38,"label":"DRIVER_LICENSE"}]}
+{"id":16,"content":"카셰어링 서비스 인증 완료되었습니다. 다만 등록된 면허 46-57-890123-46 을 확인하세요.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":17,"content":"대리운전 기사 등록이 완료되었습니다. 그리고 면허번호 57-68-901234-57 로 활동 가능합니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":18,"content":"면허시험 합격을 축하드립니다. 아울러 새로 발급된 번호는 68-79-012345-68 입니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":19,"content":"갱신 신청이 접수되었습니다. 참고로 현재 면허번호 79-80-123456-79 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":20,"content":"보험료 산정을 위해 운전면허번호 80-91-234567-80 을 확인했습니다. 또한 할인이 적용됩니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":19,"end":34,"label":"DRIVER_LICENSE"}]}
+{"id":21,"content":"위반 내역 조회가 완료되었습니다. 먼저 면허번호 91-02-345678-91 로 확인된 내역은 없습니다.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":22,"content":"차량 공유 서비스 가입을 환영합니다. 다만 면허번호 14-25-456789-14 등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":23,"content":"면허증 사진 변경 신청이 완료되었습니다. 그리고 번호 25-36-567890-25 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":24,"content":"교통안전 교육 이수 확인서입니다. 아울러 면허번호 36-47-678901-36 으로 등록되었습니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":25,"content":"운전 경력 증명서 발급 안내입니다. 참고로 면허번호 47-58-789012-47 를 기재했습니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":26,"content":"면허 정지 처분 통지서입니다. 또한 대상 면허번호는 58-69-890123-58 입니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":27,"content":"적성검사 예약이 완료되었습니다. 먼저 면허번호 69-70-901234-69 로 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":28,"content":"벌금 납부 확인이 완료되었습니다. 다만 면허번호 70-81-012345-70 의 벌점은 유지됩니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":29,"content":"신체검사 결과가 제출되었습니다. 그리고 면허번호 81-92-123456-81 로 갱신 진행됩니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":30,"content":"면허 종별 추가 시험에 합격하셨습니다. 아울러 면허번호 92-03-234567-92 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":31,"content":"주소 변경 신청이 완료되었습니다. 참고로 면허번호 15-26-345678-15 는 변경 없습니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":32,"content":"자동차 등록 신청서를 접수했습니다. 또한 운전면허번호 26-37-456789-26 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":33,"content":"음주운전 적발 통지서입니다. 먼저 면허번호 37-48-567890-37 로 처분 예정입니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":34,"content":"면허 재교부 신청이 접수되었습니다. 다만 기존 번호 48-59-678901-48 을 사용합니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":35,"content":"교통법규 위반 과태료 안내입니다. 그리고 면허번호 59-60-789012-59 로 부과됩니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":36,"content":"운전 적성 정밀검사 대상자입니다. 아울러 면허번호 60-71-890123-60 로 예약하세요.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":37,"content":"면허증 영문 발급이 완료되었습니다. 참고로 면허번호 71-82-901234-71 을 확인하세요.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":38,"content":"차량 인도 시 면허증 지참 필수입니다. 또한 번호 82-93-012345-82 를 등록해야 합니다.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":39,"content":"렌터카 반납이 완료되었습니다. 먼저 등록된 면허번호 93-04-123456-93 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":40,"content":"보험 청구서 접수가 완료되었습니다. 다만 면허번호 16-27-234567-16 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":41,"content":"사고 경위서 제출을 요청드립니다. 그리고 면허번호 27-38-345678-27 기재 바랍니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":42,"content":"면허 갱신 교육 이수가 완료되었습니다. 아울러 면허번호 38-49-456789-38 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":43,"content":"고령자 적성검사 통지서입니다. 참고로 면허번호 49-50-567890-49 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":44,"content":"위반 경력 조회 결과를 안내합니다. 또한 면허번호 50-61-678901-50 에 3건 있습니다.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":45,"content":"면허 취소 처분이 통보되었습니다. 먼저 대상 면허번호는 61-72-789012-61 입니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":46,"content":"운전 경력 증명 발급이 완료되었습니다. 다만 면허번호 72-83-890123-72 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":47,"content":"면허 갱신 시기 안내 문자입니다. 그리고 면허번호 83-94-901234-83 을 확인하세요.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":48,"content":"무사고 운전자 포상 대상입니다. 아울러 면허번호 94-05-012345-94 로 신청하세요.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":49,"content":"교통법규 위반 벌점 부과 통지입니다. 참고로 면허번호 17-28-123456-17 에 5점 추가됩니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":50,"content":"면허증 재발급이 완료되었습니다. 또한 새로운 번호는 28-39-234567-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":51,"content":"차량 공유 이용 등록이 완료되었습니다. 먼저 면허번호 39-40-345678-39 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":52,"content":"면허 시험 접수가 완료되었습니다. 다만 기존 면허번호 40-51-456789-40 을 입력했습니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":53,"content":"보험 가입 심사가 완료되었습니다. 그리고 면허번호 51-62-567890-51 로 확인했습니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":54,"content":"운전 경력 확인서 발급 안내입니다. 아울러 면허번호 62-73-678901-62 를 기재했습니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":55,"content":"면허 정지 기간이 종료되었습니다. 참고로 면허번호 73-84-789012-73 은 복원됩니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":56,"content":"적성검사 합격 통지서입니다. 또한 면허번호 84-95-890123-84 로 갱신 완료되었습니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":57,"content":"벌점 감경 신청이 접수되었습니다. 먼저 면허번호 95-06-901234-95 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":58,"content":"면허 종류 변경이 완료되었습니다. 다만 면허번호 18-29-012345-18 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":59,"content":"국제면허 발급 신청이 접수되었습니다. 그리고 면허번호 29-30-123456-29 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":60,"content":"차량 대여 계약이 체결되었습니다. 아울러 면허번호 30-41-234567-30 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":61,"content":"면허증 분실 재발급 안내입니다. 참고로 기존 번호 41-52-345678-41 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":62,"content":"교통안전 교육 수료증이 발급되었습니다. 또한 면허번호 52-63-456789-52 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":63,"content":"면허 갱신 신청이 완료되었습니다. 먼저 현재 면허번호 63-74-567890-63 을 확인하세요.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":64,"content":"사고 내역 조회 결과입니다. 다만 면허번호 74-85-678901-74 에 1건 기록되어 있습니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":23,"end":38,"label":"DRIVER_LICENSE"}]}
+{"id":65,"content":"면허 적성검사 예약 확인서입니다. 그리고 면허번호 85-96-789012-85 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":66,"content":"운전 경력 인정서가 발급되었습니다. 아울러 면허번호 96-07-890123-96 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":67,"content":"벌금 납부 안내 문자입니다. 참고로 면허번호 19-20-901234-19 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":68,"content":"면허 정지 처분 결과 통지입니다. 또한 대상 면허번호는 20-31-012345-20 입니다.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":69,"content":"차량 등록 번호 변경이 완료되었습니다. 먼저 면허번호 31-42-123456-31 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":70,"content":"보험료 할인 대상자입니다. 다만 면허번호 42-53-234567-42 로 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":22,"end":37,"label":"DRIVER_LICENSE"}]}
+{"id":71,"content":"면허증 갱신 기한 안내입니다. 그리고 면허번호 53-64-345678-53 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":72,"content":"적성검사 불합격 통지서입니다. 아울러 면허번호 64-75-456789-64 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":73,"content":"운전면허 시험 합격 축하드립니다. 참고로 새로 발급된 번호는 75-86-567890-75 입니다.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":74,"content":"면허 취소 처분 사전 통지입니다. 또한 대상 면허번호는 86-97-678901-86 입니다.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":75,"content":"교통법규 위반 과태료 납부 안내입니다. 먼저 면허번호 97-08-789012-97 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":76,"content":"면허 재취득 시험 접수 완료되었습니다. 다만 이전 면허번호 10-21-890123-10 은 무효입니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":77,"content":"차량 공유 서비스 인증이 완료되었습니다. 그리고 면허번호 21-32-901234-21 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":78,"content":"면허증 사진 업데이트가 완료되었습니다. 아울러 면허번호 32-43-012345-32 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":79,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 43-54-123456-43 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":80,"content":"벌점 누적 경고 안내입니다. 또한 면허번호 54-65-234567-54 에 15점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":81,"content":"면허 갱신 교육 신청이 접수되었습니다. 먼저 면허번호 65-76-345678-65 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":82,"content":"적성검사 기간 연장 신청 완료되었습니다. 다만 면허번호 76-87-456789-76 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":83,"content":"국제운전면허증 발급이 완료되었습니다. 그리고 국내 면허번호 87-98-567890-87 입니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":84,"content":"면허증 영문 표기 변경이 완료되었습니다. 아울러 면허번호 98-09-678901-98 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":85,"content":"교통사고 처리 특례법 안내입니다. 참고로 면허번호 11-23-789012-11 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":86,"content":"면허 정지 기간 단축 신청이 접수되었습니다. 또한 면허번호 23-34-890123-23 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":87,"content":"운전면허 학과시험 합격 안내입니다. 먼저 접수번호와 함께 34-45-901234-34 를 기억하세요.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":88,"content":"차량 렌탈 예약이 확인되었습니다. 다만 등록된 면허번호 45-56-012345-45 를 확인하세요.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":89,"content":"면허 갱신 수수료 납부가 완료되었습니다. 그리고 면허번호 56-67-123456-56 로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":90,"content":"적성검사 연기 신청이 승인되었습니다. 아울러 면허번호 67-78-234567-67 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":91,"content":"운전 경력 조회 서비스 안내입니다. 참고로 면허번호 78-89-345678-78 로 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":92,"content":"면허증 훼손으로 재발급 신청되었습니다. 또한 기존 번호 89-90-456789-89 를 사용합니다.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":93,"content":"벌점 조회 결과 안내드립니다. 먼저 면허번호 90-01-567890-90 에 누적 벌점은 0점입니다.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":94,"content":"면허 취소 처분 취소 통지입니다. 다만 면허번호 12-34-678901-12 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":95,"content":"교통법규 교육 이수증 발급 완료되었습니다. 그리고 면허번호 23-45-789012-23 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":96,"content":"면허 갱신 완료 안내입니다. 아울러 새로운 유효기간은 면허번호 34-56-890123-34 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":97,"content":"적성검사 결과 통보서입니다. 참고로 면허번호 45-67-901234-45 로 합격 처리되었습니다.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":98,"content":"운전면허 발급 축하드립니다. 또한 새로 부여된 번호는 56-78-012345-56 입니다.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":99,"content":"차량 보험 가입 심사가 완료되었습니다. 먼저 면허번호 67-89-123456-67 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":100,"content":"면허 정지 처분 통지서를 발송합니다. 다만 대상 면허번호는 78-90-234567-78 입니다.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":101,"content":"교통 벌점 감점 신청이 승인되었습니다. 그리고 면허번호 89-01-345678-89 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":102,"content":"면허증 갱신 예약이 완료되었습니다. 아울러 면허번호 90-12-456789-90 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":103,"content":"운전 경력 증명 발급 신청 완료입니다. 참고로 면허번호 13-24-567890-13 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":104,"content":"면허 갱신 기한 도래 안내입니다. 또한 면허번호 24-35-678901-24 를 확인하세요.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":105,"content":"적성검사 불참 통지서입니다. 먼저 면허번호 35-46-789012-35 로 재예약이 필요합니다.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":23,"end":38,"label":"DRIVER_LICENSE"}]}
+{"id":106,"content":"국제면허증 유효기간 만료 안내입니다. 다만 국내 면허번호 46-57-890123-46 은 유효합니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":107,"content":"면허 재발급 신청이 접수되었습니다. 그리고 면허번호 57-68-901234-57 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":108,"content":"차량 등록 업무 처리 완료되었습니다. 아울러 면허번호 68-79-012345-68 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":109,"content":"운전면허 시험 접수 확인서입니다. 참고로 기존 면허번호 79-80-123456-79 를 기재했습니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":110,"content":"면허 정지 기간 종료 안내입니다. 또한 면허번호 80-91-234567-80 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":111,"content":"교통안전 교육 수강 안내입니다. 먼저 면허번호 91-02-345678-91 로 신청하세요.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":112,"content":"면허증 사진 교체가 완료되었습니다. 다만 면허번호 14-25-456789-14 는 변경 없습니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":113,"content":"벌금 납부 확인증을 발급했습니다. 그리고 면허번호 25-36-567890-25 로 처리되었습니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":114,"content":"면허 갱신 신청서가 접수되었습니다. 아울러 면허번호 36-47-678901-36 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":115,"content":"적성검사 예약 변경이 완료되었습니다. 참고로 면허번호 47-58-789012-47 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":116,"content":"운전 경력 확인서 발급 완료입니다. 또한 면허번호 58-69-890123-58 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":117,"content":"면허 취소 처분 확정 통지입니다. 먼저 대상 면허번호는 69-70-901234-69 입니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":118,"content":"차량 공유 서비스 등록 완료되었습니다. 다만 면허번호 70-81-012345-70 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":119,"content":"면허증 분실 신고 접수 완료입니다. 그리고 기존 번호 81-92-123456-81 은 무효화됩니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":120,"content":"교통법규 위반 통지서입니다. 아울러 면허번호 92-03-234567-92 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":121,"content":"면허 갱신 교육 이수 완료되었습니다. 참고로 면허번호 15-26-345678-15 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":122,"content":"적성검사 합격 축하드립니다. 또한 면허번호 26-37-456789-26 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":123,"content":"운전면허 학과시험 일정 안내입니다. 먼저 수험번호와 면허번호 37-48-567890-37 을 확인하세요.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":124,"content":"면허증 재교부 신청이 승인되었습니다. 다만 면허번호 48-59-678901-48 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":125,"content":"벌점 감경 교육 이수 확인서입니다. 그리고 면허번호 59-60-789012-59 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":126,"content":"면허 정지 처분 집행 유예 통지입니다. 아울러 면허번호 60-71-890123-60 이 대상입니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":127,"content":"차량 렌탈 이용 내역 확인서입니다. 참고로 등록된 면허번호 71-82-901234-71 입니다.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":128,"content":"면허 갱신 완료 통지서입니다. 또한 새로운 유효기간과 함께 면허번호 82-93-012345-82 를 확인하세요.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":129,"content":"운전 경력 증명서가 발급되었습니다. 먼저 면허번호 93-04-123456-93 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":130,"content":"적성검사 면제 대상자 안내입니다. 다만 면허번호 16-27-234567-16 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":131,"content":"면허증 영문 변경 신청이 완료되었습니다. 그리고 면허번호 27-38-345678-27 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":132,"content":"교통사고 경위서 제출 안내입니다. 아울러 면허번호 38-49-456789-38 를 기재하세요.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":133,"content":"면허 종별 추가 완료 통지입니다. 참고로 면허번호 49-50-567890-49 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":134,"content":"운전면허 시험 불합격 안내입니다. 또한 재시험 접수 시 면허번호 50-61-678901-50 을 입력하세요.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":135,"content":"면허 갱신 수수료 환불 안내입니다. 먼저 면허번호 61-72-789012-61 로 확인했습니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":136,"content":"적성검사 결과 통지서를 발송합니다. 다만 면허번호 72-83-890123-72 로 합격했습니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":137,"content":"차량 보험 갱신 안내입니다. 그리고 등록된 면허번호 83-94-901234-83 을 확인하세요.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":138,"content":"면허증 주소 변경이 완료되었습니다. 아울러 면허번호 94-05-012345-94 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":139,"content":"운전 경력 조회 결과입니다. 참고로 면허번호 17-28-123456-17 에 10년 경력이 있습니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":23,"end":38,"label":"DRIVER_LICENSE"}]}
+{"id":140,"content":"면허 정지 처분 사전 예고입니다. 또한 대상 면허번호는 28-39-234567-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":141,"content":"교통법규 교육 이수 완료 통지입니다. 먼저 면허번호 39-40-345678-39 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":142,"content":"면허 갱신 신청 접수 완료입니다. 다만 현재 면허번호 40-51-456789-40 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":143,"content":"적성검사 예약 확인서를 발송합니다. 그리고 면허번호 51-62-567890-51 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":144,"content":"운전면허 발급 완료 안내입니다. 아울러 새로 부여된 번호는 62-73-678901-62 입니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":145,"content":"면허증 분실 재발급이 완료되었습니다. 참고로 면허번호 73-84-789012-73 은 동일합니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":146,"content":"벌점 조회 서비스 안내입니다. 또한 면허번호 84-95-890123-84 로 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":147,"content":"면허 정지 처분 이의 신청이 접수되었습니다. 먼저 면허번호 95-06-901234-95 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":148,"content":"차량 등록 변경 신청이 완료되었습니다. 다만 면허번호 18-29-012345-18 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":149,"content":"면허 갱신 기한 임박 안내입니다. 그리고 면허번호 29-30-123456-29 를 확인하세요.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":150,"content":"적성검사 재검 신청이 승인되었습니다. 아울러 면허번호 30-41-234567-30 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":151,"content":"운전 경력 증명 발급 신청이 완료되었습니다. 참고로 면허번호 41-52-345678-41 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":152,"content":"면허증 재발급 수수료 납부 안내입니다. 또한 면허번호 52-63-456789-52 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":153,"content":"교통 범칙금 부과 통지서입니다. 먼저 면허번호 63-74-567890-63 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":154,"content":"면허 취소 처분 취소 신청이 접수되었습니다. 다만 면허번호 74-85-678901-74 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":155,"content":"적성검사 합격 통지서를 발송합니다. 그리고 면허번호 85-96-789012-85 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":156,"content":"운전면허 학과시험 합격 축하드립니다. 아울러 다음 단계는 면허번호 96-07-890123-96 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":157,"content":"면허 갱신 완료 확인서입니다. 참고로 갱신된 면허번호 19-20-901234-19 를 확인하세요.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":158,"content":"차량 공유 이용 등록 완료 안내입니다. 또한 면허번호 20-31-012345-20 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":159,"content":"면허증 훼손 재발급 신청이 접수되었습니다. 먼저 기존 면허번호 31-42-123456-31 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":160,"content":"벌점 누적 현황 안내입니다. 다만 면허번호 42-53-234567-42 에 누적 5점입니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":23,"end":38,"label":"DRIVER_LICENSE"}]}
+{"id":161,"content":"면허 갱신 교육 신청 완료 통지입니다. 그리고 면허번호 53-64-345678-53 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":162,"content":"적성검사 예약 취소가 완료되었습니다. 아울러 면허번호 64-75-456789-64 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":163,"content":"운전 경력 확인서 발급이 완료되었습니다. 참고로 면허번호 75-86-567890-75 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":164,"content":"면허 정지 해제 통지서입니다. 또한 면허번호 86-97-678901-86 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":165,"content":"교통법규 위반 경고 안내입니다. 먼저 면허번호 97-08-789012-97 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":166,"content":"면허증 사진 변경이 완료되었습니다. 다만 면허번호 10-21-890123-10 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":167,"content":"차량 렌탈 반납 확인서입니다. 그리고 등록된 면허번호 21-32-901234-21 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":168,"content":"면허 갱신 신청서 접수 완료입니다. 아울러 현재 면허번호 32-43-012345-32 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":169,"content":"적성검사 면제 확인서를 발급했습니다. 참고로 면허번호 43-54-123456-43 입니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":170,"content":"운전면허 시험 접수 완료 안내입니다. 또한 수험번호와 함께 면허번호 54-65-234567-54 를 기억하세요.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":171,"content":"면허증 분실 신고가 완료되었습니다. 먼저 기존 번호 65-76-345678-65 는 무효 처리됩니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":172,"content":"벌점 감경 신청 승인 통지입니다. 다만 면허번호 76-87-456789-76 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":173,"content":"면허 갱신 기한 연장 신청이 접수되었습니다. 그리고 면허번호 87-98-567890-87 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":174,"content":"적성검사 결과 불합격 통지입니다. 아울러 면허번호 98-09-678901-98 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":175,"content":"운전 경력 증명서 발급 완료 안내입니다. 참고로 면허번호 11-23-789012-11 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":176,"content":"면허 취소 처분 확정 통지서입니다. 또한 대상 면허번호는 23-34-890123-23 입니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":177,"content":"교통 범칙금 납부 완료 확인서입니다. 먼저 면허번호 34-45-901234-34 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":178,"content":"면허증 갱신 예약 변경이 완료되었습니다. 다만 면허번호 45-56-012345-45 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":179,"content":"차량 보험 가입 승인 안내입니다. 그리고 등록된 면허번호 56-67-123456-56 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":180,"content":"면허 갱신 수수료 납부 확인서입니다. 아울러 면허번호 67-78-234567-67 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":181,"content":"적성검사 예약 확인 문자입니다. 참고로 면허번호 78-89-345678-78 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":182,"content":"운전면허 학과시험 일정 변경 안내입니다. 또한 수험번호와 함께 면허번호 89-90-456789-89 를 확인하세요.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":183,"content":"면허증 주소 변경 신청이 완료되었습니다. 먼저 면허번호 90-01-567890-90 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":184,"content":"벌점 조회 결과 통지서입니다. 다만 면허번호 12-34-678901-12 에 누적 벌점은 8점입니다.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":185,"content":"면허 정지 처분 통지서를 발송했습니다. 그리고 대상 면허번호는 23-45-789012-23 입니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":186,"content":"적성검사 합격 축하 메시지입니다. 아울러 면허번호 34-56-890123-34 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":187,"content":"운전 경력 조회 서비스 이용 안내입니다. 참고로 면허번호 45-67-901234-45 로 조회하세요.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":188,"content":"면허 갱신 완료 통지서를 발송합니다. 또한 새로운 유효기간은 면허번호 56-78-012345-56 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":189,"content":"차량 등록 신청이 접수되었습니다. 먼저 등록된 면허번호 67-89-123456-67 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":190,"content":"면허증 영문 표기 변경 완료입니다. 다만 면허번호 78-90-234567-78 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":191,"content":"교통안전 교육 수료 확인서입니다. 그리고 면허번호 89-01-345678-89 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":192,"content":"면허 재발급 신청 승인 통지입니다. 아울러 면허번호 90-12-456789-90 로 발급됩니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":193,"content":"적성검사 예약 안내 문자입니다. 참고로 면허번호 13-24-567890-13 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":194,"content":"운전면허 시험 합격 축하드립니다. 또한 새로 발급된 번호는 24-35-678901-24 입니다.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":195,"content":"면허 정지 해제 확인서를 발급했습니다. 먼저 면허번호 35-46-789012-35 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":196,"content":"벌금 납부 독촉 통지서입니다. 다만 면허번호 46-57-890123-46 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":197,"content":"면허 갱신 신청 접수 확인서입니다. 그리고 면허번호 57-68-901234-57 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":198,"content":"적성검사 불참 벌점 부과 안내입니다. 아울러 면허번호 68-79-012345-68 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":199,"content":"운전 경력 증명 신청 완료 통지입니다. 참고로 면허번호 79-80-123456-79 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":200,"content":"면허증 분실 재발급 완료 안내입니다. 또한 새로운 번호는 80-91-234567-80 입니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":201,"content":"차량 공유 서비스 인증 완료 통지입니다. 먼저 면허번호 91-02-345678-91 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":202,"content":"면허 갱신 기한 안내 문자입니다. 다만 면허번호 14-25-456789-14 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":203,"content":"교통법규 위반 통지서를 발송합니다. 그리고 면허번호 25-36-567890-25 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":204,"content":"면허 취소 처분 집행 통지입니다. 아울러 대상 면허번호는 36-47-678901-36 입니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":205,"content":"적성검사 재예약 안내 메시지입니다. 참고로 면허번호 47-58-789012-47 로 예약하세요.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":206,"content":"운전면허 발급 신청이 접수되었습니다. 또한 임시 번호 58-69-890123-58 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":207,"content":"면허증 사진 변경 신청 완료 통지입니다. 먼저 면허번호 69-70-901234-69 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":208,"content":"벌점 감경 교육 이수 완료입니다. 다만 면허번호 70-81-012345-70 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":209,"content":"면허 갱신 교육 신청 접수 확인서입니다. 그리고 면허번호 81-92-123456-81 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":210,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 92-03-234567-92 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":211,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 15-26-345678-15 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":212,"content":"면허 정지 기간 연장 통지입니다. 또한 대상 면허번호는 26-37-456789-26 입니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":213,"content":"차량 렌탈 이용 완료 확인서입니다. 먼저 등록된 면허번호 37-48-567890-37 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":214,"content":"면허증 재교부 완료 안내입니다. 다만 면허번호 48-59-678901-48 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":215,"content":"교통안전 교육 수강 완료 통지입니다. 그리고 면허번호 59-60-789012-59 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":216,"content":"면허 갱신 신청 승인 통지서입니다. 아울러 면허번호 60-71-890123-60 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":217,"content":"적성검사 예약 완료 확인 문자입니다. 참고로 면허번호 71-82-901234-71 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":218,"content":"운전면허 시험 불합격 통지입니다. 또한 재시험 시 면허번호 82-93-012345-82 를 입력하세요.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":219,"content":"면허증 분실 신고 접수 완료 안내입니다. 먼저 기존 번호 93-04-123456-93 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":220,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 16-27-234567-16 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":221,"content":"면허 갱신 완료 통지 문자입니다. 그리고 새로운 유효기간은 면허번호 27-38-345678-27 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":222,"content":"적성검사 면제 대상자 확인서입니다. 아울러 면허번호 38-49-456789-38 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":223,"content":"운전 경력 증명서 발급 신청 접수 완료입니다. 참고로 면허번호 49-50-567890-49 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":224,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 50-61-678901-50 입니다.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":225,"content":"차량 보험 가입 완료 안내입니다. 먼저 등록된 면허번호 61-72-789012-61 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":226,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 72-83-890123-72 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":227,"content":"교통법규 위반 경고 문자입니다. 그리고 면허번호 83-94-901234-83 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":228,"content":"면허 재발급 수수료 납부 안내입니다. 아울러 면허번호 94-05-012345-94 로 납부하세요.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":229,"content":"적성검사 불합격 통지서를 발송합니다. 참고로 면허번호 17-28-123456-17 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":230,"content":"운전면허 발급 완료 축하드립니다. 또한 새로 부여된 번호는 28-39-234567-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":231,"content":"면허 취소 처분 사전 통지서입니다. 먼저 대상 면허번호는 39-40-345678-39 입니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":232,"content":"벌점 누적 경고 통지서를 발송합니다. 다만 면허번호 40-51-456789-40 에 12점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":233,"content":"면허 갱신 기한 연장 신청 완료입니다. 그리고 면허번호 51-62-567890-51 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":234,"content":"적성검사 예약 변경 완료 안내입니다. 아울러 면허번호 62-73-678901-62 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":235,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 73-84-789012-73 에 15년 경력입니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":236,"content":"면허증 주소 변경 완료 통지입니다. 또한 면허번호 84-95-890123-84 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":237,"content":"차량 등록 변경 신청 승인 안내입니다. 먼저 면허번호 95-06-901234-95 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":238,"content":"면허 갱신 교육 이수 확인서입니다. 다만 면허번호 18-29-012345-18 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":239,"content":"교통안전 교육 신청 접수 완료입니다. 그리고 면허번호 29-30-123456-29 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":240,"content":"면허 정지 해제 확인 통지서입니다. 아울러 면허번호 30-41-234567-30 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":241,"content":"적성검사 합격 축하 문자입니다. 참고로 면허번호 41-52-345678-41 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":242,"content":"운전면허 학과시험 접수 완료 통지입니다. 또한 수험번호와 함께 면허번호 52-63-456789-52 를 확인하세요.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":243,"content":"면허증 영문 발급 완료 안내입니다. 먼저 면허번호 63-74-567890-63 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":244,"content":"벌금 납부 독촉 안내 문자입니다. 다만 면허번호 74-85-678901-74 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":245,"content":"면허 갱신 신청 접수 완료 통지입니다. 그리고 면허번호 85-96-789012-85 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":246,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 96-07-890123-96 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":247,"content":"운전 경력 증명 발급 완료 통지입니다. 참고로 면허번호 19-20-901234-19 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":248,"content":"면허 취소 처분 취소 확인서입니다. 또한 면허번호 20-31-012345-20 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":249,"content":"차량 공유 이용 등록 승인 안내입니다. 먼저 면허번호 31-42-123456-31 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":250,"content":"면허증 분실 재발급 신청 접수 완료입니다. 다만 기존 번호 42-53-234567-42 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":251,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 53-64-345678-53 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":252,"content":"면허 갱신 완료 확인 문자입니다. 아울러 새로운 유효기간은 면허번호 64-75-456789-64 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":253,"content":"적성검사 재검 신청 승인 통지입니다. 참고로 면허번호 75-86-567890-75 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":254,"content":"운전면허 시험 합격 통지서를 발송합니다. 또한 새로 발급된 번호는 86-97-678901-86 입니다.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":255,"content":"면허 정지 기간 단축 승인 안내입니다. 먼저 면허번호 97-08-789012-97 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":256,"content":"벌점 감경 신청 완료 통지서입니다. 다만 면허번호 10-21-890123-10 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":26,"end":41,"label":"DRIVER_LICENSE"}]}
+{"id":257,"content":"면허 갱신 예약 완료 안내 문자입니다. 그리고 면허번호 21-32-901234-21 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":258,"content":"적성검사 불참 과태료 부과 통지입니다. 아울러 면허번호 32-43-012345-32 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":259,"content":"운전 경력 확인서 발급 신청 완료입니다. 참고로 면허번호 43-54-123456-43 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":260,"content":"면허증 사진 업데이트 완료 통지입니다. 또한 면허번호 54-65-234567-54 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":261,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 65-76-345678-65 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":262,"content":"면허 갱신 기한 도래 통지 문자입니다. 다만 면허번호 76-87-456789-76 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":263,"content":"교통안전 교육 이수 완료 확인서입니다. 그리고 면허번호 87-98-567890-87 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":264,"content":"면허 재발급 완료 안내 통지입니다. 아울러 면허번호 98-09-678901-98 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":265,"content":"적성검사 예약 취소 완료 안내입니다. 참고로 면허번호 11-23-789012-11 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":266,"content":"운전면허 발급 신청 승인 통지서입니다. 또한 임시 번호 23-34-890123-23 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":267,"content":"면허 정지 처분 집행 통지서를 발송합니다. 먼저 대상 면허번호는 34-45-901234-34 입니다.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":268,"content":"벌금 납부 완료 확인 통지입니다. 다만 면허번호 45-56-012345-45 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":25,"end":40,"label":"DRIVER_LICENSE"}]}
+{"id":269,"content":"면허 갱신 신청서 접수 완료 안내입니다. 그리고 면허번호 56-67-123456-56 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":270,"content":"적성검사 합격 통지 문자를 발송합니다. 아울러 면허번호 67-78-234567-67 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":271,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 78-89-345678-78 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":272,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 89-90-456789-89 입니다.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":273,"content":"차량 보험 갱신 안내 문자입니다. 먼저 등록된 면허번호 90-01-567890-90 을 확인하세요.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":274,"content":"면허증 갱신 예약 변경 완료 통지입니다. 다만 면허번호 12-34-678901-12 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":275,"content":"교통법규 위반 과태료 납부 안내입니다. 그리고 면허번호 23-45-789012-23 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":276,"content":"면허 갱신 교육 수강 완료 확인서입니다. 아울러 면허번호 34-56-890123-34 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":277,"content":"적성검사 예약 안내 문자를 발송합니다. 참고로 면허번호 45-67-901234-45 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":278,"content":"운전면허 시험 접수 완료 확인서입니다. 또한 수험번호와 함께 면허번호 56-78-012345-56 를 기억하세요.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":279,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 67-89-123456-67 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":280,"content":"벌점 조회 결과 안내 문자입니다. 다만 면허번호 78-90-234567-78 에 누적 벌점은 3점입니다.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":24,"end":39,"label":"DRIVER_LICENSE"}]}
+{"id":281,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 89-01-345678-89 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":282,"content":"적성검사 불합격 재검 안내입니다. 아울러 면허번호 90-12-456789-90 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":283,"content":"운전 경력 조회 서비스 이용 완료입니다. 참고로 면허번호 13-24-567890-13 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":284,"content":"면허증 영문 표기 변경 신청 완료입니다. 또한 면허번호 24-35-678901-24 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":285,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 35-46-789012-35 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":286,"content":"면허 갱신 기한 연장 승인 안내입니다. 다만 면허번호 46-57-890123-46 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":287,"content":"교통안전 교육 신청 완료 통지입니다. 그리고 면허번호 57-68-901234-57 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":288,"content":"면허 재발급 신청 접수 완료 안내입니다. 아울러 면허번호 68-79-012345-68 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":289,"content":"적성검사 예약 확인 문자를 발송합니다. 참고로 면허번호 79-80-123456-79 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":290,"content":"운전면허 발급 축하 메시지입니다. 또한 새로 부여된 번호는 80-91-234567-80 입니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":291,"content":"면허 취소 처분 사전 예고 통지입니다. 먼저 대상 면허번호는 91-02-345678-91 입니다.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":292,"content":"벌금 납부 독촉 통지서를 발송합니다. 다만 면허번호 14-25-456789-14 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":293,"content":"면허 갱신 신청 완료 안내 문자입니다. 그리고 면허번호 25-36-567890-25 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":294,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 36-47-678901-36 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":295,"content":"운전 경력 증명 발급 완료 안내입니다. 참고로 면허번호 47-58-789012-47 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":296,"content":"면허 정지 기간 종료 통지서를 발송합니다. 또한 면허번호 58-69-890123-58 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":297,"content":"차량 공유 서비스 등록 승인 안내입니다. 먼저 면허번호 69-70-901234-69 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":298,"content":"면허증 분실 재발급 완료 통지입니다. 다만 면허번호 70-81-012345-70 은 동일합니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":299,"content":"교통법규 교육 수료증 발급 완료입니다. 그리고 면허번호 81-92-123456-81 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":300,"content":"면허 갱신 예약 완료 확인 문자입니다. 아울러 면허번호 92-03-234567-92 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":301,"content":"적성검사 재예약 안내 통지서를 발송합니다. 참고로 면허번호 15-26-345678-15 로 예약하세요.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":302,"content":"운전면허 학과시험 합격 통지입니다. 또한 다음 단계는 면허번호 26-37-456789-26 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":303,"content":"면허증 주소 변경 신청 완료 안내입니다. 먼저 면허번호 37-48-567890-37 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":304,"content":"벌점 감경 교육 이수 완료 통지입니다. 다만 면허번호 48-59-678901-48 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":305,"content":"면허 갱신 교육 신청 접수 완료 안내입니다. 그리고 면허번호 59-60-789012-59 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":306,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 60-71-890123-60 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":307,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 71-82-901234-71 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":308,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 82-93-012345-82 입니다.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":309,"content":"차량 렌탈 이용 완료 확인 통지입니다. 먼저 등록된 면허번호 93-04-123456-93 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":310,"content":"면허증 재교부 완료 안내 문자입니다. 다만 면허번호 16-27-234567-16 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":311,"content":"교통안전 교육 수강 완료 확인서입니다. 그리고 면허번호 27-38-345678-27 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":312,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 38-49-456789-38 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":313,"content":"적성검사 예약 완료 확인 통지입니다. 참고로 면허번호 49-50-567890-49 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":314,"content":"운전면허 시험 불합격 통지서를 발송합니다. 또한 재시험 시 면허번호 50-61-678901-50 를 입력하세요.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":315,"content":"면허증 분실 신고 접수 완료 통지입니다. 먼저 기존 번호 61-72-789012-61 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":316,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 72-83-890123-72 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":317,"content":"면허 갱신 완료 통지 문자를 발송합니다. 그리고 새로운 유효기간은 면허번호 83-94-901234-83 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":318,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 94-05-012345-94 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":319,"content":"운전 경력 증명서 발급 신청 접수 완료 통지입니다. 참고로 면허번호 17-28-123456-17 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":320,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 28-39-234567-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":321,"content":"차량 보험 가입 완료 안내 문자입니다. 먼저 등록된 면허번호 39-40-345678-39 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":322,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 40-51-456789-40 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":323,"content":"교통법규 위반 경고 문자를 발송합니다. 그리고 면허번호 51-62-567890-51 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":324,"content":"면허 재발급 수수료 납부 안내 문자입니다. 아울러 면허번호 62-73-678901-62 로 납부하세요.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":325,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 73-84-789012-73 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":326,"content":"운전면허 발급 완료 축하 메시지입니다. 또한 새로 부여된 번호는 84-95-890123-84 입니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":327,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 95-06-901234-95 입니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":328,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 18-29-012345-18 에 18점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":329,"content":"면허 갱신 기한 연장 신청 완료 통지입니다. 그리고 면허번호 29-30-123456-29 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":330,"content":"적성검사 예약 변경 완료 안내 문자입니다. 아울러 면허번호 30-41-234567-30 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":331,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 41-52-345678-41 에 20년 경력입니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":332,"content":"면허증 주소 변경 완료 통지서를 발송합니다. 또한 면허번호 52-63-456789-52 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":333,"content":"차량 등록 변경 신청 승인 안내 문자입니다. 먼저 면허번호 63-74-567890-63 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":334,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 74-85-678901-74 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":335,"content":"교통안전 교육 신청 접수 완료 통지입니다. 그리고 면허번호 85-96-789012-85 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":336,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 96-07-890123-96 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":337,"content":"적성검사 합격 축하 문자를 발송합니다. 참고로 면허번호 19-20-901234-19 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":338,"content":"운전면허 학과시험 접수 완료 통지서입니다. 또한 수험번호와 함께 면허번호 20-31-012345-20 를 확인하세요.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":339,"content":"면허증 영문 발급 완료 안내 문자입니다. 먼저 면허번호 31-42-123456-31 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":340,"content":"벌금 납부 독촉 안내 통지서를 발송합니다. 다만 면허번호 42-53-234567-42 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":341,"content":"면허 갱신 신청 접수 완료 통지서입니다. 그리고 면허번호 53-64-345678-53 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","bin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":342,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 64-75-456789-64 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":343,"content":"운전 경력 증명 발급 완료 통지서입니다. 참고로 면허번호 75-86-567890-75 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":344,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 86-97-678901-86 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":345,"content":"차량 공유 이용 등록 승인 안내 문자입니다. 먼저 면허번호 97-08-789012-97 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":346,"content":"면허증 분실 재발급 신청 접수 완료 통지입니다. 다만 기존 번호 10-21-890123-10 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":347,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 21-32-901234-21 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":348,"content":"면허 갱신 완료 확인 문자를 발송합니다. 아울러 새로운 유효기간은 면허번호 32-43-012345-32 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":349,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 43-54-123456-43 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":350,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 54-65-234567-54 입니다.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":351,"content":"면허 정지 기간 단축 승인 안내 문자입니다. 먼저 면허번호 65-76-345678-65 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":352,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 76-87-456789-76 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":353,"content":"면허 갱신 예약 완료 안내 통지입니다. 그리고 면허번호 87-98-567890-87 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":354,"content":"적성검사 불참 과태료 부과 통지서를 발송합니다. 아울러 면허번호 98-09-678901-98 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":355,"content":"운전 경력 확인서 발급 신청 완료 통지입니다. 참고로 면허번호 11-23-789012-11 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":356,"content":"면허증 사진 업데이트 완료 통지서를 발송합니다. 또한 면허번호 23-34-890123-23 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":357,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 34-45-901234-34 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":358,"content":"면허 갱신 기한 도래 통지 문자를 발송합니다. 다만 면허번호 45-56-012345-45 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":359,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 56-67-123456-56 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":360,"content":"면허 재발급 완료 안내 통지서를 발송합니다. 아울러 면허번호 67-78-234567-67 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":361,"content":"적성검사 예약 취소 완료 안내 문자입니다. 참고로 면허번호 78-89-345678-78 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":362,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 89-90-456789-89 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":363,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 90-01-567890-90 입니다.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":364,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 12-34-678901-12 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":365,"content":"면허 갱신 신청서 접수 완료 안내 문자입니다. 그리고 면허번호 23-45-789012-23 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":366,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 34-56-890123-34 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":367,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 45-67-901234-45 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":368,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 56-78-012345-56 입니다.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":369,"content":"차량 보험 갱신 안내 문자를 발송합니다. 먼저 등록된 면허번호 67-89-123456-67 을 확인하세요.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":370,"content":"면허증 갱신 예약 변경 완료 통지서입니다. 다만 면허번호 78-90-234567-78 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":371,"content":"교통법규 위반 과태료 납부 안내 문자입니다. 그리고 면허번호 89-01-345678-89 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":372,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 90-12-456789-90 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":373,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 13-24-567890-13 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":374,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 24-35-678901-24 를 기억하세요.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":375,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 35-46-789012-35 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":376,"content":"벌점 조회 결과 안내 문자를 발송합니다. 다만 면허번호 46-57-890123-46 에 누적 벌점은 7점입니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":377,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 57-68-901234-57 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":378,"content":"적성검사 불합격 재검 안내 문자입니다. 아울러 면허번호 68-79-012345-68 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":379,"content":"운전 경력 조회 서비스 이용 완료 통지입니다. 참고로 면허번호 79-80-123456-79 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":380,"content":"면허증 영문 표기 변경 신청 완료 통지입니다. 또한 면허번호 80-91-234567-80 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":381,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 91-02-345678-91 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":382,"content":"면허 갱신 기한 연장 승인 안내 문자입니다. 다만 면허번호 14-25-456789-14 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":383,"content":"교통안전 교육 신청 완료 통지서를 발송합니다. 그리고 면허번호 25-36-567890-25 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":384,"content":"면허 재발급 신청 접수 완료 안내 문자입니다. 아울러 면허번호 36-47-678901-36 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":385,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 47-58-789012-47 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":386,"content":"운전면허 발급 축하 메시지를 발송합니다. 또한 새로 부여된 번호는 58-69-890123-58 입니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":387,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 69-70-901234-69 입니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":388,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 70-81-012345-70 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":389,"content":"면허 갱신 신청 완료 안내 통지입니다. 그리고 면허번호 81-92-123456-81 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":390,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 92-03-234567-92 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":391,"content":"운전 경력 증명 발급 완료 안내 문자입니다. 참고로 면허번호 15-26-345678-15 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":392,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 26-37-456789-26 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":393,"content":"차량 공유 서비스 등록 승인 안내 문자입니다. 먼저 면허번호 37-48-567890-37 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":394,"content":"면허증 분실 재발급 완료 통지서를 발송합니다. 다만 면허번호 48-59-678901-48 은 동일합니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":395,"content":"교통법규 교육 수료증 발급 완료 통지입니다. 그리고 면허번호 59-60-789012-59 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":396,"content":"면허 갱신 예약 완료 확인 문자를 발송합니다. 아울러 면허번호 60-71-890123-60 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":397,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 71-82-901234-71 로 예약하세요.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":398,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 82-93-012345-82 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":399,"content":"면허증 주소 변경 신청 완료 안내 문자입니다. 먼저 면허번호 93-04-123456-93 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":400,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 16-27-234567-16 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":401,"content":"면허 갱신 교육 신청 접수 완료 안내 문자입니다. 그리고 면허번호 27-38-345678-27 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":402,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 38-49-456789-38 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":403,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 49-50-567890-49 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":404,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 50-61-678901-50 입니다.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":405,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 61-72-789012-61 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":406,"content":"면허증 재교부 완료 안내 문자를 발송합니다. 다만 면허번호 72-83-890123-72 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":407,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 83-94-901234-83 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":408,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 94-05-012345-94 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":409,"content":"적성검사 예약 완료 확인 통지서를 발송합니다. 참고로 면허번호 17-28-123456-17 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":410,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 28-39-234567-28 를 입력하세요.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":411,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 39-40-345678-39 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":412,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 40-51-456789-40 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":413,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 51-62-567890-51 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":414,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 62-73-678901-62 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":415,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서입니다. 참고로 면허번호 73-84-789012-73 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":416,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 84-95-890123-84 입니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":417,"content":"차량 보험 가입 완료 안내 통지입니다. 먼저 등록된 면허번호 95-06-901234-95 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":418,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 18-29-012345-18 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":419,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 29-30-123456-29 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":420,"content":"면허 재발급 수수료 납부 안내 통지입니다. 아울러 면허번호 30-41-234567-30 로 납부하세요.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":421,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 41-52-345678-41 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":422,"content":"운전면허 발급 완료 축하 메시지를 발송합니다. 또한 새로 부여된 번호는 52-63-456789-52 입니다.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":423,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 63-74-567890-63 입니다.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":424,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 74-85-678901-74 에 20점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":425,"content":"면허 갱신 기한 연장 신청 완료 통지서입니다. 그리고 면허번호 85-96-789012-85 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":426,"content":"적성검사 예약 변경 완료 안내 통지입니다. 아울러 면허번호 96-07-890123-96 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":427,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 19-20-901234-19 에 25년 경력입니다.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":428,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 20-31-012345-20 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":429,"content":"차량 등록 변경 신청 승인 안내 통지입니다. 먼저 면허번호 31-42-123456-31 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":430,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 42-53-234567-42 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":431,"content":"교통안전 교육 신청 접수 완료 통지서입니다. 그리고 면허번호 53-64-345678-53 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":432,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 64-75-456789-64 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":433,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 75-86-567890-75 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":434,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 86-97-678901-86 를 확인하세요.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":435,"content":"면허증 영문 발급 완료 안내 통지입니다. 먼저 면허번호 97-08-789012-97 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":436,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 10-21-890123-10 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":437,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 21-32-901234-21 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":438,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 32-43-012345-32 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":439,"content":"운전 경력 증명 발급 완료 통지서를 발송합니다. 참고로 면허번호 43-54-123456-43 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":440,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 54-65-234567-54 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":441,"content":"차량 공유 이용 등록 승인 안내 통지입니다. 먼저 면허번호 65-76-345678-65 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":442,"content":"면허증 분실 재발급 신청 접수 완료 통지서입니다. 다만 기존 번호 76-87-456789-76 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":443,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 87-98-567890-87 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":444,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 98-09-678901-98 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":445,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 11-23-789012-11 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":446,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 23-34-890123-23 입니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":447,"content":"면허 정지 기간 단축 승인 안내 통지입니다. 먼저 면허번호 34-45-901234-34 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":448,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 45-56-012345-45 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":449,"content":"면허 갱신 예약 완료 안내 통지서를 발송합니다. 그리고 면허번호 56-67-123456-56 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":450,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 67-78-234567-67 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":451,"content":"운전 경력 확인서 발급 신청 완료 통지서입니다. 참고로 면허번호 78-89-345678-78 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":452,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 89-90-456789-89 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":453,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 90-01-567890-90 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":454,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 12-34-678901-12 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":455,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 23-45-789012-23 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":456,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 34-56-890123-34 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":457,"content":"적성검사 예약 취소 완료 안내 통지입니다. 참고로 면허번호 45-67-901234-45 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":458,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 56-78-012345-56 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":459,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 67-89-123456-67 입니다.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":460,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 78-90-234567-78 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":461,"content":"면허 갱신 신청서 접수 완료 안내 통지입니다. 그리고 면허번호 89-01-345678-89 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":462,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 90-12-456789-90 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":463,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 13-24-567890-13 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":464,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 24-35-678901-24 입니다.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":465,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 35-46-789012-35 을 확인하세요.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":466,"content":"면허증 갱신 예약 변경 완료 통지서를 발송합니다. 다만 면허번호 46-57-890123-46 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":467,"content":"교통법규 위반 과태료 납부 안내 통지입니다. 그리고 면허번호 57-68-901234-57 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":468,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 68-79-012345-68 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":469,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 79-80-123456-79 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":470,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 80-91-234567-80 를 기억하세요.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":471,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 91-02-345678-91 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":472,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 14-25-456789-14 에 누적 벌점은 2점입니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":473,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 25-36-567890-25 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":474,"content":"적성검사 불합격 재검 안내 통지입니다. 아울러 면허번호 36-47-678901-36 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":475,"content":"운전 경력 조회 서비스 이용 완료 통지서입니다. 참고로 면허번호 47-58-789012-47 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":476,"content":"면허증 영문 표기 변경 신청 완료 통지서입니다. 또한 면허번호 58-69-890123-58 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":477,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 69-70-901234-69 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":478,"content":"면허 갱신 기한 연장 승인 안내 통지입니다. 다만 면허번호 70-81-012345-70 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":479,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 81-92-123456-81 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":480,"content":"면허 재발급 신청 접수 완료 안내 통지입니다. 아울러 면허번호 92-03-234567-92 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":481,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 15-26-345678-15 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":482,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 26-37-456789-26 입니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":483,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 37-48-567890-37 입니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":484,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 48-59-678901-48 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":485,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 59-60-789012-59 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":486,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 60-71-890123-60 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":487,"content":"운전 경력 증명 발급 완료 안내 통지입니다. 참고로 면허번호 71-82-901234-71 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":488,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 82-93-012345-82 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":489,"content":"차량 공유 서비스 등록 승인 안내 통지입니다. 먼저 면허번호 93-04-123456-93 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":490,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 16-27-234567-16 은 동일합니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":491,"content":"교통법규 교육 수료증 발급 완료 통지서입니다. 그리고 면허번호 27-38-345678-27 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":492,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 38-49-456789-38 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":493,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 49-50-567890-49 로 예약하세요.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":494,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 50-61-678901-50 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":495,"content":"면허증 주소 변경 신청 완료 안내 통지입니다. 먼저 면허번호 61-72-789012-61 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":496,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 72-83-890123-72 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":497,"content":"면허 갱신 교육 신청 접수 완료 안내 통지입니다. 그리고 면허번호 83-94-901234-83 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":498,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 94-05-012345-94 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":499,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 17-28-123456-17 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":500,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 28-39-234567-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":501,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 39-40-345678-39 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":502,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 40-51-456789-40 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":503,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 51-62-567890-51 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":504,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 62-73-678901-62 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":505,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 73-84-789012-73 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":506,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 84-95-890123-84 를 입력하세요.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":507,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 95-06-901234-95 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":508,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 18-29-012345-18 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":509,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 29-30-123456-29 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":510,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 30-41-234567-30 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":511,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송합니다. 참고로 면허번호 41-52-345678-41 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":512,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 52-63-456789-52 입니다.","has_sensitive":true,"entities":[{"value":"52-63-456789-52","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":513,"content":"차량 보험 가입 완료 안내 통지서를 발송합니다. 먼저 등록된 면허번호 63-74-567890-63 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"63-74-567890-63","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":514,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 74-85-678901-74 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"74-85-678901-74","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":515,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 85-96-789012-85 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"85-96-789012-85","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":516,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 96-07-890123-96 로 납부하세요.","has_sensitive":true,"entities":[{"value":"96-07-890123-96","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":517,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 19-20-901234-19 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"19-20-901234-19","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":518,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 20-31-012345-20 입니다.","has_sensitive":true,"entities":[{"value":"20-31-012345-20","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":519,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 31-42-123456-31 입니다.","has_sensitive":true,"entities":[{"value":"31-42-123456-31","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":520,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 42-53-234567-42 에 14점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":521,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 53-64-345678-53 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"53-64-345678-53","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":522,"content":"적성검사 예약 변경 완료 안내 통지서를 발송합니다. 아울러 면허번호 64-75-456789-64 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"64-75-456789-64","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":523,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 75-86-567890-75 에 30년 경력입니다.","has_sensitive":true,"entities":[{"value":"75-86-567890-75","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":524,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 86-97-678901-86 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"86-97-678901-86","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":525,"content":"차량 등록 변경 신청 승인 안내 통지서를 발급했습니다. 먼저 면허번호 97-08-789012-97 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"97-08-789012-97","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":526,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 10-21-890123-10 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"10-21-890123-10","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":527,"content":"교통안전 교육 신청 접수 완료 통지서를 발송합니다. 그리고 면허번호 21-32-901234-21 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"21-32-901234-21","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":528,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 32-43-012345-32 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"32-43-012345-32","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":529,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 43-54-123456-43 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":530,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 54-65-234567-54 를 확인하세요.","has_sensitive":true,"entities":[{"value":"54-65-234567-54","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":531,"content":"면허증 영문 발급 완료 안내 통지서를 발송합니다. 먼저 면허번호 65-76-345678-65 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"65-76-345678-65","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":532,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 76-87-456789-76 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"76-87-456789-76","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":533,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 87-98-567890-87 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"87-98-567890-87","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":534,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 98-09-678901-98 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"98-09-678901-98","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":535,"content":"운전 경력 증명 발급 완료 통지서를 발송했습니다. 참고로 면허번호 11-23-789012-11 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"11-23-789012-11","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":536,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 23-34-890123-23 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"23-34-890123-23","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":537,"content":"차량 공유 이용 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 34-45-901234-34 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"34-45-901234-34","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":538,"content":"면허증 분실 재발급 신청 접수 완료 통지서를 발송합니다. 다만 기존 번호 45-56-012345-45 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"45-56-012345-45","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":539,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 56-67-123456-56 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"56-67-123456-56","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":540,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 67-78-234567-67 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"67-78-234567-67","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":541,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 78-89-345678-78 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"78-89-345678-78","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":542,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 89-90-456789-89 입니다.","has_sensitive":true,"entities":[{"value":"89-90-456789-89","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":543,"content":"면허 정지 기간 단축 승인 안내 통지서를 발급했습니다. 먼저 면허번호 90-01-567890-90 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"90-01-567890-90","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":544,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 12-34-678901-12 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"12-34-678901-12","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":545,"content":"면허 갱신 예약 완료 안내 통지서를 발송했습니다. 그리고 면허번호 23-45-789012-23 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"23-45-789012-23","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":546,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 34-56-890123-34 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"34-56-890123-34","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":547,"content":"운전 경력 확인서 발급 신청 완료 통지서를 발송합니다. 참고로 면허번호 45-67-901234-45 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"45-67-901234-45","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":548,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 56-78-012345-56 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"56-78-012345-56","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":549,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 67-89-123456-67 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-123456-67","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":550,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 78-90-234567-78 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"78-90-234567-78","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":551,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 89-01-345678-89 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"89-01-345678-89","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":552,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 90-12-456789-90 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"90-12-456789-90","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":553,"content":"적성검사 예약 취소 완료 안내 통지서를 발급했습니다. 참고로 면허번호 13-24-567890-13 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"13-24-567890-13","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":554,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 24-35-678901-24 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"24-35-678901-24","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":555,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 35-46-789012-35 입니다.","has_sensitive":true,"entities":[{"value":"35-46-789012-35","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":556,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 46-57-890123-46 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"46-57-890123-46","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":557,"content":"면허 갱신 신청서 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 57-68-901234-57 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"57-68-901234-57","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":558,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 68-79-012345-68 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"68-79-012345-68","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":559,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 79-80-123456-79 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"79-80-123456-79","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":560,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 80-91-234567-80 입니다.","has_sensitive":true,"entities":[{"value":"80-91-234567-80","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":561,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 91-02-345678-91 을 확인하세요.","has_sensitive":true,"entities":[{"value":"91-02-345678-91","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":562,"content":"면허증 갱신 예약 변경 완료 통지서를 발송했습니다. 다만 면허번호 14-25-456789-14 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"14-25-456789-14","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":563,"content":"교통법규 위반 과태료 납부 안내 통지서를 발급했습니다. 그리고 면허번호 25-36-567890-25 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"25-36-567890-25","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":564,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 36-47-678901-36 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"36-47-678901-36","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":565,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 47-58-789012-47 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"47-58-789012-47","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":566,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 58-69-890123-58 를 기억하세요.","has_sensitive":true,"entities":[{"value":"58-69-890123-58","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":567,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 69-70-901234-69 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"69-70-901234-69","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":568,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 70-81-012345-70 에 누적 벌점은 6점입니다.","has_sensitive":true,"entities":[{"value":"70-81-012345-70","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":569,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 81-92-123456-81 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"81-92-123456-81","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":570,"content":"적성검사 불합격 재검 안내 통지서를 발급했습니다. 아울러 면허번호 92-03-234567-92 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"92-03-234567-92","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":571,"content":"운전 경력 조회 서비스 이용 완료 통지서를 발송합니다. 참고로 면허번호 15-26-345678-15 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"15-26-345678-15","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":572,"content":"면허증 영문 표기 변경 신청 완료 통지서를 발급했습니다. 또한 면허번호 26-37-456789-26 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"26-37-456789-26","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":573,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 37-48-567890-37 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"37-48-567890-37","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":574,"content":"면허 갱신 기한 연장 승인 안내 통지서를 발급했습니다. 다만 면허번호 48-59-678901-48 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"48-59-678901-48","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":575,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 59-60-789012-59 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"59-60-789012-59","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":576,"content":"면허 재발급 신청 접수 완료 안내 통지서를 발급했습니다. 아울러 면허번호 60-71-890123-60 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"60-71-890123-60","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":577,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 71-82-901234-71 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"71-82-901234-71","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":578,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 82-93-012345-82 입니다.","has_sensitive":true,"entities":[{"value":"82-93-012345-82","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":579,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 93-04-123456-93 입니다.","has_sensitive":true,"entities":[{"value":"93-04-123456-93","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":580,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 16-27-234567-16 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"16-27-234567-16","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":581,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 27-38-345678-27 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"27-38-345678-27","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":582,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 38-49-456789-38 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"38-49-456789-38","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":583,"content":"운전 경력 증명 발급 완료 안내 통지서를 발송합니다. 참고로 면허번호 49-50-567890-49 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"49-50-567890-49","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":584,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 50-61-678901-50 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"50-61-678901-50","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":585,"content":"차량 공유 서비스 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 61-72-789012-61 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"61-72-789012-61","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":586,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 72-83-890123-72 은 동일합니다.","has_sensitive":true,"entities":[{"value":"72-83-890123-72","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":587,"content":"교통법규 교육 수료증 발급 완료 통지서를 발송합니다. 그리고 면허번호 83-94-901234-83 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"83-94-901234-83","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":588,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 94-05-012345-94 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"94-05-012345-94","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":589,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 17-28-123456-17 로 예약하세요.","has_sensitive":true,"entities":[{"value":"17-28-123456-17","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":590,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 28-39-234567-28 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"28-39-234567-28","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":591,"content":"면허증 주소 변경 신청 완료 안내 통지서를 발급했습니다. 먼저 면허번호 39-40-345678-39 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"39-40-345678-39","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":592,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 40-51-456789-40 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"40-51-456789-40","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":593,"content":"면허 갱신 교육 신청 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 51-62-567890-51 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"51-62-567890-51","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":594,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 62-73-678901-62 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"62-73-678901-62","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":595,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 73-84-789012-73 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"73-84-789012-73","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":596,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 84-95-890123-84 입니다.","has_sensitive":true,"entities":[{"value":"84-95-890123-84","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":597,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 95-06-901234-95 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-901234-95","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":598,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 18-29-012345-18 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"18-29-012345-18","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":599,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 29-30-123456-29 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"29-30-123456-29","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":600,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 30-41-234567-30 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"30-41-234567-30","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":601,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 41-52-345678-41 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"41-52-345678-41","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":602,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 42-53-234567-42 를 입력하세요.","has_sensitive":true,"entities":[{"value":"42-53-234567-42","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":603,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 43-54-123456-43 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"43-54-123456-43","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":604,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 44-55-223344-55 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"44-55-223344-55","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":605,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 55-66-334455-66 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"55-66-334455-66","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":606,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 66-77-445566-77 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"66-77-445566-77","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":607,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송했습니다. 참고로 면허번호 77-88-556677-88 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"77-88-556677-88","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":608,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 88-99-667788-99 입니다.","has_sensitive":true,"entities":[{"value":"88-99-667788-99","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":609,"content":"차량 보험 가입 완료 안내 통지서를 발송했습니다. 먼저 등록된 면허번호 99-00-778899-00 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"99-00-778899-00","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":610,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 11-22-889900-11 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"11-22-889900-11","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":611,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 22-33-990011-22 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"22-33-990011-22","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":612,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 33-44-001122-33 로 납부하세요.","has_sensitive":true,"entities":[{"value":"33-44-001122-33","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":613,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 44-55-112233-44 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"44-55-112233-44","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":614,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 55-66-223344-55 입니다.","has_sensitive":true,"entities":[{"value":"55-66-223344-55","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":615,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 66-77-334455-66 입니다.","has_sensitive":true,"entities":[{"value":"66-77-334455-66","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":616,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 77-88-445566-77 에 17점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"77-88-445566-77","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":617,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 88-99-556677-88 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"88-99-556677-88","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":618,"content":"적성검사 예약 변경 완료 안내 통지서를 발송했습니다. 아울러 면허번호 99-00-667788-99 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"99-00-667788-99","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":619,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 12-23-778899-12 에 8년 경력입니다.","has_sensitive":true,"entities":[{"value":"12-23-778899-12","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":620,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 23-34-889900-23 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"23-34-889900-23","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":621,"content":"차량 등록 변경 신청 승인 안내 통지서를 발급했습니다. 먼저 면허번호 34-45-990011-34 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"34-45-990011-34","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":622,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 45-56-001122-45 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"45-56-001122-45","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":623,"content":"교통안전 교육 신청 접수 완료 통지서를 발송했습니다. 그리고 면허번호 56-67-112233-56 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"56-67-112233-56","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":624,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 67-78-223344-67 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"67-78-223344-67","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":625,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 78-89-334455-78 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"78-89-334455-78","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":626,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 89-90-445566-89 를 확인하세요.","has_sensitive":true,"entities":[{"value":"89-90-445566-89","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":627,"content":"면허증 영문 발급 완료 안내 통지서를 발송했습니다. 먼저 면허번호 90-01-556677-90 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"90-01-556677-90","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":628,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 12-34-667788-12 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"12-34-667788-12","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":629,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 23-45-778899-23 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"23-45-778899-23","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":630,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 34-56-889900-34 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"34-56-889900-34","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":631,"content":"운전 경력 증명 발급 완료 통지서를 발송했습니다. 참고로 면허번호 45-67-990011-45 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"45-67-990011-45","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":632,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 56-78-001122-56 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"56-78-001122-56","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":633,"content":"차량 공유 이용 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 67-89-112233-67 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"67-89-112233-67","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":634,"content":"면허증 분실 재발급 신청 접수 완료 통지서를 발송했습니다. 다만 기존 번호 78-90-223344-78 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"78-90-223344-78","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":635,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 89-01-334455-89 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"89-01-334455-89","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":636,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 90-12-445566-90 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"90-12-445566-90","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":637,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 13-24-556677-13 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"13-24-556677-13","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":638,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 24-35-667788-24 입니다.","has_sensitive":true,"entities":[{"value":"24-35-667788-24","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":639,"content":"면허 정지 기간 단축 승인 안내 통지서를 발급했습니다. 먼저 면허번호 35-46-778899-35 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"35-46-778899-35","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":640,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 46-57-889900-46 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"46-57-889900-46","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":641,"content":"면허 갱신 예약 완료 안내 통지서를 발송했습니다. 그리고 면허번호 57-68-990011-57 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"57-68-990011-57","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":642,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 68-79-001122-68 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"68-79-001122-68","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":643,"content":"운전 경력 확인서 발급 신청 완료 통지서를 발송했습니다. 참고로 면허번호 79-80-112233-79 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"79-80-112233-79","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":644,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 80-91-223344-80 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"80-91-223344-80","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":645,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 91-02-334455-91 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"91-02-334455-91","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":646,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 14-25-445566-14 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"14-25-445566-14","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":647,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 25-36-556677-25 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"25-36-556677-25","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":648,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 36-47-667788-36 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"36-47-667788-36","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":649,"content":"적성검사 예약 취소 완료 안내 통지서를 발급했습니다. 참고로 면허번호 47-58-778899-47 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"47-58-778899-47","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":650,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 58-69-889900-58 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"58-69-889900-58","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":651,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 69-70-990011-69 입니다.","has_sensitive":true,"entities":[{"value":"69-70-990011-69","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":652,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 70-81-001122-70 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"70-81-001122-70","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":653,"content":"면허 갱신 신청서 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 81-92-112233-81 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"81-92-112233-81","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":654,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 92-03-223344-92 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"92-03-223344-92","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":655,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 26-37-445566-26 입니다.","has_sensitive":true,"entities":[{"value":"26-37-445566-26","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":656,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 37-48-556677-37 을 확인하세요.","has_sensitive":true,"entities":[{"value":"37-48-556677-37","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":657,"content":"면허증 갱신 예약 변경 완료 통지서를 발송했습니다. 다만 면허번호 48-59-667788-48 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"48-59-667788-48","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":658,"content":"교통법규 위반 과태료 납부 안내 통지서를 발급했습니다. 그리고 면허번호 59-60-778899-59 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"59-60-778899-59","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":659,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 60-71-889900-60 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"60-71-889900-60","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":660,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 71-82-990011-71 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"71-82-990011-71","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":661,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 82-93-001122-82 를 기억하세요.","has_sensitive":true,"entities":[{"value":"82-93-001122-82","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":662,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 93-04-112233-93 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"93-04-112233-93","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":663,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 16-27-223344-16 에 누적 벌점은 4점입니다.","has_sensitive":true,"entities":[{"value":"16-27-223344-16","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":664,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 27-38-334455-27 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"27-38-334455-27","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":665,"content":"적성검사 불합격 재검 안내 통지서를 발급했습니다. 아울러 면허번호 38-49-445566-38 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"38-49-445566-38","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":666,"content":"운전 경력 조회 서비스 이용 완료 통지서를 발송했습니다. 참고로 면허번호 49-50-556677-49 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"49-50-556677-49","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":667,"content":"면허증 영문 표기 변경 신청 완료 통지서를 발급했습니다. 또한 면허번호 50-61-667788-50 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"50-61-667788-50","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":668,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 61-72-778899-61 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"61-72-778899-61","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":669,"content":"면허 갱신 기한 연장 승인 안내 통지서를 발급했습니다. 다만 면허번호 72-83-889900-72 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"72-83-889900-72","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":670,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 83-94-990011-83 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"83-94-990011-83","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":671,"content":"면허 재발급 신청 접수 완료 안내 통지서를 발급했습니다. 아울러 면허번호 94-05-001122-94 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"94-05-001122-94","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":672,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 17-28-112233-17 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"17-28-112233-17","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":673,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 28-39-223344-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-223344-28","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":674,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 39-40-334455-39 입니다.","has_sensitive":true,"entities":[{"value":"39-40-334455-39","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":675,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 40-51-445566-40 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"40-51-445566-40","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":676,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 51-62-556677-51 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"51-62-556677-51","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":677,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 62-73-667788-62 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"62-73-667788-62","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":678,"content":"운전 경력 증명 발급 완료 안내 통지서를 발송했습니다. 참고로 면허번호 73-84-778899-73 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"73-84-778899-73","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":679,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 84-95-889900-84 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"84-95-889900-84","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":680,"content":"차량 공유 서비스 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 95-06-990011-95 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"95-06-990011-95","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":681,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 18-29-101010-18 은 동일합니다.","has_sensitive":true,"entities":[{"value":"18-29-101010-18","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":682,"content":"교통법규 교육 수료증 발급 완료 통지서를 발송했습니다. 그리고 면허번호 29-30-202020-29 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"29-30-202020-29","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":683,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 30-41-303030-30 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"30-41-303030-30","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":684,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 41-52-404040-41 로 예약하세요.","has_sensitive":true,"entities":[{"value":"41-52-404040-41","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":685,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 52-63-505050-52 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"52-63-505050-52","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":686,"content":"면허증 주소 변경 신청 완료 안내 통지서를 발급했습니다. 먼저 면허번호 63-74-606060-63 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"63-74-606060-63","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":687,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 74-85-707070-74 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"74-85-707070-74","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":688,"content":"면허 갱신 교육 신청 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 85-96-808080-85 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"85-96-808080-85","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":689,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 96-07-909090-96 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"96-07-909090-96","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":690,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 19-20-121212-19 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"19-20-121212-19","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":691,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 20-31-131313-20 입니다.","has_sensitive":true,"entities":[{"value":"20-31-131313-20","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":692,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 31-42-141414-31 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"31-42-141414-31","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":693,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 42-53-151515-42 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"42-53-151515-42","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":694,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 53-64-161616-53 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"53-64-161616-53","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":695,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 64-75-171717-64 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"64-75-171717-64","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":696,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 75-86-181818-75 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"75-86-181818-75","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":697,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 86-97-191919-86 를 입력하세요.","has_sensitive":true,"entities":[{"value":"86-97-191919-86","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":698,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 97-08-202121-97 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"97-08-202121-97","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":699,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 10-21-212121-10 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"10-21-212121-10","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":700,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 21-32-232323-21 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"21-32-232323-21","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":701,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 32-43-242424-32 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"32-43-242424-32","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":702,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송했습니다. 참고로 면허번호 43-54-252525-43 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"43-54-252525-43","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":703,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 54-65-262626-54 입니다.","has_sensitive":true,"entities":[{"value":"54-65-262626-54","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":704,"content":"차량 보험 가입 완료 안내 통지서를 발송했습니다. 먼저 등록된 면허번호 65-76-272727-65 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"65-76-272727-65","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":705,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 76-87-282828-76 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"76-87-282828-76","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":706,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 87-98-292929-87 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"87-98-292929-87","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":707,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 98-09-303131-98 로 납부하세요.","has_sensitive":true,"entities":[{"value":"98-09-303131-98","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":708,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 11-23-313131-11 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"11-23-313131-11","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":709,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 23-34-323232-23 입니다.","has_sensitive":true,"entities":[{"value":"23-34-323232-23","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":710,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 34-45-333333-34 입니다.","has_sensitive":true,"entities":[{"value":"34-45-333333-34","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":711,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 45-56-343434-45 에 11점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"45-56-343434-45","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":712,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 56-67-353535-56 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"56-67-353535-56","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":713,"content":"적성검사 예약 변경 완료 안내 통지서를 발송했습니다. 아울러 면허번호 67-78-363636-67 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"67-78-363636-67","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":714,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 78-89-373737-78 에 12년 경력입니다.","has_sensitive":true,"entities":[{"value":"78-89-373737-78","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":715,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 89-90-383838-89 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"89-90-383838-89","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":716,"content":"차량 등록 변경 신청 승인 안내 통지서를 발급했습니다. 먼저 면허번호 90-01-393939-90 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"90-01-393939-90","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":717,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 12-34-404141-12 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"12-34-404141-12","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":718,"content":"교통안전 교육 신청 접수 완료 통지서를 발송했습니다. 그리고 면허번호 23-45-414141-23 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"23-45-414141-23","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":719,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 34-56-424242-34 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"34-56-424242-34","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":720,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 45-67-434343-45 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"45-67-434343-45","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":721,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 56-78-444444-56 를 확인하세요.","has_sensitive":true,"entities":[{"value":"56-78-444444-56","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":722,"content":"면허증 영문 발급 완료 안내 통지서를 발송했습니다. 먼저 면허번호 67-89-454545-67 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-454545-67","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":723,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 78-90-464646-78 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"78-90-464646-78","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":724,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 89-01-474747-89 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"89-01-474747-89","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":725,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 90-12-484848-90 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"90-12-484848-90","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":726,"content":"운전 경력 증명 발급 완료 통지서를 발송했습니다. 참고로 면허번호 13-24-494949-13 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"13-24-494949-13","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":727,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 24-35-505151-24 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"24-35-505151-24","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":728,"content":"차량 공유 이용 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 35-46-515151-35 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"35-46-515151-35","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":729,"content":"면허증 분실 재발급 신청 접수 완료 통지서를 발송했습니다. 다만 기존 번호 46-57-525252-46 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"46-57-525252-46","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":730,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 57-68-535353-57 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"57-68-535353-57","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":731,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 68-79-545454-68 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"68-79-545454-68","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":732,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 79-80-555555-79 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"79-80-555555-79","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":733,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 80-91-565656-80 입니다.","has_sensitive":true,"entities":[{"value":"80-91-565656-80","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":734,"content":"면허 정지 기간 단축 승인 안내 통지서를 발급했습니다. 먼저 면허번호 91-02-575757-91 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"91-02-575757-91","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":735,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 14-25-585858-14 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"14-25-585858-14","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":736,"content":"면허 갱신 예약 완료 안내 통지서를 발송했습니다. 그리고 면허번호 25-36-595959-25 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"25-36-595959-25","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":737,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 36-47-606161-36 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"36-47-606161-36","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":738,"content":"운전 경력 확인서 발급 신청 완료 통지서를 발송했습니다. 참고로 면허번호 47-58-616161-47 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"47-58-616161-47","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":739,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 58-69-626262-58 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"58-69-626262-58","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":740,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 69-70-636363-69 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"69-70-636363-69","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":741,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 70-81-646464-70 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"70-81-646464-70","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":742,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 81-92-656565-81 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"81-92-656565-81","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":743,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 92-03-666666-92 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"92-03-666666-92","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":744,"content":"적성검사 예약 취소 완료 안내 통지서를 발급했습니다. 참고로 면허번호 15-26-676767-15 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"15-26-676767-15","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":745,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 26-37-686868-26 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"26-37-686868-26","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":746,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 37-48-696969-37 입니다.","has_sensitive":true,"entities":[{"value":"37-48-696969-37","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":747,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 48-59-707171-48 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"48-59-707171-48","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":748,"content":"면허 갱신 신청서 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 59-60-717171-59 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"59-60-717171-59","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":749,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 60-71-727272-60 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"60-71-727272-60","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":750,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 71-82-737373-71 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"71-82-737373-71","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":751,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 82-93-747474-82 입니다.","has_sensitive":true,"entities":[{"value":"82-93-747474-82","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":752,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 93-04-757575-93 을 확인하세요.","has_sensitive":true,"entities":[{"value":"93-04-757575-93","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":753,"content":"면허증 갱신 예약 변경 완료 통지서를 발송했습니다. 다만 면허번호 16-27-767676-16 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"16-27-767676-16","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":754,"content":"교통법규 위반 과태료 납부 안내 통지서를 발급했습니다. 그리고 면허번호 27-38-777777-27 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"27-38-777777-27","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":755,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 38-49-787878-38 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"38-49-787878-38","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":756,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 49-50-797979-49 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"49-50-797979-49","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":757,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 50-61-808181-50 를 기억하세요.","has_sensitive":true,"entities":[{"value":"50-61-808181-50","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":758,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 61-72-818181-61 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"61-72-818181-61","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":759,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 72-83-828282-72 에 누적 벌점은 9점입니다.","has_sensitive":true,"entities":[{"value":"72-83-828282-72","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":760,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 83-94-838383-83 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"83-94-838383-83","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":761,"content":"적성검사 불합격 재검 안내 통지서를 발급했습니다. 아울러 면허번호 94-05-848484-94 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"94-05-848484-94","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":762,"content":"운전 경력 조회 서비스 이용 완료 통지서를 발송했습니다. 참고로 면허번호 17-28-858585-17 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"17-28-858585-17","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":763,"content":"면허증 영문 표기 변경 신청 완료 통지서를 발급했습니다. 또한 면허번호 28-39-868686-28 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"28-39-868686-28","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":764,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 39-40-878787-39 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"39-40-878787-39","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":765,"content":"면허 갱신 기한 연장 승인 안내 통지서를 발급했습니다. 다만 면허번호 40-51-888888-40 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"40-51-888888-40","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":766,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 51-62-898989-51 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"51-62-898989-51","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":767,"content":"면허 재발급 신청 접수 완료 안내 통지서를 발급했습니다. 아울러 면허번호 62-73-909191-62 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"62-73-909191-62","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":768,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 73-84-919191-73 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"73-84-919191-73","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":769,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 84-95-929292-84 입니다.","has_sensitive":true,"entities":[{"value":"84-95-929292-84","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":770,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 95-06-939393-95 입니다.","has_sensitive":true,"entities":[{"value":"95-06-939393-95","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":771,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 18-29-949494-18 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"18-29-949494-18","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":772,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 29-30-959595-29 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"29-30-959595-29","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":773,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 30-41-969696-30 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"30-41-969696-30","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":774,"content":"운전 경력 증명 발급 완료 안내 통지서를 발송했습니다. 참고로 면허번호 41-52-979797-41 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"41-52-979797-41","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":775,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 52-63-989898-52 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"52-63-989898-52","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":776,"content":"차량 공유 서비스 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 63-74-999999-63 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"63-74-999999-63","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":777,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 74-85-100100-74 은 동일합니다.","has_sensitive":true,"entities":[{"value":"74-85-100100-74","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":778,"content":"교통법규 교육 수료증 발급 완료 통지서를 발송했습니다. 그리고 면허번호 85-96-110110-85 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"85-96-110110-85","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":779,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 96-07-120120-96 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"96-07-120120-96","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":780,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 19-20-130130-19 로 예약하세요.","has_sensitive":true,"entities":[{"value":"19-20-130130-19","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":781,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 20-31-140140-20 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"20-31-140140-20","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":782,"content":"면허증 주소 변경 신청 완료 안내 통지서를 발급했습니다. 먼저 면허번호 31-42-150150-31 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"31-42-150150-31","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":783,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 42-53-160160-42 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"42-53-160160-42","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":784,"content":"면허 갱신 교육 신청 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 53-64-170170-53 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"53-64-170170-53","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":785,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 64-75-180180-64 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"64-75-180180-64","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":786,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 75-86-190190-75 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"75-86-190190-75","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":787,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 86-97-200200-86 입니다.","has_sensitive":true,"entities":[{"value":"86-97-200200-86","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":788,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 97-08-210210-97 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"97-08-210210-97","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":789,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 10-21-220220-10 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"10-21-220220-10","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":790,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 21-32-230230-21 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"21-32-230230-21","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":791,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 32-43-240240-32 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"32-43-240240-32","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":792,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 43-54-250250-43 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"43-54-250250-43","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":793,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 54-65-260260-54 를 입력하세요.","has_sensitive":true,"entities":[{"value":"54-65-260260-54","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":794,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 65-76-270270-65 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"65-76-270270-65","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":795,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 76-87-280280-76 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"76-87-280280-76","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":796,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 87-98-290290-87 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"87-98-290290-87","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":797,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 98-09-300300-98 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"98-09-300300-98","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":798,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송했습니다. 참고로 면허번호 11-23-310310-11 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"11-23-310310-11","begin":50,"end":65,"label":"DRIVER_LICENSE"}]}
+{"id":799,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 23-34-320320-23 입니다.","has_sensitive":true,"entities":[{"value":"23-34-320320-23","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":800,"content":"차량 보험 가입 완료 안내 통지서를 발송했습니다. 먼저 등록된 면허번호 34-45-330330-34 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"34-45-330330-34","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":801,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 45-56-340340-45 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"45-56-340340-45","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":802,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 56-67-350350-56 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"56-67-350350-56","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":803,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 67-78-360360-67 로 납부하세요.","has_sensitive":true,"entities":[{"value":"67-78-360360-67","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":804,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 78-89-370370-78 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"78-89-370370-78","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":805,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 89-90-380380-89 입니다.","has_sensitive":true,"entities":[{"value":"89-90-380380-89","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":806,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 90-01-390390-90 입니다.","has_sensitive":true,"entities":[{"value":"90-01-390390-90","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":807,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 12-34-400400-12 에 13점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"12-34-400400-12","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":808,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 23-45-410410-23 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"23-45-410410-23","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":809,"content":"적성검사 예약 변경 완료 안내 통지서를 발송했습니다. 아울러 면허번호 34-56-420420-34 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"34-56-420420-34","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":810,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 45-67-430430-45 에 18년 경력입니다.","has_sensitive":true,"entities":[{"value":"45-67-430430-45","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":811,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 56-78-440440-56 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"56-78-440440-56","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":812,"content":"차량 등록 변경 신청 승인 안내 통지서를 발급했습니다. 먼저 면허번호 67-89-450450-67 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-450450-67","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":813,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 78-90-460460-78 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"78-90-460460-78","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":814,"content":"교통안전 교육 신청 접수 완료 통지서를 발송했습니다. 그리고 면허번호 89-01-470470-89 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"89-01-470470-89","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":815,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 90-12-480480-90 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"90-12-480480-90","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":816,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 13-24-490490-13 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"13-24-490490-13","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":817,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 24-35-500500-24 를 확인하세요.","has_sensitive":true,"entities":[{"value":"24-35-500500-24","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":818,"content":"면허증 영문 발급 완료 안내 통지서를 발송했습니다. 먼저 면허번호 35-46-510510-35 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"35-46-510510-35","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":819,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 46-57-520520-46 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"46-57-520520-46","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":820,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 57-68-530530-57 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"57-68-530530-57","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":821,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 68-79-540540-68 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"68-79-540540-68","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":822,"content":"운전 경력 증명 발급 완료 통지서를 발송했습니다. 참고로 면허번호 79-80-550550-79 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"79-80-550550-79","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":823,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 80-91-560560-80 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"80-91-560560-80","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":824,"content":"차량 공유 이용 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 91-02-570570-91 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"91-02-570570-91","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":825,"content":"면허증 분실 재발급 신청 접수 완료 통지서를 발송했습니다. 다만 기존 번호 14-25-580580-14 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"14-25-580580-14","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":826,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 25-36-590590-25 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"25-36-590590-25","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":827,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 36-47-600600-36 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"36-47-600600-36","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":828,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 47-58-610610-47 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"47-58-610610-47","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":829,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 58-69-620620-58 입니다.","has_sensitive":true,"entities":[{"value":"58-69-620620-58","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":830,"content":"면허 정지 기간 단축 승인 안내 통지서를 발급했습니다. 먼저 면허번호 69-70-630630-69 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"69-70-630630-69","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":831,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 70-81-640640-70 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"70-81-640640-70","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":832,"content":"면허 갱신 예약 완료 안내 통지서를 발송했습니다. 그리고 면허번호 81-92-650650-81 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"81-92-650650-81","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":833,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 92-03-660660-92 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"92-03-660660-92","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":834,"content":"운전 경력 확인서 발급 신청 완료 통지서를 발송했습니다. 참고로 면허번호 15-26-670670-15 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"15-26-670670-15","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":835,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 26-37-680680-26 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"26-37-680680-26","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":836,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 37-48-690690-37 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"37-48-690690-37","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":837,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 48-59-700700-48 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"48-59-700700-48","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":838,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 59-60-710710-59 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"59-60-710710-59","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":839,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 60-71-720720-60 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"60-71-720720-60","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":840,"content":"적성검사 예약 취소 완료 안내 통지서를 발급했습니다. 참고로 면허번호 71-82-730730-71 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"71-82-730730-71","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":841,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 82-93-740740-82 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"82-93-740740-82","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":842,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 93-04-750750-93 입니다.","has_sensitive":true,"entities":[{"value":"93-04-750750-93","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":843,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 16-27-760760-16 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"16-27-760760-16","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":844,"content":"면허 갱신 신청서 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 27-38-770770-27 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"27-38-770770-27","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":845,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 38-49-780780-38 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"38-49-780780-38","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":846,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 49-50-790790-49 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"49-50-790790-49","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":847,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 50-61-800800-50 입니다.","has_sensitive":true,"entities":[{"value":"50-61-800800-50","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":848,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 61-72-810810-61 을 확인하세요.","has_sensitive":true,"entities":[{"value":"61-72-810810-61","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":849,"content":"면허증 갱신 예약 변경 완료 통지서를 발송했습니다. 다만 면허번호 72-83-820820-72 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"72-83-820820-72","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":850,"content":"교통법규 위반 과태료 납부 안내 통지서를 발급했습니다. 그리고 면허번호 83-94-830830-83 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"83-94-830830-83","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":851,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 94-05-840840-94 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"94-05-840840-94","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":852,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 17-28-850850-17 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"17-28-850850-17","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":853,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 28-39-860860-28 를 기억하세요.","has_sensitive":true,"entities":[{"value":"28-39-860860-28","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":854,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 39-40-870870-39 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"39-40-870870-39","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":855,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 40-51-880880-40 에 누적 벌점은 1점입니다.","has_sensitive":true,"entities":[{"value":"40-51-880880-40","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":856,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 51-62-890890-51 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"51-62-890890-51","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":857,"content":"적성검사 불합격 재검 안내 통지서를 발급했습니다. 아울러 면허번호 62-73-900900-62 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"62-73-900900-62","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":858,"content":"운전 경력 조회 서비스 이용 완료 통지서를 발송했습니다. 참고로 면허번호 73-84-910910-73 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"73-84-910910-73","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":859,"content":"면허증 영문 표기 변경 신청 완료 통지서를 발급했습니다. 또한 면허번호 84-95-920920-84 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"84-95-920920-84","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":860,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 95-06-930930-95 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"95-06-930930-95","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":861,"content":"면허 갱신 기한 연장 승인 안내 통지서를 발급했습니다. 다만 면허번호 18-29-940940-18 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"18-29-940940-18","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":862,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 29-30-950950-29 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"29-30-950950-29","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":863,"content":"면허 재발급 신청 접수 완료 안내 통지서를 발급했습니다. 아울러 면허번호 30-41-960960-30 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"30-41-960960-30","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":864,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 41-52-970970-41 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"41-52-970970-41","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":865,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 52-63-980980-52 입니다.","has_sensitive":true,"entities":[{"value":"52-63-980980-52","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":866,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 63-74-990990-63 입니다.","has_sensitive":true,"entities":[{"value":"63-74-990990-63","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":867,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 74-85-100101-74 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"74-85-100101-74","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":868,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 85-96-110111-85 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"85-96-110111-85","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":869,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 96-07-120121-96 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"96-07-120121-96","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":870,"content":"운전 경력 증명 발급 완료 안내 통지서를 발송했습니다. 참고로 면허번호 19-20-130131-19 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"19-20-130131-19","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":871,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 20-31-140141-20 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"20-31-140141-20","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":872,"content":"차량 공유 서비스 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 31-42-150151-31 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"31-42-150151-31","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":873,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 42-53-160161-42 은 동일합니다.","has_sensitive":true,"entities":[{"value":"42-53-160161-42","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":874,"content":"교통법규 교육 수료증 발급 완료 통지서를 발송했습니다. 그리고 면허번호 53-64-170171-53 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"53-64-170171-53","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":875,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 64-75-180181-64 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"64-75-180181-64","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":876,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 75-86-190191-75 로 예약하세요.","has_sensitive":true,"entities":[{"value":"75-86-190191-75","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":877,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 86-97-200201-86 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"86-97-200201-86","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":878,"content":"면허증 주소 변경 신청 완료 안내 통지서를 발급했습니다. 먼저 면허번호 97-08-210211-97 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"97-08-210211-97","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":879,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 10-21-220221-10 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"10-21-220221-10","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":880,"content":"면허 갱신 교육 신청 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 21-32-230231-21 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"21-32-230231-21","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":881,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 32-43-240241-32 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"32-43-240241-32","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":882,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 43-54-250251-43 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"43-54-250251-43","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":883,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 54-65-260261-54 입니다.","has_sensitive":true,"entities":[{"value":"54-65-260261-54","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":884,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 65-76-270271-65 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"65-76-270271-65","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":885,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 76-87-280281-76 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"76-87-280281-76","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":886,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 87-98-290291-87 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"87-98-290291-87","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":887,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 98-09-300301-98 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"98-09-300301-98","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":888,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 11-23-310311-11 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"11-23-310311-11","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":889,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 23-34-320321-23 를 입력하세요.","has_sensitive":true,"entities":[{"value":"23-34-320321-23","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":890,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 34-45-330331-34 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"34-45-330331-34","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":891,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 45-56-340341-45 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"45-56-340341-45","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":892,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 56-67-350351-56 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"56-67-350351-56","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":893,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 67-78-360361-67 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"67-78-360361-67","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":894,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송했습니다. 참고로 면허번호 78-89-370371-78 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"78-89-370371-78","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":895,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 89-90-380381-89 입니다.","has_sensitive":true,"entities":[{"value":"89-90-380381-89","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":896,"content":"차량 보험 가입 완료 안내 통지서를 발송했습니다. 먼저 등록된 면허번호 90-01-390391-90 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"90-01-390391-90","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":897,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 12-34-400401-12 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"12-34-400401-12","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":898,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 23-45-410411-23 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"23-45-410411-23","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":899,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 34-56-420421-34 로 납부하세요.","has_sensitive":true,"entities":[{"value":"34-56-420421-34","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":900,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 45-67-430431-45 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"45-67-430431-45","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":901,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 56-78-440441-56 입니다.","has_sensitive":true,"entities":[{"value":"56-78-440441-56","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":902,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 67-89-450451-67 입니다.","has_sensitive":true,"entities":[{"value":"67-89-450451-67","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":903,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 78-90-460461-78 에 16점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"78-90-460461-78","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":904,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 89-01-470471-89 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"89-01-470471-89","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":905,"content":"적성검사 예약 변경 완료 안내 통지서를 발송했습니다. 아울러 면허번호 90-12-480481-90 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"90-12-480481-90","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":906,"content":"운전 경력 조회 결과를 안내합니다. 참고로 면허번호 13-24-490491-13 에 22년 경력입니다.","has_sensitive":true,"entities":[{"value":"13-24-490491-13","begin":28,"end":43,"label":"DRIVER_LICENSE"}]}
+{"id":907,"content":"면허증 주소 변경 완료 통지서를 발송했습니다. 또한 면허번호 24-35-500501-24 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"24-35-500501-24","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":908,"content":"차량 등록 변경 신청 승인 안내 통지서를 발급했습니다. 먼저 면허번호 35-46-510511-35 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"35-46-510511-35","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":909,"content":"면허 갱신 교육 이수 확인서를 발급했습니다. 다만 면허번호 46-57-520521-46 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"46-57-520521-46","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":910,"content":"교통안전 교육 신청 접수 완료 통지서를 발송했습니다. 그리고 면허번호 57-68-530531-57 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"57-68-530531-57","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":911,"content":"면허 정지 해제 확인 통지서를 발급했습니다. 아울러 면허번호 68-79-540541-68 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"68-79-540541-68","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":912,"content":"적성검사 합격 축하 문자를 발송했습니다. 참고로 면허번호 79-80-550551-79 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"79-80-550551-79","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":913,"content":"운전면허 학과시험 접수 완료 통지서를 발급했습니다. 또한 수험번호와 함께 면허번호 80-91-560561-80 를 확인하세요.","has_sensitive":true,"entities":[{"value":"80-91-560561-80","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":914,"content":"면허증 영문 발급 완료 안내 통지서를 발송했습니다. 먼저 면허번호 91-02-570571-91 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"91-02-570571-91","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":915,"content":"벌금 납부 독촉 안내 통지서를 발송했습니다. 다만 면허번호 14-25-580581-14 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"14-25-580581-14","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":916,"content":"면허 갱신 신청 접수 완료 통지서를 발급했습니다. 그리고 면허번호 25-36-590591-25 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"25-36-590591-25","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":917,"content":"적성검사 예약 확인서를 발급했습니다. 아울러 면허번호 36-47-600601-36 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"36-47-600601-36","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":918,"content":"운전 경력 증명 발급 완료 통지서를 발송했습니다. 참고로 면허번호 47-58-610611-47 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"47-58-610611-47","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":919,"content":"면허 취소 처분 취소 확인서를 발급했습니다. 또한 면허번호 58-69-620621-58 는 복원됩니다.","has_sensitive":true,"entities":[{"value":"58-69-620621-58","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":920,"content":"차량 공유 이용 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 69-70-630631-69 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"69-70-630631-69","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":921,"content":"면허증 분실 재발급 신청 접수 완료 통지서를 발송했습니다. 다만 기존 번호 70-81-640641-70 은 폐기됩니다.","has_sensitive":true,"entities":[{"value":"70-81-640641-70","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":922,"content":"교통법규 교육 수료증이 발급되었습니다. 그리고 면허번호 81-92-650651-81 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"81-92-650651-81","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":923,"content":"면허 갱신 완료 확인 문자를 발송했습니다. 아울러 새로운 유효기간은 면허번호 92-03-660661-92 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"92-03-660661-92","begin":49,"end":64,"label":"DRIVER_LICENSE"}]}
+{"id":924,"content":"적성검사 재검 신청 승인 통지서를 발급했습니다. 참고로 면허번호 15-26-670671-15 로 재예약하세요.","has_sensitive":true,"entities":[{"value":"15-26-670671-15","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":925,"content":"운전면허 시험 합격 통지서를 발송했습니다. 또한 새로 발급된 번호는 26-37-680681-26 입니다.","has_sensitive":true,"entities":[{"value":"26-37-680681-26","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":926,"content":"면허 정지 기간 단축 승인 안내 통지서를 발급했습니다. 먼저 면허번호 37-48-690691-37 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"37-48-690691-37","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":927,"content":"벌점 감경 신청 완료 통지서를 발급했습니다. 다만 면허번호 48-59-700701-48 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"48-59-700701-48","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":928,"content":"면허 갱신 예약 완료 안내 통지서를 발송했습니다. 그리고 면허번호 59-60-710711-59 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"59-60-710711-59","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":929,"content":"적성검사 불참 과태료 부과 통지서를 발송했습니다. 아울러 면허번호 60-71-720721-60 에 부과됩니다.","has_sensitive":true,"entities":[{"value":"60-71-720721-60","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":930,"content":"운전 경력 확인서 발급 신청 완료 통지서를 발송했습니다. 참고로 면허번호 71-82-730731-71 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"71-82-730731-71","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":931,"content":"면허증 사진 업데이트 완료 통지서를 발송했습니다. 또한 면허번호 82-93-740741-82 는 유지됩니다.","has_sensitive":true,"entities":[{"value":"82-93-740741-82","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":932,"content":"차량 렌탈 예약 확인서를 발급했습니다. 먼저 등록된 면허번호 93-04-750751-93 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"93-04-750751-93","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":933,"content":"면허 갱신 기한 도래 통지 문자를 발송했습니다. 다만 면허번호 16-27-760761-16 의 유효기간을 확인하세요.","has_sensitive":true,"entities":[{"value":"16-27-760761-16","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":934,"content":"교통안전 교육 이수 완료 확인서를 발급했습니다. 그리고 면허번호 27-38-770771-27 에 반영되었습니다.","has_sensitive":true,"entities":[{"value":"27-38-770771-27","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":935,"content":"면허 재발급 완료 안내 통지서를 발송했습니다. 아울러 면허번호 38-49-780781-38 로 발급했습니다.","has_sensitive":true,"entities":[{"value":"38-49-780781-38","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":936,"content":"적성검사 예약 취소 완료 안내 통지서를 발급했습니다. 참고로 면허번호 49-50-790791-49 로 취소했습니다.","has_sensitive":true,"entities":[{"value":"49-50-790791-49","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":937,"content":"운전면허 발급 신청 승인 통지서를 발급했습니다. 또한 임시 번호 50-61-800801-50 을 부여했습니다.","has_sensitive":true,"entities":[{"value":"50-61-800801-50","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":938,"content":"면허 정지 처분 집행 통지서를 발송했습니다. 먼저 대상 면허번호는 61-72-810811-61 입니다.","has_sensitive":true,"entities":[{"value":"61-72-810811-61","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":939,"content":"벌금 납부 완료 확인 통지서를 발급했습니다. 다만 면허번호 72-83-820821-72 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"72-83-820821-72","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":940,"content":"면허 갱신 신청서 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 83-94-830831-83 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"83-94-830831-83","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":941,"content":"적성검사 합격 통지 문자를 발송했습니다. 아울러 면허번호 94-05-840841-94 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"94-05-840841-94","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":942,"content":"운전 경력 증명서 발급이 완료되었습니다. 참고로 면허번호 17-28-850851-17 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"17-28-850851-17","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":943,"content":"면허 취소 처분 확정 통지서를 발급했습니다. 또한 대상 면허번호는 28-39-860861-28 입니다.","has_sensitive":true,"entities":[{"value":"28-39-860861-28","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":944,"content":"차량 보험 갱신 안내 문자를 발송했습니다. 먼저 등록된 면허번호 39-40-870871-39 을 확인하세요.","has_sensitive":true,"entities":[{"value":"39-40-870871-39","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":945,"content":"면허증 갱신 예약 변경 완료 통지서를 발송했습니다. 다만 면허번호 40-51-880881-40 로 변경했습니다.","has_sensitive":true,"entities":[{"value":"40-51-880881-40","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":946,"content":"교통법규 위반 과태료 납부 안내 통지서를 발급했습니다. 그리고 면허번호 51-62-890891-51 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"51-62-890891-51","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":947,"content":"면허 갱신 교육 수강 완료 확인서를 발급했습니다. 아울러 면허번호 62-73-900901-62 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"62-73-900901-62","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":948,"content":"적성검사 예약 안내 문자를 발송했습니다. 참고로 면허번호 73-84-910911-73 로 예약 가능합니다.","has_sensitive":true,"entities":[{"value":"73-84-910911-73","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":949,"content":"운전면허 시험 접수 완료 확인서를 발급했습니다. 또한 수험번호와 함께 면허번호 84-95-920921-84 를 기억하세요.","has_sensitive":true,"entities":[{"value":"84-95-920921-84","begin":51,"end":66,"label":"DRIVER_LICENSE"}]}
+{"id":950,"content":"면허 정지 해제 통지서를 발급했습니다. 먼저 면허번호 95-06-930931-95 가 복원되었습니다.","has_sensitive":true,"entities":[{"value":"95-06-930931-95","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":951,"content":"벌점 조회 결과 안내 문자를 발송했습니다. 다만 면허번호 18-29-940941-18 에 누적 벌점은 10점입니다.","has_sensitive":true,"entities":[{"value":"18-29-940941-18","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":952,"content":"면허 갱신 완료 통지서를 발송했습니다. 그리고 새로운 유효기간은 면허번호 29-30-950951-29 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"29-30-950951-29","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":953,"content":"적성검사 불합격 재검 안내 통지서를 발급했습니다. 아울러 면허번호 30-41-960961-30 로 재예약 필요합니다.","has_sensitive":true,"entities":[{"value":"30-41-960961-30","begin":41,"end":56,"label":"DRIVER_LICENSE"}]}
+{"id":954,"content":"운전 경력 조회 서비스 이용 완료 통지서를 발송했습니다. 참고로 면허번호 41-52-970971-41 로 조회했습니다.","has_sensitive":true,"entities":[{"value":"41-52-970971-41","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":955,"content":"면허증 영문 표기 변경 신청 완료 통지서를 발급했습니다. 또한 면허번호 52-63-980981-52 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"52-63-980981-52","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":956,"content":"차량 등록 신청 승인 통지서를 발급했습니다. 먼저 면허번호 63-74-990991-63 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"63-74-990991-63","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":957,"content":"면허 갱신 기한 연장 승인 안내 통지서를 발급했습니다. 다만 면허번호 74-85-111000-74 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"74-85-111000-74","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":958,"content":"교통안전 교육 신청 완료 통지서를 발송했습니다. 그리고 면허번호 85-96-222000-85 로 신청했습니다.","has_sensitive":true,"entities":[{"value":"85-96-222000-85","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":959,"content":"면허 재발급 신청 접수 완료 안내 통지서를 발급했습니다. 아울러 면허번호 96-07-333000-96 로 처리됩니다.","has_sensitive":true,"entities":[{"value":"96-07-333000-96","begin":47,"end":62,"label":"DRIVER_LICENSE"}]}
+{"id":960,"content":"적성검사 예약 확인 문자를 발송했습니다. 참고로 면허번호 19-20-444000-19 로 예약되었습니다.","has_sensitive":true,"entities":[{"value":"19-20-444000-19","begin":33,"end":48,"label":"DRIVER_LICENSE"}]}
+{"id":961,"content":"운전면허 발급 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 20-31-555000-20 입니다.","has_sensitive":true,"entities":[{"value":"20-31-555000-20","begin":43,"end":58,"label":"DRIVER_LICENSE"}]}
+{"id":962,"content":"면허 취소 처분 사전 예고 통지서를 발급했습니다. 먼저 대상 면허번호는 31-42-666000-31 입니다.","has_sensitive":true,"entities":[{"value":"31-42-666000-31","begin":42,"end":57,"label":"DRIVER_LICENSE"}]}
+{"id":963,"content":"벌금 납부 독촉 통지서를 발송했습니다. 다만 면허번호 42-53-777000-42 로 부과되었습니다.","has_sensitive":true,"entities":[{"value":"42-53-777000-42","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":964,"content":"면허 갱신 신청 완료 안내 통지서를 발급했습니다. 그리고 면허번호 53-64-888000-53 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"53-64-888000-53","begin":40,"end":55,"label":"DRIVER_LICENSE"}]}
+{"id":965,"content":"적성검사 합격 축하 통지서를 발급했습니다. 아울러 면허번호 64-75-999000-64 로 갱신되었습니다.","has_sensitive":true,"entities":[{"value":"64-75-999000-64","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":966,"content":"운전 경력 증명 발급 완료 안내 통지서를 발송했습니다. 참고로 면허번호 75-86-111222-75 으로 발급했습니다.","has_sensitive":true,"entities":[{"value":"75-86-111222-75","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":967,"content":"면허 정지 기간 종료 통지서를 발송했습니다. 또한 면허번호 86-97-222333-86 이 복원되었습니다.","has_sensitive":true,"entities":[{"value":"86-97-222333-86","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":968,"content":"차량 공유 서비스 등록 승인 안내 통지서를 발급했습니다. 먼저 면허번호 97-08-333444-97 로 등록했습니다.","has_sensitive":true,"entities":[{"value":"97-08-333444-97","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":969,"content":"면허증 분실 재발급 완료 통지서를 발송했습니다. 다만 면허번호 10-21-444555-10 은 동일합니다.","has_sensitive":true,"entities":[{"value":"10-21-444555-10","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":970,"content":"교통법규 교육 수료증 발급 완료 통지서를 발송했습니다. 그리고 면허번호 21-32-555666-21 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"21-32-555666-21","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":971,"content":"면허 갱신 예약 완료 확인 문자를 발송했습니다. 아울러 면허번호 32-43-666777-32 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"32-43-666777-32","begin":38,"end":53,"label":"DRIVER_LICENSE"}]}
+{"id":972,"content":"적성검사 재예약 안내 통지서를 발송했습니다. 참고로 면허번호 43-54-777888-43 로 예약하세요.","has_sensitive":true,"entities":[{"value":"43-54-777888-43","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":973,"content":"운전면허 학과시험 합격 통지서를 발급했습니다. 또한 다음 단계는 면허번호 54-65-888999-54 으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"54-65-888999-54","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":974,"content":"면허증 주소 변경 신청 완료 안내 통지서를 발급했습니다. 먼저 면허번호 65-76-999111-65 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"65-76-999111-65","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":975,"content":"벌점 감경 교육 이수 완료 통지서를 발급했습니다. 다만 면허번호 76-87-111333-76 에 적용됩니다.","has_sensitive":true,"entities":[{"value":"76-87-111333-76","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":976,"content":"면허 갱신 교육 신청 접수 완료 안내 통지서를 발급했습니다. 그리고 면허번호 87-98-222444-87 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"87-98-222444-87","begin":50,"end":65,"label":"DRIVER_LICENSE"}]}
+{"id":977,"content":"적성검사 합격 통지서를 발급했습니다. 아울러 면허번호 98-09-333555-98 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"98-09-333555-98","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":978,"content":"운전 경력 확인서가 발급되었습니다. 참고로 면허번호 11-23-444666-11 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"11-23-444666-11","begin":29,"end":44,"label":"DRIVER_LICENSE"}]}
+{"id":979,"content":"면허 정지 처분 통지서를 발송했습니다. 또한 대상 면허번호는 23-34-555777-23 입니다.","has_sensitive":true,"entities":[{"value":"23-34-555777-23","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":980,"content":"차량 렌탈 이용 완료 확인 통지서를 발급했습니다. 먼저 등록된 면허번호 34-45-666888-34 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"34-45-666888-34","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":981,"content":"면허증 재교부 완료 안내 문자를 발송했습니다. 다만 면허번호 45-56-777999-45 은 유지됩니다.","has_sensitive":true,"entities":[{"value":"45-56-777999-45","begin":34,"end":49,"label":"DRIVER_LICENSE"}]}
+{"id":982,"content":"교통안전 교육 수강 완료 확인서를 발급했습니다. 그리고 면허번호 56-67-888111-56 에 반영됩니다.","has_sensitive":true,"entities":[{"value":"56-67-888111-56","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":983,"content":"면허 갱신 신청 승인 통지서를 발급했습니다. 아울러 면허번호 67-78-999222-67 로 갱신됩니다.","has_sensitive":true,"entities":[{"value":"67-78-999222-67","begin":35,"end":50,"label":"DRIVER_LICENSE"}]}
+{"id":984,"content":"적성검사 예약 완료 확인 통지서를 발송했습니다. 참고로 면허번호 78-89-111444-78 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"78-89-111444-78","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":985,"content":"운전면허 시험 불합격 통지서를 발송했습니다. 또한 재시험 시 면허번호 89-90-222555-89 를 입력하세요.","has_sensitive":true,"entities":[{"value":"89-90-222555-89","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}
+{"id":986,"content":"면허증 분실 신고 접수 완료 통지서를 발급했습니다. 먼저 기존 번호 90-01-333666-90 은 무효됩니다.","has_sensitive":true,"entities":[{"value":"90-01-333666-90","begin":44,"end":59,"label":"DRIVER_LICENSE"}]}
+{"id":987,"content":"벌금 납부 완료 확인서를 발급했습니다. 다만 면허번호 12-34-444777-12 로 납부했습니다.","has_sensitive":true,"entities":[{"value":"12-34-444777-12","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":988,"content":"면허 갱신 완료 통지 문자를 발송했습니다. 그리고 새로운 유효기간은 면허번호 23-45-555888-23 에서 확인하세요.","has_sensitive":true,"entities":[{"value":"23-45-555888-23","begin":48,"end":63,"label":"DRIVER_LICENSE"}]}
+{"id":989,"content":"적성검사 면제 대상자 확인서를 발급했습니다. 아울러 면허번호 34-56-666999-34 로 확인됩니다.","has_sensitive":true,"entities":[{"value":"34-56-666999-34","begin":36,"end":51,"label":"DRIVER_LICENSE"}]}
+{"id":990,"content":"운전 경력 증명서 발급 신청 접수 완료 통지서를 발송했습니다. 참고로 면허번호 45-67-777111-45 으로 신청했습니다.","has_sensitive":true,"entities":[{"value":"45-67-777111-45","begin":52,"end":67,"label":"DRIVER_LICENSE"}]}
+{"id":991,"content":"면허 정지 처분 통지서를 발급했습니다. 또한 대상 면허번호는 56-78-888222-56 입니다.","has_sensitive":true,"entities":[{"value":"56-78-888222-56","begin":37,"end":52,"label":"DRIVER_LICENSE"}]}
+{"id":992,"content":"차량 보험 가입 완료 안내 통지서를 발송했습니다. 먼저 등록된 면허번호 67-89-999333-67 을 확인했습니다.","has_sensitive":true,"entities":[{"value":"67-89-999333-67","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":993,"content":"면허증 갱신 예약이 완료되었습니다. 다만 면허번호 78-90-111555-78 로 예약했습니다.","has_sensitive":true,"entities":[{"value":"78-90-111555-78","begin":27,"end":42,"label":"DRIVER_LICENSE"}]}
+{"id":994,"content":"교통법규 위반 경고 문자를 발송했습니다. 그리고 면허번호 89-01-222666-89 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"89-01-222666-89","begin":32,"end":47,"label":"DRIVER_LICENSE"}]}
+{"id":995,"content":"면허 재발급 수수료 납부 안내 통지서를 발급했습니다. 아울러 면허번호 90-12-333777-90 로 납부하세요.","has_sensitive":true,"entities":[{"value":"90-12-333777-90","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":996,"content":"적성검사 불합격 통지서를 발송했습니다. 참고로 면허번호 13-24-444888-13 로 재검사 필요합니다.","has_sensitive":true,"entities":[{"value":"13-24-444888-13","begin":31,"end":46,"label":"DRIVER_LICENSE"}]}
+{"id":997,"content":"운전면허 발급 완료 축하 메시지를 발송했습니다. 또한 새로 부여된 번호는 24-35-555999-24 입니다.","has_sensitive":true,"entities":[{"value":"24-35-555999-24","begin":46,"end":61,"label":"DRIVER_LICENSE"}]}
+{"id":998,"content":"면허 취소 처분 사전 통지서를 발급했습니다. 먼저 대상 면허번호는 35-46-666111-35 입니다.","has_sensitive":true,"entities":[{"value":"35-46-666111-35","begin":39,"end":54,"label":"DRIVER_LICENSE"}]}
+{"id":999,"content":"벌점 누적 경고 통지서를 발송했습니다. 다만 면허번호 46-57-777222-46 에 19점 누적되었습니다.","has_sensitive":true,"entities":[{"value":"46-57-777222-46","begin":30,"end":45,"label":"DRIVER_LICENSE"}]}
+{"id":1000,"content":"면허 갱신 기한 연장 신청 완료 통지서를 발급했습니다. 그리고 면허번호 57-68-888333-57 를 확인했습니다.","has_sensitive":true,"entities":[{"value":"57-68-888333-57","begin":45,"end":60,"label":"DRIVER_LICENSE"}]}

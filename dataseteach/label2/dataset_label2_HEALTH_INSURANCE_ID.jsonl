@@ -1,0 +1,1000 @@
+{"id":1,"content":"건강보험증번호 1234567890123 으로 가입자 조회가 가능합니다. 참고로 본 번호는 테스트용입니다.","has_sensitive":true,"entities":[{"value":"1234567890123","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":2,"content":"접수하신 민원의 건강보험번호는 9876543210987입니다. 확인 후 회신 드리겠습니다.","has_sensitive":true,"entities":[{"value":"9876543210987","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":3,"content":"먼저 본인확인을 위해 2345678901234 번호를 입력해주세요. 아울러 개인정보 보호에 유의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2345678901234","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":4,"content":"고객님의 건강보험증 번호 3456789012345는 정상 등록되었습니다. 감사합니다.","has_sensitive":true,"entities":[{"value":"3456789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":5,"content":"의료비 청구를 위해 4567890123456 을 제출해주시기 바랍니다. 또한 영수증도 함께 첨부 부탁드립니다.","has_sensitive":true,"entities":[{"value":"4567890123456","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":6,"content":"보험가입자 확인번호는 5678901234567 입니다. 다만 타인에게 공유하지 말아주세요.","has_sensitive":true,"entities":[{"value":"5678901234567","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":7,"content":"신규 등록하신 건강보험 식별번호 6789012345678 확인 완료했습니다. 그리고 모바일 앱에서도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"6789012345678","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":8,"content":"제출하신 서류의 보험번호 7890123456789가 일치합니다. 처리 완료되었습니다.","has_sensitive":true,"entities":[{"value":"7890123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":9,"content":"환자분의 건강보험증번호 8901234567890 으로 진료 예약이 완료되었습니다. 참고로 당일 방문 시 신분증을 지참해주세요.","has_sensitive":true,"entities":[{"value":"8901234567890","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":10,"content":"가입 신청서에 기재된 9012345678901 번호로 승인 처리되었습니다. 아울러 안내문을 발송했습니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":11,"content":"먼저 확인 요청하신 1023456789012 건강보험번호는 유효합니다. 또한 갱신일은 내년 3월입니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":12,"content":"본인인증 절차에서 2034567890123 을 입력하셨습니다. 다만 재확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":13,"content":"건강검진 예약을 위한 보험증번호 3045678901234 제출 부탁드립니다. 그리고 검진 전 주의사항을 확인하세요.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":14,"content":"조회하신 4056789012345 번호는 현재 활성 상태입니다. 정상적으로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":15,"content":"고객님께서 등록하신 건강보험 식별코드 5067890123456 이 확인되었습니다. 참고로 변경 시 재등록이 필요합니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":16,"content":"수납 처리를 위해 6078901234567 건강보험증번호가 필요합니다. 아울러 본인 확인 절차도 진행됩니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":17,"content":"진료비 청구서에 명시된 7089012345678 번호를 확인해주세요. 또한 문의사항은 고객센터로 연락 바랍니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":18,"content":"먼저 가입자 번호 8090123456789 로 로그인해주세요. 다만 비밀번호 분실 시 재설정이 필요합니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":19,"content":"제출된 서류의 건강보험번호 9001234567890 은 정상 처리되었습니다. 그리고 결과는 일주일 내 통보됩니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":20,"content":"신청하신 1012345678901 보험증번호로 승인 완료했습니다. 참고로 유효기간은 5년입니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":21,"content":"환자 등록 시 입력하신 2023456789012 번호가 확인됩니다. 아울러 추가 서류 제출은 불필요합니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":22,"content":"본인확인용 건강보험증번호 3034567890123 제공 부탁드립니다. 또한 사본 제출도 가능합니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":23,"content":"접수번호와 연결된 4045678901234 건강보험번호를 기재해주세요. 다만 정확한 번호 입력이 중요합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":24,"content":"먼저 조회 요청하신 5056789012345 는 유효한 번호입니다. 그리고 만료일은 2025년 12월입니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":25,"content":"가입자 식별을 위한 6067890123456 번호 확인 완료했습니다. 참고로 변경 이력은 없습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":26,"content":"제출하신 건강보험증 번호 7078901234567 이 시스템에 등록되었습니다. 아울러 승인 문자가 발송됩니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":27,"content":"진료 접수를 위해 8089012345678 을 입력하셨습니다. 또한 대기 순서는 5번입니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":28,"content":"청구서 작성에 필요한 건강보험번호 9090123456789 를 제공해주세요. 다만 개인정보 보호에 유의합니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":29,"content":"고객님의 보험증번호 1001234567890 으로 인증되었습니다. 그리고 서비스 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":30,"content":"먼저 입력하신 2012345678901 건강보험번호를 확인해주세요. 참고로 오타가 있는지 검토 바랍니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":31,"content":"신청서에 기재된 3023456789012 번호는 유효합니다. 아울러 처리 상태는 승인 완료입니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":32,"content":"건강검진 접수 시 4034567890123 보험증번호를 사용하셨습니다. 또한 검진일은 다음주 월요일입니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":33,"content":"본인 확인을 위한 5045678901234 번호 제출이 필요합니다. 다만 본인 명의만 가능합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":34,"content":"등록하신 건강보험증번호 6056789012345 가 시스템에 저장되었습니다. 그리고 확인 메일을 전송했습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":35,"content":"먼저 제출 요청하신 7067890123456 건강보험번호는 정상입니다. 참고로 추가 인증은 불필요합니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":36,"content":"의료비 환급 신청에 8078901234567 번호를 사용합니다. 아울러 환급액은 10일 이내 입금됩니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":37,"content":"조회하신 건강보험 식별번호 9089012345678 은 활성 상태입니다. 또한 유효기간은 2026년까지입니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":38,"content":"가입자 정보 확인을 위해 1090123456789 를 입력해주세요. 다만 정확한 번호가 중요합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":39,"content":"제출하신 2001234567890 건강보험증번호로 승인 처리했습니다. 그리고 카드는 2주 내 발급됩니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":40,"content":"먼저 본인인증용 3012345678901 번호를 확인해주세요. 참고로 타인 명의는 사용 불가합니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":41,"content":"접수된 서류의 건강보험번호 4023456789012 확인 완료했습니다. 아울러 결과는 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":42,"content":"진료 예약을 위해 5034567890123 보험증번호가 필요합니다. 또한 예약 변경은 하루 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":43,"content":"고객님의 건강보험증 번호 6045678901234 로 로그인 가능합니다. 다만 비밀번호는 별도 설정 필요합니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":44,"content":"신청하신 7056789012345 건강보험번호는 정상 등록되었습니다. 그리고 안내문을 우편 발송했습니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":45,"content":"먼저 입력된 8067890123456 번호를 재확인해주세요. 참고로 시스템 점검 중일 수 있습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":46,"content":"본인확인 절차에서 9078901234567 을 제출하셨습니다. 아울러 추가 서류는 이메일로 전송 가능합니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":47,"content":"가입자 조회를 위한 1089012345678 건강보험번호를 입력하세요. 또한 생년월일도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":48,"content":"제출하신 건강보험증번호 2090123456789 가 확인되었습니다. 다만 유효기간 만료일을 확인하세요.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":49,"content":"청구 처리에 필요한 3001234567890 번호를 기재해주세요. 그리고 영수증 원본도 제출 부탁드립니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":50,"content":"먼저 등록하신 4012345678901 보험증번호로 인증 완료했습니다. 참고로 모바일에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":51,"content":"본인 확인용 건강보험번호 5023456789012 를 제공해주세요. 아울러 신분증 사본도 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":52,"content":"접수하신 6034567890123 건강보험증번호는 유효합니다. 또한 처리 기간은 3영업일입니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":53,"content":"진료비 결제를 위한 7045678901234 번호 확인이 필요합니다. 다만 본인 명의 계좌만 가능합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":54,"content":"고객님께서 제출하신 건강보험 식별번호 8056789012345 가 승인되었습니다. 그리고 카드 발급이 진행됩니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":55,"content":"먼저 조회 요청된 9067890123456 건강보험번호를 확인했습니다. 참고로 변경 사항은 없습니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":56,"content":"신청서에 기재된 1078901234567 번호는 정상 처리되었습니다. 아울러 안내문을 발송했습니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":57,"content":"건강검진 예약에 2089012345678 보험증번호를 사용합니다. 또한 예약 확인서를 출력해주세요.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":58,"content":"본인인증을 위해 3090123456789 건강보험증번호를 입력하세요. 다만 오류 발생 시 재입력 필요합니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":59,"content":"제출된 4001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 상세 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":60,"content":"먼저 확인하신 건강보험번호 5012345678901 은 유효합니다. 참고로 갱신 절차는 자동 처리됩니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":61,"content":"의료비 청구를 위한 6023456789012 건강보험증번호를 제출해주세요. 아울러 진료 내역서도 필요합니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":62,"content":"등록하신 7034567890123 보험증번호로 승인 완료했습니다. 또한 확인 메일을 전송했습니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":63,"content":"조회 신청하신 건강보험 식별번호 8045678901234 확인되었습니다. 다만 추가 인증이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":64,"content":"가입자 확인을 위해 9056789012345 번호를 입력해주세요. 그리고 주소 정보도 함께 제공 바랍니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":65,"content":"먼저 제출하신 1067890123456 건강보험번호는 정상입니다. 참고로 처리 완료 문자를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":66,"content":"본인확인용 2078901234567 건강보험증번호 제공 부탁드립니다. 아울러 사본 제출도 가능합니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":67,"content":"접수된 서류의 건강보험번호 3089012345678 이 확인되었습니다. 또한 승인 처리가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":68,"content":"진료 예약 시 4090123456789 보험증번호를 사용하셨습니다. 다만 예약 시간을 엄수해주세요.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":69,"content":"고객님의 건강보험증 번호 5001234567890 로 등록 완료했습니다. 그리고 안내문을 우편 발송합니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":70,"content":"먼저 입력하신 6012345678901 건강보험번호를 재확인하세요. 참고로 오류 시 고객센터로 연락 바랍니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":71,"content":"신청서에 기재된 7023456789012 번호는 유효합니다. 아울러 승인 결과를 이메일로 전송했습니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":72,"content":"건강검진 접수를 위한 8034567890123 보험증번호를 제출하세요. 또한 공복 상태로 방문 바랍니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":73,"content":"본인 인증에 9045678901234 건강보험증번호가 사용되었습니다. 다만 유효기간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":74,"content":"제출하신 건강보험 식별번호 1056789012345 가 시스템에 등록되었습니다. 그리고 확인 문자를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":75,"content":"먼저 조회 요청하신 2067890123456 건강보험번호는 활성 상태입니다. 참고로 만료일은 2027년입니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":76,"content":"의료비 환급 신청에 3078901234567 번호를 사용합니다. 아울러 환급액은 계좌 이체됩니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":77,"content":"가입자 정보 확인을 위해 4089012345678 를 입력해주세요. 또한 비밀번호도 함께 설정 바랍니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":78,"content":"접수하신 5090123456789 건강보험증번호로 승인되었습니다. 다만 카드 수령은 2주 소요됩니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":79,"content":"본인확인용 건강보험번호 6001234567890 제공 부탁드립니다. 그리고 신분증 원본도 지참하세요.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":80,"content":"먼저 등록된 7012345678901 보험증번호로 인증 완료했습니다. 참고로 변경 사항은 없습니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":81,"content":"진료 접수 시 8023456789012 건강보험증번호를 입력하셨습니다. 아울러 대기 시간은 약 20분입니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":82,"content":"청구서 작성에 필요한 9034567890123 번호를 기재해주세요. 또한 날인도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":83,"content":"고객님의 건강보험 식별번호 1045678901234 확인 완료했습니다. 다만 추가 서류 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":84,"content":"신청하신 2056789012345 건강보험번호는 정상 등록되었습니다. 그리고 안내문을 전송했습니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":85,"content":"먼저 입력하신 3067890123456 보험증번호를 확인해주세요. 참고로 정확한 번호 입력이 중요합니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":86,"content":"본인인증 절차에서 4078901234567 을 제출하셨습니다. 아울러 추가 인증은 불필요합니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":87,"content":"가입자 조회를 위한 5089012345678 건강보험증번호를 입력하세요. 또한 생년월일 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":88,"content":"제출하신 건강보험번호 6090123456789 가 확인되었습니다. 다만 유효기간을 재확인하세요.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":89,"content":"청구 처리에 필요한 7001234567890 번호를 제공해주세요. 그리고 영수증도 함께 첨부 바랍니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":90,"content":"먼저 등록하신 8012345678901 건강보험증번호로 인증되었습니다. 참고로 서비스 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":91,"content":"본인 확인용 9023456789012 건강보험번호를 제공 부탁드립니다. 아울러 본인 명의만 가능합니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":92,"content":"접수하신 1034567890123 보험증번호는 유효합니다. 또한 처리 상태는 승인 완료입니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":93,"content":"진료비 결제를 위한 2045678901234 건강보험증번호 확인이 필요합니다. 다만 본인 계좌로만 환급됩니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":94,"content":"고객님께서 제출하신 건강보험 식별번호 3056789012345 가 승인되었습니다. 그리고 결과를 메일 발송했습니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":95,"content":"먼저 조회 요청된 4067890123456 건강보험번호를 확인했습니다. 참고로 이상 없이 정상입니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":96,"content":"신청서에 기재된 5078901234567 번호는 정상 처리되었습니다. 아울러 승인 문자를 전송했습니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":97,"content":"건강검진 예약에 6089012345678 보험증번호를 사용합니다. 또한 예약 변경은 전화로 가능합니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":98,"content":"본인인증을 위해 7090123456789 건강보험증번호를 입력하세요. 다만 타인 사용은 불가능합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":99,"content":"제출된 8001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 상세 정보를 전송했습니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":100,"content":"먼저 확인하신 건강보험번호 9012345678901 은 유효합니다. 참고로 만료일은 2028년입니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":101,"content":"의료비 청구를 위한 1023456789012 건강보험증번호를 제출해주세요. 아울러 처방전도 필요합니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":102,"content":"등록하신 2034567890123 보험증번호로 승인 완료했습니다. 또한 카드 배송이 시작됩니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":103,"content":"조회 신청하신 건강보험 식별번호 3045678901234 확인되었습니다. 다만 주소 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":104,"content":"가입자 확인을 위해 4056789012345 번호를 입력해주세요. 그리고 연락처 정보도 함께 제공 바랍니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":105,"content":"먼저 제출하신 5067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":106,"content":"본인확인용 6078901234567 건강보험증번호 제공 부탁드립니다. 아울러 원본 서류도 지참하세요.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":107,"content":"접수된 서류의 건강보험번호 7089012345678 이 확인되었습니다. 또한 처리가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":108,"content":"진료 예약 시 8090123456789 보험증번호를 사용하셨습니다. 다만 신분증을 반드시 지참하세요.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":109,"content":"고객님의 건강보험증 번호 9001234567890 로 등록 완료했습니다. 그리고 안내문을 발송했습니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":110,"content":"먼저 입력하신 1012345678901 건강보험번호를 재확인하세요. 참고로 시스템 점검 중일 수 있습니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":111,"content":"신청서에 기재된 2023456789012 번호는 유효합니다. 아울러 승인 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":112,"content":"건강검진 접수를 위한 3034567890123 보험증번호를 제출하세요. 또한 검진 전날 금식이 필요합니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":113,"content":"본인 인증에 4045678901234 건강보험증번호가 사용되었습니다. 다만 만료 여부를 확인하세요.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":114,"content":"제출하신 건강보험 식별번호 5056789012345 가 시스템에 등록되었습니다. 그리고 확인 문자가 발송됩니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":115,"content":"먼저 조회 요청하신 6067890123456 건강보험번호는 활성 상태입니다. 참고로 변경 이력은 없습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":116,"content":"의료비 환급 신청에 7078901234567 번호를 사용합니다. 아울러 처리 기간은 7영업일입니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":117,"content":"가입자 정보 확인을 위해 8089012345678 를 입력해주세요. 또한 본인 확인 절차가 진행됩니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":118,"content":"접수하신 9090123456789 건강보험증번호로 승인되었습니다. 다만 추가 서류가 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":119,"content":"본인확인용 건강보험번호 1001234567890 제공 부탁드립니다. 그리고 휴대폰 인증도 필요합니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":120,"content":"먼저 등록된 2012345678901 보험증번호로 인증 완료했습니다. 참고로 유효기간은 5년입니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":121,"content":"진료 접수 시 3023456789012 건강보험증번호를 입력하셨습니다. 아울러 접수가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":122,"content":"청구서 작성에 필요한 4034567890123 번호를 기재해주세요. 또한 서명도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":123,"content":"고객님의 건강보험 식별번호 5045678901234 확인 완료했습니다. 다만 갱신 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":124,"content":"신청하신 6056789012345 건강보험번호는 정상 등록되었습니다. 그리고 확인 메일을 전송했습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":125,"content":"먼저 입력하신 7067890123456 보험증번호를 확인해주세요. 참고로 오타 여부를 검토 바랍니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":126,"content":"본인인증 절차에서 8078901234567 을 제출하셨습니다. 아울러 인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":127,"content":"가입자 조회를 위한 9089012345678 건강보험증번호를 입력하세요. 또한 주민번호 뒷자리도 필요합니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":128,"content":"제출하신 건강보험번호 1090123456789 가 확인되었습니다. 다만 등록 주소를 확인하세요.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":129,"content":"청구 처리에 필요한 2001234567890 번호를 제공해주세요. 그리고 진단서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":130,"content":"먼저 등록하신 3012345678901 건강보험증번호로 인증되었습니다. 참고로 온라인 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":131,"content":"본인 확인용 4023456789012 건강보험번호를 제공 부탁드립니다. 아울러 본인 명의 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":132,"content":"접수하신 5034567890123 보험증번호는 유효합니다. 또한 승인 처리가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":133,"content":"진료비 결제를 위한 6045678901234 건강보험증번호 확인이 필요합니다. 다만 본인 동의가 필수입니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":134,"content":"고객님께서 제출하신 건강보험 식별번호 7056789012345 가 승인되었습니다. 그리고 안내문을 발송했습니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":135,"content":"먼저 조회 요청된 8067890123456 건강보험번호를 확인했습니다. 참고로 정상 처리되었습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":136,"content":"신청서에 기재된 9078901234567 번호는 정상 처리되었습니다. 아울러 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":137,"content":"건강검진 예약에 1089012345678 보험증번호를 사용합니다. 또한 검진 결과는 일주일 후 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":138,"content":"본인인증을 위해 2090123456789 건강보험증번호를 입력하세요. 다만 정확한 입력이 중요합니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":139,"content":"제출된 3001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":140,"content":"먼저 확인하신 건강보험번호 4012345678901 은 유효합니다. 참고로 자동 갱신됩니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":141,"content":"의료비 청구를 위한 5023456789012 건강보험증번호를 제출해주세요. 아울러 청구서도 필요합니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":142,"content":"등록하신 6034567890123 보험증번호로 승인 완료했습니다. 또한 알림톡을 전송했습니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":143,"content":"조회 신청하신 건강보험 식별번호 7045678901234 확인되었습니다. 다만 연락처 업데이트가 필요합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":144,"content":"가입자 확인을 위해 8056789012345 번호를 입력해주세요. 그리고 이메일 주소도 함께 제공 바랍니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":145,"content":"먼저 제출하신 9067890123456 건강보험번호는 정상입니다. 참고로 승인 완료 알림을 발송했습니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":146,"content":"본인확인용 1078901234567 건강보험증번호 제공 부탁드립니다. 아울러 증빙서류도 지참하세요.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":147,"content":"접수된 서류의 건강보험번호 2089012345678 이 확인되었습니다. 또한 승인 절차가 진행됩니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":148,"content":"진료 예약 시 3090123456789 보험증번호를 사용하셨습니다. 다만 예약일을 확인하세요.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":149,"content":"고객님의 건강보험증 번호 4001234567890 로 등록 완료했습니다. 그리고 문자 알림을 발송했습니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":150,"content":"먼저 입력하신 5012345678901 건강보험번호를 재확인하세요. 참고로 오류 시 재입력 필요합니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":151,"content":"신청서에 기재된 6023456789012 번호는 유효합니다. 아울러 처리 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":152,"content":"건강검진 접수를 위한 7034567890123 보험증번호를 제출하세요. 또한 문진표도 작성 바랍니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":153,"content":"본인 인증에 8045678901234 건강보험증번호가 사용되었습니다. 다만 유효 상태를 확인하세요.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":154,"content":"제출하신 건강보험 식별번호 9056789012345 가 시스템에 등록되었습니다. 그리고 승인 메일이 발송됩니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":155,"content":"먼저 조회 요청하신 1067890123456 건강보험번호는 활성 상태입니다. 참고로 문제없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":156,"content":"의료비 환급 신청에 2078901234567 번호를 사용합니다. 아울러 환급 기간은 2주입니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":157,"content":"가입자 정보 확인을 위해 3089012345678 를 입력해주세요. 또한 비밀번호 설정도 필요합니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":158,"content":"접수하신 4090123456789 건강보험증번호로 승인되었습니다. 다만 카드 발급은 3주 소요됩니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":159,"content":"본인확인용 건강보험번호 5001234567890 제공 부탁드립니다. 그리고 본인 서명도 필요합니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":160,"content":"먼저 등록된 6012345678901 보험증번호로 인증 완료했습니다. 참고로 정보 변경은 온라인 가능합니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":161,"content":"진료 접수 시 7023456789012 건강보험증번호를 입력하셨습니다. 아울러 진료가 시작됩니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":162,"content":"청구서 작성에 필요한 8034567890123 번호를 기재해주세요. 또한 청구 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":163,"content":"고객님의 건강보험 식별번호 9045678901234 확인 완료했습니다. 다만 재등록이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":164,"content":"신청하신 1056789012345 건강보험번호는 정상 등록되었습니다. 그리고 처리 완료 문자를 전송했습니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":165,"content":"먼저 입력하신 2067890123456 보험증번호를 확인해주세요. 참고로 번호 확인이 중요합니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":166,"content":"본인인증 절차에서 3078901234567 을 제출하셨습니다. 아울러 본인 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":167,"content":"가입자 조회를 위한 4089012345678 건강보험증번호를 입력하세요. 또한 가입일자 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":168,"content":"제출하신 건강보험번호 5090123456789 가 확인되었습니다. 다만 주소지 확인을 부탁드립니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":169,"content":"청구 처리에 필요한 6001234567890 번호를 제공해주세요. 그리고 의료비 명세서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":170,"content":"먼저 등록하신 7012345678901 건강보험증번호로 인증되었습니다. 참고로 모바일 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":171,"content":"본인 확인용 8023456789012 건강보험번호를 제공 부탁드립니다. 아울러 신분증도 함께 지참하세요.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":172,"content":"접수하신 9034567890123 보험증번호는 유효합니다. 또한 처리 진행 상황을 알려드립니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":173,"content":"진료비 결제를 위한 1045678901234 건강보험증번호 확인이 필요합니다. 다만 결제 동의가 필수입니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":174,"content":"고객님께서 제출하신 건강보험 식별번호 2056789012345 가 승인되었습니다. 그리고 결과를 발송했습니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":175,"content":"먼저 조회 요청된 3067890123456 건강보험번호를 확인했습니다. 참고로 문제없이 확인되었습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":176,"content":"신청서에 기재된 4078901234567 번호는 정상 처리되었습니다. 아울러 승인 알림을 전송했습니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":177,"content":"건강검진 예약에 5089012345678 보험증번호를 사용합니다. 또한 검진 시간을 엄수해주세요.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":178,"content":"본인인증을 위해 6090123456789 건강보험증번호를 입력하세요. 다만 입력 오류에 주의하세요.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":179,"content":"제출된 7001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 정보를 전송했습니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":180,"content":"먼저 확인하신 건강보험번호 8012345678901 은 유효합니다. 참고로 갱신 기한은 내년입니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":181,"content":"의료비 청구를 위한 9023456789012 건강보험증번호를 제출해주세요. 아울러 수납 영수증도 필요합니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":182,"content":"등록하신 1034567890123 보험증번호로 승인 완료했습니다. 또한 등록증을 우편 발송합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":183,"content":"조회 신청하신 건강보험 식별번호 2045678901234 확인되었습니다. 다만 정보 갱신이 필요합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":184,"content":"가입자 확인을 위해 3056789012345 번호를 입력해주세요. 그리고 가족관계증명서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":185,"content":"먼저 제출하신 4067890123456 건강보험번호는 정상입니다. 참고로 등록 승인 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":186,"content":"본인확인용 5078901234567 건강보험증번호 제공 부탁드립니다. 아울러 사진도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":187,"content":"접수된 서류의 건강보험번호 6089012345678 이 확인되었습니다. 또한 검토가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":188,"content":"진료 예약 시 7090123456789 보험증번호를 사용하셨습니다. 다만 예약 시각을 기억하세요.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":189,"content":"고객님의 건강보험증 번호 8001234567890 로 등록 완료했습니다. 그리고 확인 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":190,"content":"먼저 입력하신 9012345678901 건강보험번호를 재확인하세요. 참고로 자릿수를 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":191,"content":"신청서에 기재된 1023456789012 번호는 유효합니다. 아울러 신청 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":192,"content":"건강검진 접수를 위한 2034567890123 보험증번호를 제출하세요. 또한 동의서도 작성 바랍니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":193,"content":"본인 인증에 3045678901234 건강보험증번호가 사용되었습니다. 다만 인증 유효 시간을 확인하세요.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":194,"content":"제출하신 건강보험 식별번호 4056789012345 가 시스템에 등록되었습니다. 그리고 등록 완료 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":195,"content":"먼저 조회 요청하신 5067890123456 건강보험번호는 활성 상태입니다. 참고로 이용에 제한이 없습니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":196,"content":"의료비 환급 신청에 6078901234567 번호를 사용합니다. 아울러 환급 계좌를 등록하세요.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":197,"content":"가입자 정보 확인을 위해 7089012345678 를 입력해주세요. 또한 인증번호도 함께 입력 바랍니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":198,"content":"접수하신 8090123456789 건강보험증번호로 승인되었습니다. 다만 발급에는 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":199,"content":"본인확인용 건강보험번호 9001234567890 제공 부탁드립니다. 그리고 전화 인증도 진행됩니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":200,"content":"먼저 등록된 1012345678901 보험증번호로 인증 완료했습니다. 참고로 수정 신청이 가능합니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":201,"content":"진료 접수 시 2023456789012 건강보험증번호를 입력하셨습니다. 아울러 접수가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":202,"content":"청구서 작성에 필요한 3034567890123 번호를 기재해주세요. 또한 날인도 필수입니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":203,"content":"고객님의 건강보험 식별번호 4045678901234 확인 완료했습니다. 다만 업데이트가 필요합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":204,"content":"신청하신 5056789012345 건강보험번호는 정상 등록되었습니다. 그리고 확인서를 발급했습니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":205,"content":"먼저 입력하신 6067890123456 보험증번호를 확인해주세요. 참고로 입력 내용을 검토 바랍니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":206,"content":"본인인증 절차에서 7078901234567 을 제출하셨습니다. 아울러 인증 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":207,"content":"가입자 조회를 위한 8089012345678 건강보험증번호를 입력하세요. 또한 등록일자도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":208,"content":"제출하신 건강보험번호 9090123456789 가 확인되었습니다. 다만 연락처를 업데이트하세요.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":209,"content":"청구 처리에 필요한 1001234567890 번호를 제공해주세요. 그리고 소견서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":210,"content":"먼저 등록하신 2012345678901 건강보험증번호로 인증되었습니다. 참고로 앱에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":211,"content":"본인 확인용 3023456789012 건강보험번호를 제공 부탁드립니다. 아울러 증명서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":212,"content":"접수하신 4034567890123 보험증번호는 유효합니다. 또한 신청 내역을 확인했습니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":213,"content":"진료비 결제를 위한 5045678901234 건강보험증번호 확인이 필요합니다. 다만 본인 동의 절차가 필수입니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":214,"content":"고객님께서 제출하신 건강보험 식별번호 6056789012345 가 승인되었습니다. 그리고 처리 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":215,"content":"먼저 조회 요청된 7067890123456 건강보험번호를 확인했습니다. 참고로 정상 상태입니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":216,"content":"신청서에 기재된 8078901234567 번호는 정상 처리되었습니다. 아울러 통보서를 전송했습니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":217,"content":"건강검진 예약에 9089012345678 보험증번호를 사용합니다. 또한 예약일에 방문해주세요.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":218,"content":"본인인증을 위해 1090123456789 건강보험증번호를 입력하세요. 다만 보안에 유의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":219,"content":"제출된 2001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 세부 정보를 전송했습니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":220,"content":"먼저 확인하신 건강보험번호 3012345678901 은 유효합니다. 참고로 만료일이 자동 연장됩니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":221,"content":"의료비 청구를 위한 4023456789012 건강보험증번호를 제출해주세요. 아울러 진단서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":222,"content":"등록하신 5034567890123 보험증번호로 승인 완료했습니다. 또한 승인증을 우편 발송합니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":223,"content":"조회 신청하신 건강보험 식별번호 6045678901234 확인되었습니다. 다만 본인 확인이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":224,"content":"가입자 확인을 위해 7056789012345 번호를 입력해주세요. 그리고 재직증명서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":225,"content":"먼저 제출하신 8067890123456 건강보험번호는 정상입니다. 참고로 처리 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":226,"content":"본인확인용 9078901234567 건강보험증번호 제공 부탁드립니다. 아울러 인감도장도 지참하세요.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":227,"content":"접수된 서류의 건강보험번호 1089012345678 이 확인되었습니다. 또한 심사가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":228,"content":"진료 예약 시 2090123456789 보험증번호를 사용하셨습니다. 다만 진료 전 안내사항을 확인하세요.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":229,"content":"고객님의 건강보험증 번호 3001234567890 로 등록 완료했습니다. 그리고 등록증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":230,"content":"먼저 입력하신 4012345678901 건강보험번호를 재확인하세요. 참고로 번호 형식을 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":231,"content":"신청서에 기재된 5023456789012 번호는 유효합니다. 아울러 접수 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":232,"content":"건강검진 접수를 위한 6034567890123 보험증번호를 제출하세요. 또한 사전 예약이 필수입니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":233,"content":"본인 인증에 7045678901234 건강보험증번호가 사용되었습니다. 다만 유효 기간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":234,"content":"제출하신 건강보험 식별번호 8056789012345 가 시스템에 등록되었습니다. 그리고 등록 확인서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":235,"content":"먼저 조회 요청하신 9067890123456 건강보험번호는 활성 상태입니다. 참고로 서비스 이용에 문제없습니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":236,"content":"의료비 환급 신청에 1078901234567 번호를 사용합니다. 아울러 환급 처리 기간은 10일입니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":237,"content":"가입자 정보 확인을 위해 2089012345678 를 입력해주세요. 또한 본인 확인서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":238,"content":"접수하신 3090123456789 건강보험증번호로 승인되었습니다. 다만 서류 보완이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":239,"content":"본인확인용 건강보험번호 4001234567890 제공 부탁드립니다. 그리고 공인인증서도 준비하세요.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":240,"content":"먼저 등록된 5012345678901 보험증번호로 인증 완료했습니다. 참고로 변경 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":241,"content":"진료 접수 시 6023456789012 건강보험증번호를 입력하셨습니다. 아울러 순번이 안내됩니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":242,"content":"청구서 작성에 필요한 7034567890123 번호를 기재해주세요. 또한 계좌번호도 함께 기재 바랍니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":243,"content":"고객님의 건강보험 식별번호 8045678901234 확인 완료했습니다. 다만 정보 변경 시 재신청 필요합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":244,"content":"신청하신 9056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 알림을 발송했습니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":245,"content":"먼저 입력하신 1067890123456 보험증번호를 확인해주세요. 참고로 유효성 검사를 진행합니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":246,"content":"본인인증 절차에서 2078901234567 을 제출하셨습니다. 아울러 본인 인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":247,"content":"가입자 조회를 위한 3089012345678 건강보험증번호를 입력하세요. 또한 가입 상태도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":248,"content":"제출하신 건강보험번호 4090123456789 가 확인되었습니다. 다만 이메일 주소를 업데이트하세요.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":249,"content":"청구 처리에 필요한 5001234567890 번호를 제공해주세요. 그리고 증빙 자료도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":250,"content":"먼저 등록하신 6012345678901 건강보험증번호로 인증되었습니다. 참고로 웹사이트에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":251,"content":"본인 확인용 7023456789012 건강보험번호를 제공 부탁드립니다. 아울러 서류 사본도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":252,"content":"접수하신 8034567890123 보험증번호는 유효합니다. 또한 접수 확인증을 이메일로 전송했습니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":253,"content":"진료비 결제를 위한 9045678901234 건강보험증번호 확인이 필요합니다. 다만 결제 수단도 함께 확인하세요.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":254,"content":"고객님께서 제출하신 건강보험 식별번호 1056789012345 가 승인되었습니다. 그리고 승인 결과를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":255,"content":"먼저 조회 요청된 2067890123456 건강보험번호를 확인했습니다. 참고로 조회 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":256,"content":"신청서에 기재된 3078901234567 번호는 정상 처리되었습니다. 아울러 접수증을 발급했습니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":257,"content":"건강검진 예약에 4089012345678 보험증번호를 사용합니다. 또한 검진 결과는 2주 후 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":258,"content":"본인인증을 위해 5090123456789 건강보험증번호를 입력하세요. 다만 정확한 정보 입력이 중요합니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":259,"content":"제출된 6001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 조회 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":260,"content":"먼저 확인하신 건강보험번호 7012345678901 은 유효합니다. 참고로 유효기간이 연장되었습니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":261,"content":"의료비 청구를 위한 8023456789012 건강보험증번호를 제출해주세요. 아울러 진료 기록지도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":262,"content":"등록하신 9034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 우편 발송합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":263,"content":"조회 신청하신 건강보험 식별번호 1045678901234 확인되었습니다. 다만 서류 검토가 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":264,"content":"가입자 확인을 위해 2056789012345 번호를 입력해주세요. 그리고 소득증명서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":265,"content":"먼저 제출하신 3067890123456 건강보험번호는 정상입니다. 참고로 승인 완료 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":266,"content":"본인확인용 4078901234567 건강보험증번호 제공 부탁드립니다. 아울러 신분증 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":267,"content":"접수된 서류의 건강보험번호 5089012345678 이 확인되었습니다. 또한 승인 처리가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":268,"content":"진료 예약 시 6090123456789 보험증번호를 사용하셨습니다. 다만 예약 변경 시 사전 연락 필요합니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":269,"content":"고객님의 건강보험증 번호 7001234567890 로 등록 완료했습니다. 그리고 가입 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":270,"content":"먼저 입력하신 8012345678901 건강보험번호를 재확인하세요. 참고로 입력 오류 여부를 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":271,"content":"신청서에 기재된 9023456789012 번호는 유효합니다. 아울러 신청 승인 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":272,"content":"건강검진 접수를 위한 1034567890123 보험증번호를 제출하세요. 또한 검진 당일 공복 상태 유지가 필요합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":273,"content":"본인 인증에 2045678901234 건강보험증번호가 사용되었습니다. 다만 인증 만료 시간에 유의하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":274,"content":"제출하신 건강보험 식별번호 3056789012345 가 시스템에 등록되었습니다. 그리고 등록 완료 문자가 발송됩니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":275,"content":"먼저 조회 요청하신 4067890123456 건강보험번호는 활성 상태입니다. 참고로 모든 서비스를 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":276,"content":"의료비 환급 신청에 5078901234567 번호를 사용합니다. 아울러 환급 금액은 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":277,"content":"가입자 정보 확인을 위해 6089012345678 를 입력해주세요. 또한 가입 경로도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":278,"content":"접수하신 7090123456789 건강보험증번호로 승인되었습니다. 다만 발급 완료까지 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":279,"content":"본인확인용 건강보험번호 8001234567890 제공 부탁드립니다. 그리고 모바일 인증도 진행 예정입니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":280,"content":"먼저 등록된 9012345678901 보험증번호로 인증 완료했습니다. 참고로 정보 수정은 고객센터 통해 가능합니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":281,"content":"진료 접수 시 1023456789012 건강보험증번호를 입력하셨습니다. 아울러 진료 순서를 안내받으셨습니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":282,"content":"청구서 작성에 필요한 2034567890123 번호를 기재해주세요. 또한 청구 금액도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":283,"content":"고객님의 건강보험 식별번호 3045678901234 확인 완료했습니다. 다만 등록 정보 변경이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":284,"content":"신청하신 4056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":285,"content":"먼저 입력하신 5067890123456 보험증번호를 확인해주세요. 참고로 자릿수 오류가 없는지 검토 바랍니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":286,"content":"본인인증 절차에서 6078901234567 을 제출하셨습니다. 아울러 인증 결과가 즉시 확인되었습니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":287,"content":"가입자 조회를 위한 7089012345678 건강보험증번호를 입력하세요. 또한 등록 지역도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":288,"content":"제출하신 건강보험번호 8090123456789 가 확인되었습니다. 다만 주소 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":289,"content":"청구 처리에 필요한 9001234567890 번호를 제공해주세요. 그리고 첨부 서류도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":290,"content":"먼저 등록하신 1012345678901 건강보험증번호로 인증되었습니다. 참고로 포털에서도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":291,"content":"본인 확인용 2023456789012 건강보험번호를 제공 부탁드립니다. 아울러 원본 서류도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":292,"content":"접수하신 3034567890123 보험증번호는 유효합니다. 또한 처리 상태를 실시간으로 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":293,"content":"진료비 결제를 위한 4045678901234 건강보험증번호 확인이 필요합니다. 다만 카드 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":294,"content":"고객님께서 제출하신 건강보험 식별번호 5056789012345 가 승인되었습니다. 그리고 승인 내역을 발송했습니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":295,"content":"먼저 조회 요청된 6067890123456 건강보험번호를 확인했습니다. 참고로 이상 없이 처리되었습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":296,"content":"신청서에 기재된 7078901234567 번호는 정상 처리되었습니다. 아울러 완료 통지서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":297,"content":"건강검진 예약에 8089012345678 보험증번호를 사용합니다. 또한 검진 항목을 사전 확인해주세요.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":298,"content":"본인인증을 위해 9090123456789 건강보험증번호를 입력하세요. 다만 입력 제한 시간이 있습니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":299,"content":"제출된 1001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 가입 상세 정보를 전송했습니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":300,"content":"먼저 확인하신 건강보험번호 2012345678901 은 유효합니다. 참고로 자동으로 갱신 처리됩니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":301,"content":"의료비 청구를 위한 3023456789012 건강보험증번호를 제출해주세요. 아울러 처방전 사본도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":302,"content":"등록하신 4034567890123 보험증번호로 승인 완료했습니다. 또한 보험증 카드를 우편 발송합니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":303,"content":"조회 신청하신 건강보험 식별번호 5045678901234 확인되었습니다. 다만 추가 확인 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":304,"content":"가입자 확인을 위해 6056789012345 번호를 입력해주세요. 그리고 등록 증명서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":305,"content":"먼저 제출하신 7067890123456 건강보험번호는 정상입니다. 참고로 등록 승인 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":306,"content":"본인확인용 8078901234567 건강보험증번호 제공 부탁드립니다. 아울러 인감증명서도 지참하세요.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":307,"content":"접수된 서류의 건강보험번호 9089012345678 이 확인되었습니다. 또한 검토 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":308,"content":"진료 예약 시 1090123456789 보험증번호를 사용하셨습니다. 다만 예약 취소는 하루 전까지 가능합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":309,"content":"고객님의 건강보험증 번호 2001234567890 로 등록 완료했습니다. 그리고 회원 가입 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":310,"content":"먼저 입력하신 3012345678901 건강보험번호를 재확인하세요. 참고로 시스템 오류 시 재시도 바랍니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":311,"content":"신청서에 기재된 4023456789012 번호는 유효합니다. 아울러 처리 완료 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":312,"content":"건강검진 접수를 위한 5034567890123 보험증번호를 제출하세요. 또한 검진 전 음주를 삼가해주세요.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":313,"content":"본인 인증에 6045678901234 건강보험증번호가 사용되었습니다. 다만 보안 설정을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":314,"content":"제출하신 건강보험 식별번호 7056789012345 가 시스템에 등록되었습니다. 그리고 등록 통지서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":315,"content":"먼저 조회 요청하신 8067890123456 건강보험번호는 활성 상태입니다. 참고로 정상적으로 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":316,"content":"의료비 환급 신청에 9078901234567 번호를 사용합니다. 아울러 환급은 계좌로 직접 입금됩니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":317,"content":"가입자 정보 확인을 위해 1089012345678 를 입력해주세요. 또한 직장 정보도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":318,"content":"접수하신 2090123456789 건강보험증번호로 승인되었습니다. 다만 증빙 서류 보완이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":319,"content":"본인확인용 건강보험번호 3001234567890 제공 부탁드립니다. 그리고 전자서명도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":320,"content":"먼저 등록된 4012345678901 보험증번호로 인증 완료했습니다. 참고로 증빙 자료는 보관됩니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":321,"content":"진료 접수 시 5023456789012 건강보험증번호를 입력하셨습니다. 아울러 대기 시간을 안내받으셨습니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":322,"content":"청구서 작성에 필요한 6034567890123 번호를 기재해주세요. 또한 의료비 세부 내역도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":323,"content":"고객님의 건강보험 식별번호 7045678901234 확인 완료했습니다. 다만 주소지 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":324,"content":"신청하신 8056789012345 건강보험번호는 정상 등록되었습니다. 그리고 가입 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":325,"content":"먼저 입력하신 9067890123456 보험증번호를 확인해주세요. 참고로 숫자 형식을 재확인 바랍니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":326,"content":"본인인증 절차에서 1078901234567 을 제출하셨습니다. 아울러 인증 완료 메시지가 전송되었습니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":327,"content":"가입자 조회를 위한 2089012345678 건강보험증번호를 입력하세요. 또한 피부양자 정보도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":328,"content":"제출하신 건강보험번호 3090123456789 가 확인되었습니다. 다만 휴대폰 번호를 업데이트하세요.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":329,"content":"청구 처리에 필요한 4001234567890 번호를 제공해주세요. 그리고 진료비 상세 내역서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":330,"content":"먼저 등록하신 5012345678901 건강보험증번호로 인증되었습니다. 참고로 실시간 조회가 가능합니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":331,"content":"본인 확인용 6023456789012 건강보험번호를 제공 부탁드립니다. 아울러 가족관계 확인서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":332,"content":"접수하신 7034567890123 보험증번호는 유효합니다. 또한 신청 진행 상황을 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":333,"content":"진료비 결제를 위한 8045678901234 건강보험증번호 확인이 필요합니다. 다만 본인 명의 통장만 가능합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":334,"content":"고객님께서 제출하신 건강보험 식별번호 9056789012345 가 승인되었습니다. 그리고 승인 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":335,"content":"먼저 조회 요청된 1067890123456 건강보험번호를 확인했습니다. 참고로 문제없이 정상 확인되었습니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":336,"content":"신청서에 기재된 2078901234567 번호는 정상 처리되었습니다. 아울러 처리 완료 통지서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":337,"content":"건강검진 예약에 3089012345678 보험증번호를 사용합니다. 또한 검진 결과는 등기우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":338,"content":"본인인증을 위해 4090123456789 건강보험증번호를 입력하세요. 다만 타인 사용 시 법적 책임이 있습니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":339,"content":"제출된 5001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 보험 적용 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":340,"content":"먼저 확인하신 건강보험번호 6012345678901 은 유효합니다. 참고로 만료 전 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":341,"content":"의료비 청구를 위한 7023456789012 건강보험증번호를 제출해주세요. 아울러 약제비 영수증도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":342,"content":"등록하신 8034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 등기우편으로 발송합니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":343,"content":"조회 신청하신 건강보험 식별번호 9045678901234 확인되었습니다. 다만 본인 확인 전화가 갈 예정입니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":344,"content":"가입자 확인을 위해 1056789012345 번호를 입력해주세요. 그리고 주민등록등본도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":345,"content":"먼저 제출하신 2067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 알림을 발송했습니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":346,"content":"본인확인용 3078901234567 건강보험증번호 제공 부탁드립니다. 아울러 주민등록증 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":347,"content":"접수된 서류의 건강보험번호 4089012345678 이 확인되었습니다. 또한 심사 완료 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":348,"content":"진료 예약 시 5090123456789 보험증번호를 사용하셨습니다. 다만 신분증을 반드시 지참해주세요.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":349,"content":"고객님의 건강보험증 번호 6001234567890 로 등록 완료했습니다. 그리고 회원 등록증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":350,"content":"먼저 입력하신 7012345678901 건강보험번호를 재확인하세요. 참고로 입력 형식을 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":351,"content":"신청서에 기재된 8023456789012 번호는 유효합니다. 아울러 승인 처리 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":352,"content":"건강검진 접수를 위한 9034567890123 보험증번호를 제출하세요. 또한 검진 예약 시간을 확인해주세요.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":353,"content":"본인 인증에 1045678901234 건강보험증번호가 사용되었습니다. 다만 유효 기간 확인을 권장합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":354,"content":"제출하신 건강보험 식별번호 2056789012345 가 시스템에 등록되었습니다. 그리고 등록 완료 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":355,"content":"먼저 조회 요청하신 3067890123456 건강보험번호는 활성 상태입니다. 참고로 서비스 제약이 없습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":356,"content":"의료비 환급 신청에 4078901234567 번호를 사용합니다. 아울러 환급 처리는 자동으로 진행됩니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":357,"content":"가입자 정보 확인을 위해 5089012345678 를 입력해주세요. 또한 세대주 정보도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":358,"content":"접수하신 6090123456789 건강보험증번호로 승인되었습니다. 다만 등록 절차가 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":359,"content":"본인확인용 건강보험번호 7001234567890 제공 부탁드립니다. 그리고 본인 확인 전화 인증도 진행됩니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":360,"content":"먼저 등록된 8012345678901 보험증번호로 인증 완료했습니다. 참고로 변경 사항은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":361,"content":"진료 접수 시 9023456789012 건강보험증번호를 입력하셨습니다. 아울러 진료 접수가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":362,"content":"청구서 작성에 필요한 1034567890123 번호를 기재해주세요. 또한 환자 서명도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":363,"content":"고객님의 건강보험 식별번호 2045678901234 확인 완료했습니다. 다만 등록 주소 변경이 필요합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":364,"content":"신청하신 3056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 승인 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":365,"content":"먼저 입력하신 4067890123456 보험증번호를 확인해주세요. 참고로 번호 유효성을 검증했습니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":366,"content":"본인인증 절차에서 5078901234567 을 제출하셨습니다. 아울러 인증이 정상 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":367,"content":"가입자 조회를 위한 6089012345678 건강보험증번호를 입력하세요. 또한 자격 유지 여부도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":368,"content":"제출하신 건강보험번호 7090123456789 가 확인되었습니다. 다만 이메일 주소 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":369,"content":"청구 처리에 필요한 8001234567890 번호를 제공해주세요. 그리고 청구 사유서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":370,"content":"먼저 등록하신 9012345678901 건강보험증번호로 인증되었습니다. 참고로 온라인 인증이 가능합니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":371,"content":"본인 확인용 1023456789012 건강보험번호를 제공 부탁드립니다. 아울러 본인 서명 날인도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":372,"content":"접수하신 2034567890123 보험증번호는 유효합니다. 또한 처리 완료 상태를 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":373,"content":"진료비 결제를 위한 3045678901234 건강보험증번호 확인이 필요합니다. 다만 환급 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":374,"content":"고객님께서 제출하신 건강보험 식별번호 4056789012345 가 승인되었습니다. 그리고 승인 완료 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":375,"content":"먼저 조회 요청된 5067890123456 건강보험번호를 확인했습니다. 참고로 정상 상태로 확인되었습니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":376,"content":"신청서에 기재된 6078901234567 번호는 정상 처리되었습니다. 아울러 결과 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":377,"content":"건강검진 예약에 7089012345678 보험증번호를 사용합니다. 또한 검진 결과는 모바일로도 확인됩니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":378,"content":"본인인증을 위해 8090123456789 건강보험증번호를 입력하세요. 다만 안전한 비밀번호를 설정하세요.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":379,"content":"제출된 9001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 가입 이력을 전송했습니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":380,"content":"먼저 확인하신 건강보험번호 1012345678901 은 유효합니다. 참고로 자격이 유지되고 있습니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":381,"content":"의료비 청구를 위한 2023456789012 건강보험증번호를 제출해주세요. 아울러 치료비 명세서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":382,"content":"등록하신 3034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 택배로 발송합니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":383,"content":"조회 신청하신 건강보험 식별번호 4045678901234 확인되었습니다. 다만 재직 증명서 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":384,"content":"가입자 확인을 위해 5056789012345 번호를 입력해주세요. 그리고 가족 사항도 함께 등록 바랍니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":385,"content":"먼저 제출하신 6067890123456 건강보험번호는 정상입니다. 참고로 승인 완료 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":386,"content":"본인확인용 7078901234567 건강보험증번호 제공 부탁드립니다. 아울러 가족관계증명서도 지참하세요.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":387,"content":"접수된 서류의 건강보험번호 8089012345678 이 확인되었습니다. 또한 접수 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":388,"content":"진료 예약 시 9090123456789 보험증번호를 사용하셨습니다. 다만 예약 확인 문자를 확인하세요.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":389,"content":"고객님의 건강보험증 번호 1001234567890 로 등록 완료했습니다. 그리고 가입 완료서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":390,"content":"먼저 입력하신 2012345678901 건강보험번호를 재확인하세요. 참고로 번호 오류가 없는지 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":391,"content":"신청서에 기재된 3023456789012 번호는 유효합니다. 아울러 신청 완료 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":392,"content":"건강검진 접수를 위한 4034567890123 보험증번호를 제출하세요. 또한 검진 안내문을 확인해주세요.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":393,"content":"본인 인증에 5045678901234 건강보험증번호가 사용되었습니다. 다만 인증 절차를 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":394,"content":"제출하신 건강보험 식별번호 6056789012345 가 시스템에 등록되었습니다. 그리고 시스템 등록 확인서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":395,"content":"먼저 조회 요청하신 7067890123456 건강보험번호는 활성 상태입니다. 참고로 모든 기능을 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":396,"content":"의료비 환급 신청에 8078901234567 번호를 사용합니다. 아울러 환급액은 신청 후 2주 내 지급됩니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":397,"content":"가입자 정보 확인을 위해 9089012345678 를 입력해주세요. 또한 가입 경로 확인도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":398,"content":"접수하신 1090123456789 건강보험증번호로 승인되었습니다. 다만 발급 비용이 발생할 수 있습니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":399,"content":"본인확인용 건강보험번호 2001234567890 제공 부탁드립니다. 그리고 인증서 등록도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":400,"content":"먼저 등록된 3012345678901 보험증번호로 인증 완료했습니다. 참고로 모든 정보가 안전하게 보관됩니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":401,"content":"진료 접수 시 4023456789012 건강보험증번호를 입력하셨습니다. 아울러 진료 예약이 확정되었습니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":402,"content":"청구서 작성에 필요한 5034567890123 번호를 기재해주세요. 또한 청구 금액 확인도 필요합니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":403,"content":"고객님의 건강보험 식별번호 6045678901234 확인 완료했습니다. 다만 정보 갱신 기한을 확인하세요.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":404,"content":"신청하신 7056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 확인 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":405,"content":"먼저 입력하신 8067890123456 보험증번호를 확인해주세요. 참고로 입력 정보를 재검토 바랍니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":406,"content":"본인인증 절차에서 9078901234567 을 제출하셨습니다. 아울러 본인 인증 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":407,"content":"가입자 조회를 위한 1089012345678 건강보험증번호를 입력하세요. 또한 자격 취득일도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":408,"content":"제출하신 건강보험번호 2090123456789 가 확인되었습니다. 다만 등록 주소지 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":409,"content":"청구 처리에 필요한 3001234567890 번호를 제공해주세요. 그리고 진료 내역 확인서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":410,"content":"먼저 등록하신 4012345678901 건강보험증번호로 인증되었습니다. 참고로 실시간 확인이 가능합니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":411,"content":"본인 확인용 5023456789012 건강보험번호를 제공 부탁드립니다. 아울러 서류 원본도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":412,"content":"접수하신 6034567890123 보험증번호는 유효합니다. 또한 접수 상태를 온라인으로 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":413,"content":"진료비 결제를 위한 7045678901234 건강보험증번호 확인이 필요합니다. 다만 신용카드 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":414,"content":"고객님께서 제출하신 건강보험 식별번호 8056789012345 가 승인되었습니다. 그리고 승인 결과서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":415,"content":"먼저 조회 요청된 9067890123456 건강보험번호를 확인했습니다. 참고로 이상 없이 조회되었습니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":416,"content":"신청서에 기재된 1078901234567 번호는 정상 처리되었습니다. 아울러 승인 증서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":417,"content":"건강검진 예약에 2089012345678 보험증번호를 사용합니다. 또한 검진 예약 확인증을 출력해주세요.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":418,"content":"본인인증을 위해 3090123456789 건강보험증번호를 입력하세요. 다만 개인정보 보호를 위해 주의하세요.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":419,"content":"제출된 4001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 조회 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":420,"content":"먼저 확인하신 건강보험번호 5012345678901 은 유효합니다. 참고로 갱신일이 안내되었습니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":421,"content":"의료비 청구를 위한 6023456789012 건강보험증번호를 제출해주세요. 아울러 의료비 세부내역서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":422,"content":"등록하신 7034567890123 보험증번호로 승인 완료했습니다. 또한 승인증을 등기우편으로 발송합니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":423,"content":"조회 신청하신 건강보험 식별번호 8045678901234 확인되었습니다. 다만 피부양자 등록이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":424,"content":"가입자 확인을 위해 9056789012345 번호를 입력해주세요. 그리고 사업자등록증도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":425,"content":"먼저 제출하신 1067890123456 건강보험번호는 정상입니다. 참고로 등록 승인 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":426,"content":"본인확인용 2078901234567 건강보험증번호 제공 부탁드립니다. 아울러 인감증명서 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":427,"content":"접수된 서류의 건강보험번호 3089012345678 이 확인되었습니다. 또한 승인 결과를 통지했습니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":428,"content":"진료 예약 시 4090123456789 보험증번호를 사용하셨습니다. 다만 진료 시간 30분 전 도착이 필요합니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":429,"content":"고객님의 건강보험증 번호 5001234567890 로 등록 완료했습니다. 그리고 회원 가입증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":430,"content":"먼저 입력하신 6012345678901 건강보험번호를 재확인하세요. 참고로 등록 정보를 점검 바랍니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":431,"content":"신청서에 기재된 7023456789012 번호는 유효합니다. 아울러 처리 완료 메시지를 전송했습니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":432,"content":"건강검진 접수를 위한 8034567890123 보험증번호를 제출하세요. 또한 검진 전날 술을 삼가해주세요.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":433,"content":"본인 인증에 9045678901234 건강보험증번호가 사용되었습니다. 다만 인증 유효 기간을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":434,"content":"제출하신 건강보험 식별번호 1056789012345 가 시스템에 등록되었습니다. 그리고 등록 안내문이 발송됩니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":435,"content":"먼저 조회 요청하신 2067890123456 건강보험번호는 활성 상태입니다. 참고로 제약 없이 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":436,"content":"의료비 환급 신청에 3078901234567 번호를 사용합니다. 아울러 환급액은 세금 공제 후 지급됩니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":437,"content":"가입자 정보 확인을 위해 4089012345678 를 입력해주세요. 또한 보험료 납부 내역도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":438,"content":"접수하신 5090123456789 건강보험증번호로 승인되었습니다. 다만 재발급 수수료가 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":439,"content":"본인확인용 건강보험번호 6001234567890 제공 부탁드립니다. 그리고 휴대폰 본인 인증도 진행됩니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":440,"content":"먼저 등록된 7012345678901 보험증번호로 인증 완료했습니다. 참고로 보안 강화를 위해 암호화 처리됩니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":441,"content":"진료 접수 시 8023456789012 건강보험증번호를 입력하셨습니다. 아울러 접수 완료 안내를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":442,"content":"청구서 작성에 필요한 9034567890123 번호를 기재해주세요. 또한 자필 서명도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":443,"content":"고객님의 건강보험 식별번호 1045678901234 확인 완료했습니다. 다만 주민번호 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":444,"content":"신청하신 2056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 완료 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":445,"content":"먼저 입력하신 3067890123456 보험증번호를 확인해주세요. 참고로 입력값 검증을 진행했습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":446,"content":"본인인증 절차에서 4078901234567 을 제출하셨습니다. 아울러 인증 단계가 모두 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":447,"content":"가입자 조회를 위한 5089012345678 건강보험증번호를 입력하세요. 또한 가입 기간도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":448,"content":"제출하신 건강보험번호 6090123456789 가 확인되었습니다. 다만 직장 변경 사항 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":449,"content":"청구 처리에 필요한 7001234567890 번호를 제공해주세요. 그리고 약국 영수증도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":450,"content":"먼저 등록하신 8012345678901 건강보험증번호로 인증되었습니다. 참고로 통합 조회 시스템을 이용하세요.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":451,"content":"본인 확인용 9023456789012 건강보험번호를 제공 부탁드립니다. 아울러 증명 서류도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":452,"content":"접수하신 1034567890123 보험증번호는 유효합니다. 또한 신청 완료 상태를 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":453,"content":"진료비 결제를 위한 2045678901234 건강보험증번호 확인이 필요합니다. 다만 무통장 입금도 가능합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":454,"content":"고객님께서 제출하신 건강보험 식별번호 3056789012345 가 승인되었습니다. 그리고 승인 통지서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":455,"content":"먼저 조회 요청된 4067890123456 건강보험번호를 확인했습니다. 참고로 정상 처리가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":456,"content":"신청서에 기재된 5078901234567 번호는 정상 처리되었습니다. 아울러 접수 확인증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":457,"content":"건강검진 예약에 6089012345678 보험증번호를 사용합니다. 또한 검진 결과는 우편과 모바일로 발송됩니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":458,"content":"본인인증을 위해 7090123456789 건강보험증번호를 입력하세요. 다만 입력 횟수 제한이 있으니 주의하세요.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":459,"content":"제출된 8001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 보험료 납부 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":460,"content":"먼저 확인하신 건강보험번호 9012345678901 은 유효합니다. 참고로 자동 연장 처리가 진행됩니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":461,"content":"의료비 청구를 위한 1023456789012 건강보험증번호를 제출해주세요. 아울러 입원 확인서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":462,"content":"등록하신 2034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 빠른등기로 발송합니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":463,"content":"조회 신청하신 건강보험 식별번호 3045678901234 확인되었습니다. 다만 소득 증빙 서류 제출이 필요합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":464,"content":"가입자 확인을 위해 4056789012345 번호를 입력해주세요. 그리고 통장 사본도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":465,"content":"먼저 제출하신 5067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 알림 문자를 발송했습니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":466,"content":"본인확인용 6078901234567 건강보험증번호 제공 부탁드립니다. 아울러 주민등록초본도 지참하세요.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":467,"content":"접수된 서류의 건강보험번호 7089012345678 이 확인되었습니다. 또한 처리 결과를 안내드렸습니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":468,"content":"진료 예약 시 8090123456789 보험증번호를 사용하셨습니다. 다만 진료 당일 건강보험증을 지참하세요.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":469,"content":"고객님의 건강보험증 번호 9001234567890 로 등록 완료했습니다. 그리고 등록 증명서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":470,"content":"먼저 입력하신 1012345678901 건강보험번호를 재확인하세요. 참고로 번호 일치 여부를 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":471,"content":"신청서에 기재된 2023456789012 번호는 유효합니다. 아울러 신청 승인 결과를 전송했습니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":472,"content":"건강검진 접수를 위한 3034567890123 보험증번호를 제출하세요. 또한 검진 항목별 주의사항을 확인해주세요.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":473,"content":"본인 인증에 4045678901234 건강보험증번호가 사용되었습니다. 다만 본인 확인 절차를 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":474,"content":"제출하신 건강보험 식별번호 5056789012345 가 시스템에 등록되었습니다. 그리고 등록 완료 통지서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":475,"content":"먼저 조회 요청하신 6067890123456 건강보험번호는 활성 상태입니다. 참고로 전체 서비스를 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":476,"content":"의료비 환급 신청에 7078901234567 번호를 사용합니다. 아울러 환급 완료까지 약 14일 소요됩니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":477,"content":"가입자 정보 확인을 위해 8089012345678 를 입력해주세요. 또한 직장 가입 여부도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":478,"content":"접수하신 9090123456789 건강보험증번호로 승인되었습니다. 다만 재발급 신청은 별도 절차가 필요합니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":479,"content":"본인확인용 건강보험번호 1001234567890 제공 부탁드립니다. 그리고 생체 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":480,"content":"먼저 등록된 2012345678901 보험증번호로 인증 완료했습니다. 참고로 정보는 암호화되어 저장됩니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":481,"content":"진료 접수 시 3023456789012 건강보험증번호를 입력하셨습니다. 아울러 진료 대기 안내를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":482,"content":"청구서 작성에 필요한 4034567890123 번호를 기재해주세요. 또한 청구 사유도 함께 기재 바랍니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":483,"content":"고객님의 건강보험 식별번호 5045678901234 확인 완료했습니다. 다만 연락처 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":484,"content":"신청하신 6056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 통지 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":485,"content":"먼저 입력하신 7067890123456 보험증번호를 확인해주세요. 참고로 데이터 검증을 완료했습니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":486,"content":"본인인증 절차에서 8078901234567 을 제출하셨습니다. 아울러 모든 인증 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":487,"content":"가입자 조회를 위한 9089012345678 건강보험증번호를 입력하세요. 또한 자격 상실 여부도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":488,"content":"제출하신 건강보험번호 1090123456789 가 확인되었습니다. 다만 주소 변동 사항 신고가 필요합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":489,"content":"청구 처리에 필요한 2001234567890 번호를 제공해주세요. 그리고 검사 결과지도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":490,"content":"먼저 등록하신 3012345678901 건강보험증번호로 인증되었습니다. 참고로 시스템 연동이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":491,"content":"본인 확인용 4023456789012 건강보험번호를 제공 부탁드립니다. 아울러 보험 가입 증명서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":492,"content":"접수하신 5034567890123 보험증번호는 유효합니다. 또한 처리 진행도를 실시간 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":493,"content":"진료비 결제를 위한 6045678901234 건강보험증번호 확인이 필요합니다. 다만 계좌 이체 결제도 가능합니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":494,"content":"고객님께서 제출하신 건강보험 식별번호 7056789012345 가 승인되었습니다. 그리고 승인 안내서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":495,"content":"먼저 조회 요청된 8067890123456 건강보험번호를 확인했습니다. 참고로 모든 항목이 정상 확인되었습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":496,"content":"신청서에 기재된 9078901234567 번호는 정상 처리되었습니다. 아울러 처리 결과 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":497,"content":"건강검진 예약에 1089012345678 보험증번호를 사용합니다. 또한 검진 결과는 전자문서로 발급됩니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":498,"content":"본인인증을 위해 2090123456789 건강보험증번호를 입력하세요. 다만 정확한 정보 입력을 부탁드립니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":499,"content":"제출된 3001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 가입 자격 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":500,"content":"먼저 확인하신 건강보험번호 4012345678901 은 유효합니다. 참고로 유효 기간이 자동 연장됩니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":501,"content":"의료비 청구를 위한 5023456789012 건강보험증번호를 제출해주세요. 아울러 수술 확인서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":502,"content":"등록하신 6034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 택배 발송합니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":503,"content":"조회 신청하신 건강보험 식별번호 7045678901234 확인되었습니다. 다만 세대 분리 신청이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":504,"content":"가입자 확인을 위해 8056789012345 번호를 입력해주세요. 그리고 근로소득원천징수영수증도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":505,"content":"먼저 제출하신 9067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 확인 메일을 발송했습니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":506,"content":"본인확인용 1078901234567 건강보험증번호 제공 부탁드립니다. 아울러 외국인등록증 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":507,"content":"접수된 서류의 건강보험번호 2089012345678 이 확인되었습니다. 또한 최종 승인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":508,"content":"진료 예약 시 3090123456789 보험증번호를 사용하셨습니다. 다만 예약 당일 본인 확인이 필수입니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":509,"content":"고객님의 건강보험증 번호 4001234567890 로 등록 완료했습니다. 그리고 등록 완료증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":510,"content":"먼저 입력하신 5012345678901 건강보험번호를 재확인하세요. 참고로 전산 시스템을 점검 바랍니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":511,"content":"신청서에 기재된 6023456789012 번호는 유효합니다. 아울러 승인 처리 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":512,"content":"건강검진 접수를 위한 7034567890123 보험증번호를 제출하세요. 또한 검진 당일 신분증 지참이 필수입니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":513,"content":"본인 인증에 8045678901234 건강보험증번호가 사용되었습니다. 다만 인증 유효시간 내 완료가 필요합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":514,"content":"제출하신 건강보험 식별번호 9056789012345 가 시스템에 등록되었습니다. 그리고 시스템 등록 완료 통지가 발송됩니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":515,"content":"먼저 조회 요청하신 1067890123456 건강보험번호는 활성 상태입니다. 참고로 모든 혜택을 받을 수 있습니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":516,"content":"의료비 환급 신청에 2078901234567 번호를 사용합니다. 아울러 환급 계좌는 본인 명의만 가능합니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":517,"content":"가입자 정보 확인을 위해 3089012345678 를 입력해주세요. 또한 지역 가입 여부도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":518,"content":"접수하신 4090123456789 건강보험증번호로 승인되었습니다. 다만 추가 서류 제출이 요청될 수 있습니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":519,"content":"본인확인용 건강보험번호 5001234567890 제공 부탁드립니다. 그리고 지문 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":520,"content":"먼저 등록된 6012345678901 보험증번호로 인증 완료했습니다. 참고로 모든 데이터는 안전하게 보호됩니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":521,"content":"진료 접수 시 7023456789012 건강보험증번호를 입력하셨습니다. 아울러 접수 순서 안내를 받으셨습니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":522,"content":"청구서 작성에 필요한 8034567890123 번호를 기재해주세요. 또한 청구 항목 확인도 필요합니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":523,"content":"고객님의 건강보험 식별번호 9045678901234 확인 완료했습니다. 다만 가족 관계 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":524,"content":"신청하신 1056789012345 건강보험번호는 정상 등록되었습니다. 그리고 등록 승인 메시지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":525,"content":"먼저 입력하신 2067890123456 보험증번호를 확인해주세요. 참고로 시스템 검증을 완료했습니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":526,"content":"본인인증 절차에서 3078901234567 을 제출하셨습니다. 아울러 전체 인증 과정이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":527,"content":"가입자 조회를 위한 4089012345678 건강보험증번호를 입력하세요. 또한 피부양자 자격도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":528,"content":"제출하신 건강보험번호 5090123456789 가 확인되었습니다. 다만 직장 이동 사항을 신고하세요.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":529,"content":"청구 처리에 필요한 6001234567890 번호를 제공해주세요. 그리고 의료비 지출 증빙서도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":530,"content":"먼저 등록하신 7012345678901 건강보험증번호로 인증되었습니다. 참고로 실시간 시스템에 연동되었습니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":531,"content":"본인 확인용 8023456789012 건강보험번호를 제공 부탁드립니다. 아울러 건강보험 자격득실확인서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":532,"content":"접수하신 9034567890123 보험증번호는 유효합니다. 또한 신청 상태를 모바일로 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":533,"content":"진료비 결제를 위한 1045678901234 건강보험증번호 확인이 필요합니다. 다만 현금 영수증 발행도 가능합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":534,"content":"고객님께서 제출하신 건강보험 식별번호 2056789012345 가 승인되었습니다. 그리고 최종 승인 통지서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":535,"content":"먼저 조회 요청된 3067890123456 건강보험번호를 확인했습니다. 참고로 전산상 오류 없이 확인되었습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":536,"content":"신청서에 기재된 4078901234567 번호는 정상 처리되었습니다. 아울러 최종 처리 결과를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":537,"content":"건강검진 예약에 5089012345678 보험증번호를 사용합니다. 또한 검진 결과는 앱 푸시 알림으로도 전송됩니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":538,"content":"본인인증을 위해 6090123456789 건강보험증번호를 입력하세요. 다만 허위 정보 입력 시 법적 책임이 있습니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":539,"content":"제출된 7001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 상세 가입 정보를 전송했습니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":540,"content":"먼저 확인하신 건강보험번호 8012345678901 은 유효합니다. 참고로 지속적인 자격이 유지되고 있습니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":541,"content":"의료비 청구를 위한 9023456789012 건강보험증번호를 제출해주세요. 아울러 통원 치료 확인서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":542,"content":"등록하신 1034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 등기우편으로 발송합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":543,"content":"조회 신청하신 건강보험 식별번호 2045678901234 확인되었습니다. 다만 건강보험료 체납 여부 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":544,"content":"가입자 확인을 위해 3056789012345 번호를 입력해주세요. 그리고 부양가족 관계 증빙서류도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":545,"content":"먼저 제출하신 4067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 확인 문자를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":546,"content":"본인확인용 5078901234567 건강보험증번호 제공 부탁드립니다. 아울러 여권 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":547,"content":"접수된 서류의 건강보험번호 6089012345678 이 확인되었습니다. 또한 모든 심사가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":548,"content":"진료 예약 시 7090123456789 보험증번호를 사용하셨습니다. 다만 진료 예약 변경은 전화로만 가능합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":549,"content":"고객님의 건강보험증 번호 8001234567890 로 등록 완료했습니다. 그리고 회원 등록 확인증을 발송했습니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":550,"content":"먼저 입력하신 9012345678901 건강보험번호를 재확인하세요. 참고로 번호 형식과 자릿수를 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":551,"content":"신청서에 기재된 1023456789012 번호는 유효합니다. 아울러 최종 승인 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":552,"content":"건강검진 접수를 위한 2034567890123 보험증번호를 제출하세요. 또한 검진 당일 예약 확인증을 출력해주세요.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":553,"content":"본인 인증에 3045678901234 건강보험증번호가 사용되었습니다. 다만 인증 절차 완료 후 이용이 가능합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":554,"content":"제출하신 건강보험 식별번호 4056789012345 가 시스템에 등록되었습니다. 그리고 시스템 등록 안내 문자가 발송됩니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":555,"content":"먼저 조회 요청하신 5067890123456 건강보험번호는 활성 상태입니다. 참고로 전체 의료 서비스를 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":556,"content":"의료비 환급 신청에 6078901234567 번호를 사용합니다. 아울러 환급 신청 완료 후 처리 기간을 안내받습니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":557,"content":"가입자 정보 확인을 위해 7089012345678 를 입력해주세요. 또한 지역별 보험료율도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":558,"content":"접수하신 8090123456789 건강보험증번호로 승인되었습니다. 다만 최초 발급이므로 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":559,"content":"본인확인용 건강보험번호 9001234567890 제공 부탁드립니다. 그리고 안면 인식 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":560,"content":"먼저 등록된 1012345678901 보험증번호로 인증 완료했습니다. 참고로 모든 정보는 최고 수준으로 보호됩니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":561,"content":"진료 접수 시 2023456789012 건강보험증번호를 입력하셨습니다. 아울러 접수 완료 알림을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":562,"content":"청구서 작성에 필요한 3034567890123 번호를 기재해주세요. 또한 청구 날짜도 함께 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":563,"content":"고객님의 건강보험 식별번호 4045678901234 확인 완료했습니다. 다만 세대주 변경 신청이 필요합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":564,"content":"신청하신 5056789012345 건강보험번호는 정상 등록되었습니다. 그리고 최종 등록 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":565,"content":"먼저 입력하신 6067890123456 보험증번호를 확인해주세요. 참고로 전산 오류가 없는지 검증했습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":566,"content":"본인인증 절차에서 7078901234567 을 제출하셨습니다. 아울러 모든 보안 인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":567,"content":"가입자 조회를 위한 8089012345678 건강보험증번호를 입력하세요. 또한 자격 유지 기간도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":568,"content":"제출하신 건강보험번호 9090123456789 가 확인되었습니다. 다만 전입신고 사실도 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":569,"content":"청구 처리에 필요한 1001234567890 번호를 제공해주세요. 그리고 진료비 계산서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":570,"content":"먼저 등록하신 2012345678901 건강보험증번호로 인증되었습니다. 참고로 전국 의료기관에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":571,"content":"본인 확인용 3023456789012 건강보험번호를 제공 부탁드립니다. 아울러 건강보험 납부확인서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":572,"content":"접수하신 4034567890123 보험증번호는 유효합니다. 또한 처리 현황을 웹사이트에서 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":573,"content":"진료비 결제를 위한 5045678901234 건강보험증번호 확인이 필요합니다. 다만 포인트 결제도 함께 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":574,"content":"고객님께서 제출하신 건강보험 식별번호 6056789012345 가 승인되었습니다. 그리고 최종 승인 결과서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":575,"content":"먼저 조회 요청된 7067890123456 건강보험번호를 확인했습니다. 참고로 시스템상 정상 확인되었습니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":576,"content":"신청서에 기재된 8078901234567 번호는 정상 처리되었습니다. 아울러 처리 완료 확인서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":577,"content":"건강검진 예약에 9089012345678 보험증번호를 사용합니다. 또한 검진 결과는 인터넷과 모바일로 동시 발송됩니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":578,"content":"본인인증을 위해 1090123456789 건강보험증번호를 입력하세요. 다만 보안을 위해 정기적인 비밀번호 변경이 필요합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":579,"content":"제출된 2001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 보험 급여 내역을 전송했습니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":580,"content":"먼저 확인하신 건강보험번호 3012345678901 은 유효합니다. 참고로 자격 유지가 계속 확인되고 있습니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":581,"content":"의료비 청구를 위한 4023456789012 건강보험증번호를 제출해주세요. 아울러 장기요양 확인서도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":582,"content":"등록하신 5034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 퀵서비스로 발송합니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":583,"content":"조회 신청하신 건강보험 식별번호 6045678901234 확인되었습니다. 다만 소득 기준 변경 신청이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":584,"content":"가입자 확인을 위해 7056789012345 번호를 입력해주세요. 그리고 전세계약서 사본도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":585,"content":"먼저 제출하신 8067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 알림 문자 메시지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":586,"content":"본인확인용 9078901234567 건강보험증번호 제공 부탁드립니다. 아울러 운전면허증 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":587,"content":"접수된 서류의 건강보험번호 1089012345678 이 확인되었습니다. 또한 전체 심사 절차가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":588,"content":"진료 예약 시 2090123456789 보험증번호를 사용하셨습니다. 다만 예약 시간보다 10분 일찍 도착해주세요.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":589,"content":"고객님의 건강보험증 번호 3001234567890 로 등록 완료했습니다. 그리고 최종 등록 증명서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":590,"content":"먼저 입력하신 4012345678901 건강보험번호를 재확인하세요. 참고로 데이터베이스 조회를 완료했습니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":591,"content":"신청서에 기재된 5023456789012 번호는 유효합니다. 아울러 전체 승인 절차 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":592,"content":"건강검진 접수를 위한 6034567890123 보험증번호를 제출하세요. 또한 검진 당일 문진표 작성을 미리 완료해주세요.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":593,"content":"본인 인증에 7045678901234 건강보험증번호가 사용되었습니다. 다만 본인 확인 절차를 모두 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":594,"content":"제출하신 건강보험 식별번호 8056789012345 가 시스템에 등록되었습니다. 그리고 시스템 등록 확인 알림이 발송됩니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":595,"content":"먼저 조회 요청하신 9067890123456 건강보험번호는 활성 상태입니다. 참고로 전국 병원에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":596,"content":"의료비 환급 신청에 1078901234567 번호를 사용합니다. 아울러 환급 처리 완료 시 문자 알림이 전송됩니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":597,"content":"가입자 정보 확인을 위해 2089012345678 를 입력해주세요. 또한 직장 가입자 변경 사항도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":598,"content":"접수하신 3090123456789 건강보험증번호로 승인되었습니다. 다만 등록 후 카드 발급까지는 약 3주 소요됩니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":599,"content":"본인확인용 건강보험번호 4001234567890 제공 부탁드립니다. 그리고 음성 인증 절차도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":600,"content":"먼저 등록된 5012345678901 보험증번호로 인증 완료했습니다. 참고로 모든 개인정보는 암호화되어 관리됩니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":601,"content":"진료 접수 시 6023456789012 건강보험증번호를 입력하셨습니다. 아울러 전자 접수 완료 알림을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":602,"content":"청구서 작성에 필요한 7034567890123 번호를 기재해주세요. 또한 환자 동의서 서명도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":603,"content":"고객님의 건강보험 식별번호 8045678901234 확인 완료했습니다. 다만 피부양자 등록 변경이 필요합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":604,"content":"신청하신 9056789012345 건강보험번호는 정상 등록되었습니다. 그리고 전체 등록 절차 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":605,"content":"먼저 입력하신 1067890123456 보험증번호를 확인해주세요. 참고로 번호 유효성 검사를 통과했습니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":606,"content":"본인인증 절차에서 2078901234567 을 제출하셨습니다. 아울러 다단계 보안 인증이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":607,"content":"가입자 조회를 위한 3089012345678 건강보험증번호를 입력하세요. 또한 보험료 납부 이력도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":608,"content":"제출하신 건강보험번호 4090123456789 가 확인되었습니다. 다만 세대 구성원 변경 신고도 필요합니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":609,"content":"청구 처리에 필요한 5001234567890 번호를 제공해주세요. 그리고 의료비 공제 확인서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":610,"content":"먼저 등록하신 6012345678901 건강보험증번호로 인증되었습니다. 참고로 통합민원서비스에서도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":611,"content":"본인 확인용 7023456789012 건강보험번호를 제공 부탁드립니다. 아울러 건강보험 자격확인서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":612,"content":"접수하신 8034567890123 보험증번호는 유효합니다. 또한 처리 진행 상황을 실시간으로 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":613,"content":"진료비 결제를 위한 9045678901234 건강보험증번호 확인이 필요합니다. 다만 체크카드 결제도 함께 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":614,"content":"고객님께서 제출하신 건강보험 식별번호 1056789012345 가 승인되었습니다. 그리고 전체 승인 과정 결과서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":615,"content":"먼저 조회 요청된 2067890123456 건강보험번호를 확인했습니다. 참고로 데이터베이스 상 정상 확인되었습니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":616,"content":"신청서에 기재된 3078901234567 번호는 정상 처리되었습니다. 아울러 모든 처리 완료 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":617,"content":"건강검진 예약에 4089012345678 보험증번호를 사용합니다. 또한 검진 결과는 온라인과 우편으로 동시 발송됩니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":618,"content":"본인인증을 위해 5090123456789 건강보험증번호를 입력하세요. 다만 개인정보 보호를 위해 암호화 통신을 사용합니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":619,"content":"제출된 6001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 전체 보험 가입 이력을 전송했습니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":620,"content":"먼저 확인하신 건강보험번호 7012345678901 은 유효합니다. 참고로 자격이 지속적으로 유지되고 있습니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":621,"content":"의료비 청구를 위한 8023456789012 건강보험증번호를 제출해주세요. 아울러 외래 진료비 영수증도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":622,"content":"등록하신 9034567890123 보험증번호로 승인 완료했습니다. 또한 보험증을 익일 특급배송으로 발송합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":623,"content":"조회 신청하신 건강보험 식별번호 1045678901234 확인되었습니다. 다만 국민연금 납부 이력 확인이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":624,"content":"가입자 확인을 위해 2056789012345 번호를 입력해주세요. 그리고 재산세 납부 증명서도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":625,"content":"먼저 제출하신 3067890123456 건강보험번호는 정상입니다. 참고로 등록 완료 확인 이메일 메시지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":626,"content":"본인확인용 4078901234567 건강보험증번호 제공 부탁드립니다. 아울러 장애인등록증 사본도 지참하세요.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":7,"end":20,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":627,"content":"접수된 서류의 건강보험번호 5089012345678 이 확인되었습니다. 또한 전체 검토 및 심사가 완료되었습니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":628,"content":"진료 예약 시 6090123456789 보험증번호를 사용하셨습니다. 다만 예약 당일 접수창구 방문이 필수입니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":629,"content":"고객님의 건강보험증 번호 7001234567890 로 등록 완료했습니다. 그리고 전체 가입 확인 증명서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":630,"content":"먼저 입력하신 8012345678901 건강보험번호를 재확인하세요. 참고로 중앙 서버 데이터베이스 조회를 완료했습니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":631,"content":"신청서에 기재된 9023456789012 번호는 유효합니다. 아울러 전체 신청 승인 절차 안내를 전송했습니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":632,"content":"건강검진 접수를 위한 1034567890123 보험증번호를 제출하세요. 또한 검진 당일 공복혈당 검사를 위해 금식이 필요합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":633,"content":"본인 인증에 2045678901234 건강보험증번호가 사용되었습니다. 다만 전체 본인 확인 단계를 모두 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":634,"content":"제출하신 건강보험 식별번호 3056789012345 가 시스템에 등록되었습니다. 그리고 시스템 등록 완료 확인 통지가 발송됩니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":635,"content":"먼저 조회 요청하신 4067890123456 건강보험번호는 활성 상태입니다. 참고로 전국 모든 의료기관에서 사용 가능합니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":636,"content":"의료비 환급 신청에 5078901234567 번호를 사용합니다. 아울러 환급 처리 완료 시 이메일 알림이 전송됩니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":637,"content":"가입자 정보 확인을 위해 6089012345678 를 입력해주세요. 또한 지역 가입자 전환 신청 사항도 확인 바랍니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":638,"content":"접수하신 7090123456789 건강보험증번호로 승인되었습니다. 다만 최초 등록이므로 신규 발급 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":639,"content":"본인확인용 건강보험번호 8001234567890 제공 부탁드립니다. 그리고 OTP 일회용 비밀번호 인증도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":640,"content":"먼저 등록된 9012345678901 보험증번호로 인증 완료했습니다. 참고로 모든 민감정보는 최고 보안등급으로 관리됩니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":641,"content":"진료 접수 시 1023456789012 건강보험증번호를 입력하셨습니다. 아울러 모바일 전자 접수 완료 알림을 받으셨습니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":642,"content":"청구서 작성에 필요한 2034567890123 번호를 기재해주세요. 또한 진료비 세부 내역 확인 및 서명도 함께 필요합니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":643,"content":"고객님의 건강보험 식별번호 3045678901234 확인 완료했습니다. 다만 동거 가족 피부양자 등록 변경이 필요합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":644,"content":"신청하신 4056789012345 건강보험번호는 정상 등록되었습니다. 그리고 전체 등록 절차 최종 완료 안내를 발송했습니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":645,"content":"먼저 입력하신 5067890123456 보험증번호를 확인해주세요. 참고로 번호 형식과 자릿수 유효성 검사를 통과했습니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":646,"content":"본인인증 절차에서 6078901234567 을 제출하셨습니다. 아울러 2단계 보안 인증 및 본인확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":647,"content":"가입자 조회를 위한 7089012345678 건강보험증번호를 입력하세요. 또한 보험료 고지서 발송 이력도 함께 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":648,"content":"제출하신 건강보험번호 8090123456789 가 확인되었습니다. 다만 전입 및 전출 신고 사항도 함께 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":649,"content":"청구 처리에 필요한 9001234567890 번호를 제공해주세요. 그리고 의료비 소득공제 확인서류도 함께 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":650,"content":"서비스에서도 조회 가능합니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":651,"content":"본인 확인용 2023456789012 건강보험번호를 제공 부탁드립니다. 아울러 건강검진 결과서도 함께 제출하세요.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":652,"content":"접수하신 3034567890123 보험증번호는 유효합니다. 또한 처리 단계별 안내를 문자로 받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":5,"end":18,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":653,"content":"진료비 결제를 위한 4045678901234 건강보험증번호 확인이 필요합니다. 다만 간편결제 서비스도 함께 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":654,"content":"고객님께서 제출하신 건강보험 식별번호 5056789012345 가 승인되었습니다. 그리고 전체 심사 승인 결과서를 발송했습니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":24,"end":37,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":655,"content":"먼저 조회 요청된 6067890123456 건강보험번호를 확인했습니다. 참고로 중앙 데이터베이스 상 정상 확인되었습니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":656,"content":"신청서에 기재된 7078901234567 번호는 정상 처리되었습니다. 아울러 모든 처리 단계 완료 통지를 발송했습니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":657,"content":"건강검진 예약에 8089012345678 보험증번호를 사용합니다. 또한 검진 결과는 카카오톡 알림톡으로도 발송됩니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":658,"content":"본인인증을 위해 9090123456789 건강보험증번호를 입력하세요. 다만 개인정보 보호법에 따라 안전하게 처리됩니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":659,"content":"제출된 1001234567890 번호로 가입자 조회가 완료되었습니다. 그리고 전체 보험 혜택 안내서를 전송했습니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":4,"end":17,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":660,"content":"약국 처방전 접수 시 2012345678901 건강보험번호를 확인합니다. 참고로 약제비 본인부담금이 자동 계산됩니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":661,"content":"응급실 내원 시 3023456789012 보험증번호를 제시해주세요. 아울러 야간 가산료가 적용될 수 있습니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":662,"content":"입원 수속을 위해 4034567890123 건강보험증번호가 필요합니다. 또한 입원 확약서 작성도 필수입니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":663,"content":"재발급 신청하신 5045678901234 번호로 처리 중입니다. 다만 분실 사유서 제출이 추가로 필요합니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":664,"content":"전화 상담을 위해 6056789012345 건강보험증번호를 말씀해주세요. 그리고 생년월일로 본인 확인하겠습니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":665,"content":"온라인 민원 접수 시 7067890123456 번호를 입력하셨습니다. 참고로 처리 결과는 3일 이내 안내됩니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":666,"content":"피부양자 등록을 위한 8078901234567 건강보험번호 확인 완료했습니다. 아울러 가족관계 증빙이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":667,"content":"보험료 납부 내역 조회 시 9089012345678 번호를 사용합니다. 또한 자동이체 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":668,"content":"직장 변경 신고에 1090123456789 건강보험증번호가 필요합니다. 다만 전 직장 퇴사일을 정확히 기재하세요.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":669,"content":"자격 취득 확인서 발급 시 2001234567890 번호를 제공해주세요. 그리고 발급 수수료는 무료입니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":670,"content":"먼저 체납 여부 조회에 3012345678901 건강보험번호를 입력합니다. 참고로 체납 시 급여 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":671,"content":"해외 진료비 청구 시 4023456789012 보험증번호를 기재해주세요. 아울러 현지 영수증 번역본도 필요합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":672,"content":"장기 요양 신청을 위해 5034567890123 건강보험증번호 제출이 필요합니다. 또한 의사 소견서도 첨부하세요.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":673,"content":"산정특례 등록 시 6045678901234 번호로 신청하셨습니다. 다만 암 진단서 원본이 필수입니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":674,"content":"본인부담금 상한제 적용을 위해 7056789012345 건강보험번호를 확인합니다. 그리고 연간 누적액을 계산합니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":675,"content":"고객님의 휴대폰 앱 로그인에 8067890123456 번호를 사용합니다. 참고로 지문 인식으로 간편 로그인 가능합니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":676,"content":"건강생활실천 프로그램 신청 시 9078901234567 건강보험증번호가 필요합니다. 아울러 건강검진 결과가 연동됩니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":677,"content":"치과 임플란트 사전 승인 신청에 1089012345678 번호를 기재하셨습니다. 또한 파노라마 사진도 제출 바랍니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":678,"content":"한방 진료 급여 확인을 위해 2090123456789 건강보험번호를 입력하세요. 다만 비급여 항목도 별도 고지됩니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":679,"content":"물리치료 처방 시 3001234567890 보험증번호로 접수합니다. 그리고 치료 횟수 제한이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":680,"content":"MRI 검사 예약에 4012345678901 건강보험증번호가 필요합니다. 참고로 사전승인이 있으면 본인부담률이 낮아집니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":681,"content":"외국인 가입자 5023456789012 번호로 자격 확인되었습니다. 아울러 체류 기간도 함께 확인됩니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":8,"end":21,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":682,"content":"국가건강검진 대상자 조회 시 6034567890123 건강보험번호를 입력합니다. 또한 검진 기관 선택이 가능합니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":683,"content":"암검진 예약을 위해 7045678901234 보험증번호를 제시하셨습니다. 다만 연령 및 성별에 따라 항목이 다릅니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":684,"content":"건강IN 포인트 적립을 위해 8056789012345 건강보험증번호 연동이 필요합니다. 그리고 건강관리 활동으로 쌓입니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":685,"content":"먼저 보험료 경감 신청에 9067890123456 번호를 사용합니다. 참고로 소득 기준 확인이 진행됩니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":686,"content":"출산 전후 급여 신청 시 1078901234567 건강보험번호를 제출하세요. 아울러 출생증명서도 필요합니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":687,"content":"신생아 등록을 위한 2089012345678 보험증번호로 처리합니다. 또한 부모 중 한 명의 자격에 등록됩니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":688,"content":"노인 무릎 인공관절 수술 시 3090123456789 건강보험증번호 확인이 필요합니다. 다만 본인부담금이 상당합니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":689,"content":"재활 치료 계획서 제출 시 4001234567890 번호를 기재해주세요. 그리고 담당 의사 소견이 필수입니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":690,"content":"정신건강의학과 진료 접수에 5012345678901 건강보험번호를 사용합니다. 참고로 비밀 보장이 철저합니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":691,"content":"치매 검사 예약을 위해 6023456789012 보험증번호가 필요합니다. 아울러 보호자 동반이 권장됩니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":692,"content":"투석 치료 등록 시 7034567890123 건강보험증번호를 확인합니다. 또한 신장 질환 코드가 자동 등록됩니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":693,"content":"희귀 난치성 질환 등록을 위해 8045678901234 번호로 신청하셨습니다. 다만 전문의 진단서가 필수입니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":694,"content":"소아 예방접종 기록 조회 시 9056789012345 건강보험번호를 입력하세요. 그리고 접종 일정도 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":695,"content":"영유아 건강검진 예약에 1067890123456 보험증번호가 필요합니다. 참고로 검진 항목은 월령별로 다릅니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":696,"content":"학생 건강검진 결과 조회 시 2078901234567 건강보험증번호를 사용합니다. 아울러 학교에도 결과가 통보됩니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":697,"content":"고혈압 약 처방 시 3089012345678 번호로 만성질환 등록을 확인합니다. 또한 처방 일수 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":698,"content":"당뇨병 관리 프로그램 신청에 4090123456789 건강보험번호가 필요합니다. 다만 혈당 측정 결과도 제출하세요.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":699,"content":"금연 치료 지원 신청 시 5001234567890 보험증번호를 확인합니다. 그리고 최대 3회까지 지원됩니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":700,"content":"먼저 개인정보 변경 요청에 6012345678901 건강보험증번호를 입력합니다. 참고로 주소 변경은 즉시 반영됩니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":701,"content":"연말정산 의료비 내역 조회 시 7023456789012 번호를 사용합니다. 아울러 PDF 파일로 다운로드 가능합니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":702,"content":"임신 확인 후 8034567890123 건강보험번호로 산모 등록이 필요합니다. 또한 산전 검사 비용이 지원됩니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":703,"content":"난임 치료 지원 신청에 9045678901234 보험증번호를 제출하세요. 다만 횟수 제한 및 나이 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":704,"content":"건강검진 결과 D등급 판정 시 1056789012345 건강보험증번호로 2차 검진 안내가 발송됩니다. 그리고 추가 검사가 무료입니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":705,"content":"치석 제거 스케일링 예약 시 2067890123456 번호를 확인합니다. 참고로 연 1회 보험 적용됩니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":706,"content":"안경 처방전 발급 후 3078901234567 건강보험증번호로 등록됩니다. 아울러 시력 교정용만 해당됩니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":707,"content":"보청기 급여 신청을 위해 4089012345678 보험증번호가 필요합니다. 또한 청력 검사 결과서도 제출하세요.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":708,"content":"의료기기 대여 신청 시 5090123456789 건강보험번호를 기재해주세요. 다만 대여 기간 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":709,"content":"장애인 보조기기 지원에 6001234567890 번호로 신청하셨습니다. 그리고 장애 등급 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":710,"content":"응급 이송 비용 청구 시 7012345678901 건강보험증번호를 제출합니다. 참고로 구급차 이용 영수증이 필요합니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":711,"content":"외래 진료 예약 변경에 8023456789012 보험증번호를 말씀해주세요. 아울러 하루 전까지만 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":712,"content":"입원실 병실 등급 선택 시 9034567890123 건강보험번호가 확인됩니다. 또한 상급병실료는 비급여입니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":713,"content":"퇴원 수속 진행 시 1045678901234 번호로 최종 진료비를 계산합니다. 다만 미수금 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":714,"content":"외국인 근로자 2056789012345 건강보험증번호로 가입 처리되었습니다. 그리고 보험료는 사업주와 반반 부담입니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":8,"end":21,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":715,"content":"먼저 유학생 보험 가입에 3067890123456 번호가 발급되었습니다. 참고로 재학 증명서 제출이 필수입니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":716,"content":"고용보험 실업급여 수급 중 4078901234567 건강보험번호로 지역가입자 전환됩니다. 아울러 보험료가 달라집니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":717,"content":"군 복무 중 자녀 5089012345678 보험증번호는 부모 피부양자로 유지됩니다. 또한 별도 보험료는 없습니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":718,"content":"교정 시설 수용자 6090123456789 건강보험증번호로 진료 기록이 관리됩니다. 다만 제한적 의료 서비스만 제공됩니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":719,"content":"노숙인 무료 진료 시 7001234567890 번호로 임시 등록 가능합니다. 그리고 의료급여와 연계됩니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":720,"content":"재난 피해자 긴급 지원 시 8012345678901 건강보험번호로 본인부담금이 면제됩니다. 참고로 재난 확인서가 필요합니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":721,"content":"코로나19 진단 검사 시 9023456789012 보험증번호를 확인합니다. 아울러 검사 비용은 전액 지원됩니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":722,"content":"격리 치료 입원 시 1034567890123 건강보험증번호로 생활지원금도 신청 가능합니다. 또한 자동으로 연계됩니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":723,"content":"예방접종 부작용 신고 시 2045678901234 번호와 함께 증상을 기재하세요. 다만 의사 소견서도 필요합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":724,"content":"건강기능식품 구매 시 3056789012345 건강보험증번호는 사용되지 않습니다. 그리고 의약품이 아니므로 비급여입니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":725,"content":"먼저 한약 처방 급여 확인에 4067890123456 번호를 입력합니다. 참고로 일부 질환만 급여 적용됩니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":726,"content":"침 치료 급여 신청 시 5078901234567 건강보험번호가 필요합니다. 아울러 의사 진단서가 있어야 합니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":727,"content":"추나 요법 사전 승인에 6089012345678 보험증번호를 제출하셨습니다. 또한 연간 횟수 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":728,"content":"약국 조제 내역 조회 시 7090123456789 건강보험증번호를 사용합니다. 다만 최근 3년간 기록만 조회됩니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":729,"content":"처방전 없이 약 구매 시 8001234567890 번호는 필요하지 않습니다. 그리고 일반의약품은 비급여입니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":730,"content":"복약 지도 서비스 이용 시 9012345678901 건강보험번호로 약력이 조회됩니다. 참고로 약물 상호작용을 확인합니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":731,"content":"제네릭 의약품 대체 조제 시 1023456789012 보험증번호로 동일하게 적용됩니다. 아울러 가격은 더 저렴합니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":732,"content":"희귀의약품 신청을 위해 2034567890123 건강보험증번호를 제출하세요. 또한 전문의 소견이 필수입니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":733,"content":"마약성 진통제 처방 시 3045678901234 번호로 중복 처방이 확인됩니다. 다만 오남용 방지를 위해 관리됩니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":734,"content":"의료기관 평가 등급 확인 시 4056789012345 건강보험번호는 필요 없습니다. 그리고 건강보험공단 홈페이지에서 조회됩니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":735,"content":"병원비 할인 카드 등록에 5067890123456 건강보험증번호를 연동할 수 있습니다. 참고로 자동 결제가 편리합니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":736,"content":"먼저 의료비 세액공제 증빙 자료로 6078901234567 번호의 진료내역이 사용됩니다. 아울러 국세청에도 자동 제공됩니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":23,"end":36,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":737,"content":"간병인 지원 신청 시 7089012345678 보험증번호를 확인합니다. 또한 입원 확인서가 필요합니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":738,"content":"호스피스 완화의료 신청에 8090123456789 건강보험번호가 필요합니다. 다만 말기 환자 진단이 있어야 합니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":739,"content":"장기이식 대기자 등록 시 9001234567890 건강보험증번호로 관리됩니다. 그리고 우선순위가 자동 계산됩니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":740,"content":"헌혈 후 건강검진 결과 조회에 1012345678901 번호를 입력하세요. 참고로 혈액 검사 결과를 확인할 수 있습니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":741,"content":"응급 의료비 지원 대상 확인 시 2023456789012 보험증번호를 조회합니다. 아울러 소득 기준 심사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":742,"content":"미숙아 집중치료 지원 신청에 3034567890123 건강보험번호가 필요합니다. 또한 출생 체중 기준이 있습니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":743,"content":"선천성 이상아 의료비 지원 시 4045678901234 번호로 신청하세요. 다만 진단 시기 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":744,"content":"치매 안심센터 등록을 위해 5056789012345 건강보험증번호를 제출합니다. 그리고 인지 검사를 먼저 받아야 합니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":745,"content":"정신 건강 복지센터 상담 시 6067890123456 번호로 기록이 관리됩니다. 참고로 비밀 보장이 철저합니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":746,"content":"먼저 자살 예방 상담 전화 이용 시 7078901234567 건강보험번호는 수집하지 않습니다. 아울러 익명 상담이 가능합니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":22,"end":35,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":747,"content":"중독 관리 통합지원센터 등록에 8089012345678 보험증번호가 필요합니다. 또한 전문 치료 프로그램이 제공됩니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":748,"content":"재활 운동 프로그램 신청 시 9090123456789 건강보험증번호를 확인합니다. 다만 의사 처방이 있어야 합니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":749,"content":"방문 간호 서비스 신청에 1001234567890 번호로 자격을 확인합니다. 그리고 거동 불편자가 대상입니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":750,"content":"가정 간호 처방 시 2012345678901 건강보험번호가 필요합니다. 참고로 퇴원 후 계속 치료가 필요한 경우입니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":751,"content":"산후 조리원 이용 시 3023456789012 보험증번호는 사용되지 않습니다. 아울러 전액 본인 부담입니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":752,"content":"모유 수유 클리닉 이용에 4034567890123 건강보험증번호를 제시하세요. 또한 일부 비용이 지원될 수 있습니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":753,"content":"영양 상담 서비스 신청 시 5045678901234 번호로 이력이 관리됩니다. 다만 당뇨나 비만 환자가 우선입니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":754,"content":"운동 처방 프로그램 참여에 6056789012345 건강보험번호가 필요합니다. 그리고 체력 측정을 먼저 실시합니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":755,"content":"만성질환 관리 프로그램 등록 시 7067890123456 보험증번호를 확인합니다. 참고로 고혈압 당뇨 환자가 대상입니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":756,"content":"먼저 심뇌혈관질환 고위험군 검진에 8078901234567 건강보험번호를 입력합니다. 아울러 무료 검사가 제공됩니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":21,"end":34,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":757,"content":"골다공증 검사 예약 시 9089012345678 건강보험증번호가 필요합니다. 또한 만 54세 이상 여성이 대상입니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":758,"content":"B형 간염 검사 결과 조회에 1090123456789 번호를 사용합니다. 다만 양성인 경우 정밀 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":759,"content":"폐암 CT 검진 예약 시 2001234567890 건강보험번호를 확인합니다. 그리고 흡연력이 있는 고위험군이 대상입니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":760,"content":"대장내시경 검사 예약에 3012345678901 보험증번호가 필요합니다. 참고로 만 50세 이상은 무료입니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":761,"content":"위내시경 수면 마취 신청 시 4023456789012 건강보험증번호를 제시하세요. 아울러 보호자 동반이 필수입니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":762,"content":"유방 촬영술 검사 예약에 5034567890123 번호로 접수합니다. 또한 생리 주기를 고려해 예약하세요.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":763,"content":"자궁경부암 검사 예약 시 6045678901234 건강보험번호가 필요합니다. 다만 만 20세 이상 여성이 대상입니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":764,"content":"간 초음파 검사 신청에 7056789012345 보험증번호를 확인합니다. 그리고 B형 간염 보균자는 정기 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":765,"content":"심전도 검사 실시 시 8067890123456 건강보험증번호로 기록됩니다. 참고로 부정맥 의심 시 정밀 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":766,"content":"먼저 혈액 검사 결과 조회에 9078901234567 번호를 입력합니다. 아울러 검사 항목별 정상 범위를 확인하세요.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":767,"content":"소변 검사 실시 후 1089012345678 건강보험번호로 결과가 등록됩니다. 또한 이상 소견 시 재검이 필요합니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":768,"content":"X-ray 촬영 예약 시 2090123456789 보험증번호를 제시하세요. 다만 임신 가능성이 있으면 말씀하세요.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":769,"content":"CT 촬영 사전 승인에 3001234567890 건강보험증번호가 필요합니다. 그리고 조영제 알레르기를 확인합니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":770,"content":"초음파 검사 예약 시 4012345678901 번호로 접수됩니다. 참고로 복부 초음파는 공복이 필요합니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":771,"content":"내시경 조직 검사 시 5023456789012 건강보험번호로 병리 결과가 연동됩니다. 아울러 결과는 일주일 소요됩니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":772,"content":"유전자 검사 신청에 6034567890123 보험증번호를 제출하세요. 또한 가족력이 있는 경우 급여 적용됩니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":773,"content":"암 표지자 검사 실시 시 7045678901234 건강보험증번호로 기록됩니다. 다만 선별 검사로는 제한적입니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":774,"content":"갑상선 기능 검사 예약에 8056789012345 번호가 필요합니다. 그리고 약 복용 중이면 미리 말씀하세요.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":775,"content":"알레르기 검사 신청 시 9067890123456 건강보험번호를 확인합니다. 참고로 다양한 항원을 동시 검사합니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":776,"content":"먼저 호르몬 검사 실시에 1078901234567 보험증번호로 결과가 등록됩니다. 아울러 검사 시기가 중요합니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":777,"content":"뇌파 검사 예약 시 2089012345678 건강보험증번호가 필요합니다. 또한 검사 전 수면 제한이 있을 수 있습니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":778,"content":"근전도 검사 신청에 3090123456789 번호를 제시하세요. 다만 신경 및 근육 질환 의심 시 실시합니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":779,"content":"폐기능 검사 실시 시 4001234567890 건강보험번호로 기록됩니다. 그리고 천식이나 폐질환 진단에 사용됩니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":780,"content":"골밀도 검사 예약에 5012345678901 보험증번호가 필요합니다. 참고로 폐경기 여성은 정기 검사가 권장됩니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":781,"content":"수면다원검사 예약 시 6023456789012 건강보험증번호를 확인합니다. 아울러 수면무호흡증 의심 시 실시합니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":782,"content":"심장 초음파 검사 신청에 7034567890123 번호로 접수됩니다. 또한 판막 질환이나 심부전 진단에 유용합니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":783,"content":"운동 부하 검사 예약 시 8045678901234 건강보험번호가 필요합니다. 다만 심장 질환 위험도를 평가합니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":784,"content":"24시간 혈압 측정 신청에 9056789012345 보험증번호를 제시하세요. 그리고 일상 생활 중 측정이 진행됩니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":785,"content":"당화혈색소 검사 실시 시 1067890123456 건강보험증번호로 기록됩니다. 참고로 당뇨 관리 지표로 사용됩니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":786,"content":"먼저 콜레스테롤 검사 결과 조회에 2078901234567 번호를 입력합니다. 아울러 고지혈증 진단 기준을 확인하세요.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":787,"content":"간 효소 수치 검사 시 3089012345678 건강보험번호가 필요합니다. 또한 간 기능 이상 여부를 판단합니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":788,"content":"신장 기능 검사 예약에 4090123456789 보험증번호를 확인합니다. 다만 크레아티닌 수치가 중요합니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":789,"content":"전립선 특이항원 검사 시 5001234567890 건강보험증번호로 결과가 등록됩니다. 그리고 만 50세 이상 남성이 대상입니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":790,"content":"종양 표지자 추적 검사에 6012345678901 번호가 필요합니다. 참고로 암 치료 후 재발 감시에 사용됩니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":791,"content":"빈혈 검사 실시 시 7023456789012 건강보험번호를 제시하세요. 아울러 철분 수치도 함께 확인합니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":792,"content":"응급 혈액형 검사 시 8034567890123 보험증번호로 기록됩니다. 또한 수혈이 필요한 경우 교차 시험을 실시합니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":793,"content":"약물 농도 검사 신청에 9045678901234 건강보험증번호가 필요합니다. 다만 특정 약물 복용 시 모니터링이 필요합니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":794,"content":"세균 배양 검사 실시 시 1056789012345 번호로 결과가 관리됩니다. 그리고 항생제 감수성 검사도 포함됩니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":795,"content":"바이러스 검사 예약에 2067890123456 건강보험증번호를 확인합니다. 참고로 PCR 검사가 가장 정확합니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":796,"content":"먼저 결핵 검사 실시에 3078901234567 보험증번호가 필요합니다. 아울러 흉부 X-ray와 객담 검사를 병행합니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":797,"content":"성병 검사 신청 시 4089012345678 건강보험증번호로 비밀이 보장됩니다. 또한 익명 검사도 가능합니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":798,"content":"HIV 검사 실시 시 5090123456789 번호는 암호화되어 관리됩니다. 다만 양성인 경우 전문 상담이 제공됩니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":799,"content":"풍진 항체 검사 예약에 6001234567890 건강보험번호가 필요합니다. 그리고 임신 계획 시 사전 검사가 권장됩니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":800,"content":"수두 항체 검사 시 7012345678901 보험증번호를 제시하세요. 참고로 예방접종 이력을 함께 확인합니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":801,"content":"A형 간염 항체 검사 신청에 8023456789012 건강보험증번호로 접수됩니다. 아울러 항체가 없으면 접종이 필요합니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":802,"content":"독감 신속 항원 검사 시 9034567890123 번호가 사용됩니다. 또한 증상 발현 48시간 내 검사가 정확합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":803,"content":"코로나 항체 검사 예약에 1045678901234 건강보험증번호를 확인합니다. 다만 백신 접종 후 항체 형성 확인용입니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":804,"content":"알레르기 피부 반응 검사 시 2056789012345 보험증번호가 필요합니다. 그리고 검사 전 항히스타민제 중단이 필요합니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":805,"content":"천식 유발 검사 신청에 3067890123456 건강보험증번호로 등록됩니다. 참고로 전문의 감독 하에 실시됩니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":806,"content":"먼저 식품 알레르기 검사 시 4078901234567 번호를 입력합니다. 아울러 의심 식품을 미리 확인하세요.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":807,"content":"약물 알레르기 검사 예약에 5089012345678 건강보험증번호가 필요합니다. 또한 과거 부작용 이력을 상세히 기재하세요.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":808,"content":"관절액 검사 실시 시 6090123456789 보험증번호로 결과가 관리됩니다. 다만 통풍이나 감염 진단에 유용합니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":809,"content":"뇌척수액 검사 신청에 7001234567890 건강보험증번호를 제시하세요. 그리고 뇌막염 의심 시 응급 검사가 필요합니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":810,"content":"복수 천자 검사 시 8012345678901 번호가 사용됩니다. 참고로 복강 내 액체 원인을 파악합니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":811,"content":"흉수 검사 예약에 9023456789012 건강보험증번호로 접수됩니다. 아울러 폐 질환이나 암 전이 확인에 사용됩니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":812,"content":"골수 검사 신청 시 1034567890123 보험증번호가 필요합니다. 또한 혈액암 진단에 필수적인 검사입니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":813,"content":"림프절 생검 실시 시 2045678901234 건강보험증번호로 결과가 등록됩니다. 다만 국소 마취 후 진행됩니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":814,"content":"피부 조직 검사 예약에 3056789012345 번호를 확인합니다. 그리고 피부암이나 염증 질환 진단에 사용됩니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":815,"content":"유방 조직 생검 신청 시 4067890123456 건강보험증번호가 필요합니다. 참고로 초음파 유도 하에 실시됩니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":816,"content":"먼저 갑상선 세침 흡인 검사에 5078901234567 보험증번호로 등록됩니다. 아울러 결절의 악성 여부를 확인합니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":817,"content":"전립선 조직 검사 예약 시 6089012345678 건강보험증번호를 제시하세요. 또한 검사 후 출혈 가능성을 설명받습니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":818,"content":"간 조직 생검 신청에 7090123456789 번호가 사용됩니다. 다만 응고 장애가 없는지 사전 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":819,"content":"신장 조직 검사 실시 시 8001234567890 건강보험증번호로 기록됩니다. 그리고 신장 질환 정확한 진단에 필요합니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":820,"content":"폐 조직 생검 예약에 9012345678901 보험증번호를 확인합니다. 참고로 기관지 내시경이나 CT 유도로 진행됩니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":821,"content":"위 조직 검사 시 1023456789012 건강보험증번호가 필요합니다. 아울러 내시경 중 동시에 실시됩니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":822,"content":"대장 용종 절제술 예약에 2034567890123 번호로 접수됩니다. 또한 조직 검사 결과는 1주일 후 확인됩니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":823,"content":"자궁 경부 조직 검사 신청 시 3045678901234 건강보험증번호를 제시하세요. 다만 생리 기간은 피해서 예약하세요.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":824,"content":"자궁 내막 소파술 예약에 4056789012345 보험증번호가 필요합니다. 그리고 부정 출혈 원인 파악에 사용됩니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":825,"content":"방광경 검사 실시 시 5067890123456 건강보험증번호로 결과가 관리됩니다. 참고로 혈뇨 원인 규명에 유용합니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":826,"content":"먼저 위장 조영술 검사 예약에 6078901234567 번호를 입력합니다. 아울러 검사 전 금식이 필수입니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":827,"content":"대장 조영술 신청 시 7089012345678 건강보험증번호를 확인합니다. 또한 장 청소 과정이 중요합니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":828,"content":"담도 조영술 예약에 8090123456789 보험증번호가 필요합니다. 다만 담석이나 담도 폐쇄 진단에 사용됩니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":829,"content":"혈관 조영술 신청 시 9001234567890 건강보험증번호로 등록됩니다. 그리고 동맥 경화나 협착 확인에 유용합니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":830,"content":"뇌혈관 조영술 예약에 1012345678901 번호를 제시하세요. 참고로 뇌동맥류나 뇌졸중 정밀 검사에 사용됩니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":831,"content":"심장 카테터 검사 신청 시 2023456789012 건강보험증번호가 필요합니다. 아울러 관상동맥 질환 진단의 표준 검사입니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":832,"content":"관상동맥 스텐트 시술 예약에 3034567890123 보험증번호로 접수됩니다. 또한 시술 전 항혈소판제 복용이 필요합니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":833,"content":"심장 판막 수술 신청 시 4045678901234 건강보험증번호를 확인합니다. 다만 개흉술이나 최소 침습 수술로 진행됩니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":834,"content":"관절경 수술 예약에 5056789012345 번호가 사용됩니다. 그리고 무릎이나 어깨 관절 질환 치료에 효과적입니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":835,"content":"백내장 수술 신청 시 6067890123456 건강보험증번호로 등록됩니다. 참고로 인공 수정체 삽입이 포함됩니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":836,"content":"먼저 녹내장 레이저 치료 예약에 7078901234567 보험증번호가 필요합니다. 아울러 안압 조절이 목적입니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":837,"content":"망막 박리 수술 신청 시 8089012345678 건강보험증번호를 제시하세요. 또한 응급 수술이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":838,"content":"라식 라섹 수술 예약에 9090123456789 번호는 사용되지 않습니다. 다만 전액 본인 부담 비급여 항목입니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":839,"content":"난청 인공와우 수술 신청 시 1001234567890 건강보험증번호로 접수됩니다. 그리고 청각 재활 프로그램도 포함됩니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":840,"content":"중이염 고막 튜브 삽입술 예약에 2012345678901 보험증번호가 필요합니다. 참고로 소아에서 흔히 실시됩니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":841,"content":"편도 절제술 신청 시 3023456789012 건강보험증번호를 확인합니다. 아울러 만성 편도염이 수술 적응증입니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":842,"content":"코 성형술 예약에 4034567890123 번호는 미용 목적이면 비급여입니다. 또한 기능적 문제가 있으면 일부 급여 적용됩니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":843,"content":"축농증 부비동 수술 신청 시 5045678901234 건강보험증번호로 등록됩니다. 다만 약물 치료 실패 후 고려됩니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":844,"content":"갑상선 절제술 예약에 6056789012345 보험증번호가 필요합니다. 그리고 암이나 갑상선 기능 항진증이 적응증입니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":845,"content":"유방 절제술 신청 시 7067890123456 건강보험증번호를 제시하세요. 참고로 유방암 수술 후 재건술도 가능합니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":846,"content":"먼저 자궁 적출술 예약에 8078901234567 번호로 접수됩니다. 아울러 자궁근종이나 암이 주요 원인입니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":847,"content":"제왕절개 수술 신청 시 9089012345678 건강보험증번호가 필요합니다. 또한 의학적 적응증이 있으면 급여 적용됩니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":848,"content":"난관 결찰술 예약에 1090123456789 보험증번호를 확인합니다. 다만 영구 피임 수술로 신중한 결정이 필요합니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":849,"content":"정관 수술 신청 시 2001234567890 건강보험증번호로 등록됩니다. 그리고 남성 영구 피임법으로 간단한 시술입니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":850,"content":"전립선 비대증 수술 예약에 3012345678901 번호가 사용됩니다. 참고로 레이저 수술이나 경요도 절제술로 진행됩니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":851,"content":"신장 결석 제거술 신청 시 4023456789012 건강보험증번호를 제시하세요. 아울러 체외충격파나 내시경으로 치료합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":852,"content":"담낭 절제술 예약에 5034567890123 보험증번호가 필요합니다. 또한 복강경 수술로 회복이 빠릅니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":853,"content":"맹장 수술 신청 시 6045678901234 건강보험증번호로 접수됩니다. 다만 급성 충수염은 응급 수술이 필요합니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":854,"content":"탈장 복원술 예약에 7056789012345 번호를 확인합니다. 그리고 서혜부 탈장이 가장 흔한 유형입니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":855,"content":"치질 수술 신청 시 8067890123456 건강보험증번호가 필요합니다. 참고로 내치핵과 외치핵 치료법이 다릅니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":856,"content":"먼저 위암 절제술 예약에 9078901234567 보험증번호로 등록됩니다. 아울러 조기 발견 시 내시경 절제도 가능합니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":857,"content":"대장암 수술 신청 시 1089012345678 건강보험증번호를 제시하세요. 또한 병기에 따라 수술 범위가 결정됩니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":858,"content":"간암 절제술 예약에 2090123456789 번호가 사용됩니다. 다만 간 기능이 충분해야 수술이 가능합니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":859,"content":"췌장암 수술 신청 시 3001234567890 건강보험증번호로 접수됩니다. 그리고 위플씨 수술 등 대수술이 필요합니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":860,"content":"폐암 절제술 예약에 4012345678901 보험증번호를 확인합니다. 참고로 폐엽 절제나 전폐 절제로 진행됩니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":861,"content":"식도암 수술 신청 시 5023456789012 건강보험증번호가 필요합니다. 아울러 식도 절제 후 재건술이 포함됩니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":862,"content":"갑상선암 수술 예약에 6034567890123 번호로 등록됩니다. 또한 갑상선 전절제나 부분 절제로 진행됩니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":863,"content":"전립선암 수술 신청 시 7045678901234 건강보험증번호를 제시하세요. 다만 로봇 수술도 선택 가능합니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":864,"content":"방광암 절제술 예약에 8056789012345 보험증번호가 사용됩니다. 그리고 표재성과 침윤성에 따라 치료가 다릅니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":865,"content":"신장암 수술 신청 시 9067890123456 건강보험증번호로 접수됩니다. 참고로 부분 신장 절제술도 가능합니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":866,"content":"먼저 난소암 수술 예약에 1078901234567 번호를 확인합니다. 아울러 종양 감축술과 항암 치료가 병행됩니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":867,"content":"자궁경부암 수술 신청 시 2089012345678 건강보험증번호가 필요합니다. 또한 병기에 따라 수술 범위가 결정됩니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":868,"content":"뇌종양 제거술 예약에 3090123456789 보험증번호로 등록됩니다. 다만 위치와 크기에 따라 수술 가능 여부가 결정됩니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":869,"content":"척추 종양 수술 신청 시 4001234567890 건강보험증번호를 제시하세요. 그리고 신경 손상 위험을 최소화하는 것이 중요합니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":870,"content":"골육종 수술 예약에 5012345678901 번호가 사용됩니다. 참고로 사지 보존 수술이나 절단술로 진행됩니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":871,"content":"흑색종 절제술 신청 시 6023456789012 건강보험증번호로 접수됩니다. 아울러 조기 발견과 치료가 매우 중요합니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":872,"content":"림프종 치료를 위한 7034567890123 보험증번호 확인이 필요합니다. 또한 항암 화학요법이 주요 치료법입니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":873,"content":"백혈병 치료 신청 시 8045678901234 건강보험증번호로 등록됩니다. 다만 조혈모세포 이식이 필요할 수 있습니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":874,"content":"다발성 골수종 치료 예약에 9056789012345 번호를 제시하세요. 그리고 표적 치료제와 항암제를 병행합니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":875,"content":"항암 화학요법 신청 시 1067890123456 건강보험증번호가 필요합니다. 참고로 부작용 관리가 매우 중요합니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":876,"content":"먼저 방사선 치료 예약에 2078901234567 보험증번호로 접수됩니다. 아울러 정밀한 조준으로 부작용을 최소화합니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":877,"content":"표적 항암제 처방 시 3089012345678 건강보험증번호를 확인합니다. 또한 유전자 검사 결과에 따라 선택됩니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":878,"content":"면역 항암제 투여 신청에 4090123456789 번호가 사용됩니다. 다만 고가 약제로 사전 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":879,"content":"호르몬 요법 예약 시 5001234567890 건강보험증번호로 등록됩니다. 그리고 유방암이나 전립선암 치료에 사용됩니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":880,"content":"조혈모세포 이식 신청 시 6012345678901 보험증번호를 제시하세요. 참고로 공여자 적합성 검사가 필수입니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":881,"content":"CAR-T 세포 치료 예약에 7023456789012 건강보험증번호가 필요합니다. 아울러 최신 면역 치료법으로 고가입니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":882,"content":"양성자 치료 신청 시 8034567890123 번호로 접수됩니다. 또한 소아암이나 특정 암종에 우선 적용됩니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":883,"content":"중입자 치료 예약에 9045678901234 건강보험증번호를 확인합니다. 다만 국내에는 아직 도입되지 않았습니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":884,"content":"고주파 열 치료 신청 시 1056789012345 보험증번호가 사용됩니다. 그리고 간암이나 폐암 국소 치료에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":885,"content":"색전술 예약에 2067890123456 건강보험증번호로 등록됩니다. 참고로 간암 치료나 출혈 조절에 사용됩니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":9,"end":22,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":886,"content":"먼저 냉동 치료 신청 시 3078901234567 번호를 제시하세요. 아울러 피부암이나 전립선암 치료에 적용됩니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":887,"content":"광역학 치료 예약에 4089012345678 건강보험증번호가 필요합니다. 또한 특수 약물과 레이저를 이용한 치료법입니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":888,"content":"완화 의료 신청 시 5090123456789 보험증번호로 접수됩니다. 다만 말기 환자의 삶의 질 향상이 목표입니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":889,"content":"통증 완화 치료 예약에 6001234567890 건강보험증번호를 확인합니다. 그리고 마약성 진통제 처방이 포함됩니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":890,"content":"영양 지원 요법 신청 시 7012345678901 번호가 사용됩니다. 참고로 경장 영양이나 정맥 영양으로 공급됩니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":891,"content":"재활 치료 프로그램 예약에 8023456789012 건강보험증번호로 등록됩니다. 아울러 암 치료 후 체력 회복에 도움이 됩니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":892,"content":"심리 상담 서비스 신청 시 9034567890123 보험증번호를 제시하세요. 또한 암 환자와 가족 모두 이용 가능합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":893,"content":"암 생존자 관리 프로그램 예약에 1045678901234 건강보험증번호가 필요합니다. 다만 정기적인 추적 검사가 필수입니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":894,"content":"재발 방지 검사 신청 시 2056789012345 번호로 접수됩니다. 그리고 완치 후에도 5년간 정기 검진이 필요합니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":895,"content":"전이암 검사 예약에 3067890123456 건강보험증번호를 확인합니다. 참고로 PET-CT가 가장 정확한 검사입니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":896,"content":"먼저 종양 표지자 정기 검사에 4078901234567 보험증번호가 사용됩니다. 아울러 재발 조기 발견에 도움이 됩니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":897,"content":"유전성 암 검사 신청 시 5089012345678 건강보험증번호로 등록됩니다. 또한 가족력이 있으면 예방적 검사를 권장합니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":898,"content":"암 예방 검진 예약에 6090123456789 번호를 제시하세요. 다만 국가 암 검진 프로그램을 우선 이용하세요.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":899,"content":"건강 위험 평가 신청 시 7001234567890 건강보험증번호가 필요합니다. 그리고 생활습관 개선 상담도 제공됩니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":900,"content":"만성질환 예방 프로그램 예약에 8012345678901 보험증번호로 접수됩니다. 참고로 운동과 영양 교육이 포함됩니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":901,"content":"비만 관리 프로그램 신청 시 9023456789012 건강보험증번호를 확인합니다. 아울러 체성분 분석과 식단 상담이 제공됩니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":902,"content":"대사증후군 검사 예약에 1034567890123 번호가 사용됩니다. 또한 복부 비만 고혈압 고지혈증을 종합 평가합니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":903,"content":"심혈관 질환 위험도 평가 신청 시 2045678901234 건강보험증번호로 등록됩니다. 다만 10년 내 발병 확률을 계산합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":904,"content":"골다공증 예방 검사 예약에 3056789012345 보험증번호를 제시하세요. 그리고 칼슘과 비타민 D 보충이 권장됩니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":905,"content":"치매 예방 인지 훈련 프로그램 신청 시 4067890123456 건강보험증번호가 필요합니다. 참고로 조기 개입이 효과적입니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":22,"end":35,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":906,"content":"먼저 낙상 예방 교육 예약에 5078901234567 번호로 접수됩니다. 아울러 노인 안전 사고 예방에 중요합니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":907,"content":"근력 강화 운동 프로그램 신청 시 6089012345678 건강보험증번호를 확인합니다. 또한 골다공증과 낙상 예방에 도움됩니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":908,"content":"노인 건강 종합 평가 예약에 7090123456789 보험증번호가 사용됩니다. 다만 신체 기능과 인지 기능을 모두 평가합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":909,"content":"허약 노인 선별 검사 신청 시 8001234567890 건강보험증번호로 등록됩니다. 그리고 조기 개입으로 기능 저하를 예방합니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":910,"content":"노쇠 예방 프로그램 예약에 9012345678901 번호를 제시하세요. 참고로 영양과 운동 복합 중재가 효과적입니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":911,"content":"만성 통증 관리 신청 시 1023456789012 건강보험증번호가 필요합니다. 아울러 다학제 팀 접근이 권장됩니다.","has_sensitive":true,"entities":[{"value":"1023456789012","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":912,"content":"수면 장애 클리닉 예약에 2034567890123 보험증번호로 접수됩니다. 또한 수면 위생 교육이 우선 제공됩니다.","has_sensitive":true,"entities":[{"value":"2034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":913,"content":"스트레스 관리 프로그램 신청 시 3045678901234 건강보험증번호를 확인합니다. 다만 명상과 이완 기법을 교육합니다.","has_sensitive":true,"entities":[{"value":"3045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":914,"content":"우울증 선별 검사 예약에 4056789012345 번호가 사용됩니다. 그리고 양성이면 전문 상담으로 연계됩니다.","has_sensitive":true,"entities":[{"value":"4056789012345","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":915,"content":"불안 장애 평가 신청 시 5067890123456 건강보험증번호로 등록됩니다. 참고로 인지 행동 치료가 효과적입니다.","has_sensitive":true,"entities":[{"value":"5067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":916,"content":"먼저 중독 치료 프로그램 예약에 6078901234567 보험증번호를 제시하세요. 아울러 입원 치료나 외래 치료를 선택합니다.","has_sensitive":true,"entities":[{"value":"6078901234567","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":917,"content":"금주 프로그램 신청 시 7089012345678 건강보험증번호가 필요합니다. 또한 동료 지원 모임 참여가 권장됩니다.","has_sensitive":true,"entities":[{"value":"7089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":918,"content":"약물 의존 치료 예약에 8090123456789 번호로 접수됩니다. 다만 장기간의 재활 과정이 필요합니다.","has_sensitive":true,"entities":[{"value":"8090123456789","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":919,"content":"도박 중독 상담 신청 시 9001234567890 건강보험증번호를 확인합니다. 그리고 가족 상담도 함께 진행됩니다.","has_sensitive":true,"entities":[{"value":"9001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":920,"content":"인터넷 게임 중독 평가 예약에 1012345678901 보험증번호가 사용됩니다. 참고로 청소년 문제로 증가 추세입니다.","has_sensitive":true,"entities":[{"value":"1012345678901","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":921,"content":"섭식 장애 치료 신청 시 2023456789012 건강보험증번호로 등록됩니다. 아울러 영양사 상담이 병행됩니다.","has_sensitive":true,"entities":[{"value":"2023456789012","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":922,"content":"ADHD 평가 예약에 3034567890123 번호를 제시하세요. 또한 소아청소년과 진료가 우선 필요합니다.","has_sensitive":true,"entities":[{"value":"3034567890123","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":923,"content":"자폐 스펙트럼 장애 평가 신청 시 4045678901234 건강보험증번호가 필요합니다. 다만 조기 진단과 중재가 중요합니다.","has_sensitive":true,"entities":[{"value":"4045678901234","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":924,"content":"발달 지연 검사 예약에 5056789012345 보험증번호로 접수됩니다. 그리고 언어 운동 인지 발달을 종합 평가합니다.","has_sensitive":true,"entities":[{"value":"5056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":925,"content":"언어 치료 프로그램 신청 시 6067890123456 건강보험증번호를 확인합니다. 참고로 주 2-3회 치료가 권장됩니다.","has_sensitive":true,"entities":[{"value":"6067890123456","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":926,"content":"먼저 작업 치료 예약에 7078901234567 번호가 사용됩니다. 아울러 일상생활 기능 향상이 목표입니다.","has_sensitive":true,"entities":[{"value":"7078901234567","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":927,"content":"감각 통합 치료 신청 시 8089012345678 건강보험증번호로 등록됩니다. 또한 감각 처리 장애 아동에게 효과적입니다.","has_sensitive":true,"entities":[{"value":"8089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":928,"content":"행동 수정 프로그램 예약에 9090123456789 보험증번호를 제시하세요. 다만 부모 교육이 필수적으로 포함됩니다.","has_sensitive":true,"entities":[{"value":"9090123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":929,"content":"놀이 치료 신청 시 1001234567890 건강보험증번호가 필요합니다. 그리고 아동의 정서 표현과 문제 해결을 돕습니다.","has_sensitive":true,"entities":[{"value":"1001234567890","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":930,"content":"미술 치료 예약에 2012345678901 번호로 접수됩니다. 참고로 비언어적 의사소통 수단으로 활용됩니다.","has_sensitive":true,"entities":[{"value":"2012345678901","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":931,"content":"음악 치료 프로그램 신청 시 3023456789012 건강보험증번호를 확인합니다. 아울러 정서 안정과 사회성 발달에 도움됩니다.","has_sensitive":true,"entities":[{"value":"3023456789012","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":932,"content":"특수 교육 지원 예약에 4034567890123 보험증번호가 사용됩니다. 또한 개별화 교육 계획이 수립됩니다.","has_sensitive":true,"entities":[{"value":"4034567890123","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":933,"content":"조기 중재 프로그램 신청 시 5045678901234 건강보험증번호로 등록됩니다. 다만 만 3세 이전 시작이 가장 효과적입니다.","has_sensitive":true,"entities":[{"value":"5045678901234","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":934,"content":"청소년 상담 예약에 6056789012345 번호를 제시하세요. 그리고 학업 진로 대인관계 상담이 가능합니다.","has_sensitive":true,"entities":[{"value":"6056789012345","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":935,"content":"학교 폭력 피해 상담 신청 시 7067890123456 건강보험증번호가 필요합니다. 참고로 긴급 개입과 심리 지원이 제공됩니다.","has_sensitive":true,"entities":[{"value":"7067890123456","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":936,"content":"먼저 가정 폭력 피해자 지원 예약에 8078901234567 보험증번호로 접수됩니다. 아울러 법률 상담도 연계됩니다.","has_sensitive":true,"entities":[{"value":"8078901234567","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":937,"content":"성폭력 피해 상담 신청 시 9089012345678 건강보험증번호를 확인합니다. 또한 24시간 긴급 상담이 가능합니다.","has_sensitive":true,"entities":[{"value":"9089012345678","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":938,"content":"외상 후 스트레스 장애 치료 예약에 1090123456789 번호가 사용됩니다. 다만 EMDR 등 전문 치료가 제공됩니다.","has_sensitive":true,"entities":[{"value":"1090123456789","begin":21,"end":34,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":939,"content":"재난 심리 지원 신청 시 2001234567890 건강보험증번호로 등록됩니다. 그리고 집단 상담과 개인 상담이 병행됩니다.","has_sensitive":true,"entities":[{"value":"2001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":940,"content":"애도 상담 예약에 3012345678901 보험증번호를 제시하세요. 참고로 사별 후 복잡성 애도 반응에 도움됩니다.","has_sensitive":true,"entities":[{"value":"3012345678901","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":941,"content":"부부 상담 신청 시 4023456789012 건강보험증번호가 필요합니다. 아울러 관계 개선과 의사소통 훈련을 제공합니다.","has_sensitive":true,"entities":[{"value":"4023456789012","begin":10,"end":23,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":942,"content":"가족 치료 프로그램 예약에 5034567890123 번호로 접수됩니다. 또한 가족 체계 전체를 다룹니다.","has_sensitive":true,"entities":[{"value":"5034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":943,"content":"이혼 전후 상담 신청 시 6045678901234 건강보험증번호를 확인합니다. 다만 자녀가 있으면 양육 상담도 포함됩니다.","has_sensitive":true,"entities":[{"value":"6045678901234","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":944,"content":"임신 출산 상담 예약에 7056789012345 보험증번호가 사용됩니다. 그리고 산전 산후 우울증 선별도 실시됩니다.","has_sensitive":true,"entities":[{"value":"7056789012345","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":945,"content":"불임 스트레스 상담 신청 시 8067890123456 건강보험증번호로 등록됩니다. 참고로 난임 부부 지원 프로그램이 있습니다.","has_sensitive":true,"entities":[{"value":"8067890123456","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":946,"content":"먼저 갱년기 건강 상담 예약에 9078901234567 번호를 제시하세요. 아울러 호르몬 치료 상담도 가능합니다.","has_sensitive":true,"entities":[{"value":"9078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":947,"content":"성 건강 상담 신청 시 1089012345678 건강보험증번호가 필요합니다. 또한 비밀이 철저히 보장됩니다.","has_sensitive":true,"entities":[{"value":"1089012345678","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":948,"content":"성소수자 건강 상담 예약에 2090123456789 보험증번호로 접수됩니다. 다만 차별 없는 의료 서비스를 제공합니다.","has_sensitive":true,"entities":[{"value":"2090123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":949,"content":"노인 우울증 선별 검사 신청 시 3001234567890 건강보험증번호를 확인합니다. 그리고 조기 발견이 매우 중요합니다.","has_sensitive":true,"entities":[{"value":"3001234567890","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":950,"content":"치매 가족 교육 프로그램 예약에 4012345678901 번호가 사용됩니다. 참고로 돌봄 스트레스 관리법을 교육합니다.","has_sensitive":true,"entities":[{"value":"4012345678901","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":951,"content":"요양 시설 입소 상담 신청 시 5023456789012 건강보험증번호로 등록됩니다. 아울러 장기요양 등급 판정이 필요합니다.","has_sensitive":true,"entities":[{"value":"5023456789012","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":952,"content":"재가 요양 서비스 예약에 6034567890123 보험증번호를 제시하세요. 또한 방문 요양과 방문 간호가 제공됩니다.","has_sensitive":true,"entities":[{"value":"6034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":953,"content":"주야간 보호센터 이용 신청 시 7045678901234 건강보험증번호가 필요합니다. 다만 치매 어르신 전문 센터도 있습니다.","has_sensitive":true,"entities":[{"value":"7045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":954,"content":"단기 보호 서비스 예약에 8056789012345 번호로 접수됩니다. 그리고 가족 돌봄 휴식 제공이 목적입니다.","has_sensitive":true,"entities":[{"value":"8056789012345","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":955,"content":"복지 용구 대여 신청 시 9067890123456 건강보험증번호를 확인합니다. 참고로 휠체어 전동침대 등을 대여합니다.","has_sensitive":true,"entities":[{"value":"9067890123456","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":956,"content":"먼저 배회 감지기 지원 예약에 1078901234567 보험증번호가 사용됩니다. 아울러 치매 환자 실종 예방에 효과적입니다.","has_sensitive":true,"entities":[{"value":"1078901234567","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":957,"content":"가사 지원 서비스 신청 시 2089012345678 건강보험증번호로 등록됩니다. 또한 식사 준비와 청소 서비스가 제공됩니다.","has_sensitive":true,"entities":[{"value":"2089012345678","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":958,"content":"목욕 지원 서비스 예약에 3090123456789 번호를 제시하세요. 다만 거동 불편 어르신을 위한 서비스입니다.","has_sensitive":true,"entities":[{"value":"3090123456789","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":959,"content":"식사 배달 서비스 신청 시 4001234567890 건강보험증번호가 필요합니다. 그리고 영양가 있는 도시락을 제공합니다.","has_sensitive":true,"entities":[{"value":"4001234567890","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":960,"content":"이동 지원 서비스 예약에 5012345678901 보험증번호로 접수됩니다. 참고로 병원 방문 등 외출을 지원합니다.","has_sensitive":true,"entities":[{"value":"5012345678901","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":961,"content":"말벗 서비스 신청 시 6023456789012 건강보험증번호를 확인합니다. 아울러 독거 어르신 정서 지원이 목적입니다.","has_sensitive":true,"entities":[{"value":"6023456789012","begin":11,"end":24,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":962,"content":"안부 확인 서비스 예약에 7034567890123 번호가 사용됩니다. 또한 정기적인 전화나 방문으로 안전을 확인합니다.","has_sensitive":true,"entities":[{"value":"7034567890123","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":963,"content":"응급 안전 알림 서비스 신청 시 8045678901234 건강보험증번호로 등록됩니다. 다만 독거노인 응급 상황 대응 시스템입니다.","has_sensitive":true,"entities":[{"value":"8045678901234","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":964,"content":"노인 학대 신고 상담 예약에 9056789012345 보험증번호를 제시하세요. 그리고 24시간 긴급 신고가 가능합니다.","has_sensitive":true,"entities":[{"value":"9056789012345","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":965,"content":"성년 후견 제도 상담 신청 시 1067890123456 건강보험증번호가 필요합니다. 참고로 치매 환자 재산 보호에 유용합니다.","has_sensitive":true,"entities":[{"value":"1067890123456","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":966,"content":"먼저 장애인 건강 주치의 등록에 2078901234567 번호로 접수됩니다. 아울러 포괄적 건강 관리를 제공합니다.","has_sensitive":true,"entities":[{"value":"2078901234567","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":967,"content":"장애인 보조기기 처방 예약 시 3089012345678 건강보험증번호를 확인합니다. 또한 맞춤형 보조기기를 제공합니다.","has_sensitive":true,"entities":[{"value":"3089012345678","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":968,"content":"장애 진단 및 등록 신청에 4090123456789 보험증번호가 사용됩니다. 다만 전문의 진단서가 필수입니다.","has_sensitive":true,"entities":[{"value":"4090123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":969,"content":"장애인 건강검진 예약 시 5001234567890 건강보험증번호로 등록됩니다. 그리고 일반 검진보다 항목이 추가됩니다.","has_sensitive":true,"entities":[{"value":"5001234567890","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":970,"content":"발달 장애인 주간 활동 서비스 신청에 6012345678901 번호를 제시하세요. 참고로 사회 참여 기회를 제공합니다.","has_sensitive":true,"entities":[{"value":"6012345678901","begin":21,"end":34,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":971,"content":"중증 장애인 활동 지원 예약 시 7023456789012 건강보험증번호가 필요합니다. 아울러 일상생활 전반을 지원합니다.","has_sensitive":true,"entities":[{"value":"7023456789012","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":972,"content":"장애 아동 재활 치료 신청에 8034567890123 보험증번호로 접수됩니다. 또한 바우처 방식으로 비용을 지원합니다.","has_sensitive":true,"entities":[{"value":"8034567890123","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":973,"content":"발달 재활 서비스 예약 시 9045678901234 건강보험증번호를 확인합니다. 다만 만 18세 미만이 대상입니다.","has_sensitive":true,"entities":[{"value":"9045678901234","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":974,"content":"언어 발달 지원 신청에 1056789012345 번호가 사용됩니다. 그리고 언어 치료사가 방문하거나 센터에서 치료합니다.","has_sensitive":true,"entities":[{"value":"1056789012345","begin":12,"end":25,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":975,"content":"청각 장애 인공와우 수술 예약 시 2067890123456 건강보험증번호로 등록됩니다. 참고로 수술 후 재활이 중요합니다.","has_sensitive":true,"entities":[{"value":"2067890123456","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":976,"content":"먼저 시각 장애 재활 훈련 신청에 3078901234567 보험증번호를 제시하세요. 아울러 보행 훈련과 점자 교육을 제공합니다.","has_sensitive":true,"entities":[{"value":"3078901234567","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":977,"content":"뇌병변 장애 물리치료 예약 시 4089012345678 건강보험증번호가 필요합니다. 또한 장기간 꾸준한 치료가 필요합니다.","has_sensitive":true,"entities":[{"value":"4089012345678","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":978,"content":"지적 장애 직업 재활 신청에 5090123456789 번호로 접수됩니다. 다만 직업 훈련과 취업 지원이 포함됩니다.","has_sensitive":true,"entities":[{"value":"5090123456789","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":979,"content":"정신 장애 사회 복귀 시설 예약 시 6001234567890 건강보험증번호를 확인합니다. 그리고 지역사회 적응을 돕습니다.","has_sensitive":true,"entities":[{"value":"6001234567890","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":980,"content":"장애인 체육 프로그램 신청에 7012345678901 보험증번호가 사용됩니다. 참고로 생활 체육과 재활 스포츠를 제공합니다.","has_sensitive":true,"entities":[{"value":"7012345678901","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":981,"content":"장애인 문화 예술 활동 지원 예약 시 8023456789012 건강보험증번호로 등록됩니다. 아울러 문화 향유 기회를 확대합니다.","has_sensitive":true,"entities":[{"value":"8023456789012","begin":21,"end":34,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":982,"content":"장애인 평생 교육 프로그램 신청에 9034567890123 번호를 제시하세요. 또한 학력 보완과 문해 교육을 제공합니다.","has_sensitive":true,"entities":[{"value":"9034567890123","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":983,"content":"장애인 콜택시 이용 예약 시 1045678901234 건강보험증번호가 필요합니다. 다만 사전 등록과 예약이 필수입니다.","has_sensitive":true,"entities":[{"value":"1045678901234","begin":15,"end":28,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":984,"content":"장애인 주차 표지 발급 신청에 2056789012345 보험증번호로 접수됩니다. 그리고 장애 등급 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"2056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":985,"content":"장애인 편의 시설 설치 상담 예약 시 3067890123456 건강보험증번호를 확인합니다. 참고로 주택 개조 비용을 지원합니다.","has_sensitive":true,"entities":[{"value":"3067890123456","begin":21,"end":34,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":986,"content":"먼저 저소득층 의료비 지원 신청에 4078901234567 번호가 사용됩니다. 아울러 소득 기준 심사가 진행됩니다.","has_sensitive":true,"entities":[{"value":"4078901234567","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":987,"content":"긴급 복지 지원 예약 시 5089012345678 건강보험증번호로 등록됩니다. 또한 위기 상황 시 신속 지원이 가능합니다.","has_sensitive":true,"entities":[{"value":"5089012345678","begin":13,"end":26,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":988,"content":"노숙인 의료 지원 신청에 6090123456789 보험증번호를 제시하세요. 다만 무료 진료와 약제비를 지원합니다.","has_sensitive":true,"entities":[{"value":"6090123456789","begin":14,"end":27,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":989,"content":"쪽방촌 주민 건강 관리 예약 시 7001234567890 건강보험증번호가 필요합니다. 그리고 방문 진료 서비스를 제공합니다.","has_sensitive":true,"entities":[{"value":"7001234567890","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":990,"content":"북한 이탈 주민 의료 지원 신청에 8012345678901 번호로 접수됩니다. 참고로 초기 정착 의료비를 지원합니다.","has_sensitive":true,"entities":[{"value":"8012345678901","begin":19,"end":32,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":991,"content":"다문화 가족 건강 지원 예약 시 9023456789012 건강보험증번호를 확인합니다. 아울러 통역 서비스도 제공됩니다.","has_sensitive":true,"entities":[{"value":"9023456789012","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":992,"content":"한부모 가족 의료비 지원 신청에 1034567890123 보험증번호가 사용됩니다. 또한 자녀 의료비도 함께 지원됩니다.","has_sensitive":true,"entities":[{"value":"1034567890123","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":993,"content":"조손 가정 건강 관리 예약 시 2045678901234 건강보험증번호로 등록됩니다. 다만 조부모와 손자녀 모두 지원합니다.","has_sensitive":true,"entities":[{"value":"2045678901234","begin":16,"end":29,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":994,"content":"위기 청소년 의료 지원 신청에 3056789012345 번호를 제시하세요. 그리고 익명 진료도 가능합니다.","has_sensitive":true,"entities":[{"value":"3056789012345","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":995,"content":"가출 청소년 쉼터 연계 예약 시 4067890123456 건강보험증번호가 필요합니다. 참고로 24시간 상담이 가능합니다.","has_sensitive":true,"entities":[{"value":"4067890123456","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":996,"content":"먼저 학교 밖 청소년 지원 신청에 5078901234567 보험증번호로 접수됩니다. 아울러 건강검진과 예방접종을 지원합니다.","has_sensitive":true,"entities":[{"value":"5078901234567","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":997,"content":"소년소녀 가장 의료 지원 예약 시 6089012345678 건강보험증번호를 확인합니다. 또한 생활비와 교육비도 지원됩니다.","has_sensitive":true,"entities":[{"value":"6089012345678","begin":18,"end":31,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":998,"content":"아동 학대 피해자 치료 신청에 7090123456789 번호가 사용됩니다. 다만 심리 치료와 의료비를 모두 지원합니다.","has_sensitive":true,"entities":[{"value":"7090123456789","begin":17,"end":30,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":999,"content":"학교 보건 교사 연계 진료 예약 시 8001234567890 건강보험증번호로 등록됩니다. 그리고 학생 건강 증진 사업을 운영합니다.","has_sensitive":true,"entities":[{"value":"8001234567890","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}
+{"id":1000,"content":"취약 계층 통합 건강 관리 신청에 9012345678901 보험증번호를 제시하세요. 참고로 맞춤형 건강 서비스를 제공합니다.","has_sensitive":true,"entities":[{"value":"9012345678901","begin":20,"end":33,"label":"HEALTH_INSURANCE_ID"}]}

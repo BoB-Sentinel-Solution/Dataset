@@ -1,0 +1,1000 @@
+{"id":1,"content":"군번 21-12345678 로 복무 중인 병사의 정보를 확인해 주시기 바랍니다. 또한 본 자료는 대외비로 관리됩니다.","has_sensitive":true,"entities":[{"value":"21-12345678","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":2,"content":"병적증명서 발급을 위해 20-87654321 번호를 입력하시기 바랍니다. 참고로 처리까지 약 3일이 소요됩니다.","has_sensitive":true,"entities":[{"value":"20-87654321","begin":19,"end":30,"label":"MILITARY_ID"}]}
+{"id":3,"content":"입대 시 부여받은 군번은 19-23456789 이며 전역 시까지 유효합니다. 아울러 분실 시 즉시 신고하셔야 합니다.","has_sensitive":true,"entities":[{"value":"19-23456789","begin":18,"end":29,"label":"MILITARY_ID"}]}
+{"id":4,"content":"해당 병사의 군번 22-11223344 를 통해 복무 기록을 조회할 수 있습니다. 다만 권한이 필요합니다.","has_sensitive":true,"entities":[{"value":"22-11223344","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":5,"content":"전역예정자 명단에서 18-99887766 번호를 확인하였습니다. 그리고 전역일은 다음 달 15일입니다.","has_sensitive":true,"entities":[{"value":"18-99887766","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":6,"content":"군사행정시스템에 23-55667788 을 등록하여 주시기 바랍니다. 먼저 본인 확인 절차를 거쳐야 합니다.","has_sensitive":true,"entities":[{"value":"23-55667788","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":7,"content":"복무확인서 발급 신청 시 17-44332211 군번이 필요합니다. 또한 신분증도 함께 지참하셔야 합니다.","has_sensitive":true,"entities":[{"value":"17-44332211","begin":18,"end":29,"label":"MILITARY_ID"}]}
+{"id":8,"content":"군 복무 관련 문의는 21-88776655 로 조회하시면 됩니다. 참고로 업무시간은 평일 오전 9시부터입니다.","has_sensitive":true,"entities":[{"value":"21-88776655","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":9,"content":"훈련소에서 부여된 20-33221144 번호를 기록해 두시기 바랍니다. 다만 타인에게 노출되지 않도록 주의하세요.","has_sensitive":true,"entities":[{"value":"20-33221144","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":10,"content":"병적사항 확인을 위해 19-77665544 를 입력하였습니다. 그리고 시스템에서 정보가 조회되었습니다.","has_sensitive":true,"entities":[{"value":"19-77665544","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":11,"content":"현역 복무자의 군번 22-66554433 이 시스템에 정상 등록되었습니다. 아울러 관련 서류도 접수되었습니다.","has_sensitive":true,"entities":[{"value":"22-66554433","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":12,"content":"군 신분증에 기재된 18-55443322 번호로 본인 확인이 완료되었습니다. 먼저 다음 절차를 진행하겠습니다.","has_sensitive":true,"entities":[{"value":"18-55443322","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":13,"content":"전역 증명서 발급 시 23-44332211 을 제시하셔야 합니다. 또한 수수료는 면제됩니다.","has_sensitive":true,"entities":[{"value":"23-44332211","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":14,"content":"복무 기간 중 군번 17-33221100 번으로 각종 민원을 처리할 수 있습니다. 참고로 온라인으로도 가능합니다.","has_sensitive":true,"entities":[{"value":"17-33221100","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":15,"content":"입영 통지서에 명시된 21-22110099 군번을 확인하시기 바랍니다. 다만 오기가 있다면 즉시 연락주세요.","has_sensitive":true,"entities":[{"value":"21-22110099","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":16,"content":"군 복무 중 발급받은 20-11009988 번호는 전역 후에도 기록으로 남습니다. 그리고 재입대 시에도 사용됩니다.","has_sensitive":true,"entities":[{"value":"20-11009988","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":17,"content":"병적기록 조회를 위해 19-99887700 을 입력해 주시기 바랍니다. 아울러 보안 절차를 준수해야 합니다.","has_sensitive":true,"entities":[{"value":"19-99887700","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":18,"content":"군사교육 이수 내역은 22-88776600 번호로 확인 가능합니다. 먼저 로그인이 필요합니다.","has_sensitive":true,"entities":[{"value":"22-88776600","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":19,"content":"상담 접수 시 군번 18-77665500 를 말씀해 주시면 빠른 처리가 가능합니다. 또한 대기시간이 단축됩니다.","has_sensitive":true,"entities":[{"value":"18-77665500","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":20,"content":"훈련병 등록번호 23-66554400 이 정상적으로 시스템에 입력되었습니다. 참고로 수료 시까지 유지됩니다.","has_sensitive":true,"entities":[{"value":"23-66554400","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":21,"content":"군 복무 증명을 위해 17-55443300 번을 제출하시면 됩니다. 다만 발급까지 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"17-55443300","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":22,"content":"현재 복무 중인 병사의 21-44332200 군번으로 휴가 신청이 접수되었습니다. 그리고 승인 여부는 내일 통보됩니다.","has_sensitive":true,"entities":[{"value":"21-44332200","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":23,"content":"병적증명 발급 신청서에 20-33221111 을 기재하셔야 합니다. 아울러 도장도 필요합니다.","has_sensitive":true,"entities":[{"value":"20-33221111","begin":19,"end":30,"label":"MILITARY_ID"}]}
+{"id":24,"content":"군번 19-22110000 번으로 등록된 정보를 수정하고자 합니다. 먼저 담당자 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"19-22110000","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":25,"content":"복무 확인을 위해 22-11009900 를 조회하였으나 정보가 없습니다. 또한 재확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"22-11009900","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":26,"content":"전역자 군번 18-00998877 번호로 예비군 통지서가 발송되었습니다. 참고로 훈련일은 다음 주입니다.","has_sensitive":true,"entities":[{"value":"18-00998877","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":27,"content":"군 복무 기록 중 23-99008877 번에 대한 정보를 업데이트하였습니다. 다만 반영까지 하루가 걸립니다.","has_sensitive":true,"entities":[{"value":"23-99008877","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":28,"content":"입영 대상자의 17-88007766 군번이 생성되었습니다. 그리고 통지서는 우편으로 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-88007766","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":29,"content":"복무 관리 시스템에 21-77006655 을 등록하시기 바랍니다. 아울러 비밀번호도 설정하셔야 합니다.","has_sensitive":true,"entities":[{"value":"21-77006655","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":30,"content":"군번 조회 결과 20-66005544 번으로 복무 중임이 확인되었습니다. 먼저 상세 내역을 출력하겠습니다.","has_sensitive":true,"entities":[{"value":"20-66005544","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":31,"content":"병적사항 신고 시 19-55004433 을 필수로 입력하셔야 합니다. 또한 연락처도 함께 기재해 주세요.","has_sensitive":true,"entities":[{"value":"19-55004433","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":32,"content":"군 복무 확인서에 22-44003322 번호가 명시되어 있습니다. 참고로 유효기간은 발급일로부터 3개월입니다.","has_sensitive":true,"entities":[{"value":"22-44003322","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":33,"content":"현역병 군번 18-33002211 로 의무복무 기간을 조회하였습니다. 다만 정확한 날짜는 부대에 문의하세요.","has_sensitive":true,"entities":[{"value":"18-33002211","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":34,"content":"전역 예정일 확인을 위해 23-22001100 군번을 입력해 주시기 바랍니다. 그리고 신분증도 지참하세요.","has_sensitive":true,"entities":[{"value":"23-22001100","begin":18,"end":29,"label":"MILITARY_ID"}]}
+{"id":35,"content":"군 신분 확인 시스템에 17-11000099 이 등록되어 있습니다. 아울러 사진도 업로드되어 있습니다.","has_sensitive":true,"entities":[{"value":"17-11000099","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":36,"content":"복무확인서 발급을 위해 21-00999988 번을 제출하셨습니다. 먼저 검토 후 발급해 드리겠습니다.","has_sensitive":true,"entities":[{"value":"21-00999988","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":37,"content":"군번 20-99888877 번으로 포상 기록이 조회되었습니다. 또한 표창장도 함께 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-99888877","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":38,"content":"입영일자 확인 결과 19-88777766 군번으로 등록되어 있습니다. 참고로 입영일은 이번 달 말입니다.","has_sensitive":true,"entities":[{"value":"19-88777766","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":39,"content":"전역증 발급 신청 시 22-77666655 를 기재하시기 바랍니다. 다만 본인 확인이 선행되어야 합니다.","has_sensitive":true,"entities":[{"value":"22-77666655","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":40,"content":"군 복무 기간 조회는 18-66555544 번호로 가능합니다. 그리고 온라인으로도 확인하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"18-66555544","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":41,"content":"병적기록표에 기재된 23-55444433 군번을 확인하였습니다. 아울러 내용에 오류는 없습니다.","has_sensitive":true,"entities":[{"value":"23-55444433","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":42,"content":"훈련 수료 확인을 위해 17-44333322 을 입력해 주시기 바랍니다. 먼저 시스템 접속이 필요합니다.","has_sensitive":true,"entities":[{"value":"17-44333322","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":43,"content":"군번 21-33222211 번으로 복무 중 교육 이수 내역을 확인하였습니다. 또한 자격증 취득 기록도 있습니다.","has_sensitive":true,"entities":[{"value":"21-33222211","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":44,"content":"현역 복무 확인은 20-22111100 군번으로 조회 가능합니다. 참고로 전산 등록까지 시간이 걸립니다.","has_sensitive":true,"entities":[{"value":"20-22111100","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":45,"content":"병적증명서 발급 시 19-11000088 를 제시하셔야 합니다. 다만 발급 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"19-11000088","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":46,"content":"군 복무 중 군번 22-00999977 번으로 각종 증명서를 발급받을 수 있습니다. 그리고 신청은 온라인으로 하세요.","has_sensitive":true,"entities":[{"value":"22-00999977","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":47,"content":"복무 관련 문의는 18-99888866 번호를 말씀해 주시면 됩니다. 아울러 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"18-99888866","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":48,"content":"전역 후 예비군 편성을 위해 23-88777755 군번이 사용됩니다. 먼저 주소지 확인이 선행됩니다.","has_sensitive":true,"entities":[{"value":"23-88777755","begin":20,"end":31,"label":"MILITARY_ID"}]}
+{"id":49,"content":"입영 통지서에 명시된 17-77666644 번호로 신체검사 결과를 확인하였습니다. 또한 이상 소견은 없습니다.","has_sensitive":true,"entities":[{"value":"17-77666644","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":50,"content":"군번 21-66555533 을 통해 복무 부대 정보를 조회할 수 있습니다. 참고로 보안상 일부만 공개됩니다.","has_sensitive":true,"entities":[{"value":"21-66555533","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":51,"content":"병적사항 변경 신청 시 20-55444422 군번을 기재하시기 바랍니다. 다만 증빙서류가 필요합니다.","has_sensitive":true,"entities":[{"value":"20-55444422","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":52,"content":"복무확인서 발급은 19-44333311 번으로 신청하시면 됩니다. 그리고 처리 기간은 영업일 기준 3일입니다.","has_sensitive":true,"entities":[{"value":"19-44333311","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":53,"content":"군 복무 중 취득한 자격증은 22-33222200 군번과 연계되어 관리됩니다. 아울러 전역 후에도 유효합니다.","has_sensitive":true,"entities":[{"value":"22-33222200","begin":20,"end":31,"label":"MILITARY_ID"}]}
+{"id":54,"content":"현역병 군번 18-22111099 로 휴가 기록을 조회하였습니다. 먼저 승인된 휴가만 표시됩니다.","has_sensitive":true,"entities":[{"value":"18-22111099","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":55,"content":"전역 확인서 발급을 위해 23-11000077 을 입력해 주시기 바랍니다. 또한 사진도 첨부하셔야 합니다.","has_sensitive":true,"entities":[{"value":"23-11000077","begin":18,"end":29,"label":"MILITARY_ID"}]}
+{"id":56,"content":"군번 17-00999966 번으로 보훈 대상 여부를 확인하였습니다. 참고로 해당 사항은 없습니다.","has_sensitive":true,"entities":[{"value":"17-00999966","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":57,"content":"복무 기간 연장 신청 시 21-99888855 군번이 필요합니다. 다만 사유서를 함께 제출하셔야 합니다.","has_sensitive":true,"entities":[{"value":"21-99888855","begin":18,"end":29,"label":"MILITARY_ID"}]}
+{"id":58,"content":"병적증명 발급 신청서에 20-88777744 를 기재하였습니다. 그리고 수령 방법은 등기우편입니다.","has_sensitive":true,"entities":[{"value":"20-88777744","begin":19,"end":30,"label":"MILITARY_ID"}]}
+{"id":59,"content":"군 복무 관련 민원은 19-77666633 번호로 접수하시기 바랍니다. 아울러 처리 결과는 문자로 안내됩니다.","has_sensitive":true,"entities":[{"value":"19-77666633","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":60,"content":"전역예정자 명단에 22-66555522 군번이 포함되어 있습니다. 먼저 전역 절차 안내를 받으시기 바랍니다.","has_sensitive":true,"entities":[{"value":"22-66555522","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":61,"content":"입영 대기자의 군번 18-55444411 로 신체등급을 확인하였습니다. 또한 현역 판정입니다.","has_sensitive":true,"entities":[{"value":"18-55444411","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":62,"content":"복무확인서 재발급은 23-44333300 번을 통해 신청할 수 있습니다. 참고로 1회에 한해 무료입니다.","has_sensitive":true,"entities":[{"value":"23-44333300","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":63,"content":"군번 17-33222299 번으로 등록된 주소지를 변경하고자 합니다. 다만 주민등록등본이 필요합니다.","has_sensitive":true,"entities":[{"value":"17-33222299","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":64,"content":"현역 복무자의 21-22111088 군번으로 포상 신청이 접수되었습니다. 그리고 심사는 다음 주에 진행됩니다.","has_sensitive":true,"entities":[{"value":"21-22111088","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":65,"content":"병적기록 조회를 위해 20-11000066 을 입력하시기 바랍니다. 아울러 조회 권한이 있어야 합니다.","has_sensitive":true,"entities":[{"value":"20-11000066","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":66,"content":"군 복무 증명은 19-00999955 번호로 발급 가능합니다. 먼저 온라인 신청을 완료하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"19-00999955","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":67,"content":"전역증 발급 시 22-99888844 군번을 제시하셔야 합니다. 또한 본인 수령이 원칙입니다.","has_sensitive":true,"entities":[{"value":"22-99888844","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":68,"content":"복무 중 교육 이수는 18-88777733 번으로 확인됩니다. 참고로 수료증도 발급받으실 수 있습니다.","has_sensitive":true,"entities":[{"value":"18-88777733","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":69,"content":"군번 23-77666622 을 통해 전역 후 취업 지원을 받을 수 있습니다. 다만 신청 기한이 있습니다.","has_sensitive":true,"entities":[{"value":"23-77666622","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":70,"content":"병적증명서 발급은 17-66555511 군번으로 가능합니다. 그리고 수수료는 1천원입니다.","has_sensitive":true,"entities":[{"value":"17-66555511","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":71,"content":"현역 복무 확인을 위해 21-55444400 를 조회하였습니다. 아울러 복무 기간은 정상입니다.","has_sensitive":true,"entities":[{"value":"21-55444400","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":72,"content":"군 복무 중 군번 20-44333399 번으로 의료 기록을 확인할 수 있습니다. 먼저 병원에 문의하세요.","has_sensitive":true,"entities":[{"value":"20-44333399","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":73,"content":"전역 후 예비군 훈련은 19-33222288 군번으로 통지됩니다. 또한 일정은 사전에 공지됩니다.","has_sensitive":true,"entities":[{"value":"19-33222288","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":74,"content":"복무확인서 발급 신청 시 22-22111077 을 기재하셨습니다. 참고로 발급은 내일 완료됩니다.","has_sensitive":true,"entities":[{"value":"22-22111077","begin":19,"end":30,"label":"MILITARY_ID"}]}
+{"id":75,"content":"군번 18-11000055 번으로 복무 부대를 조회하였으나 정보가 제한되어 있습니다. 다만 담당자에게 문의 가능합니다.","has_sensitive":true,"entities":[{"value":"18-11000055","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":76,"content":"병적사항 신고는 23-00999944 군번을 필수로 입력해야 합니다. 그리고 변경 사유도 기재하세요.","has_sensitive":true,"entities":[{"value":"23-00999944","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":77,"content":"현역병 군번 17-99888833 로 훈련 이수 내역을 확인하였습니다. 아울러 수료증도 출력 가능합니다.","has_sensitive":true,"entities":[{"value":"17-99888833","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":78,"content":"군 복무 확인서에 21-88777722 번호가 기재되어 있습니다. 먼저 내용을 확인하시기 바랍니다.","has_sensitive":true,"entities":[{"value":"21-88777722","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":79,"content":"전역예정일 조회는 20-77666611 군번으로 가능합니다. 또한 변경 시 즉시 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-77666611","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":80,"content":"복무 중 포상 기록은 19-66555500 번을 통해 확인됩니다. 참고로 전역증에도 표기됩니다.","has_sensitive":true,"entities":[{"value":"19-66555500","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":81,"content":"군번 22-55444499 을 입력하여 병적기록표를 출력하였습니다. 다만 대외비로 관리됩니다.","has_sensitive":true,"entities":[{"value":"22-55444499","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":82,"content":"입영일자 확인을 위해 18-44333388 군번을 조회하였습니다. 그리고 입영 부대도 확인되었습니다.","has_sensitive":true,"entities":[{"value":"18-44333388","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":83,"content":"병적증명 발급 시 23-33222277 를 제출하시기 바랍니다. 아울러 신분증도 지참하세요.","has_sensitive":true,"entities":[{"value":"23-33222277","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":84,"content":"현역 복무자의 17-22111066 군번으로 휴가 신청이 승인되었습니다. 먼저 외출증을 수령하세요.","has_sensitive":true,"entities":[{"value":"17-22111066","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":85,"content":"군 복무 기간은 21-11000044 번호로 조회 가능합니다. 또한 전역일도 함께 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-11000044","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":86,"content":"전역증 재발급은 20-00999933 군번을 통해 신청하시면 됩니다. 참고로 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"20-00999933","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":87,"content":"복무확인서 발급을 위해 19-99888822 을 기재하였습니다. 다만 처리까지 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"19-99888822","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":88,"content":"군번 22-88777711 번으로 등록된 정보를 수정하고자 합니다. 그리고 변경 신청서를 제출하세요.","has_sensitive":true,"entities":[{"value":"22-88777711","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":89,"content":"병적기록 조회 결과 18-77666600 군번으로 복무 중임이 확인되었습니다. 아울러 이상은 없습니다.","has_sensitive":true,"entities":[{"value":"18-77666600","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":90,"content":"현역병 군번 23-66555599 로 의무복무 기간을 조회하였습니다. 먼저 정확한 날짜를 확인하세요.","has_sensitive":true,"entities":[{"value":"23-66555599","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":91,"content":"군 복무 증명은 17-55444488 번호로 발급받을 수 있습니다. 또한 온라인 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"17-55444488","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":92,"content":"전역 후 예비군은 21-44333377 군번으로 편성됩니다. 참고로 훈련 일정은 별도 통지됩니다.","has_sensitive":true,"entities":[{"value":"21-44333377","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":93,"content":"복무 관련 문의는 20-33222266 을 말씀해 주시면 됩니다. 다만 본인 확인 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"20-33222266","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":94,"content":"군번 19-22111055 번으로 포상 기록을 조회하였습니다. 그리고 표창장 발급도 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"19-22111055","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":95,"content":"병적증명서 발급은 22-11000033 군번으로 신청하시기 바랍니다. 아울러 처리 기간은 3일입니다.","has_sensitive":true,"entities":[{"value":"22-11000033","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":96,"content":"현역 복무 확인을 위해 18-00999922 를 입력하였습니다. 먼저 시스템에서 정보를 조회합니다.","has_sensitive":true,"entities":[{"value":"18-00999922","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":97,"content":"군 복무 중 군번 23-99888811 번으로 각종 민원을 처리할 수 있습니다. 또한 온라인으로도 가능합니다.","has_sensitive":true,"entities":[{"value":"23-99888811","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":98,"content":"전역증 발급 신청 시 17-88777700 군번이 필요합니다. 참고로 본인 수령이 원칙입니다.","has_sensitive":true,"entities":[{"value":"17-88777700","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":99,"content":"복무확인서 재발급은 21-77666699 을 제시하시면 됩니다. 다만 수수료가 부과될 수 있습니다.","has_sensitive":true,"entities":[{"value":"21-77666699","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":100,"content":"군번 20-66555588 번으로 복무 부대 정보를 확인하였습니다. 그리고 보안상 일부만 공개됩니다.","has_sensitive":true,"entities":[{"value":"20-66555588","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":101,"content":"병적기록표에 기재된 19-55444477 군번을 확인하였습니다. 아울러 내용에 오류는 없습니다.","has_sensitive":true,"entities":[{"value":"19-55444477","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":102,"content":"현역병 군번 22-44333366 로 훈련 수료 내역을 조회하였습니다. 먼저 증명서 발급이 가능합니다.","has_sensitive":true,"entities":[{"value":"22-44333366","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":103,"content":"군 복무 확인서에 18-33222255 번호가 명시되어 있습니다. 또한 발급일도 함께 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"18-33222255","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":104,"content":"전역예정자 명단에 23-22111044 군번이 포함되어 있습니다. 참고로 전역일은 다음 달입니다.","has_sensitive":true,"entities":[{"value":"23-22111044","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":105,"content":"복무 중 교육은 17-11000022 번을 통해 확인됩니다. 다만 일부 정보는 제한될 수 있습니다.","has_sensitive":true,"entities":[{"value":"17-11000022","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":106,"content":"군번 21-00999911 을 입력하여 병적사항을 조회하였습니다. 그리고 변경 사항은 없습니다.","has_sensitive":true,"entities":[{"value":"21-00999911","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":107,"content":"병적증명 발급 시 20-99888800 군번을 제출하셔야 합니다. 아울러 신분증도 필요합니다.","has_sensitive":true,"entities":[{"value":"20-99888800","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":108,"content":"현역 복무자의 19-88777799 군번으로 휴가 기록을 확인하였습니다. 먼저 승인 내역만 조회됩니다.","has_sensitive":true,"entities":[{"value":"19-88777799","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":109,"content":"군 복무 기간은 22-77666688 번호로 조회할 수 있습니다. 또한 전역일도 함께 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-77666688","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":110,"content":"전역증 발급을 위해 18-66555577 을 제시하시기 바랍니다. 참고로 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"18-66555577","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":111,"content":"복무확인서 발급은 23-55444466 군번으로 신청 가능합니다. 다만 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"23-55444466","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":112,"content":"군번 17-44333355 번으로 등록된 주소를 변경하고자 합니다. 그리고 증빙서류를 제출하세요.","has_sensitive":true,"entities":[{"value":"17-44333355","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":113,"content":"병적기록 조회를 위해 21-33222244 을 입력하셨습니다. 아울러 조회 권한이 확인되었습니다.","has_sensitive":true,"entities":[{"value":"21-33222244","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":114,"content":"현역병 군번 20-22111033 로 의무복무 기간을 확인하였습니다. 먼저 정확한 날짜를 통보해 드립니다.","has_sensitive":true,"entities":[{"value":"20-22111033","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":115,"content":"군 복무 증명은 19-11000011 번호로 발급 가능합니다. 또한 온라인 신청도 지원됩니다.","has_sensitive":true,"entities":[{"value":"19-11000011","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":116,"content":"전역 후 예비군은 22-00999900 군번으로 편성됩니다. 참고로 훈련 통지서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-00999900","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":117,"content":"복무 관련 민원은 18-99888899 을 말씀해 주시기 바랍니다. 다만 업무시간 내에만 가능합니다.","has_sensitive":true,"entities":[{"value":"18-99888899","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":118,"content":"군번 23-88777788 번으로 포상 신청을 접수하였습니다. 그리고 심사 결과는 추후 통보됩니다.","has_sensitive":true,"entities":[{"value":"23-88777788","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":119,"content":"병적증명서 발급은 17-77666677 군번으로 가능합니다. 아울러 발급 수수료는 면제됩니다.","has_sensitive":true,"entities":[{"value":"17-77666677","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":120,"content":"현역 복무 확인을 위해 21-66555566 를 조회하였습니다. 먼저 복무 상태를 확인합니다.","has_sensitive":true,"entities":[{"value":"21-66555566","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":121,"content":"군 복무 중 군번 20-55444455 번으로 의료 기록을 확인할 수 있습니다. 또한 병원에 문의 가능합니다.","has_sensitive":true,"entities":[{"value":"20-55444455","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":122,"content":"전역증 재발급은 19-44333344 군번을 제시하시면 됩니다. 참고로 처리 기간은 일주일입니다.","has_sensitive":true,"entities":[{"value":"19-44333344","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":123,"content":"복무확인서 발급 시 22-33222233 을 기재하셨습니다. 다만 본인 확인 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"22-33222233","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":124,"content":"군번 18-22111022 번으로 훈련 이수 내역을 확인하였습니다. 그리고 수료증도 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"18-22111022","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":125,"content":"병적기록표에 기재된 23-11000000 군번을 확인하였습니다. 아울러 정보는 정확합니다.","has_sensitive":true,"entities":[{"value":"23-11000000","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":126,"content":"현역병 군번 17-00998899 로 복무 부대를 조회하였습니다. 먼저 보안 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"17-00998899","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":127,"content":"군 복무 확인서에 21-99887788 번호가 기재되어 있습니다. 또한 유효기간도 명시되어 있습니다.","has_sensitive":true,"entities":[{"value":"21-99887788","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":128,"content":"전역예정일 조회는 20-88776677 군번으로 가능합니다. 참고로 변동 시 즉시 안내됩니다.","has_sensitive":true,"entities":[{"value":"20-88776677","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":129,"content":"복무 중 포상은 19-77665566 번을 통해 확인됩니다. 다만 일부 정보는 비공개입니다.","has_sensitive":true,"entities":[{"value":"19-77665566","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":130,"content":"군번 22-66554455 을 입력하여 병적사항을 조회하였습니다. 그리고 변경 내역은 없습니다.","has_sensitive":true,"entities":[{"value":"22-66554455","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":131,"content":"병적증명 발급 시 18-55443344 군번을 제출하셔야 합니다. 아울러 수수료는 천원입니다.","has_sensitive":true,"entities":[{"value":"18-55443344","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":132,"content":"현역 복무자의 23-44332233 군번으로 휴가 신청이 접수되었습니다. 먼저 승인 절차를 진행합니다.","has_sensitive":true,"entities":[{"value":"23-44332233","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":133,"content":"군 복무 기간은 17-33221122 번호로 조회 가능합니다. 또한 전역일도 확인하실 수 있습니다.","has_sensitive":true,"entities":[{"value":"17-33221122","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":134,"content":"전역증 발급을 위해 21-22110011 을 제시하시기 바랍니다. 참고로 본인만 수령 가능합니다.","has_sensitive":true,"entities":[{"value":"21-22110011","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":135,"content":"복무확인서 발급은 20-11009900 군번으로 신청하시면 됩니다. 다만 처리 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"20-11009900","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":136,"content":"군번 19-00998888 번으로 등록된 정보를 수정하고자 합니다. 그리고 신청서를 작성하세요.","has_sensitive":true,"entities":[{"value":"19-00998888","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":137,"content":"병적기록 조회를 위해 22-99887777 을 입력하셨습니다. 아울러 조회 결과를 출력합니다.","has_sensitive":true,"entities":[{"value":"22-99887777","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":138,"content":"현역병 군번 18-88776666 로 의무복무 기간을 확인하였습니다. 먼저 상세 내역을 안내합니다.","has_sensitive":true,"entities":[{"value":"18-88776666","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":139,"content":"군 복무 증명은 23-77665555 번호로 발급받을 수 있습니다. 또한 무료로 제공됩니다.","has_sensitive":true,"entities":[{"value":"23-77665555","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":140,"content":"전역 후 예비군은 17-66554444 군번으로 편성됩니다. 참고로 훈련 일정이 통지됩니다.","has_sensitive":true,"entities":[{"value":"17-66554444","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":141,"content":"복무 관련 문의는 21-55443333 을 말씀해 주시면 됩니다. 다만 본인 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"21-55443333","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":142,"content":"군번 20-44332222 번으로 포상 기록을 조회하였습니다. 그리고 표창장 발급도 가능합니다.","has_sensitive":true,"entities":[{"value":"20-44332222","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":143,"content":"병적증명서 발급은 19-33221111 군번으로 신청하시기 바랍니다. 아울러 신속히 처리됩니다.","has_sensitive":true,"entities":[{"value":"19-33221111","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":144,"content":"현역 복무 확인을 위해 22-22110000 를 입력하였습니다. 먼저 시스템에서 조회합니다.","has_sensitive":true,"entities":[{"value":"22-22110000","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":145,"content":"군 복무 중 군번 18-11009999 번으로 각종 증명서를 발급받을 수 있습니다. 또한 신청이 간편합니다.","has_sensitive":true,"entities":[{"value":"18-11009999","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":146,"content":"전역증 발급 신청 시 23-00998877 군번이 필요합니다. 참고로 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"23-00998877","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":147,"content":"복무확인서 재발급은 17-99887766 을 제시하시면 됩니다. 다만 1회에 한해 무료입니다.","has_sensitive":true,"entities":[{"value":"17-99887766","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":148,"content":"군번 21-88776655 번으로 복무 부대 정보를 확인하였습니다. 그리고 보안상 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"21-88776655","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":149,"content":"병적기록표에 기재된 20-77665544 군번을 확인하였습니다. 아울러 모든 정보가 일치합니다.","has_sensitive":true,"entities":[{"value":"20-77665544","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":150,"content":"현역병 군번 19-66554433 로 훈련 수료 내역을 조회하였습니다. 먼저 증명서를 출력합니다.","has_sensitive":true,"entities":[{"value":"19-66554433","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":151,"content":"군 복무 확인서에 22-55443322 번호가 명시되어 있습니다. 또한 발급 기관도 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"22-55443322","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":152,"content":"전역예정자 명단에 18-44332211 군번이 포함되어 있습니다. 참고로 전역일은 확정되었습니다.","has_sensitive":true,"entities":[{"value":"18-44332211","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":153,"content":"복무 중 교육은 23-33221100 번을 통해 확인됩니다. 다만 일부는 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-33221100","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":154,"content":"군번 17-22110099 을 입력하여 병적사항을 조회하였습니다. 그리고 이상은 발견되지 않았습니다.","has_sensitive":true,"entities":[{"value":"17-22110099","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":155,"content":"병적증명 발급 시 21-11009988 군번을 제출하셔야 합니다. 아울러 신분 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"21-11009988","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":156,"content":"현역 복무자의 20-00998877 군번으로 휴가 기록을 확인하였습니다. 먼저 승인 건만 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-00998877","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":157,"content":"군 복무 기간은 19-99887766 번호로 조회할 수 있습니다. 또한 만기일도 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-99887766","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":158,"content":"전역증 발급을 위해 22-88776655 을 제시하시기 바랍니다. 참고로 즉시 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-88776655","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":159,"content":"복무확인서 발급은 18-77665544 군번으로 신청 가능합니다. 다만 수수료가 있습니다.","has_sensitive":true,"entities":[{"value":"18-77665544","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":160,"content":"군번 23-66554433 번으로 등록된 주소를 확인하였습니다. 그리고 변경 신청도 가능합니다.","has_sensitive":true,"entities":[{"value":"23-66554433","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":161,"content":"병적기록 조회를 위해 17-55443322 을 입력하셨습니다. 아울러 권한이 확인되었습니다.","has_sensitive":true,"entities":[{"value":"17-55443322","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":162,"content":"현역병 군번 21-44332211 로 의무복무 기간을 확인하였습니다. 먼저 정확한 일정을 안내합니다.","has_sensitive":true,"entities":[{"value":"21-44332211","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":163,"content":"군 복무 증명은 20-33221100 번호로 발급 가능합니다. 또한 온라인으로도 신청됩니다.","has_sensitive":true,"entities":[{"value":"20-33221100","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":164,"content":"전역 후 예비군은 19-22110099 군번으로 편성됩니다. 참고로 통지서가 우편 발송됩니다.","has_sensitive":true,"entities":[{"value":"19-22110099","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":165,"content":"복무 관련 민원은 22-11009988 을 말씀해 주시기 바랍니다. 다만 업무시간을 확인하세요.","has_sensitive":true,"entities":[{"value":"22-11009988","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":166,"content":"군번 18-00998866 번으로 포상 신청을 접수하였습니다. 그리고 결과는 추후 통보됩니다.","has_sensitive":true,"entities":[{"value":"18-00998866","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":167,"content":"병적증명서 발급은 23-99887755 군번으로 가능합니다. 아울러 발급비는 면제됩니다.","has_sensitive":true,"entities":[{"value":"23-99887755","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":168,"content":"현역 복무 확인을 위해 17-88776644 를 조회하였습니다. 먼저 복무 상태가 정상입니다.","has_sensitive":true,"entities":[{"value":"17-88776644","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":169,"content":"군 복무 중 군번 21-77665533 번으로 의료 기록을 확인할 수 있습니다. 또한 병원 방문이 필요합니다.","has_sensitive":true,"entities":[{"value":"21-77665533","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":170,"content":"전역증 재발급은 20-66554422 군번을 제시하시면 됩니다. 참고로 처리 기간은 3일입니다.","has_sensitive":true,"entities":[{"value":"20-66554422","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":171,"content":"복무확인서 발급 시 19-55443311 을 기재하셨습니다. 다만 확인 절차가 있습니다.","has_sensitive":true,"entities":[{"value":"19-55443311","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":172,"content":"군번 22-44332200 번으로 훈련 이수 내역을 확인하였습니다. 그리고 수료증 발급이 가능합니다.","has_sensitive":true,"entities":[{"value":"22-44332200","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":173,"content":"병적기록표에 기재된 18-33221199 군번을 확인하였습니다. 아울러 정보가 정확합니다.","has_sensitive":true,"entities":[{"value":"18-33221199","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":174,"content":"현역병 군번 23-22110088 로 복무 부대를 조회하였습니다. 먼저 보안 절차를 거쳐야 합니다.","has_sensitive":true,"entities":[{"value":"23-22110088","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":175,"content":"군 복무 확인서에 17-11009977 번호가 기재되어 있습니다. 또한 유효 기간도 명시되었습니다.","has_sensitive":true,"entities":[{"value":"17-11009977","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":176,"content":"전역예정일 조회는 21-00998866 군번으로 가능합니다. 참고로 변경 시 통지됩니다.","has_sensitive":true,"entities":[{"value":"21-00998866","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":177,"content":"복무 중 포상은 20-99887755 번을 통해 확인됩니다. 다만 일부는 비공개 처리됩니다.","has_sensitive":true,"entities":[{"value":"20-99887755","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":178,"content":"군번 19-88776644 을 입력하여 병적사항을 조회하였습니다. 그리고 변경은 없습니다.","has_sensitive":true,"entities":[{"value":"19-88776644","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":179,"content":"병적증명 발급 시 22-77665533 군번을 제출하셔야 합니다. 아울러 수수료를 납부하세요.","has_sensitive":true,"entities":[{"value":"22-77665533","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":180,"content":"현역 복무자의 18-66554422 군번으로 휴가 신청이 접수되었습니다. 먼저 승인을 기다리세요.","has_sensitive":true,"entities":[{"value":"18-66554422","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":181,"content":"군 복무 기간은 23-55443311 번호로 조회 가능합니다. 또한 만료일도 표시됩니다.","has_sensitive":true,"entities":[{"value":"23-55443311","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":182,"content":"전역증 발급을 위해 17-44332200 을 제시하시기 바랍니다. 참고로 신속히 처리됩니다.","has_sensitive":true,"entities":[{"value":"17-44332200","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":183,"content":"복무확인서 발급은 21-33221199 군번으로 신청하시면 됩니다. 다만 시간이 소요됩니다.","has_sensitive":true,"entities":[{"value":"21-33221199","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":184,"content":"군번 20-22110088 번으로 등록된 정보를 업데이트하였습니다. 그리고 확인서를 출력하세요.","has_sensitive":true,"entities":[{"value":"20-22110088","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":185,"content":"병적기록 조회를 위해 19-11009966 을 입력하셨습니다. 아울러 결과를 확인합니다.","has_sensitive":true,"entities":[{"value":"19-11009966","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":186,"content":"현역병 군번 22-00998855 로 의무복무 기간을 확인하였습니다. 먼저 상세 일정을 통보합니다.","has_sensitive":true,"entities":[{"value":"22-00998855","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":187,"content":"군 복무 증명은 18-99887744 번호로 발급받을 수 있습니다. 또한 무료로 발급됩니다.","has_sensitive":true,"entities":[{"value":"18-99887744","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":188,"content":"전역 후 예비군은 23-88776633 군번으로 편성됩니다. 참고로 훈련 통지가 발송됩니다.","has_sensitive":true,"entities":[{"value":"23-88776633","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":189,"content":"복무 관련 문의는 17-77665522 을 말씀해 주시면 됩니다. 다만 신분 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"17-77665522","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":190,"content":"군번 21-66554411 번으로 포상 기록을 조회하였습니다. 그리고 표창장도 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"21-66554411","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":191,"content":"병적증명서 발급은 20-55443300 군번으로 신청하시기 바랍니다. 아울러 빠르게 처리됩니다.","has_sensitive":true,"entities":[{"value":"20-55443300","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":192,"content":"현역 복무 확인을 위해 19-44332299 를 입력하였습니다. 먼저 시스템 조회를 진행합니다.","has_sensitive":true,"entities":[{"value":"19-44332299","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":193,"content":"군 복무 중 군번 22-33221188 번으로 각종 증명서를 발급받을 수 있습니다. 또한 간편하게 신청됩니다.","has_sensitive":true,"entities":[{"value":"22-33221188","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":194,"content":"전역증 발급 신청 시 18-22110077 군번이 필요합니다. 참고로 수수료는 면제입니다.","has_sensitive":true,"entities":[{"value":"18-22110077","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":195,"content":"복무확인서 재발급은 23-11009955 을 제시하시면 됩니다. 다만 1회만 무료입니다.","has_sensitive":true,"entities":[{"value":"23-11009955","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":196,"content":"군번 17-00998844 번으로 복무 부대 정보를 확인하였습니다. 그리고 보안 제한이 있습니다.","has_sensitive":true,"entities":[{"value":"17-00998844","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":197,"content":"병적기록표에 기재된 21-99887733 군번을 확인하였습니다. 아울러 모든 내용이 일치합니다.","has_sensitive":true,"entities":[{"value":"21-99887733","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":198,"content":"현역병 군번 20-88776622 로 훈련 수료 내역을 조회하였습니다. 먼저 증명서 출력이 가능합니다.","has_sensitive":true,"entities":[{"value":"20-88776622","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":199,"content":"군 복무 확인서에 19-77665511 번호가 명시되어 있습니다. 또한 발급처도 기재되어 있습니다.","has_sensitive":true,"entities":[{"value":"19-77665511","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":200,"content":"전역예정자 명단에 22-66554400 군번이 포함되어 있습니다. 참고로 전역일이 확정되었습니다.","has_sensitive":true,"entities":[{"value":"22-66554400","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":201,"content":"복무 중 교육은 18-55443399 번을 통해 확인됩니다. 다만 비공개 정보가 있습니다.","has_sensitive":true,"entities":[{"value":"18-55443399","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":202,"content":"군번 23-44332288 을 입력하여 병적사항을 조회하였습니다. 그리고 이상이 없습니다.","has_sensitive":true,"entities":[{"value":"23-44332288","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":203,"content":"병적증명 발급 시 17-33221177 군번을 제출하셔야 합니다. 아울러 확인이 필요합니다.","has_sensitive":true,"entities":[{"value":"17-33221177","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":204,"content":"현역 복무자의 21-22110066 군번으로 휴가 기록을 확인하였습니다. 먼저 승인된 건만 조회됩니다.","has_sensitive":true,"entities":[{"value":"21-22110066","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":205,"content":"군 복무 기간은 20-11009955 번호로 조회할 수 있습니다. 또한 만기일이 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-11009955","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":206,"content":"전역증 발급을 위해 19-00998844 을 제시하시기 바랍니다. 참고로 즉시 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"19-00998844","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":207,"content":"복무확인서 발급은 22-99887722 군번으로 신청 가능합니다. 다만 수수료가 부과됩니다.","has_sensitive":true,"entities":[{"value":"22-99887722","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":208,"content":"군번 18-88776611 번으로 등록된 주소를 확인하였습니다. 그리고 변경도 가능합니다.","has_sensitive":true,"entities":[{"value":"18-88776611","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":209,"content":"병적기록 조회를 위해 23-77665500 을 입력하셨습니다. 아울러 권한이 있습니다.","has_sensitive":true,"entities":[{"value":"23-77665500","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":210,"content":"현역병 군번 17-66554499 로 의무복무 기간을 확인하였습니다. 먼저 정확한 날짜를 안내합니다.","has_sensitive":true,"entities":[{"value":"17-66554499","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":211,"content":"군 복무 증명은 21-55443388 번호로 발급 가능합니다. 또한 온라인 신청도 됩니다.","has_sensitive":true,"entities":[{"value":"21-55443388","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":212,"content":"전역 후 예비군은 20-44332277 군번으로 편성됩니다. 참고로 통지서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"20-44332277","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":213,"content":"복무 관련 민원은 19-33221166 을 말씀해 주시기 바랍니다. 다만 업무시간 내에만 가능합니다.","has_sensitive":true,"entities":[{"value":"19-33221166","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":214,"content":"군번 22-22110055 번으로 포상 신청을 접수하였습니다. 그리고 결과를 통보받습니다.","has_sensitive":true,"entities":[{"value":"22-22110055","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":215,"content":"병적증명서 발급은 18-11009944 군번으로 가능합니다. 아울러 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"18-11009944","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":216,"content":"현역 복무 확인을 위해 23-00998833 를 조회하였습니다. 먼저 복무 상태를 확인합니다.","has_sensitive":true,"entities":[{"value":"23-00998833","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":217,"content":"군 복무 중 군번 17-99887711 번으로 의료 기록을 확인할 수 있습니다. 또한 병원 문의가 필요합니다.","has_sensitive":true,"entities":[{"value":"17-99887711","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":218,"content":"전역증 재발급은 21-88776600 군번을 제시하시면 됩니다. 참고로 3일이 소요됩니다.","has_sensitive":true,"entities":[{"value":"21-88776600","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":219,"content":"복무확인서 발급 시 20-77665599 을 기재하셨습니다. 다만 확인 과정이 있습니다.","has_sensitive":true,"entities":[{"value":"20-77665599","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":220,"content":"군번 19-66554488 번으로 훈련 이수 내역을 확인하였습니다. 그리고 수료증을 발급합니다.","has_sensitive":true,"entities":[{"value":"19-66554488","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":221,"content":"병적기록표에 기재된 22-55443377 군번을 확인하였습니다. 아울러 정보는 정확합니다.","has_sensitive":true,"entities":[{"value":"22-55443377","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":222,"content":"현역병 군번 18-44332266 로 복무 부대를 조회하였습니다. 먼저 보안 승인이 필요합니다.","has_sensitive":true,"entities":[{"value":"18-44332266","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":223,"content":"군 복무 확인서에 23-33221155 번호가 기재되어 있습니다. 또한 유효기간도 표시되었습니다.","has_sensitive":true,"entities":[{"value":"23-33221155","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":224,"content":"전역예정일 조회는 17-22110044 군번으로 가능합니다. 참고로 변경 시 안내됩니다.","has_sensitive":true,"entities":[{"value":"17-22110044","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":225,"content":"복무 중 포상은 21-11009933 번을 통해 확인됩니다. 다만 일부는 비공개입니다.","has_sensitive":true,"entities":[{"value":"21-11009933","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":226,"content":"군번 20-00998822 을 입력하여 병적사항을 조회하였습니다. 그리고 변경 내역은 없습니다.","has_sensitive":true,"entities":[{"value":"20-00998822","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":227,"content":"병적증명 발급 시 19-99887700 군번을 제출하셔야 합니다. 아울러 수수료를 내세요.","has_sensitive":true,"entities":[{"value":"19-99887700","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":228,"content":"현역 복무자의 22-88776699 군번으로 휴가 신청이 접수되었습니다. 먼저 승인 절차가 진행됩니다.","has_sensitive":true,"entities":[{"value":"22-88776699","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":229,"content":"군 복무 기간은 18-77665588 번호로 조회 가능합니다. 또한 만료일도 확인됩니다.","has_sensitive":true,"entities":[{"value":"18-77665588","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":230,"content":"전역증 발급을 위해 23-66554477 을 제시하시기 바랍니다. 참고로 신속 처리됩니다.","has_sensitive":true,"entities":[{"value":"23-66554477","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":231,"content":"복무확인서 발급은 17-55443366 군번으로 신청하시면 됩니다. 다만 시간이 걸립니다.","has_sensitive":true,"entities":[{"value":"17-55443366","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":232,"content":"군번 21-44332255 번으로 등록된 정보를 업데이트하였습니다. 그리고 확인서 출력이 가능합니다.","has_sensitive":true,"entities":[{"value":"21-44332255","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":233,"content":"병적기록 조회를 위해 20-33221144 을 입력하셨습니다. 아울러 결과를 표시합니다.","has_sensitive":true,"entities":[{"value":"20-33221144","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":234,"content":"현역병 군번 19-22110033 로 의무복무 기간을 확인하였습니다. 먼저 상세 일정이 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-22110033","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":235,"content":"군 복무 증명은 22-11009922 번호로 발급받을 수 있습니다. 또한 무료 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-11009922","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":236,"content":"전역 후 예비군은 18-00998811 군번으로 편성됩니다. 참고로 훈련 통지서가 발송됩니다.","has_sensitive":true,"entities":[{"value":"18-00998811","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":237,"content":"복무 관련 문의는 23-99887689 을 말씀해 주시면 됩니다. 다만 신분증이 필요합니다.","has_sensitive":true,"entities":[{"value":"23-99887689","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":238,"content":"군번 17-88776578 번으로 포상 기록을 조회하였습니다. 그리고 표창장 발급도 됩니다.","has_sensitive":true,"entities":[{"value":"17-88776578","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":239,"content":"병적증명서 발급은 21-77665467 군번으로 신청하시기 바랍니다. 아울러 신속히 처리됩니다.","has_sensitive":true,"entities":[{"value":"21-77665467","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":240,"content":"현역 복무 확인을 위해 20-66554356 를 입력하였습니다. 먼저 시스템에서 조회합니다.","has_sensitive":true,"entities":[{"value":"20-66554356","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":241,"content":"군 복무 중 군번 19-55443245 번으로 각종 증명서를 발급받을 수 있습니다. 또한 신청이 편리합니다.","has_sensitive":true,"entities":[{"value":"19-55443245","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":242,"content":"전역증 발급 신청 시 22-44332134 군번이 필요합니다. 참고로 수수료는 없습니다.","has_sensitive":true,"entities":[{"value":"22-44332134","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":243,"content":"복무확인서 재발급은 18-33221023 을 제시하시면 됩니다. 다만 무료는 1회뿐입니다.","has_sensitive":true,"entities":[{"value":"18-33221023","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":244,"content":"군번 23-22119912 번으로 복무 부대 정보를 확인하였습니다. 그리고 보안 제한됩니다.","has_sensitive":true,"entities":[{"value":"23-22119912","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":245,"content":"병적기록표에 기재된 17-11008801 군번을 확인하였습니다. 아울러 모든 내용 일치합니다.","has_sensitive":true,"entities":[{"value":"17-11008801","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":246,"content":"현역병 군번 21-00997790 로 훈련 수료 내역을 조회하였습니다. 먼저 증명서를 출력합니다.","has_sensitive":true,"entities":[{"value":"21-00997790","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":247,"content":"군 복무 확인서에 20-99886679 번호가 명시되어 있습니다. 또한 발급 기관도 기재됩니다.","has_sensitive":true,"entities":[{"value":"20-99886679","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":248,"content":"전역예정자 명단에 19-88775568 군번이 포함되어 있습니다. 참고로 전역일 확정되었습니다.","has_sensitive":true,"entities":[{"value":"19-88775568","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":249,"content":"복무 중 교육은 22-77664457 번을 통해 확인됩니다. 다만 비공개 부분이 있습니다.","has_sensitive":true,"entities":[{"value":"22-77664457","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":250,"content":"군번 18-66553346 을 입력하여 병적사항을 조회하였습니다. 그리고 이상 없습니다.","has_sensitive":true,"entities":[{"value":"18-66553346","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":251,"content":"병적증명 발급 시 23-55442235 군번을 제출하셔야 합니다. 아울러 신분 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"23-55442235","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":252,"content":"현역 복무자의 17-44331124 군번으로 휴가 기록을 확인하였습니다. 먼저 승인 건만 표시합니다.","has_sensitive":true,"entities":[{"value":"17-44331124","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":253,"content":"군 복무 기간은 21-33220013 번호로 조회할 수 있습니다. 또한 만기일 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-33220013","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":254,"content":"전역증 발급을 위해 20-22119902 을 제시하시기 바랍니다. 참고로 즉시 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-22119902","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":255,"content":"복무확인서 발급은 19-11008891 군번으로 신청 가능합니다. 다만 수수료 부과됩니다.","has_sensitive":true,"entities":[{"value":"19-11008891","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":256,"content":"군번 22-00997780 번으로 등록된 주소를 확인하였습니다. 그리고 변경 신청이 가능합니다.","has_sensitive":true,"entities":[{"value":"22-00997780","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":257,"content":"병적기록 조회를 위해 18-99886669 을 입력하셨습니다. 아울러 권한 확인되었습니다.","has_sensitive":true,"entities":[{"value":"18-99886669","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":258,"content":"현역병 군번 23-88775558 로 의무복무 기간을 확인하였습니다. 먼저 정확한 날짜 안내합니다.","has_sensitive":true,"entities":[{"value":"23-88775558","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":259,"content":"군 복무 증명은 17-77664447 번호로 발급 가능합니다. 또한 온라인 신청 가능합니다.","has_sensitive":true,"entities":[{"value":"17-77664447","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":260,"content":"전역 후 예비군은 21-66553336 군번으로 편성됩니다. 참고로 통지서 발송됩니다.","has_sensitive":true,"entities":[{"value":"21-66553336","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":261,"content":"복무 관련 민원은 20-55442225 을 말씀해 주시기 바랍니다. 다만 업무시간 확인하세요.","has_sensitive":true,"entities":[{"value":"20-55442225","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":262,"content":"군번 19-44331114 번으로 포상 신청을 접수하였습니다. 그리고 결과 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-44331114","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":263,"content":"병적증명서 발급은 22-33220003 군번으로 가능합니다. 아울러 수수료 없습니다.","has_sensitive":true,"entities":[{"value":"22-33220003","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":264,"content":"현역 복무 확인을 위해 18-22118892 를 조회하였습니다. 먼저 복무 상태 확인합니다.","has_sensitive":true,"entities":[{"value":"18-22118892","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":265,"content":"군 복무 중 군번 23-11007781 번으로 의료 기록을 확인할 수 있습니다. 또한 병원 문의 필요합니다.","has_sensitive":true,"entities":[{"value":"23-11007781","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":266,"content":"전역증 재발급은 17-00996670 군번을 제시하시면 됩니다. 참고로 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"17-00996670","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":267,"content":"복무확인서 발급 시 21-99885569 을 기재하셨습니다. 다만 확인 절차 있습니다.","has_sensitive":true,"entities":[{"value":"21-99885569","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":268,"content":"군번 20-88774458 번으로 훈련 이수 내역을 확인하였습니다. 그리고 수료증 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-88774458","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":269,"content":"병적기록표에 기재된 19-77663347 군번을 확인하였습니다. 아울러 정보 정확합니다.","has_sensitive":true,"entities":[{"value":"19-77663347","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":270,"content":"현역병 군번 22-66552236 로 복무 부대를 조회하였습니다. 먼저 보안 승인 필요합니다.","has_sensitive":true,"entities":[{"value":"22-66552236","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":271,"content":"군 복무 확인서에 18-55441125 번호가 기재되어 있습니다. 또한 유효기간 표시되었습니다.","has_sensitive":true,"entities":[{"value":"18-55441125","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":272,"content":"전역예정일 조회는 23-44330014 군번으로 가능합니다. 참고로 변경 시 안내됩니다.","has_sensitive":true,"entities":[{"value":"23-44330014","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":273,"content":"복무 중 포상은 17-33229903 번을 통해 확인됩니다. 다만 일부 비공개입니다.","has_sensitive":true,"entities":[{"value":"17-33229903","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":274,"content":"군번 21-22118892 을 입력하여 병적사항을 조회하였습니다. 그리고 변경 없습니다.","has_sensitive":true,"entities":[{"value":"21-22118892","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":275,"content":"병적증명 발급 시 20-11007781 군번을 제출하셔야 합니다. 아울러 수수료 납부하세요.","has_sensitive":true,"entities":[{"value":"20-11007781","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":276,"content":"현역 복무자의 19-00996670 군번으로 휴가 신청이 접수되었습니다. 먼저 승인 기다리세요.","has_sensitive":true,"entities":[{"value":"19-00996670","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":277,"content":"군 복무 기간은 22-99885559 번호로 조회 가능합니다. 또한 만료일 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-99885559","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":278,"content":"전역증 발급을 위해 18-88774448 을 제시하시기 바랍니다. 참고로 신속 처리됩니다.","has_sensitive":true,"entities":[{"value":"18-88774448","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":279,"content":"복무확인서 발급은 23-77663337 군번으로 신청하시면 됩니다. 다만 시간 걸립니다.","has_sensitive":true,"entities":[{"value":"23-77663337","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":280,"content":"군번 17-66552226 번으로 등록된 정보를 업데이트하였습니다. 그리고 확인서 출력 가능합니다.","has_sensitive":true,"entities":[{"value":"17-66552226","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":281,"content":"병적기록 조회를 위해 21-55441115 을 입력하셨습니다. 아울러 결과 표시합니다.","has_sensitive":true,"entities":[{"value":"21-55441115","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":282,"content":"현역병 군번 20-44330004 로 의무복무 기간을 확인하였습니다. 먼저 상세 일정 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-44330004","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":283,"content":"군 복무 증명은 19-33228893 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"19-33228893","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":284,"content":"전역 후 예비군은 22-22117782 군번으로 편성됩니다. 참고로 훈련 통지 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-22117782","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":285,"content":"복무 관련 문의는 18-11006671 을 말씀해 주시면 됩니다. 다만 신분 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"18-11006671","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":286,"content":"군번 23-00995560 번으로 포상 기록을 조회하였습니다. 그리고 표창장 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"23-00995560","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":287,"content":"병적증명서 발급은 17-99884449 군번으로 신청하시기 바랍니다. 아울러 신속 처리됩니다.","has_sensitive":true,"entities":[{"value":"17-99884449","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":288,"content":"현역 복무 확인을 위해 21-88773338 를 입력하였습니다. 먼저 시스템 조회합니다.","has_sensitive":true,"entities":[{"value":"21-88773338","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":289,"content":"군 복무 중 군번 20-77662227 번으로 각종 증명서를 발급받을 수 있습니다. 또한 신청 편리합니다.","has_sensitive":true,"entities":[{"value":"20-77662227","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":290,"content":"전역증 발급 신청 시 19-66551116 군번이 필요합니다. 참고로 수수료 없습니다.","has_sensitive":true,"entities":[{"value":"19-66551116","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":291,"content":"복무확인서 재발급은 22-55440005 을 제시하시면 됩니다. 다만 1회만 무료입니다.","has_sensitive":true,"entities":[{"value":"22-55440005","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":292,"content":"군번 18-44339994 번으로 복무 부대 정보를 확인하였습니다. 그리고 보안 제한됩니다.","has_sensitive":true,"entities":[{"value":"18-44339994","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":293,"content":"병적기록표에 기재된 23-33228883 군번을 확인하였습니다. 아울러 모든 내용 일치합니다.","has_sensitive":true,"entities":[{"value":"23-33228883","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":294,"content":"현역병 군번 17-22117772 로 훈련 수료 내역을 조회하였습니다. 먼저 증명서 출력됩니다.","has_sensitive":true,"entities":[{"value":"17-22117772","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":295,"content":"군 복무 확인서에 21-11006661 번호가 명시되어 있습니다. 또한 발급처 기재됩니다.","has_sensitive":true,"entities":[{"value":"21-11006661","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":296,"content":"전역예정자 명단에 20-00995550 군번이 포함되어 있습니다. 참고로 전역일 확정입니다.","has_sensitive":true,"entities":[{"value":"20-00995550","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":297,"content":"복무 중 교육은 19-99884439 번을 통해 확인됩니다. 다만 비공개 있습니다.","has_sensitive":true,"entities":[{"value":"19-99884439","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":298,"content":"군번 22-88773328 을 입력하여 병적사항을 조회하였습니다. 그리고 이상 없습니다.","has_sensitive":true,"entities":[{"value":"22-88773328","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":299,"content":"병적증명 발급 시 18-77662217 군번을 제출하셔야 합니다. 아울러 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"18-77662217","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":300,"content":"현역 복무자의 23-66551106 군번으로 휴가 기록을 확인하였습니다. 먼저 승인 건만 조회됩니다.","has_sensitive":true,"entities":[{"value":"23-66551106","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":301,"content":"군 복무 기간은 17-55449995 번호로 조회할 수 있습니다. 또한 만기일 표시됩니다.","has_sensitive":true,"entities":[{"value":"17-55449995","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":302,"content":"전역증 발급을 위해 21-44338884 을 제시하시기 바랍니다. 참고로 즉시 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-44338884","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":303,"content":"복무확인서 발급은 20-33227773 군번으로 신청 가능합니다. 다만 수수료 부과됩니다.","has_sensitive":true,"entities":[{"value":"20-33227773","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":304,"content":"군번 19-22116662 번으로 등록된 주소를 확인하였습니다. 그리고 변경 가능합니다.","has_sensitive":true,"entities":[{"value":"19-22116662","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":305,"content":"병적기록 조회를 위해 22-11005551 을 입력하셨습니다. 아울러 권한 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-11005551","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":306,"content":"현역병 군번 18-00994440 로 의무복무 기간을 확인하였습니다. 먼저 날짜 안내합니다.","has_sensitive":true,"entities":[{"value":"18-00994440","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":307,"content":"군 복무 증명은 23-99883329 번호로 발급 가능합니다. 또한 온라인 가능합니다.","has_sensitive":true,"entities":[{"value":"23-99883329","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":308,"content":"전역 후 예비군은 17-88772218 군번으로 편성됩니다. 참고로 통지 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-88772218","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":309,"content":"복무 관련 민원은 21-77661107 을 말씀해 주시기 바랍니다. 다만 업무시간 내입니다.","has_sensitive":true,"entities":[{"value":"21-77661107","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":310,"content":"군번 20-66559996 번으로 포상 신청을 접수하였습니다. 그리고 결과 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-66559996","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":311,"content":"병적증명서 발급은 19-55448885 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"19-55448885","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":312,"content":"현역 복무 확인을 위해 22-44337774 를 조회하였습니다. 먼저 상태 확인합니다.","has_sensitive":true,"entities":[{"value":"22-44337774","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":313,"content":"군 복무 중 군번 18-33226663 번으로 의료 기록을 확인할 수 있습니다. 또한 문의 필요합니다.","has_sensitive":true,"entities":[{"value":"18-33226663","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":314,"content":"전역증 재발급은 23-22115552 군번을 제시하시면 됩니다. 참고로 3일 소요됩니다.","has_sensitive":true,"entities":[{"value":"23-22115552","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":315,"content":"복무확인서 발급 시 17-11004441 을 기재하셨습니다. 다만 확인 있습니다.","has_sensitive":true,"entities":[{"value":"17-11004441","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":316,"content":"군번 21-00993330 번으로 훈련 이수 내역을 확인하였습니다. 그리고 수료증 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-00993330","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":317,"content":"병적기록표에 기재된 20-99882219 군번을 확인하였습니다. 아울러 정보 정확합니다.","has_sensitive":true,"entities":[{"value":"20-99882219","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":318,"content":"현역병 군번 19-88771108 로 복무 부대를 조회하였습니다. 먼저 승인 필요합니다.","has_sensitive":true,"entities":[{"value":"19-88771108","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":319,"content":"군 복무 확인서에 22-77669997 번호가 기재되어 있습니다. 또한 기간 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-77669997","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":320,"content":"전역예정일 조회는 18-66558886 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"18-66558886","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":321,"content":"복무 중 포상은 23-55447775 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-55447775","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":322,"content":"군번 17-44336664 을 입력하여 병적사항을 조회하였습니다. 그리고 변경 없습니다.","has_sensitive":true,"entities":[{"value":"17-44336664","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":323,"content":"병적증명 발급 시 21-33225553 군번을 제출하셔야 합니다. 아울러 수수료 내세요.","has_sensitive":true,"entities":[{"value":"21-33225553","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":324,"content":"현역 복무자의 20-22114442 군번으로 휴가 신청이 접수되었습니다. 먼저 승인 진행됩니다.","has_sensitive":true,"entities":[{"value":"20-22114442","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":325,"content":"군 복무 기간은 19-11003331 번호로 조회 가능합니다. 또한 만료일 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-11003331","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":326,"content":"전역증 발급을 위해 22-00992220 을 제시하시기 바랍니다. 참고로 신속 처리됩니다.","has_sensitive":true,"entities":[{"value":"22-00992220","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":327,"content":"복무확인서 발급은 18-99881109 군번으로 신청하시면 됩니다. 다만 시간 걸립니다.","has_sensitive":true,"entities":[{"value":"18-99881109","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":328,"content":"군번 23-88779998 번으로 등록된 정보를 업데이트하였습니다. 그리고 확인 가능합니다.","has_sensitive":true,"entities":[{"value":"23-88779998","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":329,"content":"병적기록 조회를 위해 17-77668887 을 입력하셨습니다. 아울러 결과 표시합니다.","has_sensitive":true,"entities":[{"value":"17-77668887","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":330,"content":"현역병 군번 21-66557776 로 의무복무 기간을 확인하였습니다. 먼저 일정 통보됩니다.","has_sensitive":true,"entities":[{"value":"21-66557776","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":331,"content":"군 복무 증명은 20-55446665 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"20-55446665","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":332,"content":"전역 후 예비군은 19-44335554 군번으로 편성됩니다. 참고로 통지 발송됩니다.","has_sensitive":true,"entities":[{"value":"19-44335554","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":333,"content":"복무 관련 문의는 22-33224443 을 말씀해 주시면 됩니다. 다만 확인 필요합니다.","has_sensitive":true,"entities":[{"value":"22-33224443","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":334,"content":"군번 18-22113332 번으로 포상 기록을 조회하였습니다. 그리고 발급 가능합니다.","has_sensitive":true,"entities":[{"value":"18-22113332","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":335,"content":"병적증명서 발급은 23-11002221 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"23-11002221","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":336,"content":"현역 복무 확인을 위해 17-00991110 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"17-00991110","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":337,"content":"군 복무 중 군번 21-99889999 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"21-99889999","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":338,"content":"전역증 발급 신청 시 20-88778888 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"20-88778888","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":339,"content":"복무확인서 재발급은 19-77667777 을 제시하시면 됩니다. 다만 무료는 1회입니다.","has_sensitive":true,"entities":[{"value":"19-77667777","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":340,"content":"군번 22-66556666 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"22-66556666","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":341,"content":"병적기록표에 기재된 18-55445555 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"18-55445555","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":342,"content":"현역병 군번 23-44334444 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"23-44334444","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":343,"content":"군 복무 확인서에 17-33223333 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"17-33223333","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":344,"content":"전역예정자 명단에 21-22112222 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"21-22112222","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":345,"content":"복무 중 교육은 20-11001111 번을 통해 확인됩니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"20-11001111","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":346,"content":"군번 19-00990000 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"19-00990000","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":347,"content":"병적증명 발급 시 22-99888899 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"22-99888899","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":348,"content":"현역 복무자의 18-88777788 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"18-88777788","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":349,"content":"군 복무 기간은 23-77666677 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"23-77666677","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":350,"content":"전역증 발급을 위해 17-66555566 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"17-66555566","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":351,"content":"복무확인서 발급은 21-55444455 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"21-55444455","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":352,"content":"군번 20-44333344 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-44333344","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":353,"content":"병적기록 조회를 위해 19-33222233 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-33222233","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":354,"content":"현역병 군번 22-22111122 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"22-22111122","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":355,"content":"군 복무 증명은 18-11000011 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"18-11000011","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":356,"content":"전역 후 예비군은 23-00999900 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"23-00999900","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":357,"content":"복무 관련 민원은 17-99888889 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"17-99888889","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":358,"content":"군번 21-88777778 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"21-88777778","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":359,"content":"병적증명서 발급은 20-77666667 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"20-77666667","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":360,"content":"현역 복무 확인을 위해 19-66555556 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"19-66555556","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":361,"content":"군 복무 중 군번 22-55444445 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"22-55444445","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":362,"content":"전역증 재발급은 18-44333334 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"18-44333334","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":363,"content":"복무확인서 발급 시 23-33222223 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"23-33222223","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":364,"content":"군번 17-22111112 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"17-22111112","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":365,"content":"병적기록표에 기재된 21-11000001 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"21-11000001","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":366,"content":"현역병 군번 20-00999990 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"20-00999990","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":367,"content":"군 복무 확인서에 19-99888879 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"19-99888879","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":368,"content":"전역예정일 조회는 22-88777768 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"22-88777768","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":369,"content":"복무 중 포상은 18-77666657 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"18-77666657","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":370,"content":"군번 23-66555546 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"23-66555546","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":371,"content":"병적증명 발급 시 17-55444435 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"17-55444435","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":372,"content":"현역 복무자의 21-44333324 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"21-44333324","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":373,"content":"군 복무 기간은 20-33222213 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"20-33222213","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":374,"content":"전역증 발급을 위해 19-22111102 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"19-22111102","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":375,"content":"복무확인서 발급은 22-11009991 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"22-11009991","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":376,"content":"군번 18-00998880 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"18-00998880","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":377,"content":"병적기록 조회를 위해 23-99887769 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"23-99887769","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":378,"content":"현역병 군번 17-88776658 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"17-88776658","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":379,"content":"군 복무 증명은 21-77665547 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"21-77665547","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":380,"content":"전역 후 예비군은 20-66554436 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"20-66554436","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":381,"content":"복무 관련 문의는 19-55443325 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"19-55443325","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":382,"content":"군번 22-44332214 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-44332214","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":383,"content":"병적증명서 발급은 18-33221103 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"18-33221103","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":384,"content":"현역 복무 확인을 위해 23-22119992 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"23-22119992","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":385,"content":"군 복무 중 군번 17-11008881 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"17-11008881","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":386,"content":"전역증 발급 신청 시 21-00997770 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"21-00997770","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":387,"content":"복무확인서 재발급은 20-99886659 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"20-99886659","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":388,"content":"군번 19-88775548 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"19-88775548","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":389,"content":"병적기록표에 기재된 22-77664437 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"22-77664437","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":390,"content":"현역병 군번 18-66553326 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"18-66553326","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":391,"content":"군 복무 확인서에 23-55442215 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"23-55442215","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":392,"content":"전역예정자 명단에 17-44331104 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"17-44331104","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":393,"content":"복무 중 교육은 21-33229993 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"21-33229993","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":394,"content":"군번 20-22118882 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"20-22118882","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":395,"content":"병적증명 발급 시 19-11007771 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"19-11007771","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":396,"content":"현역 복무자의 22-00996660 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"22-00996660","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":397,"content":"군 복무 기간은 18-99885549 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"18-99885549","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":398,"content":"전역증 발급을 위해 23-88774438 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"23-88774438","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":399,"content":"복무확인서 발급은 17-77663327 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"17-77663327","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":400,"content":"군번 21-66552216 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-66552216","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":401,"content":"병적기록 조회를 위해 20-55441105 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"20-55441105","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":402,"content":"현역병 군번 19-44339994 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"19-44339994","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":403,"content":"군 복무 증명은 22-33228883 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"22-33228883","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":404,"content":"전역 후 예비군은 18-22117772 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"18-22117772","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":405,"content":"복무 관련 민원은 23-11006661 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"23-11006661","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":406,"content":"군번 17-00995550 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"17-00995550","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":407,"content":"병적증명서 발급은 21-99884439 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"21-99884439","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":408,"content":"현역 복무 확인을 위해 20-88773328 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"20-88773328","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":409,"content":"군 복무 중 군번 19-77662217 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"19-77662217","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":410,"content":"전역증 재발급은 22-66551106 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"22-66551106","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":411,"content":"복무확인서 발급 시 18-55449995 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"18-55449995","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":412,"content":"군번 23-44338884 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"23-44338884","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":413,"content":"병적기록표에 기재된 17-33227773 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"17-33227773","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":414,"content":"현역병 군번 21-22116662 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"21-22116662","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":415,"content":"군 복무 확인서에 20-11005551 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-11005551","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":416,"content":"전역예정일 조회는 19-00994440 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"19-00994440","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":417,"content":"복무 중 포상은 22-99883329 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"22-99883329","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":418,"content":"군번 18-88772218 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"18-88772218","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":419,"content":"병적증명 발급 시 23-77661107 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"23-77661107","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":420,"content":"현역 복무자의 17-66559996 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"17-66559996","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":421,"content":"군 복무 기간은 21-55448885 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"21-55448885","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":422,"content":"전역증 발급을 위해 20-44337774 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"20-44337774","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":423,"content":"복무확인서 발급은 19-33226663 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"19-33226663","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":424,"content":"군번 22-22115552 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-22115552","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":425,"content":"병적기록 조회를 위해 18-11004441 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"18-11004441","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":426,"content":"현역병 군번 23-00993330 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"23-00993330","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":427,"content":"군 복무 증명은 17-99882219 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"17-99882219","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":428,"content":"전역 후 예비군은 21-88771108 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"21-88771108","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":429,"content":"복무 관련 문의는 20-77669997 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"20-77669997","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":430,"content":"군번 19-66558886 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-66558886","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":431,"content":"병적증명서 발급은 22-55447775 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"22-55447775","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":432,"content":"현역 복무 확인을 위해 18-44336664 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"18-44336664","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":433,"content":"군 복무 중 군번 23-33225553 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"23-33225553","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":434,"content":"전역증 발급 신청 시 17-22114442 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"17-22114442","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":435,"content":"복무확인서 재발급은 21-11003331 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"21-11003331","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":436,"content":"군번 20-00992220 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"20-00992220","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":437,"content":"병적기록표에 기재된 19-99881109 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"19-99881109","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":438,"content":"현역병 군번 22-88779998 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"22-88779998","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":439,"content":"군 복무 확인서에 18-77668887 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"18-77668887","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":440,"content":"전역예정자 명단에 23-66557776 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"23-66557776","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":441,"content":"복무 중 교육은 17-55446665 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"17-55446665","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":442,"content":"군번 21-44335554 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"21-44335554","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":443,"content":"병적증명 발급 시 20-33224443 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"20-33224443","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":444,"content":"현역 복무자의 19-22113332 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"19-22113332","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":445,"content":"군 복무 기간은 22-11002221 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-11002221","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":446,"content":"전역증 발급을 위해 18-00991110 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"18-00991110","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":447,"content":"복무확인서 발급은 23-99889999 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"23-99889999","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":448,"content":"군번 17-88778888 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-88778888","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":449,"content":"병적기록 조회를 위해 21-77667777 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"21-77667777","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":450,"content":"현역병 군번 20-66556666 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"20-66556666","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":451,"content":"군 복무 증명은 19-55445555 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"19-55445555","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":452,"content":"전역 후 예비군은 22-44334444 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-44334444","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":453,"content":"복무 관련 민원은 18-33223333 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"18-33223333","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":454,"content":"군번 23-22112222 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"23-22112222","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":455,"content":"병적증명서 발급은 17-11001111 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"17-11001111","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":456,"content":"현역 복무 확인을 위해 21-00990000 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"21-00990000","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":457,"content":"군 복무 중 군번 20-99888899 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"20-99888899","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":458,"content":"전역증 재발급은 19-88777788 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"19-88777788","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":459,"content":"복무확인서 발급 시 22-77666677 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"22-77666677","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":460,"content":"군번 18-66555566 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"18-66555566","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":461,"content":"병적기록표에 기재된 23-55444455 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"23-55444455","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":462,"content":"현역병 군번 17-44333344 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"17-44333344","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":463,"content":"군 복무 확인서에 21-33222233 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-33222233","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":464,"content":"전역예정일 조회는 20-22111122 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"20-22111122","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":465,"content":"복무 중 포상은 19-11000011 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"19-11000011","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":466,"content":"군번 22-00999900 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"22-00999900","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":467,"content":"병적증명 발급 시 18-99888889 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"18-99888889","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":468,"content":"현역 복무자의 23-88777778 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"23-88777778","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":469,"content":"군 복무 기간은 17-77666667 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"17-77666667","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":470,"content":"전역증 발급을 위해 21-66555556 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"21-66555556","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":471,"content":"복무확인서 발급은 20-55444445 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"20-55444445","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":472,"content":"군번 19-44333334 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-44333334","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":473,"content":"병적기록 조회를 위해 22-33222223 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"22-33222223","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":474,"content":"현역병 군번 18-22111112 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"18-22111112","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":475,"content":"군 복무 증명은 23-11000001 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"23-11000001","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":476,"content":"전역 후 예비군은 17-00999990 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-00999990","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":477,"content":"복무 관련 문의는 21-99888879 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"21-99888879","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":478,"content":"군번 20-88777768 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-88777768","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":479,"content":"병적증명서 발급은 19-77666657 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"19-77666657","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":480,"content":"현역 복무 확인을 위해 22-66555546 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"22-66555546","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":481,"content":"군 복무 중 군번 18-55444435 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"18-55444435","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":482,"content":"전역증 발급 신청 시 23-44333324 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"23-44333324","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":483,"content":"복무확인서 재발급은 17-33222213 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"17-33222213","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":484,"content":"군번 21-22111102 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"21-22111102","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":485,"content":"병적기록표에 기재된 20-11009991 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"20-11009991","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":486,"content":"현역병 군번 19-00998880 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"19-00998880","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":487,"content":"군 복무 확인서에 22-99887769 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"22-99887769","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":488,"content":"전역예정자 명단에 18-88776658 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"18-88776658","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":489,"content":"복무 중 교육은 23-77665547 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-77665547","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":490,"content":"군번 17-66554436 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"17-66554436","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":491,"content":"병적증명 발급 시 21-55443325 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"21-55443325","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":492,"content":"현역 복무자의 20-44332214 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"20-44332214","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":493,"content":"군 복무 기간은 19-33221103 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"19-33221103","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":494,"content":"전역증 발급을 위해 22-22119992 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-22119992","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":495,"content":"복무확인서 발급은 18-11008881 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"18-11008881","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":496,"content":"군번 23-00997770 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"23-00997770","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":497,"content":"병적기록 조회를 위해 17-99886659 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"17-99886659","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":498,"content":"현역병 군번 21-88775548 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"21-88775548","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":499,"content":"군 복무 증명은 20-77664437 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"20-77664437","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":500,"content":"전역 후 예비군은 19-66553326 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"19-66553326","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":501,"content":"복무 관련 민원은 22-55442215 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"22-55442215","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":502,"content":"군번 18-44331104 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"18-44331104","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":503,"content":"병적증명서 발급은 23-33229993 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"23-33229993","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":504,"content":"현역 복무 확인을 위해 17-22118882 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"17-22118882","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":505,"content":"군 복무 중 군번 21-11007771 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"21-11007771","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":506,"content":"전역증 재발급은 20-00996660 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"20-00996660","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":507,"content":"복무확인서 발급 시 19-99885549 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"19-99885549","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":508,"content":"군번 22-88774438 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-88774438","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":509,"content":"병적기록표에 기재된 18-77663327 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"18-77663327","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":510,"content":"현역병 군번 23-66552216 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"23-66552216","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":511,"content":"군 복무 확인서에 17-55441105 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"17-55441105","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":512,"content":"전역예정일 조회는 21-44339994 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"21-44339994","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":513,"content":"복무 중 포상은 20-33228883 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"20-33228883","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":514,"content":"군번 19-22117772 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"19-22117772","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":515,"content":"병적증명 발급 시 22-11006661 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"22-11006661","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":516,"content":"현역 복무자의 18-00995550 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"18-00995550","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":517,"content":"군 복무 기간은 23-99884439 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"23-99884439","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":518,"content":"전역증 발급을 위해 17-88773328 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"17-88773328","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":519,"content":"복무확인서 발급은 21-77662217 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"21-77662217","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":520,"content":"군번 20-66551106 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-66551106","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":521,"content":"병적기록 조회를 위해 19-55449995 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"19-55449995","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":522,"content":"현역병 군번 22-44338884 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"22-44338884","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":523,"content":"군 복무 증명은 18-33227773 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"18-33227773","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":524,"content":"전역 후 예비군은 23-22116662 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"23-22116662","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":525,"content":"복무 관련 문의는 17-11005551 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"17-11005551","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":526,"content":"군번 21-00994440 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-00994440","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":527,"content":"병적증명서 발급은 20-99883329 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"20-99883329","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":528,"content":"현역 복무 확인을 위해 19-88772218 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"19-88772218","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":529,"content":"군 복무 중 군번 22-77661107 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"22-77661107","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":530,"content":"전역증 발급 신청 시 18-66559996 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"18-66559996","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":531,"content":"복무확인서 재발급은 23-55448885 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"23-55448885","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":532,"content":"군번 17-44337774 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"17-44337774","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":533,"content":"병적기록표에 기재된 21-33226663 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"21-33226663","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":534,"content":"현역병 군번 20-22115552 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"20-22115552","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":535,"content":"군 복무 확인서에 19-11004441 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"19-11004441","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":536,"content":"전역예정자 명단에 22-00993330 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"22-00993330","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":537,"content":"복무 중 교육은 18-99882219 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"18-99882219","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":538,"content":"군번 23-88771108 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"23-88771108","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":539,"content":"병적증명 발급 시 17-77669997 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"17-77669997","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":540,"content":"현역 복무자의 21-66558886 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"21-66558886","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":541,"content":"군 복무 기간은 20-55447775 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-55447775","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":542,"content":"전역증 발급을 위해 19-44336664 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"19-44336664","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":543,"content":"복무확인서 발급은 22-33225553 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"22-33225553","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":544,"content":"군번 18-22114442 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"18-22114442","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":545,"content":"병적기록 조회를 위해 23-11003331 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"23-11003331","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":546,"content":"현역병 군번 17-00992220 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"17-00992220","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":547,"content":"군 복무 증명은 21-99881109 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"21-99881109","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":548,"content":"전역 후 예비군은 20-88779998 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"20-88779998","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":549,"content":"복무 관련 민원은 19-77668887 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"19-77668887","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":550,"content":"군번 22-66557776 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"22-66557776","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":551,"content":"병적증명서 발급은 18-55446665 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"18-55446665","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":552,"content":"현역 복무 확인을 위해 23-44335554 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"23-44335554","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":553,"content":"군 복무 중 군번 17-33224443 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"17-33224443","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":554,"content":"전역증 재발급은 21-22113332 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"21-22113332","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":555,"content":"복무확인서 발급 시 20-11002221 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"20-11002221","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":556,"content":"군번 19-00991110 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"19-00991110","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":557,"content":"병적기록표에 기재된 22-99889999 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"22-99889999","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":558,"content":"현역병 군번 18-88778888 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"18-88778888","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":559,"content":"군 복무 확인서에 23-77667777 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"23-77667777","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":560,"content":"전역예정일 조회는 17-66556666 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"17-66556666","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":561,"content":"복무 중 포상은 21-55445555 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"21-55445555","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":562,"content":"군번 20-44334444 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"20-44334444","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":563,"content":"병적증명 발급 시 19-33223333 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"19-33223333","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":564,"content":"현역 복무자의 22-22112222 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"22-22112222","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":565,"content":"군 복무 기간은 18-11001111 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"18-11001111","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":566,"content":"전역증 발급을 위해 23-12345679 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"23-12345679","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":567,"content":"복무확인서 발급은 17-23456780 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"17-23456780","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":568,"content":"군번 21-34567891 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-34567891","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":569,"content":"병적기록 조회를 위해 20-45678902 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"20-45678902","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":570,"content":"현역병 군번 19-56789013 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-56789013","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":571,"content":"군 복무 증명은 22-67890124 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"22-67890124","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":572,"content":"전역 후 예비군은 18-78901235 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"18-78901235","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":573,"content":"복무 관련 문의는 23-89012346 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"23-89012346","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":574,"content":"군번 17-90123457 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-90123457","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":575,"content":"병적증명서 발급은 21-01234568 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"21-01234568","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":576,"content":"현역 복무 확인을 위해 20-12345670 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"20-12345670","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":577,"content":"군 복무 중 군번 19-23456781 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"19-23456781","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":578,"content":"전역증 발급 신청 시 22-34567892 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"22-34567892","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":579,"content":"복무확인서 재발급은 18-45678903 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"18-45678903","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":580,"content":"군번 23-56789014 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"23-56789014","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":581,"content":"병적기록표에 기재된 17-67890125 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"17-67890125","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":582,"content":"현역병 군번 21-78901236 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"21-78901236","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":583,"content":"군 복무 확인서에 20-89012347 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"20-89012347","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":584,"content":"전역예정자 명단에 19-90123458 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"19-90123458","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":585,"content":"복무 중 교육은 22-01234569 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"22-01234569","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":586,"content":"군번 18-13579246 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"18-13579246","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":587,"content":"병적증명 발급 시 23-24680357 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"23-24680357","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":588,"content":"현역 복무자의 17-35791468 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"17-35791468","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":589,"content":"군 복무 기간은 21-46802579 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-46802579","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":590,"content":"전역증 발급을 위해 20-57913680 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-57913680","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":591,"content":"복무확인서 발급은 19-68024791 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"19-68024791","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":592,"content":"군번 22-79135802 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-79135802","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":593,"content":"병적기록 조회를 위해 18-80246913 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"18-80246913","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":594,"content":"현역병 군번 23-91358024 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"23-91358024","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":595,"content":"군 복무 증명은 17-02469135 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"17-02469135","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":596,"content":"전역 후 예비군은 21-13570246 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"21-13570246","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":597,"content":"복무 관련 민원은 20-24681357 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"20-24681357","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":598,"content":"군번 19-35792468 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-35792468","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":599,"content":"병적증명서 발급은 22-46803579 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"22-46803579","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":600,"content":"현역 복무 확인을 위해 18-57914680 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"18-57914680","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":601,"content":"군 복무 중 군번 23-68025791 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"23-68025791","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":602,"content":"전역증 재발급은 17-79136802 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"17-79136802","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":603,"content":"복무확인서 발급 시 21-80247913 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"21-80247913","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":604,"content":"군번 20-91359024 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-91359024","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":605,"content":"병적기록표에 기재된 19-02460135 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"19-02460135","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":606,"content":"현역병 군번 22-13571246 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"22-13571246","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":607,"content":"군 복무 확인서에 18-24682357 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"18-24682357","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":608,"content":"전역예정일 조회는 23-35793468 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"23-35793468","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":609,"content":"복무 중 포상은 17-46804579 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"17-46804579","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":610,"content":"군번 21-57915680 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"21-57915680","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":611,"content":"병적증명 발급 시 20-68026791 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"20-68026791","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":612,"content":"현역 복무자의 19-79137802 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"19-79137802","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":613,"content":"군 복무 기간은 22-80248913 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-80248913","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":614,"content":"전역증 발급을 위해 18-91350024 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"18-91350024","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":615,"content":"복무확인서 발급은 23-02461135 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"23-02461135","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":616,"content":"군번 17-98765432 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-98765432","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":617,"content":"병적기록 조회를 위해 21-87654321 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"21-87654321","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":618,"content":"현역병 군번 20-76543210 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-76543210","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":619,"content":"군 복무 증명은 19-65432109 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"19-65432109","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":620,"content":"전역 후 예비군은 22-54321098 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-54321098","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":621,"content":"복무 관련 문의는 18-43210987 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"18-43210987","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":622,"content":"군번 23-32109876 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"23-32109876","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":623,"content":"병적증명서 발급은 17-21098765 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"17-21098765","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":624,"content":"현역 복무 확인을 위해 21-10987654 를 입력하였습니다. 먼저 조회합니다.","has_sensitive":true,"entities":[{"value":"21-10987654","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":625,"content":"군 복무 중 군번 20-09876543 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"20-09876543","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":626,"content":"전역증 발급 신청 시 19-98765431 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"19-98765431","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":627,"content":"복무확인서 재발급은 22-87654320 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"22-87654320","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":628,"content":"군번 18-76543219 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"18-76543219","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":629,"content":"병적기록표에 기재된 23-65432108 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"23-65432108","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":630,"content":"현역병 군번 17-54321097 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"17-54321097","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":631,"content":"군 복무 확인서에 21-43210986 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"21-43210986","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":632,"content":"전역예정자 명단에 20-32109875 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"20-32109875","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":633,"content":"복무 중 교육은 19-21098764 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"19-21098764","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":634,"content":"군번 22-10987653 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"22-10987653","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":635,"content":"병적증명 발급 시 18-09876542 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"18-09876542","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":636,"content":"현역 복무자의 23-98765430 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"23-98765430","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":637,"content":"군 복무 기간은 17-87654329 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"17-87654329","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":638,"content":"전역증 발급을 위해 21-76543218 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-76543218","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":639,"content":"복무확인서 발급은 20-65432107 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"20-65432107","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":640,"content":"군번 19-54321096 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-54321096","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":641,"content":"병적기록 조회를 위해 22-43210985 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-43210985","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":642,"content":"현역병 군번 18-32109874 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"18-32109874","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":643,"content":"군 복무 증명은 23-21098763 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"23-21098763","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":644,"content":"전역 후 예비군은 17-10987652 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-10987652","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":645,"content":"복무 관련 민원은 21-09876541 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"21-09876541","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":646,"content":"군번 20-11111111 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-11111111","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":647,"content":"병적증명서 발급은 19-22222222 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"19-22222222","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":648,"content":"현역 복무 확인을 위해 22-33333333 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"22-33333333","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":649,"content":"군 복무 중 군번 18-44444444 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"18-44444444","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":650,"content":"전역증 재발급은 23-55555555 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"23-55555555","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":651,"content":"복무확인서 발급 시 17-66666666 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"17-66666666","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":652,"content":"군번 21-77777777 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-77777777","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":653,"content":"병적기록표에 기재된 20-88888888 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"20-88888888","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":654,"content":"현역병 군번 19-99999999 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"19-99999999","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":655,"content":"군 복무 확인서에 22-12121212 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-12121212","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":656,"content":"전역예정일 조회는 18-23232323 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"18-23232323","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":657,"content":"복무 중 포상은 23-34343434 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-34343434","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":658,"content":"군번 17-45454545 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"17-45454545","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":659,"content":"병적증명 발급 시 21-56565656 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"21-56565656","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":660,"content":"현역 복무자의 20-67676767 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"20-67676767","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":661,"content":"군 복무 기간은 19-78787878 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-78787878","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":662,"content":"전역증 발급을 위해 22-89898989 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"22-89898989","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":663,"content":"복무확인서 발급은 18-90909090 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"18-90909090","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":664,"content":"군번 23-01010101 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"23-01010101","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":665,"content":"병적기록 조회를 위해 17-13131313 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"17-13131313","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":666,"content":"현역병 군번 21-24242424 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"21-24242424","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":667,"content":"군 복무 증명은 20-35353535 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"20-35353535","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":668,"content":"전역 후 예비군은 19-46464646 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"19-46464646","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":669,"content":"복무 관련 문의는 22-57575757 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"22-57575757","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":670,"content":"군번 18-68686868 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"18-68686868","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":671,"content":"병적증명서 발급은 23-79797979 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"23-79797979","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":672,"content":"현역 복무 확인을 위해 17-80808080 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"17-80808080","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":673,"content":"군 복무 중 군번 21-91919191 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"21-91919191","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":674,"content":"전역증 발급 신청 시 20-02020202 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"20-02020202","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":675,"content":"복무확인서 재발급은 19-14141414 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"19-14141414","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":676,"content":"군번 22-25252525 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"22-25252525","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":677,"content":"병적기록표에 기재된 18-36363636 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"18-36363636","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":678,"content":"현역병 군번 23-47474747 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"23-47474747","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":679,"content":"군 복무 확인서에 17-58585858 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"17-58585858","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":680,"content":"전역예정자 명단에 21-69696969 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"21-69696969","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":681,"content":"복무 중 교육은 20-70707070 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"20-70707070","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":682,"content":"군번 19-81818181 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"19-81818181","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":683,"content":"병적증명 발급 시 22-92929292 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"22-92929292","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":684,"content":"현역 복무자의 18-03030303 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"18-03030303","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":685,"content":"군 복무 기간은 23-15151515 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"23-15151515","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":686,"content":"전역증 발급을 위해 17-26262626 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"17-26262626","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":687,"content":"복무확인서 발급은 21-37373737 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"21-37373737","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":688,"content":"군번 20-48484848 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-48484848","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":689,"content":"병적기록 조회를 위해 19-59595959 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-59595959","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":690,"content":"현역병 군번 22-60606060 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"22-60606060","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":691,"content":"군 복무 증명은 18-71717171 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"18-71717171","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":692,"content":"전역 후 예비군은 23-82828282 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"23-82828282","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":693,"content":"복무 관련 민원은 17-93939393 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"17-93939393","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":694,"content":"군번 21-04040404 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"21-04040404","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":695,"content":"병적증명서 발급은 20-16161616 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"20-16161616","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":696,"content":"현역 복무 확인을 위해 19-27272727 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"19-27272727","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":697,"content":"군 복무 중 군번 22-38383838 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"22-38383838","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":698,"content":"전역증 재발급은 18-49494949 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"18-49494949","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":699,"content":"복무확인서 발급 시 23-50505050 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"23-50505050","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":700,"content":"군번 17-61616161 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"17-61616161","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":701,"content":"병적기록표에 기재된 21-72727272 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"21-72727272","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":702,"content":"현역병 군번 20-83838383 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"20-83838383","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":703,"content":"군 복무 확인서에 19-94949494 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"19-94949494","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":704,"content":"전역예정일 조회는 22-05050505 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"22-05050505","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":705,"content":"복무 중 포상은 18-17171717 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"18-17171717","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":706,"content":"군번 23-28282828 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"23-28282828","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":707,"content":"병적증명 발급 시 17-39393939 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"17-39393939","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":708,"content":"현역 복무자의 21-40404040 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"21-40404040","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":709,"content":"군 복무 기간은 20-51515151 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"20-51515151","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":710,"content":"전역증 발급을 위해 19-62626262 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"19-62626262","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":711,"content":"복무확인서 발급은 22-73737373 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"22-73737373","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":712,"content":"군번 18-84848484 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"18-84848484","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":713,"content":"병적기록 조회를 위해 23-95959595 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"23-95959595","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":714,"content":"현역병 군번 17-06060606 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"17-06060606","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":715,"content":"군 복무 증명은 21-18181818 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"21-18181818","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":716,"content":"전역 후 예비군은 20-29292929 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"20-29292929","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":717,"content":"복무 관련 문의는 19-30303030 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"19-30303030","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":718,"content":"군번 22-41414141 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-41414141","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":719,"content":"병적증명서 발급은 18-52525252 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"18-52525252","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":720,"content":"현역 복무 확인을 위해 23-63636363 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"23-63636363","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":721,"content":"군 복무 중 군번 17-74747474 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"17-74747474","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":722,"content":"전역증 발급 신청 시 21-85858585 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"21-85858585","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":723,"content":"복무확인서 재발급은 20-96969696 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"20-96969696","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":724,"content":"군번 19-07070707 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"19-07070707","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":725,"content":"병적기록표에 기재된 22-19191919 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"22-19191919","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":726,"content":"현역병 군번 18-20202020 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"18-20202020","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":727,"content":"군 복무 확인서에 23-31313131 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"23-31313131","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":728,"content":"전역예정자 명단에 17-42424242 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"17-42424242","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":729,"content":"복무 중 교육은 21-53535353 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"21-53535353","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":730,"content":"군번 20-64646464 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"20-64646464","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":731,"content":"병적증명 발급 시 19-75757575 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"19-75757575","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":732,"content":"현역 복무자의 22-86868686 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"22-86868686","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":733,"content":"군 복무 기간은 18-97979797 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"18-97979797","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":734,"content":"전역증 발급을 위해 23-08080808 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"23-08080808","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":735,"content":"복무확인서 발급은 17-10101010 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"17-10101010","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":736,"content":"군번 21-21212121 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-21212121","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":737,"content":"병적기록 조회를 위해 20-32323232 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"20-32323232","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":738,"content":"현역병 군번 19-43434343 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"19-43434343","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":739,"content":"군 복무 증명은 22-54545454 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"22-54545454","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":740,"content":"전역 후 예비군은 18-65656565 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"18-65656565","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":741,"content":"복무 관련 민원은 23-76767676 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"23-76767676","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":742,"content":"군번 17-87878787 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"17-87878787","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":743,"content":"병적증명서 발급은 21-98989898 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"21-98989898","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":744,"content":"현역 복무 확인을 위해 20-09090909 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"20-09090909","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":745,"content":"군 복무 중 군번 19-11121314 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"19-11121314","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":746,"content":"전역증 재발급은 22-22232425 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"22-22232425","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":747,"content":"복무확인서 발급 시 18-33343536 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"18-33343536","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":748,"content":"군번 23-44454647 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"23-44454647","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":749,"content":"병적기록표에 기재된 17-55565758 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"17-55565758","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":750,"content":"현역병 군번 21-66676869 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"21-66676869","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":751,"content":"군 복무 확인서에 20-77787970 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-77787970","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":752,"content":"전역예정일 조회는 19-88899081 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"19-88899081","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":753,"content":"복무 중 포상은 22-99900192 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"22-99900192","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":754,"content":"군번 18-10203040 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"18-10203040","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":755,"content":"병적증명 발급 시 23-20304050 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"23-20304050","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":756,"content":"현역 복무자의 17-30405060 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"17-30405060","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":757,"content":"군 복무 기간은 21-40506070 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"21-40506070","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":758,"content":"전역증 발급을 위해 20-50607080 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"20-50607080","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":759,"content":"복무확인서 발급은 19-60708090 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"19-60708090","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":760,"content":"군번 22-70809001 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-70809001","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":761,"content":"병적기록 조회를 위해 18-80901012 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"18-80901012","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":762,"content":"현역병 군번 23-91012023 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"23-91012023","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":763,"content":"군 복무 증명은 17-01023034 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"17-01023034","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":764,"content":"전역 후 예비군은 21-12034045 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"21-12034045","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":765,"content":"복무 관련 문의는 20-23045056 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"20-23045056","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":766,"content":"군번 19-34056067 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-34056067","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":767,"content":"병적증명서 발급은 22-45067078 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"22-45067078","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":768,"content":"현역 복무 확인을 위해 18-56078089 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"18-56078089","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":769,"content":"군 복무 중 군번 23-67089090 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"23-67089090","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":770,"content":"전역증 발급 신청 시 17-78090001 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"17-78090001","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":771,"content":"복무확인서 재발급은 21-89001012 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"21-89001012","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":772,"content":"군번 20-90012123 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"20-90012123","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":773,"content":"병적기록표에 기재된 19-01123234 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"19-01123234","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":774,"content":"현역병 군번 22-12234345 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"22-12234345","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":775,"content":"군 복무 확인서에 18-23345456 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"18-23345456","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":776,"content":"전역예정자 명단에 23-34456567 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"23-34456567","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":777,"content":"복무 중 교육은 17-45567678 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"17-45567678","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":778,"content":"군번 21-56678789 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"21-56678789","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":779,"content":"병적증명 발급 시 20-67789890 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"20-67789890","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":780,"content":"현역 복무자의 19-78890901 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"19-78890901","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":781,"content":"군 복무 기간은 22-89901012 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-89901012","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":782,"content":"전역증 발급을 위해 18-90012223 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"18-90012223","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":783,"content":"복무확인서 발급은 23-01223334 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"23-01223334","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":784,"content":"군번 17-12334445 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-12334445","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":785,"content":"병적기록 조회를 위해 21-23445556 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"21-23445556","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":786,"content":"현역병 군번 20-34556667 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"20-34556667","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":787,"content":"군 복무 증명은 19-45667778 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"19-45667778","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":788,"content":"전역 후 예비군은 22-56778889 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-56778889","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":789,"content":"복무 관련 민원은 18-67889990 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"18-67889990","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":790,"content":"군번 23-78990001 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"23-78990001","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":791,"content":"병적증명서 발급은 17-89001112 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"17-89001112","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":792,"content":"현역 복무 확인을 위해 21-90112223 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"21-90112223","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":793,"content":"군 복무 중 군번 20-01223435 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"20-01223435","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":794,"content":"전역증 재발급은 19-12334546 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"19-12334546","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":795,"content":"복무확인서 발급 시 22-23445657 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"22-23445657","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":796,"content":"군번 18-34556768 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"18-34556768","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":797,"content":"병적기록표에 기재된 23-45667879 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"23-45667879","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":798,"content":"현역병 군번 17-56778980 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"17-56778980","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":799,"content":"군 복무 확인서에 21-67889091 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-67889091","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":800,"content":"전역예정일 조회는 20-78990102 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"20-78990102","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":801,"content":"복무 중 포상은 19-89001213 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"19-89001213","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":802,"content":"군번 22-90112324 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"22-90112324","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":803,"content":"병적증명 발급 시 18-01223536 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"18-01223536","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":804,"content":"현역 복무자의 23-12334647 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"23-12334647","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":805,"content":"군 복무 기간은 17-23445758 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"17-23445758","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":806,"content":"전역증 발급을 위해 21-34556869 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"21-34556869","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":807,"content":"복무확인서 발급은 20-45667970 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"20-45667970","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":808,"content":"군번 19-56779081 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-56779081","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":809,"content":"병적기록 조회를 위해 22-67880192 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"22-67880192","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":810,"content":"현역병 군번 18-78991203 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"18-78991203","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":811,"content":"군 복무 증명은 23-89002314 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"23-89002314","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":812,"content":"전역 후 예비군은 17-90113425 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-90113425","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":813,"content":"복무 관련 문의는 21-01224537 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"21-01224537","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":814,"content":"군번 20-12335648 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-12335648","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":815,"content":"병적증명서 발급은 19-23446759 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"19-23446759","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":816,"content":"현역 복무 확인을 위해 22-34557860 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"22-34557860","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":817,"content":"군 복무 중 군번 18-45668971 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"18-45668971","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":818,"content":"전역증 발급 신청 시 23-56770082 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"23-56770082","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":819,"content":"복무확인서 재발급은 17-67881193 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"17-67881193","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":820,"content":"군번 21-78992204 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"21-78992204","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":821,"content":"병적기록표에 기재된 20-89003315 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"20-89003315","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":822,"content":"현역병 군번 19-90114426 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"19-90114426","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":823,"content":"군 복무 확인서에 22-01225538 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"22-01225538","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":824,"content":"전역예정자 명단에 18-12336649 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"18-12336649","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":825,"content":"복무 중 교육은 23-23447750 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-23447750","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":826,"content":"군번 17-34558861 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"17-34558861","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":827,"content":"병적증명 발급 시 21-45669972 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"21-45669972","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":828,"content":"현역 복무자의 20-56771083 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"20-56771083","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":829,"content":"군 복무 기간은 19-67882194 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"19-67882194","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":830,"content":"전역증 발급을 위해 22-78993205 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-78993205","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":831,"content":"복무확인서 발급은 18-89004316 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"18-89004316","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":832,"content":"군번 23-90115427 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"23-90115427","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":833,"content":"병적기록 조회를 위해 17-01226639 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"17-01226639","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":834,"content":"현역병 군번 21-12337740 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"21-12337740","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":835,"content":"군 복무 증명은 20-23448851 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"20-23448851","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":836,"content":"전역 후 예비군은 19-34559962 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"19-34559962","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":837,"content":"복무 관련 민원은 22-45661073 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"22-45661073","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":838,"content":"군번 18-56772184 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"18-56772184","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":839,"content":"병적증명서 발급은 23-67883295 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"23-67883295","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":840,"content":"현역 복무 확인을 위해 17-78994306 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"17-78994306","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":841,"content":"군 복무 중 군번 21-89005417 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"21-89005417","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":842,"content":"전역증 재발급은 20-90116528 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"20-90116528","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":843,"content":"복무확인서 발급 시 19-01227730 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"19-01227730","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":844,"content":"군번 22-12338841 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"22-12338841","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":845,"content":"병적기록표에 기재된 18-23449952 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"18-23449952","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":846,"content":"현역병 군번 23-34551063 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"23-34551063","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":847,"content":"군 복무 확인서에 17-45662174 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"17-45662174","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":848,"content":"전역예정일 조회는 21-56773285 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"21-56773285","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":849,"content":"복무 중 포상은 20-67884396 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"20-67884396","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":850,"content":"군번 19-78995407 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"19-78995407","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":851,"content":"병적증명 발급 시 22-89006518 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"22-89006518","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":852,"content":"현역 복무자의 18-90117629 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"18-90117629","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":853,"content":"군 복무 기간은 23-01228831 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"23-01228831","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":854,"content":"전역증 발급을 위해 17-12339942 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"17-12339942","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":855,"content":"복무확인서 발급은 21-23441053 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"21-23441053","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":856,"content":"군번 20-34552164 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"20-34552164","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":857,"content":"병적기록 조회를 위해 19-45663275 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"19-45663275","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":858,"content":"현역병 군번 22-56774386 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"22-56774386","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":859,"content":"군 복무 증명은 18-67885497 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"18-67885497","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":860,"content":"전역 후 예비군은 23-78996508 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"23-78996508","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":861,"content":"복무 관련 문의는 17-89007619 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"17-89007619","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":862,"content":"군번 21-90118720 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-90118720","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":863,"content":"병적증명서 발급은 20-01229932 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"20-01229932","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":864,"content":"현역 복무 확인을 위해 19-12331043 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"19-12331043","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":865,"content":"군 복무 중 군번 22-23442154 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"22-23442154","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":866,"content":"전역증 발급 신청 시 18-34553265 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"18-34553265","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":867,"content":"복무확인서 재발급은 23-45664376 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"23-45664376","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":868,"content":"군번 17-56775487 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"17-56775487","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":869,"content":"병적기록표에 기재된 21-67886598 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"21-67886598","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":870,"content":"현역병 군번 20-78997609 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"20-78997609","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":871,"content":"군 복무 확인서에 19-89008710 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"19-89008710","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":872,"content":"전역예정자 명단에 22-90119821 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"22-90119821","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":873,"content":"복무 중 교육은 18-01221033 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"18-01221033","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":874,"content":"군번 23-12332144 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"23-12332144","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":875,"content":"병적증명 발급 시 17-23443255 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"17-23443255","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":876,"content":"현역 복무자의 21-34554366 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"21-34554366","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":877,"content":"군 복무 기간은 20-45665477 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"20-45665477","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":878,"content":"전역증 발급을 위해 19-56776588 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"19-56776588","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":879,"content":"복무확인서 발급은 22-67887699 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"22-67887699","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":880,"content":"군번 18-78998700 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"18-78998700","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":881,"content":"병적기록 조회를 위해 23-89009811 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"23-89009811","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":882,"content":"현역병 군번 17-90110922 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"17-90110922","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":883,"content":"군 복무 증명은 21-01222134 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"21-01222134","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":884,"content":"전역 후 예비군은 20-12333245 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"20-12333245","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":885,"content":"복무 관련 민원은 19-23444356 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"19-23444356","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":886,"content":"군번 22-34555467 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"22-34555467","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":887,"content":"병적증명서 발급은 18-45666578 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"18-45666578","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":888,"content":"현역 복무 확인을 위해 23-56777689 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"23-56777689","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":889,"content":"군 복무 중 군번 17-67888790 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"17-67888790","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":890,"content":"전역증 재발급은 21-78999801 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"21-78999801","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":891,"content":"복무확인서 발급 시 20-89000912 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"20-89000912","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":892,"content":"군번 19-90111023 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"19-90111023","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":893,"content":"병적기록표에 기재된 22-01223235 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"22-01223235","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":894,"content":"현역병 군번 18-12334346 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"18-12334346","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":895,"content":"군 복무 확인서에 23-23445457 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"23-23445457","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":896,"content":"전역예정일 조회는 17-34556568 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"17-34556568","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":897,"content":"복무 중 포상은 21-45667679 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"21-45667679","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":898,"content":"군번 20-56778780 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"20-56778780","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":899,"content":"병적증명 발급 시 19-67889891 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"19-67889891","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":900,"content":"현역 복무자의 22-78990902 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"22-78990902","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":901,"content":"군 복무 기간은 18-89001013 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"18-89001013","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":902,"content":"전역증 발급을 위해 23-90112124 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"23-90112124","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":903,"content":"복무확인서 발급은 17-01224336 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"17-01224336","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":904,"content":"군번 21-12335447 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"21-12335447","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":905,"content":"병적기록 조회를 위해 20-23446558 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"20-23446558","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":906,"content":"현역병 군번 19-34557669 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-34557669","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":907,"content":"군 복무 증명은 22-45668770 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"22-45668770","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":908,"content":"전역 후 예비군은 18-56779881 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"18-56779881","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":909,"content":"복무 관련 문의는 23-67880992 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"23-67880992","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":910,"content":"군번 17-78992003 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-78992003","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":911,"content":"병적증명서 발급은 21-89003114 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"21-89003114","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":912,"content":"현역 복무 확인을 위해 20-90114225 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"20-90114225","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":913,"content":"군 복무 중 군번 19-01225437 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"19-01225437","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":914,"content":"전역증 발급 신청 시 22-12336548 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"22-12336548","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":915,"content":"복무확인서 재발급은 18-23447659 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"18-23447659","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":916,"content":"군번 23-34558760 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"23-34558760","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":917,"content":"병적기록표에 기재된 17-45669871 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"17-45669871","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":918,"content":"현역병 군번 21-56770982 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"21-56770982","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":919,"content":"군 복무 확인서에 20-67882093 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"20-67882093","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":920,"content":"전역예정자 명단에 19-78993104 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"19-78993104","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":921,"content":"복무 중 교육은 22-89004215 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"22-89004215","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":922,"content":"군번 18-90115326 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"18-90115326","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":923,"content":"병적증명 발급 시 23-01226538 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"23-01226538","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":924,"content":"현역 복무자의 17-12337649 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"17-12337649","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":925,"content":"군 복무 기간은 21-23448750 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"21-23448750","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":926,"content":"전역증 발급을 위해 20-34559861 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-34559861","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":927,"content":"복무확인서 발급은 19-45660972 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"19-45660972","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":928,"content":"군번 22-56772083 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"22-56772083","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":929,"content":"병적기록 조회를 위해 18-67883194 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"18-67883194","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":930,"content":"현역병 군번 23-78994205 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"23-78994205","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":931,"content":"군 복무 증명은 17-89005316 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"17-89005316","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":932,"content":"전역 후 예비군은 21-90116427 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"21-90116427","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":933,"content":"복무 관련 민원은 20-01227639 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"20-01227639","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":934,"content":"군번 19-12338740 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"19-12338740","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":935,"content":"병적증명서 발급은 22-23449851 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"22-23449851","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":936,"content":"현역 복무 확인을 위해 18-34550962 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"18-34550962","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":937,"content":"군 복무 중 군번 23-45662073 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"23-45662073","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":938,"content":"전역증 재발급은 17-56773184 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"17-56773184","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":939,"content":"복무확인서 발급 시 21-67884295 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"21-67884295","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":940,"content":"군번 20-78995306 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"20-78995306","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":941,"content":"병적기록표에 기재된 19-89006417 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"19-89006417","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":942,"content":"현역병 군번 22-90117528 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"22-90117528","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":943,"content":"군 복무 확인서에 18-01228730 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"18-01228730","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":944,"content":"전역예정일 조회는 23-12339841 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"23-12339841","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":945,"content":"복무 중 포상은 17-23440952 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"17-23440952","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":946,"content":"군번 21-34552063 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"21-34552063","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":947,"content":"병적증명 발급 시 20-45663174 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"20-45663174","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":948,"content":"현역 복무자의 19-56774285 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"19-56774285","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":949,"content":"군 복무 기간은 22-67885396 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-67885396","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":950,"content":"전역증 발급을 위해 18-78996407 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"18-78996407","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":951,"content":"복무확인서 발급은 23-89007518 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"23-89007518","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":952,"content":"군번 17-90118629 번으로 등록된 정보를 업데이트하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"17-90118629","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":953,"content":"병적기록 조회를 위해 21-01229831 을 입력하셨습니다. 아울러 표시합니다.","has_sensitive":true,"entities":[{"value":"21-01229831","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":954,"content":"현역병 군번 20-12330942 로 의무복무 기간을 확인하였습니다. 먼저 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-12330942","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":955,"content":"군 복무 증명은 19-23442053 번호로 발급받을 수 있습니다. 또한 무료입니다.","has_sensitive":true,"entities":[{"value":"19-23442053","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":956,"content":"전역 후 예비군은 22-34553164 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"22-34553164","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":957,"content":"복무 관련 문의는 18-45664275 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"18-45664275","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":958,"content":"군번 23-56775386 번으로 포상 기록을 조회하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"23-56775386","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":959,"content":"병적증명서 발급은 17-67886497 군번으로 신청하시기 바랍니다. 아울러 신속합니다.","has_sensitive":true,"entities":[{"value":"17-67886497","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":960,"content":"현역 복무 확인을 위해 21-78997508 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"21-78997508","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":961,"content":"군 복무 중 군번 20-89008619 번으로 각종 증명서를 발급받을 수 있습니다. 또한 편리합니다.","has_sensitive":true,"entities":[{"value":"20-89008619","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":962,"content":"전역증 발급 신청 시 19-90119720 군번이 필요합니다. 참고로 무료입니다.","has_sensitive":true,"entities":[{"value":"19-90119720","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":963,"content":"복무확인서 재발급은 22-01220932 을 제시하시면 됩니다. 다만 1회입니다.","has_sensitive":true,"entities":[{"value":"22-01220932","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":964,"content":"군번 18-12332043 번으로 복무 부대 정보를 확인하였습니다. 그리고 제한됩니다.","has_sensitive":true,"entities":[{"value":"18-12332043","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":965,"content":"병적기록표에 기재된 23-23443154 군번을 확인하였습니다. 아울러 일치합니다.","has_sensitive":true,"entities":[{"value":"23-23443154","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":966,"content":"현역병 군번 17-34554265 로 훈련 수료 내역을 조회하였습니다. 먼저 출력됩니다.","has_sensitive":true,"entities":[{"value":"17-34554265","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":967,"content":"군 복무 확인서에 21-45665376 번호가 명시되어 있습니다. 또한 기재됩니다.","has_sensitive":true,"entities":[{"value":"21-45665376","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":968,"content":"전역예정자 명단에 20-56776487 군번이 포함되어 있습니다. 참고로 확정입니다.","has_sensitive":true,"entities":[{"value":"20-56776487","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":969,"content":"복무 중 교육은 19-67887598 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"19-67887598","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":970,"content":"군번 22-78998609 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"22-78998609","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":971,"content":"병적증명 발급 시 18-89009710 군번을 제출하셔야 합니다. 아울러 필요합니다.","has_sensitive":true,"entities":[{"value":"18-89009710","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":972,"content":"현역 복무자의 23-90110821 군번으로 휴가 기록을 확인하였습니다. 먼저 조회됩니다.","has_sensitive":true,"entities":[{"value":"23-90110821","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":973,"content":"군 복무 기간은 17-01222033 번호로 조회할 수 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"17-01222033","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":974,"content":"전역증 발급을 위해 21-12333144 을 제시하시기 바랍니다. 참고로 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-12333144","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":975,"content":"복무확인서 발급은 20-23444255 군번으로 신청 가능합니다. 다만 부과됩니다.","has_sensitive":true,"entities":[{"value":"20-23444255","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":976,"content":"군번 19-34555366 번으로 등록된 주소를 확인하였습니다. 그리고 가능합니다.","has_sensitive":true,"entities":[{"value":"19-34555366","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":977,"content":"병적기록 조회를 위해 22-45666477 을 입력하셨습니다. 아울러 확인됩니다.","has_sensitive":true,"entities":[{"value":"22-45666477","begin":16,"end":27,"label":"MILITARY_ID"}]}
+{"id":978,"content":"현역병 군번 18-56777588 로 의무복무 기간을 확인하였습니다. 먼저 안내합니다.","has_sensitive":true,"entities":[{"value":"18-56777588","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":979,"content":"군 복무 증명은 23-67888699 번호로 발급 가능합니다. 또한 가능합니다.","has_sensitive":true,"entities":[{"value":"23-67888699","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":980,"content":"전역 후 예비군은 17-78999700 군번으로 편성됩니다. 참고로 발송됩니다.","has_sensitive":true,"entities":[{"value":"17-78999700","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":981,"content":"복무 관련 민원은 21-89000811 을 말씀해 주시기 바랍니다. 다만 필요합니다.","has_sensitive":true,"entities":[{"value":"21-89000811","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":982,"content":"군번 20-90111922 번으로 포상 신청을 접수하였습니다. 그리고 통보됩니다.","has_sensitive":true,"entities":[{"value":"20-90111922","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":983,"content":"병적증명서 발급은 19-01223134 군번으로 가능합니다. 아울러 무료입니다.","has_sensitive":true,"entities":[{"value":"19-01223134","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":984,"content":"현역 복무 확인을 위해 22-12334245 를 조회하였습니다. 먼저 확인합니다.","has_sensitive":true,"entities":[{"value":"22-12334245","begin":17,"end":28,"label":"MILITARY_ID"}]}
+{"id":985,"content":"군 복무 중 군번 18-23445356 번으로 의료 기록을 확인할 수 있습니다. 또한 필요합니다.","has_sensitive":true,"entities":[{"value":"18-23445356","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":986,"content":"전역증 재발급은 23-34556467 군번을 제시하시면 됩니다. 참고로 소요됩니다.","has_sensitive":true,"entities":[{"value":"23-34556467","begin":12,"end":23,"label":"MILITARY_ID"}]}
+{"id":987,"content":"복무확인서 발급 시 17-45667578 을 기재하셨습니다. 다만 있습니다.","has_sensitive":true,"entities":[{"value":"17-45667578","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":988,"content":"군번 21-56778689 번으로 훈련 이수 내역을 확인하였습니다. 그리고 발급됩니다.","has_sensitive":true,"entities":[{"value":"21-56778689","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":989,"content":"병적기록표에 기재된 20-67889790 군번을 확인하였습니다. 아울러 정확합니다.","has_sensitive":true,"entities":[{"value":"20-67889790","begin":15,"end":26,"label":"MILITARY_ID"}]}
+{"id":990,"content":"현역병 군번 19-78990801 로 복무 부대를 조회하였습니다. 먼저 필요합니다.","has_sensitive":true,"entities":[{"value":"19-78990801","begin":8,"end":19,"label":"MILITARY_ID"}]}
+{"id":991,"content":"군 복무 확인서에 22-89001912 번호가 기재되어 있습니다. 또한 표시됩니다.","has_sensitive":true,"entities":[{"value":"22-89001912","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":992,"content":"전역예정일 조회는 18-90113023 군번으로 가능합니다. 참고로 안내됩니다.","has_sensitive":true,"entities":[{"value":"18-90113023","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":993,"content":"복무 중 포상은 23-01224235 번을 통해 확인됩니다. 다만 비공개입니다.","has_sensitive":true,"entities":[{"value":"23-01224235","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":994,"content":"군번 17-12335346 을 입력하여 병적사항을 조회하였습니다. 그리고 없습니다.","has_sensitive":true,"entities":[{"value":"17-12335346","begin":3,"end":14,"label":"MILITARY_ID"}]}
+{"id":995,"content":"병적증명 발급 시 21-23446457 군번을 제출하셔야 합니다. 아울러 납부하세요.","has_sensitive":true,"entities":[{"value":"21-23446457","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":996,"content":"현역 복무자의 20-34557568 군번으로 휴가 신청이 접수되었습니다. 먼저 진행됩니다.","has_sensitive":true,"entities":[{"value":"20-34557568","begin":10,"end":21,"label":"MILITARY_ID"}]}
+{"id":997,"content":"군 복무 기간은 19-45668679 번호로 조회 가능합니다. 또한 확인됩니다.","has_sensitive":true,"entities":[{"value":"19-45668679","begin":11,"end":22,"label":"MILITARY_ID"}]}
+{"id":998,"content":"전역증 발급을 위해 22-56779780 을 제시하시기 바랍니다. 참고로 처리됩니다.","has_sensitive":true,"entities":[{"value":"22-56779780","begin":14,"end":25,"label":"MILITARY_ID"}]}
+{"id":999,"content":"복무확인서 발급은 18-67880891 군번으로 신청하시면 됩니다. 다만 걸립니다.","has_sensitive":true,"entities":[{"value":"18-67880891","begin":13,"end":24,"label":"MILITARY_ID"}]}
+{"id":1000,"content":"군번 23-78991902 번으로 등록된 정보를 업데이트하였습니다. 그리고 최종 확인이 완료되었습니다.","has_sensitive":true,"entities":[{"value":"23-78991902","begin":3,"end":14,"label":"MILITARY_ID"}]}
