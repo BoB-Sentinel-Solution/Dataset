@@ -184,6 +184,19 @@ SYSTEM_TEXT = (
 python build_dataset_jsonl.py --input .\dataset_6_final_fix.jsonl --out dataset.jsonl --format jsonl --start-id 2501 --force-start --assistant-as-string
 ```  
 
+## Test Dataset
+id 1~62 : 중요정보 1개만 포함된 문장
+
+id 63~262 : 100자 이내 중요정보 포함 문장
+
+id 263~412 : 200자 이내 중요정보 포함 문장
+
+id 413~440 : 500자 이내 중요정보 포함 문장
+
+id 441~450 : 1000자 이내 중요정보 포함 문장
+
+id 451~500 : 중요정보 미포함 문장
+
 # before
 <details>
 <summary><b>중요정보 개선 이전 데이터셋</b></summary>
