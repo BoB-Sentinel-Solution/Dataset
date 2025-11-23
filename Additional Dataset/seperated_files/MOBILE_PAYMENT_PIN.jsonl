@@ -1,0 +1,1000 @@
+{"id": 1, "content": "새로 개설한 뱅킹 앱에서 간편 결제 등록을 완료하려면, 최종적으로 인증 번호 643871을 입력해야만 설정이 끝납니다.", "has_sensitive": true, "entities": [{"value": "643871", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 2, "content": "어제 고객 지원팀에 문의했던 모바일 결제 오류 건은 제 비밀번호 192500으로 재시도 후 정상 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "192500", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 3, "content": "결제 진행 시 보안 강화를 위해 등록하신 간편결제 비밀번호 458923을 정확히 입력하셔야 거래가 승인됩니다.", "has_sensitive": true, "entities": [{"value": "458923", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 4, "content": "앱 업데이트 후 첫 로그인 시 기존 결제 비밀번호 837261를 다시 한 번 확인해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "837261", "begin": 32, "end": 38, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 5, "content": "고객님께서 요청하신 간편결제 서비스 활성화를 위해 임시 번호 592048을 발급해 드렸으니, 로그인 후 변경하시길 권장합니다.", "has_sensitive": true, "entities": [{"value": "592048", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 6, "content": "모바일 뱅킹 접속이 3회 이상 실패하여 보안상 잠금 처리되었으며, 해제를 원하시면 초기 설정 번호 723456을 입력하세요.", "has_sensitive": true, "entities": [{"value": "723456", "begin": 63, "end": 69, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 7, "content": "결제 수단 변경 신청 건이 접수되었고, 본인 확인을 위해 현재 사용 중인 핀 번호 651092를 안내해 주시면 즉시 처리 가능합니다.", "has_sensitive": true, "entities": [{"value": "651092", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 8, "content": "스마트폰 교체 후 간편결제를 재등록하려면 기존에 설정하셨던 인증번호 284739를 그대로 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "284739", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 9, "content": "오늘 새벽 시스템 점검 이후 결제 비밀번호가 초기화되어 임시로 915628이 부여되었습니다.", "has_sensitive": true, "entities": [{"value": "915628", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 10, "content": "제휴 카드사 연동 완료 후 최종 단계에서 요구하는 6자리 숫자 인증 코드 403827을 입력하시면 모든 설정이 완료됩니다.", "has_sensitive": true, "entities": [{"value": "403827", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 11, "content": "지난주 변경 요청하신 간편 결제 비밀번호는 562190으로 정상 업데이트되었으니 확인 부탁드립니다.", "has_sensitive": true, "entities": [{"value": "562190", "begin": 29, "end": 35, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 12, "content": "본인 인증 절차를 완료하신 후 새로운 간편결제 핀으로 879453을 등록하셨습니다.", "has_sensitive": true, "entities": [{"value": "879453", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 13, "content": "결제 오류가 발생했을 때는 앱을 재시작하고 등록된 결제 번호 326584를 다시 입력해 보시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "326584", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 14, "content": "보안 강화 정책에 따라 90일마다 간편결제 비밀번호를 변경해야 하며, 현재 사용 중인 번호는 741258입니다.", "has_sensitive": true, "entities": [{"value": "741258", "begin": 59, "end": 65, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 15, "content": "고객님의 계좌 연동이 성공적으로 완료되었으며, 최종 확인을 위해 설정하신 핀 629301을 한 번 더 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "629301", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 16, "content": "해외 결제 기능을 활성화하시려면 추가 보안 인증으로 기존 비밀번호 183746과 SMS 인증을 함께 진행하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "183746", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 17, "content": "간편결제 서비스 이용 약관에 동의하시고 원하시는 6자리 번호 508372를 입력하시면 즉시 사용 가능합니다.", "has_sensitive": true, "entities": [{"value": "508372", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 18, "content": "앱 내 설정 메뉴에서 결제 보안 옵션을 변경하셨고, 새로운 인증 핀은 967214로 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "967214", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 19, "content": "타인에게 절대 노출되어서는 안 되는 귀하의 모바일 결제 비밀번호 425630을 안전하게 보관하시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "425630", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 20, "content": "정기 결제 자동 이체를 신청하시면서 등록하신 간편 인증 번호 754821이 정상적으로 시스템에 반영되었습니다.", "has_sensitive": true, "entities": [{"value": "754821", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 21, "content": "프로모션 적용을 위한 본인 확인 단계에서 현재 설정된 결제 핀 891034를 입력하시면 할인 혜택이 즉시 적용됩니다.", "has_sensitive": true, "entities": [{"value": "891034", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 22, "content": "멤버십 등급 상향 조정을 위해 본인 인증 절차가 필요하며, 등록하신 간편 비밀번호 632847을 다시 확인해 주십시오.", "has_sensitive": true, "entities": [{"value": "632847", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 23, "content": "결제 한도 증액 신청이 승인되었으며, 변경 사항 적용을 위해 기존 핀 번호 219763을 재입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "219763", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 24, "content": "생체 인증 등록을 완료하시기 전까지는 임시로 발급된 숫자 비밀번호 506129를 사용하셔야 결제가 가능합니다.", "has_sensitive": true, "entities": [{"value": "506129", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 25, "content": "금일 오전 접수하신 비밀번호 분실 건에 대해 임시 번호 847356으로 재설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "847356", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 26, "content": "가맹점 연동 테스트를 진행하시려면 개발자 모드에서 테스트용 핀 번호 102938을 활용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "102938", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 27, "content": "자동 로그인 설정을 해제하시면 매번 결제 시 보안 인증 번호 694521을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "694521", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 28, "content": "포인트 사용 결제를 진행하실 때도 동일하게 간편결제 비밀번호 378245를 요구하니 미리 준비해 주세요.", "has_sensitive": true, "entities": [{"value": "378245", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 29, "content": "앱 버전 3.5로 업그레이드 후 보안이 강화되어 새로운 6자리 핀 523680을 필수로 등록하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "523680", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 30, "content": "고객센터 상담원이 절대 비밀번호를 물어보지 않으니, 본인의 결제 핀 914273은 타인과 공유하지 마십시오.", "has_sensitive": true, "entities": [{"value": "914273", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 31, "content": "QR코드 결제 기능을 처음 사용하시는 경우 등록된 인증 번호 487159를 스캔 후 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "487159", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 32, "content": "월 결제 한도를 초과하여 추가 인증이 필요하며, 고객님의 현재 핀 235796을 정확히 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "235796", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 33, "content": "비대면 계좌 개설 마지막 단계에서 설정하신 간편 결제용 비밀번호 861024가 등록 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "861024", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 34, "content": "결제 취소 요청을 처리하기 위해 본인 확인 차원에서 등록된 핀 번호 594137을 불러주시겠습니까?", "has_sensitive": true, "entities": [{"value": "594137", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 35, "content": "가족 공유 결제 기능 사용 시 주 사용자의 인증 코드 702468이 반드시 필요합니다.", "has_sensitive": true, "entities": [{"value": "702468", "begin": 38, "end": 44, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 36, "content": "무인 단말기에서 결제를 완료하시려면 화면에 나타난 대로 귀하의 핀 816532를 정확하게 터치해 주세요.", "has_sensitive": true, "entities": [{"value": "816532", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 37, "content": "구독 서비스 자동 갱신을 위해 저장된 간편결제 번호 349671로 매월 결제가 진행될 예정입니다.", "has_sensitive": true, "entities": [{"value": "349671", "begin": 33, "end": 39, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 38, "content": "이벤트 당첨 상품 수령을 위한 본인 확인 절차로 모바일 결제 핀 473829를 입력해 주시면 배송 처리됩니다.", "has_sensitive": true, "entities": [{"value": "473829", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 39, "content": "간편 송금 서비스 첫 이용 고객에게는 임시 인증 번호 621095가 SMS로 전송되었으니 확인하세요.", "has_sensitive": true, "entities": [{"value": "621095", "begin": 37, "end": 43, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 40, "content": "보안 정책 위반으로 계정이 일시 정지되었으며, 해제를 위해 초기 설정 번호 758341을 제출하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "758341", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 41, "content": "디지털 지갑 연동 시 필요한 마스터 비밀번호 925163을 설정하시면 모든 결제 수단이 통합 관리됩니다.", "has_sensitive": true, "entities": [{"value": "925163", "begin": 31, "end": 37, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 42, "content": "고객님께서 금일 오후 2시경 변경 신청하신 새 결제 핀 104728이 정상적으로 시스템에 반영되었습니다.", "has_sensitive": true, "entities": [{"value": "104728", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 43, "content": "타사 결제 앱에서 전환하시는 고객을 위해 마이그레이션 전용 임시 번호 587392를 발급해 드립니다.", "has_sensitive": true, "entities": [{"value": "587392", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 44, "content": "거래 내역 조회 권한을 부여받으려면 계좌 소유자가 설정한 인증 핀 236804를 제공하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "236804", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 45, "content": "스마트워치 연동 결제를 활성화하시려면 모바일 앱에서 사용 중인 동일한 핀 691470을 입력하세요.", "has_sensitive": true, "entities": [{"value": "691470", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 46, "content": "고액 결제 건에 대해서는 추가 보안 검증으로 등록된 간편 비밀번호 842516과 지문 인증이 동시에 요구됩니다.", "has_sensitive": true, "entities": [{"value": "842516", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 47, "content": "페이백 적립금 사용 시에도 본인 확인을 위해 결제 인증 번호 375921을 반드시 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "375921", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 48, "content": "앱 초기화 후 데이터 복구를 진행하시면서 백업 시점의 비밀번호 918654를 기억하고 계신지 확인 부탁드립니다.", "has_sensitive": true, "entities": [{"value": "918654", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 49, "content": "결제 대행 서비스 이용 약관 동의 후 최종 단계로 고객님의 핀 503726을 등록해 주시면 됩니다.", "has_sensitive": true, "entities": [{"value": "503726", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 50, "content": "오프라인 매장 연동 결제를 위해 POS 시스템에 입력하실 인증 코드 147289가 생성되었습니다.", "has_sensitive": true, "entities": [{"value": "147289", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 51, "content": "보안 강화 업데이트 이후 기존 고객님들께서는 이전 비밀번호 264753을 유지하거나 새로 변경하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "264753", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 52, "content": "간편 출금 기능 설정을 완료하셨으며, 인출 시마다 요구되는 보안 핀은 829401입니다.", "has_sensitive": true, "entities": [{"value": "829401", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 53, "content": "제휴 쇼핑몰 특별 할인 쿠폰 적용을 위해 본인 인증 차원에서 결제 번호 596132를 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "596132", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 54, "content": "청구서 자동 납부 설정 시 등록하신 간편 인증 핀 702845가 매월 결제일에 자동으로 사용됩니다.", "has_sensitive": true, "entities": [{"value": "702845", "begin": 32, "end": 38, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 55, "content": "금융 거래 이력 열람 권한을 받으시려면 계좌 개설 시 등록한 핀 번호 483967을 제시하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "483967", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 56, "content": "결제 실패 건이 발생하여 재처리를 위해 고객님의 현재 인증 번호 651820을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "651820", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 57, "content": "신규 가입 환영 이벤트 참여를 위한 본인 확인 단계에서 설정하신 핀 927364를 입력하시면 포인트가 즉시 지급됩니다.", "has_sensitive": true, "entities": [{"value": "927364", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 58, "content": "해외 직구 결제 시 환율 우대 혜택을 받으시려면 간편결제 비밀번호 318529를 사용해 주세요.", "has_sensitive": true, "entities": [{"value": "318529", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 59, "content": "앱 잠금 기능과 결제 보안 기능을 통합하여 하나의 마스터 핀 745201로 관리하실 수 있게 되었습니다.", "has_sensitive": true, "entities": [{"value": "745201", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 60, "content": "고객 정보 수정 요청을 승인하기 위해 본인 확인용 간편 비밀번호 892673을 재입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "892673", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 61, "content": "정기 구독 결제일이 다가오고 있으며, 등록하신 자동 결제 핀 164758로 처리될 예정입니다.", "has_sensitive": true, "entities": [{"value": "164758", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 62, "content": "배송지 변경 승인을 위해 주문 시 사용하신 결제 인증 번호 530296을 다시 한 번 확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "530296", "begin": 38, "end": 44, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 63, "content": "여러 기기에서 동시 로그인을 허용하려면 보안 설정에서 주 인증 핀 679841을 재확인하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "679841", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 64, "content": "포인트 전환 신청 건이 접수되었으며, 최종 승인을 위해 간편 비밀번호 408325를 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "408325", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 65, "content": "보안 등급을 최고 단계로 상향하시면 거래마다 등록하신 핀 번호 721569가 요구됩니다.", "has_sensitive": true, "entities": [{"value": "721569", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 66, "content": "타행 계좌 이체 한도 증액을 신청하시면서 본인 확인용으로 제출하신 인증 번호 953187이 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "953187", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 67, "content": "무통장 입금 확인 후 결제를 완료하시려면 사전 등록된 모바일 핀 267904를 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "267904", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 68, "content": "간편 로그인 서비스와 결제 서비스를 연동하시면 통합 비밀번호 836421 하나로 모든 기능을 이용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "836421", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 69, "content": "고객님의 요청으로 결제 한도가 상향 조정되었으며, 변경 사항 적용을 위해 현재 핀 195742를 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "195742", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 70, "content": "개인정보 보호 정책에 따라 90일마다 비밀번호 변경이 권장되며, 현재 사용 중인 번호는 582063입니다.", "has_sensitive": true, "entities": [{"value": "582063", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 71, "content": "앱카드 발급 신청이 완료되었고, 최초 사용 시 입력하실 초기 핀 번호는 740298입니다.", "has_sensitive": true, "entities": [{"value": "740298", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 72, "content": "결제 분쟁 조정을 위한 거래 내역 조회 시 본인 확인 차원에서 등록된 인증 핀 423675를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "423675", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 73, "content": "모바일 쿠폰 사용 시에도 부정 사용 방지를 위해 간편결제 번호 968230을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "968230", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 74, "content": "계좌 잔액 조회 권한 부여를 위해 설정하신 보안 비밀번호 357148을 한 번 더 확인해 주세요.", "has_sensitive": true, "entities": [{"value": "357148", "begin": 38, "end": 44, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 75, "content": "간편결제 서비스 약관이 개정되어 동의 후 재인증 절차로 기존 핀 번호 814596을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "814596", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 76, "content": "가상계좌 자동 충전 설정을 완료하시면서 등록하신 간편 인증 번호 691027이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "691027", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 77, "content": "결제 수단을 신용카드로 변경하시려면 본인 확인을 위해 모바일 핀 205473을 제공해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "205473", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 78, "content": "VIP 등급 고객 전용 혜택을 받으시려면 본인 인증 단계에서 등록된 비밀번호 578934를 입력하세요.", "has_sensitive": true, "entities": [{"value": "578934", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 79, "content": "앱 내 간편송금 기능 최초 이용 시 보안을 위해 새로운 6자리 핀 432689를 설정하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "432689", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 80, "content": "고객님께서 설정하신 간편 결제 비밀번호 947621로 오늘 총 3건의 거래가 정상 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "947621", "begin": 25, "end": 31, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 81, "content": "환불 처리를 신속하게 진행하기 위해 주문 시 사용하신 결제 핀 126850을 알려주시면 감사하겠습니다.", "has_sensitive": true, "entities": [{"value": "126850", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 82, "content": "알림 서비스 설정을 변경하시려면 보안 확인 절차로 현재 인증 번호 783542를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "783542", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 83, "content": "제휴 멤버십 포인트 합산 신청 건에 대해 본인 확인용 간편 비밀번호 369207을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "369207", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 84, "content": "금융 앱 통합 관리 서비스에 가입하시면 하나의 마스터 핀 854136으로 여러 계좌를 제어할 수 있습니다.", "has_sensitive": true, "entities": [{"value": "854136", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 85, "content": "거래 한도 임시 상향 요청이 승인되었으며, 적용을 위해 등록하신 핀 번호 491725를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "491725", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 86, "content": "자동이체 등록 완료 후 매월 결제일에 설정하신 간편 인증 번호 617394가 사용될 예정입니다.", "has_sensitive": true, "entities": [{"value": "617394", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 87, "content": "결제 오류 발생 시 고객센터에서 본인 확인을 위해 현재 사용 중인 핀 238961을 요청할 수 있습니다.", "has_sensitive": true, "entities": [{"value": "238961", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 88, "content": "스마트폰 분실 신고 후 새 기기로 이전하실 때 기존 설정 번호 705283을 입력하시면 모든 정보가 복구됩니다.", "has_sensitive": true, "entities": [{"value": "705283", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 89, "content": "간편결제 보안 등급 강화 업데이트 이후 새롭게 설정하신 비밀번호 986417이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "986417", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 90, "content": "구독 서비스 해지를 원하시면 본인 인증 절차로 등록된 결제 번호 543072를 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "543072", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 91, "content": "앱 보안 설정에서 지문 인식과 함께 이중 인증으로 사용될 핀 번호 172659가 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "172659", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 92, "content": "고액 거래 시 추가 보안 절차가 적용되어 간편결제 비밀번호 829346과 SMS 인증을 함께 요구합니다.", "has_sensitive": true, "entities": [{"value": "829346", "begin": 37, "end": 43, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 93, "content": "해외 송금 서비스 신청을 완료하셨으며, 송금 실행 시마다 인증 핀 694518을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "694518", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 94, "content": "제휴 카드 추가 등록을 위해 본인 확인 차원에서 기존 설정 번호 417802를 제시해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "417802", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 95, "content": "간편 택배 결제 서비스를 이용하시려면 물류 앱과 연동된 결제 핀 365940을 설정하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "365940", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 96, "content": "보안 업데이트로 인해 기존 비밀번호 258791이 초기화되어 새로 설정하시길 권장드립니다.", "has_sensitive": true, "entities": [{"value": "258791", "begin": 23, "end": 29, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 97, "content": "가맹점 결제 단말기에서 승인 요청 시 고객님이 입력하신 간편 번호 731048로 거래가 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "731048", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 98, "content": "정기 결제 카드 변경 신청이 접수되었으며, 변경 승인을 위해 현재 핀 번호 892635를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "892635", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 99, "content": "모바일 쿠폰북 서비스 이용 약관에 동의하시고 간편 인증 번호 506124를 등록하시면 즉시 사용 가능합니다.", "has_sensitive": true, "entities": [{"value": "506124", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 100, "content": "계좌 이체 실패 건을 재처리하시려면 등록하신 결제 보안 핀 643287을 다시 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "643287", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 101, "content": "전자 영수증 발급을 위한 본인 확인 단계에서 설정하신 간편 비밀번호 179523을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "179523", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 102, "content": "프리미엄 멤버십 자동 갱신 설정 시 등록하신 모바일 결제 핀 924760이 매년 사용됩니다.", "has_sensitive": true, "entities": [{"value": "924760", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 103, "content": "간편 출금 한도를 상향 조정하시려면 보안 확인 절차로 현재 인증 번호 435896을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "435896", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 104, "content": "앱 푸시 알림 설정을 변경하시더라도 결제 시에는 등록된 핀 번호 761302가 계속 요구됩니다.", "has_sensitive": true, "entities": [{"value": "761302", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 105, "content": "온라인 쇼핑몰 회원 연동을 위해 본인 확인 차원에서 간편결제 비밀번호 598147을 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "598147", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 106, "content": "무이자 할부 서비스 신청이 완료되었으며, 매월 자동 결제 시 사용될 핀은 823675입니다.", "has_sensitive": true, "entities": [{"value": "823675", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 107, "content": "금융 상품 추천 서비스 가입을 위해 본인 인증 단계에서 현재 핀 번호 340928을 확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "340928", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 108, "content": "비밀번호 변경 주기가 도래하여 새로운 6자리 숫자 217564로 업데이트하시길 권장드립니다.", "has_sensitive": true, "entities": [{"value": "217564", "begin": 32, "end": 38, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 109, "content": "결제 취소 환불 처리를 진행 중이며, 본인 확인을 위해 등록된 인증 핀 756283을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "756283", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 110, "content": "간편 로그인 기능과 결제 기능을 분리하시려면 새로운 결제 전용 핀 482691을 별도로 설정하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "482691", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 111, "content": "가족 계정 관리자 권한을 받으시려면 주 계정의 마스터 비밀번호 915634를 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "915634", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 112, "content": "월간 결제 리포트 조회 권한 부여를 위해 설정하신 보안 인증 번호 627340을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "627340", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 113, "content": "긴급 정지된 계좌를 해제하시려면 고객센터를 통해 초기 설정 번호 384759를 제출하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "384759", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 114, "content": "스마트 기기 간 동기화 설정을 완료하시면 모든 기기에서 동일한 핀 509872로 결제하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "509872", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 115, "content": "캐시백 이벤트 참여를 위한 본인 인증 절차로 간편결제 비밀번호 741086을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "741086", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 116, "content": "결제 수단 우선순위 변경 신청이 완료되었으며, 적용을 위해 현재 핀 번호 268915를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "268915", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 117, "content": "간편 충전 서비스 최초 이용 시 보안을 위해 새로운 인증 번호 893427을 설정하시길 바랍니다.", "has_sensitive": true, "entities": [{"value": "893427", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 118, "content": "고객님의 계좌에서 출금 요청이 접수되었으며, 승인을 위해 등록된 핀 번호 452108을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "452108", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 119, "content": "다중 계좌 통합 관리 서비스에 가입하시면서 설정하신 통합 핀 678934가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "678934", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 120, "content": "거래 명세서 출력을 위한 본인 확인 단계에서 현재 사용 중인 인증 번호 130547을 입력하세요.", "has_sensitive": true, "entities": [{"value": "130547", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 121, "content": "자동 납부 등록 완료 후 매달 청구일에 설정하신 간편 비밀번호 526781로 결제가 진행됩니다.", "has_sensitive": true, "entities": [{"value": "526781", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 122, "content": "결제 실패 이력 조회를 위해 본인 확인 차원에서 등록하신 모바일 핀 894263을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "894263", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 123, "content": "포인트 선물하기 기능 이용 시에도 부정 사용 방지를 위해 결제 번호 716305를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "716305", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 124, "content": "간편결제 서비스 일시 정지를 해제하시려면 계정 개설 시 등록한 핀 번호 362498을 제시하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "362498", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 125, "content": "보안 인증서 갱신 작업이 완료되었으며, 새로운 환경에서 기존 비밀번호 948172를 그대로 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "948172", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 126, "content": "제휴사 포인트 통합 적립 서비스 가입을 위해 본인 인증용 간편 번호 271634를 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "271634", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 127, "content": "거래 한도 복구 신청이 승인되었으며, 즉시 적용을 위해 현재 인증 핀 805427을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "805427", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 128, "content": "간편 송금 수수료 면제 혜택을 받으시려면 프리미엄 회원 전용 핀 번호 593218을 사용하시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "593218", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 129, "content": "앱 내 광고 제거 옵션을 선택하시면서 결제 승인을 위해 등록하신 핀 427960을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "427960", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 130, "content": "계좌 해지 신청 전 본인 확인 절차로 최초 개설 시 설정하신 비밀번호 158743을 확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "158743", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 131, "content": "다른 금융 앱으로부터 데이터 이전 작업 시 기존 앱의 인증 번호 684920을 입력하시면 자동 마이그레이션됩니다.", "has_sensitive": true, "entities": [{"value": "684920", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 132, "content": "간편결제 분실 신고 접수 후 재발급받으신 새로운 임시 핀 번호는 316597입니다.", "has_sensitive": true, "entities": [{"value": "316597", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 133, "content": "결제 예약 서비스 등록을 완료하셨으며, 예약 시각에 자동으로 사용될 핀은 792345입니다.", "has_sensitive": true, "entities": [{"value": "792345", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 134, "content": "고객 만족도 조사 참여 감사 혜택 지급을 위해 본인 인증용 간편 비밀번호 845209를 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "845209", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 135, "content": "보안 등급 하향 조정 요청이 접수되었으나, 변경 전 본인 확인을 위해 현재 핀 번호 471863을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "471863", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 136, "content": "간편 환전 서비스 이용 시 외화 출금 승인을 위해 등록하신 결제 핀 932416을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "932416", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 137, "content": "정기 예금 만기 자동 연장 설정을 완료하시면서 본인 확인용 인증 번호 260785를 제출하셨습니다.", "has_sensitive": true, "entities": [{"value": "260785", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 138, "content": "모바일 결제 분쟁 조정 신청 건을 처리하기 위해 거래 당시 사용하신 핀 번호 607324를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "607324", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 139, "content": "앱 접속 차단이 해제되었으며, 재로그인 시 기존 설정하신 간편 비밀번호 539871을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "539871", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 140, "content": "간편 대출 신청 서류 제출이 완료되었으며, 최종 승인을 위해 모바일 핀 184920을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "184920", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 141, "content": "가상 계좌 발급 신청이 접수되었고, 첫 입금 확인 후 사용하실 인증 번호 726534가 생성되었습니다.", "has_sensitive": true, "entities": [{"value": "726534", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 142, "content": "복수 카드 동시 결제 기능을 활성화하시려면 주 결제 수단의 간편 핀 403968을 우선 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "403968", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 143, "content": "결제 내역 엑셀 다운로드 요청이 승인되었으며, 파일 암호는 귀하의 핀 번호 851247입니다.", "has_sensitive": true, "entities": [{"value": "851247", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 144, "content": "간편 보험료 자동 납부 설정을 완료하시면서 등록하신 결제 비밀번호 578692가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "578692", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 145, "content": "고객님의 앱 사용 패턴 분석 결과 이상 거래가 감지되어 본인 확인용 핀 번호 294103을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "294103", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 146, "content": "제휴 통신사 요금 합산 청구 서비스 가입을 위해 본인 인증 차원에서 간편 번호 637485를 입력하세요.", "has_sensitive": true, "entities": [{"value": "637485", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 147, "content": "결제 알림 문자 수신 설정을 변경하시더라도 거래 승인 시에는 등록된 핀 975128이 계속 사용됩니다.", "has_sensitive": true, "entities": [{"value": "975128", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 148, "content": "간편 적금 가입 신청이 완료되었으며, 매월 자동 이체 시 사용될 인증 번호는 416827입니다.", "has_sensitive": true, "entities": [{"value": "416827", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 149, "content": "보안 강화 캠페인 참여 고객에게 지급되는 포인트 수령을 위해 간편 비밀번호 764395를 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "764395", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 150, "content": "타사 페이 서비스와의 연동 설정을 완료하시면서 본인 확인용 모바일 핀 523186을 제출하셨습니다.", "has_sensitive": true, "entities": [{"value": "523186", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 151, "content": "긴급 출금 서비스 이용 신청이 승인되었으며, 즉시 처리를 위해 현재 핀 번호 830659를 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "830659", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 152, "content": "간편결제 이용 약관 개정에 따른 재동의 절차로 기존 설정 번호 195724를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "195724", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 153, "content": "모바일 청약 서비스 가입을 완료하셨으며, 청약 신청 시마다 입력하실 인증 핀은 648951입니다.", "has_sensitive": true, "entities": [{"value": "648951", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 154, "content": "결제 수단 보안 등급을 최상으로 설정하시면서 새롭게 등록하신 비밀번호 372518이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "372518", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 155, "content": "해외 직구 배송대행 서비스 결제를 진행하시려면 등록하신 간편 핀 번호 904162를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "904162", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 156, "content": "간편 세금 납부 서비스 최초 이용 시 본인 확인을 위해 모바일 결제 핀 527839를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "527839", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 157, "content": "고객님의 계좌 통합 조회 권한 부여 신청이 완료되었으며, 인증용 비밀번호 716043을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "716043", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 158, "content": "결제 실패 복구 프로세스가 시작되었으며, 재시도를 위해 등록하신 핀 번호 483729를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "483729", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 159, "content": "간편 펀드 투자 서비스 가입을 완료하시면서 설정하신 거래 인증 번호 659208이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "659208", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 160, "content": "보안 토큰 발급 신청이 승인되었으며, 토큰 활성화를 위해 현재 간편 핀 231674를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "231674", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 161, "content": "결제 한도 일시 증액 요청 건이 처리되었으며, 적용을 위해 본인 인증 번호 897051을 입력하세요.", "has_sensitive": true, "entities": [{"value": "897051", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 162, "content": "간편 전자서명 서비스 등록을 완료하셨으며, 서명 시마다 사용될 모바일 핀은 415280입니다.", "has_sensitive": true, "entities": [{"value": "415280", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 163, "content": "고객 등급 상향 조정 축하드리며, 프리미엄 혜택 적용을 위해 간편 비밀번호 762594를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "762594", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 164, "content": "복수 기기 동시 접속 허용 설정을 변경하시려면 보안 확인 차원에서 현재 핀 번호 308167을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "308167", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 165, "content": "간편 공과금 자동 납부 등록이 완료되었으며, 매월 납부일에 사용될 인증 번호는 586432입니다.", "has_sensitive": true, "entities": [{"value": "586432", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 166, "content": "결제 수단 추가 등록 신청이 접수되었으며, 승인을 위해 기존 설정 번호 924703을 제시해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "924703", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 167, "content": "모바일 상품권 구매 시 본인 인증 절차로 등록하신 간편결제 핀 671854를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "671854", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 168, "content": "간편 주식 매매 서비스 이용을 시작하시려면 새로운 거래 비밀번호 139527을 설정하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "139527", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 169, "content": "보안 업데이트 적용 완료 후 기존 설정하신 모바일 결제 핀 405978이 그대로 유지됩니다.", "has_sensitive": true, "entities": [{"value": "405978", "begin": 37, "end": 43, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 170, "content": "거래 명세 이메일 발송 신청이 승인되었으며, 본인 확인을 위해 간편 번호 782341을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "782341", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 171, "content": "간편 외화 송금 서비스 가입을 완료하시면서 등록하신 인증 핀 번호 516209가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "516209", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 172, "content": "결제 취소 수수료 환불 요청 건을 처리하기 위해 거래 시 사용하신 핀 번호 863472를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "863472", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 173, "content": "모바일 청구서 통합 조회 서비스 이용을 위해 본인 인증용 간편 비밀번호 290158을 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "290158", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 174, "content": "간편 자동차세 납부 기능 등록이 완료되었으며, 납부 시마다 사용될 모바일 핀은 754620입니다.", "has_sensitive": true, "entities": [{"value": "754620", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 175, "content": "보안 인증 방식 변경 신청이 접수되었으며, 처리 전 본인 확인을 위해 현재 핀 번호 437895를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "437895", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 176, "content": "결제 내역 PDF 출력 요청이 승인되었으며, 파일 다운로드 비밀번호는 귀하의 핀 621307입니다.", "has_sensitive": true, "entities": [{"value": "621307", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 177, "content": "간편 금 투자 서비스 가입을 완료하시면서 설정하신 거래 인증 번호 958143이 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "958143", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 178, "content": "고객님의 결제 패턴 학습 완료로 인해 의심 거래 발생 시 등록된 핀 번호 304826으로 추가 인증합니다.", "has_sensitive": true, "entities": [{"value": "304826", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 179, "content": "제휴 항공사 마일리지 통합 적립 서비스 이용을 위해 본인 인증 차원에서 간편 핀 172968을 입력하세요.", "has_sensitive": true, "entities": [{"value": "172968", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 180, "content": "결제 수단 유효성 검증 절차가 완료되었으며, 재확인을 위해 현재 비밀번호 689520을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "689520", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 181, "content": "간편 펫보험 자동 갱신 설정을 완료하시면서 등록하신 결제 핀 번호 845703이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "845703", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 182, "content": "모바일 복권 구매 서비스 이용 시 본인 확인 절차로 간편결제 비밀번호 521780을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "521780", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 183, "content": "보안 등급 재평가 결과 고위험 거래로 분류되어 추가 인증용 핀 번호 703429를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "703429", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 184, "content": "간편 통신비 자동 이체 등록이 완료되었으며, 매월 결제 시 사용될 인증 번호는 268914입니다.", "has_sensitive": true, "entities": [{"value": "268914", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 185, "content": "결제 이력 통계 조회 권한 부여 신청이 승인되었으며, 본인 확인용 모바일 핀 934678을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "934678", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 186, "content": "간편 기부금 자동 납부 서비스 가입을 완료하시면서 설정하신 결제 비밀번호 416203이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "416203", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 187, "content": "고객님의 앱 접속 위치가 변경 감지되어 보안 확인 차원에서 등록된 핀 번호 782596을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "782596", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 188, "content": "제휴 호텔 예약 결제 서비스 이용을 위해 본인 인증 절차로 간편 인증 번호 150834를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "150834", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 189, "content": "결제 시스템 점검 완료 후 재로그인 시 기존 설정하신 모바일 결제 핀 629475가 정상 작동합니다.", "has_sensitive": true, "entities": [{"value": "629475", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 190, "content": "간편 멤버십 자동 갱신 서비스 등록을 완료하셨으며, 갱신일마다 사용될 인증 핀은 357289입니다.", "has_sensitive": true, "entities": [{"value": "357289", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 191, "content": "보안 강화 모드 활성화 신청이 승인되었으며, 모든 거래 시 등록하신 비밀번호 904521을 요구합니다.", "has_sensitive": true, "entities": [{"value": "904521", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 192, "content": "거래 한도 자동 복구 설정을 완료하시면서 본인 확인용 간편 핀 번호 738162를 제출하셨습니다.", "has_sensitive": true, "entities": [{"value": "738162", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 193, "content": "간편 렌터카 결제 서비스 가입을 완료하셨으며, 예약 시마다 입력하실 모바일 핀은 261947입니다.", "has_sensitive": true, "entities": [{"value": "261947", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 194, "content": "결제 보안 알고리즘 업그레이드 완료로 기존 설정하신 인증 번호 589634가 새 시스템에 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "589634", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 195, "content": "고객님의 결제 선호도 분석 결과 맞춤형 서비스 제공을 위해 간편 비밀번호 472308을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "472308", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 196, "content": "간편 학원비 자동 납부 등록이 완료되었으며, 매월 지정일에 사용될 결제 핀은 825719입니다.", "has_sensitive": true, "entities": [{"value": "825719", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 197, "content": "제휴 영화관 예매 결제 서비스 이용을 위해 본인 인증 차원에서 모바일 핀 번호 604235를 입력하세요.", "has_sensitive": true, "entities": [{"value": "604235", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 198, "content": "결제 내역 클라우드 백업 설정을 완료하시면서 등록하신 보안 인증 번호 139854가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "139854", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 199, "content": "간편 병원비 자동 결제 서비스 가입을 완료하셨으며, 진료 후 자동 처리될 핀은 967408입니다.", "has_sensitive": true, "entities": [{"value": "967408", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 200, "content": "보안 정책 업데이트 동의 후 최종 확인 단계로 현재 사용 중인 간편 비밀번호 721630을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "721630", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 201, "content": "고객님께서 신청하신 간편 대출 한도 증액 건이 승인되었으며, 출금 시 사용하실 인증 핀은 548923입니다.", "has_sensitive": true, "entities": [{"value": "548923", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 202, "content": "모바일 포인트 선물 받기 기능을 활성화하시려면 본인 확인 절차로 간편결제 비밀번호 392647을 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "392647", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 203, "content": "결제 시스템 보안 강화 업데이트로 인해 고객님의 기존 핀 번호 715382를 재등록하셔야 서비스 이용이 가능합니다.", "has_sensitive": true, "entities": [{"value": "715382", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 204, "content": "간편 주차비 자동 정산 서비스 등록을 완료하셨으며, 출차 시마다 사용될 모바일 핀은 864209입니다.", "has_sensitive": true, "entities": [{"value": "864209", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 205, "content": "제휴 배달 앱 통합 결제 설정 시 본인 인증 차원에서 등록하신 간편 번호 431756을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "431756", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 206, "content": "보안 질문 답변 변경 요청이 접수되었으며, 처리를 위해 현재 결제 비밀번호 629081을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "629081", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 207, "content": "거래 알림 설정을 실시간으로 변경하시면서 보안 확인용 인증 핀 번호 907543을 제출하셨습니다.", "has_sensitive": true, "entities": [{"value": "907543", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 208, "content": "간편 구독료 자동 결제 등록이 완료되었으며, 매월 청구일에 등록하신 핀 285674로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "285674", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 209, "content": "결제 한도 재설정 신청이 승인되어 새로운 한도 적용을 위해 간편 인증 번호 753928을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "753928", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 210, "content": "모바일 티켓 구매 서비스 최초 이용 시 본인 확인을 위해 설정하신 결제 핀 146892를 입력하세요.", "has_sensitive": true, "entities": [{"value": "146892", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 211, "content": "간편 전기요금 자동 납부 설정을 완료하시면서 등록하신 모바일 비밀번호 524369가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "524369", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 212, "content": "고객님의 계좌 보안 등급이 상향 조정되었으며, 변경 적용을 위해 현재 핀 번호 891730을 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "891730", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 213, "content": "제휴 피트니스 센터 회원권 자동 갱신 결제를 위해 본인 인증용 간편 핀 637425를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "637425", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 214, "content": "결제 내역 공유 기능 설정 시 보안 확인 절차로 등록하신 인증 번호 309587을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "309587", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 215, "content": "간편 수도요금 자동 이체 등록이 완료되었으며, 분기별 결제 시 사용될 핀은 765241입니다.", "has_sensitive": true, "entities": [{"value": "765241", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 216, "content": "모바일 게임 아이템 구매 시에도 부정 거래 방지를 위해 간편결제 비밀번호 482136을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "482136", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 217, "content": "보안 인증서 재발급 신청이 완료되었으며, 활성화를 위해 기존 설정 번호 927468을 제시해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "927468", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 218, "content": "거래 내역 조회 범위 확대 요청 건을 처리하기 위해 본인 확인용 모바일 핀 654037을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "654037", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 219, "content": "간편 도시가스 요금 자동 납부 서비스 가입을 완료하시면서 설정하신 결제 핀 번호 831695가 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "831695", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 220, "content": "결제 분쟁 해결 절차 진행을 위해 거래 당시 입력하셨던 간편 인증 번호 270854를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "270854", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 221, "content": "모바일 교통카드 충전 서비스 이용 시 본인 확인 절차로 등록된 핀 번호 596123을 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "596123", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 222, "content": "간편 아파트 관리비 자동 이체 등록을 완료하셨으며, 매월 납부일에 사용될 인증 핀은 413782입니다.", "has_sensitive": true, "entities": [{"value": "413782", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 223, "content": "고객님의 결제 수단 변경 이력을 확인하기 위해 최초 등록 시 설정하신 비밀번호 708549를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "708549", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 224, "content": "제휴 온라인 강의 플랫폼 결제 연동을 위해 본인 인증 차원에서 간편 핀 번호 925417을 입력하세요.", "has_sensitive": true, "entities": [{"value": "925417", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 225, "content": "결제 시스템 마이그레이션 완료로 기존 설정하신 모바일 결제 핀 364829가 새 플랫폼에 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "364829", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 226, "content": "간편 정기 기부 자동 결제 서비스 등록을 완료하시면서 등록하신 인증 번호 582071이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "582071", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 227, "content": "보안 이상 징후 감지로 계정이 일시 잠금 처리되었으며, 해제를 위해 현재 핀 번호 147963을 제출하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "147963", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 228, "content": "거래 한도 복구 완료 알림과 함께 보안 재확인 차원에서 등록하신 간편 비밀번호 839256을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "839256", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 229, "content": "모바일 쇼핑 앱 통합 간편결제 서비스 이용을 위해 본인 인증용 결제 핀 476185를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "476185", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 230, "content": "간편 케이블 방송료 자동 납부 설정을 완료하셨으며, 월별 결제 시 사용될 모바일 핀은 691437입니다.", "has_sensitive": true, "entities": [{"value": "691437", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 231, "content": "결제 보안 등급 재평가 절차에서 고객님의 현재 인증 번호 253890을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "253890", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 232, "content": "제휴 서점 전자책 구매 결제 서비스 가입을 완료하시면서 설정하신 간편 핀 번호 817602가 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "817602", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 233, "content": "고객님의 앱 접속 기기가 변경되어 보안 확인 절차로 기존 등록 번호 504728을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "504728", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 234, "content": "간편 인터넷 요금 자동 이체 등록이 완료되었으며, 매월 지정일에 등록하신 핀 362945로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "362945", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 235, "content": "모바일 음원 스트리밍 구독료 결제를 위해 본인 확인 차원에서 간편결제 비밀번호 729143을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "729143", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 236, "content": "결제 한도 임시 해제 요청이 승인되었으며, 적용을 위해 현재 설정 번호 958637을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "958637", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 237, "content": "간편 보험료 자동 갱신 서비스 등록을 완료하시면서 등록하신 모바일 인증 핀 431859가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "431859", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 238, "content": "보안 업데이트 설치 완료 후 재부팅 시 기존 설정하신 결제 비밀번호 675240이 유지됩니다.", "has_sensitive": true, "entities": [{"value": "675240", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 239, "content": "거래 내역 엑스포트 기능 이용을 위해 본인 인증 절차로 간편 핀 번호 208564를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "208564", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 240, "content": "모바일 편의점 상품권 구매 서비스 이용 시 등록하신 인증 번호 847921을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "847921", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 241, "content": "간편 건강보험료 자동 납부 설정을 완료하셨으며, 분기별 결제 시 사용될 핀은 593067입니다.", "has_sensitive": true, "entities": [{"value": "593067", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 242, "content": "결제 수단 통합 관리 서비스 가입 신청이 완료되었으며, 마스터 비밀번호 726438을 설정하셨습니다.", "has_sensitive": true, "entities": [{"value": "726438", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 243, "content": "제휴 뷰티 앱 상품 결제 연동을 위해 본인 확인 차원에서 모바일 결제 핀 164829를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "164829", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 244, "content": "고객님의 결제 패턴 변경 감지로 보안 검증 절차가 시작되어 현재 핀 번호 485372를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "485372", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 245, "content": "간편 자동차 보험료 자동 이체 등록이 완료되었으며, 갱신 시마다 등록하신 인증 번호 903745가 사용됩니다.", "has_sensitive": true, "entities": [{"value": "903745", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 246, "content": "모바일 OTT 구독 서비스 통합 결제를 위해 본인 인증 절차로 간편 비밀번호 237608을 입력하세요.", "has_sensitive": true, "entities": [{"value": "237608", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 247, "content": "결제 시스템 오류 복구 완료 후 정상 거래 재개를 위해 설정하신 핀 번호 671954를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "671954", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 248, "content": "간편 국민연금 자동 납부 서비스 가입을 완료하시면서 등록하신 결제 핀 528136이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "528136", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 249, "content": "보안 강화 옵션 적용 신청이 승인되어 모든 거래 시 간편 인증 번호 894207을 요구합니다.", "has_sensitive": true, "entities": [{"value": "894207", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 250, "content": "거래 승인 속도 개선 업데이트 완료로 기존 등록하신 모바일 핀 315768이 더욱 빠르게 처리됩니다.", "has_sensitive": true, "entities": [{"value": "315768", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 251, "content": "제휴 애완용품 쇼핑몰 간편결제 연동을 위해 본인 확인용 결제 비밀번호 746921을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "746921", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 252, "content": "모바일 쿠팡 직구 상품 결제 시에도 보안 확인 절차로 등록된 핀 번호 209483을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "209483", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 253, "content": "간편 국세청 세금 자동 납부 설정을 완료하셨으며, 납부 시마다 사용될 인증 번호는 582647입니다.", "has_sensitive": true, "entities": [{"value": "582647", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 254, "content": "결제 알림 수신 방법 변경 신청이 완료되었으며, 적용을 위해 현재 간편 핀 917354를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "917354", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 255, "content": "고객님의 VIP 등급 유지를 위한 자동 갱신 결제에 등록하신 모바일 비밀번호 463728이 사용됩니다.", "has_sensitive": true, "entities": [{"value": "463728", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 256, "content": "간편 취득세 자동 납부 서비스 등록이 완료되었으며, 신고 시 등록하신 결제 핀 735029로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "735029", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 257, "content": "제휴 식료품 배송 앱 통합 결제 설정을 위해 본인 인증 차원에서 간편 번호 851396을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "851396", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 258, "content": "모바일 웹툰 유료 콘텐츠 구매 시 부정 사용 방지를 위해 간편결제 핀 번호 297514를 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "297514", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 259, "content": "결제 수단 우선순위 자동 조정 기능 활성화를 위해 설정하신 인증 번호 604872를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "604872", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 260, "content": "간편 재산세 자동 이체 등록을 완료하시면서 등록하신 모바일 결제 핀 429618이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "429618", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 261, "content": "보안 인증 실패 횟수 초기화 요청이 승인되어 기존 비밀번호 786235를 그대로 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "786235", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 262, "content": "거래 한도 세분화 설정 완료로 고액 거래 시 추가 인증용 간편 핀 번호 153907을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "153907", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 263, "content": "제휴 홈쇼핑 앱 간편결제 연동을 위해 본인 확인 절차로 등록하신 결제 핀 524891을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "524891", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 264, "content": "모바일 주유 결제 서비스 최초 이용 시 본인 인증을 위해 간편 비밀번호 870634를 입력하세요.", "has_sensitive": true, "entities": [{"value": "870634", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 265, "content": "간편 자동차세 자동 납부 설정을 완료하셨으며, 매년 납부일에 사용될 인증 핀은 316579입니다.", "has_sensitive": true, "entities": [{"value": "316579", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 266, "content": "결제 내역 PDF 변환 서비스 이용을 위해 본인 확인 차원에서 모바일 핀 번호 692408을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "692408", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 267, "content": "고객님의 결제 보안 등급이 프리미엄으로 업그레이드되어 새로운 인증 번호 745120이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "745120", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 268, "content": "간편 지방세 통합 납부 서비스 등록이 완료되었으며, 신고 시마다 등록하신 핀 928357로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "928357", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 269, "content": "제휴 패션 플랫폼 간편결제 서비스 가입을 완료하시면서 설정하신 결제 비밀번호 481763이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "481763", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 270, "content": "모바일 중고거래 에스크로 결제 시 본인 확인 절차로 간편 인증 번호 657924를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "657924", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 271, "content": "결제 분쟁 조정 위원회 제출 서류 승인을 위해 거래 당시 사용하신 핀 번호 203851을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "203851", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 272, "content": "간편 종합소득세 자동 납부 설정을 완료하셨으며, 신고 기간에 사용될 모바일 핀은 836294입니다.", "has_sensitive": true, "entities": [{"value": "836294", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 273, "content": "보안 강화 알고리즘 적용 완료로 기존 설정하신 간편결제 비밀번호 579402가 새로운 방식으로 암호화되었습니다.", "has_sensitive": true, "entities": [{"value": "579402", "begin": 41, "end": 47, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 274, "content": "거래 승인 지연 해제 요청이 접수되었으며, 즉시 처리를 위해 현재 인증 핀 412678을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "412678", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 275, "content": "제휴 가구 쇼핑몰 할부 결제 서비스 이용을 위해 본인 확인용 간편 번호 790235를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "790235", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 276, "content": "모바일 전자상거래 안전결제 서비스 가입을 완료하시면서 등록하신 결제 핀 624981이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "624981", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 277, "content": "간편 부가가치세 자동 납부 등록이 완료되었으며, 분기별 신고 시 사용될 인증 번호는 351840입니다.", "has_sensitive": true, "entities": [{"value": "351840", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 278, "content": "결제 한도 긴급 복구 신청이 승인되어 보안 재확인 차원에서 간편 비밀번호 986527을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "986527", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 279, "content": "고객님의 다중 인증 설정이 활성화되어 거래마다 등록하신 모바일 핀 번호 473165가 요구됩니다.", "has_sensitive": true, "entities": [{"value": "473165", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 280, "content": "간편 환경부담금 자동 이체 서비스 등록을 완료하시면서 설정하신 결제 핀 718039가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "718039", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 281, "content": "제휴 가전제품 렌탈 월납금 자동 결제를 위해 본인 인증 절차로 간편 인증 번호 205847을 입력하세요.", "has_sensitive": true, "entities": [{"value": "205847", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 282, "content": "모바일 명품 쇼핑 앱 프리미엄 결제 서비스 가입 시 등록하신 비밀번호 564932를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "564932", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 283, "content": "결제 시스템 정기 점검 완료 후 재접속 시 기존 설정하신 간편 핀 번호 893704를 그대로 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "893704", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 284, "content": "간편 교육세 자동 납부 설정을 완료하셨으며, 과세 기간마다 등록하신 모바일 핀 427396으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "427396", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 285, "content": "보안 토큰 동기화 작업이 완료되어 모든 기기에서 동일한 인증 번호 750218을 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "750218", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 286, "content": "거래 내역 백업 복원 요청이 승인되었으며, 데이터 복구를 위해 현재 핀 번호 639825를 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "639825", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 287, "content": "제휴 반려동물 용품 쇼핑몰 간편결제 연동을 위해 본인 확인용 결제 핀 182569를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "182569", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 288, "content": "모바일 클래스 수강료 자동 결제 서비스 이용 시 등록하신 간편 비밀번호 914637을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "914637", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 289, "content": "간편 농어촌특별세 자동 납부 등록이 완료되었으며, 신고 시마다 사용될 인증 핀은 367804입니다.", "has_sensitive": true, "entities": [{"value": "367804", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 290, "content": "결제 승인 알림 채널 변경 신청이 완료되었으며, 적용을 위해 간편 인증 번호 825471을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "825471", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 291, "content": "고객님의 결제 이력 분석 서비스 가입을 완료하시면서 설정하신 모바일 핀 번호 541093이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "541093", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 292, "content": "간편 증권거래세 자동 납부 서비스 등록을 완료하셨으며, 매매 시마다 등록하신 핀 709462로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "709462", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 293, "content": "제휴 스포츠 용품 할인몰 간편결제 설정을 위해 본인 인증 차원에서 결제 비밀번호 436718을 입력하세요.", "has_sensitive": true, "entities": [{"value": "436718", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 294, "content": "모바일 크라우드 펀딩 후원금 결제 시 본인 확인 절차로 간편 핀 번호 875230을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "875230", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 295, "content": "결제 수단 보안 검증 절차가 완료되어 기존 등록하신 인증 번호 192584가 정상 작동합니다.", "has_sensitive": true, "entities": [{"value": "192584", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 296, "content": "간편 주민세 자동 이체 설정을 완료하셨으며, 과세 기준일에 사용될 모바일 핀은 648705입니다.", "has_sensitive": true, "entities": [{"value": "648705", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 297, "content": "보안 정책 준수 확인 절차에서 고객님의 현재 간편결제 비밀번호 523967을 재확인하겠습니다.", "has_sensitive": true, "entities": [{"value": "523967", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 298, "content": "거래 한도 자동 조정 기능 활성화 요청이 승인되어 등록하신 핀 번호 761429를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "761429", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 299, "content": "제휴 헬스케어 앱 구독료 자동 결제를 위해 본인 인증용 간편 인증 번호 384051을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "384051", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 300, "content": "모바일 음식 배달 멤버십 갱신 결제 시 등록하신 결제 핀 번호 907536을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "907536", "begin": 40, "end": 46, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 301, "content": "간편 인지세 자동 납부 등록이 완료되었으며, 계약 체결 시마다 사용될 인증 핀은 256891입니다.", "has_sensitive": true, "entities": [{"value": "256891", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 302, "content": "결제 오류 자동 복구 시스템 작동으로 고객님의 간편 비밀번호 672103을 재검증하고자 합니다.", "has_sensitive": true, "entities": [{"value": "672103", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 303, "content": "고객님의 생체 인증 연동 설정 완료로 지문 인식과 함께 백업용 핀 번호 419785가 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "419785", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 304, "content": "간편 증여세 자동 납부 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 834620이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "834620", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 305, "content": "제휴 여행사 패키지 예약 결제 서비스 이용을 위해 본인 확인 차원에서 간편 번호 508742를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "508742", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 306, "content": "모바일 공연 티켓 선예매 결제 시 본인 인증 절차로 등록된 결제 핀 번호 293468을 입력하세요.", "has_sensitive": true, "entities": [{"value": "293468", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 307, "content": "결제 알림 실시간 푸시 설정 변경 완료로 거래마다 간편 인증 번호 765924를 계속 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "765924", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 308, "content": "간편 상속세 자동 이체 등록을 완료하셨으며, 신고 기한 내 등록하신 핀 148653으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "148653", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 309, "content": "보안 강화 캠페인 완료 기념 포인트 지급을 위해 본인 확인용 간편 비밀번호 920437을 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "920437", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 310, "content": "거래 내역 세부 분류 서비스 가입 신청이 완료되어 등록하신 모바일 핀 번호 581369가 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "581369", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 311, "content": "제휴 서적 구매 적립금 통합 관리 서비스 이용을 위해 간편 인증 번호 746201을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "746201", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 312, "content": "모바일 전기차 충전 요금 자동 결제 서비스 등록 시 설정하신 결제 핀 403895가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "403895", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 313, "content": "간편 개별소비세 자동 납부 설정을 완료하셨으며, 과세 대상 구매 시 사용될 인증 번호는 629187입니다.", "has_sensitive": true, "entities": [{"value": "629187", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 314, "content": "결제 승인 대기 시간 단축 서비스 적용 완료로 기존 핀 번호 874530을 더욱 빠르게 처리합니다.", "has_sensitive": true, "entities": [{"value": "874530", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 315, "content": "고객님의 간편결제 사용 이력 5년치 아카이빙이 완료되어 초기 설정 비밀번호 215974를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "215974", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 316, "content": "간편 법인세 자동 납부 등록이 완료되었으며, 결산 시기마다 등록하신 모바일 핀 536782로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "536782", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 317, "content": "제휴 스트리밍 플랫폼 프리미엄 구독료 자동 결제를 위해 본인 인증용 간편 핀 962408을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "962408", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 318, "content": "모바일 자산관리 앱 연동 서비스 가입을 완료하시면서 설정하신 결제 비밀번호 384697이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "384697", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 319, "content": "결제 한도 복합 인증 시스템 활성화로 고액 거래 시 등록하신 인증 핀 701825를 추가 요구합니다.", "has_sensitive": true, "entities": [{"value": "701825", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 320, "content": "간편 지역자원시설세 자동 이체 설정을 완료하셨으며, 납부 시마다 사용될 핀은 459326입니다.", "has_sensitive": true, "entities": [{"value": "459326", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 321, "content": "보안 위협 감지 시스템 업그레이드 완료로 의심 거래 발생 시 간편 비밀번호 827591을 재확인합니다.", "has_sensitive": true, "entities": [{"value": "827591", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 322, "content": "거래 패턴 AI 분석 서비스 가입 신청이 승인되어 본인 확인용 모바일 핀 번호 593048을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "593048", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 323, "content": "제휴 화장품 브랜드 멤버십 자동 갱신 결제를 위해 간편 인증 번호 146273을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "146273", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 324, "content": "모바일 주식 자동매매 시스템 연동 시 등록하신 거래 전용 핀 번호 768905를 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "768905", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 325, "content": "간편 담배소비세 자동 납부 등록이 완료되었으며, 구매 시마다 등록하신 인증 번호 430817로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "430817", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 326, "content": "결제 수단 통합 연동 플랫폼 가입 완료로 모든 앱에서 동일한 간편 핀 254786을 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "254786", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 327, "content": "고객님의 결제 보안 레벨 최고등급 달성을 축하하며, 현재 비밀번호 982341을 지속 관리하시길 권장합니다.", "has_sensitive": true, "entities": [{"value": "982341", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 328, "content": "간편 관세 자동 납부 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 617529가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "617529", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 329, "content": "제휴 가구 렌탈 월 사용료 자동 결제를 위해 본인 인증 차원에서 간편 비밀번호 349806을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "349806", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 330, "content": "모바일 클라우드 스토리지 요금제 업그레이드 결제 시 등록된 결제 핀 번호 705428을 입력하세요.", "has_sensitive": true, "entities": [{"value": "705428", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 331, "content": "결제 이력 블록체인 저장 서비스 가입 완료로 기존 설정하신 인증 번호 831956이 암호화되었습니다.", "has_sensitive": true, "entities": [{"value": "831956", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 332, "content": "간편 종합부동산세 자동 납부 설정을 완료하셨으며, 과세 기준일에 사용될 모바일 핀은 427690입니다.", "has_sensitive": true, "entities": [{"value": "427690", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 333, "content": "보안 키 자동 갱신 설정 활성화로 매월 자동 변경되는 임시 비밀번호 564872를 확인하고자 합니다.", "has_sensitive": true, "entities": [{"value": "564872", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 334, "content": "거래 승인 다중 서명 기능 설정 완료로 주 인증자의 간편 핀 번호 193745가 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "193745", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 335, "content": "제휴 도서 구독 서비스 월 이용료 자동 결제를 위해 본인 인증용 간편 인증 번호 870213을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "870213", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 336, "content": "모바일 암호화폐 거래소 연동 서비스 이용 시 등록하신 보안 비밀번호 528641을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "528641", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 337, "content": "간편 레저세 자동 납부 등록이 완료되었으며, 시설 이용 시마다 등록하신 핀 946307로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "946307", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 338, "content": "결제 알림 스마트워치 연동 설정 완료로 모든 거래 시 간편 인증 번호 612459를 요청합니다.", "has_sensitive": true, "entities": [{"value": "612459", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 339, "content": "고객님의 간편결제 연간 사용액 VIP 등급 달성으로 프리미엄 핀 번호 385927이 부여되었습니다.", "has_sensitive": true, "entities": [{"value": "385927", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 340, "content": "간편 특허 출원료 자동 납부 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 749682가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "749682", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 341, "content": "제휴 육아용품 쇼핑몰 정기배송 결제 서비스 이용을 위해 간편 비밀번호 207354를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "207354", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 342, "content": "모바일 백신 프로그램 라이선스 갱신 결제 시 본인 확인 절차로 등록된 핀 번호 863129를 입력하세요.", "has_sensitive": true, "entities": [{"value": "863129", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 343, "content": "결제 한도 시간대별 자동 조정 기능 활성화로 심야 시간 거래 시 간편 핀 491768을 추가 요구합니다.", "has_sensitive": true, "entities": [{"value": "491768", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 344, "content": "간편 농지세 자동 이체 설정을 완료하셨으며, 과세 기준일마다 사용될 인증 번호는 634205입니다.", "has_sensitive": true, "entities": [{"value": "634205", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 345, "content": "보안 강화 생체인증 옵션 추가 설정 완료로 얼굴 인식과 함께 백업 비밀번호 908573이 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "908573", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 346, "content": "거래 내역 세무 신고 자동 연동 서비스 가입 신청이 승인되어 본인 확인용 모바일 핀 742816을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "742816", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 347, "content": "제휴 반려동물 병원 진료비 자동 결제를 위해 본인 인증 차원에서 간편 인증 번호 376948을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "376948", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 348, "content": "모바일 언어 학습 앱 프리미엄 구독 결제 시 등록하신 결제 핀 번호 519283을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "519283", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 349, "content": "간편 인지세 전자 납부 등록이 완료되었으며, 계약서 작성 시마다 등록하신 핀 825607로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "825607", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 350, "content": "결제 오류 자동 재시도 시스템 활성화로 실패 시 등록하신 간편 비밀번호 460139를 재사용합니다.", "has_sensitive": true, "entities": [{"value": "460139", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 351, "content": "고객님의 결제 보안 점수 만점 달성을 축하하며, 우수 고객 전용 인증 핀 793520이 부여되었습니다.", "has_sensitive": true, "entities": [{"value": "793520", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 352, "content": "간편 등록면허세 자동 납부 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 241896이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "241896", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 353, "content": "제휴 홈 인테리어 시공비 분할 결제 서비스 이용을 위해 간편 인증 번호 678452를 요청드립니다.", "has_sensitive": true, "entities": [{"value": "678452", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 354, "content": "모바일 명상 앱 프리미엄 멤버십 자동 갱신 결제 시 본인 확인용 결제 핀 904731을 입력하세요.", "has_sensitive": true, "entities": [{"value": "904731", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 355, "content": "결제 승인 속도 최적화 알고리즘 적용 완료로 기존 설정하신 인증 번호 532847이 더욱 빠르게 작동합니다.", "has_sensitive": true, "entities": [{"value": "532847", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 356, "content": "간편 면허세 자동 이체 설정을 완료하셨으며, 갱신 기간마다 등록하신 모바일 핀 167923으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "167923", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 357, "content": "보안 등급 자동 업그레이드 시스템 작동으로 고객님의 간편 비밀번호 845602를 재암호화하였습니다.", "has_sensitive": true, "entities": [{"value": "845602", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 358, "content": "거래 분쟁 자동 중재 서비스 가입 신청이 완료되어 본인 확인용 간편 핀 번호 391578을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "391578", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 359, "content": "제휴 스마트홈 기기 구독 서비스 월 사용료 자동 결제를 위해 간편 인증 번호 726304를 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "726304", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 360, "content": "모바일 요가 클래스 수강료 정기 결제 서비스 등록 시 설정하신 결제 핀 580941이 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "580941", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 361, "content": "간편 마권세 자동 납부 등록이 완료되었으며, 당첨금 수령 시마다 등록하신 핀 417685로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "417685", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 362, "content": "결제 알림 AI 챗봇 연동 설정 완료로 모든 거래 시 간편 비밀번호 953726을 스마트하게 관리합니다.", "has_sensitive": true, "entities": [{"value": "953726", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 363, "content": "고객님의 간편결제 보안 만료일 자동 연장 설정 완료로 현재 인증 핀 269847이 1년 연장되었습니다.", "has_sensitive": true, "entities": [{"value": "269847", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 364, "content": "간편 과태료 자동 납부 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 684931이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "684931", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 365, "content": "제휴 프리미엄 청소 서비스 정기 결제를 위해 본인 인증 차원에서 간편 비밀번호 802473을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "802473", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 366, "content": "모바일 다이어트 앱 코칭 프로그램 구독료 결제 시 등록된 결제 핀 번호 538162를 입력하세요.", "has_sensitive": true, "entities": [{"value": "538162", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 367, "content": "결제 한도 위험도 기반 동적 조정 시스템 활성화로 고위험 거래 시 간편 핀 976520을 추가 확인합니다.", "has_sensitive": true, "entities": [{"value": "976520", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 368, "content": "간편 골프장 이용세 자동 납부 설정을 완료하셨으며, 라운딩마다 사용될 인증 번호는 421769입니다.", "has_sensitive": true, "entities": [{"value": "421769", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 369, "content": "보안 인증 방식 하이브리드 모드 전환 완료로 패턴과 함께 백업 비밀번호 758304가 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "758304", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 370, "content": "거래 내역 회계 프로그램 자동 연동 서비스 가입 승인으로 본인 확인용 모바일 핀 635948을 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "635948", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 371, "content": "제휴 식물 구독 서비스 월 배송료 자동 결제를 위해 간편 인증 번호 192857을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "192857", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 372, "content": "모바일 명상 음원 프리미엄 패키지 구독 결제 시 본인 확인용 결제 핀 847605를 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "847605", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 373, "content": "간편 경주마권세 자동 납부 등록이 완료되었으며, 환급금 수령 시마다 등록하신 핀 503824로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "503824", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 374, "content": "결제 승인 블록체인 검증 시스템 도입 완료로 기존 설정하신 간편 비밀번호 279461이 분산 저장됩니다.", "has_sensitive": true, "entities": [{"value": "279461", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 375, "content": "고객님의 결제 보안 골드 등급 유지 기간 5년 달성으로 특별 인증 핀 914730이 영구 부여되었습니다.", "has_sensitive": true, "entities": [{"value": "914730", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 376, "content": "간편 도축세 자동 이체 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 356892가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "356892", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 377, "content": "제휴 심리상담 앱 세션 비용 자동 결제 서비스 이용을 위해 간편 인증 번호 608427을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "608427", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 378, "content": "모바일 악기 레슨 월 수강료 정기 결제 시 본인 확인 절차로 등록된 결제 핀 782534를 입력하세요.", "has_sensitive": true, "entities": [{"value": "782534", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 379, "content": "결제 한도 머신러닝 기반 실시간 조정 기능 활성화로 패턴 이상 시 간편 핀 145698을 재확인합니다.", "has_sensitive": true, "entities": [{"value": "145698", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 380, "content": "간편 종합토지세 자동 납부 설정을 완료하셨으며, 과세 기준일마다 사용될 인증 번호는 921365입니다.", "has_sensitive": true, "entities": [{"value": "921365", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 381, "content": "보안 강화 다단계 인증 시스템 적용 완료로 음성 인식과 함께 백업 비밀번호 567820이 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "567820", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 382, "content": "거래 승인 양자 암호화 프로토콜 적용 완료로 고객님의 모바일 핀 번호 430279가 최고 수준으로 보호됩니다.", "has_sensitive": true, "entities": [{"value": "430279", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 383, "content": "제휴 반려식물 관리 구독 서비스 월 이용료 자동 결제를 위해 간편 인증 번호 896143을 입력해 주십시오.", "has_sensitive": true, "entities": [{"value": "896143", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 384, "content": "모바일 수면 분석 앱 프리미엄 기능 구독료 결제 시 등록하신 결제 핀 718506을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "718506", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 385, "content": "간편 경륜세 자동 납부 등록이 완료되었으며, 배당금 지급 시마다 등록하신 핀 352941로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "352941", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 386, "content": "결제 알림 웨어러블 기기 동기화 설정 완료로 모든 거래 시 간편 비밀번호 684275를 실시간 확인합니다.", "has_sensitive": true, "entities": [{"value": "684275", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 387, "content": "고객님의 간편결제 플래티넘 등급 승급을 축하하며, 프리미엄 전용 인증 핀 209783이 발급되었습니다.", "has_sensitive": true, "entities": [{"value": "209783", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 388, "content": "간편 납골당 사용료 자동 이체 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 537608이 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "537608", "begin": 57, "end": 63, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 389, "content": "제휴 반려동물 보험료 자동 갱신 결제 서비스 이용을 위해 본인 인증용 간편 번호 965241을 요청드립니다.", "has_sensitive": true, "entities": [{"value": "965241", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 390, "content": "모바일 사진 인화 서비스 월 구독료 결제 시 본인 확인 절차로 등록된 결제 핀 842397을 입력하세요.", "has_sensitive": true, "entities": [{"value": "842397", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 391, "content": "결제 한도 감정 분석 AI 연동 시스템 활성화로 충동 구매 의심 시 간편 핀 731580을 재요구합니다.", "has_sensitive": true, "entities": [{"value": "731580", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 392, "content": "간편 면세점 구매세 자동 납부 설정을 완료하셨으며, 출국 시마다 사용될 인증 번호는 469852입니다.", "has_sensitive": true, "entities": [{"value": "469852", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 393, "content": "보안 인증 홍채 스캔 옵션 추가 설정 완료로 생체 인식과 함께 백업 비밀번호 825476이 등록되었습니다.", "has_sensitive": true, "entities": [{"value": "825476", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 394, "content": "거래 내역 세무사 공유 기능 활성화 신청이 승인되어 본인 확인용 모바일 핀 번호 390614를 확인 중입니다.", "has_sensitive": true, "entities": [{"value": "390614", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 395, "content": "제휴 꽃 정기배송 서비스 월 구독료 자동 결제를 위해 간편 인증 번호 658923을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "658923", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 396, "content": "모바일 운세 상담 프리미엄 서비스 이용권 결제 시 등록하신 결제 핀 172498을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "172498", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 397, "content": "간편 수렵세 자동 납부 등록이 완료되었으며, 허가증 갱신 시마다 등록하신 핀 904736으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "904736", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 398, "content": "결제 승인 제로 트러스트 보안 모델 적용 완료로 매 거래마다 간편 비밀번호 547821을 엄격히 검증합니다.", "has_sensitive": true, "entities": [{"value": "547821", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 399, "content": "고객님의 결제 보안 다이아몬드 등급 달성을 축하하며, 최상위 인증 핀 283695가 영구 적용되었습니다.", "has_sensitive": true, "entities": [{"value": "283695", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 400, "content": "간편 산림보호세 자동 이체 서비스 가입을 완료하시면서 설정하신 모바일 결제 핀 716402가 최종 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "716402", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 601, "content": "오늘 새벽 시스템 유지보수 완료 후 정상 서비스가 재개되었으며, 기존 등록하신 결제 핀 842367을 계속 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "842367", "begin": 62, "end": 68, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 602, "content": "월 구독료 자동 결제일이 내일로 예정되어 있으며, 등록된 간편 인증 번호 519428로 결제가 진행됩니다.", "has_sensitive": true, "entities": [{"value": "519428", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 603, "content": "결제 승인 완료 알림과 함께 영수증이 발송되었으며, 거래 시 입력하신 핀 번호 706314를 확인해 주세요.", "has_sensitive": true, "entities": [{"value": "706314", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 604, "content": "고객님께서 요청하신 결제 수단 삭제 건이 처리되었으며, 본인 확인을 위해 마지막으로 사용하신 핀 284951을 기록했습니다.", "has_sensitive": true, "entities": [{"value": "284951", "begin": 64, "end": 70, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 605, "content": "간편결제 서비스 약관 동의 후 첫 거래를 진행하시려면 설정하신 비밀번호 637890을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "637890", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 606, "content": "포인트 사용 결제 건이 정상 승인되었으며, 본인 인증 절차에서 입력하신 인증 핀 491523이 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "491523", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 607, "content": "정기 구독 해지 신청이 접수되었으며, 마지막 결제 시 사용된 간편 비밀번호 825670을 기록 보관합니다.", "has_sensitive": true, "entities": [{"value": "825670", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 608, "content": "모바일 앱 로그인 후 첫 결제를 시도하시면 등록하신 결제 핀 374926을 입력하라는 메시지가 표시됩니다.", "has_sensitive": true, "entities": [{"value": "374926", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 609, "content": "결제 실패 건에 대한 재처리가 완료되었으며, 두 번째 시도 시 입력하신 핀 번호 158703으로 정상 승인되었습니다.", "has_sensitive": true, "entities": [{"value": "158703", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 610, "content": "할인 쿠폰 적용 결제를 진행하시려면 본인 확인 차원에서 간편결제 비밀번호 902641을 다시 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "902641", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 611, "content": "고객님의 요청으로 결제 알림 설정이 변경되었으며, 적용을 위해 현재 사용 중인 핀 736284를 확인했습니다.", "has_sensitive": true, "entities": [{"value": "736284", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 612, "content": "정기 결제 카드 유효기간 만료 알림과 함께 새 카드 등록을 위해 기존 인증 번호 521948을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "521948", "begin": 59, "end": 65, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 613, "content": "간편결제 한도 조회 요청이 승인되었으며, 본인 확인 절차로 등록된 모바일 핀 649317을 사용했습니다.", "has_sensitive": true, "entities": [{"value": "649317", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 614, "content": "거래 취소 요청 건이 정상 처리되었으며, 환불 승인을 위해 원 거래 시 사용하신 핀 번호 384705를 확인했습니다.", "has_sensitive": true, "entities": [{"value": "384705", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 615, "content": "월 사용 한도가 초기화되어 새로운 한도가 적용되었으며, 첫 거래 시 간편 비밀번호 807234를 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "807234", "begin": 57, "end": 63, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 616, "content": "결제 수단 변경 완료 후 첫 번째 거래를 진행하시려면 새로 설정하신 인증 핀 275649를 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "275649", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 617, "content": "고객센터를 통해 문의하신 결제 오류 건은 등록된 간편 비밀번호 963170으로 재시도 후 해결되었습니다.", "has_sensitive": true, "entities": [{"value": "963170", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 618, "content": "앱 업데이트 이후 최초 결제 시 보안 확인 절차로 기존 설정 번호 541928을 한 번 더 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "541928", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 619, "content": "정기 배송 상품 결제일 변경 신청이 완료되었으며, 다음 결제 시 등록하신 핀 628405로 자동 처리됩니다.", "has_sensitive": true, "entities": [{"value": "628405", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 620, "content": "간편 송금 서비스 이용 시 본인 확인을 위해 결제용으로 등록하신 비밀번호 719263을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "719263", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 621, "content": "결제 내역 조회 권한 부여 신청이 승인되어 등록하신 간편 인증 번호 354826으로 접근이 가능합니다.", "has_sensitive": true, "entities": [{"value": "354826", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 622, "content": "모바일 멤버십 자동 갱신 결제를 위해 저장된 결제 핀 번호 891047이 다음 달 결제일에 사용됩니다.", "has_sensitive": true, "entities": [{"value": "891047", "begin": 39, "end": 45, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 623, "content": "고객님의 신용카드 교체 등록이 완료되었으며, 변경 사항 적용을 위해 현재 핀 번호 402759를 재확인했습니다.", "has_sensitive": true, "entities": [{"value": "402759", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 624, "content": "간편결제 서비스 일시 중지 요청이 접수되었으며, 재개 시 기존 비밀번호 637581을 그대로 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "637581", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 625, "content": "주문 상품 배송 완료 알림과 함께 결제가 최종 확정되었으며, 거래 시 사용하신 인증 핀 928406이 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "928406", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 626, "content": "월 정기 구독료가 정상 결제되었으며, 자동 이체 시 등록하신 간편 비밀번호 514723으로 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "514723", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 627, "content": "결제 보안 설정 변경 신청이 완료되어 다음 거래부터 새로운 인증 번호 760198을 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "760198", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 628, "content": "고객님께서 등록하신 자동 충전 서비스가 활성화되어 잔액 부족 시 간편 핀 839652로 충전이 진행됩니다.", "has_sensitive": true, "entities": [{"value": "839652", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 629, "content": "간편결제 비밀번호 변경 요청 건이 처리되었으며, 새로운 번호 205487로 업데이트가 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "205487", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 630, "content": "정기 결제 실패 알림을 받으신 후 재등록하신 결제 수단으로 인증 번호 671394를 사용해 정상 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "671394", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 631, "content": "모바일 쿠폰 사용 결제 건이 승인되었으며, 할인 적용 후 본인 확인용 핀 번호 427865로 최종 결제되었습니다.", "has_sensitive": true, "entities": [{"value": "427865", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 632, "content": "결제 한도 임시 증액 신청이 승인되어 오늘 하루 동안 등록하신 간편 비밀번호 953281을 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "953281", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 633, "content": "간편 출금 요청이 정상 처리되었으며, 출금 승인을 위해 설정하신 인증 핀 586940을 확인했습니다.", "has_sensitive": true, "entities": [{"value": "586940", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 634, "content": "고객님의 계좌 연동 해제 요청이 접수되었으며, 최종 확인을 위해 등록된 결제 핀 314672를 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "314672", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 635, "content": "정기 결제일 자동 알림 서비스가 활성화되었으며, 결제 시마다 간편 비밀번호 749208로 거래가 진행됩니다.", "has_sensitive": true, "entities": [{"value": "749208", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 636, "content": "모바일 앱 설정 메뉴에서 결제 수단을 추가하셨으며, 새 카드 등록 시 입력하신 핀 번호 892345가 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "892345", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 637, "content": "간편결제 서비스 이용 약관 개정에 따라 재동의하시면서 기존 인증 번호 631709를 재확인했습니다.", "has_sensitive": true, "entities": [{"value": "631709", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 638, "content": "결제 수단 우선순위가 변경되어 주 결제 수단으로 등록하신 간편 핀 407528이 기본 사용됩니다.", "has_sensitive": true, "entities": [{"value": "407528", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 639, "content": "고객님의 포인트 전환 신청이 완료되었으며, 본인 인증 차원에서 결제 비밀번호 785163을 확인했습니다.", "has_sensitive": true, "entities": [{"value": "785163", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 640, "content": "간편 충전 서비스 첫 이용 시 보안 확인 절차로 새로 설정하신 인증 핀 219847을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "219847", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 641, "content": "정기 구독 결제일 변경이 완료되었으며, 다음 결제부터 등록하신 간편 비밀번호 564290으로 자동 처리됩니다.", "has_sensitive": true, "entities": [{"value": "564290", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 642, "content": "모바일 결제 내역을 이메일로 받아보시려면 본인 확인용 결제 핀 번호 938451을 입력해 주시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "938451", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 643, "content": "결제 오류 자동 재시도 기능이 작동하여 등록하신 인증 번호 602874로 두 번째 시도가 성공했습니다.", "has_sensitive": true, "entities": [{"value": "602874", "begin": 42, "end": 48, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 644, "content": "고객님의 간편결제 서비스 해지 신청이 접수되었으며, 마지막 확인을 위해 현재 핀 375928을 입력해 주세요.", "has_sensitive": true, "entities": [{"value": "375928", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 645, "content": "간편 송금 한도 증액 요청이 승인되어 새로운 한도 적용을 위해 간편 비밀번호 841605를 재확인했습니다.", "has_sensitive": true, "entities": [{"value": "841605", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 646, "content": "정기 결제 상품 배송지 변경 신청이 완료되었으며, 적용을 위해 등록된 결제 핀 527194로 본인 확인했습니다.", "has_sensitive": true, "entities": [{"value": "527194", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 647, "content": "모바일 앱 푸시 알림 설정이 변경되었으며, 결제 시에는 기존 인증 번호 709342를 계속 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "709342", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 648, "content": "결제 수단 만료일 자동 갱신 서비스가 적용되어 등록하신 간편 핀 번호 463817로 계속 이용 가능합니다.", "has_sensitive": true, "entities": [{"value": "463817", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 649, "content": "고객님의 요청으로 결제 내역 SMS 발송 서비스가 활성화되었으며, 설정 시 입력하신 핀 295630을 저장했습니다.", "has_sensitive": true, "entities": [{"value": "295630", "begin": 62, "end": 68, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 650, "content": "간편결제 앱 잠금 기능이 설정되었으며, 결제 진행 시에는 별도로 등록하신 비밀번호 836729를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "836729", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 651, "content": "정기 구독 상품 수량 변경 신청이 완료되었으며, 다음 결제 시 간편 인증 번호 571804로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "571804", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 652, "content": "모바일 결제 영수증 자동 발급 서비스가 등록되었으며, 거래마다 사용하신 결제 핀 948263이 기록됩니다.", "has_sensitive": true, "entities": [{"value": "948263", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 653, "content": "결제 실패 건에 대한 알림을 받으셨으며, 재결제 시도를 위해 등록된 간편 비밀번호 620471을 준비해 주세요.", "has_sensitive": true, "entities": [{"value": "620471", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 654, "content": "고객님의 계좌 출금 한도 조회 요청이 승인되었으며, 본인 확인용 인증 핀 374925를 사용했습니다.", "has_sensitive": true, "entities": [{"value": "374925", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 655, "content": "간편 포인트 적립 서비스가 활성화되어 결제마다 등록하신 결제 번호 785146으로 자동 적립됩니다.", "has_sensitive": true, "entities": [{"value": "785146", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 656, "content": "정기 결제 카드 변경 신청이 접수되었으며, 새 카드 적용을 위해 현재 핀 번호 519237을 재입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "519237", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 657, "content": "모바일 앱 생체 인증 등록이 완료되었으며, 백업용으로 간편 비밀번호 862093도 함께 저장되었습니다.", "has_sensitive": true, "entities": [{"value": "862093", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 658, "content": "결제 한도 복구 신청이 정상 처리되었으며, 즉시 사용을 위해 등록하신 인증 번호 407658을 확인했습니다.", "has_sensitive": true, "entities": [{"value": "407658", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 659, "content": "고객님의 간편 대출 상환 자동 결제가 설정되어 매월 상환일에 간편 핀 931742로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "931742", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 660, "content": "간편결제 서비스 등급 상향 조정이 완료되었으며, 새로운 혜택 적용을 위해 결제 비밀번호 254869를 재확인했습니다.", "has_sensitive": true, "entities": [{"value": "254869", "begin": 60, "end": 66, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 661, "content": "정기 배송 상품 일시 중지 요청이 접수되었으며, 재개 시 등록하신 인증 핀 678502를 그대로 사용합니다.", "has_sensitive": true, "entities": [{"value": "678502", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 662, "content": "모바일 결제 내역 엑셀 다운로드 요청이 승인되어 본인 확인용 간편 번호 140627로 파일이 생성됩니다.", "has_sensitive": true, "entities": [{"value": "140627", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 663, "content": "결제 알림 카카오톡 연동 서비스가 등록되었으며, 거래마다 사용하신 결제 핀 번호 895341이 기록됩니다.", "has_sensitive": true, "entities": [{"value": "895341", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 664, "content": "고객님의 멤버십 등급 유지를 위한 자동 갱신이 설정되어 등록하신 간편 비밀번호 527984로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "527984", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 665, "content": "간편 환불 처리 요청이 완료되었으며, 환불 승인을 위해 원 거래 시 사용하신 핀 763420을 확인했습니다.", "has_sensitive": true, "entities": [{"value": "763420", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 666, "content": "정기 결제일 변경 신청이 승인되어 다음 달부터 새로운 일정으로 인증 번호 309857을 사용해 결제됩니다.", "has_sensitive": true, "entities": [{"value": "309857", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 667, "content": "모바일 앱 다크모드 설정이 적용되었으며, 결제 기능은 기존 등록하신 결제 핀 641298로 계속 이용됩니다.", "has_sensitive": true, "entities": [{"value": "641298", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 668, "content": "결제 수단 통합 관리 서비스 가입이 완료되어 모든 거래에서 간편 비밀번호 482763을 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "482763", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 669, "content": "고객님의 자동 충전 금액 변경 신청이 처리되었으며, 충전 시마다 등록된 인증 핀 925704로 승인됩니다.", "has_sensitive": true, "entities": [{"value": "925704", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 670, "content": "간편결제 비밀번호 만료 예정 알림을 받으셨으며, 연장을 원하시면 현재 핀 번호 367581을 재등록하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "367581", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 671, "content": "정기 구독 상품 옵션 변경이 완료되었으며, 다음 결제부터 간편 인증 번호 804236으로 새 요금이 적용됩니다.", "has_sensitive": true, "entities": [{"value": "804236", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 672, "content": "모바일 결제 이력 조회 권한이 부여되어 본인 확인 후 등록하신 결제 비밀번호 519647로 접근 가능합니다.", "has_sensitive": true, "entities": [{"value": "519647", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 673, "content": "결제 취소 수수료 환불 요청이 승인되었으며, 환불 처리를 위해 거래 시 사용하신 핀 742890을 확인했습니다.", "has_sensitive": true, "entities": [{"value": "742890", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 674, "content": "고객님의 결제 수단 추가 등록이 완료되어 두 번째 카드로 간편 핀 번호 638514를 새로 설정하셨습니다.", "has_sensitive": true, "entities": [{"value": "638514", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 675, "content": "간편 월세 자동 이체 서비스가 등록되었으며, 매월 납부일에 설정하신 인증 번호 271953으로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "271953", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 676, "content": "정기 결제 상품 쿠폰 적용 신청이 완료되어 할인 금액으로 간편 비밀번호 405782를 사용해 결제됩니다.", "has_sensitive": true, "entities": [{"value": "405782", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 677, "content": "모바일 앱 언어 설정이 한국어로 변경되었으며, 결제 시에는 등록된 결제 핀 869431을 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "869431", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 678, "content": "결제 한도 일시 해제 요청이 처리되었으며, 오늘 하루 동안 간편 인증 번호 532768로 무제한 이용 가능합니다.", "has_sensitive": true, "entities": [{"value": "532768", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 679, "content": "고객님의 포인트 충전 요청이 승인되어 충전 완료 후 본인 확인용 핀 번호 794625를 사용했습니다.", "has_sensitive": true, "entities": [{"value": "794625", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 680, "content": "간편결제 서비스 이용 통계 리포트가 생성되었으며, 조회를 위해 등록하신 간편 비밀번호 146892를 입력하세요.", "has_sensitive": true, "entities": [{"value": "146892", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 681, "content": "정기 배송 상품 다음 회차 건너뛰기 신청이 완료되었으며, 그 다음 결제 시 인증 핀 681304로 재개됩니다.", "has_sensitive": true, "entities": [{"value": "681304", "begin": 60, "end": 66, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 682, "content": "모바일 결제 알림 시간대 설정이 변경되었으며, 거래 승인 시 사용하신 결제 번호 927530은 유지됩니다.", "has_sensitive": true, "entities": [{"value": "927530", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 683, "content": "결제 내역 PDF 저장 요청이 완료되어 본인 확인 후 간편 핀 번호 354908로 다운로드 가능합니다.", "has_sensitive": true, "entities": [{"value": "354908", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 684, "content": "고객님의 간편 투자 자동 매수 서비스가 설정되어 거래마다 등록하신 인증 번호 708462로 체결됩니다.", "has_sensitive": true, "entities": [{"value": "708462", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 685, "content": "간편결제 연동 카드 변경이 완료되었으며, 새 카드로 첫 거래 시 간편 비밀번호 562837을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "562837", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 686, "content": "정기 구독 혜택 업그레이드 신청이 승인되어 다음 결제부터 등록된 결제 핀 194720으로 새 요금이 청구됩니다.", "has_sensitive": true, "entities": [{"value": "194720", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 687, "content": "모바일 앱 보안 설정 강화가 적용되었으며, 결제 시에는 기존 인증 핀 번호 839625를 계속 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "839625", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 688, "content": "결제 수단 우선순위 자동 조정이 완료되어 주로 사용하시는 간편 비밀번호 471903이 기본 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "471903", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 689, "content": "고객님의 환급금 수령 계좌 등록이 완료되었으며, 본인 확인을 위해 간편 핀 605248을 사용했습니다.", "has_sensitive": true, "entities": [{"value": "605248", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 690, "content": "간편 적금 자동 납입 서비스가 설정되어 매월 납입일에 등록하신 인증 번호 728514로 이체됩니다.", "has_sensitive": true, "entities": [{"value": "728514", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 691, "content": "정기 결제 상품 수령 주소 변경 신청이 처리되었으며, 적용을 위해 결제 비밀번호 346708을 재확인했습니다.", "has_sensitive": true, "entities": [{"value": "346708", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 692, "content": "모바일 결제 영수증 이메일 전송 설정이 완료되어 거래마다 사용하신 결제 핀 819362가 함께 기록됩니다.", "has_sensitive": true, "entities": [{"value": "819362", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 693, "content": "결제 실패 자동 알림 서비스가 활성화되었으며, 재시도 시 등록된 간편 인증 번호 574291을 사용합니다.", "has_sensitive": true, "entities": [{"value": "574291", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 694, "content": "고객님의 간편 보험료 납부 설정이 완료되어 매월 자동으로 간편 핀 번호 930175로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "930175", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 695, "content": "간편결제 비밀번호 힌트 설정이 등록되었으며, 비밀번호 찾기 시 현재 핀 407835를 사용해 인증합니다.", "has_sensitive": true, "entities": [{"value": "407835", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 696, "content": "정기 구독 결제 알림 발송 시간이 변경되었으며, 실제 결제 시에는 간편 비밀번호 682947로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "682947", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 697, "content": "모바일 앱 화면 테마 설정이 적용되었으며, 결제 기능은 등록하신 인증 번호 256403을 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "256403", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 698, "content": "결제 한도 자동 복구 예약이 설정되어 내일부터 등록하신 결제 핀 번호 891726으로 정상 이용됩니다.", "has_sensitive": true, "entities": [{"value": "891726", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 699, "content": "고객님의 멤버십 포인트 합산 신청이 완료되었으며, 통합 후 본인 확인용 간편 핀 524803을 사용했습니다.", "has_sensitive": true, "entities": [{"value": "524803", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 700, "content": "간편 통신비 자동 납부 등록이 완료되어 매월 요금 청구일에 간편 비밀번호 147629로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "147629", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 701, "content": "정기 배송 상품 결제 방법 변경 신청이 승인되어 다음 회차부터 인증 핀 730584로 새 방식이 적용됩니다.", "has_sensitive": true, "entities": [{"value": "730584", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 702, "content": "모바일 결제 내역 카테고리 분류 서비스가 등록되어 거래마다 결제 번호 962304가 자동 태깅됩니다.", "has_sensitive": true, "entities": [{"value": "962304", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 703, "content": "결제 알림 방식 변경 요청이 처리되었으며, 거래 승인 시 등록된 간편 인증 번호 418735를 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "418735", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 704, "content": "고객님의 자동 환전 서비스가 활성화되어 해외 결제 시 간편 핀 번호 854290으로 즉시 환전됩니다.", "has_sensitive": true, "entities": [{"value": "854290", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 705, "content": "간편결제 계좌 연동 추가 등록이 완료되어 새 계좌로 간편 비밀번호 601372를 별도 설정하셨습니다.", "has_sensitive": true, "entities": [{"value": "601372", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 706, "content": "정기 구독 무료 체험 기간이 종료되어 첫 유료 결제 시 등록하신 결제 핀 739548로 청구됩니다.", "has_sensitive": true, "entities": [{"value": "739548", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 707, "content": "모바일 앱 접근 권한 설정이 변경되었으며, 결제 시에는 기존 인증 번호 285907을 그대로 사용합니다.", "has_sensitive": true, "entities": [{"value": "285907", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 708, "content": "결제 수단 보안 점검이 완료되어 모든 거래에서 등록하신 간편 핀 번호 547863을 안전하게 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "547863", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 709, "content": "고객님의 간편 예금 자동 이체 설정이 완료되어 매월 납입일에 간편 비밀번호 920436으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "920436", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 710, "content": "간편결제 비밀번호 보안 강도 검사가 완료되었으며, 현재 사용 중인 핀 663821은 안전 등급입니다.", "has_sensitive": true, "entities": [{"value": "663821", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 711, "content": "정기 결제 상품 포장 옵션 변경이 완료되어 다음 배송부터 인증 번호 402769로 새 옵션이 적용됩니다.", "has_sensitive": true, "entities": [{"value": "402769", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 712, "content": "모바일 결제 통계 조회 서비스가 활성화되어 본인 확인 후 결제 핀 번호 876534로 접근 가능합니다.", "has_sensitive": true, "entities": [{"value": "876534", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 713, "content": "결제 취소 가능 시간 연장 신청이 승인되어 환불 처리 시 간편 인증 번호 194750을 사용합니다.", "has_sensitive": true, "entities": [{"value": "194750", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 714, "content": "고객님의 포인트 자동 사용 설정이 등록되어 결제마다 간편 비밀번호 531826으로 우선 차감됩니다.", "has_sensitive": true, "entities": [{"value": "531826", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 715, "content": "간편 청약 신청 서비스가 완료되어 납입 시마다 등록하신 결제 핀 708352로 자동 이체됩니다.", "has_sensitive": true, "entities": [{"value": "708352", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 716, "content": "정기 구독 휴면 계정 해제 신청이 처리되어 재개 시 기존 인증 번호 849271을 계속 사용하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "849271", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 717, "content": "모바일 앱 자동 로그인 설정이 활성화되었으며, 결제 시에는 간편 핀 번호 365904를 별도로 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "365904", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 718, "content": "결제 한도 일별 제한 설정이 적용되어 한도 초과 시 등록하신 간편 비밀번호 627489로 추가 인증합니다.", "has_sensitive": true, "entities": [{"value": "627489", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 719, "content": "고객님의 간편 적립 서비스 등급이 상향되어 모든 거래에서 인증 핀 940526으로 추가 혜택이 적용됩니다.", "has_sensitive": true, "entities": [{"value": "940526", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 720, "content": "간편결제 연결 기기 추가 등록이 완료되어 새 기기에서도 동일한 결제 번호 281703을 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "281703", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 721, "content": "정기 배송 상품 배송 주기 변경이 완료되어 새 일정으로 간편 인증 번호 764195로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "764195", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 722, "content": "모바일 결제 영수증 보관 기간 설정이 변경되었으며, 조회 시 간편 비밀번호 503871을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "503871", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 723, "content": "결제 분할 납부 신청이 승인되어 매월 약정일에 등록하신 결제 핀 번호 629384로 자동 청구됩니다.", "has_sensitive": true, "entities": [{"value": "629384", "begin": 43, "end": 49, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 724, "content": "고객님의 간편 송금 수수료 면제 혜택이 적용되어 송금 시 간편 핀 847260으로 무료 이용됩니다.", "has_sensitive": true, "entities": [{"value": "847260", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 725, "content": "간편결제 비밀번호 자동 저장 기능이 해제되어 거래마다 인증 번호 415982를 직접 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "415982", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 726, "content": "정기 구독 결제 영수증 자동 발행 설정이 완료되어 거래마다 간편 비밀번호 792503으로 발급됩니다.", "has_sensitive": true, "entities": [{"value": "792503", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 727, "content": "모바일 앱 위젯 결제 바로가기가 추가되었으며, 사용 시 등록된 결제 핀 356081을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "356081", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 728, "content": "결제 수단 유효성 재검증이 완료되어 모든 거래에서 간편 인증 번호 681437로 계속 이용 가능합니다.", "has_sensitive": true, "entities": [{"value": "681437", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 729, "content": "고객님의 자동 할부 전환 서비스가 설정되어 일정 금액 이상 결제 시 간편 핀 924706으로 자동 전환됩니다.", "has_sensitive": true, "entities": [{"value": "924706", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 730, "content": "간편 펀드 자동 매수 서비스 등록이 완료되어 매월 지정일에 간편 비밀번호 203874로 투자됩니다.", "has_sensitive": true, "entities": [{"value": "203874", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 731, "content": "정기 결제 상품 할인 쿠폰이 자동 적용되어 다음 결제 시 인증 번호 748192로 할인가가 청구됩니다.", "has_sensitive": true, "entities": [{"value": "748192", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 732, "content": "모바일 결제 히스토리 백업 서비스가 활성화되어 본인 확인 후 결제 핀 562908로 복원 가능합니다.", "has_sensitive": true, "entities": [{"value": "562908", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 733, "content": "결제 승인 알림 진동 설정이 변경되었으며, 거래 시에는 등록된 간편 인증 번호 390671을 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "390671", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 734, "content": "고객님의 간편 대출 조기 상환 신청이 접수되어 상환 시 간편 비밀번호 817534로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "817534", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 735, "content": "간편결제 가족 계정 연결 서비스가 등록되어 공유 결제 시 주 사용자 핀 463720을 사용합니다.", "has_sensitive": true, "entities": [{"value": "463720", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 736, "content": "정기 구독 자동 갱신 안내 메시지가 발송되었으며, 갱신 시 간편 인증 번호 905342로 결제 예정입니다.", "has_sensitive": true, "entities": [{"value": "905342", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 737, "content": "모바일 앱 간편 로그인 옵션이 추가되었으며, 결제 기능은 별도 결제 번호 278465를 사용하도록 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "278465", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 738, "content": "결제 한도 자동 증액 서비스가 승인되어 필요 시 등록하신 간편 핀 번호 631908로 한도가 확대됩니다.", "has_sensitive": true, "entities": [{"value": "631908", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 739, "content": "고객님의 멤버십 자동 결제 실패 재시도가 성공하여 등록된 간편 비밀번호 759421로 정상 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "759421", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 740, "content": "간편 청구서 통합 조회 서비스가 등록되어 조회 시마다 인증 번호 184736을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "184736", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 741, "content": "정기 배송 상품 추가 옵션 선택이 완료되어 다음 결제부터 간편 인증 번호 546872로 추가 금액이 청구됩니다.", "has_sensitive": true, "entities": [{"value": "546872", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 742, "content": "모바일 결제 내역 클라우드 동기화가 완료되어 모든 기기에서 결제 핀 802349를 동일하게 사용합니다.", "has_sensitive": true, "entities": [{"value": "802349", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 743, "content": "결제 오류 자동 신고 시스템이 작동하여 문제 해결 후 간편 비밀번호 427608로 재결제가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "427608", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 744, "content": "고객님의 간편 환급 신청이 승인되어 환급금 수령 시 본인 확인용 간편 핀 965130을 사용했습니다.", "has_sensitive": true, "entities": [{"value": "965130", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 745, "content": "간편결제 앱 버전 호환성 점검이 완료되어 최신 버전에서도 등록하신 인증 번호 731584로 이용 가능합니다.", "has_sensitive": true, "entities": [{"value": "731584", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 746, "content": "정기 구독 결제 방식 간소화 업데이트가 적용되어 이제 간편 비밀번호 208937만 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "208937", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 747, "content": "모바일 앱 결제 화면 레이아웃이 개선되었으며, 결제 시 기존 결제 핀 594263을 그대로 사용합니다.", "has_sensitive": true, "entities": [{"value": "594263", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 748, "content": "결제 수단 만료 임박 알림이 발송되었으며, 갱신 후에도 간편 인증 번호 836704를 계속 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "836704", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 749, "content": "고객님의 자동 투자 포트폴리오 설정이 완료되어 매주 투자 시 간편 핀 471926으로 체결됩니다.", "has_sensitive": true, "entities": [{"value": "471926", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 750, "content": "간편 세금 납부 내역 조회 서비스가 활성화되어 본인 확인 후 간편 비밀번호 652780으로 접근 가능합니다.", "has_sensitive": true, "entities": [{"value": "652780", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 751, "content": "정기 결제 상품 자동 재주문 설정이 완료되어 재고 소진 시 인증 번호 309452로 즉시 주문됩니다.", "has_sensitive": true, "entities": [{"value": "309452", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 752, "content": "모바일 결제 월간 리포트가 생성되어 조회를 원하시면 등록된 결제 핀 번호 987145를 입력하세요.", "has_sensitive": true, "entities": [{"value": "987145", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 753, "content": "결제 취소 환불 계좌 변경 신청이 완료되어 환불 시 간편 인증 번호 524308로 본인 확인합니다.", "has_sensitive": true, "entities": [{"value": "524308", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 754, "content": "고객님의 간편 결제 이용 약관 동의 갱신이 완료되어 계속해서 간편 비밀번호 716839를 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "716839", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 755, "content": "간편결제 서비스 점검 예정 안내가 발송되었으며, 점검 후에도 등록하신 결제 핀 403625로 정상 이용됩니다.", "has_sensitive": true, "entities": [{"value": "403625", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 756, "content": "정기 구독 혜택 자동 적용 설정이 활성화되어 결제마다 간편 인증 번호 859374로 할인이 반영됩니다.", "has_sensitive": true, "entities": [{"value": "859374", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 757, "content": "모바일 앱 알림 권한 설정이 업데이트되었으며, 결제 승인 시 간편 핀 번호 267541을 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "267541", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 758, "content": "결제 한도 월간 리셋 일정이 변경되어 새 주기부터 등록하신 간편 비밀번호 931708로 적용됩니다.", "has_sensitive": true, "entities": [{"value": "931708", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 759, "content": "고객님의 포인트 소멸 예정 알림이 발송되었으며, 사용 시 간편 인증 번호 584092로 결제하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "584092", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 760, "content": "간편 적립금 자동 사용 우선순위 설정이 완료되어 결제마다 결제 핀 720463으로 차감됩니다.", "has_sensitive": true, "entities": [{"value": "720463", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 761, "content": "정기 배송 상품 구성 변경 신청이 처리되어 다음 회차부터 간편 비밀번호 316785로 새 구성이 결제됩니다.", "has_sensitive": true, "entities": [{"value": "316785", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 762, "content": "모바일 결제 보안 인증서가 자동 갱신되어 모든 거래에서 등록된 인증 번호 895237을 안전하게 사용합니다.", "has_sensitive": true, "entities": [{"value": "895237", "begin": 53, "end": 59, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 763, "content": "결제 실패 원인 분석 리포트가 생성되어 재시도 시 간편 핀 번호 461920을 사용해 정상 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "461920", "begin": 45, "end": 51, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 764, "content": "고객님의 간편 공과금 통합 납부 설정이 완료되어 매월 납부일에 간편 비밀번호 738504로 일괄 처리됩니다.", "has_sensitive": true, "entities": [{"value": "738504", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 765, "content": "간편결제 연동 앱 추가 등록이 완료되어 새 앱에서도 동일한 결제 핀 205849를 사용하실 수 있습니다.", "has_sensitive": true, "entities": [{"value": "205849", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 766, "content": "정기 구독 결제 실패 시 자동 재시도 설정이 활성화되어 간편 인증 번호 672035로 재처리됩니다.", "has_sensitive": true, "entities": [{"value": "672035", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 767, "content": "모바일 앱 결제 완료 효과음 설정이 변경되었으며, 거래 시 간편 비밀번호 948126은 그대로 유지됩니다.", "has_sensitive": true, "entities": [{"value": "948126", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 768, "content": "결제 수단 자동 백업 서비스가 등록되어 복구 시 본인 확인용 결제 핀 번호 513794를 사용합니다.", "has_sensitive": true, "entities": [{"value": "513794", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 769, "content": "고객님의 자동 충전 금액 한도 변경이 완료되어 충전마다 간편 핀 820467로 새 한도가 적용됩니다.", "has_sensitive": true, "entities": [{"value": "820467", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 770, "content": "간편 보험금 청구 서비스 등록이 완료되어 청구 시마다 간편 비밀번호 367941로 본인 인증합니다.", "has_sensitive": true, "entities": [{"value": "367941", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 771, "content": "정기 결제 상품 사은품 선택이 완료되어 다음 배송 시 인증 번호 794208로 사은품이 함께 발송됩니다.", "has_sensitive": true, "entities": [{"value": "794208", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 772, "content": "모바일 결제 분석 대시보드 접근 권한이 부여되어 로그인 시 결제 핀 456237을 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "456237", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 773, "content": "결제 알림 문자 수신 번호 변경이 완료되었으며, 거래 시에는 간편 인증 번호 901684를 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "901684", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 774, "content": "고객님의 간편 연금 자동 수령 설정이 완료되어 매월 지급일에 간편 비밀번호 635719로 입금됩니다.", "has_sensitive": true, "entities": [{"value": "635719", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 775, "content": "간편결제 비밀번호 정기 변경 알림이 발송되었으며, 변경 시 새 번호 278403을 등록하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "278403", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 776, "content": "정기 구독 무료 배송 혜택이 적용되어 결제 시 등록하신 간편 핀 번호 852074로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "852074", "begin": 46, "end": 52, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 777, "content": "모바일 앱 다국어 지원이 추가되었으며, 결제 기능은 기존 인증 번호 419368을 그대로 사용합니다.", "has_sensitive": true, "entities": [{"value": "419368", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 778, "content": "결제 한도 시간대별 설정이 완료되어 야간 시간대 거래 시 간편 비밀번호 760512로 추가 확인합니다.", "has_sensitive": true, "entities": [{"value": "760512", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 779, "content": "고객님의 멤버십 자동 업그레이드가 완료되어 프리미엄 서비스 이용 시 간편 핀 593820으로 인증됩니다.", "has_sensitive": true, "entities": [{"value": "593820", "begin": 56, "end": 62, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 780, "content": "간편 기부금 자동 이체 서비스가 등록되어 매월 지정일에 간편 비밀번호 108647로 기부됩니다.", "has_sensitive": true, "entities": [{"value": "108647", "begin": 48, "end": 54, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 781, "content": "정기 배송 상품 친환경 포장 옵션이 선택되어 다음 결제부터 인증 번호 824305로 적용됩니다.", "has_sensitive": true, "entities": [{"value": "824305", "begin": 50, "end": 56, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 782, "content": "모바일 결제 내역 가계부 자동 연동 서비스가 활성화되어 거래마다 결제 핀 476952가 함께 기록됩니다.", "has_sensitive": true, "entities": [{"value": "476952", "begin": 57, "end": 63, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 783, "content": "결제 승인 속도 향상 업데이트가 완료되어 더 빠르게 간편 인증 번호 347618로 거래가 처리됩니다.", "has_sensitive": true, "entities": [{"value": "347618", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 784, "content": "고객님의 간편 적금 만기 자동 재예치 설정이 완료되어 만기일에 간편 비밀번호 691835로 갱신됩니다.", "has_sensitive": true, "entities": [{"value": "691835", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 785, "content": "간편결제 서비스 이용 통계 월간 보고서가 생성되어 조회 시 등록하신 결제 핀 234780을 입력하세요.", "has_sensitive": true, "entities": [{"value": "234780", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 786, "content": "정기 구독 선물하기 기능이 추가되어 선물 발송 시 간편 인증 번호 905241로 결제됩니다.", "has_sensitive": true, "entities": [{"value": "905241", "begin": 44, "end": 50, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 787, "content": "모바일 앱 오프라인 결제 모드가 지원되어 온라인 복구 시 간편 핀 번호 567293을 사용합니다.", "has_sensitive": true, "entities": [{"value": "567293", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 788, "content": "결제 수단 카드사 제휴 혜택이 추가되어 사용 시 등록하신 간편 비밀번호 830456으로 할인됩니다.", "has_sensitive": true, "entities": [{"value": "830456", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 789, "content": "고객님의 자동 환율 우대 서비스가 활성화되어 외화 결제 시 간편 핀 412908로 최저 환율이 적용됩니다.", "has_sensitive": true, "entities": [{"value": "412908", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 790, "content": "간편 예금 자동 만기 알림 서비스가 등록되어 알림 확인 시 간편 비밀번호 756342를 입력하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "756342", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 791, "content": "정기 결제 상품 리뷰 작성 이벤트 참여가 완료되어 포인트 지급 시 인증 번호 284697로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "284697", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 792, "content": "모바일 결제 영수증 즐겨찾기 기능이 추가되어 저장 시 결제 핀 번호 913548을 사용합니다.", "has_sensitive": true, "entities": [{"value": "913548", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 793, "content": "결제 오류 자동 보상 시스템이 작동하여 보상금 지급 시 간편 인증 번호 647203으로 입금됩니다.", "has_sensitive": true, "entities": [{"value": "647203", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 794, "content": "고객님의 간편 투자 자동 리밸런싱 설정이 완료되어 조정 시마다 간편 비밀번호 390865로 체결됩니다.", "has_sensitive": true, "entities": [{"value": "390865", "begin": 54, "end": 60, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 795, "content": "간편결제 앱 접근성 개선 업데이트가 적용되어 모든 기능에서 등록하신 결제 핀 528174를 사용합니다.", "has_sensitive": true, "entities": [{"value": "528174", "begin": 58, "end": 64, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 796, "content": "정기 구독 일시 정지 기간이 종료되어 자동 재개 시 간편 인증 번호 871436으로 결제가 재개됩니다.", "has_sensitive": true, "entities": [{"value": "871436", "begin": 47, "end": 53, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 797, "content": "모바일 앱 결제 완료 화면 커스터마이징이 적용되었으며, 거래 시 간편 핀 번호 205968을 계속 사용합니다.", "has_sensitive": true, "entities": [{"value": "205968", "begin": 55, "end": 61, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 798, "content": "결제 한도 자동 조정 학습 기능이 활성화되어 패턴 분석 후 간편 비밀번호 749326으로 최적화됩니다.", "has_sensitive": true, "entities": [{"value": "749326", "begin": 52, "end": 58, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 799, "content": "고객님의 포인트 통합 관리 서비스 가입이 완료되어 사용 시 간편 인증 번호 463851로 모든 포인트가 합산됩니다.", "has_sensitive": true, "entities": [{"value": "463851", "begin": 51, "end": 57, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 800, "content": "간편 연말정산 자료 제공 동의가 완료되어 연말에 등록하신 간편 비밀번호 937602로 자료가 전송됩니다.", "has_sensitive": true, "entities": [{"value": "937602", "begin": 49, "end": 55, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 801, "content": "내 결제 비밀번호 847293으로 장바구니에 담아놓은 노트북 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "847293", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 802, "content": "간편결제 핀번호 592048 사용해서 이번 달 멤버십 요금 자동 결제 설정해줘.", "has_sensitive": true, "entities": [{"value": "592048", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 803, "content": "내 모바일 결제 비밀번호가 736529인데 방금 주문한 상품 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "736529", "begin": 17, "end": 23, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 804, "content": "결제 핀 421680으로 정기 구독 서비스 등록하고 첫 결제도 진행해줘.", "has_sensitive": true, "entities": [{"value": "421680", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 805, "content": "내 카드 간편결제 비밀번호 305947 입력해서 장바구니 전체 상품 결제해줄래?", "has_sensitive": true, "entities": [{"value": "305947", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 806, "content": "인증 번호 918364로 주문 확정하고 배송 시작되도록 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "918364", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 807, "content": "내 페이 비밀번호 654127인데 이거로 오늘 주문한 가전제품 결제 완료해줘.", "has_sensitive": true, "entities": [{"value": "654127", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 808, "content": "간편 인증 번호 283759 사용해서 할부로 결제 진행하고 영수증 발송해줘.", "has_sensitive": true, "entities": [{"value": "283759", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 809, "content": "내 핀번호 870253으로 방금 선택한 항공권 결제하고 예약 확정시켜줘.", "has_sensitive": true, "entities": [{"value": "870253", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 810, "content": "결제 비밀번호가 496801이니까 이걸로 쇼핑몰에서 담아둔 옷들 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "496801", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 811, "content": "내 모바일 페이 핀 732649 입력해서 정기 배송 서비스 시작하고 첫 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "732649", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 812, "content": "간편결제 비밀번호 145820으로 지금 보고 있는 강의 결제하고 수강 시작해줘.", "has_sensitive": true, "entities": [{"value": "145820", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 813, "content": "내 인증 핀 608374인데 이번 달 구독료 자동 결제되도록 설정해줘.", "has_sensitive": true, "entities": [{"value": "608374", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 814, "content": "결제 번호 927546 사용해서 장바구니에 있는 책들 전부 주문 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "927546", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 815, "content": "내 간편결제 핀이 354972인데 호텔 예약 결제 진행하고 확정 메일 받을 수 있게 해줘.", "has_sensitive": true, "entities": [{"value": "354972", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 816, "content": "모바일 결제 비밀번호 681235로 방금 추가한 상품 바로 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "681235", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 817, "content": "내 페이 핀번호가 519483이니까 이걸로 세탁기 구매 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "519483", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 818, "content": "간편 비밀번호 807392 입력해서 프리미엄 멤버십 1년 구독 결제해줘.", "has_sensitive": true, "entities": [{"value": "807392", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 819, "content": "내 결제 핀 246758로 지금 선택한 가구 세트 주문하고 배송 예약해줘.", "has_sensitive": true, "entities": [{"value": "246758", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 820, "content": "인증번호 793605 사용해서 콘서트 티켓 2장 결제하고 예매 확정해줘.", "has_sensitive": true, "entities": [{"value": "793605", "begin": 5, "end": 11, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 821, "content": "내 카드 비밀번호 432861인데 온라인 강좌 결제 진행하고 수강 등록해줘.", "has_sensitive": true, "entities": [{"value": "432861", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 822, "content": "간편결제 핀 905724로 장바구니 상품들 포인트 사용해서 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "905724", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 823, "content": "내 모바일 페이 비밀번호가 568140이니까 방금 담은 화장품 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "568140", "begin": 17, "end": 23, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 824, "content": "결제 인증 번호 271538 입력해서 렌터카 예약 완료하고 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "271538", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 825, "content": "내 핀번호 849673으로 정기 배송 상품 구독 시작하고 이번 달 결제도 해줘.", "has_sensitive": true, "entities": [{"value": "849673", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 826, "content": "간편 인증 핀 620349 사용해서 앱 내 유료 아이템 구매 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "620349", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 827, "content": "내 결제 비밀번호 385206인데 선택한 여행 패키지 예약하고 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "385206", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 828, "content": "모바일 핀 714892로 지금 본 전자책 구매하고 바로 다운로드 가능하게 해줘.", "has_sensitive": true, "entities": [{"value": "714892", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 829, "content": "내 간편결제 비밀번호 953471 입력해서 월 구독료 자동 결제 등록해줘.", "has_sensitive": true, "entities": [{"value": "953471", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 830, "content": "결제 핀번호 408735로 쇼핑 앱에서 담아둔 신발 결제하고 배송 시작해줘.", "has_sensitive": true, "entities": [{"value": "408735", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 831, "content": "내 페이 인증번호가 627594인데 이걸로 영화 예매하고 좌석 확정시켜줘.", "has_sensitive": true, "entities": [{"value": "627594", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 832, "content": "간편 비밀번호 831067 사용해서 음악 스트리밍 프리미엄 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "831067", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 833, "content": "내 결제 핀이 246903이니까 방금 장바구니에 추가한 가방 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "246903", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 834, "content": "모바일 결제 번호 579382로 헬스장 회원권 결제하고 등록 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "579382", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 835, "content": "내 간편 핀 705241 입력해서 정기 구독 박스 첫 결제 진행하고 배송 시작해줘.", "has_sensitive": true, "entities": [{"value": "705241", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 836, "content": "결제 비밀번호 392658인데 선택한 펫 용품들 주문 완료하고 결제해줘.", "has_sensitive": true, "entities": [{"value": "392658", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 837, "content": "내 인증 핀번호 864120으로 온라인 쇼핑몰 장바구니 전체 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "864120", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 838, "content": "간편결제 핀이 418569니까 이걸로 스마트폰 액세서리 결제하고 빨리 배송해줘.", "has_sensitive": true, "entities": [{"value": "418569", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 839, "content": "내 모바일 페이 핀번호 725903 사용해서 호텔 숙박 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "725903", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 840, "content": "결제 인증 번호가 591437이니까 게임 아이템 구매 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "591437", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 841, "content": "내 페이 비밀번호 307824로 방금 선택한 침대 세트 할부 결제해줘.", "has_sensitive": true, "entities": [{"value": "307824", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 842, "content": "간편 핀번호 936752 입력해서 온라인 식품관에서 장본 거 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "936752", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 843, "content": "내 결제 번호가 652489인데 프리미엄 구독 서비스 연간 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "652489", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 844, "content": "모바일 인증 핀 174603으로 선택한 여행 상품 결제하고 예약 확정해줘.", "has_sensitive": true, "entities": [{"value": "174603", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 845, "content": "내 간편결제 비밀번호가 849271이니까 택배 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "849271", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 846, "content": "결제 핀 520836 사용해서 클라우드 스토리지 용량 업그레이드 결제해줘.", "has_sensitive": true, "entities": [{"value": "520836", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 847, "content": "내 카드 간편 비밀번호 785624로 지금 담은 주방용품 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "785624", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 848, "content": "간편 인증번호 463190 입력해서 정기 세차 서비스 등록하고 첫 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "463190", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 849, "content": "내 핀 번호 901357인데 선택한 운동 기구 구매 결제하고 설치 예약해줘.", "has_sensitive": true, "entities": [{"value": "901357", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 850, "content": "모바일 결제 핀이 238946이니까 패션 앱에서 고른 옷 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "238946", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 851, "content": "내 간편 비밀번호 674815 사용해서 온라인 서점에서 책 여러 권 결제해줘.", "has_sensitive": true, "entities": [{"value": "674815", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 852, "content": "결제 인증핀 512790으로 방금 장바구니 담은 화장품 주문하고 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "512790", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 853, "content": "내 페이 핀번호가 849203이니까 정기 꽃 배송 서비스 시작하고 결제해줘.", "has_sensitive": true, "entities": [{"value": "849203", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 854, "content": "간편결제 번호 376582로 선택한 커피머신 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "376582", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 855, "content": "내 모바일 인증 핀이 705294인데 앱 프리미엄 기능 해제 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "705294", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 856, "content": "결제 비밀번호가 921638이니까 이걸로 배달 음식 주문 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "921638", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 857, "content": "내 간편 핀번호 485270 입력해서 선물 포장 옵션 추가하고 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "485270", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 858, "content": "모바일 페이 비밀번호 653841로 방금 선택한 항공권 좌석 업그레이드 결제해줘.", "has_sensitive": true, "entities": [{"value": "653841", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 859, "content": "내 결제 핀 번호가 217495니까 주차장 월 정기권 구매 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "217495", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 860, "content": "간편 인증 번호 830756 사용해서 인테리어 소품 장바구니 전부 결제해줘.", "has_sensitive": true, "entities": [{"value": "830756", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 861, "content": "내 페이 핀이 564902인데 헬스 보충제 정기 배송 등록하고 첫 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "564902", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 862, "content": "결제 비밀번호 392817로 지금 보고 있는 온라인 강의 패키지 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "392817", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 863, "content": "내 간편결제 핀번호 748635 입력해서 유아용품 쇼핑몰에서 담은 거 결제해줘.", "has_sensitive": true, "entities": [{"value": "748635", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 864, "content": "모바일 결제 인증번호가 105829니까 이걸로 자동차 용품 주문 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "105829", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 865, "content": "내 카드 핀 번호 671453으로 선택한 가구 맞춤 제작 계약금 결제해줘.", "has_sensitive": true, "entities": [{"value": "671453", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 866, "content": "간편 비밀번호가 925380이니까 영양제 정기 배송 서비스 시작하고 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "925380", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 867, "content": "내 결제 핀 438706 사용해서 반려동물 사료 정기 배송 등록하고 첫 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "438706", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 868, "content": "모바일 인증 핀번호 802549로 방금 담은 스포츠 용품 결제하고 배송 시작해줘.", "has_sensitive": true, "entities": [{"value": "802549", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 869, "content": "내 간편 페이 비밀번호가 516237인데 와인 정기 배송 구독 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "516237", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 870, "content": "결제 핀번호 694108 입력해서 선택한 전자제품 보증 연장 서비스 결제해줘.", "has_sensitive": true, "entities": [{"value": "694108", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 871, "content": "내 페이 인증 번호 327594로 지금 본 전시회 티켓 결제하고 예매 확정해줘.", "has_sensitive": true, "entities": [{"value": "327594", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 872, "content": "간편결제 비밀번호가 851462니까 프리미엄 멤버십 업그레이드 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "851462", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 873, "content": "내 모바일 핀 730986 사용해서 장바구니에 담긴 건강식품 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "730986", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 874, "content": "결제 번호가 465231이니까 방금 고른 명품 가방 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "465231", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 875, "content": "내 간편 인증핀 908574로 온라인 클래스 수강권 구매 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "908574", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 876, "content": "모바일 결제 비밀번호 542790 입력해서 선택한 침구 세트 할부 결제해줘.", "has_sensitive": true, "entities": [{"value": "542790", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 877, "content": "내 페이 핀번호가 613285인데 이걸로 유료 앱 구독 결제하고 바로 사용 가능하게 해줘.", "has_sensitive": true, "entities": [{"value": "613285", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 878, "content": "간편 비밀번호 279463 사용해서 요가 매트랑 운동복 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "279463", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 879, "content": "내 결제 인증 핀이 784921이니까 방금 추가한 유기농 식품 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "784921", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 880, "content": "모바일 페이 핀 405738로 선택한 공기청정기 렌탈 계약하고 첫 달 결제해줘.", "has_sensitive": true, "entities": [{"value": "405738", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 881, "content": "내 간편결제 번호가 926514니까 음악 앱 프리미엄 연간 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "926514", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 882, "content": "결제 비밀번호 581370 입력해서 방금 장바구니에 담은 가전 소모품 결제해줘.", "has_sensitive": true, "entities": [{"value": "581370", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 883, "content": "내 페이 인증핀이 342908인데 온라인 마켓에서 선택한 상품들 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "342908", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 884, "content": "간편 핀번호가 768452니까 이걸로 스트리밍 서비스 가족 요금제 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "768452", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 885, "content": "내 모바일 결제 핀 195637 사용해서 선택한 명품 시계 예약금 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "195637", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 886, "content": "결제 인증 번호가 807245니까 방금 고른 침실 가구 세트 계약금 결제해줘.", "has_sensitive": true, "entities": [{"value": "807245", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 887, "content": "내 간편 비밀번호 523680으로 정기 꽃 구독 서비스 시작하고 첫 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "523680", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 888, "content": "모바일 핀번호 641859 입력해서 지금 선택한 프린터 소모품 정기 배송 등록해줘.", "has_sensitive": true, "entities": [{"value": "641859", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 889, "content": "내 결제 번호가 390724인데 이걸로 자동차 보험료 납부하고 가입 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "390724", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 890, "content": "간편결제 핀 875106 사용해서 온라인 게임 시즌 패스 구매 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "875106", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 891, "content": "내 페이 비밀번호가 214593이니까 선택한 노트북 악세서리 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "214593", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 892, "content": "모바일 인증 핀 736482로 방금 담은 유아 도서 세트 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "736482", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 893, "content": "내 간편 페이 핀번호 509381 입력해서 프리미엄 VPN 서비스 연간 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "509381", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 894, "content": "결제 비밀번호가 628940이니까 지금 본 온라인 세미나 참가비 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "628940", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 895, "content": "내 카드 간편 핀 357816으로 장바구니 담긴 반려동물 간식 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "357816", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 896, "content": "간편 인증번호가 894170이니까 이걸로 스마트홈 기기 결제하고 설치 예약해줘.", "has_sensitive": true, "entities": [{"value": "894170", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 897, "content": "내 모바일 결제 비밀번호 401625 사용해서 선택한 주방 가전 구매 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "401625", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 898, "content": "결제 핀 번호 753208로 방금 고른 골프 용품 세트 할부 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "753208", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 899, "content": "내 페이 인증 핀이 926534인데 온라인 쇼핑몰 적립금 사용해서 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "926534", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 900, "content": "간편결제 비밀번호 182467 입력해서 선택한 디자이너 가구 예약금 결제해줘.", "has_sensitive": true, "entities": [{"value": "182467", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 901, "content": "내 간편 핀번호가 608742니까 이번 달 인터넷 요금 납부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "608742", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 902, "content": "모바일 페이 번호 375901로 지금 선택한 전기자전거 렌탈 계약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "375901", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 903, "content": "내 결제 인증핀 841296 사용해서 방금 담은 등산 장비 세트 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "841296", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 904, "content": "간편 비밀번호가 504873이니까 온라인 피트니스 프로그램 결제하고 시작해줘.", "has_sensitive": true, "entities": [{"value": "504873", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 905, "content": "내 페이 핀 729538로 선택한 캠핑 용품 세트 장바구니 전부 결제해줘.", "has_sensitive": true, "entities": [{"value": "729538", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 906, "content": "모바일 결제 번호가 163284인데 방금 추가한 홈 트레이닝 기구 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "163284", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 907, "content": "내 간편결제 핀 947562 입력해서 프리미엄 커피 원두 정기 배송 등록해줘.", "has_sensitive": true, "entities": [{"value": "947562", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 908, "content": "결제 비밀번호 290745로 지금 본 태블릿 PC 악세서리 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "290745", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 909, "content": "내 카드 인증 핀번호가 635819니까 이걸로 명품 지갑 예약 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "635819", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 910, "content": "간편 페이 비밀번호 418720 사용해서 선택한 아웃도어 의류 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "418720", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 911, "content": "내 모바일 핀번호 802596으로 방금 담은 수입 와인 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "802596", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 912, "content": "결제 인증 번호 574183 입력해서 온라인 쿠킹 클래스 수강 등록하고 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "574183", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 913, "content": "내 간편 비밀번호가 916437이니까 장바구니 담긴 베이비 용품 전부 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "916437", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 914, "content": "모바일 결제 핀 347208로 지금 선택한 안마의자 렌탈 첫 달 요금 결제해줘.", "has_sensitive": true, "entities": [{"value": "347208", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 915, "content": "내 페이 인증핀 685924 사용해서 방금 고른 명품 선글라스 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "685924", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 916, "content": "간편결제 번호가 201854니까 이걸로 프리미엄 차 정기 배송 서비스 시작해줘.", "has_sensitive": true, "entities": [{"value": "201854", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 917, "content": "내 결제 비밀번호 759642로 선택한 드론 액세서리 세트 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "759642", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 918, "content": "모바일 인증 핀번호 423790 입력해서 장바구니에 담긴 게이밍 장비 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "423790", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 919, "content": "내 간편 페이 핀이 836159인데 방금 추가한 프리미엄 스킨케어 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "836159", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 920, "content": "결제 핀번호 590437 사용해서 온라인 어학 강좌 6개월 과정 등록 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "590437", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 921, "content": "내 카드 간편 비밀번호가 174820이니까 지금 본 스마트워치 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "174820", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 922, "content": "간편 인증 핀 908365로 선택한 프리미엄 침구 세트 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "908365", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 923, "content": "내 모바일 결제 번호 652491 입력해서 방금 담은 욕실 리모델링 자재 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "652491", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 924, "content": "결제 비밀번호가 381706이니까 온라인 명상 앱 프리미엄 연간 결제해줘.", "has_sensitive": true, "entities": [{"value": "381706", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 925, "content": "내 페이 핀번호 724583 사용해서 선택한 전기면도기 세트 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "724583", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 926, "content": "간편결제 인증 핀이 547928인데 장바구니 담긴 수입 식품 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "547928", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 927, "content": "내 간편 비밀번호 289471로 지금 선택한 블루투스 이어폰 결제하고 빨리 배송해줘.", "has_sensitive": true, "entities": [{"value": "289471", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 928, "content": "모바일 페이 핀 963180 입력해서 방금 고른 사무용 가구 세트 계약금 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "963180", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 929, "content": "내 결제 인증 번호가 436592니까 온라인 심리 상담 프로그램 결제해줘.", "has_sensitive": true, "entities": [{"value": "436592", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 930, "content": "간편 핀번호 805714 사용해서 선택한 공기 청정기 필터 정기 배송 등록 처리해줘.", "has_sensitive": true, "entities": [{"value": "805714", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 931, "content": "내 페이 비밀번호가 571328이니까 이걸로 명품 향수 세트 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "571328", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 932, "content": "모바일 결제 핀번호 219654로 방금 담은 프리미엄 요가복 세트 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "219654", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 933, "content": "내 간편결제 번호 748905 입력해서 장바구니에 있는 홈 오피스 용품 결제해줘.", "has_sensitive": true, "entities": [{"value": "748905", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 934, "content": "결제 인증핀이 395217이니까 지금 본 명품 벨트 결제하고 선물 포장 추가해줘.", "has_sensitive": true, "entities": [{"value": "395217", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 935, "content": "내 카드 핀 번호 682540으로 선택한 스마트 조명 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "682540", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 936, "content": "간편 페이 인증번호 126973 사용해서 방금 추가한 건강 검진 패키지 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "126973", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 937, "content": "내 모바일 비밀번호가 850436이니까 온라인 디자인 툴 프리미엄 연간 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "850436", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 938, "content": "결제 핀 417069로 지금 선택한 무선 청소기 렌탈 계약하고 첫 달 요금 결제해줘.", "has_sensitive": true, "entities": [{"value": "417069", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 939, "content": "내 간편 인증 핀번호 794258 입력해서 장바구니 담긴 프리미엄 티 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "794258", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 940, "content": "모바일 페이 번호가 536841이니까 방금 고른 스탠딩 책상 할부 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "536841", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 941, "content": "내 결제 비밀번호 203967 사용해서 선택한 프리미엄 커튼 맞춤 제작 주문 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "203967", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 942, "content": "간편결제 핀이 871425인데 온라인 영어 회화 6개월 과정 등록 결제해줘.", "has_sensitive": true, "entities": [{"value": "871425", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 943, "content": "내 페이 인증 번호 645309로 지금 담은 와인 냉장고 예약금 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "645309", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 944, "content": "모바일 결제 핀번호가 398752니까 방금 선택한 러닝화 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "398752", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 945, "content": "내 간편 비밀번호 712684 입력해서 장바구니에 있는 스킨케어 정기 배송 등록 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "712684", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 946, "content": "결제 번호가 456190이니까 이걸로 프리미엄 매트리스 할부 결제해줘.", "has_sensitive": true, "entities": [{"value": "456190", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 947, "content": "내 카드 간편 핀 827503으로 선택한 명품 스니커즈 예약 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "827503", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 948, "content": "간편 인증번호 139576 사용해서 방금 추가한 반려동물 자동급식기 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "139576", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 949, "content": "내 모바일 페이 핀이 960241인데 온라인 쿠킹 클래스 프리미엄 패키지 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "960241", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 950, "content": "결제 인증 핀번호 584709로 지금 본 홈 시어터 시스템 계약금 결제해줘.", "has_sensitive": true, "entities": [{"value": "584709", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 951, "content": "내 간편결제 비밀번호가 321865니까 장바구니 담긴 수입 샴푸 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "321865", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 952, "content": "모바일 결제 번호 795430 입력해서 선택한 프리미엄 다이어리 맞춤 제작 주문 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "795430", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 953, "content": "내 페이 핀번호가 467182인데 방금 고른 명품 머플러 예약 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "467182", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 954, "content": "간편 비밀번호 608945 사용해서 온라인 피아노 레슨 3개월 과정 등록 결제해줘.", "has_sensitive": true, "entities": [{"value": "608945", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 955, "content": "내 결제 핀 번호 253749로 지금 선택한 무선 이어폰 충전 케이스 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "253749", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 956, "content": "모바일 인증핀이 891063이니까 장바구니에 담긴 프리미엄 초콜릿 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "891063", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 957, "content": "내 간편 페이 비밀번호 534627 입력해서 방금 추가한 스마트 체중계 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "534627", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 958, "content": "결제 번호가 710358이니까 이걸로 명품 캐리어 할부 결제해줘.", "has_sensitive": true, "entities": [{"value": "710358", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 959, "content": "내 카드 핀번호 946820으로 선택한 프리미엄 베개 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "946820", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 960, "content": "간편결제 인증 번호 182765 사용해서 온라인 드로잉 클래스 수강권 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "182765", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 961, "content": "내 모바일 결제 핀이 657439인데 지금 본 전동 칫솔 세트 정기 배송 등록 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "657439", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 962, "content": "결제 비밀번호 409173으로 방금 선택한 프리미엄 러그 맞춤 제작 예약금 결제해줘.", "has_sensitive": true, "entities": [{"value": "409173", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 963, "content": "내 페이 인증 핀번호가 826594니까 장바구니 담긴 수입 티 세트 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "826594", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 964, "content": "간편 핀 번호 571903 입력해서 선택한 명품 시계줄 교체 서비스 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "571903", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 965, "content": "내 간편결제 비밀번호 324680으로 온라인 요리 강좌 연간 패키지 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "324680", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 966, "content": "모바일 페이 핀번호 793512로 지금 담은 프리미엄 수건 세트 할부 결제해줘.", "has_sensitive": true, "entities": [{"value": "793512", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 967, "content": "내 결제 인증 번호가 145879니까 방금 고른 명품 모자 예약 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "145879", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 968, "content": "간편 비밀번호가 908254인데 장바구니에 있는 프리미엄 아로마 오일 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "908254", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 969, "content": "내 카드 간편 핀번호 637490 사용해서 선택한 스마트 도어락 결제하고 설치 예약 진행해줘.", "has_sensitive": true, "entities": [{"value": "637490", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 970, "content": "모바일 결제 번호가 452817이니까 온라인 사진 보정 강좌 프리미엄 결제해줘.", "has_sensitive": true, "entities": [{"value": "452817", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 971, "content": "내 페이 핀 번호 806341로 지금 본 공기순환기 정기 필터 배송 등록 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "806341", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 972, "content": "간편결제 인증핀 279653 입력해서 방금 추가한 명품 슬리퍼 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "279653", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 973, "content": "내 간편 비밀번호가 591728이니까 장바구니 담긴 프리미엄 목욕 용품 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "591728", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 974, "content": "결제 핀번호 723405로 선택한 전기 포트 세트 할부 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "723405", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 975, "content": "내 모바일 인증 번호 468190 사용해서 온라인 명상 앱 평생 이용권 결제해줘.", "has_sensitive": true, "entities": [{"value": "468190", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 976, "content": "간편 페이 비밀번호가 834625인데 지금 본 명품 넥타이 세트 예약 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "834625", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 977, "content": "내 결제 번호 215789로 방금 선택한 프리미엄 와인 오프너 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "215789", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 978, "content": "모바일 페이 핀 970482 입력해서 장바구니에 담긴 스마트 플러그 세트 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "970482", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 979, "content": "내 간편결제 인증 번호가 346958이니까 온라인 그림 강좌 6개월 과정 등록 결제해줘.", "has_sensitive": true, "entities": [{"value": "346958", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 980, "content": "결제 비밀번호 601273으로 선택한 프리미엄 손목시계줄 맞춤 제작 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "601273", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 981, "content": "내 카드 핀번호가 728946이니까 지금 담은 명품 벨트 케이스 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "728946", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 982, "content": "간편 인증 핀 492815 사용해서 방금 추가한 스마트 온도조절기 설치 포함 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "492815", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 983, "content": "내 모바일 결제 비밀번호 536729로 온라인 바리스타 과정 프리미엄 패키지 결제해줘.", "has_sensitive": true, "entities": [{"value": "536729", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 984, "content": "결제 핀 번호가 864302인데 장바구니에 있는 프리미엄 족욕기 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "864302", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 985, "content": "내 페이 인증핀 157943 입력해서 선택한 명품 안경케이스 예약 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "157943", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 986, "content": "간편결제 번호가 720486이니까 온라인 사진 편집 소프트웨어 연간 라이선스 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "720486", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 987, "content": "내 간편 비밀번호 394658로 지금 본 프리미엄 보온병 세트 결제해줘.", "has_sensitive": true, "entities": [{"value": "394658", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 988, "content": "모바일 페이 핀번호 681274 사용해서 방금 담은 스마트 블라인드 맞춤 제작 주문 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "681274", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 989, "content": "내 결제 인증 번호가 925460이니까 장바구니에 담긴 명품 키링 세트 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "925460", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 990, "content": "간편 핀번호 548213으로 선택한 프리미엄 가습기 정기 필터 배송 등록 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "548213", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 991, "content": "내 카드 간편 비밀번호가 370895인데 온라인 비디오 편집 강좌 결제해줘.", "has_sensitive": true, "entities": [{"value": "370895", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 992, "content": "결제 번호 803526 입력해서 지금 선택한 명품 카드지갑 예약 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "803526", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 993, "content": "내 모바일 인증 핀이 196742니까 방금 추가한 프리미엄 세탁 세제 정기 배송 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "196742", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 994, "content": "간편결제 비밀번호 745360으로 장바구니 담긴 스마트 체온계 세트 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "745360", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 995, "content": "내 페이 핀번호가 428901인데 온라인 3D 모델링 소프트웨어 프리미엄 결제해줘.", "has_sensitive": true, "entities": [{"value": "428901", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 996, "content": "결제 인증 번호 612837 사용해서 선택한 명품 장갑 세트 할부 결제 처리해줘.", "has_sensitive": true, "entities": [{"value": "612837", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 997, "content": "내 간편 페이 핀 357482로 지금 본 프리미엄 방향제 정기 배송 등록 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "357482", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 998, "content": "모바일 결제 번호가 890165니까 방금 선택한 스마트 저울 결제하고 빨리 배송해줘.", "has_sensitive": true, "entities": [{"value": "890165", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 999, "content": "내 간편결제 인증핀 524763 입력해서 장바구니에 있는 명품 스카프 예약 결제 진행해줘.", "has_sensitive": true, "entities": [{"value": "524763", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1000, "content": "결제 비밀번호가 673940이니까 이걸로 온라인 파이썬 프로그래밍 강좌 연간 패키지 결제 완료시켜줘.", "has_sensitive": true, "entities": [{"value": "673940", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1001, "content": "내가 설정한 간편결제 비밀번호가 842736이 맞는지 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "842736", "begin": 20, "end": 26, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1002, "content": "어제 결제할 때 입력한 핀번호 593841이 저장되어 있는지 조회해줘.", "has_sensitive": true, "entities": [{"value": "593841", "begin": 20, "end": 26, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1003, "content": "지금 내 모바일 페이 비밀번호 718362를 다른 번호로 변경하고 싶은데 어떻게 해?", "has_sensitive": true, "entities": [{"value": "718362", "begin": 19, "end": 25, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1004, "content": "결제 오류가 계속 나는데 내가 입력한 465928이 올바른 번호인지 확인해줘.", "has_sensitive": true, "entities": [{"value": "465928", "begin": 26, "end": 32, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1005, "content": "간편결제 핀 902547을 까먹었는데 찾을 수 있는 방법이 있을까?", "has_sensitive": true, "entities": [{"value": "902547", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1006, "content": "내 카드 인증번호 371628이 보안에 안전한 번호인지 분석해줄래?", "has_sensitive": true, "entities": [{"value": "371628", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1007, "content": "아까 284915 입력했는데 결제가 안 됐어. 뭐가 문제일까?", "has_sensitive": true, "entities": [{"value": "284915", "begin": 3, "end": 9, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1008, "content": "친구가 실수로 내 폰으로 결제하면서 639572를 입력했는데 이거 내 비밀번호 맞아?", "has_sensitive": true, "entities": [{"value": "639572", "begin": 26, "end": 32, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1009, "content": "새 폰으로 바꿨는데 예전 비밀번호 851403을 계속 사용해도 되는지 알려줘.", "has_sensitive": true, "entities": [{"value": "851403", "begin": 20, "end": 26, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1010, "content": "내 결제 핀 527946이 해킹당했을 가능성이 있는지 체크해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "527946", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1011, "content": "406829를 간편결제 비밀번호로 설정하려는데 안전한 번호인지 확인해줘.", "has_sensitive": true, "entities": [{"value": "406829", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1012, "content": "내 간편 인증 번호 794258이 타인에게 노출되면 어떻게 되는지 설명해줘.", "has_sensitive": true, "entities": [{"value": "794258", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1013, "content": "처음 설정한 비밀번호 639485를 기억하고 있는데 이걸 변경해야 할까?", "has_sensitive": true, "entities": [{"value": "639485", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1014, "content": "결제 시 918364를 입력했더니 거부되었는데 왜 그런 거야?", "has_sensitive": true, "entities": [{"value": "918364", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1015, "content": "내 모바일 페이 핀번호 502817이 다른 사람 번호랑 겹칠 수 있어?", "has_sensitive": true, "entities": [{"value": "502817", "begin": 15, "end": 21, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1016, "content": "275693을 비밀번호로 사용 중인데 이 번호의 보안 강도를 평가해줘.", "has_sensitive": true, "entities": [{"value": "275693", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1017, "content": "간편결제 비밀번호를 463928에서 다른 번호로 바꾸는 절차를 알려줘.", "has_sensitive": true, "entities": [{"value": "463928", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1018, "content": "내가 자주 쓰는 831506이라는 번호가 추측하기 쉬운 번호인지 분석해줘.", "has_sensitive": true, "entities": [{"value": "831506", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1019, "content": "결제 핀 704829를 분실했을 때 복구하는 방법을 단계별로 설명해줘.", "has_sensitive": true, "entities": [{"value": "704829", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1020, "content": "아들이 실수로 내 폰에서 592463을 입력했는데 이게 뭔지 알려줘.", "has_sensitive": true, "entities": [{"value": "592463", "begin": 21, "end": 27, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1021, "content": "간편 인증 번호 358740이 시스템에 제대로 등록되었는지 확인하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "358740", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1022, "content": "내 페이 비밀번호 926184가 만료되었다는 메시지가 뜨는데 무슨 의미야?", "has_sensitive": true, "entities": [{"value": "926184", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1023, "content": "147835를 새로운 간편결제 핀으로 설정했는데 이게 승인되었는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "147835", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1024, "content": "모바일 결제 시 681473을 입력했는데 3번 틀렸다고 나와. 어떻게 해?", "has_sensitive": true, "entities": [{"value": "681473", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1025, "content": "내가 사용하는 핀번호 530926이 해커들이 자주 시도하는 번호 패턴인지 알려줘.", "has_sensitive": true, "entities": [{"value": "530926", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1026, "content": "결제 비밀번호 409582를 다른 가족 구성원과 공유해도 되는지 조언해줘.", "has_sensitive": true, "entities": [{"value": "409582", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1027, "content": "875301이 내 간편결제 핀이 맞는지 시스템 로그를 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "875301", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1028, "content": "내 카드 핀 762945가 타인에게 노출되었을 때 즉시 취해야 할 조치를 알려줘.", "has_sensitive": true, "entities": [{"value": "762945", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1029, "content": "간편 비밀번호 214679를 설정한 지 1년이 넘었는데 변경이 필요할까?", "has_sensitive": true, "entities": [{"value": "214679", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1030, "content": "938567을 입력했더니 결제가 보류되었다는 알림이 왔어. 무슨 문제지?", "has_sensitive": true, "entities": [{"value": "938567", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1031, "content": "내 모바일 페이 인증번호 605294가 6자리가 맞는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "605294", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1032, "content": "결제 핀 473826을 변경하려고 하는데 이전 번호를 입력하라고 해. 왜 그래?", "has_sensitive": true, "entities": [{"value": "473826", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1033, "content": "529738이라는 번호가 내 계정에 등록된 비밀번호인지 데이터베이스에서 확인해줘.", "has_sensitive": true, "entities": [{"value": "529738", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1034, "content": "내 간편결제 비밀번호 810495가 너무 단순한 것 같은데 더 복잡한 번호를 추천해줘.", "has_sensitive": true, "entities": [{"value": "810495", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1035, "content": "367924를 입력했는데 오류 메시지가 뜨는 이유를 분석해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "367924", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1036, "content": "모바일 결제 핀번호 741863이 최근 변경되었는지 이력을 조회해줘.", "has_sensitive": true, "entities": [{"value": "741863", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1037, "content": "내가 메모해둔 간편 인증 번호 592840이 실제로 시스템에 저장된 번호와 일치하는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "592840", "begin": 18, "end": 24, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1038, "content": "간편결제 비밀번호 436271을 잊어버렸을 때 SMS로 받을 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "436271", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1039, "content": "158902가 내 결제 핀으로 등록되어 있는지 계정 정보를 확인해줘.", "has_sensitive": true, "entities": [{"value": "158902", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1040, "content": "내 페이 비밀번호 827346이 생일과 연관된 번호라서 안전하지 않은 것 같아. 맞아?", "has_sensitive": true, "entities": [{"value": "827346", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1041, "content": "704159를 간편 핀으로 사용하고 있는데 이 번호의 패턴이 예측 가능한지 분석해줘.", "has_sensitive": true, "entities": [{"value": "704159", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1042, "content": "결제 인증번호 943628이 해킹될 확률을 계산해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "943628", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1043, "content": "내 모바일 페이 핀 385720을 다른 번호로 바꿔야 하는 이유를 설명해줘.", "has_sensitive": true, "entities": [{"value": "385720", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1044, "content": "간편 비밀번호 612897이 시스템에서 중복되는 번호인지 확인하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "612897", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1045, "content": "259473을 입력했더니 계정이 잠겼다는 메시지가 나와. 어떻게 해제해?", "has_sensitive": true, "entities": [{"value": "259473", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1046, "content": "내 카드 간편결제 핀 876502가 올바르게 암호화되어 저장되었는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "876502", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1047, "content": "결제 비밀번호 430869를 변경하지 않고 오래 사용하면 위험한지 알려줘.", "has_sensitive": true, "entities": [{"value": "430869", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1048, "content": "781534가 내 간편 인증 번호로 활성화되어 있는지 상태를 조회해줘.", "has_sensitive": true, "entities": [{"value": "781534", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1049, "content": "모바일 결제 핀번호 524960이 다른 기기에서도 동일하게 사용되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "524960", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1050, "content": "내가 설정한 간편 비밀번호 396827이 보안 정책을 충족하는지 검증해줘.", "has_sensitive": true, "entities": [{"value": "396827", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1051, "content": "167485를 입력했는데 시간 초과 오류가 나는 이유를 설명해줘.", "has_sensitive": true, "entities": [{"value": "167485", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1052, "content": "내 페이 인증 핀 902736이 최근에 무단으로 사용된 적이 있는지 로그를 확인해줘.", "has_sensitive": true, "entities": [{"value": "902736", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1053, "content": "간편결제 비밀번호 584329를 재설정하는 과정에서 필요한 정보를 알려줘.", "has_sensitive": true, "entities": [{"value": "584329", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1054, "content": "650287이라는 번호가 내 계정에 연결된 모든 결제 수단에 적용되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "650287", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1055, "content": "내 모바일 페이 비밀번호 417936을 가족에게 알려줘도 법적으로 문제없는지 알려줘.", "has_sensitive": true, "entities": [{"value": "417936", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1056, "content": "결제 핀 793501을 변경하려고 하는데 현재 번호를 확인하는 방법을 알려줘.", "has_sensitive": true, "entities": [{"value": "793501", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1057, "content": "238765가 내 간편결제 인증번호가 맞는지 고객센터에 문의하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "238765", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1058, "content": "내 카드 핀번호 846293이 탈취되었을 가능성을 진단해주는 서비스가 있어?", "has_sensitive": true, "entities": [{"value": "846293", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1059, "content": "간편 인증 번호 502874를 입력할 때마다 오류가 나는 원인을 분석해줘.", "has_sensitive": true, "entities": [{"value": "502874", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1060, "content": "921637이 내 결제 비밀번호로 제대로 저장되었는지 확인하는 절차를 알려줘.", "has_sensitive": true, "entities": [{"value": "921637", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1061, "content": "모바일 페이 핀 364829가 만료 기한이 있는 번호인지 설명해줘.", "has_sensitive": true, "entities": [{"value": "364829", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1062, "content": "내가 입력한 간편 비밀번호 705462가 다른 사람과 동일할 수 있는 확률을 계산해줘.", "has_sensitive": true, "entities": [{"value": "705462", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1063, "content": "결제 인증번호 186947을 변경해야 한다는 알림을 받았는데 왜 그런지 알려줘.", "has_sensitive": true, "entities": [{"value": "186947", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1064, "content": "479523이 내 페이 비밀번호로 유효한지 시스템 점검을 요청할 수 있어?", "has_sensitive": true, "entities": [{"value": "479523", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1065, "content": "내 간편결제 핀 831256이 해외에서도 동일하게 작동하는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "831256", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1066, "content": "간편 비밀번호 640198을 분실했을 때 임시 비밀번호를 발급받는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "640198", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1067, "content": "327904가 내 모바일 결제 핀으로 등록된 날짜를 조회해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "327904", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1068, "content": "결제 비밀번호 752836을 변경하고 싶은데 변경 횟수에 제한이 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "752836", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1069, "content": "내 카드 인증 핀번호 498307이 시스템 업데이트 후에도 유지되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "498307", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1070, "content": "906524를 간편결제 비밀번호로 설정했는데 이게 승인 대기 중인지 상태를 알려줘.", "has_sensitive": true, "entities": [{"value": "906524", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1071, "content": "내 모바일 페이 핀 573940이 비활성화되었다는 메시지를 받았는데 왜 그래?", "has_sensitive": true, "entities": [{"value": "573940", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1072, "content": "간편 인증 번호 285679가 보안 수준이 낮다고 경고가 뜨는데 어떻게 해결해?", "has_sensitive": true, "entities": [{"value": "285679", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1073, "content": "418762를 입력했더니 계정 보안 검증이 필요하다고 나와. 무슨 의미야?", "has_sensitive": true, "entities": [{"value": "418762", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1074, "content": "내 결제 핀번호 961385가 자동으로 변경된 것 같은데 이력을 확인해줘.", "has_sensitive": true, "entities": [{"value": "961385", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1075, "content": "간편결제 비밀번호 734251을 설정한 후 확인 이메일을 받지 못했어. 왜 그래?", "has_sensitive": true, "entities": [{"value": "734251", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1076, "content": "592183이 내 페이 인증번호로 정상적으로 작동하는지 테스트해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "592183", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1077, "content": "모바일 결제 핀 807456을 변경하려고 하는데 보안 질문에 답해야 한다고 해. 어떤 질문이야?", "has_sensitive": true, "entities": [{"value": "807456", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1078, "content": "내 간편 비밀번호 346728이 다른 앱에서도 사용 가능한지 확인해줘.", "has_sensitive": true, "entities": [{"value": "346728", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1079, "content": "결제 인증번호 918574를 잊어버렸을 때 재설정하는 데 걸리는 시간을 알려줘.", "has_sensitive": true, "entities": [{"value": "918574", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1080, "content": "463205가 내 카드 간편 핀으로 저장되어 있는지 데이터베이스 조회를 요청해줘.", "has_sensitive": true, "entities": [{"value": "463205", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1081, "content": "내 모바일 페이 비밀번호 729860이 규칙적인 패턴이라서 위험한지 분석해줘.", "has_sensitive": true, "entities": [{"value": "729860", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1082, "content": "간편결제 핀 185947을 입력할 때 특수문자가 필요한지 알려줘.", "has_sensitive": true, "entities": [{"value": "185947", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1083, "content": "604829가 내 간편 인증 번호로 맞는지 SMS로 확인 코드를 보내줄 수 있어?", "has_sensitive": true, "entities": [{"value": "604829", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1084, "content": "결제 비밀번호 857301을 변경하고 나서 이전 번호로 다시 돌아갈 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "857301", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1085, "content": "내 페이 핀번호 372894가 시스템 오류로 삭제되었을 가능성을 확인해줘.", "has_sensitive": true, "entities": [{"value": "372894", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1086, "content": "간편 비밀번호 521786을 다른 사람이 알아낼 수 있는 방법이 있는지 설명해줘.", "has_sensitive": true, "entities": [{"value": "521786", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1087, "content": "940672를 입력했는데 네트워크 오류로 처리가 안 되었어. 재시도해야 해?", "has_sensitive": true, "entities": [{"value": "940672", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1088, "content": "내 모바일 결제 핀 286439가 다른 계정과 연동되었는지 확인하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "286439", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1089, "content": "간편결제 인증번호 703528이 정기적으로 변경되어야 하는지 보안 정책을 알려줘.", "has_sensitive": true, "entities": [{"value": "703528", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1090, "content": "458216이 내 페이 비밀번호로 사용되고 있는지 계정 상태를 점검해줘.", "has_sensitive": true, "entities": [{"value": "458216", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1091, "content": "결제 핀 896543을 분실했을 때 본인 인증 없이 복구할 수 있는 방법이 있어?", "has_sensitive": true, "entities": [{"value": "896543", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1092, "content": "내 카드 간편 비밀번호 614720이 타인의 접근으로부터 안전한지 평가해줘.", "has_sensitive": true, "entities": [{"value": "614720", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1093, "content": "간편 인증 핀 329681을 변경하지 않고 계속 사용하면 어떤 위험이 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "329681", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1094, "content": "705382가 내 모바일 페이 비밀번호로 활성화되어 있는지 실시간으로 확인해줘.", "has_sensitive": true, "entities": [{"value": "705382", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1095, "content": "결제 비밀번호 543897을 입력했을 때 보안 경고가 뜨는 이유를 설명해줘.", "has_sensitive": true, "entities": [{"value": "543897", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1096, "content": "내 간편결제 핀번호 187524가 복수의 카드에 동일하게 적용되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "187524", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1097, "content": "간편 비밀번호 926740을 설정한 후 인증 메일이 오지 않았는데 문제가 있는 거야?", "has_sensitive": true, "entities": [{"value": "926740", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1098, "content": "471865를 입력했더니 일시적으로 차단되었다고 나와. 해제하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "471865", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1099, "content": "내 모바일 결제 인증번호 802536이 만료되었는지 유효 기간을 조회해줘.", "has_sensitive": true, "entities": [{"value": "802536", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1100, "content": "간편결제 비밀번호 356294를 기억하기 쉬운 번호로 바꾸고 싶은데 추천해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "356294", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1101, "content": "639128이 내 페이 핀으로 등록되어 있는지 고객센터 데이터를 확인해줘.", "has_sensitive": true, "entities": [{"value": "639128", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1102, "content": "결제 핀번호 914567을 변경한 후 이전 번호로 로그인 시도가 있었는지 로그 분석해줘.", "has_sensitive": true, "entities": [{"value": "914567", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1103, "content": "내 카드 인증 번호 425803이 다른 서비스에서도 유효한지 확인하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "425803", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1104, "content": "간편 비밀번호 780542를 분실했는데 신분증만으로 복구할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "780542", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1105, "content": "596473이 내 모바일 페이 비밀번호로 정상 작동하는지 시뮬레이션 테스트해줘.", "has_sensitive": true, "entities": [{"value": "596473", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1106, "content": "결제 인증 핀 237695를 입력했는데 시스템 점검 중이라고 나와. 언제 해결돼?", "has_sensitive": true, "entities": [{"value": "237695", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1107, "content": "내 간편결제 번호 864129가 보안 정책 위반으로 차단되었는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "864129", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1108, "content": "간편 인증 핀번호 402857을 변경하려는데 새 번호가 이전과 같으면 안 되는지 알려줘.", "has_sensitive": true, "entities": [{"value": "402857", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1109, "content": "951748이 내 결제 비밀번호로 저장되어 있는지 암호화 상태를 점검해줘.", "has_sensitive": true, "entities": [{"value": "951748", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1110, "content": "내 모바일 페이 핀 673240이 최근 30일 동안 사용된 이력을 조회해줘.", "has_sensitive": true, "entities": [{"value": "673240", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1111, "content": "간편결제 비밀번호 518326을 설정했는데 확인 절차를 건너뛸 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "518326", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1112, "content": "384609가 내 페이 인증번호로 맞는지 본인 인증 없이 확인할 수 있어?", "has_sensitive": true, "entities": [{"value": "384609", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1113, "content": "결제 핀 729483을 입력했더니 추가 보안 인증이 필요하다고 나와. 왜 그래?", "has_sensitive": true, "entities": [{"value": "729483", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1114, "content": "내 카드 간편 비밀번호 906135가 다른 국가에서도 사용 가능한지 확인해줘.", "has_sensitive": true, "entities": [{"value": "906135", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1115, "content": "간편 인증 번호 241807을 변경하지 않아도 되는 조건을 알려줘.", "has_sensitive": true, "entities": [{"value": "241807", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1116, "content": "567920이 내 모바일 결제 핀으로 등록된 시점을 정확히 알려줄 수 있어?", "has_sensitive": true, "entities": [{"value": "567920", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1117, "content": "결제 비밀번호 835694를 잊어버렸을 때 이메일로 찾을 수 있는지 절차를 알려줘.", "has_sensitive": true, "entities": [{"value": "835694", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1118, "content": "내 간편결제 핀번호 420578이 해킹 시도의 대상이 되었는지 보안 로그를 분석해줘.", "has_sensitive": true, "entities": [{"value": "420578", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1119, "content": "간편 비밀번호 798361을 설정한 후 백업해두는 방법이 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "798361", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1120, "content": "152846이 내 페이 비밀번호로 유효한지 실시간 검증을 요청할 수 있어?", "has_sensitive": true, "entities": [{"value": "152846", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1121, "content": "내 모바일 결제 인증번호 683527이 동일한 숫자 반복이라서 위험한지 분석해줘.", "has_sensitive": true, "entities": [{"value": "683527", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1122, "content": "간편결제 핀 947203을 변경할 때 이전 핀을 몇 번까지 재사용할 수 없는지 알려줘.", "has_sensitive": true, "entities": [{"value": "947203", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1123, "content": "314682가 내 카드 인증 번호로 등록되어 있는지 시스템 상태를 확인해줘.", "has_sensitive": true, "entities": [{"value": "314682", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1124, "content": "결제 핀번호 826547을 입력했는데 서버 오류가 발생했어. 다시 시도해야 해?", "has_sensitive": true, "entities": [{"value": "826547", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1125, "content": "내 간편 비밀번호 509738이 생성 규칙에 맞게 만들어졌는지 검증해줘.", "has_sensitive": true, "entities": [{"value": "509738", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1126, "content": "간편결제 인증 핀 731905를 분실했을 때 고객센터 방문 없이 복구할 수 있어?", "has_sensitive": true, "entities": [{"value": "731905", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1127, "content": "468295가 내 모바일 페이 비밀번호로 정상적으로 기능하는지 상태를 점검해줘.", "has_sensitive": true, "entities": [{"value": "468295", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1128, "content": "결제 비밀번호 674831을 변경한 후 알림을 받지 못했는데 변경이 완료된 거야?", "has_sensitive": true, "entities": [{"value": "674831", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1129, "content": "내 페이 핀번호 395270이 여러 번 틀렸을 때 계정이 영구 차단되는지 알려줘.", "has_sensitive": true, "entities": [{"value": "395270", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1130, "content": "간편 인증 번호 827156을 입력할 때 대소문자를 구분하는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "827156", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1131, "content": "902643이 내 간편결제 비밀번호로 맞는지 SMS 인증으로 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "902643", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1132, "content": "내 모바일 결제 핀 584162가 보안 취약점이 있는지 전문가 분석을 받고 싶어.", "has_sensitive": true, "entities": [{"value": "584162", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1133, "content": "간편결제 비밀번호 236789를 설정했는데 확인 코드가 오지 않아. 재발송해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "236789", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1134, "content": "741503이 내 페이 인증번호로 저장되어 있는지 계정 정보를 열람해줘.", "has_sensitive": true, "entities": [{"value": "741503", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1135, "content": "결제 핀 619428을 변경하려고 하는데 최소 변경 주기가 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "619428", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1136, "content": "내 카드 간편 비밀번호 853706이 연속된 숫자라서 보안에 취약한지 평가해줘.", "has_sensitive": true, "entities": [{"value": "853706", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1137, "content": "간편 인증 핀 327849를 잊어버렸을 때 본인 확인 서류로 복구하는 절차를 알려줘.", "has_sensitive": true, "entities": [{"value": "327849", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1138, "content": "408972가 내 모바일 페이 비밀번호로 활성화되어 있는지 실시간 조회해줘.", "has_sensitive": true, "entities": [{"value": "408972", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1139, "content": "결제 비밀번호 795384를 입력했는데 다른 계정과 충돌한다고 나와. 무슨 의미야?", "has_sensitive": true, "entities": [{"value": "795384", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1140, "content": "내 간편결제 핀번호 526140이 최근에 무단 변경된 흔적이 있는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "526140", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1141, "content": "간편 비밀번호 184736을 설정한 후 테스트 결제를 해봐야 하는지 알려줘.", "has_sensitive": true, "entities": [{"value": "184736", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1142, "content": "961285가 내 페이 핀으로 등록되어 있는지 고객 지원팀에 문의하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "961285", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1143, "content": "내 모바일 결제 인증번호 673509가 만료일이 지났는지 유효 기간을 확인해줘.", "has_sensitive": true, "entities": [{"value": "673509", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1144, "content": "간편결제 핀 430867을 변경하고 싶은데 새 번호의 보안 강도를 미리 확인할 수 있어?", "has_sensitive": true, "entities": [{"value": "430867", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1145, "content": "297654가 내 카드 인증 번호로 정상 작동하는지 시스템 테스트를 실행해줘.", "has_sensitive": true, "entities": [{"value": "297654", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1146, "content": "결제 핀번호 814925를 입력했는데 인증 시간이 초과되었다고 나와. 어떻게 해?", "has_sensitive": true, "entities": [{"value": "814925", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1147, "content": "내 간편 비밀번호 562307이 다른 사람에게 노출되었는지 의심스러워. 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "562307", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1148, "content": "간편결제 인증 핀 745193을 분실했을 때 전화 인증만으로 복구할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "745193", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1149, "content": "381740이 내 모바일 페이 비밀번호로 저장되어 있는지 데이터 무결성을 검증해줘.", "has_sensitive": true, "entities": [{"value": "381740", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1150, "content": "결제 비밀번호 927461을 변경한 후 이전 번호가 자동으로 삭제되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "927461", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1151, "content": "내 페이 핀번호 605832가 시스템 업데이트 중에 손실되었을 가능성을 점검해줘.", "has_sensitive": true, "entities": [{"value": "605832", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1152, "content": "간편 인증 번호 248679를 입력했는데 다시 입력하라는 메시지가 계속 나와. 왜 그래?", "has_sensitive": true, "entities": [{"value": "248679", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1153, "content": "519863이 내 간편결제 비밀번호로 맞는지 고객센터 데이터베이스를 조회해줘.", "has_sensitive": true, "entities": [{"value": "519863", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1154, "content": "내 모바일 결제 핀 736450이 사전에 등록된 번호 목록에 있는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "736450", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1155, "content": "간편결제 비밀번호 420786을 설정했는데 활성화되는 데 시간이 걸리는지 알려줘.", "has_sensitive": true, "entities": [{"value": "420786", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1156, "content": "874295가 내 페이 인증번호로 등록되어 있는지 SMS로 확인 요청을 보내줘.", "has_sensitive": true, "entities": [{"value": "874295", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1157, "content": "결제 핀 358601을 변경하려고 하는데 변경 이력을 조회할 수 있는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "358601", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1158, "content": "내 카드 간편 비밀번호 691472가 무작위 대입 공격에 안전한지 분석해줘.", "has_sensitive": true, "entities": [{"value": "691472", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1159, "content": "간편 인증 핀 824057을 잊어버렸을 때 아이디만으로 찾을 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "824057", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1160, "content": "207348이 내 모바일 페이 비밀번호로 활성화되어 있는지 온라인으로 확인해줘.", "has_sensitive": true, "entities": [{"value": "207348", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1161, "content": "결제 비밀번호 935640을 입력했는데 보안 정책에 맞지 않는다고 나와. 무슨 의미야?", "has_sensitive": true, "entities": [{"value": "935640", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1162, "content": "내 간편결제 핀번호 463829가 최근 로그인 시도에 사용되었는지 이력을 확인해줘.", "has_sensitive": true, "entities": [{"value": "463829", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1163, "content": "간편 비밀번호 758241을 설정한 후 확인 절차 없이 바로 사용할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "758241", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1164, "content": "581096이 내 페이 핀으로 저장되어 있는지 계정 보안 상태를 점검해줘.", "has_sensitive": true, "entities": [{"value": "581096", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1165, "content": "내 모바일 결제 인증번호 392745가 규정된 형식을 따르는지 검증해줘.", "has_sensitive": true, "entities": [{"value": "392745", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1166, "content": "간편결제 핀 640387을 변경하고 싶은데 즉시 적용되는지 아니면 대기 시간이 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "640387", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1167, "content": "827904가 내 카드 인증 번호로 정상적으로 등록되었는지 시스템 로그를 확인해줘.", "has_sensitive": true, "entities": [{"value": "827904", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1168, "content": "결제 핀번호 154738을 입력했는데 일시적 오류가 발생했다고 나와. 재시도해야 해?", "has_sensitive": true, "entities": [{"value": "154738", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1169, "content": "내 간편 비밀번호 906325가 다른 플랫폼에서도 동일하게 사용되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "906325", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1170, "content": "간편결제 인증 핀 479618을 분실했을 때 고객센터 전화로만 복구할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "479618", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1171, "content": "316527이 내 모바일 페이 비밀번호로 저장되어 있는지 실시간 상태를 조회해줘.", "has_sensitive": true, "entities": [{"value": "316527", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1172, "content": "결제 비밀번호 782903을 변경한 후 모든 기기에서 동시에 적용되는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "782903", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1173, "content": "내 페이 핀번호 534682가 시스템 점검 중에 초기화되었을 가능성을 확인해줘.", "has_sensitive": true, "entities": [{"value": "534682", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1174, "content": "간편 인증 번호 869140을 입력했는데 형식이 잘못되었다는 오류가 나와. 왜 그래?", "has_sensitive": true, "entities": [{"value": "869140", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1175, "content": "241897이 내 간편결제 비밀번호로 맞는지 이메일 인증으로 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "241897", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1176, "content": "내 모바일 결제 핀 607352가 보안 감사를 통과했는지 결과를 알려줘.", "has_sensitive": true, "entities": [{"value": "607352", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1177, "content": "간편결제 비밀번호 495873을 설정했는데 저장이 완료되었다는 알림을 받지 못했어.", "has_sensitive": true, "entities": [{"value": "495873", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1178, "content": "728406이 내 페이 인증번호로 등록되어 있는지 계정 설정을 확인해줘.", "has_sensitive": true, "entities": [{"value": "728406", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1179, "content": "결제 핀 351649를 변경하려고 하는데 변경 횟수 제한이 초과되었다고 나와. 어떻게 해?", "has_sensitive": true, "entities": [{"value": "351649", "begin": 6, "end": 12, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1180, "content": "내 카드 간편 비밀번호 913528이 순차적인 숫자라서 보안에 문제가 있는지 평가해줘.", "has_sensitive": true, "entities": [{"value": "913528", "begin": 14, "end": 20, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1181, "content": "간편 인증 핀 670294를 잊어버렸을 때 생체 인증으로 복구할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "670294", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1182, "content": "486753이 내 모바일 페이 비밀번호로 활성화되어 있는지 백엔드 시스템을 확인해줘.", "has_sensitive": true, "entities": [{"value": "486753", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1183, "content": "결제 비밀번호 825174를 입력했는데 다른 사용자의 번호와 충돌한다는 메시지가 나와.", "has_sensitive": true, "entities": [{"value": "825174", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1184, "content": "내 간편결제 핀번호 593406이 최근에 변경 시도가 있었는지 보안 로그를 분석해줘.", "has_sensitive": true, "entities": [{"value": "593406", "begin": 12, "end": 18, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1185, "content": "간편 비밀번호 702398을 설정한 후 인증 대기 상태인지 현재 상태를 알려줘.", "has_sensitive": true, "entities": [{"value": "702398", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1186, "content": "147639가 내 페이 핀으로 저장되어 있는지 고객 데이터베이스를 조회해줘.", "has_sensitive": true, "entities": [{"value": "147639", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1187, "content": "내 모바일 결제 인증번호 834261이 암호화 프로토콜을 준수하는지 확인해줘.", "has_sensitive": true, "entities": [{"value": "834261", "begin": 16, "end": 22, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1188, "content": "간편결제 핀 409685를 변경하고 싶은데 변경 후 즉시 사용 가능한지 알려줘.", "has_sensitive": true, "entities": [{"value": "409685", "begin": 8, "end": 14, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1189, "content": "561207이 내 카드 인증 번호로 정상 작동하는지 연결 테스트를 실행해줘.", "has_sensitive": true, "entities": [{"value": "561207", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1190, "content": "결제 핀번호 926830을 입력했는데 서비스 이용이 제한되었다고 나와. 무슨 문제야?", "has_sensitive": true, "entities": [{"value": "926830", "begin": 7, "end": 13, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1191, "content": "내 간편 비밀번호 374508이 다른 앱에서도 인식되는지 호환성을 확인해줘.", "has_sensitive": true, "entities": [{"value": "374508", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1192, "content": "간편결제 인증 핀 685429를 분실했을 때 계정 복구에 걸리는 시간을 알려줘.", "has_sensitive": true, "entities": [{"value": "685429", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1193, "content": "219763이 내 모바일 페이 비밀번호로 저장되어 있는지 관리자 권한으로 확인해줘.", "has_sensitive": true, "entities": [{"value": "219763", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1194, "content": "결제 비밀번호 547982를 변경한 후 이전 번호로 다시 복원할 수 있는지 알려줘.", "has_sensitive": true, "entities": [{"value": "547982", "begin": 9, "end": 15, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1195, "content": "내 페이 핀번호 830746이 시스템 마이그레이션 과정에서 손실되었는지 점검해줘.", "has_sensitive": true, "entities": [{"value": "830746", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1196, "content": "간편 인증 번호 492357을 입력했는데 인증 횟수를 초과했다는 메시지가 나와.", "has_sensitive": true, "entities": [{"value": "492357", "begin": 10, "end": 16, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1197, "content": "671584가 내 간편결제 비밀번호로 맞는지 본인 인증 서류로 확인해줄 수 있어?", "has_sensitive": true, "entities": [{"value": "671584", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1198, "content": "내 모바일 결제 핀 256903이 보안 정책 업데이트 후에도 유효한지 확인해줘.", "has_sensitive": true, "entities": [{"value": "256903", "begin": 13, "end": 19, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1199, "content": "간편결제 비밀번호 708364를 설정했는데 시스템에 반영되는 데 시간이 걸리는지 알려줘.", "has_sensitive": true, "entities": [{"value": "708364", "begin": 11, "end": 17, "label": "MOBILE_PAYMENT_PIN"}]}
+{"id": 1200, "content": "943528이 내 페이 인증번호로 등록되어 있는지 원격으로 조회하는 방법 알려줘.", "has_sensitive": true, "entities": [{"value": "943528", "begin": 0, "end": 6, "label": "MOBILE_PAYMENT_PIN"}]}

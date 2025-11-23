@@ -1,0 +1,1000 @@
+{"id": 1, "content": "계좌 이체 시 보안을 위해 설정한 비밀번호는 1234이며, 이 번호는 결제 승인에 사용됩니다.", "has_sensitive": true, "entities": [{"value": "1234", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 2, "content": "새로 발급받은 체크카드의 초기 ATM 비밀번호가 0000이라고 하는데, 접속 후 바로 변경해야 합니다.", "has_sensitive": true, "entities": [{"value": "0000", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 3, "content": "회사 경비 시스템에 등록된 개인 결제 카드 비밀번호는 5678로 지정되어 있으며, 이는 재무 보고서에 기록됩니다.", "has_sensitive": true, "entities": [{"value": "5678", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 4, "content": "고객님의 주문 건에 대한 환불 승인 코드는 보안상의 이유로 9090이 아닌 새로운 번호로 즉시 변경될 예정입니다.", "has_sensitive": true, "entities": [{"value": "9090", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 5, "content": "긴급 보고서에 따르면, 시스템 오류로 인해 임시로 사용된 결제 승인 코드가 1111이었다는 사실이 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 47, "end": 51, "label": "PAYMENT_PIN"}]}
+{"id": 6, "content": "이번 달 법인카드 사용 승인을 위한 인증번호가 7777로 설정되었으니 관련 부서에 전달 부탁드립니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 7, "content": "모바일 뱅킹 앱에서 간편결제 서비스를 활성화하려면 3456을 입력하신 후 지문 인증을 완료하세요.", "has_sensitive": true, "entities": [{"value": "3456", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 8, "content": "직원 복지카드 발급 완료되었으며 초기 핀번호는 2580입니다.", "has_sensitive": true, "entities": [{"value": "2580", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 9, "content": "ATM기에서 출금 시도 중 보안 인증 실패가 발생했는데, 입력하신 코드 4321이 잘못된 것으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4321", "begin": 48, "end": 52, "label": "PAYMENT_PIN"}]}
+{"id": 10, "content": "회의록에 의하면 결제 시스템 테스트 과정에서 8888이라는 임시 코드를 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 11, "content": "고객센터 상담 중 확인된 내용으로는, 분실 신고된 카드의 마지막 사용 시 입력된 번호가 6543이었습니다.", "has_sensitive": true, "entities": [{"value": "6543", "begin": 57, "end": 61, "label": "PAYMENT_PIN"}]}
+{"id": 12, "content": "신규 입사자 오리엔테이션 자료에 따르면 사내 식당 결제용 카드의 초기 설정값은 1357로 되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1357", "begin": 54, "end": 58, "label": "PAYMENT_PIN"}]}
+{"id": 13, "content": "보안 점검 결과 노출된 결제 인증 정보가 9999였으며, 즉각 보안 조치가 취해졌습니다.", "has_sensitive": true, "entities": [{"value": "9999", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 14, "content": "거래 승인 과정에서 사용하신 인증 코드 5555는 보안 정책상 3개월마다 변경하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 15, "content": "급여 계좌 이체를 위한 승인 절차에서 2468을 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "2468", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 16, "content": "출장비 정산용 카드 사용 시 반드시 7890를 입력해야 하며, 이는 재무팀에서 관리합니다.", "has_sensitive": true, "entities": [{"value": "7890", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 17, "content": "시스템 관리자가 설명하기를, 테스트 환경의 결제 모듈에는 0001이 기본값으로 설정되어 있다고 했습니다.", "has_sensitive": true, "entities": [{"value": "0001", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 18, "content": "자동이체 서비스 가입 확인서에는 고객님께서 선택하신 보안 코드 3698가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3698", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 19, "content": "내부 감사 보고서를 보면 지난달 승인되지 않은 거래에서 1593이라는 코드가 사용된 흔적이 있습니다.", "has_sensitive": true, "entities": [{"value": "1593", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 20, "content": "교육 자료에 명시된 대로 연습용 계정의 기본 핀번호는 1122로 설정되어 있으니 참고하세요.", "has_sensitive": true, "entities": [{"value": "1122", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 21, "content": "결제 단말기 초기화 후 관리자 모드 진입을 위해서는 9876를 누르시면 됩니다.", "has_sensitive": true, "entities": [{"value": "9876", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 22, "content": "고객님의 인터넷뱅킹 거래 한도 변경 신청 시 입력하신 인증번호 8765는 안전하게 처리되었습니다.", "has_sensitive": true, "entities": [{"value": "8765", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 23, "content": "복지포인트 사용을 위한 앱 로그인 시 결제 비밀번호 4567을 입력하시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "4567", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 24, "content": "전산팀 공지사항에 따르면 개발 서버의 페이먼트 게이트웨이 테스트 코드는 2222로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "2222", "begin": 51, "end": 55, "label": "PAYMENT_PIN"}]}
+{"id": 25, "content": "보안 담당자가 확인한 결과, 유출된 것으로 의심되는 핀번호가 6789였으며 즉시 차단 조치했습니다.", "has_sensitive": true, "entities": [{"value": "6789", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 26, "content": "협력사 대금 지급 시스템 접속을 위해 부여된 임시 인증 코드는 3333입니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 27, "content": "온라인 쇼핑몰 관리자 페이지에서 환불 처리 시 5432를 입력하면 승인 단계로 넘어갑니다.", "has_sensitive": true, "entities": [{"value": "5432", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 28, "content": "직원 교육 과정에서 실습용 결제 시나리오에 사용할 코드는 7531로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 29, "content": "분기별 재무 점검 중 발견된 미승인 거래 기록에 9512라는 번호가 남아 있었습니다.", "has_sensitive": true, "entities": [{"value": "9512", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 30, "content": "임시 직원증 발급 시 식음료 구매용 선불카드의 핀번호를 8520로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 31, "content": "메일로 전달받으신 가상계좌 이체 승인을 위해서는 7412를 입력 후 확인 버튼을 눌러주세요.", "has_sensitive": true, "entities": [{"value": "7412", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 32, "content": "보안 업데이트 안내문에 의하면 기존에 사용하던 4444는 더 이상 유효하지 않습니다.", "has_sensitive": true, "entities": [{"value": "4444", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 33, "content": "사내 자판기 무인 결제 시스템의 마스터 키는 6666으로 설정되어 관리부서에서 보관 중입니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 34, "content": "컨설팅 보고서에서 지적된 보안 취약점은 기본 핀번호 0909를 변경하지 않고 사용한 것이었습니다.", "has_sensitive": true, "entities": [{"value": "0909", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 35, "content": "프로젝트 킥오프 미팅에서 공유된 테스트 결제 인증 코드는 1478이니 개발팀에 전달 부탁드립니다.", "has_sensitive": true, "entities": [{"value": "1478", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 36, "content": "신용카드 재발급 신청이 완료되었으며, 새 카드의 초기 비밀번호는 2580로 설정하셨습니다.", "has_sensitive": true, "entities": [{"value": "2580", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 37, "content": "원격 근무자를 위한 법인카드 발급 시 임시로 배정된 코드가 3691라고 인사팀에서 통보했습니다.", "has_sensitive": true, "entities": [{"value": "3691", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 38, "content": "고객 불만 처리 과정에서 확인된 바에 따르면, 문제의 거래에 사용된 핀번호는 8524였습니다.", "has_sensitive": true, "entities": [{"value": "8524", "begin": 52, "end": 56, "label": "PAYMENT_PIN"}]}
+{"id": 39, "content": "결제 대행사 연동 테스트를 위해 샌드박스 환경에는 7777이 기본 인증 코드로 입력되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 40, "content": "업무 매뉴얼 개정판에는 비상시 사용 가능한 마스터 핀이 9753으로 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9753", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 41, "content": "지점 순회 감사 결과, 일부 직원들이 1234를 공용으로 사용하고 있어 시정 조치가 필요합니다.", "has_sensitive": true, "entities": [{"value": "1234", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 42, "content": "파트너사 정산 시스템 로그인 후 출금 승인을 위해서는 8642를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 43, "content": "보안 강화 정책에 따라 기존 5678에서 새로운 번호로 변경해야 하는 시한이 이번 주말까지입니다.", "has_sensitive": true, "entities": [{"value": "5678", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 44, "content": "전자결제 모듈 개발 문서를 확인하니 QA 환경의 더미 코드는 1111로 고정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 45, "content": "손님께서 말씀하신 카드 분실 당시 마지막 거래 승인번호가 3210이었는지 확인이 필요합니다.", "has_sensitive": true, "entities": [{"value": "3210", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 46, "content": "해외 출장 준비를 위해 발급된 선불 트래블 카드의 핀번호는 4680입니다.", "has_sensitive": true, "entities": [{"value": "4680", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 47, "content": "온라인 교육 플랫폼 결제 연동 시연 중 강사님이 7890를 예시로 사용하셨습니다.", "has_sensitive": true, "entities": [{"value": "7890", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 48, "content": "팀장님께서 전달하신 회의록에 따르면 프로젝트 예산 집행용 카드 코드는 9630라고 합니다.", "has_sensitive": true, "entities": [{"value": "9630", "begin": 48, "end": 52, "label": "PAYMENT_PIN"}]}
+{"id": 49, "content": "복리후생 시스템 개편 공지에 신규 포인트 사용 인증번호 2345가 안내되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "2345", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 50, "content": "기술지원팀에서 원격 접속으로 확인한 결과 POS 단말기 설정이 6543로 되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6543", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 51, "content": "월말 정산 보고서를 검토하던 중 승인 코드 8147로 처리된 거래 내역을 발견했습니다.", "has_sensitive": true, "entities": [{"value": "8147", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 52, "content": "신입사원 오리엔테이션 자료 중 임시 사원증 충전용 핀은 5050으로 통일한다는 내용이 있습니다.", "has_sensitive": true, "entities": [{"value": "5050", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 53, "content": "고객 상담 기록을 보니 분쟁 거래 당시 입력된 번호가 9871이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9871", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 54, "content": "외부 감사 대응 자료에는 시스템 접근 시 사용된 임시 코드 7531이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 55, "content": "지급 결의서 승인 과정에서 재무이사님이 입력하신 인증번호는 3698였습니다.", "has_sensitive": true, "entities": [{"value": "3698", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 56, "content": "보안팀 권고사항으로 데모 시연용 계정의 핀번호 0000은 즉시 변경하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "0000", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 57, "content": "자동 충전 서비스 신청서에 고객님께서 직접 기입하신 보안 코드가 1597입니다.", "has_sensitive": true, "entities": [{"value": "1597", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 58, "content": "주간 업무 회의에서 공유된 바에 따르면 새 결제 시스템의 테스트 핀은 8520로 정했다고 합니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 48, "end": 52, "label": "PAYMENT_PIN"}]}
+{"id": 59, "content": "고객센터 매뉴얼 업데이트 버전에는 긴급 환불 처리 시 4789를 사용하라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4789", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 60, "content": "출장 경비 청구 시스템에 로그인하려면 2468을 입력 후 OTP 인증을 진행하시면 됩니다.", "has_sensitive": true, "entities": [{"value": "2468", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 61, "content": "법인 차량 주유카드 사용 시 운전자가 입력해야 하는 번호는 7410으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "7410", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 62, "content": "시스템 점검 보고서에 따르면 취약한 보안 코드 1230이 여전히 사용 중이라고 합니다.", "has_sensitive": true, "entities": [{"value": "1230", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 63, "content": "이번 분기 신규 채용자 명단과 함께 배포된 사내 복지카드 초기값은 9876입니다.", "has_sensitive": true, "entities": [{"value": "9876", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 64, "content": "원격 결제 승인 요청 건에 대해 확인차 입력하신 코드 5201로 처리가 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "5201", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 65, "content": "지난주 보안 교육에서 강조된 내용 중 절대 사용하면 안 되는 예시가 1111이었습니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 46, "end": 50, "label": "PAYMENT_PIN"}]}
+{"id": 66, "content": "협력업체 대금 지급 확인서에 명시된 승인 코드는 8523이며 이는 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "8523", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 67, "content": "긴급 공지로 전달된 내용에 따르면 임시 운영 중인 시스템의 핀번호가 3333이라고 합니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 47, "end": 51, "label": "PAYMENT_PIN"}]}
+{"id": 68, "content": "전산 장애 복구 후 리셋된 관리자 계정의 초기 인증 코드는 6789로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "6789", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 69, "content": "모바일 앱 업데이트 이후 간편결제 재설정을 위해 4321을 입력하셔야 한다고 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "4321", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 70, "content": "내부 감사 지적사항으로 공용 단말기에 저장된 핀번호 2580의 즉시 삭제가 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "2580", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 71, "content": "연말정산 환급금 수령을 위한 계좌 인증 시 7894를 입력하시면 자동 처리됩니다.", "has_sensitive": true, "entities": [{"value": "7894", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 72, "content": "프로젝트 예산 집행 승인 시스템에 접속하려면 5959를 먼저 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "5959", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 73, "content": "외주 용역 계약서 검토 중 발견된 결제 조건에 1470이라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "1470", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 74, "content": "직원 복지 포털 사이트에서 포인트 전환 시 사용하는 기본 핀은 9512입니다.", "has_sensitive": true, "entities": [{"value": "9512", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 75, "content": "고객 환불 요청 처리 중 시스템에 자동 기록된 승인번호가 3579로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "3579", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 76, "content": "보안 패치 적용 안내문에는 업데이트 후 재설정이 필요한 코드 8642에 대한 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 77, "content": "사내 구내식당 선불카드 충전 단말기의 관리자 모드 진입 코드는 7777입니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 78, "content": "지난달 부서 회식비 정산 과정에서 사용된 법인카드 인증번호는 2109였습니다.", "has_sensitive": true, "entities": [{"value": "2109", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 79, "content": "신규 도입된 전자결제 시스템 시범 운영 기간 동안 테스트용 핀은 4545로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "4545", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 80, "content": "분실물 센터에서 발견된 직원증에 연결된 결제 기능의 마지막 사용 코드가 6060이었습니다.", "has_sensitive": true, "entities": [{"value": "6060", "begin": 48, "end": 52, "label": "PAYMENT_PIN"}]}
+{"id": 81, "content": "온라인 교육 수강료 납부 시 자동이체 등록을 위해 9630을 입력하라는 안내를 받았습니다.", "has_sensitive": true, "entities": [{"value": "9630", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 82, "content": "재택근무자 업무용 법인카드 발급 완료 통지서에 임시 핀번호 1593이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1593", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 83, "content": "해외 지사 송금 승인 절차에서 최종 확인을 위해 입력한 코드는 7531입니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 84, "content": "사내 전산망 보안 점검 결과 취약하게 설정된 5555를 변경하라는 권고가 나왔습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 85, "content": "고객지원 티켓 시스템을 확인하니 문의하신 거래의 승인 코드가 8520이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 86, "content": "연수원 숙박 시설 이용 시 객실 미니바 결제용 핀번호는 3691로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "3691", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 87, "content": "프랜차이즈 본부에서 제공한 POS 시스템 초기 설정값이 1234라고 매뉴얼에 나와 있습니다.", "has_sensitive": true, "entities": [{"value": "1234", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 88, "content": "임시 출입증 발급 시 부여되는 사내 편의시설 이용 코드는 7412입니다.", "has_sensitive": true, "entities": [{"value": "7412", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 89, "content": "분기 실적 보고 자료에 포함된 결제 시스템 장애 당시 사용된 코드가 9999였다고 합니다.", "has_sensitive": true, "entities": [{"value": "9999", "begin": 46, "end": 50, "label": "PAYMENT_PIN"}]}
+{"id": 90, "content": "고객 계정 복구 요청 처리 중 본인 확인을 위해 제시하신 번호가 2468이었습니다.", "has_sensitive": true, "entities": [{"value": "2468", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 91, "content": "사무용품 구매 전용 법인카드 사용 시 필요한 인증 코드는 6543로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6543", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 92, "content": "파견 근무자 급여 계좌 개설 시 설정하신 이체 승인 번호가 8147라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "8147", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 93, "content": "전자세금계산서 발행 시스템 로그인을 위해서는 4680을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "4680", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 94, "content": "외부 컨설턴트 계약 조건에 명시된 선급금 지급 승인 코드가 7890입니다.", "has_sensitive": true, "entities": [{"value": "7890", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 95, "content": "업무 일지에 기록된 내용으로는 어제 처리한 긴급 결제 시 5432를 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "5432", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 96, "content": "글로벌 법인카드 발급 신청서를 검토하니 초기 핀번호가 3210으로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3210", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 97, "content": "자산 관리 시스템 접근 권한 승인을 위해 부여된 임시 코드는 9753입니다.", "has_sensitive": true, "entities": [{"value": "9753", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 98, "content": "고객님께서 요청하신 월 납부액 변경을 위한 인증번호 1357로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "1357", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 99, "content": "교육훈련비 청구 시스템에 등록된 부서별 공용 코드가 8888이라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 100, "content": "품질 관리 보고서에 따르면 결제 모듈 테스트 시 2222가 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2222", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 101, "content": "차량 유지비 정산용 전용 카드의 보안 코드가 7531로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 102, "content": "모바일 오더 시스템 관리자 페이지 접속을 위한 기본 핀은 1478입니다.", "has_sensitive": true, "entities": [{"value": "1478", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 103, "content": "지점별 매출 정산 과정에서 사용된 승인 코드 3698는 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "3698", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 104, "content": "임직원 대상 복지 혜택 안내서에 기프트카드 활성화 코드 5050이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5050", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 105, "content": "감사 자료 준비 중 발견한 미승인 거래 건의 입력 번호가 9871이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9871", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 106, "content": "본부 지침에 따라 지역별 거점 사무소에서 사용할 통합 코드를 6060으로 정했습니다.", "has_sensitive": true, "entities": [{"value": "6060", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 107, "content": "계약직 직원 급여 지급을 위한 시스템 승인 시 4545를 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "4545", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 108, "content": "온라인 쇼핑몰 결제 모듈 점검 중 테스트 거래에 사용된 핀번호는 8642였습니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 109, "content": "복지 포인트 사용 규정이 개정되면서 새로운 인증 방식에 1593이 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "1593", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 110, "content": "시설 관리 업체와의 계약서에 명시된 월 사용료 자동이체 코드가 7890입니다.", "has_sensitive": true, "entities": [{"value": "7890", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 111, "content": "인턴 사원 교육 자료에 연습용 가상 결제 시나리오의 핀번호 2580이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2580", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 112, "content": "경영진 회의 안건 중 결제 보안 강화 방안으로 기존 0000을 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "0000", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 113, "content": "협력사 포털 시스템 신규 가입 시 발급되는 임시 인증 코드는 3333입니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 114, "content": "월간 보안 점검 보고서에 노출 위험이 있는 코드로 1111이 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 115, "content": "사내 카페테리아 포인트 충전 시 사용하는 기본 인증번호가 9630로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "9630", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 116, "content": "부서 통합 이후 재설정된 공용 법인카드의 새 핀번호는 8520입니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 117, "content": "IT 자산 구매 승인 시스템 로그를 확인하니 4321이라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "4321", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 118, "content": "마케팅 예산 집행 카드 발급 시 설정된 초기 인증 코드는 5201로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5201", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 119, "content": "연차 촉진 수당 지급 처리를 위해 입력하신 승인번호 6789로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "6789", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 120, "content": "외부 감사 대응 자료 정리 중 발견된 시스템 접근 코드가 7412였습니다.", "has_sensitive": true, "entities": [{"value": "7412", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 121, "content": "신규 사업장 개설 준비 단계에서 임시로 사용할 결제 코드를 9512로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "9512", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 122, "content": "고객 데이터베이스를 조회한 결과 분쟁 거래 시 입력된 번호는 3456이었습니다.", "has_sensitive": true, "entities": [{"value": "3456", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 123, "content": "원격 지원 요청 건 처리 과정에서 확인된 고객 인증 코드는 8147입니다.", "has_sensitive": true, "entities": [{"value": "8147", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 124, "content": "프로젝트 종료 보고서에 기재된 최종 정산 승인 시 사용된 핀은 2109였습니다.", "has_sensitive": true, "entities": [{"value": "2109", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 125, "content": "직원 만족도 조사 답례품 배송을 위한 선불카드 활성화 코드가 5678입니다.", "has_sensitive": true, "entities": [{"value": "5678", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 126, "content": "업무 연속성 계획 문서에 비상시 사용 가능한 마스터 코드 1234가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1234", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 127, "content": "제휴 카드 혜택 신청 시 본인 확인을 위해 입력하셨던 번호가 9876라고 합니다.", "has_sensitive": true, "entities": [{"value": "9876", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 128, "content": "사내 동호회 활동비 정산용 계좌의 이체 승인 코드는 4680로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4680", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 129, "content": "보안 감사 체크리스트에 취약 코드로 분류된 4444의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "4444", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 130, "content": "고객 이탈 방지 프로모션 참여를 위한 인증 절차에서 7531을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 131, "content": "분기별 예산 집행 현황 보고 시 사용된 시스템 접근 코드가 3691였다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3691", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 132, "content": "임시 출장자 숙박 시설 이용료 결제를 위해 제공된 핀번호는 8524입니다.", "has_sensitive": true, "entities": [{"value": "8524", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 133, "content": "전자 결재 시스템 도입 후 초기 관리자 설정값이 9753으로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "9753", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 134, "content": "고객 상담 내역을 확인해 보니 환불 처리 시 제시하신 코드가 1357이었습니다.", "has_sensitive": true, "entities": [{"value": "1357", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 135, "content": "지사별 운영 매뉴얼에 긴급 상황 시 사용할 임시 인증번호 2345가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2345", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 136, "content": "연구개발비 집행 승인 요청서에 첨부된 결제 코드가 6543로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "6543", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 137, "content": "주간 업무 보고에 따르면 테스트 서버 결제 모듈의 더미 핀은 5050이라고 합니다.", "has_sensitive": true, "entities": [{"value": "5050", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 138, "content": "협력업체 선급금 지급 시스템에 등록된 승인 코드는 9871입니다.", "has_sensitive": true, "entities": [{"value": "9871", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 139, "content": "사내 보안 교육 시뮬레이션에서 예시로 사용된 핀번호가 7777였다고 합니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 140, "content": "월말 결산 작업 중 확인된 자동 승인 거래의 코드가 8888로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 141, "content": "신입 직원 OJT 프로그램에서 실습용 결제 시스템의 핀번호는 2468입니다.", "has_sensitive": true, "entities": [{"value": "2468", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 142, "content": "지급 결의 승인 과정에서 재무 담당자가 입력한 인증 코드는 7894였습니다.", "has_sensitive": true, "entities": [{"value": "7894", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 143, "content": "사업부 통합 공지에 따라 새로 배정된 법인카드 코드가 5959로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "5959", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 144, "content": "외부 컨설팅 용역비 지급 시 사용된 승인번호가 1470이라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "1470", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 145, "content": "글로벌 결제 시스템 연동 테스트 문서에 샘플 코드 3579가 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3579", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 146, "content": "내부 통제 점검 결과 공용 단말기에 저장된 0909가 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "0909", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 147, "content": "직원 복지 포인트 전환 서비스 신청 시 설정하신 핀은 9630입니다.", "has_sensitive": true, "entities": [{"value": "9630", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 148, "content": "시스템 장애 복구 후 임시로 적용된 관리자 인증 코드가 1593이라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1593", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 149, "content": "본사 통합 공지사항에 따르면 지역 사무소 공용 코드를 8520으로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 150, "content": "고객 계정 복구 절차 진행 중 본인 인증을 위해 제시하신 번호는 4789였습니다.", "has_sensitive": true, "entities": [{"value": "4789", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 151, "content": "프로젝트 완료 보고서에 최종 대금 지급 승인 시 입력한 코드 2109가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2109", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 152, "content": "워크숍 참가자 식비 지원을 위한 선불카드 활성화 번호가 7410입니다.", "has_sensitive": true, "entities": [{"value": "7410", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 153, "content": "비상 대응 매뉴얼에 긴급 상황 시 사용 가능한 코드 1230이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1230", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 154, "content": "해외 거래처 송금 승인 절차에서 최종 확인용 핀번호는 5201로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "5201", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 155, "content": "사내 복지 제도 개편 안내문에 신규 포인트 시스템 초기 코드 6060이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6060", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 156, "content": "분기 실적 발표 자료 준비 중 결제 시스템 통계에서 4545라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "4545", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 157, "content": "임시 근무자 급여 지급 시스템 접근을 위한 인증 코드는 8642입니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 158, "content": "고객 불만 처리 보고서에 환불 승인 시 사용된 번호 7531이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 159, "content": "법인 차량 유류비 정산용 카드의 새로운 핀번호는 5555로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 160, "content": "온라인 교육 플랫폼 결제 테스트 시나리오에 사용할 샘플 코드는 3210입니다.", "has_sensitive": true, "entities": [{"value": "3210", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 161, "content": "자산 관리 시스템 마이그레이션 후 임시 설정된 관리자 핀은 9876입니다.", "has_sensitive": true, "entities": [{"value": "9876", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 162, "content": "거래처 대금 지급 요청서를 검토하니 승인 코드 4680로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "4680", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 163, "content": "월간 보안 리포트에 취약점으로 지적된 코드가 2580이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2580", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 164, "content": "신규 입점 업체 정산 시스템 초기 접근 코드는 1478로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "1478", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 165, "content": "고객센터 에스컬레이션 처리 중 확인된 분쟁 거래 인증번호가 3698였습니다.", "has_sensitive": true, "entities": [{"value": "3698", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 166, "content": "연말 성과급 지급 승인 과정에서 입력하신 코드는 6789로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "6789", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 167, "content": "업무 프로세스 개선 제안서에 결제 시스템 테스트용 핀 4321이 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4321", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 168, "content": "외주 개발 계약 조건에 명시된 샌드박스 환경 접근 코드가 8520입니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 169, "content": "사내 공모전 상금 지급을 위한 계좌 인증 시 설정하신 번호는 9512입니다.", "has_sensitive": true, "entities": [{"value": "9512", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 170, "content": "지점장 회의 자료에 따르면 통합 결제 시스템 기본값이 3456으로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "3456", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 171, "content": "원격 지원 요청 처리 로그를 확인하니 고객 인증 코드 8147로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "8147", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 172, "content": "프랜차이즈 가맹점 정산 시스템의 초기 관리자 핀번호는 1357입니다.", "has_sensitive": true, "entities": [{"value": "1357", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 173, "content": "복지 수당 신청 처리 과정에서 본인 확인을 위해 입력하신 번호가 2345였습니다.", "has_sensitive": true, "entities": [{"value": "2345", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 174, "content": "IT 인프라 업그레이드 후 재설정된 결제 모듈 코드가 6543로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "6543", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 175, "content": "사내 벤처 지원금 집행 승인 시 사용된 인증번호는 5050이라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5050", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 176, "content": "고객 상담 이력 조회 결과 환불 요청 시 제시하신 코드가 9871이었습니다.", "has_sensitive": true, "entities": [{"value": "9871", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 177, "content": "보안 정책 위반 사례 보고서에 공용으로 사용된 7777이 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 178, "content": "파트너십 프로그램 가입 시 제공되는 초기 결제 인증 코드는 8888입니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 179, "content": "사무실 이전 준비 과정에서 임시로 사용할 법인카드 핀을 2468로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "2468", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 180, "content": "연차 사용 촉진 수당 지급 시스템 접속을 위한 코드는 7894로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7894", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 181, "content": "전사 통합 결제 플랫폼 도입 설명회에서 테스트 환경 핀번호 5959가 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "5959", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 182, "content": "외부 감사 준비 자료에 긴급 승인 거래 시 사용된 코드 1470이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1470", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 183, "content": "글로벌 법인카드 이용 내역서를 확인하니 승인번호 3579로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3579", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 184, "content": "내부 통제 강화 방안으로 기존 사용 중이던 0909를 즉시 변경하기로 했습니다.", "has_sensitive": true, "entities": [{"value": "0909", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 185, "content": "협력사 포털 시스템 업그레이드 공지에 신규 인증 코드 9630이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9630", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 186, "content": "직원 교육 프로그램 수료증 발급 시스템의 기본 핀번호는 1593입니다.", "has_sensitive": true, "entities": [{"value": "1593", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 187, "content": "지역 사무소 통폐합 후 재배정된 법인카드 코드가 8520로 변경되었다고 통보받았습니다.", "has_sensitive": true, "entities": [{"value": "8520", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 188, "content": "고객 VIP 등급 승급 혜택 적용을 위한 인증 절차에서 4789를 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "4789", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 189, "content": "프로젝트 최종 결산 보고서에 대금 지급 승인 코드 2109가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2109", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 190, "content": "세미나 참가비 환급 처리를 위해 설정하신 계좌 인증번호는 7410입니다.", "has_sensitive": true, "entities": [{"value": "7410", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 191, "content": "비상 연락망 업데이트 공지와 함께 긴급 결제 시스템 코드 1230이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "1230", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 192, "content": "해외 지사 송금 처리 완료 확인서에 최종 승인 시 입력한 핀 5201이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5201", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 193, "content": "복지 포인트 통합 관리 시스템 전환 후 기본 인증 코드는 6060으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "6060", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 194, "content": "분기별 성과 평가 보상금 지급 시 사용된 승인번호가 4545라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4545", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 195, "content": "임시 계약직 급여 정산 시스템 접근을 위한 코드는 8642로 배정되었습니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 196, "content": "고객 클레임 처리 매뉴얼에 환불 승인 시 입력할 번호 7531이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 197, "content": "법인 차량 관리비 정산용 카드의 보안 코드가 5555로 업데이트되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 198, "content": "온라인 결제 모듈 개발 가이드에 QA 테스트용 샘플 핀 3210이 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3210", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 199, "content": "자산 관리 담당자 변경에 따라 새로 발급된 접근 코드는 9876입니다.", "has_sensitive": true, "entities": [{"value": "9876", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 200, "content": "거래처 정산 시스템 통합 작업 후 임시로 설정된 마스터 핀은 4680이라고 합니다.", "has_sensitive": true, "entities": [{"value": "4680", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 201, "content": "모바일 간편결제 서비스 등록 시 고객님께서 선택하신 보안번호는 3847이며, 변경은 언제든지 가능합니다.", "has_sensitive": true, "entities": [{"value": "3847", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 202, "content": "법인 경비 처리 시스템 접속 후 승인 절차를 진행하려면 1956을 입력하시기 바랍니다.", "has_sensitive": true, "entities": [{"value": "1956", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 203, "content": "지난주 부서 회의에서 공유된 테스트 계정의 임시 핀번호가 7283이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7283", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 204, "content": "고객센터 상담원이 확인한 바에 따르면 분쟁 거래 당시 입력하신 코드는 4926입니다.", "has_sensitive": true, "entities": [{"value": "4926", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 205, "content": "신규 입사자 오리엔테이션 자료에 사내 복지카드 초기 설정값 5173이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5173", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 206, "content": "결제 대행사 연동 작업 중 샌드박스 환경에 설정된 기본 코드는 8294였습니다.", "has_sensitive": true, "entities": [{"value": "8294", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 207, "content": "보안 점검 보고서를 검토하니 취약점으로 지적된 핀번호가 6618이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6618", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 208, "content": "협력업체 정산 처리를 위한 승인 시스템에 등록된 코드는 3052입니다.", "has_sensitive": true, "entities": [{"value": "3052", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 209, "content": "급여 이체 승인 요청 건에 대해 재무팀에서 입력한 인증번호는 9147로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9147", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 210, "content": "출장 경비 신청 시스템의 관리자 접근 권한을 위해서는 2738을 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "2738", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 211, "content": "전산팀 공지사항에 따르면 개발 서버 결제 모듈 테스트 코드가 4561로 변경되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "4561", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 212, "content": "고객 불만 처리 내역을 확인한 결과 환불 승인 시 사용된 번호는 8029였습니다.", "has_sensitive": true, "entities": [{"value": "8029", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 213, "content": "임시 직원증 발급 시 연결된 선불카드의 초기 핀번호를 1684로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "1684", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 214, "content": "월간 재무 보고서에 기재된 긴급 지출 승인 코드가 5927이라고 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "5927", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 215, "content": "사내 자판기 무인 결제 시스템 점검 중 마스터 키 7342가 노출된 것으로 발견되었습니다.", "has_sensitive": true, "entities": [{"value": "7342", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 216, "content": "원격 근무자 법인카드 신청 완료 안내문에 임시 인증번호 6195가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6195", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 217, "content": "프로젝트 킥오프 미팅 자료를 보니 예산 집행용 코드가 9473으로 설정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "9473", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 218, "content": "고객 상담 기록 데이터베이스를 조회한 결과 마지막 거래 인증 코드는 2816이었습니다.", "has_sensitive": true, "entities": [{"value": "2816", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 219, "content": "보안팀 권고에 따라 공용 단말기에 저장된 4059를 즉시 삭제하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "4059", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 220, "content": "자동 충전 서비스 가입 확인서에 고객님이 직접 설정하신 보안 코드 3728이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3728", "begin": 46, "end": 50, "label": "PAYMENT_PIN"}]}
+{"id": 221, "content": "주간 업무 보고 중 공유된 새 결제 시스템의 테스트 환경 핀은 8561로 정해졌다고 합니다.", "has_sensitive": true, "entities": [{"value": "8561", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 222, "content": "고객센터 매뉴얼 최신 버전에는 긴급 환불 처리 시 5304를 사용하라고 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5304", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 223, "content": "출장비 청구 시스템에 로그인하려면 인증 코드 1972를 입력 후 지문 인식을 완료하세요.", "has_sensitive": true, "entities": [{"value": "1972", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 224, "content": "법인 주유카드 사용 규정이 업데이트되면서 새로운 핀번호 6843으로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "6843", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 225, "content": "시스템 점검 결과 보고서에 보안 취약 코드 7026이 여전히 사용 중이라고 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7026", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 226, "content": "신규 채용자 명단과 함께 전달된 사내 복지 포인트 초기 인증번호는 4217입니다.", "has_sensitive": true, "entities": [{"value": "4217", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 227, "content": "원격 결제 승인 요청 처리 과정에서 고객님이 입력하신 코드 9586으로 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "9586", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 228, "content": "보안 교육 자료에서 절대 사용하면 안 되는 위험한 예시로 3333이 제시되었습니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 229, "content": "협력사 대금 지급 확인서를 검토하니 승인 코드 2659가 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "2659", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 230, "content": "긴급 공지로 전달받은 내용에는 임시 시스템 운영용 핀번호 8174가 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8174", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 231, "content": "전산 장애 복구 후 초기화된 관리자 계정의 기본 인증 코드는 5493으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "5493", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 232, "content": "모바일 앱 업데이트 공지에 간편결제 재등록을 위해 7638을 입력하라는 안내가 있습니다.", "has_sensitive": true, "entities": [{"value": "7638", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 233, "content": "내부 감사 지적사항으로 공용 단말기에 저장된 1825의 즉시 변경이 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "1825", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 234, "content": "연말정산 환급금 수령 계좌 인증 시 4962를 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "4962", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 235, "content": "프로젝트 예산 집행 시스템 접속을 위한 초기 설정 코드는 6307입니다.", "has_sensitive": true, "entities": [{"value": "6307", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 236, "content": "외주 용역 계약서를 검토하던 중 결제 조건에 9125라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "9125", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 237, "content": "직원 복지 포털에서 포인트 전환 시 사용하는 기본 인증번호는 3541입니다.", "has_sensitive": true, "entities": [{"value": "3541", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 238, "content": "고객 환불 요청 처리 로그를 확인하니 시스템 자동 승인번호 7894가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7894", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 239, "content": "보안 패치 적용 안내문에는 업데이트 후 재설정할 코드 2176에 대한 상세 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "2176", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 240, "content": "사내 구내식당 선불 시스템 충전 단말기의 관리자 모드 진입 코드는 5829입니다.", "has_sensitive": true, "entities": [{"value": "5829", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 241, "content": "지난달 부서 회식비 정산 내역을 보니 법인카드 인증번호 6472로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6472", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 242, "content": "신규 전자결제 시스템 시범 운영 기간 동안 사용할 테스트 핀은 9283으로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "9283", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 243, "content": "분실물 센터에서 회수된 직원증에 연결된 마지막 사용 코드가 1647이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1647", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 244, "content": "온라인 교육 수강료 자동이체 등록을 위해 4035를 입력하라는 안내 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "4035", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 245, "content": "재택근무자 업무용 카드 발급 완료 통지서에 임시 핀번호 8516이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8516", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 246, "content": "해외 지사 송금 처리 최종 확인을 위해 입력해야 하는 코드는 7259입니다.", "has_sensitive": true, "entities": [{"value": "7259", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 247, "content": "사내 보안 감사 결과 취약하게 설정된 6666을 변경하라는 권고사항이 발표되었습니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 248, "content": "고객지원 티켓 내역을 조회하니 문의하신 거래의 승인 코드가 3982였다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3982", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 249, "content": "연수원 시설 이용 시 객실 미니바 결제용 핀번호는 5127로 안내드렸습니다.", "has_sensitive": true, "entities": [{"value": "5127", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 250, "content": "프랜차이즈 본부 제공 POS 시스템 초기 설정값이 2904라고 매뉴얼에 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2904", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 251, "content": "임시 출입증 발급 시 부여되는 사내 편의시설 이용 코드는 9741입니다.", "has_sensitive": true, "entities": [{"value": "9741", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 252, "content": "분기 실적 보고 자료에 결제 시스템 장애 당시 사용된 코드 1538이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1538", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 253, "content": "고객 계정 복구 절차 진행 중 본인 확인을 위해 제시하신 번호가 6824였습니다.", "has_sensitive": true, "entities": [{"value": "6824", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 254, "content": "사무용품 구매 전용 법인카드 사용 시 필요한 인증 코드는 4753으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4753", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 255, "content": "파견 근무자 급여 계좌 개설 완료 안내와 함께 이체 승인 번호 8392가 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "8392", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 256, "content": "전자세금계산서 발행 시스템 접속을 위해서는 2617을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "2617", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 257, "content": "외부 컨설턴트 계약 조건에 명시된 선급금 지급 승인 코드가 7458입니다.", "has_sensitive": true, "entities": [{"value": "7458", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 258, "content": "업무 일지 기록을 확인하니 어제 긴급 결제 처리 시 5936을 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "5936", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 259, "content": "글로벌 법인카드 발급 신청서를 검토하니 초기 핀번호가 3194로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3194", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 260, "content": "자산 관리 시스템 접근 권한 승인을 위해 부여된 임시 코드는 9067입니다.", "has_sensitive": true, "entities": [{"value": "9067", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 261, "content": "고객님께서 요청하신 월 납부액 조정을 위한 인증번호 1745로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "1745", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 262, "content": "교육훈련비 청구 시스템에 등록된 부서별 공용 코드가 6289라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "6289", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 263, "content": "품질 관리 보고서에 따르면 결제 모듈 테스트 시 4871이 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4871", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 264, "content": "차량 유지비 정산용 전용 카드의 보안 코드가 8523으로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "8523", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 265, "content": "모바일 오더 시스템 관리자 페이지 접속을 위한 기본 핀은 2036입니다.", "has_sensitive": true, "entities": [{"value": "2036", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 266, "content": "지점별 매출 정산 과정에서 사용된 승인 코드 7615는 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "7615", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 267, "content": "임직원 대상 복지 혜택 안내서에 기프트카드 활성화 코드 5482가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 268, "content": "감사 자료 준비 중 발견한 미승인 거래 건의 입력 번호가 9328이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9328", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 269, "content": "본부 지침에 따라 지역별 거점 사무소에서 사용할 통합 코드를 3754로 정했습니다.", "has_sensitive": true, "entities": [{"value": "3754", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 270, "content": "계약직 직원 급여 지급을 위한 시스템 승인 시 1869를 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "1869", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 271, "content": "온라인 쇼핑몰 결제 모듈 점검 중 테스트 거래에 사용된 핀번호는 6947이었습니다.", "has_sensitive": true, "entities": [{"value": "6947", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 272, "content": "복지 포인트 사용 규정 개정으로 새로운 인증 방식에 4206이 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "4206", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 273, "content": "시설 관리 업체와의 계약서에 명시된 월 사용료 자동이체 코드가 8135입니다.", "has_sensitive": true, "entities": [{"value": "8135", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 274, "content": "인턴 사원 교육 자료에 연습용 가상 결제 시나리오의 핀번호 2973이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2973", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 275, "content": "경영진 회의 안건 중 결제 보안 강화 방안으로 기존 7777을 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 276, "content": "협력사 포털 시스템 신규 가입 시 발급되는 임시 인증 코드는 5649입니다.", "has_sensitive": true, "entities": [{"value": "5649", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 277, "content": "월간 보안 점검 보고서에 노출 위험이 있는 코드로 9514가 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "9514", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 278, "content": "사내 카페테리아 포인트 충전 시 사용하는 기본 인증번호가 3271로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "3271", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 279, "content": "부서 통합 이후 재설정된 공용 법인카드의 새 핀번호는 1426입니다.", "has_sensitive": true, "entities": [{"value": "1426", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 280, "content": "IT 자산 구매 승인 시스템 로그를 확인하니 6782라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "6782", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 281, "content": "마케팅 예산 집행 카드 발급 시 설정된 초기 인증 코드는 8049로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8049", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 282, "content": "연차 촉진 수당 지급 처리를 위해 입력하신 승인번호 4537로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "4537", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 283, "content": "외부 감사 대응 자료 정리 중 발견된 시스템 접근 코드가 2698이었습니다.", "has_sensitive": true, "entities": [{"value": "2698", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 284, "content": "신규 사업장 개설 준비 단계에서 임시로 사용할 결제 코드를 9825로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "9825", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 285, "content": "고객 데이터베이스를 조회한 결과 분쟁 거래 시 입력된 번호는 7164였습니다.", "has_sensitive": true, "entities": [{"value": "7164", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 286, "content": "원격 지원 요청 건 처리 과정에서 확인된 고객 인증 코드는 5381입니다.", "has_sensitive": true, "entities": [{"value": "5381", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 287, "content": "프로젝트 종료 보고서에 기재된 최종 정산 승인 시 사용된 핀은 3926이었습니다.", "has_sensitive": true, "entities": [{"value": "3926", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 288, "content": "직원 만족도 조사 답례품 배송을 위한 선불카드 활성화 코드가 1572입니다.", "has_sensitive": true, "entities": [{"value": "1572", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 289, "content": "업무 연속성 계획 문서에 비상시 사용 가능한 마스터 코드 8907이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8907", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 290, "content": "제휴 카드 혜택 신청 시 본인 확인을 위해 입력하셨던 번호가 6254라고 합니다.", "has_sensitive": true, "entities": [{"value": "6254", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 291, "content": "사내 동호회 활동비 정산용 계좌의 이체 승인 코드는 4083으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4083", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 292, "content": "보안 감사 체크리스트에 취약 코드로 분류된 2222의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "2222", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 293, "content": "고객 이탈 방지 프로모션 참여를 위한 인증 절차에서 9741을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "9741", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 294, "content": "분기별 예산 집행 현황 보고 시 사용된 시스템 접근 코드가 7528이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7528", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 295, "content": "임시 출장자 숙박 시설 이용료 결제를 위해 제공된 핀번호는 5196입니다.", "has_sensitive": true, "entities": [{"value": "5196", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 296, "content": "전자 결재 시스템 도입 후 초기 관리자 설정값이 3847로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "3847", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 297, "content": "고객 상담 내역을 확인해 보니 환불 처리 시 제시하신 코드가 1269였습니다.", "has_sensitive": true, "entities": [{"value": "1269", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 298, "content": "지사별 운영 매뉴얼에 긴급 상황 시 사용할 임시 인증번호 8635가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8635", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 299, "content": "연구개발비 집행 승인 요청서에 첨부된 결제 코드가 6492로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "6492", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 300, "content": "주간 업무 보고에 따르면 테스트 서버 결제 모듈의 더미 핀은 4758이라고 합니다.", "has_sensitive": true, "entities": [{"value": "4758", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 301, "content": "협력업체 선급금 지급 시스템에 등록된 승인 코드는 2914입니다.", "has_sensitive": true, "entities": [{"value": "2914", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 302, "content": "사내 보안 교육 시뮬레이션에서 예시로 사용된 핀번호가 9486이었다고 합니다.", "has_sensitive": true, "entities": [{"value": "9486", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 303, "content": "월말 결산 작업 중 확인된 자동 승인 거래의 코드가 7351로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7351", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 304, "content": "신입 직원 OJT 프로그램에서 실습용 결제 시스템의 핀번호는 5729입니다.", "has_sensitive": true, "entities": [{"value": "5729", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 305, "content": "지급 결의 승인 과정에서 재무 담당자가 입력한 인증 코드는 3184였습니다.", "has_sensitive": true, "entities": [{"value": "3184", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 306, "content": "사업부 통합 공지에 따라 새로 배정된 법인카드 코드가 1643으로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "1643", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 307, "content": "외부 컨설팅 용역비 지급 시 사용된 승인번호가 8276이라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "8276", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 308, "content": "글로벌 결제 시스템 연동 테스트 문서에 샘플 코드 6918이 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6918", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 309, "content": "내부 통제 점검 결과 공용 단말기에 저장된 4444가 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "4444", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 310, "content": "직원 복지 포인트 전환 서비스 신청 시 설정하신 핀은 2567입니다.", "has_sensitive": true, "entities": [{"value": "2567", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 311, "content": "시스템 장애 복구 후 임시로 적용된 관리자 인증 코드가 9842라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9842", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 312, "content": "본사 통합 공지사항에 따르면 지역 사무소 공용 코드를 7463으로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "7463", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 313, "content": "고객 계정 복구 절차 진행 중 본인 인증을 위해 제시하신 번호는 5298이었습니다.", "has_sensitive": true, "entities": [{"value": "5298", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 314, "content": "프로젝트 완료 보고서에 최종 대금 지급 승인 시 입력한 코드 3625가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3625", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 315, "content": "워크숍 참가자 식비 지원을 위한 선불카드 활성화 번호가 1937입니다.", "has_sensitive": true, "entities": [{"value": "1937", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 316, "content": "비상 대응 매뉴얼에 긴급 상황 시 사용 가능한 코드 8574가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8574", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 317, "content": "해외 거래처 송금 승인 절차에서 최종 확인용 핀번호는 6341로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "6341", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 318, "content": "사내 복지 제도 개편 안내문에 신규 포인트 시스템 초기 코드 4259가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4259", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 319, "content": "분기 실적 발표 자료 준비 중 결제 시스템 통계에서 2786이라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "2786", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 320, "content": "임시 근무자 급여 지급 시스템 접근을 위한 인증 코드는 9153입니다.", "has_sensitive": true, "entities": [{"value": "9153", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 321, "content": "고객 불만 처리 보고서에 환불 승인 시 사용된 번호 7628이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7628", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 322, "content": "법인 차량 유류비 정산용 카드의 새로운 핀번호는 5482로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 323, "content": "온라인 교육 플랫폼 결제 테스트 시나리오에 사용할 샘플 코드는 3976입니다.", "has_sensitive": true, "entities": [{"value": "3976", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 324, "content": "자산 관리 시스템 마이그레이션 후 임시 설정된 관리자 핀은 1524입니다.", "has_sensitive": true, "entities": [{"value": "1524", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 325, "content": "거래처 대금 지급 요청서를 검토하니 승인 코드 8347로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "8347", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 326, "content": "월간 보안 리포트에 취약점으로 지적된 코드가 6729라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6729", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 327, "content": "신규 입점 업체 정산 시스템 초기 접근 코드는 4615로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "4615", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 328, "content": "고객센터 에스컬레이션 처리 중 확인된 분쟁 거래 인증번호가 2841이었습니다.", "has_sensitive": true, "entities": [{"value": "2841", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 329, "content": "연말 성과급 지급 승인 과정에서 입력하신 코드는 9537로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "9537", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 330, "content": "업무 프로세스 개선 제안서에 결제 시스템 테스트용 핀 7249가 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7249", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 331, "content": "외주 개발 계약 조건에 명시된 샌드박스 환경 접근 코드가 5684입니다.", "has_sensitive": true, "entities": [{"value": "5684", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 332, "content": "사내 공모전 상금 지급을 위한 계좌 인증 시 설정하신 번호는 3918입니다.", "has_sensitive": true, "entities": [{"value": "3918", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 333, "content": "지점장 회의 자료에 따르면 통합 결제 시스템 기본값이 1762로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "1762", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 334, "content": "원격 지원 요청 처리 로그를 확인하니 고객 인증 코드 8493으로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "8493", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 335, "content": "프랜차이즈 가맹점 정산 시스템의 초기 관리자 핀번호는 6257입니다.", "has_sensitive": true, "entities": [{"value": "6257", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 336, "content": "복지 수당 신청 처리 과정에서 본인 확인을 위해 입력하신 번호가 4836이었습니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 337, "content": "IT 인프라 업그레이드 후 재설정된 결제 모듈 코드가 2549로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "2549", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 338, "content": "사내 벤처 지원금 집행 승인 시 사용된 인증번호는 9674라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9674", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 339, "content": "고객 상담 이력 조회 결과 환불 요청 시 제시하신 코드가 7315였습니다.", "has_sensitive": true, "entities": [{"value": "7315", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 340, "content": "보안 정책 위반 사례 보고서에 공용으로 사용된 5555가 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 341, "content": "파트너십 프로그램 가입 시 제공되는 초기 결제 인증 코드는 3428입니다.", "has_sensitive": true, "entities": [{"value": "3428", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 342, "content": "사무실 이전 준비 과정에서 임시로 사용할 법인카드 핀을 1896으로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "1896", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 343, "content": "연차 사용 촉진 수당 지급 시스템 접속을 위한 코드는 8741로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8741", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 344, "content": "전사 통합 결제 플랫폼 도입 설명회에서 테스트 환경 핀번호 6532가 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "6532", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 345, "content": "외부 감사 준비 자료에 긴급 승인 거래 시 사용된 코드 4973이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4973", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 346, "content": "글로벌 법인카드 이용 내역서를 확인하니 승인번호 2685로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "2685", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 347, "content": "내부 통제 강화 방안으로 기존 사용 중이던 9999를 즉시 변경하기로 했습니다.", "has_sensitive": true, "entities": [{"value": "9999", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 348, "content": "협력사 포털 시스템 업그레이드 공지에 신규 인증 코드 7826이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7826", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 349, "content": "직원 교육 프로그램 수료증 발급 시스템의 기본 핀번호는 5147입니다.", "has_sensitive": true, "entities": [{"value": "5147", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 350, "content": "지역 사무소 통폐합 후 재배정된 법인카드 코드가 3562로 변경되었다고 통보받았습니다.", "has_sensitive": true, "entities": [{"value": "3562", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 351, "content": "고객 VIP 등급 승급 혜택 적용을 위한 인증 절차에서 1784를 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "1784", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 352, "content": "프로젝트 최종 결산 보고서에 대금 지급 승인 코드 8926이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8926", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 353, "content": "세미나 참가비 환급 처리를 위해 설정하신 계좌 인증번호는 6438입니다.", "has_sensitive": true, "entities": [{"value": "6438", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 354, "content": "비상 연락망 업데이트 공지와 함께 긴급 결제 시스템 코드 4271이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "4271", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 355, "content": "해외 지사 송금 처리 완료 확인서에 최종 승인 시 입력한 핀 2953이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2953", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 356, "content": "복지 포인트 통합 관리 시스템 전환 후 기본 인증 코드는 9187로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "9187", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 357, "content": "분기별 성과 평가 보상금 지급 시 사용된 승인번호가 7564라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7564", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 358, "content": "임시 계약직 급여 정산 시스템 접근을 위한 코드는 5392로 배정되었습니다.", "has_sensitive": true, "entities": [{"value": "5392", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 359, "content": "고객 클레임 처리 매뉴얼에 환불 승인 시 입력할 번호 3649가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3649", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 360, "content": "법인 차량 관리비 정산용 카드의 보안 코드가 1285로 업데이트되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "1285", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 361, "content": "온라인 결제 모듈 개발 가이드에 QA 테스트용 샘플 핀 8473이 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8473", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 362, "content": "자산 관리 담당자 변경에 따라 새로 발급된 접근 코드는 6917입니다.", "has_sensitive": true, "entities": [{"value": "6917", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 363, "content": "거래처 정산 시스템 통합 작업 후 임시로 설정된 마스터 핀은 4528이라고 합니다.", "has_sensitive": true, "entities": [{"value": "4528", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 364, "content": "모바일 간편결제 앱 신규 등록 시 고객님께서 선택하신 보안번호는 2736입니다.", "has_sensitive": true, "entities": [{"value": "2736", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 365, "content": "법인 경비 처리 승인 시스템에 접속하려면 9841을 먼저 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "9841", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 366, "content": "지난주 팀 회의에서 전달된 테스트 계정의 임시 핀번호가 7652라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7652", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 367, "content": "고객센터 상담 내역을 확인한 결과 분쟁 거래 당시 입력하신 코드는 5483입니다.", "has_sensitive": true, "entities": [{"value": "5483", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 368, "content": "신규 입사자 안내 자료에 사내 식당 결제용 카드의 초기 설정값 3791이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3791", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 369, "content": "결제 대행사 테스트 작업 중 샌드박스 환경에 설정된 기본 코드는 1629였습니다.", "has_sensitive": true, "entities": [{"value": "1629", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 370, "content": "보안 점검 결과를 검토하니 취약점으로 지적된 핀번호가 8956이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8956", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 371, "content": "협력업체 월 정산 처리를 위한 승인 시스템에 등록된 코드는 6374입니다.", "has_sensitive": true, "entities": [{"value": "6374", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 372, "content": "급여 이체 승인 요청 건에 대해 재무팀에서 입력한 인증번호는 4195로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4195", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 373, "content": "출장비 신청 처리 시스템의 관리자 접근 권한을 위해서는 2847을 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "2847", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 374, "content": "전산팀 공지에 따르면 개발 서버 결제 모듈 테스트 코드가 9516으로 변경되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "9516", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 375, "content": "고객 불만 처리 기록을 확인한 결과 환불 승인 시 사용된 번호는 7238이었습니다.", "has_sensitive": true, "entities": [{"value": "7238", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 376, "content": "임시 출입증 발급 시 연결된 선불카드의 초기 핀번호를 5641로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "5641", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 377, "content": "월간 재무 결산 보고서에 기재된 긴급 지출 승인 코드가 3487이라고 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "3487", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 378, "content": "사내 무인 판매기 결제 시스템 점검 중 마스터 키 1952가 노출된 것으로 발견되었습니다.", "has_sensitive": true, "entities": [{"value": "1952", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 379, "content": "원격 근무자 법인카드 발급 완료 안내문에 임시 인증번호 8764가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8764", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 380, "content": "프로젝트 착수 보고 자료를 보니 예산 집행용 코드가 6529로 설정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6529", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 381, "content": "고객 상담 데이터를 조회한 결과 마지막 거래 인증 코드는 4318이었습니다.", "has_sensitive": true, "entities": [{"value": "4318", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 382, "content": "보안팀 권고에 따라 공용 단말기에 저장된 2593을 즉시 삭제하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "2593", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 383, "content": "자동 충전 서비스 가입 완료 안내서에 고객님이 직접 설정하신 보안 코드 9426이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9426", "begin": 49, "end": 53, "label": "PAYMENT_PIN"}]}
+{"id": 384, "content": "주간 업무 회의 중 공유된 새 결제 시스템의 테스트 환경 핀은 7185로 정해졌다고 합니다.", "has_sensitive": true, "entities": [{"value": "7185", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 385, "content": "고객센터 운영 매뉴얼 최신 버전에는 긴급 환불 처리 시 5974를 사용하라고 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5974", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 386, "content": "출장 경비 청구 앱에 로그인하려면 인증 코드 3716을 입력 후 OTP 인증을 완료하세요.", "has_sensitive": true, "entities": [{"value": "3716", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 387, "content": "법인 주유카드 사용 매뉴얼이 업데이트되면서 새로운 핀번호 1845로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "1845", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 388, "content": "시스템 정기 점검 결과 보고서에 보안 취약 코드 8633이 여전히 사용 중이라고 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8633", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 389, "content": "신규 채용 인력 명단과 함께 전달된 사내 복지 포인트 초기 인증번호는 6472입니다.", "has_sensitive": true, "entities": [{"value": "6472", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 390, "content": "원격 결제 승인 요청 처리 완료 안내에서 고객님이 입력하신 코드 4927로 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "4927", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 391, "content": "보안 교육 교재에서 절대 사용하면 안 되는 위험한 예시로 8888이 제시되었습니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 392, "content": "협력사 대금 지급 확인 문서를 검토하니 승인 코드 2751이 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "2751", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 393, "content": "긴급 공지로 전달받은 메일에는 임시 시스템 운영용 핀번호 9364가 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9364", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 394, "content": "전산 장애 복구 완료 후 초기화된 관리자 계정의 기본 인증 코드는 7596으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7596", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 395, "content": "모바일 앱 신규 업데이트 공지에 간편결제 재등록을 위해 5218을 입력하라는 안내가 있습니다.", "has_sensitive": true, "entities": [{"value": "5218", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 396, "content": "내부 감사 개선 권고사항으로 공용 단말기에 저장된 3462의 즉시 변경이 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "3462", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 397, "content": "연말정산 환급금 수령을 위한 계좌 인증 시 1687을 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "1687", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 398, "content": "프로젝트 예산 관리 시스템 접속을 위한 초기 설정 코드는 8954입니다.", "has_sensitive": true, "entities": [{"value": "8954", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 399, "content": "외주 용역 계약 조건을 검토하던 중 결제 관련 조항에 6741이라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6741", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 400, "content": "직원 복지 플랫폼에서 포인트 사용 시 필요한 기본 인증번호는 4329입니다.", "has_sensitive": true, "entities": [{"value": "4329", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 401, "content": "고객 환불 신청 처리 로그를 확인하니 시스템 자동 승인번호 2863이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2863", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 402, "content": "보안 패치 적용 완료 안내문에는 업데이트 후 재설정할 코드 9157에 대한 상세 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "9157", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 403, "content": "사내 구내식당 충전 시스템 관리 단말기의 마스터 모드 진입 코드는 7482입니다.", "has_sensitive": true, "entities": [{"value": "7482", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 404, "content": "지난달 부서 회식 정산 내역을 보니 법인카드 인증번호 5639로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "5639", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 405, "content": "신규 전자결제 플랫폼 시범 운영 기간 동안 사용할 테스트 핀은 3814로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "3814", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 406, "content": "분실물 보관소에서 회수된 직원증에 연결된 마지막 사용 코드가 1927이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1927", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 407, "content": "온라인 교육 플랫폼 수강료 자동이체 등록을 위해 8463을 입력하라는 안내 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "8463", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 408, "content": "재택근무자 업무용 카드 발급 완료 통보서에 임시 핀번호 6725가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6725", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 409, "content": "해외 지사 긴급 송금 처리 최종 확인을 위해 입력해야 하는 코드는 4591입니다.", "has_sensitive": true, "entities": [{"value": "4591", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 410, "content": "사내 보안 감사 최종 결과 취약하게 설정된 1111을 변경하라는 권고사항이 발표되었습니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 411, "content": "고객지원 시스템 티켓 내역을 조회하니 문의하신 거래의 승인 코드가 2976이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2976", "begin": 44, "end": 48, "label": "PAYMENT_PIN"}]}
+{"id": 412, "content": "연수원 숙박 시설 이용 시 객실 미니바 결제용 핀번호는 9538로 안내드렸습니다.", "has_sensitive": true, "entities": [{"value": "9538", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 413, "content": "프랜차이즈 가맹점 POS 시스템 초기 설정값이 7314라고 운영 매뉴얼에 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7314", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 414, "content": "임시 방문자 출입증 발급 시 부여되는 사내 편의시설 이용 코드는 5826입니다.", "has_sensitive": true, "entities": [{"value": "5826", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 415, "content": "분기 경영 실적 보고 자료에 결제 시스템 장애 당시 사용된 코드 3479가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3479", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 416, "content": "고객 계정 복구 절차 진행 중 본인 확인을 위해 제시하신 번호가 1635였습니다.", "has_sensitive": true, "entities": [{"value": "1635", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 417, "content": "사무용품 구매 전용 카드 사용 시 필요한 인증 코드는 8742로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8742", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 418, "content": "파견 근무자 급여 이체 계좌 개설 완료 안내와 함께 승인 번호 6284가 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "6284", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 419, "content": "전자세금계산서 시스템 접속을 위해서는 4953을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "4953", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 420, "content": "외부 자문 용역 계약 조건에 명시된 선급금 지급 승인 코드가 2617입니다.", "has_sensitive": true, "entities": [{"value": "2617", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 421, "content": "업무 일지 기록을 확인하니 어제 긴급 결제 처리 시 9746을 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "9746", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 422, "content": "글로벌 법인카드 신청서를 검토하니 초기 핀번호가 7381로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "7381", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 423, "content": "자산 관리 플랫폼 접근 권한 승인을 위해 부여된 임시 코드는 5429입니다.", "has_sensitive": true, "entities": [{"value": "5429", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 424, "content": "고객님께서 요청하신 월 납부액 변경을 위한 인증번호 3856으로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "3856", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 425, "content": "교육훈련비 시스템에 등록된 부서별 공용 코드가 1748이라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "1748", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 426, "content": "품질 관리 월간 보고서에 따르면 결제 모듈 테스트 시 8925가 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8925", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 427, "content": "차량 관리비 정산용 전용 카드의 보안 코드가 6537로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "6537", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 428, "content": "모바일 주문 시스템 관리자 페이지 접속을 위한 기본 핀은 4162입니다.", "has_sensitive": true, "entities": [{"value": "4162", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 429, "content": "지점별 일일 매출 정산 과정에서 사용된 승인 코드 2894는 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "2894", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 430, "content": "임직원 복지 혜택 안내서에 기프트카드 활성화 코드 9673이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9673", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 431, "content": "감사 준비 자료 정리 중 발견한 미승인 거래 건의 입력 번호가 7215였다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7215", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 432, "content": "본부 운영 지침에 따라 지역별 사무소에서 사용할 통합 코드를 5841로 정했습니다.", "has_sensitive": true, "entities": [{"value": "5841", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 433, "content": "계약직 인력 급여 지급을 위한 시스템 승인 시 3526을 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "3526", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 434, "content": "온라인 커머스 결제 모듈 점검 중 테스트 거래에 사용된 핀번호는 1497이었습니다.", "has_sensitive": true, "entities": [{"value": "1497", "begin": 42, "end": 46, "label": "PAYMENT_PIN"}]}
+{"id": 435, "content": "복지 포인트 규정 개정으로 새로운 인증 방식에 8364가 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "8364", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 436, "content": "시설 관리 계약서에 명시된 월 사용료 자동이체 코드가 6758입니다.", "has_sensitive": true, "entities": [{"value": "6758", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 437, "content": "신입 사원 실습 자료에 연습용 가상 결제 시나리오의 핀번호 4921이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4921", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 438, "content": "이사회 안건 중 결제 보안 강화 방안으로 기존 0000을 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "0000", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 439, "content": "협력사 전자 포털 신규 가입 시 발급되는 임시 인증 코드는 2583입니다.", "has_sensitive": true, "entities": [{"value": "2583", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 440, "content": "월간 보안 점검 리포트에 노출 위험이 있는 코드로 9429가 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "9429", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 441, "content": "사내 카페 포인트 충전 시 사용하는 기본 인증번호가 7652로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "7652", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 442, "content": "조직 개편 이후 재설정된 공용 법인카드의 새 핀번호는 5384입니다.", "has_sensitive": true, "entities": [{"value": "5384", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 443, "content": "IT 자산 구매 시스템 로그를 확인하니 3791이라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "3791", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 444, "content": "마케팅 비용 집행 카드 발급 시 설정된 초기 인증 코드는 1629로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1629", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 445, "content": "휴가비 지급 처리를 위해 입력하신 승인번호 8746으로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "8746", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 446, "content": "외부 감사 준비 자료 정리 중 발견된 시스템 접근 코드가 6914였습니다.", "has_sensitive": true, "entities": [{"value": "6914", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 447, "content": "신규 프로젝트 개설 준비 단계에서 임시로 사용할 결제 코드를 4572로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "4572", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 448, "content": "고객 데이터 조회 결과 분쟁 거래 시 입력된 번호는 2835였습니다.", "has_sensitive": true, "entities": [{"value": "2835", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 449, "content": "원격 기술 지원 요청 건 처리 과정에서 확인된 고객 인증 코드는 9568입니다.", "has_sensitive": true, "entities": [{"value": "9568", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 450, "content": "프로젝트 마무리 보고서에 기재된 최종 정산 승인 시 사용된 핀은 7429였습니다.", "has_sensitive": true, "entities": [{"value": "7429", "begin": 43, "end": 47, "label": "PAYMENT_PIN"}]}
+{"id": 451, "content": "직원 설문 조사 답례품 배송을 위한 선불카드 활성화 코드가 5186입니다.", "has_sensitive": true, "entities": [{"value": "5186", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 452, "content": "업무 연속성 문서에 비상시 사용 가능한 마스터 코드 3947이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3947", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 453, "content": "제휴 혜택 신청 시 본인 확인을 위해 입력하셨던 번호가 1762라고 합니다.", "has_sensitive": true, "entities": [{"value": "1762", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 454, "content": "동호회 활동비 계좌의 이체 승인 코드는 8593으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8593", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 455, "content": "보안 체크리스트에 취약 코드로 분류된 6666의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 456, "content": "고객 유지 프로모션 참여를 위한 인증 절차에서 4238을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "4238", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 457, "content": "분기별 예산 현황 보고 시 사용된 시스템 접근 코드가 2916이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2916", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 458, "content": "출장자 숙박비 결제를 위해 제공된 핀번호는 9784입니다.", "has_sensitive": true, "entities": [{"value": "9784", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 459, "content": "전자 승인 시스템 도입 후 초기 관리자 설정값이 7351로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "7351", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 460, "content": "고객 상담 기록을 확인해 보니 환불 처리 시 제시하신 코드가 5627이었습니다.", "has_sensitive": true, "entities": [{"value": "5627", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 461, "content": "지사별 매뉴얼에 긴급 상황 시 사용할 임시 인증번호 3485가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3485", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 462, "content": "연구비 집행 승인 요청서에 첨부된 결제 코드가 1843으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1843", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 463, "content": "주간 보고에 따르면 테스트 서버 결제 모듈의 더미 핀은 8276이라고 합니다.", "has_sensitive": true, "entities": [{"value": "8276", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 464, "content": "협력업체 정산 시스템에 등록된 승인 코드는 6419입니다.", "has_sensitive": true, "entities": [{"value": "6419", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 465, "content": "보안 교육 시뮬레이션에서 예시로 사용된 핀번호가 4758이었다고 합니다.", "has_sensitive": true, "entities": [{"value": "4758", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 466, "content": "월말 정산 작업 중 확인된 자동 승인 거래의 코드가 2594로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2594", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 467, "content": "신입 직원 교육 프로그램에서 실습용 결제 시스템의 핀번호는 9832입니다.", "has_sensitive": true, "entities": [{"value": "9832", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 468, "content": "결의서 승인 과정에서 재무 담당자가 입력한 인증 코드는 7146이었습니다.", "has_sensitive": true, "entities": [{"value": "7146", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 469, "content": "사업부 통합 안내에 따라 새로 배정된 법인카드 코드가 5973으로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "5973", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 470, "content": "컨설팅 용역비 지급 시 사용된 승인번호가 3628이라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "3628", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 471, "content": "결제 시스템 연동 테스트 문서에 샘플 코드 1459가 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1459", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 472, "content": "내부 통제 점검 결과 공용 단말기에 저장된 8888이 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 473, "content": "복지 포인트 전환 서비스 신청 시 설정하신 핀은 6742입니다.", "has_sensitive": true, "entities": [{"value": "6742", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 474, "content": "시스템 복구 후 임시로 적용된 관리자 인증 코드가 4385라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4385", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 475, "content": "통합 공지사항에 따르면 지역 사무소 공용 코드를 2917로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 476, "content": "계정 복구 절차 진행 중 본인 인증을 위해 제시하신 번호는 9526이었습니다.", "has_sensitive": true, "entities": [{"value": "9526", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 477, "content": "완료 보고서에 최종 대금 지급 승인 시 입력한 코드 7683이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7683", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 478, "content": "참가자 식비 지원을 위한 선불카드 활성화 번호가 5249입니다.", "has_sensitive": true, "entities": [{"value": "5249", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 479, "content": "비상 매뉴얼에 긴급 상황 시 사용 가능한 코드 3871이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3871", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 480, "content": "해외 송금 승인 절차에서 최종 확인용 핀번호는 1594로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "1594", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 481, "content": "복지 제도 개편 안내문에 신규 포인트 시스템 초기 코드 8467이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8467", "begin": 39, "end": 43, "label": "PAYMENT_PIN"}]}
+{"id": 482, "content": "실적 발표 자료 준비 중 결제 시스템 통계에서 6325라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "6325", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 483, "content": "임시 인력 급여 지급 시스템 접근을 위한 인증 코드는 4736입니다.", "has_sensitive": true, "entities": [{"value": "4736", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 484, "content": "불만 처리 보고서에 환불 승인 시 사용된 번호 2948이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2948", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 485, "content": "차량 유류비 카드의 새로운 핀번호는 9615로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "9615", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 486, "content": "교육 플랫폼 결제 테스트 시나리오에 사용할 샘플 코드는 7538입니다.", "has_sensitive": true, "entities": [{"value": "7538", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 487, "content": "자산 시스템 마이그레이션 후 임시 설정된 관리자 핀은 5264입니다.", "has_sensitive": true, "entities": [{"value": "5264", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 488, "content": "거래처 지급 요청서를 검토하니 승인 코드 3817로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3817", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 489, "content": "보안 리포트에 취약점으로 지적된 코드가 1472라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1472", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 490, "content": "입점 업체 정산 시스템 초기 접근 코드는 8639로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "8639", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 491, "content": "에스컬레이션 처리 중 확인된 분쟁 거래 인증번호가 6751이었습니다.", "has_sensitive": true, "entities": [{"value": "6751", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 492, "content": "성과급 지급 승인 과정에서 입력하신 코드는 4928로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "4928", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 493, "content": "프로세스 개선 제안서에 결제 시스템 테스트용 핀 2563이 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2563", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 494, "content": "개발 계약 조건에 명시된 샌드박스 환경 접근 코드가 9847입니다.", "has_sensitive": true, "entities": [{"value": "9847", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 495, "content": "공모전 상금 지급을 위한 계좌 인증 시 설정하신 번호는 7429입니다.", "has_sensitive": true, "entities": [{"value": "7429", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 496, "content": "회의 자료에 따르면 통합 결제 시스템 기본값이 5186으로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "5186", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 497, "content": "지원 요청 처리 로그를 확인하니 고객 인증 코드 3742로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "3742", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 498, "content": "가맹점 정산 시스템의 초기 관리자 핀번호는 1958입니다.", "has_sensitive": true, "entities": [{"value": "1958", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 499, "content": "수당 신청 처리 과정에서 본인 확인을 위해 입력하신 번호가 8634였습니다.", "has_sensitive": true, "entities": [{"value": "8634", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 500, "content": "인프라 업그레이드 후 재설정된 결제 모듈 코드가 6297로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "6297", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 501, "content": "벤처 지원금 집행 승인 시 사용된 인증번호는 4825라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4825", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 502, "content": "상담 이력 조회 결과 환불 요청 시 제시하신 코드가 2716이었습니다.", "has_sensitive": true, "entities": [{"value": "2716", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 503, "content": "정책 위반 사례 보고서에 공용으로 사용된 9999가 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "9999", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 504, "content": "파트너 프로그램 가입 시 제공되는 초기 결제 인증 코드는 7583입니다.", "has_sensitive": true, "entities": [{"value": "7583", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 505, "content": "이전 준비 과정에서 임시로 사용할 법인카드 핀을 5342로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "5342", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 506, "content": "촉진 수당 지급 시스템 접속을 위한 코드는 3619로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3619", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 507, "content": "통합 플랫폼 도입 설명회에서 테스트 환경 핀번호 1786이 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "1786", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 508, "content": "감사 준비 자료에 긴급 승인 거래 시 사용된 코드 8952가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8952", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 509, "content": "법인카드 이용 내역서를 확인하니 승인번호 6438로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6438", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 510, "content": "통제 강화 방안으로 기존 사용 중이던 5555를 즉시 변경하기로 했습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 511, "content": "포털 업그레이드 공지에 신규 인증 코드 4274가 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4274", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 512, "content": "교육 프로그램 수료증 발급 시스템의 기본 핀번호는 2931입니다.", "has_sensitive": true, "entities": [{"value": "2931", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 513, "content": "통폐합 후 재배정된 법인카드 코드가 9758로 변경되었다고 통보받았습니다.", "has_sensitive": true, "entities": [{"value": "9758", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 514, "content": "등급 승급 혜택 적용을 위한 인증 절차에서 7416을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "7416", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 515, "content": "최종 결산 보고서에 대금 지급 승인 코드 5829가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5829", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 516, "content": "참가비 환급 처리를 위해 설정하신 계좌 인증번호는 3647입니다.", "has_sensitive": true, "entities": [{"value": "3647", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 517, "content": "연락망 업데이트 공지와 함께 긴급 결제 시스템 코드 1825가 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "1825", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 518, "content": "송금 처리 완료 확인서에 최종 승인 시 입력한 핀 8493이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8493", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 519, "content": "포인트 통합 관리 시스템 전환 후 기본 인증 코드는 6572로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "6572", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 520, "content": "성과 평가 보상금 지급 시 사용된 승인번호가 4391이라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4391", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 521, "content": "계약직 정산 시스템 접근을 위한 코드는 2764로 배정되었습니다.", "has_sensitive": true, "entities": [{"value": "2764", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 522, "content": "클레임 처리 매뉴얼에 환불 승인 시 입력할 번호 9537이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9537", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 523, "content": "관리비 정산용 카드의 보안 코드가 7285로 업데이트되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "7285", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 524, "content": "결제 모듈 개발 가이드에 QA 테스트용 샘플 핀 5643이 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5643", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 525, "content": "담당자 변경에 따라 새로 발급된 접근 코드는 3918입니다.", "has_sensitive": true, "entities": [{"value": "3918", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 526, "content": "정산 통합 작업 후 임시로 설정된 마스터 핀은 1476이라고 합니다.", "has_sensitive": true, "entities": [{"value": "1476", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 527, "content": "간편결제 신규 등록 시 고객님께서 선택하신 보안번호는 8729입니다.", "has_sensitive": true, "entities": [{"value": "8729", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 528, "content": "경비 처리 시스템에 접속하려면 6541을 먼저 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "6541", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 529, "content": "팀 회의에서 전달된 테스트 계정의 임시 핀번호가 4286이라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4286", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 530, "content": "상담 내역을 확인한 결과 분쟁 거래 당시 입력하신 코드는 2837입니다.", "has_sensitive": true, "entities": [{"value": "2837", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 531, "content": "입사자 안내 자료에 사내 식당 결제용 카드의 초기 설정값 9651이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9651", "begin": 41, "end": 45, "label": "PAYMENT_PIN"}]}
+{"id": 532, "content": "대행사 테스트 작업 중 샌드박스 환경에 설정된 기본 코드는 7428이었습니다.", "has_sensitive": true, "entities": [{"value": "7428", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 533, "content": "점검 결과를 검토하니 취약점으로 지적된 핀번호가 5374라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5374", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 534, "content": "업체 정산 처리를 위한 승인 시스템에 등록된 코드는 3692입니다.", "has_sensitive": true, "entities": [{"value": "3692", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 535, "content": "이체 승인 요청 건에 대해 재무팀에서 입력한 인증번호는 1849로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1849", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 536, "content": "신청 처리 시스템의 관리자 접근 권한을 위해서는 8567을 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "8567", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 537, "content": "공지에 따르면 개발 서버 결제 모듈 테스트 코드가 6729로 변경되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "6729", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 538, "content": "처리 기록을 확인한 결과 환불 승인 시 사용된 번호는 4583이었습니다.", "has_sensitive": true, "entities": [{"value": "4583", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 539, "content": "출입증 발급 시 연결된 선불카드의 초기 핀번호를 2916으로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "2916", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 540, "content": "결산 보고서에 기재된 긴급 지출 승인 코드가 9746이라고 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "9746", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 541, "content": "판매기 결제 시스템 점검 중 마스터 키 7352가 노출된 것으로 발견되었습니다.", "has_sensitive": true, "entities": [{"value": "7352", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 542, "content": "근무자 법인카드 발급 완료 안내문에 임시 인증번호 5819가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5819", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 543, "content": "착수 보고 자료를 보니 예산 집행용 코드가 3476으로 설정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3476", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 544, "content": "데이터를 조회한 결과 마지막 거래 인증 코드는 1684였습니다.", "has_sensitive": true, "entities": [{"value": "1684", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 545, "content": "권고에 따라 공용 단말기에 저장된 8264를 즉시 삭제하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "8264", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 546, "content": "충전 서비스 가입 완료 안내서에 고객님이 직접 설정하신 보안 코드 6937이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6937", "begin": 45, "end": 49, "label": "PAYMENT_PIN"}]}
+{"id": 547, "content": "회의 중 공유된 새 결제 시스템의 테스트 환경 핀은 4725로 정해졌다고 합니다.", "has_sensitive": true, "entities": [{"value": "4725", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 548, "content": "운영 매뉴얼 최신 버전에는 긴급 환불 처리 시 2859를 사용하라고 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2859", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 549, "content": "청구 앱에 로그인하려면 인증 코드 9543을 입력 후 OTP 인증을 완료하세요.", "has_sensitive": true, "entities": [{"value": "9543", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 550, "content": "주유카드 사용 매뉴얼이 업데이트되면서 새로운 핀번호 7618로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "7618", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 551, "content": "정기 점검 결과 보고서에 보안 취약 코드 5432가 여전히 사용 중이라고 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5432", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 552, "content": "채용 인력 명단과 함께 전달된 사내 복지 포인트 초기 인증번호는 3784입니다.", "has_sensitive": true, "entities": [{"value": "3784", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 553, "content": "승인 요청 처리 완료 안내에서 고객님이 입력하신 코드 1927로 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "1927", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 554, "content": "교육 교재에서 절대 사용하면 안 되는 위험한 예시로 3333이 제시되었습니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 555, "content": "지급 확인 문서를 검토하니 승인 코드 8695가 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "8695", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 556, "content": "공지로 전달받은 메일에는 임시 시스템 운영용 핀번호 6471이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6471", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 557, "content": "복구 완료 후 초기화된 관리자 계정의 기본 인증 코드는 4829로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4829", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 558, "content": "업데이트 공지에 간편결제 재등록을 위해 2635를 입력하라는 안내가 있습니다.", "has_sensitive": true, "entities": [{"value": "2635", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 559, "content": "개선 권고사항으로 공용 단말기에 저장된 9741의 즉시 변경이 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "9741", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 560, "content": "환급금 수령을 위한 계좌 인증 시 7586을 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "7586", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 561, "content": "관리 시스템 접속을 위한 초기 설정 코드는 5329입니다.", "has_sensitive": true, "entities": [{"value": "5329", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 562, "content": "계약 조건을 검토하던 중 결제 관련 조항에 3847이라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3847", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 563, "content": "플랫폼에서 포인트 사용 시 필요한 기본 인증번호는 1964입니다.", "has_sensitive": true, "entities": [{"value": "1964", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 564, "content": "신청 처리 로그를 확인하니 시스템 자동 승인번호 8572가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8572", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 565, "content": "적용 완료 안내문에는 업데이트 후 재설정할 코드 6418에 대한 상세 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "6418", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 566, "content": "충전 시스템 관리 단말기의 마스터 모드 진입 코드는 4753입니다.", "has_sensitive": true, "entities": [{"value": "4753", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 567, "content": "회식 정산 내역을 보니 법인카드 인증번호 2896으로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "2896", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 568, "content": "플랫폼 시범 운영 기간 동안 사용할 테스트 핀은 9517로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "9517", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 569, "content": "보관소에서 회수된 직원증에 연결된 마지막 사용 코드가 7324였다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7324", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 570, "content": "플랫폼 수강료 자동이체 등록을 위해 5861을 입력하라는 안내 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "5861", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 571, "content": "카드 발급 완료 통보서에 임시 핀번호 3729가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3729", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 572, "content": "송금 처리 최종 확인을 위해 입력해야 하는 코드는 1856입니다.", "has_sensitive": true, "entities": [{"value": "1856", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 573, "content": "감사 최종 결과 취약하게 설정된 4444를 변경하라는 권고사항이 발표되었습니다.", "has_sensitive": true, "entities": [{"value": "4444", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 574, "content": "시스템 티켓 내역을 조회하니 문의하신 거래의 승인 코드가 8647이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8647", "begin": 38, "end": 42, "label": "PAYMENT_PIN"}]}
+{"id": 575, "content": "시설 이용 시 객실 미니바 결제용 핀번호는 6293으로 안내드렸습니다.", "has_sensitive": true, "entities": [{"value": "6293", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 576, "content": "가맹점 POS 시스템 초기 설정값이 4517이라고 운영 매뉴얼에 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4517", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 577, "content": "출입증 발급 시 부여되는 사내 편의시설 이용 코드는 2948입니다.", "has_sensitive": true, "entities": [{"value": "2948", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 578, "content": "실적 보고 자료에 결제 시스템 장애 당시 사용된 코드 9683이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9683", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 579, "content": "복구 절차 진행 중 본인 확인을 위해 제시하신 번호가 7426이었습니다.", "has_sensitive": true, "entities": [{"value": "7426", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 580, "content": "구매 전용 카드 사용 시 필요한 인증 코드는 5871로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5871", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 581, "content": "이체 계좌 개설 완료 안내와 함께 승인 번호 3594가 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "3594", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 582, "content": "계산서 시스템 접속을 위해서는 1738을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "1738", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 583, "content": "용역 계약 조건에 명시된 선급금 지급 승인 코드가 8469입니다.", "has_sensitive": true, "entities": [{"value": "8469", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 584, "content": "일지 기록을 확인하니 어제 긴급 결제 처리 시 6752를 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "6752", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 585, "content": "카드 신청서를 검토하니 초기 핀번호가 4385로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "4385", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 586, "content": "플랫폼 접근 권한 승인을 위해 부여된 임시 코드는 2916입니다.", "has_sensitive": true, "entities": [{"value": "2916", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 587, "content": "요청하신 월 납부액 변경을 위한 인증번호 9748로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "9748", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 588, "content": "시스템에 등록된 부서별 공용 코드가 7531이라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 589, "content": "보고서에 따르면 결제 모듈 테스트 시 5629가 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5629", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 590, "content": "정산용 전용 카드의 보안 코드가 3842로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "3842", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 591, "content": "주문 시스템 관리자 페이지 접속을 위한 기본 핀은 1687입니다.", "has_sensitive": true, "entities": [{"value": "1687", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 592, "content": "매출 정산 과정에서 사용된 승인 코드 8936은 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "8936", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 593, "content": "혜택 안내서에 기프트카드 활성화 코드 6574가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6574", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 594, "content": "자료 정리 중 발견한 미승인 거래 건의 입력 번호가 4728이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "4728", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 595, "content": "지침에 따라 지역별 사무소에서 사용할 통합 코드를 2953으로 정했습니다.", "has_sensitive": true, "entities": [{"value": "2953", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 596, "content": "지급을 위한 시스템 승인 시 9461을 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "9461", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 597, "content": "커머스 결제 모듈 점검 중 테스트 거래에 사용된 핀번호는 7835였습니다.", "has_sensitive": true, "entities": [{"value": "7835", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 598, "content": "규정 개정으로 새로운 인증 방식에 5492가 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "5492", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 599, "content": "계약서에 명시된 월 사용료 자동이체 코드가 3716입니다.", "has_sensitive": true, "entities": [{"value": "3716", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 600, "content": "실습 자료에 연습용 가상 결제 시나리오의 핀번호 1849가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1849", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 601, "content": "안건 중 결제 보안 강화 방안으로 기존 2222를 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "2222", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 602, "content": "포털 신규 가입 시 발급되는 임시 인증 코드는 8647입니다.", "has_sensitive": true, "entities": [{"value": "8647", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 603, "content": "점검 리포트에 노출 위험이 있는 코드로 6395가 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "6395", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 604, "content": "포인트 충전 시 사용하는 기본 인증번호가 4826으로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "4826", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 605, "content": "개편 이후 재설정된 공용 법인카드의 새 핀번호는 2973입니다.", "has_sensitive": true, "entities": [{"value": "2973", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 606, "content": "구매 시스템 로그를 확인하니 9584라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "9584", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 607, "content": "비용 집행 카드 발급 시 설정된 초기 인증 코드는 7418로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7418", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 608, "content": "지급 처리를 위해 입력하신 승인번호 5631로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "5631", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 609, "content": "준비 자료 정리 중 발견된 시스템 접근 코드가 3794였습니다.", "has_sensitive": true, "entities": [{"value": "3794", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 610, "content": "개설 준비 단계에서 임시로 사용할 결제 코드를 1826로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "1826", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 611, "content": "조회 결과 분쟁 거래 시 입력된 번호는 8529였습니다.", "has_sensitive": true, "entities": [{"value": "8529", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 612, "content": "지원 요청 건 처리 과정에서 확인된 고객 인증 코드는 6742입니다.", "has_sensitive": true, "entities": [{"value": "6742", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 613, "content": "마무리 보고서에 기재된 최종 정산 승인 시 사용된 핀은 4917이었습니다.", "has_sensitive": true, "entities": [{"value": "4917", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 614, "content": "조사 답례품 배송을 위한 선불카드 활성화 코드가 2685입니다.", "has_sensitive": true, "entities": [{"value": "2685", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 615, "content": "문서에 비상시 사용 가능한 마스터 코드 9371이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9371", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 616, "content": "신청 시 본인 확인을 위해 입력하셨던 번호가 7564라고 합니다.", "has_sensitive": true, "entities": [{"value": "7564", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 617, "content": "활동비 계좌의 이체 승인 코드는 5283으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5283", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 618, "content": "체크리스트에 취약 코드로 분류된 3333의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 619, "content": "프로모션 참여를 위한 인증 절차에서 1946을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "1946", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 620, "content": "현황 보고 시 사용된 시스템 접근 코드가 8752였다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8752", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 621, "content": "숙박비 결제를 위해 제공된 핀번호는 6419입니다.", "has_sensitive": true, "entities": [{"value": "6419", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 622, "content": "승인 시스템 도입 후 초기 관리자 설정값이 4638로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "4638", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 623, "content": "기록을 확인해 보니 환불 처리 시 제시하신 코드가 2857이었습니다.", "has_sensitive": true, "entities": [{"value": "2857", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 624, "content": "매뉴얼에 긴급 상황 시 사용할 임시 인증번호 9743이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9743", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 625, "content": "집행 승인 요청서에 첨부된 결제 코드가 7526으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7526", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 626, "content": "보고에 따르면 테스트 서버 결제 모듈의 더미 핀은 5384라고 합니다.", "has_sensitive": true, "entities": [{"value": "5384", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 627, "content": "업체 정산 시스템에 등록된 승인 코드는 3691입니다.", "has_sensitive": true, "entities": [{"value": "3691", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 628, "content": "교육 시뮬레이션에서 예시로 사용된 핀번호가 1825였다고 합니다.", "has_sensitive": true, "entities": [{"value": "1825", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 629, "content": "정산 작업 중 확인된 자동 승인 거래의 코드가 8467로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8467", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 630, "content": "교육 프로그램에서 실습용 결제 시스템의 핀번호는 6295입니다.", "has_sensitive": true, "entities": [{"value": "6295", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 631, "content": "승인 과정에서 재무 담당자가 입력한 인증 코드는 4739였습니다.", "has_sensitive": true, "entities": [{"value": "4739", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 632, "content": "통합 안내에 따라 새로 배정된 법인카드 코드가 2816으로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "2816", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 633, "content": "용역비 지급 시 사용된 승인번호가 9528이라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "9528", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 634, "content": "연동 테스트 문서에 샘플 코드 7641이 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7641", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 635, "content": "점검 결과 공용 단말기에 저장된 5555가 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 636, "content": "전환 서비스 신청 시 설정하신 핀은 3927입니다.", "has_sensitive": true, "entities": [{"value": "3927", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 637, "content": "복구 후 임시로 적용된 관리자 인증 코드가 1684라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1684", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 638, "content": "공지사항에 따르면 지역 사무소 공용 코드를 8593으로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "8593", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 639, "content": "절차 진행 중 본인 인증을 위해 제시하신 번호는 6742였습니다.", "has_sensitive": true, "entities": [{"value": "6742", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 640, "content": "보고서에 최종 대금 지급 승인 시 입력한 코드 4859가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4859", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 641, "content": "지원을 위한 선불카드 활성화 번호가 2937입니다.", "has_sensitive": true, "entities": [{"value": "2937", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 642, "content": "매뉴얼에 긴급 상황 시 사용 가능한 코드 9618이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9618", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 643, "content": "승인 절차에서 최종 확인용 핀번호는 7482로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "7482", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 644, "content": "개편 안내문에 신규 포인트 시스템 초기 코드 5736이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5736", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 645, "content": "자료 준비 중 결제 시스템 통계에서 3841이라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "3841", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 646, "content": "인력 급여 지급 시스템 접근을 위한 인증 코드는 1597입니다.", "has_sensitive": true, "entities": [{"value": "1597", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 647, "content": "처리 보고서에 환불 승인 시 사용된 번호 8724가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8724", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 648, "content": "유류비 카드의 새로운 핀번호는 6458로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "6458", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 649, "content": "플랫폼 결제 테스트 시나리오에 사용할 샘플 코드는 4319입니다.", "has_sensitive": true, "entities": [{"value": "4319", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 650, "content": "시스템 마이그레이션 후 임시 설정된 관리자 핀은 2876입니다.", "has_sensitive": true, "entities": [{"value": "2876", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 651, "content": "지급 요청서를 검토하니 승인 코드 9534로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "9534", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 652, "content": "리포트에 취약점으로 지적된 코드가 7291이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7291", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 653, "content": "업체 정산 시스템 초기 접근 코드는 5683으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "5683", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 654, "content": "레이션 처리 중 확인된 분쟁 거래 인증번호가 3746이었습니다.", "has_sensitive": true, "entities": [{"value": "3746", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 655, "content": "지급 승인 과정에서 입력하신 코드는 1829로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "1829", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 656, "content": "개선 제안서에 결제 시스템 테스트용 핀 8957이 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8957", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 657, "content": "계약 조건에 명시된 샌드박스 환경 접근 코드가 6524입니다.", "has_sensitive": true, "entities": [{"value": "6524", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 658, "content": "상금 지급을 위한 계좌 인증 시 설정하신 번호는 4672입니다.", "has_sensitive": true, "entities": [{"value": "4672", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 659, "content": "자료에 따르면 통합 결제 시스템 기본값이 2935로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "2935", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 660, "content": "요청 처리 로그를 확인하니 고객 인증 코드 9748로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "9748", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 661, "content": "정산 시스템의 초기 관리자 핀번호는 7563입니다.", "has_sensitive": true, "entities": [{"value": "7563", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 662, "content": "신청 처리 과정에서 본인 확인을 위해 입력하신 번호가 5419였습니다.", "has_sensitive": true, "entities": [{"value": "5419", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 663, "content": "업그레이드 후 재설정된 결제 모듈 코드가 3827로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "3827", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 664, "content": "지원금 집행 승인 시 사용된 인증번호는 1763이라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1763", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 665, "content": "이력 조회 결과 환불 요청 시 제시하신 코드가 8694였습니다.", "has_sensitive": true, "entities": [{"value": "8694", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 666, "content": "위반 사례 보고서에 공용으로 사용된 6666이 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 667, "content": "프로그램 가입 시 제공되는 초기 결제 인증 코드는 4582입니다.", "has_sensitive": true, "entities": [{"value": "4582", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 668, "content": "준비 과정에서 임시로 사용할 법인카드 핀을 2947로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "2947", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 669, "content": "수당 지급 시스템 접속을 위한 코드는 9856으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9856", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 670, "content": "플랫폼 도입 설명회에서 테스트 환경 핀번호 7439가 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "7439", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 671, "content": "준비 자료에 긴급 승인 거래 시 사용된 코드 5728이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5728", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 672, "content": "이용 내역서를 확인하니 승인번호 3649로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3649", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 673, "content": "강화 방안으로 기존 사용 중이던 1111을 즉시 변경하기로 했습니다.", "has_sensitive": true, "entities": [{"value": "1111", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 674, "content": "업그레이드 공지에 신규 인증 코드 8573이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8573", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 675, "content": "프로그램 수료증 발급 시스템의 기본 핀번호는 6427입니다.", "has_sensitive": true, "entities": [{"value": "6427", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 676, "content": "폐합 후 재배정된 법인카드 코드가 4819로 변경되었다고 통보받았습니다.", "has_sensitive": true, "entities": [{"value": "4819", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 677, "content": "승급 혜택 적용을 위한 인증 절차에서 2764를 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "2764", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 678, "content": "결산 보고서에 대금 지급 승인 코드 9537이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9537", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 679, "content": "환급 처리를 위해 설정하신 계좌 인증번호는 7685입니다.", "has_sensitive": true, "entities": [{"value": "7685", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 680, "content": "업데이트 공지와 함께 긴급 결제 시스템 코드 5341이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "5341", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 681, "content": "처리 완료 확인서에 최종 승인 시 입력한 핀 3926이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3926", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 682, "content": "통합 관리 시스템 전환 후 기본 인증 코드는 1854로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "1854", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 683, "content": "평가 보상금 지급 시 사용된 승인번호가 8762라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "8762", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 684, "content": "정산 시스템 접근을 위한 코드는 6549로 배정되었습니다.", "has_sensitive": true, "entities": [{"value": "6549", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 685, "content": "처리 매뉴얼에 환불 승인 시 입력할 번호 4738이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4738", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 686, "content": "정산용 카드의 보안 코드가 2961로 업데이트되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "2961", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 687, "content": "모듈 개발 가이드에 QA 테스트용 샘플 핀 9847이 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9847", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 688, "content": "변경에 따라 새로 발급된 접근 코드는 7526입니다.", "has_sensitive": true, "entities": [{"value": "7526", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 689, "content": "통합 작업 후 임시로 설정된 마스터 핀은 5394라고 합니다.", "has_sensitive": true, "entities": [{"value": "5394", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 690, "content": "간편결제 등록 시 고객님께서 선택하신 보안번호는 3768입니다.", "has_sensitive": true, "entities": [{"value": "3768", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 691, "content": "처리 시스템에 접속하려면 1952를 먼저 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "1952", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 692, "content": "회의에서 전달된 테스트 계정의 임시 핀번호가 8674라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8674", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 693, "content": "내역을 확인한 결과 분쟁 거래 당시 입력하신 코드는 6385입니다.", "has_sensitive": true, "entities": [{"value": "6385", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 694, "content": "안내 자료에 사내 식당 결제용 카드의 초기 설정값 4927이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4927", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 695, "content": "테스트 작업 중 샌드박스 환경에 설정된 기본 코드는 2743이었습니다.", "has_sensitive": true, "entities": [{"value": "2743", "begin": 35, "end": 39, "label": "PAYMENT_PIN"}]}
+{"id": 696, "content": "결과를 검토하니 취약점으로 지적된 핀번호가 9586이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9586", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 697, "content": "정산 처리를 위한 승인 시스템에 등록된 코드는 7418입니다.", "has_sensitive": true, "entities": [{"value": "7418", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 698, "content": "승인 요청 건에 대해 재무팀에서 입력한 인증번호는 5692로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "5692", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 699, "content": "처리 시스템의 관리자 접근 권한을 위해서는 3841을 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "3841", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 700, "content": "공지에 따르면 개발 서버 결제 모듈 테스트 코드가 1729로 변경되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "1729", "begin": 36, "end": 40, "label": "PAYMENT_PIN"}]}
+{"id": 701, "content": "기록을 확인한 결과 환불 승인 시 사용된 번호는 8937이었습니다.", "has_sensitive": true, "entities": [{"value": "8937", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 702, "content": "발급 시 연결된 선불카드의 초기 핀번호를 6524로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "6524", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 703, "content": "보고서에 기재된 긴급 지출 승인 코드가 4816이라고 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "4816", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 704, "content": "결제 시스템 점검 중 마스터 키 2739가 노출된 것으로 발견되었습니다.", "has_sensitive": true, "entities": [{"value": "2739", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 705, "content": "카드 발급 완료 안내문에 임시 인증번호 9684가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9684", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 706, "content": "보고 자료를 보니 예산 집행용 코드가 7351로 설정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "7351", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 707, "content": "조회한 결과 마지막 거래 인증 코드는 5628이었습니다.", "has_sensitive": true, "entities": [{"value": "5628", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 708, "content": "따라 공용 단말기에 저장된 3472를 즉시 삭제하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "3472", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 709, "content": "서비스 가입 안내서에 고객님이 직접 설정하신 보안 코드 1839가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1839", "begin": 40, "end": 44, "label": "PAYMENT_PIN"}]}
+{"id": 710, "content": "중 공유된 새 결제 시스템의 테스트 환경 핀은 8946으로 정해졌다고 합니다.", "has_sensitive": true, "entities": [{"value": "8946", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 711, "content": "매뉴얼 최신 버전에는 긴급 환불 처리 시 6753을 사용하라고 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6753", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 712, "content": "앱에 로그인하려면 인증 코드 4685를 입력 후 OTP 인증을 완료하세요.", "has_sensitive": true, "entities": [{"value": "4685", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 713, "content": "사용 매뉴얼이 업데이트되면서 새로운 핀번호 2917로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 714, "content": "점검 결과 보고서에 보안 취약 코드 9748이 여전히 사용 중이라고 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9748", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 715, "content": "인력 명단과 함께 전달된 사내 복지 포인트 초기 인증번호는 7526입니다.", "has_sensitive": true, "entities": [{"value": "7526", "begin": 37, "end": 41, "label": "PAYMENT_PIN"}]}
+{"id": 716, "content": "요청 처리 안내에서 고객님이 입력하신 코드 5384로 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "5384", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 717, "content": "교재에서 절대 사용하면 안 되는 위험한 예시로 7777이 제시되었습니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 718, "content": "확인 문서를 검토하니 승인 코드 3629가 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "3629", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 719, "content": "전달받은 메일에는 임시 시스템 운영용 핀번호 1847이 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1847", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 720, "content": "완료 후 초기화된 관리자 계정의 기본 인증 코드는 8569로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "8569", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 721, "content": "공지에 간편결제 재등록을 위해 6394를 입력하라는 안내가 있습니다.", "has_sensitive": true, "entities": [{"value": "6394", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 722, "content": "권고사항으로 공용 단말기에 저장된 4529의 즉시 변경이 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "4529", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 723, "content": "수령을 위한 계좌 인증 시 2873을 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "2873", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 724, "content": "시스템 접속을 위한 초기 설정 코드는 9761입니다.", "has_sensitive": true, "entities": [{"value": "9761", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 725, "content": "조건을 검토하던 중 결제 관련 조항에 7485라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "7485", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 726, "content": "폼에서 포인트 사용 시 필요한 기본 인증번호는 5637입니다.", "has_sensitive": true, "entities": [{"value": "5637", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 727, "content": "처리 로그를 확인하니 시스템 자동 승인번호 3894가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3894", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 728, "content": "완료 안내문에는 업데이트 후 재설정할 코드 1726에 대한 상세 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "1726", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 729, "content": "시스템 단말기의 마스터 모드 진입 코드는 8641입니다.", "has_sensitive": true, "entities": [{"value": "8641", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 730, "content": "정산 내역을 보니 법인카드 인증번호 6789로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6789", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 731, "content": "운영 기간 동안 사용할 테스트 핀은 4528로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "4528", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 732, "content": "회수된 직원증에 연결된 마지막 사용 코드가 2916이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "2916", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 733, "content": "수강료 자동이체 등록을 위해 9537을 입력하라는 안내 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "9537", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 734, "content": "완료 통보서에 임시 핀번호 7684가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7684", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 735, "content": "최종 확인을 위해 입력해야 하는 코드는 5742입니다.", "has_sensitive": true, "entities": [{"value": "5742", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 736, "content": "결과 취약하게 설정된 8888을 변경하라는 권고사항이 발표되었습니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 737, "content": "내역을 조회하니 문의하신 거래의 승인 코드가 3916이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3916", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 738, "content": "이용 시 객실 미니바 결제용 핀번호는 1684로 안내드렸습니다.", "has_sensitive": true, "entities": [{"value": "1684", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 739, "content": "시스템 초기 설정값이 6428이라고 운영 매뉴얼에 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6428", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 740, "content": "발급 시 부여되는 사내 편의시설 이용 코드는 4935입니다.", "has_sensitive": true, "entities": [{"value": "4935", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 741, "content": "자료에 결제 시스템 장애 당시 사용된 코드 2847이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2847", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 742, "content": "절차 진행 중 본인 확인을 위해 제시하신 번호가 9572였습니다.", "has_sensitive": true, "entities": [{"value": "9572", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 743, "content": "전용 카드 사용 시 필요한 인증 코드는 7396으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7396", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 744, "content": "계좌 개설 안내와 함께 승인 번호 5841이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "5841", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 745, "content": "시스템 접속을 위해서는 3627을 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "3627", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 746, "content": "조건에 명시된 선급금 지급 승인 코드가 1849입니다.", "has_sensitive": true, "entities": [{"value": "1849", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 747, "content": "기록을 확인하니 어제 긴급 결제 처리 시 8753을 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "8753", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 748, "content": "신청서를 검토하니 초기 핀번호가 6594로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6594", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 749, "content": "접근 권한 승인을 위해 부여된 임시 코드는 4728입니다.", "has_sensitive": true, "entities": [{"value": "4728", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 750, "content": "월 납부액 변경을 위한 인증번호 2936으로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "2936", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 751, "content": "등록된 부서별 공용 코드가 9648이라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "9648", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 752, "content": "따르면 결제 모듈 테스트 시 7531이 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 753, "content": "전용 카드의 보안 코드가 5849로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "5849", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 754, "content": "시스템 관리자 페이지 접속을 위한 기본 핀은 3762입니다.", "has_sensitive": true, "entities": [{"value": "3762", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 755, "content": "정산 과정에서 사용된 승인 코드 1928은 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "1928", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 756, "content": "안내서에 기프트카드 활성화 코드 8674가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8674", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 757, "content": "정리 중 발견한 미승인 거래 건의 입력 번호가 6539였다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "6539", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 758, "content": "따라 지역별 사무소에서 사용할 통합 코드를 4826으로 정했습니다.", "has_sensitive": true, "entities": [{"value": "4826", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 759, "content": "위한 시스템 승인 시 2741을 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "2741", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 760, "content": "모듈 점검 중 테스트 거래에 사용된 핀번호는 9853이었습니다.", "has_sensitive": true, "entities": [{"value": "9853", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 761, "content": "개정으로 새로운 인증 방식에 7468이 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "7468", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 762, "content": "명시된 월 사용료 자동이체 코드가 5729입니다.", "has_sensitive": true, "entities": [{"value": "5729", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 763, "content": "자료에 연습용 가상 결제 시나리오의 핀번호 3846이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3846", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 764, "content": "중 결제 보안 강화 방안으로 기존 1234를 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "1234", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 765, "content": "가입 시 발급되는 임시 인증 코드는 8962입니다.", "has_sensitive": true, "entities": [{"value": "8962", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 766, "content": "리포트에 노출 위험이 있는 코드로 6741이 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "6741", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 767, "content": "충전 시 사용하는 기본 인증번호가 4839로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "4839", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 768, "content": "이후 재설정된 공용 법인카드의 새 핀번호는 2857입니다.", "has_sensitive": true, "entities": [{"value": "2857", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 769, "content": "시스템 로그를 확인하니 9734라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "9734", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 770, "content": "카드 발급 시 설정된 초기 인증 코드는 7629로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7629", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 771, "content": "처리를 위해 입력하신 승인번호 5841로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "5841", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 772, "content": "자료 정리 중 발견된 시스템 접근 코드가 3976이었습니다.", "has_sensitive": true, "entities": [{"value": "3976", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 773, "content": "준비 단계에서 임시로 사용할 결제 코드를 1843으로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "1843", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 774, "content": "결과 분쟁 거래 시 입력된 번호는 8526이었습니다.", "has_sensitive": true, "entities": [{"value": "8526", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 775, "content": "요청 건 처리 과정에서 확인된 고객 인증 코드는 6849입니다.", "has_sensitive": true, "entities": [{"value": "6849", "begin": 32, "end": 36, "label": "PAYMENT_PIN"}]}
+{"id": 776, "content": "보고서에 기재된 최종 정산 승인 시 사용된 핀은 4726이었습니다.", "has_sensitive": true, "entities": [{"value": "4726", "begin": 33, "end": 37, "label": "PAYMENT_PIN"}]}
+{"id": 777, "content": "답례품 배송을 위한 선불카드 활성화 코드가 2938입니다.", "has_sensitive": true, "entities": [{"value": "2938", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 778, "content": "비상시 사용 가능한 마스터 코드 9651이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9651", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 779, "content": "본인 확인을 위해 입력하셨던 번호가 7534라고 합니다.", "has_sensitive": true, "entities": [{"value": "7534", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 780, "content": "계좌의 이체 승인 코드는 5472로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5472", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 781, "content": "리스트에 취약 코드로 분류된 4444의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "4444", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 782, "content": "참여를 위한 인증 절차에서 3819를 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "3819", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 783, "content": "보고 시 사용된 시스템 접근 코드가 1927이었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1927", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 784, "content": "결제를 위해 제공된 핀번호는 8746입니다.", "has_sensitive": true, "entities": [{"value": "8746", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 785, "content": "시스템 도입 후 초기 관리자 설정값이 6593으로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "6593", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 786, "content": "확인해 보니 환불 처리 시 제시하신 코드가 4825였습니다.", "has_sensitive": true, "entities": [{"value": "4825", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 787, "content": "긴급 상황 시 사용할 임시 인증번호 2946이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2946", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 788, "content": "승인 요청서에 첨부된 결제 코드가 9738로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9738", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 789, "content": "따르면 테스트 서버 결제 모듈의 더미 핀은 7524라고 합니다.", "has_sensitive": true, "entities": [{"value": "7524", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 790, "content": "시스템에 등록된 승인 코드는 5839입니다.", "has_sensitive": true, "entities": [{"value": "5839", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 791, "content": "시뮬레이션에서 예시로 사용된 핀번호가 3741이었다고 합니다.", "has_sensitive": true, "entities": [{"value": "3741", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 792, "content": "작업 중 확인된 자동 승인 거래의 코드가 1862로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1862", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 793, "content": "프로그램에서 실습용 결제 시스템의 핀번호는 8647입니다.", "has_sensitive": true, "entities": [{"value": "8647", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 794, "content": "과정에서 재무 담당자가 입력한 인증 코드는 6728이었습니다.", "has_sensitive": true, "entities": [{"value": "6728", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 795, "content": "안내에 따라 새로 배정된 법인카드 코드가 4935로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "4935", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 796, "content": "지급 시 사용된 승인번호가 2849라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "2849", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 797, "content": "테스트 문서에 샘플 코드 9627이 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9627", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 798, "content": "결과 공용 단말기에 저장된 7777이 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 799, "content": "서비스 신청 시 설정하신 핀은 5736입니다.", "has_sensitive": true, "entities": [{"value": "5736", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 800, "content": "임시로 적용된 관리자 인증 코드가 3849라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "3849", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 801, "content": "따르면 지역 사무소 공용 코드를 1748로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "1748", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 802, "content": "진행 중 본인 인증을 위해 제시하신 번호는 8592였습니다.", "has_sensitive": true, "entities": [{"value": "8592", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 803, "content": "최종 대금 지급 승인 시 입력한 코드 6437이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6437", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 804, "content": "위한 선불카드 활성화 번호가 4926입니다.", "has_sensitive": true, "entities": [{"value": "4926", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 805, "content": "상황 시 사용 가능한 코드 2837이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2837", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 806, "content": "절차에서 최종 확인용 핀번호는 9641로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "9641", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 807, "content": "안내문에 신규 포인트 시스템 초기 코드 7528이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7528", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 808, "content": "준비 중 결제 시스템 통계에서 5394라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "5394", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 809, "content": "급여 지급 시스템 접근을 위한 인증 코드는 3716입니다.", "has_sensitive": true, "entities": [{"value": "3716", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 810, "content": "보고서에 환불 승인 시 사용된 번호 1829가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1829", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 811, "content": "카드의 새로운 핀번호는 8746로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "8746", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 812, "content": "결제 테스트 시나리오에 사용할 샘플 코드는 6583입니다.", "has_sensitive": true, "entities": [{"value": "6583", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 813, "content": "마이그레이션 후 임시 설정된 관리자 핀은 4729입니다.", "has_sensitive": true, "entities": [{"value": "4729", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 814, "content": "요청서를 검토하니 승인 코드 2956으로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "2956", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 815, "content": "취약점으로 지적된 코드가 9847이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9847", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 816, "content": "시스템 초기 접근 코드는 7419로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "7419", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 817, "content": "처리 중 확인된 분쟁 거래 인증번호가 5638이었습니다.", "has_sensitive": true, "entities": [{"value": "5638", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 818, "content": "승인 과정에서 입력하신 코드는 3827로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "3827", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 819, "content": "제안서에 결제 시스템 테스트용 핀 1945가 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1945", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 820, "content": "조건에 명시된 샌드박스 환경 접근 코드가 8764입니다.", "has_sensitive": true, "entities": [{"value": "8764", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 821, "content": "지급을 위한 계좌 인증 시 설정하신 번호는 6529입니다.", "has_sensitive": true, "entities": [{"value": "6529", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 822, "content": "따르면 통합 결제 시스템 기본값이 4836으로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 823, "content": "처리 로그를 확인하니 고객 인증 코드 2917로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 824, "content": "시스템의 초기 관리자 핀번호는 9738입니다.", "has_sensitive": true, "entities": [{"value": "9738", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 825, "content": "처리 과정에서 본인 확인을 위해 입력하신 번호가 7652였습니다.", "has_sensitive": true, "entities": [{"value": "7652", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 826, "content": "후 재설정된 결제 모듈 코드가 5481로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "5481", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 827, "content": "집행 승인 시 사용된 인증번호는 3794라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3794", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 828, "content": "조회 결과 환불 요청 시 제시하신 코드가 1826였습니다.", "has_sensitive": true, "entities": [{"value": "1826", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 829, "content": "사례 보고서에 공용으로 사용된 8888이 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "8888", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 830, "content": "가입 시 제공되는 초기 결제 인증 코드는 6749입니다.", "has_sensitive": true, "entities": [{"value": "6749", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 831, "content": "과정에서 임시로 사용할 법인카드 핀을 4925로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "4925", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 832, "content": "지급 시스템 접속을 위한 코드는 2863으로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2863", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 833, "content": "도입 설명회에서 테스트 환경 핀번호 9574가 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "9574", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 834, "content": "자료에 긴급 승인 거래 시 사용된 코드 7638이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7638", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 835, "content": "내역서를 확인하니 승인번호 5829로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "5829", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 836, "content": "방안으로 기존 사용 중이던 3333을 즉시 변경하기로 했습니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 837, "content": "공지에 신규 인증 코드 1749가 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1749", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 838, "content": "수료증 발급 시스템의 기본 핀번호는 8592입니다.", "has_sensitive": true, "entities": [{"value": "8592", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 839, "content": "재배정된 법인카드 코드가 6437로 변경되었다고 통보받았습니다.", "has_sensitive": true, "entities": [{"value": "6437", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 840, "content": "혜택 적용을 위한 인증 절차에서 4729를 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "4729", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 841, "content": "보고서에 대금 지급 승인 코드 2846이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2846", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 842, "content": "처리를 위해 설정하신 계좌 인증번호는 9657입니다.", "has_sensitive": true, "entities": [{"value": "9657", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 843, "content": "공지와 함께 긴급 결제 시스템 코드 7531이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "7531", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 844, "content": "확인서에 최종 승인 시 입력한 핀 5684가 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5684", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 845, "content": "관리 시스템 전환 후 기본 인증 코드는 3926으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "3926", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 846, "content": "보상금 지급 시 사용된 승인번호가 1847라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "1847", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 847, "content": "시스템 접근을 위한 코드는 8739로 배정되었습니다.", "has_sensitive": true, "entities": [{"value": "8739", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 848, "content": "매뉴얼에 환불 승인 시 입력할 번호 6524가 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6524", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 849, "content": "카드의 보안 코드가 4836으로 업데이트되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 850, "content": "개발 가이드에 QA 테스트용 샘플 핀 2917이 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 851, "content": "따라 새로 발급된 접근 코드는 9748입니다.", "has_sensitive": true, "entities": [{"value": "9748", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 852, "content": "작업 후 임시로 설정된 마스터 핀은 7625라고 합니다.", "has_sensitive": true, "entities": [{"value": "7625", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 853, "content": "등록 시 고객님께서 선택하신 보안번호는 5481입니다.", "has_sensitive": true, "entities": [{"value": "5481", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 854, "content": "시스템에 접속하려면 3729를 먼저 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "3729", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 855, "content": "전달된 테스트 계정의 임시 핀번호가 1836이라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1836", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 856, "content": "확인한 결과 분쟁 거래 당시 입력하신 코드는 8594입니다.", "has_sensitive": true, "entities": [{"value": "8594", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 857, "content": "자료에 사내 식당 결제용 카드의 초기 설정값 6427이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6427", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 858, "content": "작업 중 샌드박스 환경에 설정된 기본 코드는 4739입니다.", "has_sensitive": true, "entities": [{"value": "4739", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 859, "content": "검토하니 취약점으로 지적된 핀번호가 2856이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2856", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 860, "content": "처리를 위한 승인 시스템에 등록된 코드는 9637입니다.", "has_sensitive": true, "entities": [{"value": "9637", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 861, "content": "요청 건에 대해 재무팀에서 입력한 인증번호는 7529로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "7529", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 862, "content": "시스템의 관리자 접근 권한을 위해서는 5386을 입력해야 합니다.", "has_sensitive": true, "entities": [{"value": "5386", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 863, "content": "따르면 개발 서버 결제 모듈 테스트 코드가 3841로 변경되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "3841", "begin": 30, "end": 34, "label": "PAYMENT_PIN"}]}
+{"id": 864, "content": "확인한 결과 환불 승인 시 사용된 번호는 1729였습니다.", "has_sensitive": true, "entities": [{"value": "1729", "begin": 28, "end": 32, "label": "PAYMENT_PIN"}]}
+{"id": 865, "content": "시 연결된 선불카드의 초기 핀번호를 8946로 설정해 드렸습니다.", "has_sensitive": true, "entities": [{"value": "8946", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 866, "content": "기재된 긴급 지출 승인 코드가 6537이라고 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "6537", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 867, "content": "시스템 점검 중 마스터 키 4826이 노출된 것으로 발견되었습니다.", "has_sensitive": true, "entities": [{"value": "4826", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 868, "content": "완료 안내문에 임시 인증번호 2917가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 869, "content": "자료를 보니 예산 집행용 코드가 9748로 설정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "9748", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 870, "content": "결과 마지막 거래 인증 코드는 7536이었습니다.", "has_sensitive": true, "entities": [{"value": "7536", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 871, "content": "공용 단말기에 저장된 5555를 즉시 삭제하라는 지시가 내려왔습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 872, "content": "가입 안내서에 고객님이 직접 설정하신 보안 코드 3827이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3827", "begin": 34, "end": 38, "label": "PAYMENT_PIN"}]}
+{"id": 873, "content": "공유된 새 결제 시스템의 테스트 환경 핀은 1946으로 정해졌다고 합니다.", "has_sensitive": true, "entities": [{"value": "1946", "begin": 29, "end": 33, "label": "PAYMENT_PIN"}]}
+{"id": 874, "content": "버전에는 긴급 환불 처리 시 8739를 사용하라고 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8739", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 875, "content": "로그인하려면 인증 코드 6428을 입력 후 OTP 인증을 완료하세요.", "has_sensitive": true, "entities": [{"value": "6428", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 876, "content": "매뉴얼이 업데이트되면서 새로운 핀번호 4937로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "4937", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 877, "content": "보고서에 보안 취약 코드 2846이 여전히 사용 중이라고 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2846", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 878, "content": "함께 전달된 사내 복지 포인트 초기 인증번호는 9528입니다.", "has_sensitive": true, "entities": [{"value": "9528", "begin": 31, "end": 35, "label": "PAYMENT_PIN"}]}
+{"id": 879, "content": "처리 안내에서 고객님이 입력하신 코드 7642로 완료되었습니다.", "has_sensitive": true, "entities": [{"value": "7642", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 880, "content": "절대 사용하면 안 되는 위험한 예시로 6666이 제시되었습니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 881, "content": "문서를 검토하니 승인 코드 5381가 회계 기록과 일치합니다.", "has_sensitive": true, "entities": [{"value": "5381", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 882, "content": "메일에는 임시 시스템 운영용 핀번호 4729가 안내되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4729", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 883, "content": "초기화된 관리자 계정의 기본 인증 코드는 3826으로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "3826", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 884, "content": "간편결제 재등록을 위해 2937을 입력하라는 안내가 있습니다.", "has_sensitive": true, "entities": [{"value": "2937", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 885, "content": "항으로 공용 단말기에 저장된 1846의 즉시 변경이 요구되었습니다.", "has_sensitive": true, "entities": [{"value": "1846", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 886, "content": "위한 계좌 인증 시 9573을 입력하시면 자동으로 처리됩니다.", "has_sensitive": true, "entities": [{"value": "9573", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 887, "content": "접속을 위한 초기 설정 코드는 8641로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8641", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 888, "content": "검토하던 중 결제 관련 조항에 7538이라는 승인 코드가 포함되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "7538", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 889, "content": "포인트 사용 시 필요한 기본 인증번호는 6429입니다.", "has_sensitive": true, "entities": [{"value": "6429", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 890, "content": "로그를 확인하니 시스템 자동 승인번호 5283이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5283", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 891, "content": "안내문에는 업데이트 후 재설정할 코드 4826에 대한 상세 설명이 있습니다.", "has_sensitive": true, "entities": [{"value": "4826", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 892, "content": "단말기의 마스터 모드 진입 코드는 3917입니다.", "has_sensitive": true, "entities": [{"value": "3917", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 893, "content": "내역을 보니 법인카드 인증번호 2845로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "2845", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 894, "content": "기간 동안 사용할 테스트 핀은 1938로 지정되었습니다.", "has_sensitive": true, "entities": [{"value": "1938", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 895, "content": "직원증에 연결된 마지막 사용 코드가 9647이었다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "9647", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 896, "content": "자동이체 등록을 위해 8529를 입력하라는 안내 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "8529", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 897, "content": "통보서에 임시 핀번호 7436이 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7436", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 898, "content": "확인을 위해 입력해야 하는 코드는 6528입니다.", "has_sensitive": true, "entities": [{"value": "6528", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 899, "content": "취약하게 설정된 2222를 변경하라는 권고사항이 발표되었습니다.", "has_sensitive": true, "entities": [{"value": "2222", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 900, "content": "조회하니 문의하신 거래의 승인 코드가 5384였다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5384", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 901, "content": "객실 미니바 결제용 핀번호는 4729로 안내드렸습니다.", "has_sensitive": true, "entities": [{"value": "4729", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 902, "content": "초기 설정값이 3826이라고 운영 매뉴얼에 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "3826", "begin": 9, "end": 13, "label": "PAYMENT_PIN"}]}
+{"id": 903, "content": "부여되는 사내 편의시설 이용 코드는 2917입니다.", "has_sensitive": true, "entities": [{"value": "2917", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 904, "content": "결제 시스템 장애 당시 사용된 코드 1846이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "1846", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 905, "content": "중 본인 확인을 위해 제시하신 번호가 9537였습니다.", "has_sensitive": true, "entities": [{"value": "9537", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 906, "content": "사용 시 필요한 인증 코드는 8642로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8642", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 907, "content": "개설 안내와 함께 승인 번호 7538이 전달되었습니다.", "has_sensitive": true, "entities": [{"value": "7538", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 908, "content": "접속을 위해서는 6429를 입력하셔야 합니다.", "has_sensitive": true, "entities": [{"value": "6429", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 909, "content": "명시된 선급금 지급 승인 코드가 5281입니다.", "has_sensitive": true, "entities": [{"value": "5281", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 910, "content": "확인하니 어제 긴급 결제 처리 시 4836을 사용했다고 합니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 911, "content": "검토하니 초기 핀번호가 3729로 지정되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "3729", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 912, "content": "권한 승인을 위해 부여된 임시 코드는 2946입니다.", "has_sensitive": true, "entities": [{"value": "2946", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 913, "content": "변경을 위한 인증번호 1857로 처리가 진행되었습니다.", "has_sensitive": true, "entities": [{"value": "1857", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 914, "content": "부서별 공용 코드가 9628이라고 회계팀에서 안내했습니다.", "has_sensitive": true, "entities": [{"value": "9628", "begin": 12, "end": 16, "label": "PAYMENT_PIN"}]}
+{"id": 915, "content": "결제 모듈 테스트 시 8746이 입력되었다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8746", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 916, "content": "카드의 보안 코드가 7539로 재설정되었다는 공지를 받았습니다.", "has_sensitive": true, "entities": [{"value": "7539", "begin": 12, "end": 16, "label": "PAYMENT_PIN"}]}
+{"id": 917, "content": "관리자 페이지 접속을 위한 기본 핀은 6428입니다.", "has_sensitive": true, "entities": [{"value": "6428", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 918, "content": "과정에서 사용된 승인 코드 5391은 본사 시스템에 자동 기록됩니다.", "has_sensitive": true, "entities": [{"value": "5391", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 919, "content": "기프트카드 활성화 코드 4827이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4827", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 920, "content": "발견한 미승인 거래 건의 입력 번호가 3926였다고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "3926", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 921, "content": "지역별 사무소에서 사용할 통합 코드를 2847로 정했습니다.", "has_sensitive": true, "entities": [{"value": "2847", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 922, "content": "시스템 승인 시 1935를 입력하라는 메일을 받았습니다.", "has_sensitive": true, "entities": [{"value": "1935", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 923, "content": "점검 중 테스트 거래에 사용된 핀번호는 9746이었습니다.", "has_sensitive": true, "entities": [{"value": "9746", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 924, "content": "새로운 인증 방식에 8534가 기본값으로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "8534", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 925, "content": "월 사용료 자동이체 코드가 7629입니다.", "has_sensitive": true, "entities": [{"value": "7629", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 926, "content": "연습용 가상 결제 시나리오의 핀번호 6538이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "6538", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 927, "content": "보안 강화 방안으로 기존 5555를 폐기하기로 결정했습니다.", "has_sensitive": true, "entities": [{"value": "5555", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 928, "content": "발급되는 임시 인증 코드는 4829입니다.", "has_sensitive": true, "entities": [{"value": "4829", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 929, "content": "노출 위험이 있는 코드로 3746이 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "3746", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 930, "content": "사용하는 기본 인증번호가 2938로 안내되었습니다.", "has_sensitive": true, "entities": [{"value": "2938", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 931, "content": "재설정된 공용 법인카드의 새 핀번호는 1847입니다.", "has_sensitive": true, "entities": [{"value": "1847", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 932, "content": "로그를 확인하니 9629라는 코드로 처리된 내역이 있습니다.", "has_sensitive": true, "entities": [{"value": "9629", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 933, "content": "발급 시 설정된 초기 인증 코드는 8537로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8537", "begin": 22, "end": 26, "label": "PAYMENT_PIN"}]}
+{"id": 934, "content": "입력하신 승인번호 7428로 확인되었습니다.", "has_sensitive": true, "entities": [{"value": "7428", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 935, "content": "중 발견된 시스템 접근 코드가 6539였습니다.", "has_sensitive": true, "entities": [{"value": "6539", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 936, "content": "임시로 사용할 결제 코드를 5482로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 18, "end": 22, "label": "PAYMENT_PIN"}]}
+{"id": 937, "content": "거래 시 입력된 번호는 4836이었습니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 938, "content": "처리 과정에서 확인된 고객 인증 코드는 3729입니다.", "has_sensitive": true, "entities": [{"value": "3729", "begin": 26, "end": 30, "label": "PAYMENT_PIN"}]}
+{"id": 939, "content": "기재된 최종 정산 승인 시 사용된 핀은 2947이었습니다.", "has_sensitive": true, "entities": [{"value": "2947", "begin": 27, "end": 31, "label": "PAYMENT_PIN"}]}
+{"id": 940, "content": "배송을 위한 선불카드 활성화 코드가 1836입니다.", "has_sensitive": true, "entities": [{"value": "1836", "begin": 23, "end": 27, "label": "PAYMENT_PIN"}]}
+{"id": 941, "content": "사용 가능한 마스터 코드 9528이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9528", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 942, "content": "확인을 위해 입력하셨던 번호가 8639라고 합니다.", "has_sensitive": true, "entities": [{"value": "8639", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 943, "content": "이체 승인 코드는 7541로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7541", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 944, "content": "취약 코드로 분류된 6666의 변경이 권고되었습니다.", "has_sensitive": true, "entities": [{"value": "6666", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 945, "content": "인증 절차에서 5428을 입력하셨습니다.", "has_sensitive": true, "entities": [{"value": "5428", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 946, "content": "사용된 시스템 접근 코드가 4739였다고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4739", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 947, "content": "제공된 핀번호는 3826입니다.", "has_sensitive": true, "entities": [{"value": "3826", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 948, "content": "초기 관리자 설정값이 2957로 되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "2957", "begin": 13, "end": 17, "label": "PAYMENT_PIN"}]}
+{"id": 949, "content": "환불 처리 시 제시하신 코드가 1846이었습니다.", "has_sensitive": true, "entities": [{"value": "1846", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 950, "content": "상황 시 사용할 임시 인증번호 9637이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9637", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 951, "content": "요청서에 첨부된 결제 코드가 8542로 확인됩니다.", "has_sensitive": true, "entities": [{"value": "8542", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 952, "content": "테스트 서버 결제 모듈의 더미 핀은 7639라고 합니다.", "has_sensitive": true, "entities": [{"value": "7639", "begin": 24, "end": 28, "label": "PAYMENT_PIN"}]}
+{"id": 953, "content": "등록된 승인 코드는 6541입니다.", "has_sensitive": true, "entities": [{"value": "6541", "begin": 12, "end": 16, "label": "PAYMENT_PIN"}]}
+{"id": 954, "content": "예시로 사용된 핀번호가 5483이었다고 합니다.", "has_sensitive": true, "entities": [{"value": "5483", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 955, "content": "확인된 자동 승인 거래의 코드가 4829로 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4829", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 956, "content": "실습용 결제 시스템의 핀번호는 3746입니다.", "has_sensitive": true, "entities": [{"value": "3746", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 957, "content": "재무 담당자가 입력한 인증 코드는 2938이었습니다.", "has_sensitive": true, "entities": [{"value": "2938", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 958, "content": "새로 배정된 법인카드 코드가 1847로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "1847", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 959, "content": "사용된 승인번호가 9628이라고 회계 기록에 남아 있습니다.", "has_sensitive": true, "entities": [{"value": "9628", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 960, "content": "샘플 코드 8537이 예시로 제시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8537", "begin": 6, "end": 10, "label": "PAYMENT_PIN"}]}
+{"id": 961, "content": "공용 단말기에 저장된 7777이 보안 위험 요소로 지적되었습니다.", "has_sensitive": true, "entities": [{"value": "7777", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 962, "content": "신청 시 설정하신 핀은 6429입니다.", "has_sensitive": true, "entities": [{"value": "6429", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 963, "content": "적용된 관리자 인증 코드가 5482라고 확인됩니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 964, "content": "지역 사무소 공용 코드를 4836으로 통일한다고 합니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 965, "content": "본인 인증을 위해 제시하신 번호는 3729였습니다.", "has_sensitive": true, "entities": [{"value": "3729", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 966, "content": "대금 지급 승인 시 입력한 코드 2946이 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "2946", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 967, "content": "선불카드 활성화 번호가 1837입니다.", "has_sensitive": true, "entities": [{"value": "1837", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 968, "content": "사용 가능한 코드 9528이 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9528", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 969, "content": "최종 확인용 핀번호는 8639로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "8639", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 970, "content": "신규 포인트 시스템 초기 코드 7541이 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7541", "begin": 20, "end": 24, "label": "PAYMENT_PIN"}]}
+{"id": 971, "content": "결제 시스템 통계에서 6542라는 코드를 발견했습니다.", "has_sensitive": true, "entities": [{"value": "6542", "begin": 15, "end": 19, "label": "PAYMENT_PIN"}]}
+{"id": 972, "content": "시스템 접근을 위한 인증 코드는 5483입니다.", "has_sensitive": true, "entities": [{"value": "5483", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 973, "content": "환불 승인 시 사용된 번호 4829가 기재되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4829", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 974, "content": "새로운 핀번호는 3746으로 재설정되었습니다.", "has_sensitive": true, "entities": [{"value": "3746", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 975, "content": "테스트 시나리오에 사용할 샘플 코드는 2938입니다.", "has_sensitive": true, "entities": [{"value": "2938", "begin": 25, "end": 29, "label": "PAYMENT_PIN"}]}
+{"id": 976, "content": "임시 설정된 관리자 핀은 1846입니다.", "has_sensitive": true, "entities": [{"value": "1846", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 977, "content": "승인 코드 9628로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "9628", "begin": 6, "end": 10, "label": "PAYMENT_PIN"}]}
+{"id": 978, "content": "취약점으로 지적된 코드가 8537이라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "8537", "begin": 16, "end": 20, "label": "PAYMENT_PIN"}]}
+{"id": 979, "content": "초기 접근 코드는 7429로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "7429", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 980, "content": "확인된 분쟁 거래 인증번호가 6538이었습니다.", "has_sensitive": true, "entities": [{"value": "6538", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 981, "content": "입력하신 코드는 5482로 기록되었습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 982, "content": "시스템 테스트용 핀 4839가 언급되어 있습니다.", "has_sensitive": true, "entities": [{"value": "4839", "begin": 12, "end": 16, "label": "PAYMENT_PIN"}]}
+{"id": 983, "content": "샌드박스 환경 접근 코드가 3746입니다.", "has_sensitive": true, "entities": [{"value": "3746", "begin": 17, "end": 21, "label": "PAYMENT_PIN"}]}
+{"id": 984, "content": "계좌 인증 시 설정하신 번호는 2937입니다.", "has_sensitive": true, "entities": [{"value": "2937", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 985, "content": "결제 시스템 기본값이 1836으로 설정되어 있다고 합니다.", "has_sensitive": true, "entities": [{"value": "1836", "begin": 14, "end": 18, "label": "PAYMENT_PIN"}]}
+{"id": 986, "content": "고객 인증 코드 9528로 접근한 기록이 있습니다.", "has_sensitive": true, "entities": [{"value": "9528", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 987, "content": "관리자 핀번호는 8639입니다.", "has_sensitive": true, "entities": [{"value": "8639", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 988, "content": "본인 확인을 위해 입력하신 번호가 7541였습니다.", "has_sensitive": true, "entities": [{"value": "7541", "begin": 21, "end": 25, "label": "PAYMENT_PIN"}]}
+{"id": 989, "content": "결제 모듈 코드가 6429로 변경되었습니다.", "has_sensitive": true, "entities": [{"value": "6429", "begin": 12, "end": 16, "label": "PAYMENT_PIN"}]}
+{"id": 990, "content": "인증번호는 5482라고 기록되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 7, "end": 11, "label": "PAYMENT_PIN"}]}
+{"id": 991, "content": "환불 요청 시 제시하신 코드가 4836이었습니다.", "has_sensitive": true, "entities": [{"value": "4836", "begin": 19, "end": 23, "label": "PAYMENT_PIN"}]}
+{"id": 992, "content": "공용으로 사용된 3333이 적발되었다고 합니다.", "has_sensitive": true, "entities": [{"value": "3333", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 993, "content": "결제 인증 코드는 2946입니다.", "has_sensitive": true, "entities": [{"value": "2946", "begin": 11, "end": 15, "label": "PAYMENT_PIN"}]}
+{"id": 994, "content": "법인카드 핀을 1837로 지정했습니다.", "has_sensitive": true, "entities": [{"value": "1837", "begin": 10, "end": 14, "label": "PAYMENT_PIN"}]}
+{"id": 995, "content": "접속 코드는 9628로 설정되어 있습니다.", "has_sensitive": true, "entities": [{"value": "9628", "begin": 9, "end": 13, "label": "PAYMENT_PIN"}]}
+{"id": 996, "content": "핀번호 8537이 공유되었습니다.", "has_sensitive": true, "entities": [{"value": "8537", "begin": 4, "end": 8, "label": "PAYMENT_PIN"}]}
+{"id": 997, "content": "코드 7429가 포함되어 있습니다.", "has_sensitive": true, "entities": [{"value": "7429", "begin": 3, "end": 7, "label": "PAYMENT_PIN"}]}
+{"id": 998, "content": "승인번호 6538로 처리되어 있었습니다.", "has_sensitive": true, "entities": [{"value": "6538", "begin": 5, "end": 9, "label": "PAYMENT_PIN"}]}
+{"id": 999, "content": "인증 코드가 5482라고 명시되어 있습니다.", "has_sensitive": true, "entities": [{"value": "5482", "begin": 8, "end": 12, "label": "PAYMENT_PIN"}]}
+{"id": 1000, "content": "핀은 4839로 설정되었습니다.", "has_sensitive": true, "entities": [{"value": "4839", "begin": 3, "end": 7, "label": "PAYMENT_PIN"}]}
